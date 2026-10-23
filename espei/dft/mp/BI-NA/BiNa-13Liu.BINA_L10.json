@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "NA"
+  "NA",
+  "VA"
  ],
  "phases": [
   "BINA_L10"

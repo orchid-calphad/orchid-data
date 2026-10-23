@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "GA2MG5_D8G",
@@ -12,33 +13,12 @@
  "conditions": {
   "P": 101325,
   "T": [
-   743.0,
    725.0,
    646.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA2MG5_D8G",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -105,16 +85,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LP64WTITZI ORC-KNGP2SJKUN ORC-IHTBN4W3I7",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KNGP2SJKUN ORC-IHTBN4W3I7",
  "bibtex": "feng2009_b8bb03",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-LP64WTITZI",
-    "paper": "doi:10.1016/j.jallcom.2009.07.010"
-   },
    {
     "id": "ORC-KNGP2SJKUN",
     "paper": "doi:10.1016/j.jallcom.2009.07.010"
@@ -130,15 +106,12 @@
   "dois": [
    "10.1016/j.jallcom.2009.07.010"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GaMg-09Fen/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/GaMg-09Fen/zpf-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

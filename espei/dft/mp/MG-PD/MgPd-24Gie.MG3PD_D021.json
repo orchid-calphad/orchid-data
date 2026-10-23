@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "MG3PD_D021"

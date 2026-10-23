@@ -8,6 +8,10 @@
 - `dft/<literature|mp|oqmd>/<SYS>/<TDB stem>.<PHASE>.json`: DFT formation enthalpies of endmembers of one phase of one
   TDB file (`solver` datasets, output `HM_FORM`, T = 298.15 K, P = 101325 Pa).
 - `dft/CALIBRATION.json|md`: DFT sigma calibration.
+- Optional phase constraints (ZPF; tagged; never mixed with measured data): `derived/invariant-brackets/<SYS>/<TDB>.<file>.json`
+  (one per source invariant dataset, same phase names), `derived/liquid-stability/<SYS>/<TDB>.liquid-stability.json`,
+  `assessed/<SYS>/<TDB>.<DIAGRAM>.json` (assessed-phase-assemblages in that TDB's phase names).
+- `UPSTREAM_CORRECTIONS.md`: literature records the export had to differ from (reference states, rows read twice).
 
 ## Dataset files (ESPEI 0.9.1 format)
 
@@ -31,6 +35,14 @@ from `values` and the matching `conditions` entries.
 | `orchid_value_bases` | ZPF from ranges / central values: how a temperature was derived, keyed by ORCHID id |
 | `orchid_model_evidence` | model datasets: `tdb` (name, path, SHA-256, catalog entry), `link_basis`, `model_citation`, `model_reproduction` |
 | `orchid_uncertainty` | see below |
+| `orchid_reference_state` | activities (E5): `element`, `phase` written, `basis` (`printed` / `not_printed_implied`), `quote`, `where`, `record_reference_state_agrees`, `written_before_audit` |
+| `orchid_weight_floor` | experimental thermochemical data (E6, optional): `suggested_weight` = min(weight, 1), `weight_written`, `changes_weight`, `sigma_floor` (+ unit), `rule` |
+| `orchid_zpf_encoding` | ZPF (E2): number of line-compound vertices written with composition null, hyperplanes added, rule |
+| `orchid.observations[i].also_reported_as` | E3: the same ZPF region from other datasets (`id`, `paper`, `measured_in`, `dataset`) |
+| `orchid.observations[i].also_read_as` | E4: ids of the same printed row read again (not written as separate values) |
+| `orchid.points` (derived brackets) | per point: `source_observation`, `side` (above/below), `T_invariant_K`, `offset_K`, `T_sigma_K`, `T_sigma_basis`, `x0`, `hyperplane_delta`, `reaction_printed`, `reaction_type`, `phases_above`, `phases_below` |
+| `orchid.basis` (liquid stability) | `T_liq_max_K` and the temperatures it was taken from |
+| `orchid.record_ids`, `orchid.confidence` (assessed) | assessed-phase-assemblages record id and confidence per point; `target_tdb`, `points_left_out` |
 
 ## Uncertainties (`orchid_uncertainty`)
 
@@ -65,4 +77,6 @@ calibrated sigmas), `sigma_basis_counts`, `dft_calibration_stratum`, `tdb`, `tdb
 
 `espei_version`; `folders` (files and datasets loaded per folder); `invalid_final` (empty); `excluded` (rejected by
 ESPEI, with reason code); `dropped_datasets`; `dropped_values`; `dft_excluded` (compound or compound x TDB model, with
-reason); `summary`.
+reason); `fixes` (E1-E6 counts, E3 merges, E5 audit per activity dataset); `upstream_corrections`; `phase_constraints`;
+`summary`. index.json / index.csv also list the phase-constraint datasets (`evidence_class` `derived` or
+`assessed_phase_diagram`); `totals.datasets` / `totals.values` count the literature and DFT datasets only.

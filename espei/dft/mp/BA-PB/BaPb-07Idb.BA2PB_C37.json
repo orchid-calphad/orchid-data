@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "BA2PB_C37"

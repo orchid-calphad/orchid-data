@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -11,41 +12,11 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1450.0,
    1106.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "GA"
-    ],
-    [
-     0.51
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "GA"
-    ],
-    [
-     0.33
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "GA"
-    ],
-    [
-     0.36
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -83,16 +54,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VZGOVUAXK3 ORC-DS3W366XFQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DS3W366XFQ",
  "bibtex": "chari2010_125166",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-VZGOVUAXK3",
-    "paper": "doi:10.1016/j.calphad.2010.02.004"
-   },
    {
     "id": "ORC-DS3W366XFQ",
     "paper": "doi:10.1016/j.calphad.2010.02.004"
@@ -104,15 +71,12 @@
   "dois": [
    "10.1016/j.calphad.2010.02.004"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

@@ -1,6 +1,7 @@
 {
  "components": [
   "NI",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -11,14 +12,9 @@
   "T": 298.15,
   "X_YB": [
    0.105263,
-   0.105263,
-   0.166667,
    0.166667,
    0.25,
-   0.25,
    0.333333,
-   0.333333,
-   0.5,
    0.5
   ]
  },
@@ -27,14 +23,9 @@
   [
    [
     33.33,
-    33.33,
-    33.5,
     33.5,
     33.98,
-    33.98,
     36.47,
-    36.47,
-    42.43,
     42.43
    ]
   ]
@@ -47,7 +38,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4KUVCAKG6H.643e23 ORC-4KUVCAKG6H.07d5a1 ORC-MDOIEI5HRY.bea123 ORC-MDOIEI5HRY.1e839f ORC-D5A4A6APNW.16a128 ORC-D5A4A6APNW.0ff563 ORC-YMDZIWYML2.3ad14e ORC-YMDZIWYML2.5c9459 ORC-A6SF6ZB2GP.4f7281 ORC-A6SF6ZB2GP.e7e2c1",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4KUVCAKG6H.643e23 ORC-MDOIEI5HRY.bea123 ORC-D5A4A6APNW.16a128 ORC-YMDZIWYML2.3ad14e ORC-A6SF6ZB2GP.4f7281",
  "reference_states": {
   "NI": {
    "phase": "FCC_A1",
@@ -96,61 +87,46 @@
     "id": "ORC-4KUVCAKG6H.643e23",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-4KUVCAKG6H.07d5a1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
+    "measured_in": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-4KUVCAKG6H.07d5a1"
+    ]
    },
    {
     "id": "ORC-MDOIEI5HRY.bea123",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-MDOIEI5HRY.1e839f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
+    "measured_in": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-MDOIEI5HRY.1e839f"
+    ]
    },
    {
     "id": "ORC-D5A4A6APNW.16a128",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-D5A4A6APNW.0ff563",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
+    "measured_in": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-D5A4A6APNW.0ff563"
+    ]
    },
    {
     "id": "ORC-YMDZIWYML2.3ad14e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-YMDZIWYML2.5c9459",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
+    "measured_in": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-YMDZIWYML2.5c9459"
+    ]
    },
    {
     "id": "ORC-A6SF6ZB2GP.4f7281",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-A6SF6ZB2GP.e7e2c1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3",
-    "measured_in": "doi:10.1007/s10973-016-5380-3"
+    "measured_in": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-A6SF6ZB2GP.e7e2c1"
+    ]
    }
   ],
   "papers": [
@@ -159,7 +135,8 @@
   "dois": [
    "10.1007/s10973-016-5380-3"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/NiYb-16Kar/smr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/NiYb-16Kar/smr-model-01.json",
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -169,31 +146,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

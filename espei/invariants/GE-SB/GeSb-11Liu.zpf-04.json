@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",

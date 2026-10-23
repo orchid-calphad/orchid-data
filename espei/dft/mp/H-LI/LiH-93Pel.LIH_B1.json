@@ -1,7 +1,8 @@
 {
  "components": [
   "H",
-  "LI"
+  "LI",
+  "VA"
  ],
  "phases": [
   "LIH_B1"

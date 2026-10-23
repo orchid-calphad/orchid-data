@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "DY"
+  "DY",
+  "VA"
  ],
  "phases": [
   "AGDY_B2"

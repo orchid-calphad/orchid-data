@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "ALTH2_C16"

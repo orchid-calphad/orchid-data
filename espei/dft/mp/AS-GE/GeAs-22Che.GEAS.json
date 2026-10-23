@@ -1,7 +1,8 @@
 {
  "components": [
   "AS",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "GEAS"

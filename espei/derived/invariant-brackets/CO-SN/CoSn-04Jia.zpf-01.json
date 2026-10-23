@@ -1,0 +1,260 @@
+{
+ "components": [
+  "CO",
+  "SN",
+  "VA"
+ ],
+ "phases": [
+  "CO3SN2_B82",
+  "COSN2_C16",
+  "COSN_B35",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1249.15,
+   1229.15,
+   833.15,
+   813.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO3SN2_B82",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "COSN_B35",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COSN_B35",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "COSN2_C16",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cömert 1992, doi:10.1007/bf02658043",
+ "bibtex": "comert1992_477f3b",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-SN/CoSn-04Jia.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-36KNGZ6XM2 ORC-S2PJREDVUH",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CO-SN/CoSn-04Jia.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-S2PJREDVUH",
+    "side": "above",
+    "T_invariant_K": 1239.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βCo3Sn2 -> CoSn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CO3SN2_B82"
+    ],
+    "phases_below": [
+     "COSN_B35"
+    ]
+   },
+   {
+    "source_observation": "ORC-S2PJREDVUH",
+    "side": "below",
+    "T_invariant_K": 1239.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βCo3Sn2 -> CoSn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CO3SN2_B82"
+    ],
+    "phases_below": [
+     "COSN_B35"
+    ]
+   },
+   {
+    "source_observation": "ORC-36KNGZ6XM2",
+    "side": "above",
+    "T_invariant_K": 823.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CoSn -> CoSn2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "COSN_B35"
+    ],
+    "phases_below": [
+     "COSN2_C16"
+    ]
+   },
+   {
+    "source_observation": "ORC-36KNGZ6XM2",
+    "side": "below",
+    "T_invariant_K": 823.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CoSn -> CoSn2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "COSN_B35"
+    ],
+    "phases_below": [
+     "COSN2_C16"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/bf02658043",
+   "10.1016/j.calphad.2004.08.001"
+  ],
+  "papers": [
+   "doi:10.1007/bf02658043",
+   "doi:10.1016/j.calphad.2004.08.001"
+  ]
+ }
+}

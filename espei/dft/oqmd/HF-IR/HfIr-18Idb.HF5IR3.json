@@ -1,7 +1,8 @@
 {
  "components": [
   "HF",
-  "IR"
+  "IR",
+  "VA"
  ],
  "phases": [
   "HF5IR3"

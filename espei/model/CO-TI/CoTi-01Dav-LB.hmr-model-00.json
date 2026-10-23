@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "L12_FCC",

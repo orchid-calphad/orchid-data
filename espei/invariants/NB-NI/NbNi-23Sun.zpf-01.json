@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -14,7 +15,6 @@
   "P": 101325,
   "T": [
    1555,
-   1675,
    1448,
    1568
   ]
@@ -47,26 +47,6 @@
     ],
     [
      0.774
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     0.75
-    ]
-   ],
-   [
-    "NBNI3_D0A",
-    [
-     "NI"
-    ],
-    [
-     0.75
     ]
    ]
   ],
@@ -136,7 +116,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JEZHJXTUKT ORC-XEGEKFKNCD ORC-TZ2NK2AG5X ORC-AUPHKDPRSU",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JEZHJXTUKT ORC-TZ2NK2AG5X ORC-AUPHKDPRSU",
  "bibtex": "duerden1966_d07ddf",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -144,11 +124,6 @@
   "observations": [
    {
     "id": "ORC-JEZHJXTUKT",
-    "paper": "doi:10.1016/j.calphad.2023.102563",
-    "measured_in": "doi:10.1016/0022-5088(66)90083-x"
-   },
-   {
-    "id": "ORC-XEGEKFKNCD",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1016/0022-5088(66)90083-x"
    },
@@ -171,15 +146,12 @@
    "10.1016/0022-5088(66)90083-x",
    "10.1016/j.calphad.2023.102563"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbNi-23Sun/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-23Sun/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

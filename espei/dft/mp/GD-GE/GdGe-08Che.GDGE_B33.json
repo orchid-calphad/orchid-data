@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "GDGE_B33"

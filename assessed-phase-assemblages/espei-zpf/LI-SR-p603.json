@@ -243,6 +243,10 @@
  ],
  "reference": "C.W. Bale and A.D. Pelton, Bull. Alloy Phase Diagrams, 10(3), 278-280 (1989) doi:10.1007/bf02877514; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 603",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LI-SR-p603; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "LI-SR-p603",

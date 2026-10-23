@@ -1,7 +1,8 @@
 {
  "components": [
   "CA",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "CA5SN3_D8L"

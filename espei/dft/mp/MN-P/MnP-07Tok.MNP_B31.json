@@ -1,7 +1,8 @@
 {
  "components": [
   "MN",
-  "P"
+  "P",
+  "VA"
  ],
  "phases": [
   "MNP_B31"

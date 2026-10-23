@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "INNI_B35"

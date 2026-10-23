@@ -1,0 +1,79 @@
+{
+ "components": [
+  "CR",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CR3PT_A15",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1556.110248,
+   809.6102478,
+   2112.110248
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "PT"
+    ],
+    [
+     0.02124099955
+    ]
+   ]
+  ],
+  [
+   [
+    "CR3PT_A15",
+    [
+     "PT"
+    ],
+    [
+     0.3781250856
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.4577107373
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 30(3), 295-296 (2009) doi:10.1007/s11669-009-9507-0; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 332",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-PT-p332; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CrPt-09Pre.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-PT-p332",
+  "target_tdb": "CrPt-09Pre.tdb",
+  "record_ids": [
+   "aspa-86360281045f40d1",
+   "aspa-4c058d90e204b0b4",
+   "aspa-e44c87bfc37db830"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 5,
+  "source": "assessed-phase-assemblages/espei-zpf/CR-PT-p332.json"
+ }
+}

@@ -1,7 +1,8 @@
 {
  "components": [
   "BE",
-  "C"
+  "C",
+  "VA"
  ],
  "phases": [
   "BE2C_C1"

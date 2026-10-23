@@ -119,7 +119,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -128,7 +128,16 @@
      "SI"
     ],
     [
-     0.286
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.2685071124
     ]
    ]
   ],
@@ -139,7 +148,7 @@
      "SI"
     ],
     [
-     0.286
+     null
     ]
    ],
    [
@@ -148,7 +157,16 @@
      "SI"
     ],
     [
-     0.32
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3035448208
     ]
    ]
   ],
@@ -159,7 +177,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -168,7 +186,16 @@
      "SI"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3265696005
     ]
    ]
   ],
@@ -208,7 +235,7 @@
      "SI"
     ],
     [
-     0.455
+     null
     ]
    ],
    [
@@ -217,7 +244,16 @@
      "SI"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4772317462
     ]
    ]
   ],
@@ -228,7 +264,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -248,7 +284,7 @@
      "SI"
     ],
     [
-     0.219
+     null
     ]
    ],
    [
@@ -257,7 +293,16 @@
      "SI"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.2349710202
     ]
    ]
   ],
@@ -268,7 +313,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -277,7 +322,16 @@
      "SI"
     ],
     [
-     0.286
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.2675060351
     ]
    ]
   ],
@@ -288,7 +342,7 @@
      "SI"
     ],
     [
-     0.219
+     null
     ]
    ],
    [
@@ -297,7 +351,16 @@
      "SI"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.2344704815
     ]
    ]
   ],
@@ -308,7 +371,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -317,7 +380,16 @@
      "SI"
     ],
     [
-     0.286
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.2680065738
     ]
    ]
   ],
@@ -328,7 +400,7 @@
      "SI"
     ],
     [
-     0.286
+     null
     ]
    ],
    [
@@ -337,7 +409,16 @@
      "SI"
     ],
     [
-     0.32
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3025437434
     ]
    ]
   ],
@@ -348,7 +429,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -357,7 +438,16 @@
      "SI"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3265696005
     ]
    ]
   ],
@@ -397,7 +487,7 @@
      "SI"
     ],
     [
-     0.286
+     null
     ]
    ],
    [
@@ -406,7 +496,16 @@
      "SI"
     ],
     [
-     0.32
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3030442821
     ]
    ]
   ],
@@ -417,7 +516,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -426,7 +525,16 @@
      "SI"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3270701392
     ]
    ]
   ],
@@ -466,7 +574,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -633,7 +741,7 @@
      "SI"
     ],
     [
-     0.455
+     null
     ]
    ]
   ],
@@ -698,6 +806,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 18(2), 226 (1997) doi:10.1007/bf02665717; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 750",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram PT-SI-p750; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "PT-SI-p750",

@@ -59,7 +59,7 @@
      "PU"
     ],
     [
-     0.143
+     null
     ]
    ]
   ],
@@ -70,7 +70,7 @@
      "PU"
     ],
     [
-     0.143
+     null
     ]
    ],
    [
@@ -79,7 +79,16 @@
      "PU"
     ],
     [
-     0.191
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.1632207853
     ]
    ]
   ],
@@ -90,7 +99,7 @@
      "PU"
     ],
     [
-     0.191
+     null
     ]
    ],
    [
@@ -99,7 +108,16 @@
      "PU"
     ],
     [
-     0.2
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.1932213264
     ]
    ]
   ],
@@ -110,7 +128,7 @@
      "PU"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -119,7 +137,16 @@
      "PU"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.2667226523
     ]
    ]
   ],
@@ -130,7 +157,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -179,7 +206,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -199,7 +226,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -219,7 +246,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -239,7 +266,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -270,7 +297,7 @@
      "PU"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -301,7 +328,7 @@
      "PU"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -379,7 +406,7 @@
      "PU"
     ],
     [
-     0.143
+     null
     ]
    ]
   ],
@@ -444,6 +471,11 @@
  ],
  "reference": "P.R. Subramanian and D.E. Laughlin, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian and D.E. Laughlin, ed., ASM International, Materials Park, OH, 338-340 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 362",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-PU-p362; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CU-PU-p362",

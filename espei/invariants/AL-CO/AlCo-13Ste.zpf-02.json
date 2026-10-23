@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CO"
+  "CO",
+  "VA"
  ],
  "phases": [
   "AL3CO",
@@ -64,7 +65,7 @@
      "CO"
     ],
     [
-     0.2857142857142857
+     null
     ]
    ],
    [
@@ -93,7 +94,7 @@
      "CO"
     ],
     [
-     0.2857142857142857
+     null
     ]
    ],
    [
@@ -102,7 +103,7 @@
      "CO"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -142,16 +143,27 @@
    {
     "id": "ORC-AGPZIOREM4.b27b4b",
     "paper": "doi:10.1016/j.intermet.2013.03.011",
-    "measured_in": "doi:10.1016/j.intermet.2013.03.011"
+    "measured_in": "doi:10.1016/j.intermet.2013.03.011",
+    "also_reported_as": [
+     {
+      "id": "ORC-DQ2ITHBDM4",
+      "paper": "doi:10.1016/j.intermet.2013.03.011",
+      "measured_in": "doi:10.1515/ijmr-1996-871107",
+      "dataset": "invariants/AL-CO/AlCo-13Ste.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/j.intermet.2013.03.011"
+   "doi:10.1016/j.intermet.2013.03.011",
+   "doi:10.1515/ijmr-1996-871107"
   ],
   "dois": [
-   "10.1016/j.intermet.2013.03.011"
+   "10.1016/j.intermet.2013.03.011",
+   "10.1515/ijmr-1996-871107"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlCo-13Ste/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlCo-13Ste/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -170,5 +182,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 3,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -106,7 +106,7 @@
      "SN"
     ],
     [
-     0.444
+     null
     ]
    ],
    [
@@ -115,7 +115,16 @@
      "SN"
     ],
     [
-     0.476
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.4595393299
     ]
    ]
   ],
@@ -126,7 +135,7 @@
      "SN"
     ],
     [
-     0.476
+     null
     ]
    ],
    [
@@ -135,7 +144,16 @@
      "SN"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.4875897255
     ]
    ]
   ],
@@ -146,7 +164,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -155,7 +173,16 @@
      "SN"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5271608192
     ]
    ]
   ],
@@ -166,7 +193,7 @@
      "SN"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -175,7 +202,16 @@
      "SN"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.610811106
     ]
    ]
   ],
@@ -186,7 +222,7 @@
      "SN"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -217,7 +253,7 @@
      "SN"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -237,7 +273,7 @@
      "SN"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -286,7 +322,7 @@
      "SN"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -306,7 +342,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -413,7 +449,7 @@
      "SN"
     ],
     [
-     0.444
+     null
     ]
    ],
    [
@@ -458,6 +494,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 26(2), 200 (2005) doi:10.1361/15477030523247; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 384",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram DY-SN-p384; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "DY-SN-p384",

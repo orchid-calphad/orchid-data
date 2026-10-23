@@ -1,22 +1,19 @@
 {
  "components": [
   "LA",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
-  "FCC_A1",
   "LA2NI3",
   "LA2NI7",
   "LA7NI16",
   "LANI3",
-  "LANI5_D2D",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1543,
-   1623,
    1228,
    1068,
    963
@@ -35,61 +32,12 @@
     ]
    ],
    [
-    "LANI5_D2D",
-    [
-     "NI"
-    ],
-    [
-     0.8333333333333334
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     0.833
-    ]
-   ],
-   [
-    "LANI5_D2D",
-    [
-     "NI"
-    ],
-    [
-     0.8333333333333334
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "LA2NI7",
     [
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -98,7 +46,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -127,7 +75,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -136,7 +84,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -165,7 +113,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -174,7 +122,7 @@
      "NI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -196,22 +144,12 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XPUAVX74LM ORC-3PGEBRVLRK ORC-6QM26LTXDS ORC-TETPSQVR2M ORC-FJ5KFNHHMA",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6QM26LTXDS ORC-TETPSQVR2M ORC-FJ5KFNHHMA",
  "bibtex": "referencend_a7663d",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-XPUAVX74LM",
-    "paper": "doi:10.1007/s10853-022-08039-1",
-    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#53"
-   },
-   {
-    "id": "ORC-3PGEBRVLRK",
-    "paper": "doi:10.1007/s10853-022-08039-1",
-    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#53"
-   },
    {
     "id": "ORC-6QM26LTXDS",
     "paper": "doi:10.1007/s10853-022-08039-1",
@@ -241,7 +179,8 @@
   "dois": [
    "10.1007/s10853-022-08039-1"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/LaNi-23Ye/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/LaNi-23Ye/zpf-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -257,16 +196,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 6,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

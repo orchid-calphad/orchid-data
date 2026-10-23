@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "LU"
+  "LU",
+  "VA"
  ],
  "phases": [
   "AU2LU_C11B",
@@ -55,7 +56,7 @@
      "LU"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -75,7 +76,7 @@
      "LU"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "LU"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -104,7 +105,7 @@
      "LU"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -124,7 +125,7 @@
      "LU"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -133,7 +134,7 @@
      "LU"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -153,7 +154,7 @@
      "LU"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -162,7 +163,7 @@
      "LU"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -182,7 +183,7 @@
      "LU"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -202,7 +203,7 @@
      "LU"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -211,7 +212,7 @@
      "LU"
     ],
     [
-     0.2
+     null
     ]
    ]
   ],
@@ -231,7 +232,7 @@
      "LU"
     ],
     [
-     0.2
+     null
     ]
    ]
   ],
@@ -242,7 +243,7 @@
      "LU"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -251,7 +252,7 @@
      "LU"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -260,7 +261,16 @@
      "LU"
     ],
     [
-     0.2
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LU"
+    ],
+    [
+     0.2611111111
     ]
    ]
   ],
@@ -280,7 +290,7 @@
      "LU"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -317,7 +327,14 @@
    },
    {
     "id": "ORC-GHNHL5WKOZ",
-    "paper": "doi:10.1007/s11669-016-0460-4"
+    "paper": "doi:10.1007/s11669-016-0460-4",
+    "also_reported_as": [
+     {
+      "id": "ORC-2LDSRJUJMH",
+      "paper": "doi:10.1007/s11669-016-0460-4",
+      "dataset": "invariants/AU-LU/AuLu-16Wan.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-DFHOH7FJIL",
@@ -354,7 +371,8 @@
   "dois": [
    "10.1007/s11669-016-0460-4"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AuLu-16Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AuLu-16Wan/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -401,5 +419,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 16,
+  "hyperplanes_added": 1,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

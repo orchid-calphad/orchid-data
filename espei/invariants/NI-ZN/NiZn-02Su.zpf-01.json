@@ -1,6 +1,7 @@
 {
  "components": [
   "NI",
+  "VA",
   "ZN"
  ],
  "phases": [

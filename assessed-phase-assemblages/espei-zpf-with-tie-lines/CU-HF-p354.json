@@ -55,7 +55,7 @@
      "HF"
     ],
     [
-     0.167
+     null
     ]
    ]
   ],
@@ -66,7 +66,7 @@
      "HF"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -75,7 +75,16 @@
      "HF"
     ],
     [
-     0.215
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.190736367
     ]
    ]
   ],
@@ -86,7 +95,7 @@
      "HF"
     ],
     [
-     0.215
+     null
     ]
    ],
    [
@@ -95,7 +104,16 @@
      "HF"
     ],
     [
-     0.273
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.2438256112
     ]
    ]
   ],
@@ -135,7 +153,7 @@
      "HF"
     ],
     [
-     0.412
+     null
     ]
    ],
    [
@@ -144,7 +162,16 @@
      "HF"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.5388215059
     ]
    ]
   ],
@@ -155,7 +182,7 @@
      "HF"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -175,7 +202,7 @@
      "HF"
     ],
     [
-     0.273
+     null
     ]
    ],
    [
@@ -215,7 +242,7 @@
      "HF"
     ],
     [
-     0.167
+     null
     ]
    ]
   ],
@@ -255,7 +282,7 @@
      "HF"
     ],
     [
-     0.667
+     null
     ]
    ]
   ],
@@ -266,7 +293,7 @@
      "HF"
     ],
     [
-     0.215
+     null
     ]
    ],
    [
@@ -391,6 +418,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 28(6), 583-584 (2007) doi:10.1007/s11669-007-9180-0; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 354",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-HF-p354; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CU-HF-p354",

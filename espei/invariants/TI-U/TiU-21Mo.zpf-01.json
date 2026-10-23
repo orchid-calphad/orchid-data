@@ -1,7 +1,8 @@
 {
  "components": [
   "TI",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "ORTHORHOMBIC_A20",

@@ -1,7 +1,8 @@
 {
  "components": [
   "MN",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "MN2TA_C14"

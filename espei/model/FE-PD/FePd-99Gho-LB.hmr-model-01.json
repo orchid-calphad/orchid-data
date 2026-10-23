@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "FEPD3_L12",

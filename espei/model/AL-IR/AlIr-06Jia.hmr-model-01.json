@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "IR"
+  "IR",
+  "VA"
  ],
  "phases": [
   "AL13IR4",
@@ -13,9 +14,6 @@
   "X_IR": [
    0.235294,
    0.235294,
-   0.235294,
-   0.235294,
-   0.235294,
    0.235294
   ]
  },
@@ -23,9 +21,6 @@
  "values": [
   [
    [
-    -62800.0,
-    -64099.99999999999,
-    -63500.0,
     -62800.0,
     -64099.99999999999,
     -63500.0
@@ -41,7 +36,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VVD6KBZNAZ.cdc32e ORC-VVD6KBZNAZ.0affb3 ORC-VVD6KBZNAZ.c0f1e8 ORC-VVD6KBZNAZ.cdc32e ORC-VVD6KBZNAZ.0affb3 ORC-VVD6KBZNAZ.004cf3",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VVD6KBZNAZ.cdc32e ORC-VVD6KBZNAZ.0affb3 ORC-VVD6KBZNAZ.c0f1e8",
  "reference_states": {
   "AL": {
    "phase": "FCC_A1",
@@ -93,6 +88,9 @@
     "measured_in": "doi:10.1016/j.actamat.2006.03.058",
     "caveats": [
      "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-VVD6KBZNAZ.cdc32e"
     ]
    },
    {
@@ -102,6 +100,9 @@
     "measured_in": "doi:10.1016/j.actamat.2006.03.058",
     "caveats": [
      "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-VVD6KBZNAZ.0affb3"
     ]
    },
    {
@@ -111,33 +112,9 @@
     "measured_in": "doi:10.1016/j.actamat.2006.03.058",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-VVD6KBZNAZ.cdc32e",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2006.03.058",
-    "measured_in": "doi:10.1016/j.actamat.2006.03.058",
-    "caveats": [
-     "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-VVD6KBZNAZ.0affb3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2006.03.058",
-    "measured_in": "doi:10.1016/j.actamat.2006.03.058",
-    "caveats": [
-     "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-VVD6KBZNAZ.004cf3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2006.03.058",
-    "measured_in": "doi:10.1016/j.actamat.2006.03.058",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-VVD6KBZNAZ.004cf3"
     ]
    }
   ],
@@ -147,7 +124,8 @@
   "dois": [
    "10.1016/j.actamat.2006.03.058"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/AlIr-06Jia/hmr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/AlIr-06Jia/hmr-model-01.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -176,21 +154,6 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
    }
   ]

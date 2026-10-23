@@ -1,0 +1,140 @@
+{
+ "components": [
+  "GA",
+  "SE",
+  "VA"
+ ],
+ "phases": [
+  "GA2SE3_B3",
+  "GA2SE3_BETA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1013.0,
+   993.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GA2SE3_BETA",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "GA2SE3_B3",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zheng 2008, doi:10.1016/j.calphad.2008.03.004",
+ "bibtex": "zheng2008_e786b7",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GA-SE/GaSe-08Zhe.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-QZSQWXBVZD",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/GA-SE/GaSe-08Zhe.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-QZSQWXBVZD",
+    "side": "above",
+    "T_invariant_K": 1003.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "β-Ga2Se3 -> α-Ga2Se3",
+    "reaction_type": "polymorphic",
+    "phases_above": [
+     "GA2SE3_BETA"
+    ],
+    "phases_below": [
+     "GA2SE3_B3"
+    ]
+   },
+   {
+    "source_observation": "ORC-QZSQWXBVZD",
+    "side": "below",
+    "T_invariant_K": 1003.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "β-Ga2Se3 -> α-Ga2Se3",
+    "reaction_type": "polymorphic",
+    "phases_above": [
+     "GA2SE3_BETA"
+    ],
+    "phases_below": [
+     "GA2SE3_B3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0022-4596(81)90397-2",
+   "10.1016/j.calphad.2008.03.004"
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2008.03.004",
+   "doi:10.1016/0022-4596(81)90397-2"
+  ]
+ }
+}

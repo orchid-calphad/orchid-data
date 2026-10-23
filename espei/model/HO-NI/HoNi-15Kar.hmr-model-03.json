@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "HO3NI2_LT",
@@ -12,8 +13,6 @@
   "T": 298.15,
   "X_NI": [
    0.4,
-   0.4,
-   0.4,
    0.4
   ]
  },
@@ -22,8 +21,6 @@
   [
    [
     -47000.0,
-    -47000.0,
-    -38450.0,
     -38450.0
    ]
   ]
@@ -37,7 +34,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GHBPJQM4XH.6b0426 ORC-GHBPJQM4XH.6b0426 ORC-KOSAEYIXBG.aebddf ORC-KOSAEYIXBG.aebddf",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GHBPJQM4XH.6b0426 ORC-KOSAEYIXBG.aebddf",
  "reference_states": {
   "HO": {
    "phase": "HCP_A3",
@@ -89,15 +86,9 @@
     "measured_in": "doi:10.1007/s10973-014-4189-1",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-GHBPJQM4XH.6b0426",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-014-4189-1",
-    "measured_in": "doi:10.1007/s10973-014-4189-1",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-GHBPJQM4XH.6b0426"
     ]
    },
    {
@@ -107,15 +98,9 @@
     "measured_in": "doi:10.1007/s10973-014-4189-1",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-KOSAEYIXBG.aebddf",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-014-4189-1",
-    "measured_in": "doi:10.1007/s10973-014-4189-1",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-KOSAEYIXBG.aebddf"
     ]
    }
   ],
@@ -125,7 +110,8 @@
   "dois": [
    "10.1007/s10973-014-4189-1"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/HoNi-15Kar/hmr-model-03.json"
+  "source_dataset": "db-v2.1/general/espei-model/HoNi-15Kar/hmr-model-03.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -135,16 +121,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

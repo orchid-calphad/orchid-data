@@ -1,10 +1,10 @@
 {
  "components": [
   "GE",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
-  "DIAMOND_A4",
   "GETE_B1",
   "GETE_LOW",
   "LIQUID"
@@ -12,41 +12,11 @@
  "conditions": {
   "P": 101325,
   "T": [
-   700.0,
    630.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "GETE_LOW",
-    [
-     "TE"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "GETE_B1",
-    [
-     "TE"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "GETE_B1",
@@ -84,16 +54,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-56QG7PO5OZ ORC-74Z5T2KT7I",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-74Z5T2KT7I",
  "bibtex": "schlieper1999_4731cc",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-56QG7PO5OZ",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
-   },
    {
     "id": "ORC-74Z5T2KT7I",
     "paper": "doi:10.1016/s0364-5916(99)00012-7"
@@ -105,15 +71,12 @@
   "dois": [
    "10.1016/s0364-5916(99)00012-7"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeTe-99Sch-LB/zpf-09.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeTe-99Sch-LB/zpf-09.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

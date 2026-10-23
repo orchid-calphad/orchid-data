@@ -1,0 +1,129 @@
+{
+ "components": [
+  "CU",
+  "LI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   749.0761529,
+   413.0761529,
+   809.5761529,
+   1288.576153
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.08055114318
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6154503207
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.5323105609
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.5954166436
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.D. Pelton, Bull. Alloy Phase Diagrams, 7(2), 142-144 (1986) doi:10.1007/bf02881552; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 356",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-LI-p356; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CuLi-09Gas.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-LI-p356",
+  "target_tdb": "CuLi-09Gas.tdb",
+  "record_ids": [
+   "aspa-740d4526beadb90e",
+   "aspa-e25dee473c1a36e6",
+   "aspa-128fec4beff5ea20",
+   "aspa-c858183679cf269e"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/CU-LI-p356.json"
+ }
+}

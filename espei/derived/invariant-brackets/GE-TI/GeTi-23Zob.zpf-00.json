@@ -1,0 +1,478 @@
+{
+ "components": [
+  "GE",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GE2TI_C54",
+  "GE3TI5_D88",
+  "GE5TI6",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1933.0,
+   1913.0,
+   1608.0,
+   1588.0,
+   1358.0,
+   1338.0,
+   1143.0,
+   1123.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.471
+    ]
+   ],
+   [
+    "GE3TI5_D88",
+    [
+     "TI"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.5354545455
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.5554545455
+    ]
+   ]
+  ],
+  [
+   [
+    "GE5TI6",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.5354545455
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.5554545455
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.851
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.841
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.861
+    ]
+   ]
+  ],
+  [
+   [
+    "GE3TI5_D88",
+    [
+     "TI"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.904
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.841
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.861
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.178
+    ]
+   ],
+   [
+    "GE5TI6",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3233333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3433333333
+    ]
+   ]
+  ],
+  [
+   [
+    "GE2TI_C54",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3233333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3433333333
+    ]
+   ]
+  ],
+  [
+   [
+    "GE3TI5_D88",
+    [
+     "TI"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.964
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.952
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.96
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.956
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.952
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.96
+    ]
+   ]
+  ]
+ ],
+ "reference": "Rudometkina 1989, doi:10.1016/0022-5088(89)90197-5",
+ "bibtex": "rudometkina1989_123a20",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-TI/GeTi-23Zob.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-56CI556MO3 ORC-6KCDWOSGLY ORC-GIE5NCSNJT ORC-LLIDQYIQV7",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/GE-TI/GeTi-23Zob.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-GIE5NCSNJT",
+    "side": "above",
+    "T_invariant_K": 1923,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5454545454545454,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ge3Ti5 ↔ Ge5Ti6",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GE3TI5_D88"
+    ],
+    "phases_below": [
+     "GE5TI6"
+    ]
+   },
+   {
+    "source_observation": "ORC-GIE5NCSNJT",
+    "side": "below",
+    "T_invariant_K": 1923,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5454545454545454,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ge3Ti5 ↔ Ge5Ti6",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GE3TI5_D88"
+    ],
+    "phases_below": [
+     "GE5TI6"
+    ]
+   },
+   {
+    "source_observation": "ORC-56CI556MO3",
+    "side": "above",
+    "T_invariant_K": 1598,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.851,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ Ge3Ti5 + (α-Ti)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GE3TI5_D88",
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-56CI556MO3",
+    "side": "below",
+    "T_invariant_K": 1598,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.851,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ Ge3Ti5 + (α-Ti)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GE3TI5_D88",
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-6KCDWOSGLY",
+    "side": "above",
+    "T_invariant_K": 1348,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ge5Ti6 ↔ Ge2Ti",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GE5TI6"
+    ],
+    "phases_below": [
+     "GE2TI_C54"
+    ]
+   },
+   {
+    "source_observation": "ORC-6KCDWOSGLY",
+    "side": "below",
+    "T_invariant_K": 1348,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ge5Ti6 ↔ Ge2Ti",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GE5TI6"
+    ],
+    "phases_below": [
+     "GE2TI_C54"
+    ]
+   },
+   {
+    "source_observation": "ORC-LLIDQYIQV7",
+    "side": "above",
+    "T_invariant_K": 1133,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.956,
+    "hyperplane_delta": 0.0040000000000000036,
+    "reaction_printed": "Ge3Ti5 + (α-Ti) ↔ (β-Ti)",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "GE3TI5_D88",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-LLIDQYIQV7",
+    "side": "below",
+    "T_invariant_K": 1133,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.956,
+    "hyperplane_delta": 0.0040000000000000036,
+    "reaction_printed": "Ge3Ti5 + (α-Ti) ↔ (β-Ti)",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "GE3TI5_D88",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "BCC_A2"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s11669-023-01028-0",
+   "10.1016/0022-5088(89)90197-5",
+   "10.1016/j.jallcom.2013.04.114"
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(89)90197-5",
+   "doi:10.1007/s11669-023-01028-0",
+   "doi:10.1016/j.jallcom.2013.04.114"
+  ]
+ }
+}

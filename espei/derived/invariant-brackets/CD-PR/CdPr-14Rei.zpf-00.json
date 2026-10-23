@@ -1,0 +1,426 @@
+{
+ "components": [
+  "CD",
+  "PR",
+  "VA"
+ ],
+ "phases": [
+  "CD11PR_D2E",
+  "CD2PR",
+  "CD3PR_D03",
+  "CD45PR11",
+  "CD58PR13",
+  "CD6PR",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   849.15,
+   829.15,
+   1023.15,
+   1003.15,
+   1078.15,
+   1058.15,
+   1146.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CD6PR",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.0733333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.0933333333
+    ]
+   ]
+  ],
+  [
+   [
+    "CD11PR_D2E",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.0733333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.0933333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CD58PR13",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1328571429
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1528571429
+    ]
+   ]
+  ],
+  [
+   [
+    "CD6PR",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1328571429
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1528571429
+    ]
+   ]
+  ],
+  [
+   [
+    "CD58PR13",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CD3PR_D03",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1897635815
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.2030935614
+    ]
+   ]
+  ],
+  [
+   [
+    "CD45PR11",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1897635815
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.2030935614
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CD2PR",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ]
+ ],
+ "reference": "Reichmann 2014, doi:10.1016/j.calphad.2014.06.005",
+ "bibtex": "reichmann2014_42b8f3",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CD-PR/CdPr-14Rei.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-ASWD2CVFNP ORC-DJ55QP7DF2 ORC-X6BBPTPG5K ORC-YQS4EJMBKK",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CD-PR/CdPr-14Rei.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-ASWD2CVFNP",
+    "side": "above",
+    "T_invariant_K": 839.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.08333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Cd6Pr⇄Cd11Pr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CD6PR"
+    ],
+    "phases_below": [
+     "CD11PR_D2E"
+    ]
+   },
+   {
+    "source_observation": "ORC-ASWD2CVFNP",
+    "side": "below",
+    "T_invariant_K": 839.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.08333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Cd6Pr⇄Cd11Pr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CD6PR"
+    ],
+    "phases_below": [
+     "CD11PR_D2E"
+    ]
+   },
+   {
+    "source_observation": "ORC-X6BBPTPG5K",
+    "side": "above",
+    "T_invariant_K": 1013.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.14285714285714285,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Cd58Pr13⇄Cd6Pr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CD58PR13"
+    ],
+    "phases_below": [
+     "CD6PR"
+    ]
+   },
+   {
+    "source_observation": "ORC-X6BBPTPG5K",
+    "side": "below",
+    "T_invariant_K": 1013.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.14285714285714285,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Cd58Pr13⇄Cd6Pr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CD58PR13"
+    ],
+    "phases_below": [
+     "CD6PR"
+    ]
+   },
+   {
+    "source_observation": "ORC-YQS4EJMBKK",
+    "side": "above",
+    "T_invariant_K": 1068.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.19642857142857142,
+    "hyperplane_delta": 0.006664989939637822,
+    "reaction_printed": "Cd58Pr13+Cd3Pr⇄Cd45Pr11",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "CD58PR13",
+     "CD3PR_D03"
+    ],
+    "phases_below": [
+     "CD45PR11"
+    ]
+   },
+   {
+    "source_observation": "ORC-YQS4EJMBKK",
+    "side": "below",
+    "T_invariant_K": 1068.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.19642857142857142,
+    "hyperplane_delta": 0.006664989939637822,
+    "reaction_printed": "Cd58Pr13+Cd3Pr⇄Cd45Pr11",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "CD58PR13",
+     "CD3PR_D03"
+    ],
+    "phases_below": [
+     "CD45PR11"
+    ]
+   },
+   {
+    "source_observation": "ORC-DJ55QP7DF2",
+    "side": "above",
+    "T_invariant_K": 1136.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+α-Cd2Pr⇄Cd3Pr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CD2PR"
+    ],
+    "phases_below": [
+     "CD3PR_D03"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.06.005"
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.06.005"
+  ]
+ }
+}

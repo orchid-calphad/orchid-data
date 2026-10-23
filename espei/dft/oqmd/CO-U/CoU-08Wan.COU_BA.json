@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "COU_BA"

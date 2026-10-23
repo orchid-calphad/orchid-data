@@ -1,7 +1,8 @@
 {
  "components": [
   "C",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 298.0,
   "X_U": [
-   0.4,
    0.4
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    26.68,
     26.68
    ]
   ]
@@ -32,7 +31,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UNF7OOFKO7.c8876c ORC-UNF7OOFKO7.757506",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UNF7OOFKO7.c8876c",
  "orchid_model_evidence": {
   "tdb": {
    "name": "UC-01Che.tdb",
@@ -67,13 +66,10 @@
     "id": "ORC-UNF7OOFKO7.c8876c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
-   },
-   {
-    "id": "ORC-UNF7OOFKO7.757506",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
+    "measured_in": "doi:10.1016/s0022-3115(00)00713-3",
+    "also_read_as": [
+     "ORC-UNF7OOFKO7.757506"
+    ]
    }
   ],
   "papers": [
@@ -82,7 +78,8 @@
   "dois": [
    "10.1016/s0022-3115(00)00713-3"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/UC-01Che/sm-model-03.json"
+  "source_dataset": "db-v2.1/general/espei-model/UC-01Che/sm-model-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -92,11 +89,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

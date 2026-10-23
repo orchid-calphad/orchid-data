@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "C15_LAVES",
@@ -140,7 +141,15 @@
    {
     "id": "ORC-CBDTORY6WT",
     "paper": "doi:10.1007/s11669-007-9022-0",
-    "measured_in": "doi:10.1515/ijmr-1978-690209"
+    "measured_in": "doi:10.1515/ijmr-1978-690209",
+    "also_reported_as": [
+     {
+      "id": "ORC-E3SFBB2MVC",
+      "paper": "doi:10.1007/s11669-007-9022-0",
+      "measured_in": "ref:012d18eb694d496e",
+      "dataset": "invariants/CU-MG/CuMg-07Zho.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-LWFBEFMJGE",
@@ -150,18 +159,28 @@
    {
     "id": "ORC-OXD2IU6YEJ",
     "paper": "doi:10.1007/s11669-007-9022-0",
-    "measured_in": "doi:10.1515/ijmr-1978-690209"
+    "measured_in": "doi:10.1515/ijmr-1978-690209",
+    "also_reported_as": [
+     {
+      "id": "ORC-6VHE5RFFET",
+      "paper": "doi:10.1007/s11669-007-9022-0",
+      "measured_in": "ref:012d18eb694d496e",
+      "dataset": "invariants/CU-MG/CuMg-07Zho.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1515/ijmr-1978-690209",
-   "doi:10.1007/s11669-007-9022-0"
+   "doi:10.1007/s11669-007-9022-0",
+   "ref:012d18eb694d496e"
   ],
   "dois": [
    "10.1007/s11669-007-9022-0",
    "10.1515/ijmr-1978-690209"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuMg-07Zho/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuMg-07Zho/zpf-01.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -1,7 +1,8 @@
 {
  "components": [
   "SN",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "SN3SR"

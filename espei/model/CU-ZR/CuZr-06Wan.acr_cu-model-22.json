@@ -1,6 +1,7 @@
 {
  "components": [
   "CU",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -10,7 +11,6 @@
   "P": 101325,
   "T": 1273.0,
   "X_ZR": [
-   0.538,
    0.538
   ]
  },
@@ -18,7 +18,6 @@
  "values": [
   [
    [
-    0.0807,
     0.0807
    ]
   ]
@@ -31,10 +30,10 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LD7CL5LFCB.271d5f ORC-LD7CL5LFCB.625352",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LD7CL5LFCB.271d5f",
  "reference_state": {
   "phases": [
-   "FCC_A1"
+   "LIQUID"
   ],
   "conditions": {
    "P": 101325,
@@ -76,13 +75,10 @@
     "id": "ORC-LD7CL5LFCB.271d5f",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1016/j.calphad.2006.06.002"
-   },
-   {
-    "id": "ORC-LD7CL5LFCB.625352",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1016/j.calphad.2006.06.002"
+    "measured_in": "doi:10.1016/j.calphad.2006.06.002",
+    "also_read_as": [
+     "ORC-LD7CL5LFCB.625352"
+    ]
    }
   ],
   "papers": [
@@ -91,7 +87,8 @@
   "dois": [
    "10.1016/j.calphad.2006.06.002"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CuZr-06Wan/acr_cu-model-22.json"
+  "source_dataset": "db-v2.1/general/espei-model/CuZr-06Wan/acr_cu-model-22.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "1 (activity)",
@@ -105,12 +102,18 @@
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
    }
+  ]
+ },
+ "orchid_reference_state": {
+  "element": "CU",
+  "phase": "LIQUID",
+  "basis": "printed",
+  "quote": "Comparison of the measured [12] and present calculated activities of the components in the Cu-Zr melt (reference states: liquid pure components)",
+  "where": "table 3 caption, p. 7",
+  "record_reference_state_agrees": false,
+  "written_before_audit": [
+   "FCC_A1"
   ]
  }
 }

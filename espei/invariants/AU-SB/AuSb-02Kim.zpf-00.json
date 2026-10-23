@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "AUSB2_C2",
@@ -41,7 +42,7 @@
      "SB"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ]
@@ -61,7 +62,14 @@
   "observations": [
    {
     "id": "ORC-HKASMWQEXH",
-    "paper": "doi:10.1007/s11664-002-0125-4"
+    "paper": "doi:10.1007/s11664-002-0125-4",
+    "also_reported_as": [
+     {
+      "id": "ORC-KBLUTE6AOW",
+      "paper": "doi:10.1007/s11664-002-0125-4",
+      "dataset": "invariants/AU-SB/AuSb-02Kim.zpf-06.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -72,7 +80,8 @@
    "10.1002/pssa.2210240241",
    "10.1007/s11664-002-0125-4"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AuSb-02Kim/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AuSb-02Kim/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -83,5 +92,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "SC",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "SCSI_B33"

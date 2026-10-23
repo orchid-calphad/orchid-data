@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "FCC_A1",
@@ -16,7 +17,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1232.0,
    1129.0,
    1058.0,
    1023.0,
@@ -28,26 +28,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SE"
-    ],
-    [
-     0.535
-    ]
-   ],
-   [
-    "NISE_B81",
-    [
-     "SE"
-    ],
-    [
-     0.535
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -73,7 +53,7 @@
      "SE"
     ],
     [
-     0.668
+     null
     ]
    ]
   ],
@@ -102,7 +82,7 @@
      "SE"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -122,7 +102,7 @@
      "SE"
     ],
     [
-     0.0
+     null
     ]
    ],
    [
@@ -131,7 +111,7 @@
      "SE"
     ],
     [
-     0.39
+     null
     ]
    ]
   ],
@@ -151,7 +131,7 @@
      "SE"
     ],
     [
-     0.424
+     null
     ]
    ],
    [
@@ -160,7 +140,7 @@
      "SE"
     ],
     [
-     0.45454545454545453
+     null
     ]
    ]
   ],
@@ -171,7 +151,7 @@
      "SE"
     ],
     [
-     0.424
+     null
     ]
    ],
    [
@@ -180,7 +160,7 @@
      "SE"
     ],
     [
-     0.0
+     null
     ]
    ],
    [
@@ -189,7 +169,16 @@
      "SE"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.2746666667
     ]
    ]
   ],
@@ -200,7 +189,7 @@
      "SE"
     ],
     [
-     0.45454545454545453
+     null
     ]
    ],
    [
@@ -218,7 +207,7 @@
      "SE"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -238,7 +227,7 @@
      "SE"
     ],
     [
-     0.684
+     null
     ]
    ],
    [
@@ -247,7 +236,16 @@
      "SE"
     ],
     [
-     1.0
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.842
     ]
    ]
   ]
@@ -259,16 +257,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-K7C34R6Z5W ORC-U2DM7F3BE7 ORC-W6GNDHNRLM ORC-UYUOWMDGJS ORC-B75ZAFYBHZ ORC-XF7465NGA4 ORC-ISQPXEMVL5 ORC-ODLM7TOJ7F",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-U2DM7F3BE7 ORC-W6GNDHNRLM ORC-UYUOWMDGJS ORC-B75ZAFYBHZ ORC-XF7465NGA4 ORC-ISQPXEMVL5 ORC-ODLM7TOJ7F",
  "bibtex": "zobac2021_a1a4a3",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-K7C34R6Z5W",
-    "paper": "doi:10.1007/s11669-021-00906-9"
-   },
    {
     "id": "ORC-U2DM7F3BE7",
     "paper": "doi:10.1007/s11669-021-00906-9"
@@ -304,7 +298,8 @@
   "dois": [
    "10.1007/s11669-021-00906-9"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiSe-21Zob/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiSe-21Zob/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -336,12 +331,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 13,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

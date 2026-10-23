@@ -1,7 +1,8 @@
 {
  "components": [
   "CD",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

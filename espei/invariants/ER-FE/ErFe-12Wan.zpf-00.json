@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "FE"
+  "FE",
+  "VA"
  ],
  "phases": [
   "ER2FE17",

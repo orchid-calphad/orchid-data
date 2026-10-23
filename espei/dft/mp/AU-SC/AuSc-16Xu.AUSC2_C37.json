@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "AUSC2_C37"

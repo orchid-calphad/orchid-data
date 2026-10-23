@@ -681,6 +681,10 @@
  ],
  "reference": "A. Sccone, A.M. Cardinale, S. Delfino, and R. Ferro, Z. Metallkd., 92(8), 959- 965 (2001) doi:10.1515/ijmr-2001-0174; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 472",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GD-ZN-p472; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GD-ZN-p472",

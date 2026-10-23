@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "CO"
+  "CO",
+  "VA"
  ],
  "phases": [
   "CE24CO11",
@@ -54,7 +55,7 @@
      "CO"
     ],
     [
-     0.3142857142857143
+     null
     ]
    ]
   ],
@@ -74,7 +75,7 @@
      "CO"
     ],
     [
-     0.3142857142857143
+     null
     ]
    ]
   ],
@@ -94,7 +95,7 @@
      "CO"
     ],
     [
-     0.3142857142857143
+     null
     ]
    ],
    [
@@ -103,7 +104,7 @@
      "CO"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -132,7 +133,7 @@
      "CO"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -141,7 +142,7 @@
      "CO"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -170,7 +171,7 @@
      "CO"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -179,7 +180,7 @@
      "CO"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -208,7 +209,7 @@
      "CO"
     ],
     [
-     0.7916666666666666
+     null
     ]
    ],
    [
@@ -217,7 +218,7 @@
      "CO"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -246,7 +247,7 @@
      "CO"
     ],
     [
-     0.8947368421052632
+     null
     ]
    ],
    [
@@ -255,7 +256,7 @@
      "CO"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -293,7 +294,7 @@
      "CO"
     ],
     [
-     0.8947368421052632
+     null
     ]
    ]
   ]
@@ -319,7 +320,15 @@
    {
     "id": "ORC-DDIUE4O63E",
     "paper": "doi:10.1016/s0925-8388(97)00563-x",
-    "measured_in": "ref:2815734e42138502"
+    "measured_in": "ref:2815734e42138502",
+    "also_reported_as": [
+     {
+      "id": "ORC-BP2OZ5X6HK",
+      "paper": "doi:10.1016/s0925-8388(97)00563-x",
+      "measured_in": "ref:d853e3c28dfc030f",
+      "dataset": "invariants/CE-CO/CeCo-98Su.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-NU4G5WGJXD",
@@ -354,12 +363,14 @@
   ],
   "papers": [
    "ref:2815734e42138502",
-   "doi:10.1016/s0925-8388(97)00563-x"
+   "doi:10.1016/s0925-8388(97)00563-x",
+   "ref:d853e3c28dfc030f"
   ],
   "dois": [
    "10.1016/s0925-8388(97)00563-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CeCo-98Su/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CeCo-98Su/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -398,5 +409,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 13,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

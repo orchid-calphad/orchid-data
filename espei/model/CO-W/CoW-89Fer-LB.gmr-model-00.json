@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "W"
  ],
  "phases": [
@@ -12,8 +13,6 @@
   "T": 1200.0,
   "X_W": [
    0.03,
-   0.03,
-   0.05,
    0.05
   ]
  },
@@ -22,8 +21,6 @@
   [
    [
     -597.0,
-    -597.0,
-    -869.0,
     -869.0
    ]
   ]
@@ -37,7 +34,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V7KVUMRFK4.2ea7f8 ORC-V7KVUMRFK4.2ea7f8 ORC-A3ZATKRCKM.119668 ORC-A3ZATKRCKM.119668",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V7KVUMRFK4.2ea7f8 ORC-A3ZATKRCKM.119668",
  "reference_states": {
   "CO": {
    "phase": "FCC_A1"
@@ -83,15 +80,9 @@
     "measured_in": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-V7KVUMRFK4.2ea7f8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "measured_in": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-V7KVUMRFK4.2ea7f8"
     ]
    },
    {
@@ -101,15 +92,9 @@
     "measured_in": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-A3ZATKRCKM.119668",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "measured_in": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-A3ZATKRCKM.119668"
     ]
    }
   ],
@@ -119,7 +104,8 @@
   "dois": [
    "10.1007/bf02651660"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CoW-89Fer-LB/gmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/CoW-89Fer-LB/gmr-model-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -129,16 +115,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

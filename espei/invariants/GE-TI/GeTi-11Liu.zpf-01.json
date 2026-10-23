@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -231,7 +232,14 @@
    {
     "id": "ORC-XISE2AFV5T",
     "paper": "doi:10.1016/j.tca.2011.04.017",
-    "measured_in": "doi:10.1016/0022-5088(89)90197-5"
+    "measured_in": "doi:10.1016/0022-5088(89)90197-5",
+    "also_reported_as": [
+     {
+      "id": "ORC-H7PYXKGY4X",
+      "paper": "doi:10.1016/j.tca.2011.04.017",
+      "dataset": "invariants/GE-TI/GeTi-11Liu.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -242,7 +250,8 @@
    "10.1016/0022-5088(89)90197-5",
    "10.1016/j.tca.2011.04.017"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeTi-11Liu/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeTi-11Liu/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

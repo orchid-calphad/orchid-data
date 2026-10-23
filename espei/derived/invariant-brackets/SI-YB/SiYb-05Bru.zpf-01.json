@@ -1,0 +1,260 @@
+{
+ "components": [
+  "SI",
+  "VA",
+  "YB"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "SI2YB_C32",
+  "SI5YB3",
+  "SIYB_B27"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1271.0,
+   1242.0,
+   1066.0,
+   1046.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SI2YB_C32",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIYB_B27",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.411053
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.431053
+    ]
+   ]
+  ],
+  [
+   [
+    "SI5YB3",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.369982
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.380018
+    ]
+   ]
+  ],
+  [
+   [
+    "SI2YB_C32",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.359946
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.369982
+    ]
+   ]
+  ],
+  [
+   [
+    "SI5YB3",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.359946
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.369982
+    ]
+   ]
+  ]
+ ],
+ "reference": "Brutti 2005, doi:10.1016/j.calphad.2005.06.004",
+ "bibtex": "brutti2005_77759a",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SI-YB/SiYb-05Bru.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-VSU5SPBJPC ORC-WXP52I5YDY ORC-YNADLEQHZ2",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/SI-YB/SiYb-05Bru.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-YNADLEQHZ2",
+    "side": "above",
+    "T_invariant_K": 1261.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.421053,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "YbSi1.74 + YbSi = Yb8Si11",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "SI2YB_C32",
+     "SIYB_B27"
+    ],
+    "phases_below": [
+     "SI11YB8"
+    ]
+   },
+   {
+    "source_observation": "ORC-VSU5SPBJPC",
+    "side": "below",
+    "T_invariant_K": 1252.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.375,
+    "hyperplane_delta": 0.005017999999999995,
+    "reaction_printed": "Yb8Si11 + YbSi1.74 = Yb3Si5",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "SI11YB8",
+     "SI2YB_C32"
+    ],
+    "phases_below": [
+     "SI5YB3"
+    ]
+   },
+   {
+    "source_observation": "ORC-WXP52I5YDY",
+    "side": "above",
+    "T_invariant_K": 1056.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.364964,
+    "hyperplane_delta": 0.005017999999999995,
+    "reaction_printed": "YbSi1.74 = Yb3Si5 + Si",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "SI2YB_C32"
+    ],
+    "phases_below": [
+     "SI5YB3",
+     "DIAMOND_A4"
+    ]
+   },
+   {
+    "source_observation": "ORC-WXP52I5YDY",
+    "side": "below",
+    "T_invariant_K": 1056.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.364964,
+    "hyperplane_delta": 0.005017999999999995,
+    "reaction_printed": "YbSi1.74 = Yb3Si5 + Si",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "SI2YB_C32"
+    ],
+    "phases_below": [
+     "SI5YB3",
+     "DIAMOND_A4"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.06.004",
+   "10.1016/s0966-9795(03)00152-3"
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.06.004",
+   "doi:10.1016/s0966-9795(03)00152-3"
+  ]
+ }
+}

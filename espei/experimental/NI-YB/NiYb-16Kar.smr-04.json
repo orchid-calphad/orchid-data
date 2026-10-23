@@ -1,6 +1,7 @@
 {
  "components": [
   "NI",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -10,7 +11,6 @@
   "P": 101325,
   "T": 990.0,
   "X_YB": [
-   0.105263,
    0.105263
   ]
  },
@@ -18,7 +18,6 @@
  "values": [
   [
    [
-    1.96,
     1.96
    ]
   ]
@@ -29,7 +28,7 @@
   "thermochemical_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3NOZAMJ6QA.c063a9 ORC-3NOZAMJ6QA.aa656c",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3NOZAMJ6QA.c063a9",
  "reference_states": {
   "NI": {
    "phase": "FCC_A1",
@@ -53,12 +52,10 @@
    {
     "id": "ORC-3NOZAMJ6QA.c063a9",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3"
-   },
-   {
-    "id": "ORC-3NOZAMJ6QA.aa656c",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-016-5380-3"
+    "paper": "doi:10.1007/s10973-016-5380-3",
+    "also_read_as": [
+     "ORC-3NOZAMJ6QA.aa656c"
+    ]
    }
   ],
   "papers": [
@@ -69,7 +66,8 @@
    "10.1007/s10973-016-5380-3",
    "10.1021/jp0142785"
   ],
-  "source_dataset": "db-v2.1/general/espei/NiYb-16Kar/smr-04.json"
+  "source_dataset": "db-v2.1/general/espei/NiYb-16Kar/smr-04.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -90,19 +88,15 @@
     },
     "weight_per_value_equivalent": 2.857143,
     "weight_used": 2.857143
-   },
-   {
-    "sigma": 0.07,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.07,
-     "unit": "J/mol-atom/K",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 2.857143,
-    "weight_used": 2.857143
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 2.857143,
+  "changes_weight": true,
+  "sigma_floor": 0.2,
+  "sigma_floor_unit": "J/mol/K",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

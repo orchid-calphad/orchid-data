@@ -1,0 +1,151 @@
+{
+ "components": [
+  "AG",
+  "SE",
+  "VA"
+ ],
+ "phases": [
+  "AG2SE_BETA",
+  "FCC_A1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1123.0,
+   1103.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.32
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.3133333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.3266666667
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG2SE_BETA",
+    [
+     "SE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.3133333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.3266666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "1908, K. Friedrich and A. Leroux, The Fusion Diagram of Binary System Cu-Cu2Se, Ag-Ag2Se and Pb-Pb2Se, Metallurgie, 1908, 5, p 355-358",
+ "bibtex": "friedrich1908_b7fdaf",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-SE/AgSe-18Li.zpf-09.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-FAPEESMBQB",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AG-SE/AgSe-18Li.zpf-09.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-FAPEESMBQB",
+    "side": "above",
+    "T_invariant_K": 1113,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.32,
+    "hyperplane_delta": 0.006666666666666654,
+    "reaction_printed": "L2 -> Ag + β-Ag2Se",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "ION"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG2SE_BETA"
+    ]
+   },
+   {
+    "source_observation": "ORC-FAPEESMBQB",
+    "side": "below",
+    "T_invariant_K": 1113,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.32,
+    "hyperplane_delta": 0.006666666666666654,
+    "reaction_printed": "L2 -> Ag + β-Ag2Se",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "ION"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG2SE_BETA"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s11669-018-0683-7"
+  ],
+  "papers": [
+   "ref:2d490d6ef76515f4",
+   "doi:10.1007/s11669-018-0683-7"
+  ]
+ }
+}

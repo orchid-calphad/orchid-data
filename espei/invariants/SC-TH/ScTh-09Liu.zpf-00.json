@@ -1,7 +1,8 @@
 {
  "components": [
   "SC",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

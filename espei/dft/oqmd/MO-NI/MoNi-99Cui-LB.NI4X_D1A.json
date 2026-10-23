@@ -1,7 +1,8 @@
 {
  "components": [
   "MO",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "NI4X_D1A"

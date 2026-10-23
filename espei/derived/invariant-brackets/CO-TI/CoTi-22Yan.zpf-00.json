@@ -1,0 +1,466 @@
+{
+ "components": [
+  "CO",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "BCC_A2",
+  "COTI2",
+  "FCC_A1",
+  "HCP_A3",
+  "L12_FCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1493.0,
+   1473.0,
+   1498.0,
+   1608.0,
+   1588.0,
+   1341.0,
+   1321.0,
+   1283.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.195
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.144
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.189
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.193
+    ]
+   ]
+  ],
+  [
+   [
+    "L12_FCC",
+    [
+     "TI"
+    ],
+    [
+     0.191
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.189
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.193
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.345
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3415
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3485
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.729
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.503
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.68
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.68
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.855
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.758
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.778
+    ]
+   ]
+  ]
+ ],
+ "reference": "Murray 1982, doi:10.1007/bf02873414",
+ "bibtex": "murray1982_74f208",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-TI/CoTi-22Yan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2RKZRAM7XS ORC-BOURJUM5TX ORC-G5FBPT6Z6F ORC-R5ETN46NGI ORC-V6B4XR2JVW",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CO-TI/CoTi-22Yan.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-BOURJUM5TX",
+    "side": "above",
+    "T_invariant_K": 1483.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.191,
+    "hyperplane_delta": 0.0020000000000000018,
+    "reaction_printed": "liquid + α-Co ↔ Co3Ti",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "FCC_A1"
+    ],
+    "phases_below": [
+     "L12_FCC"
+    ]
+   },
+   {
+    "source_observation": "ORC-BOURJUM5TX",
+    "side": "below",
+    "T_invariant_K": 1483.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.191,
+    "hyperplane_delta": 0.0020000000000000018,
+    "reaction_printed": "liquid + α-Co ↔ Co3Ti",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "FCC_A1"
+    ],
+    "phases_below": [
+     "L12_FCC"
+    ]
+   },
+   {
+    "source_observation": "ORC-G5FBPT6Z6F",
+    "side": "below",
+    "T_invariant_K": 1508.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.345,
+    "hyperplane_delta": 0.0034999999999999754,
+    "reaction_printed": "liquid + CoTi ↔ β-Co2Ti",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "B2_BCC"
+    ],
+    "phases_below": [
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-2RKZRAM7XS",
+    "side": "above",
+    "T_invariant_K": 1598.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid ↔ CoTi",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "B2_BCC"
+    ]
+   },
+   {
+    "source_observation": "ORC-2RKZRAM7XS",
+    "side": "below",
+    "T_invariant_K": 1598.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid ↔ CoTi",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "B2_BCC"
+    ]
+   },
+   {
+    "source_observation": "ORC-R5ETN46NGI",
+    "side": "above",
+    "T_invariant_K": 1331.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.67,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + CoTi ↔ CoTi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "B2_BCC"
+    ],
+    "phases_below": [
+     "COTI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-R5ETN46NGI",
+    "side": "below",
+    "T_invariant_K": 1331.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.67,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + CoTi ↔ CoTi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "B2_BCC"
+    ],
+    "phases_below": [
+     "COTI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-V6B4XR2JVW",
+    "side": "below",
+    "T_invariant_K": 1293.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.768,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid ↔ CoTi2 + β-Ti",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "COTI2",
+     "HCP_A3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/bf02873414",
+   "10.1007/s42243-021-00736-6"
+  ],
+  "papers": [
+   "doi:10.1007/bf02873414",
+   "doi:10.1007/s42243-021-00736-6"
+  ]
+ }
+}

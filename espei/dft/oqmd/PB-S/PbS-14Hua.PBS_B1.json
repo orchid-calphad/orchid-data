@@ -1,7 +1,8 @@
 {
  "components": [
   "PB",
-  "S"
+  "S",
+  "VA"
  ],
  "phases": [
   "PBS_B1"

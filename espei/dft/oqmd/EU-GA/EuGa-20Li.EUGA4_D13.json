@@ -1,7 +1,8 @@
 {
  "components": [
   "EU",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "EUGA4_D13"

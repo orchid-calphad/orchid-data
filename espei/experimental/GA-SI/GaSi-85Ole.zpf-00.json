@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "LIQUID"

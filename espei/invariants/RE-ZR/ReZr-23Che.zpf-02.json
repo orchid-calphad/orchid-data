@@ -1,62 +1,22 @@
 {
  "components": [
   "RE",
+  "VA",
   "ZR"
  ],
  "phases": [
   "C14_LAVES",
   "LIQUID",
-  "RE24ZR5_A12",
   "RE25ZR21"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   2800.0,
-   1913.0,
-   3023.0
+   1913.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "RE24ZR5_A12",
-    [
-     "ZR"
-    ],
-    [
-     0.172414
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.2528735
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -94,26 +54,6 @@
      0.3949275
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.333333
-    ]
-   ]
   ]
  ],
  "reference": "Che 2023, doi:10.1016/j.ijrmhm.2023.106259",
@@ -123,22 +63,14 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H5QNKD7GHY ORC-E3JWRNSD75 ORC-UEUUUWCZTD",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-E3JWRNSD75",
  "bibtex": "che2023_03cab4",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-H5QNKD7GHY",
-    "paper": "doi:10.1016/j.ijrmhm.2023.106259"
-   },
-   {
     "id": "ORC-E3JWRNSD75",
-    "paper": "doi:10.1016/j.ijrmhm.2023.106259"
-   },
-   {
-    "id": "ORC-UEUUUWCZTD",
     "paper": "doi:10.1016/j.ijrmhm.2023.106259"
    }
   ],
@@ -148,19 +80,12 @@
   "dois": [
    "10.1016/j.ijrmhm.2023.106259"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/ReZr-23Che/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/ReZr-23Che/zpf-02.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

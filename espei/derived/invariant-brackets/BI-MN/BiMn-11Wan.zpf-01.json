@@ -1,0 +1,473 @@
+{
+ "components": [
+  "BI",
+  "MN",
+  "VA"
+ ],
+ "phases": [
+  "BIMN_B81",
+  "BIMN_B82",
+  "CBCC_A12",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   545.15,
+   525.15,
+   623.15,
+   603.15,
+   638.15,
+   618.15,
+   729.15,
+   709.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.022
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.012
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.032
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.012
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.032
+    ]
+   ]
+  ],
+  [
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5095
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5285
+    ]
+   ]
+  ],
+  [
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5095
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5285
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.4905
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5095
+    ]
+   ]
+  ],
+  [
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.4905
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.5095
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.509
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.529
+    ]
+   ]
+  ],
+  [
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.509
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.529
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2011, doi:10.1016/j.jnucmat.2011.02.021",
+ "bibtex": "wang2011_d82a62",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-MN/BiMn-11Wan.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-DU7QHGUM4I ORC-MLTE6MPFN2 ORC-YK4W4DS3UZ ORC-YR6XMCIYKQ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/BI-MN/BiMn-11Wan.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-YR6XMCIYKQ",
+    "side": "above",
+    "T_invariant_K": 535.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.022,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (Bi) + αBiMn",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RHOMBOHEDRAL_A7",
+     "BIMN_B81"
+    ]
+   },
+   {
+    "source_observation": "ORC-YR6XMCIYKQ",
+    "side": "below",
+    "T_invariant_K": 535.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.022,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (Bi) + αBiMn",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RHOMBOHEDRAL_A7",
+     "BIMN_B81"
+    ]
+   },
+   {
+    "source_observation": "ORC-MLTE6MPFN2",
+    "side": "above",
+    "T_invariant_K": 613.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.519,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "βBiMn ↔ αBiMn + αMn",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "BIMN_B82"
+    ],
+    "phases_below": [
+     "BIMN_B81",
+     "CBCC_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-MLTE6MPFN2",
+    "side": "below",
+    "T_invariant_K": 613.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.519,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "βBiMn ↔ αBiMn + αMn",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "BIMN_B82"
+    ],
+    "phases_below": [
+     "BIMN_B81",
+     "CBCC_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-DU7QHGUM4I",
+    "side": "above",
+    "T_invariant_K": 628.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "L + βBiMn ↔ αBiMn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "BIMN_B82"
+    ],
+    "phases_below": [
+     "BIMN_B81"
+    ]
+   },
+   {
+    "source_observation": "ORC-DU7QHGUM4I",
+    "side": "below",
+    "T_invariant_K": 628.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "L + βBiMn ↔ αBiMn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "BIMN_B82"
+    ],
+    "phases_below": [
+     "BIMN_B81"
+    ]
+   },
+   {
+    "source_observation": "ORC-YK4W4DS3UZ",
+    "side": "above",
+    "T_invariant_K": 719.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.519,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + αMn ↔ βBiMn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CBCC_A12"
+    ],
+    "phases_below": [
+     "BIMN_B82"
+    ]
+   },
+   {
+    "source_observation": "ORC-YK4W4DS3UZ",
+    "side": "below",
+    "T_invariant_K": 719.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.519,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + αMn ↔ βBiMn",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CBCC_A12"
+    ],
+    "phases_below": [
+     "BIMN_B82"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2011.02.021"
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2011.02.021"
+  ]
+ }
+}

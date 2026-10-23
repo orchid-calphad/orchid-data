@@ -1,7 +1,8 @@
 {
  "components": [
   "LI",
-  "N"
+  "N",
+  "VA"
  ],
  "phases": [
   "LI3N"

@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -12,23 +13,13 @@
   "X_TA": [
    0.3333,
    0.3333,
-   0.3333,
    0.625,
    0.625,
    0.625,
    0.625,
-   0.625,
-   0.625,
-   0.6667,
    0.6667,
    0.6667,
    0.75,
-   0.75,
-   0.75,
-   0.3333,
-   0.625,
-   0.625,
-   0.6667,
    0.75
   ]
  },
@@ -38,23 +29,13 @@
    [
     0.024162,
     3.864211,
-    0.024162,
     -0.777086,
     0.276595,
-    -0.777086,
     -0.776768,
     0.556494,
-    -0.776768,
     0.581966,
     -1.034815,
-    0.581966,
     -0.422237,
-    0.10907,
-    -0.422237,
-    3.864211,
-    0.276595,
-    0.556494,
-    -1.034815,
     0.10907
    ]
   ]
@@ -67,7 +48,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-52ICL23NCF.7bf4cd ORC-52ICL23NCF.4797d4 ORC-52ICL23NCF.7bf4cd ORC-25XRJVWZGZ.d7e6d4 ORC-25XRJVWZGZ.4d903d ORC-25XRJVWZGZ.d7e6d4 ORC-WJ5E2FLXGU.514a85 ORC-WJ5E2FLXGU.a7d892 ORC-WJ5E2FLXGU.514a85 ORC-RHDBHMGIWB.0b02d4 ORC-RHDBHMGIWB.f9ad42 ORC-RHDBHMGIWB.0b02d4 ORC-GDYQLC5AAG.abe02a ORC-GDYQLC5AAG.70774e ORC-GDYQLC5AAG.abe02a ORC-52ICL23NCF.4797d4 ORC-25XRJVWZGZ.4d903d ORC-WJ5E2FLXGU.a7d892 ORC-RHDBHMGIWB.f9ad42 ORC-GDYQLC5AAG.70774e",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-52ICL23NCF.7bf4cd ORC-52ICL23NCF.4797d4 ORC-25XRJVWZGZ.d7e6d4 ORC-25XRJVWZGZ.4d903d ORC-WJ5E2FLXGU.514a85 ORC-WJ5E2FLXGU.a7d892 ORC-RHDBHMGIWB.0b02d4 ORC-RHDBHMGIWB.f9ad42 ORC-GDYQLC5AAG.abe02a ORC-GDYQLC5AAG.70774e",
  "orchid_model_evidence": {
   "tdb": {
    "name": "SiTa-13Dro.tdb",
@@ -102,121 +83,91 @@
     "id": "ORC-52ICL23NCF.7bf4cd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-52ICL23NCF.7bf4cd"
+    ]
    },
    {
     "id": "ORC-52ICL23NCF.4797d4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-52ICL23NCF.7bf4cd",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-52ICL23NCF.4797d4"
+    ]
    },
    {
     "id": "ORC-25XRJVWZGZ.d7e6d4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-25XRJVWZGZ.d7e6d4"
+    ]
    },
    {
     "id": "ORC-25XRJVWZGZ.4d903d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-25XRJVWZGZ.d7e6d4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-25XRJVWZGZ.4d903d"
+    ]
    },
    {
     "id": "ORC-WJ5E2FLXGU.514a85",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-WJ5E2FLXGU.514a85"
+    ]
    },
    {
     "id": "ORC-WJ5E2FLXGU.a7d892",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-WJ5E2FLXGU.514a85",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-WJ5E2FLXGU.a7d892"
+    ]
    },
    {
     "id": "ORC-RHDBHMGIWB.0b02d4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-RHDBHMGIWB.0b02d4"
+    ]
    },
    {
     "id": "ORC-RHDBHMGIWB.f9ad42",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-RHDBHMGIWB.0b02d4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-RHDBHMGIWB.f9ad42"
+    ]
    },
    {
     "id": "ORC-GDYQLC5AAG.abe02a",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-GDYQLC5AAG.abe02a"
+    ]
    },
    {
     "id": "ORC-GDYQLC5AAG.70774e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-GDYQLC5AAG.abe02a",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-52ICL23NCF.4797d4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-25XRJVWZGZ.4d903d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-WJ5E2FLXGU.a7d892",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-RHDBHMGIWB.f9ad42",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
-   },
-   {
-    "id": "ORC-GDYQLC5AAG.70774e",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "doi:10.1016/j.jallcom.2012.09.148"
+    "measured_in": "doi:10.1016/j.jallcom.2012.09.148",
+    "also_read_as": [
+     "ORC-GDYQLC5AAG.70774e"
+    ]
    }
   ],
   "papers": [
@@ -225,7 +176,8 @@
   "dois": [
    "10.1016/j.jallcom.2012.09.148"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/SiTa-13Dro/sm-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/SiTa-13Dro/sm-model-01.json",
+  "values_dropped": 10
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -235,56 +187,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

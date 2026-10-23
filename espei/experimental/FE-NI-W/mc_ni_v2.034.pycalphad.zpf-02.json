@@ -2,6 +2,7 @@
  "components": [
   "FE",
   "NI",
+  "VA",
   "W"
  ],
  "phases": [
@@ -68,14 +69,6 @@
    1573.0,
    1573.0,
    1573.0,
-   1273.0,
-   1273.0,
-   1273.0,
-   1273.0,
-   1273.0,
-   1273.0,
-   1273.0,
-   1273.0,
    1273.0,
    1273.0,
    1273.0,
@@ -1374,154 +1367,6 @@
   ],
   [
    [
-    "BCC_A2",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.055962,
-     0.913082
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.608933,
-     0.055999
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.053123,
-     0.915858
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.616828,
-     0.059611
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.757837,
-     0.129906
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.668569,
-     0.082926
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.515355,
-     0.044561
-    ]
-   ]
-  ],
-  [
-   [
-    "MU_PHASE",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.132127,
-     0.414111
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.083502,
-     0.034558
-    ]
-   ],
-   [
-    "MU_PHASE",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.015674,
-     0.361977
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.096405,
-     0.026891
-    ]
-   ],
-   [
-    "MU_PHASE",
-    [
-     "NI",
-     "W"
-    ],
-    [
-     0.015918,
-     0.374374
-    ]
-   ]
-  ],
-  [
-   [
     "FCC_A1",
     [
      "NI",
@@ -2145,7 +1990,7 @@
   "phase_compositions_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O7MVIUVTXO ORC-MVHYUS5BCF ORC-33BOV6UNYA ORC-LEAIBI7GFQ ORC-WKAXEOXF6D ORC-FVBE7MWF22 ORC-J2G2EI3YQC ORC-R7PJ3OR4TB ORC-IWEX5MU4EB ORC-GLAUKN6WBL ORC-2GIQMBRJRR ORC-HW7GEN72DZ ORC-YUD2P5AADY ORC-RBELYL73OR ORC-QHDVCJACK5 ORC-FAZGX5NIV7 ORC-6FPOWKIFY4 ORC-J4RDKKLL4V ORC-3JX4AYGEAF ORC-ITBEQNHORA ORC-BP3WOKC56Q ORC-WQMXB3U4DV ORC-CLL2WVEOTT ORC-VISRNJD373 ORC-P7MGIDHWID ORC-POV2543FN7 ORC-R74TLTMIY6 ORC-XPIOAETQNT ORC-OFOOVXJYR6 ORC-S5MK3VSJYK ORC-AWH65MGY5E ORC-VTKPOMOFVA ORC-4IEUSTCIAT ORC-OL2HECG3I3 ORC-FAURC6C5NB ORC-DDCYKYX77K ORC-AVCBZCHLVA ORC-MI7WU7ZB7M ORC-MS75HAUDGA ORC-CYOKH2ESSL ORC-FJYWIGECEB ORC-RXZXX6AQX7 ORC-DWYYOGPJFO ORC-XJPZTXS226 ORC-6RX2CEFFI7 ORC-Y2BLCXDJMF ORC-L342V32OUO ORC-Y6RX732XTQ ORC-H3PYKA2RES ORC-D5UED4DLD7 ORC-EHQV4KVHEX ORC-LJZHN25CJU ORC-X6FNQQLLB2 ORC-EAGE3JUBE6 ORC-ZLUV7LUYMY ORC-PJQ5IMCYSN ORC-CNWR63A4F6 ORC-CTVARWU3KT ORC-3WYM3QJA22 ORC-4XSJAB6Z5E ORC-76WA7VCZQG ORC-RHBNPKZ6NF ORC-CNMLRPML34 ORC-45SO2GRCJ2 ORC-CNWR63A4F6 ORC-CTVARWU3KT ORC-3WYM3QJA22 ORC-4XSJAB6Z5E ORC-76WA7VCZQG ORC-RHBNPKZ6NF ORC-CNMLRPML34 ORC-45SO2GRCJ2 ORC-NFH2J4IUZV ORC-V3PZLPFJHA ORC-NZVQDRDSWO ORC-NZIU55QBMB ORC-7COMK3IGLC ORC-2H7HD2GI2P ORC-PFJ4IVWTWF ORC-GVWWWO4RSK ORC-3HGQPZJDEK ORC-WMN2ZUXLVF ORC-PYML4HQJBC ORC-BDHLH7LEJI ORC-V3J3NKN2DT ORC-FDQDZNKVQH ORC-4DX2V7UYVM ORC-DX2DZ4YCRK ORC-YU5T4UZ7WK ORC-OCWE5IGLOZ ORC-WUR5W4RPY6 ORC-M4WSEUSUD7 ORC-P6SGHEUVFK ORC-W33JBFM7ZI ORC-6VUXZ467JI ORC-WIRAFLZQLN ORC-LEWS7AXGMX ORC-6I2R6JBCDX ORC-56SPVWMWRT ORC-WUPN3FPO6S ORC-LTSN2SIX3I ORC-7EDDWHJIPT ORC-AMENNRR5BD ORC-GJ3AD6CUET ORC-XIVM5LC4YU ORC-FNVFHWZVGF",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O7MVIUVTXO ORC-MVHYUS5BCF ORC-33BOV6UNYA ORC-LEAIBI7GFQ ORC-WKAXEOXF6D ORC-FVBE7MWF22 ORC-J2G2EI3YQC ORC-R7PJ3OR4TB ORC-IWEX5MU4EB ORC-GLAUKN6WBL ORC-2GIQMBRJRR ORC-HW7GEN72DZ ORC-YUD2P5AADY ORC-RBELYL73OR ORC-QHDVCJACK5 ORC-FAZGX5NIV7 ORC-6FPOWKIFY4 ORC-J4RDKKLL4V ORC-3JX4AYGEAF ORC-ITBEQNHORA ORC-BP3WOKC56Q ORC-WQMXB3U4DV ORC-CLL2WVEOTT ORC-VISRNJD373 ORC-P7MGIDHWID ORC-POV2543FN7 ORC-R74TLTMIY6 ORC-XPIOAETQNT ORC-OFOOVXJYR6 ORC-S5MK3VSJYK ORC-AWH65MGY5E ORC-VTKPOMOFVA ORC-4IEUSTCIAT ORC-OL2HECG3I3 ORC-FAURC6C5NB ORC-DDCYKYX77K ORC-AVCBZCHLVA ORC-MI7WU7ZB7M ORC-MS75HAUDGA ORC-CYOKH2ESSL ORC-FJYWIGECEB ORC-RXZXX6AQX7 ORC-DWYYOGPJFO ORC-XJPZTXS226 ORC-6RX2CEFFI7 ORC-Y2BLCXDJMF ORC-L342V32OUO ORC-Y6RX732XTQ ORC-H3PYKA2RES ORC-D5UED4DLD7 ORC-EHQV4KVHEX ORC-LJZHN25CJU ORC-X6FNQQLLB2 ORC-EAGE3JUBE6 ORC-ZLUV7LUYMY ORC-PJQ5IMCYSN ORC-CNWR63A4F6 ORC-CTVARWU3KT ORC-3WYM3QJA22 ORC-4XSJAB6Z5E ORC-76WA7VCZQG ORC-RHBNPKZ6NF ORC-CNMLRPML34 ORC-45SO2GRCJ2 ORC-NFH2J4IUZV ORC-V3PZLPFJHA ORC-NZVQDRDSWO ORC-NZIU55QBMB ORC-7COMK3IGLC ORC-2H7HD2GI2P ORC-PFJ4IVWTWF ORC-GVWWWO4RSK ORC-3HGQPZJDEK ORC-WMN2ZUXLVF ORC-PYML4HQJBC ORC-BDHLH7LEJI ORC-V3J3NKN2DT ORC-FDQDZNKVQH ORC-4DX2V7UYVM ORC-DX2DZ4YCRK ORC-YU5T4UZ7WK ORC-OCWE5IGLOZ ORC-WUR5W4RPY6 ORC-M4WSEUSUD7 ORC-P6SGHEUVFK ORC-W33JBFM7ZI ORC-6VUXZ467JI ORC-WIRAFLZQLN ORC-LEWS7AXGMX ORC-6I2R6JBCDX ORC-56SPVWMWRT ORC-WUPN3FPO6S ORC-LTSN2SIX3I ORC-7EDDWHJIPT ORC-AMENNRR5BD ORC-GJ3AD6CUET ORC-XIVM5LC4YU ORC-FNVFHWZVGF",
  "bibtex": "guillermet1986_68499b",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -2491,97 +2336,73 @@
     "id": "ORC-CNWR63A4F6",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-CNWR63A4F6"
+    ]
    },
    {
     "id": "ORC-CTVARWU3KT",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-CTVARWU3KT"
+    ]
    },
    {
     "id": "ORC-3WYM3QJA22",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-3WYM3QJA22"
+    ]
    },
    {
     "id": "ORC-4XSJAB6Z5E",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-4XSJAB6Z5E"
+    ]
    },
    {
     "id": "ORC-76WA7VCZQG",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-76WA7VCZQG"
+    ]
    },
    {
     "id": "ORC-RHBNPKZ6NF",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-RHBNPKZ6NF"
+    ]
    },
    {
     "id": "ORC-CNMLRPML34",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-CNMLRPML34"
+    ]
    },
    {
     "id": "ORC-45SO2GRCJ2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-CNWR63A4F6",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-CTVARWU3KT",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-3WYM3QJA22",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-4XSJAB6Z5E",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-76WA7VCZQG",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-RHBNPKZ6NF",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-CNMLRPML34",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
-   },
-   {
-    "id": "ORC-45SO2GRCJ2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02817278",
-    "measured_in": "doi:10.1007/bf02817278"
+    "measured_in": "doi:10.1007/bf02817278",
+    "also_read_as": [
+     "ORC-45SO2GRCJ2"
+    ]
    },
    {
     "id": "ORC-NFH2J4IUZV",
@@ -2794,43 +2615,12 @@
   "dois": [
    "10.1007/bf02817278"
   ],
-  "source_dataset": "db-v2.1/general/espei/mc_ni_v2.034.pycalphad/zpf-02.json"
+  "source_dataset": "db-v2.1/general/espei/mc_ni_v2.034.pycalphad/zpf-02.json",
+  "values_dropped": 8
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

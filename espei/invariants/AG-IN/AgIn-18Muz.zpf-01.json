@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "IN"
+  "IN",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

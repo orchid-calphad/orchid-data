@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
   "AU36ND17",
@@ -91,7 +92,7 @@
      "ND"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -111,7 +112,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -120,7 +121,7 @@
      "ND"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -140,7 +141,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -151,7 +152,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -160,7 +161,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -171,7 +172,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -180,7 +181,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -200,7 +201,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -209,7 +210,7 @@
      "ND"
     ],
     [
-     0.42857142857142855
+     null
     ]
    ]
   ],
@@ -229,7 +230,7 @@
      "ND"
     ],
     [
-     0.42857142857142855
+     null
     ]
    ],
    [
@@ -238,7 +239,7 @@
      "ND"
     ],
     [
-     0.32075471698113206
+     null
     ]
    ]
   ],
@@ -258,7 +259,7 @@
      "ND"
     ],
     [
-     0.32075471698113206
+     null
     ]
    ],
    [
@@ -287,7 +288,7 @@
      "ND"
     ],
     [
-     0.32075471698113206
+     null
     ]
    ],
    [
@@ -296,7 +297,7 @@
      "ND"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ]
   ],
@@ -316,7 +317,7 @@
      "ND"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ],
    [
@@ -345,7 +346,7 @@
      "ND"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ],
    [
@@ -354,7 +355,7 @@
      "ND"
     ],
     [
-     0.14285714285714285
+     null
     ]
    ]
   ],
@@ -374,7 +375,7 @@
      "ND"
     ],
     [
-     0.14285714285714285
+     null
     ]
    ],
    [
@@ -521,5 +522,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 19,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

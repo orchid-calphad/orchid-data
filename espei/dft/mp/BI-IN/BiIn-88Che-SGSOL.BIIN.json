@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "IN"
+  "IN",
+  "VA"
  ],
  "phases": [
   "BIIN"

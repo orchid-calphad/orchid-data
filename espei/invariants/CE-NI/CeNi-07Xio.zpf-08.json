@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "CENI5_D2D",

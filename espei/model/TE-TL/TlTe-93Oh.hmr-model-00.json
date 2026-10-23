@@ -1,7 +1,8 @@
 {
  "components": [
   "TE",
-  "TL"
+  "TL",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,8 +12,6 @@
   "T": 298.0,
   "X_TL": [
    0.4,
-   0.4,
-   0.5,
    0.5
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     -17910.0,
-    -17910.0,
-    -22530.0,
     -22530.0
    ]
   ]
@@ -35,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FSP75VD3H4.6cc764 ORC-FSP75VD3H4.b580b3 ORC-LYBAGZYJQA.face3e ORC-LYBAGZYJQA.d19b91",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FSP75VD3H4.6cc764 ORC-LYBAGZYJQA.face3e",
  "reference_states": {
   "TE": {
    "phase": "HEXAGONAL_A8",
@@ -84,25 +81,19 @@
     "id": "ORC-FSP75VD3H4.6cc764",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667808",
-    "measured_in": "doi:10.1007/bf02667808"
-   },
-   {
-    "id": "ORC-FSP75VD3H4.b580b3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02667808",
-    "measured_in": "doi:10.1007/bf02667808"
+    "measured_in": "doi:10.1007/bf02667808",
+    "also_read_as": [
+     "ORC-FSP75VD3H4.b580b3"
+    ]
    },
    {
     "id": "ORC-LYBAGZYJQA.face3e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667808",
-    "measured_in": "doi:10.1007/bf02667808"
-   },
-   {
-    "id": "ORC-LYBAGZYJQA.d19b91",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02667808",
-    "measured_in": "doi:10.1007/bf02667808"
+    "measured_in": "doi:10.1007/bf02667808",
+    "also_read_as": [
+     "ORC-LYBAGZYJQA.d19b91"
+    ]
    }
   ],
   "papers": [
@@ -111,7 +102,8 @@
   "dois": [
    "10.1007/bf02667808"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/TlTe-93Oh/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/TlTe-93Oh/hmr-model-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -121,16 +113,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

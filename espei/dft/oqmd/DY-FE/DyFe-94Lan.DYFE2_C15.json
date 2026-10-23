@@ -1,7 +1,8 @@
 {
  "components": [
   "DY",
-  "FE"
+  "FE",
+  "VA"
  ],
  "phases": [
   "DYFE2_C15"

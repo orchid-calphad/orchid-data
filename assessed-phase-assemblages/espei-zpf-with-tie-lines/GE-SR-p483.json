@@ -54,7 +54,7 @@
      "SR"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -94,7 +94,7 @@
      "SR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -103,7 +103,16 @@
      "SR"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.5623409704
     ]
    ]
   ],
@@ -114,7 +123,7 @@
      "SR"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -123,7 +132,16 @@
      "SR"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6464314703
     ]
    ]
   ],
@@ -134,7 +152,7 @@
      "SR"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -154,7 +172,7 @@
      "SR"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -203,7 +221,7 @@
      "SR"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -283,7 +301,7 @@
      "SR"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -332,7 +350,7 @@
      "SR"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -381,7 +399,7 @@
      "SR"
     ],
     [
-     0.625
+     null
     ]
    ]
   ],
@@ -417,6 +435,11 @@
  ],
  "reference": "A. Palenzona and M. Pani, J. Alloys Compd., 402, 136-140 (2005) doi:10.1016/j.jallcom.2005.04.189; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 483",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GE-SR-p483; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GE-SR-p483",

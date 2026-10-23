@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "P"
+  "P",
+  "VA"
  ],
  "phases": [
   "FEP_B31"

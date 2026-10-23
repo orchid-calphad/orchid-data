@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -20,7 +21,6 @@
    1208.0,
    1255.0,
    1233.0,
-   1288.0,
    1282.0,
    1153.0,
    1145.0,
@@ -36,7 +36,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -45,7 +45,7 @@
      "TI"
     ],
     [
-     0.428571
+     null
     ]
    ],
    [
@@ -54,7 +54,16 @@
      "TI"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3873014444
     ]
    ]
   ],
@@ -83,7 +92,7 @@
      "TI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -132,27 +141,7 @@
      "TI"
     ],
     [
-     0.6666666666666666
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     0.667
-    ]
-   ],
-   [
-    "CUTI2",
-    [
-     "TI"
-    ],
-    [
-     0.666667
+     null
     ]
    ]
   ],
@@ -172,7 +161,7 @@
      "TI"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -210,7 +199,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -221,7 +210,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -239,7 +228,7 @@
      "TI"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -268,7 +257,7 @@
      "TI"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -277,7 +266,16 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3666666667
     ]
    ]
   ]
@@ -289,7 +287,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QYSARIJ646 ORC-UFLESJTJC7 ORC-7VZBIWTK23 ORC-6Z6BKGLS7R ORC-ZBETWGM42E ORC-WEOZKS7FXX ORC-RT6JDDH6BX ORC-LK5YMMWBRA ORC-RWIIQTNFJK",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QYSARIJ646 ORC-UFLESJTJC7 ORC-7VZBIWTK23 ORC-6Z6BKGLS7R ORC-WEOZKS7FXX ORC-RT6JDDH6BX ORC-LK5YMMWBRA ORC-RWIIQTNFJK",
  "bibtex": "turchanin2008_727b32",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -309,10 +307,6 @@
    },
    {
     "id": "ORC-6Z6BKGLS7R",
-    "paper": "doi:10.1007/s11106-008-9026-2"
-   },
-   {
-    "id": "ORC-ZBETWGM42E",
     "paper": "doi:10.1007/s11106-008-9026-2"
    },
    {
@@ -338,7 +332,8 @@
   "dois": [
    "10.1007/s11106-008-9026-2"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-07.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-07.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -374,12 +369,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 11,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

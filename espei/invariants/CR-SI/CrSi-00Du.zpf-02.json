@@ -1,7 +1,8 @@
 {
  "components": [
   "CR",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -21,7 +22,6 @@
    1686.15,
    1953.15,
    1933.15,
-   2043.15,
    1978.15
   ]
  },
@@ -101,7 +101,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -130,7 +130,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -139,7 +139,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -168,7 +168,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -188,7 +188,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -207,26 +207,6 @@
     ],
     [
      0.3125
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "CR3SI_A15",
-    [
-     "SI"
-    ],
-    [
-     0.25
     ]
    ]
   ],
@@ -267,7 +247,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3Z4ZRYUGUH ORC-3T5AL6WJ4D ORC-KQO7HHNVAQ ORC-6TPFIBSFJP ORC-JDF4UKYOEJ ORC-LQIGM6HYAW ORC-QJKAYGXRDB ORC-DGRDIVVXBV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3Z4ZRYUGUH ORC-3T5AL6WJ4D ORC-KQO7HHNVAQ ORC-6TPFIBSFJP ORC-JDF4UKYOEJ ORC-LQIGM6HYAW ORC-DGRDIVVXBV",
  "bibtex": "chang1968_8b104c",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -304,11 +284,6 @@
     "measured_in": "ref:efe0f735c24f3f3e"
    },
    {
-    "id": "ORC-QJKAYGXRDB",
-    "paper": "doi:10.1361/105497100770340066",
-    "measured_in": "ref:efe0f735c24f3f3e"
-   },
-   {
     "id": "ORC-DGRDIVVXBV",
     "paper": "doi:10.1361/105497100770340066",
     "measured_in": "ref:efe0f735c24f3f3e"
@@ -321,7 +296,8 @@
   "dois": [
    "10.1361/105497100770340066"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CrSi-00Du/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/CrSi-00Du/zpf-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -365,16 +341,15 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 10.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
     "temperature_sigma_K": 5.0,
     "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

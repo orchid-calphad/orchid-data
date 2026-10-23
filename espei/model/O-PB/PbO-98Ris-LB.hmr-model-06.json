@@ -1,7 +1,8 @@
 {
  "components": [
   "O",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 298.15,
   "X_PB": [
-   0.387097,
    0.387097
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    -100368.2258064516,
     -100368.2258064516
    ]
   ]
@@ -33,7 +32,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GBISJLEMBL.0f5ba0 ORC-GBISJLEMBL.0f5ba0",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GBISJLEMBL.0f5ba0",
  "reference_states": {
   "O": {
    "phase": "1",
@@ -85,15 +84,9 @@
     "measured_in": "doi:10.1361/105497198770342238",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-GBISJLEMBL.0f5ba0",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497198770342238",
-    "measured_in": "doi:10.1361/105497198770342238",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-GBISJLEMBL.0f5ba0"
     ]
    }
   ],
@@ -103,7 +96,8 @@
   "dois": [
    "10.1361/105497198770342238"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/PbO-98Ris-LB/hmr-model-06.json"
+  "source_dataset": "db-v2.1/general/espei-model/PbO-98Ris-LB/hmr-model-06.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -113,11 +107,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

@@ -58,7 +58,14 @@
    {
     "id": "ORC-CI3MTR7FUI",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02648368"
+    "paper": "doi:10.1007/bf02648368",
+    "also_reported_as": [
+     {
+      "id": "ORC-GPDLUMNRZX",
+      "paper": "doi:10.1007/bf02648368",
+      "dataset": "experimental/SE-SN/SnSe-96Feu-LB.zpf-16.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -67,7 +74,8 @@
   "dois": [
    "10.1007/bf02648368"
   ],
-  "source_dataset": "db-v2.1/general/espei/SnSe-96Feu-LB/zpf-11.json"
+  "source_dataset": "db-v2.1/general/espei/SnSe-96Feu-LB/zpf-11.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

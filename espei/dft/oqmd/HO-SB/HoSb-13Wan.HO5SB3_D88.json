@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "HO5SB3_D88"

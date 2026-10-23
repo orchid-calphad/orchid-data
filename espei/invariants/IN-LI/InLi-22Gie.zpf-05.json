@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "LI"
+  "LI",
+  "VA"
  ],
  "phases": [
   "INLI_B32",

@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "ER2TE3"

@@ -1,0 +1,193 @@
+{
+ "components": [
+  "K",
+  "NA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "KNA2_C14",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   240.3350211,
+   246.3350211,
+   284.3350211,
+   341.8350211,
+   268.8350211,
+   307.8350211
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     0.3089350617
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "KNA2_C14",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.8303115071
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.1236235489
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.4606901654
+    ]
+   ]
+  ],
+  [
+   [
+    "KNA2_C14",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.5398231898
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.8708797032
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.W. Bale, Bull. Alloy Phase Diagrams, 3(3), 313-318 (1982) doi:10.1007/bf02869301; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 576",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram K-NA-p576; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to KNa-06Zha.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "K-NA-p576",
+  "target_tdb": "KNa-06Zha.tdb",
+  "record_ids": [
+   "aspa-06282c01f98b4cd6",
+   "aspa-3ed7ad0a5dbcecbc",
+   "aspa-9a06bb0690f0c954",
+   "aspa-d235efaa12eca4d0",
+   "aspa-7d72995d8267360a",
+   "aspa-83e73e86c54c9857"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/K-NA-p576.json"
+ }
+}

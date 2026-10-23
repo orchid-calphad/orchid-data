@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "TB"
+  "TB",
+  "VA"
  ],
  "phases": [
   "AG51TB14",

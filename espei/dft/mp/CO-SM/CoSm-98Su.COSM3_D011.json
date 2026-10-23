@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "COSM3_D011"

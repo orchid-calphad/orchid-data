@@ -1,21 +1,18 @@
 {
  "components": [
   "BI",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "BI3NI",
   "BINI_B81",
-  "FCC_A1",
-  "LIQUID",
-  "RHOMBOHEDRAL_A7"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   927,
-   735,
-   542
+   735
   ]
  },
  "output": "ZPF",
@@ -31,35 +28,6 @@
     ]
    ],
    [
-    "FCC_A1",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BINI_B81",
-    [
-     "NI"
-    ],
-    [
-     0.5
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "BINI_B81",
     [
      "NI"
@@ -74,7 +42,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -86,35 +54,6 @@
      0.375
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BI3NI",
-    [
-     "NI"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "RHOMBOHEDRAL_A7",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Portevin 1908, doi:10.1051/metal/190805030110",
@@ -124,24 +63,14 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWI2LVLAEK ORC-GORZHNZ3PB ORC-MZKAN6IWZA",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GORZHNZ3PB",
  "bibtex": "portevin1908_5d4349",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-ZWI2LVLAEK",
-    "paper": "doi:10.1016/s1003-6326(11)60690-0",
-    "measured_in": "doi:10.1051/metal/190805030110"
-   },
-   {
     "id": "ORC-GORZHNZ3PB",
-    "paper": "doi:10.1016/s1003-6326(11)60690-0",
-    "measured_in": "doi:10.1051/metal/190805030110"
-   },
-   {
-    "id": "ORC-MZKAN6IWZA",
     "paper": "doi:10.1016/s1003-6326(11)60690-0",
     "measured_in": "doi:10.1051/metal/190805030110"
    }
@@ -154,7 +83,8 @@
    "10.1016/s1003-6326(11)60690-0",
    "10.1051/metal/190805030110"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiNi-11Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiNi-11Wan/zpf-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -162,16 +92,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

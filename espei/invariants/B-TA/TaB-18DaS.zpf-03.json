@@ -1,17 +1,15 @@
 {
  "components": [
   "B",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
   "BETA_RHOMBO_B",
   "LIQUID",
   "TA2B_C16",
-  "TA3B2_D5A",
-  "TA3B4_D7B",
   "TAB2_C32",
-  "TAB_B27",
   "TAB_B33"
  ],
  "conditions": {
@@ -19,10 +17,6 @@
   "T": [
    2633.0,
    2653.0,
-   2313.0,
-   2453.0,
-   3303.0,
-   3263.0,
    2343.0
   ]
  },
@@ -88,122 +82,6 @@
   ],
   [
    [
-    "TA2B_C16",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TA3B2_D5A",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "TAB_B33",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TA2B_C16",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TA3B2_D5A",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TAB_B27",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TA3B4_D7B",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TAB2_C32",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TA3B4_D7B",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "TA"
@@ -239,7 +117,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AUX6JA2FGZ ORC-2GX3BCUNFG ORC-5F26ONGTO6 ORC-BG6IE62SPA ORC-S3L2S7L4QQ ORC-7WU4BPB4KQ ORC-S5T3LM3SDX",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AUX6JA2FGZ ORC-2GX3BCUNFG ORC-S5T3LM3SDX",
  "bibtex": "silva2018_57fad7",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -254,22 +132,6 @@
     "paper": "doi:10.1016/j.calphad.2018.08.012"
    },
    {
-    "id": "ORC-5F26ONGTO6",
-    "paper": "doi:10.1016/j.calphad.2018.08.012"
-   },
-   {
-    "id": "ORC-BG6IE62SPA",
-    "paper": "doi:10.1016/j.calphad.2018.08.012"
-   },
-   {
-    "id": "ORC-S3L2S7L4QQ",
-    "paper": "doi:10.1016/j.calphad.2018.08.012"
-   },
-   {
-    "id": "ORC-7WU4BPB4KQ",
-    "paper": "doi:10.1016/j.calphad.2018.08.012"
-   },
-   {
     "id": "ORC-S5T3LM3SDX",
     "paper": "doi:10.1016/j.calphad.2018.08.012"
    }
@@ -280,27 +142,12 @@
   "dois": [
    "10.1016/j.calphad.2018.08.012"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/TaB-18DaS/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/TaB-18DaS/zpf-03.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

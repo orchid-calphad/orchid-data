@@ -1,7 +1,8 @@
 {
  "components": [
   "CA",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "CA5GE3_D8L"

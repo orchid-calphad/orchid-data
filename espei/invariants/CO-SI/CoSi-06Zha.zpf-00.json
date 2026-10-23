@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "CO2SI_BETA",
@@ -46,7 +47,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -156,18 +157,28 @@
    },
    {
     "id": "ORC-JH575NUFI7",
-    "paper": "doi:10.1016/j.calphad.2006.06.001"
+    "paper": "doi:10.1016/j.calphad.2006.06.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-APGGPVEQXZ",
+      "paper": "doi:10.1016/j.calphad.2006.06.001",
+      "dataset": "invariants/CO-SI/CoSi-06Zha.zpf-04.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/j.calphad.2006.06.001",
-   "doi:10.1002/srin.193400094"
+   "doi:10.1002/srin.193400094",
+   "doi:10.2320/jinstmet1937.1.3_135"
   ],
   "dois": [
    "10.1002/srin.193400094",
-   "10.1016/j.calphad.2006.06.001"
+   "10.1016/j.calphad.2006.06.001",
+   "10.2320/jinstmet1937.1.3_135"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoSi-06Zha/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoSi-06Zha/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -190,5 +201,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

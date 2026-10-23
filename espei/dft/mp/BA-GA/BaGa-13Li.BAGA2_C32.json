@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "BAGA2_C32"

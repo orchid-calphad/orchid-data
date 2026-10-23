@@ -1,6 +1,7 @@
 {
  "components": [
   "CE",
+  "VA",
   "ZN"
  ],
  "phases": [

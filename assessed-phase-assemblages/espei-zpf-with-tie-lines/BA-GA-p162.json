@@ -97,7 +97,7 @@
      "GA"
     ],
     [
-     0.467
+     null
     ]
    ],
    [
@@ -106,7 +106,16 @@
      "GA"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.566327633
     ]
    ]
   ],
@@ -117,7 +126,7 @@
      "GA"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -126,7 +135,16 @@
      "GA"
     ],
     [
-     0.8
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.7325064782
     ]
    ]
   ],
@@ -137,7 +155,7 @@
      "GA"
     ],
     [
-     0.8
+     null
     ]
    ],
    [
@@ -157,7 +175,7 @@
      "GA"
     ],
     [
-     0.8
+     null
     ]
    ],
    [
@@ -188,7 +206,7 @@
      "GA"
     ],
     [
-     0.091
+     null
     ]
    ],
    [
@@ -217,7 +235,7 @@
      "GA"
     ],
     [
-     0.467
+     null
     ]
    ]
   ],
@@ -257,7 +275,7 @@
      "GA"
     ],
     [
-     0.667
+     null
     ]
    ]
   ],
@@ -293,6 +311,11 @@
  ],
  "reference": "V.P. Itkin and C.B. Alcock, J. Phase Equilibria, 12(5), 575-577 (1991) doi:10.1007/bf02645073; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 162",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BA-GA-p162; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "BA-GA-p162",

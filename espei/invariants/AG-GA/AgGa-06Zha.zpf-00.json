@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "AG2GA_C22",

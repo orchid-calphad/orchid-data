@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -107,18 +108,29 @@
    {
     "id": "ORC-VNN4TB2EGU",
     "paper": "doi:10.1016/j.jallcom.2003.12.002",
-    "measured_in": "doi:10.1007/bf02645345"
+    "measured_in": "doi:10.1007/bf02645345",
+    "also_reported_as": [
+     {
+      "id": "ORC-5WUZZGTKTI",
+      "paper": "doi:10.1361/15477030419522",
+      "measured_in": "doi:10.1361/15477030419522",
+      "dataset": "invariants/CO-ZN/CoZn-04Vas-LB.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1007/bf02645345",
-   "doi:10.1016/j.jallcom.2003.12.002"
+   "doi:10.1016/j.jallcom.2003.12.002",
+   "doi:10.1361/15477030419522"
   ],
   "dois": [
    "10.1007/bf02645345",
-   "10.1016/j.jallcom.2003.12.002"
+   "10.1016/j.jallcom.2003.12.002",
+   "10.1361/15477030419522"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoZn-04Iso/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoZn-04Iso/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -1,7 +1,8 @@
 {
  "components": [
   "CA",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "CAGE_B33",
@@ -12,8 +13,6 @@
   "T": 1000.0,
   "X_GE": [
    0.5,
-   0.5,
-   0.5,
    0.5
   ]
  },
@@ -22,8 +21,6 @@
   [
    [
     -67800.0,
-    -67800.0,
-    -57500.0,
     -57500.0
    ]
   ]
@@ -35,7 +32,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4AWU77RDY6.8a28e1 ORC-4AWU77RDY6.8a28e1 ORC-JANYTACZLZ.6ff909 ORC-JANYTACZLZ.6ff909",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4AWU77RDY6.8a28e1 ORC-JANYTACZLZ.6ff909",
  "reference_states": {
   "CA": {
    "phase": "FCC_A1"
@@ -56,14 +53,9 @@
     "paper": "doi:10.1016/j.jallcom.2010.02.189",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-4AWU77RDY6.8a28e1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2010.02.189",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-4AWU77RDY6.8a28e1"
     ]
    },
    {
@@ -72,14 +64,9 @@
     "paper": "doi:10.1016/j.jallcom.2010.02.189",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-JANYTACZLZ.6ff909",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2010.02.189",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-JANYTACZLZ.6ff909"
     ]
    }
   ],
@@ -89,7 +76,8 @@
   "dois": [
    "10.1016/j.jallcom.2010.02.189"
   ],
-  "source_dataset": "db-v2.1/general/espei/CaGe-10Dja/hmr-01.json"
+  "source_dataset": "db-v2.1/general/espei/CaGe-10Dja/hmr-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -112,30 +100,6 @@
     "weight_used": 0.078125
    },
    {
-    "sigma": 2800.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 2.8,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.178571,
-    "weight_used": 0.078125
-   },
-   {
-    "sigma": 10000.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 10.0,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.05,
-    "weight_used": 0.078125
-   },
-   {
     "sigma": 10000.0,
     "sigma_basis": "printed",
     "printed": {
@@ -148,5 +112,13 @@
     "weight_used": 0.078125
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.078125,
+  "weight_written": 0.078125,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

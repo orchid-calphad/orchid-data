@@ -1,7 +1,8 @@
 {
  "components": [
   "EU",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "EUNI5_D2D"

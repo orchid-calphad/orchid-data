@@ -1,7 +1,8 @@
 {
  "components": [
   "LI",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -57,7 +58,7 @@
      "SN"
     ],
     [
-     0.19047619047619047
+     null
     ]
    ]
   ],
@@ -77,7 +78,7 @@
      "SN"
     ],
     [
-     0.19047619047619047
+     null
     ]
    ]
   ],
@@ -97,7 +98,7 @@
      "SN"
     ],
     [
-     0.19047619047619047
+     null
     ]
    ]
   ],
@@ -117,7 +118,7 @@
      "SN"
     ],
     [
-     0.19047619047619047
+     null
     ]
    ],
    [
@@ -155,7 +156,7 @@
      "SN"
     ],
     [
-     0.2777777777777778
+     null
     ]
    ],
    [
@@ -164,7 +165,7 @@
      "SN"
     ],
     [
-     0.2857142857142857
+     null
     ]
    ],
    [
@@ -193,7 +194,7 @@
      "SN"
     ],
     [
-     0.2857142857142857
+     null
     ]
    ],
    [
@@ -202,7 +203,7 @@
      "SN"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -231,7 +232,7 @@
      "SN"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -240,7 +241,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -269,7 +270,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -289,7 +290,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -298,7 +299,7 @@
      "SN"
     ],
     [
-     0.7142857142857143
+     null
     ]
    ],
    [
@@ -327,7 +328,7 @@
      "SN"
     ],
     [
-     0.7142857142857143
+     null
     ]
    ],
    [
@@ -362,22 +363,54 @@
    {
     "id": "ORC-H4NCT222IV",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1007/s12385-006-5008-6"
+    "measured_in": "doi:10.1007/s12385-006-5008-6",
+    "also_reported_as": [
+     {
+      "id": "ORC-VZZJZ5RKOT.9965fc",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "invariants/LI-SN/LiSn-14Li.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-I24MBRL6DQ",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1007/s12385-006-5008-6"
+    "measured_in": "doi:10.1007/s12385-006-5008-6",
+    "also_reported_as": [
+     {
+      "id": "ORC-TYPR4KDD2M",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "invariants/LI-SN/LiSn-14Li.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-PANWBJ7SO3",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1007/s12385-006-5008-6"
+    "measured_in": "doi:10.1007/s12385-006-5008-6",
+    "also_reported_as": [
+     {
+      "id": "ORC-PF22557FYE",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "invariants/LI-SN/LiSn-14Li.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-7FTRQDP5MZ",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1007/s12385-006-5008-6"
+    "measured_in": "doi:10.1007/s12385-006-5008-6",
+    "also_reported_as": [
+     {
+      "id": "ORC-ANFRSAVH77.420439",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "invariants/LI-SN/LiSn-14Li.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-57YMPKBGEB",
@@ -413,7 +446,8 @@
    "10.1007/s12385-006-5008-6",
    "10.1016/j.calphad.2014.09.002"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/LiSn-14Li/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/LiSn-14Li/zpf-00.json",
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -460,5 +494,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 14,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

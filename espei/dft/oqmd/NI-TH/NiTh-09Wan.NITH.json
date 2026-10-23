@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "NITH"

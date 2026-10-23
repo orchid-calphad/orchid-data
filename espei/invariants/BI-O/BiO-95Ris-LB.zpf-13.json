@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "BI2O3_ALPHA",

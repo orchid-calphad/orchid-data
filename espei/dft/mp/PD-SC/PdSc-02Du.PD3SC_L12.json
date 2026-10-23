@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "PD3SC_L12"

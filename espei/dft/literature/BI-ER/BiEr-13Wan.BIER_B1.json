@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "BIER_B1"

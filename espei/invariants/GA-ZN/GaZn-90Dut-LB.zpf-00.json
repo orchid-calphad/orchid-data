@@ -1,6 +1,7 @@
 {
  "components": [
   "GA",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -62,17 +63,27 @@
    {
     "id": "ORC-LCGAMNBJNN",
     "paper": "doi:10.1007/bf02841587",
-    "measured_in": "unresolved:source:doi:10-1007-bf02841587#63del"
+    "measured_in": "unresolved:source:doi:10-1007-bf02841587#63del",
+    "also_reported_as": [
+     {
+      "id": "ORC-EPAZOLZEBZ",
+      "paper": "doi:10.1007/bf02841587",
+      "measured_in": "ref:e9c13f08f78db124",
+      "dataset": "invariants/GA-ZN/GaZn-90Dut-LB.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
    "unresolved:source:doi:10-1007-bf02841587#63del",
-   "doi:10.1007/bf02841587"
+   "doi:10.1007/bf02841587",
+   "ref:e9c13f08f78db124"
   ],
   "dois": [
    "10.1007/bf02841587"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GaZn-90Dut-LB/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/GaZn-90Dut-LB/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

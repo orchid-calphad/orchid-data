@@ -1,0 +1,114 @@
+{
+ "components": [
+  "BA",
+  "BI"
+ ],
+ "phases": [
+  "BABI3",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   403.7967637,
+   606.2967637,
+   814.2967637
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BABI3",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "BI"
+    ],
+    [
+     0.8753487799
+    ]
+   ]
+  ],
+  [
+   [
+    "BABI3",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "BI"
+    ],
+    [
+     0.8336779445
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     0.8732477294
+    ]
+   ]
+  ]
+ ],
+ "reference": "G. Grube and A. Dietrich, Z. Elektrochem., 44, 755-758 (1938) doi:10.1002/bbpc.19380441007; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 159",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BA-BI-p159; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to BaBi-19Liu.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BA-BI-p159",
+  "target_tdb": "BaBi-19Liu.tdb",
+  "record_ids": [
+   "aspa-e237fe9339a46564",
+   "aspa-7e96c14d24484151",
+   "aspa-5eaf1ae39adb8959"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/BA-BI-p159.json"
+ }
+}

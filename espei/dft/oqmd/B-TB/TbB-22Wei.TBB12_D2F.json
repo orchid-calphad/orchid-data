@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "TB"
+  "TB",
+  "VA"
  ],
  "phases": [
   "TBB12_D2F"

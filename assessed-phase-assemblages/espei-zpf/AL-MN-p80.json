@@ -330,6 +330,10 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 18(4), 398-399 (1997) 87Mca: A.J. McAlister and J.L. Murray, Bull. Alloy Phase Diagrams, 8(5), 438-447 (1987) 96Liu: X.J. Liu, R. Kainuma, H. Ohtani, and K. Ishida, J. Alloys Compounds, 235, 256-261 (1996) 96 Mul: C. Muller, H.H. Stadelmaier, B. Reinsh, and G. Petzow, Z. Metallkd., 87(7), 594-597 (1996) doi:10.1007/s11669-997-0069-8; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 80",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-MN-p80; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "AL-MN-p80",

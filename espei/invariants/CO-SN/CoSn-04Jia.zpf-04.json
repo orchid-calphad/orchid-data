@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "CO3SN2_B82",

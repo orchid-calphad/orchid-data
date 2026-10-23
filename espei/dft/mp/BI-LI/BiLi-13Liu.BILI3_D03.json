@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "LI"
+  "LI",
+  "VA"
  ],
  "phases": [
   "BILI3_D03"

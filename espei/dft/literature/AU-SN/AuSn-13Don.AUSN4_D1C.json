@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "AUSN4_D1C"

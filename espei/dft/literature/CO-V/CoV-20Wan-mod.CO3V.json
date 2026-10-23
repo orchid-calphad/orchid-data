@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "CO3V"

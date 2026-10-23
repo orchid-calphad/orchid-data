@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "ERNI_B27"

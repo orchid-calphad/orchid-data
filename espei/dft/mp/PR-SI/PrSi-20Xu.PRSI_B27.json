@@ -1,7 +1,8 @@
 {
  "components": [
   "PR",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "PRSI_B27"

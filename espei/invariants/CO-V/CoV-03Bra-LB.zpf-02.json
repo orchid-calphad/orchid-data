@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "FCC_A1",

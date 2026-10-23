@@ -1,0 +1,477 @@
+{
+ "components": [
+  "PT",
+  "SN",
+  "VA"
+ ],
+ "phases": [
+  "BCT_A5",
+  "FCC_A1",
+  "LIQUID",
+  "PT2SN3",
+  "PT3SN_L12",
+  "PTSN2_C1",
+  "PTSN4_D1C"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1031.15,
+   1011.15,
+   823.15,
+   803.15,
+   511.15,
+   491.15,
+   1653.15,
+   1633.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.812
+    ]
+   ],
+   [
+    "PT2SN3",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.68
+    ]
+   ]
+  ],
+  [
+   [
+    "PTSN2_C1",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.68
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.95
+    ]
+   ],
+   [
+    "PTSN2_C1",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "PTSN4_D1C",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.994
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.991
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.997
+    ]
+   ]
+  ],
+  [
+   [
+    "PTSN4_D1C",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.991
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.997
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.196
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.186
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.206
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.126
+    ]
+   ],
+   [
+    "PT3SN_L12",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.186
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.206
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cui 2021, doi:10.1016/j.jallcom.2020.157064",
+ "bibtex": "cui2021_d95982",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PT-SN/PtSn-21Cui.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3GN3LUI2GF ORC-RSN4KDHQYZ ORC-SGGSEYDCWB ORC-YQJUTZ7VY6",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/PT-SN/PtSn-21Cui.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-3GN3LUI2GF",
+    "side": "above",
+    "T_invariant_K": 1021.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.67,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Pt2Sn3 -> PtSn2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PT2SN3"
+    ],
+    "phases_below": [
+     "PTSN2_C1"
+    ]
+   },
+   {
+    "source_observation": "ORC-3GN3LUI2GF",
+    "side": "below",
+    "T_invariant_K": 1021.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.67,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Pt2Sn3 -> PtSn2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PT2SN3"
+    ],
+    "phases_below": [
+     "PTSN2_C1"
+    ]
+   },
+   {
+    "source_observation": "ORC-SGGSEYDCWB",
+    "side": "above",
+    "T_invariant_K": 813.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + PtSn2 -> PtSn4",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PTSN2_C1"
+    ],
+    "phases_below": [
+     "PTSN4_D1C"
+    ]
+   },
+   {
+    "source_observation": "ORC-SGGSEYDCWB",
+    "side": "below",
+    "T_invariant_K": 813.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + PtSn2 -> PtSn4",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PTSN2_C1"
+    ],
+    "phases_below": [
+     "PTSN4_D1C"
+    ]
+   },
+   {
+    "source_observation": "ORC-RSN4KDHQYZ",
+    "side": "above",
+    "T_invariant_K": 501.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.994,
+    "hyperplane_delta": 0.0030000000000000027,
+    "reaction_printed": "Liquid -> PtSn4 + (β_Sn)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PTSN4_D1C",
+     "BCT_A5"
+    ]
+   },
+   {
+    "source_observation": "ORC-RSN4KDHQYZ",
+    "side": "below",
+    "T_invariant_K": 501.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.994,
+    "hyperplane_delta": 0.0030000000000000027,
+    "reaction_printed": "Liquid -> PtSn4 + (β_Sn)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PTSN4_D1C",
+     "BCT_A5"
+    ]
+   },
+   {
+    "source_observation": "ORC-YQJUTZ7VY6",
+    "side": "above",
+    "T_invariant_K": 1643.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.196,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> (Pt) + Pt3Sn",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "PT3SN_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-YQJUTZ7VY6",
+    "side": "below",
+    "T_invariant_K": 1643.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.196,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> (Pt) + Pt3Sn",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "PT3SN_L12"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0925-8388(94)90837-0",
+   "10.1016/j.jallcom.2020.157064"
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2020.157064",
+   "doi:10.1016/0925-8388(94)90837-0"
+  ]
+ }
+}

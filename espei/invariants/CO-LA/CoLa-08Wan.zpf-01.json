@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "CO13LA_D23",
@@ -10,7 +11,6 @@
   "CO3LA2",
   "CO5LA_D2D",
   "CO7LA2",
-  "COLA3_D011",
   "FCC_A1",
   "LIQUID"
  ],
@@ -21,9 +21,7 @@
    1363.15,
    1073.15,
    968.15,
-   843.15,
-   773.15,
-   793.15
+   843.15
   ]
  },
  "output": "ZPF",
@@ -172,64 +170,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO23LA27",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COLA3_D011",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COLA3_D011",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Wang 2008, doi:10.1016/j.jallcom.2006.11.155",
@@ -239,7 +179,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-K753X6U3BZ ORC-LAODRSLFQ4 ORC-5JL2P6MO4L ORC-577KIHDCG6 ORC-EK5CGJR3Y5 ORC-GPZXIPQTBN ORC-QKPPA544QU",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-K753X6U3BZ ORC-LAODRSLFQ4 ORC-5JL2P6MO4L ORC-577KIHDCG6 ORC-EK5CGJR3Y5",
  "bibtex": "wang2008_ac6a42",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -264,14 +204,6 @@
    {
     "id": "ORC-EK5CGJR3Y5",
     "paper": "doi:10.1016/j.jallcom.2006.11.155"
-   },
-   {
-    "id": "ORC-GPZXIPQTBN",
-    "paper": "doi:10.1016/j.jallcom.2006.11.155"
-   },
-   {
-    "id": "ORC-QKPPA544QU",
-    "paper": "doi:10.1016/j.jallcom.2006.11.155"
    }
   ],
   "papers": [
@@ -280,19 +212,12 @@
   "dois": [
    "10.1016/j.jallcom.2006.11.155"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoLa-08Wan/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoLa-08Wan/zpf-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

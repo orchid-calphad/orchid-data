@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "FE5TH_D2D"

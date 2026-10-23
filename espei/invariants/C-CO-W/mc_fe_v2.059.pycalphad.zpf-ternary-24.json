@@ -93,16 +93,26 @@
   "observations": [
    {
     "id": "ORC-N2N7KSQ2NJ",
-    "paper": "doi:10.1361/15477030522473"
+    "paper": "doi:10.1361/15477030522473",
+    "also_reported_as": [
+     {
+      "id": "ORC-JKDS43CGUX",
+      "paper": "doi:10.1007/bf02651660",
+      "dataset": "invariants/C-CO-W/mc_fe_v2.059.pycalphad.zpf-ternary-28.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1361/15477030522473"
+   "doi:10.1361/15477030522473",
+   "doi:10.1007/bf02651660"
   ],
   "dois": [
+   "10.1007/bf02651660",
    "10.1361/15477030522473"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/mc_fe_v2.059.pycalphad/zpf-ternary-24.json"
+  "source_dataset": "db-v2.1/invariants/espei/mc_fe_v2.059.pycalphad/zpf-ternary-24.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

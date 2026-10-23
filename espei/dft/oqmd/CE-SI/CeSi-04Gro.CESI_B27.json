@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "CESI_B27"

@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "PDSB2_C2"

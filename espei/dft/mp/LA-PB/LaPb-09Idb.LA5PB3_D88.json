@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LA5PB3_D88"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "COTH_B33"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CR"
+  "CR",
+  "VA"
  ],
  "phases": [
   "AL45CR7"

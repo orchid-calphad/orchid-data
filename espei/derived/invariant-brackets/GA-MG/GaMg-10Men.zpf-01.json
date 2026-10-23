@@ -1,0 +1,355 @@
+{
+ "components": [
+  "GA",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "GA2MG",
+  "GA2MG5_D8G",
+  "GAMG",
+  "GAMG2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   739.0,
+   724.0,
+   704.0,
+   656.0,
+   568.0,
+   548.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.704286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.724286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2MG5_D8G",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.676667
+    ]
+   ]
+  ],
+  [
+   [
+    "GAMG2",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.676667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAMG",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "GA2MG",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ]
+ ],
+ "reference": "MENG 2010, doi:10.1016/s1003-6326(09)60161-8",
+ "bibtex": "meng2010_1573d0",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GA-MG/GaMg-10Men.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3ZIJKTWDEG ORC-CNUSHH2TYV ORC-LPQXISAELZ ORC-MZVVGHTHLD",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/GA-MG/GaMg-10Men.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-3ZIJKTWDEG",
+    "side": "above",
+    "T_invariant_K": 729.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.714286,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->Mg5Ga2",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GA2MG5_D8G"
+    ]
+   },
+   {
+    "source_observation": "ORC-CNUSHH2TYV",
+    "side": "above",
+    "T_invariant_K": 714.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Mg5Ga2->Mg2Ga",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GA2MG5_D8G"
+    ],
+    "phases_below": [
+     "GAMG2"
+    ]
+   },
+   {
+    "source_observation": "ORC-CNUSHH2TYV",
+    "side": "below",
+    "T_invariant_K": 714.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Mg5Ga2->Mg2Ga",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GA2MG5_D8G"
+    ],
+    "phases_below": [
+     "GAMG2"
+    ]
+   },
+   {
+    "source_observation": "ORC-LPQXISAELZ",
+    "side": "above",
+    "T_invariant_K": 646.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->MgGa",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GAMG"
+    ]
+   },
+   {
+    "source_observation": "ORC-MZVVGHTHLD",
+    "side": "above",
+    "T_invariant_K": 558.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+MgGa->MgGa2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GAMG"
+    ],
+    "phases_below": [
+     "GA2MG"
+    ]
+   },
+   {
+    "source_observation": "ORC-MZVVGHTHLD",
+    "side": "below",
+    "T_invariant_K": 558.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+MgGa->MgGa2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GAMG"
+    ],
+    "phases_below": [
+     "GA2MG"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/s1003-6326(09)60161-8"
+  ],
+  "papers": [
+   "doi:10.1016/s1003-6326(09)60161-8"
+  ]
+ }
+}

@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "HO2NI7",
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 298.15,
   "X_NI": [
-   0.777778,
    0.777778
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    25.46,
     25.46
    ]
   ]
@@ -32,7 +31,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WVJV7M4Z6B.6ad2ba ORC-WVJV7M4Z6B.6ad2ba",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WVJV7M4Z6B.6ad2ba",
  "orchid_model_evidence": {
   "tdb": {
    "name": "HoNi-15Kar.tdb",
@@ -67,13 +66,10 @@
     "id": "ORC-WVJV7M4Z6B.6ad2ba",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-014-4189-1",
-    "measured_in": "doi:10.1007/s10973-014-4189-1"
-   },
-   {
-    "id": "ORC-WVJV7M4Z6B.6ad2ba",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s10973-014-4189-1",
-    "measured_in": "doi:10.1007/s10973-014-4189-1"
+    "measured_in": "doi:10.1007/s10973-014-4189-1",
+    "also_read_as": [
+     "ORC-WVJV7M4Z6B.6ad2ba"
+    ]
    }
   ],
   "papers": [
@@ -82,7 +78,8 @@
   "dois": [
    "10.1007/s10973-014-4189-1"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/HoNi-15Kar/cpm-model-20.json"
+  "source_dataset": "db-v2.1/general/espei-model/HoNi-15Kar/cpm-model-20.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -92,11 +89,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

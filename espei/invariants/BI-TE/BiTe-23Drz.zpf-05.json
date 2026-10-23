@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "BI2TE3_C33",

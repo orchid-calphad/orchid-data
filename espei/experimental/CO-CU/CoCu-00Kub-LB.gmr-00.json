@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
   "LIQUID"

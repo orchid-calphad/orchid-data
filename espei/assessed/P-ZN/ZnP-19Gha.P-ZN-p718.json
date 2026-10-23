@@ -1,0 +1,48 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1433.38004
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.5548484476
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilib. Diffusion, 32(1), to be published (2011) doi:10.1007/s11669-010-9849-7; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 718",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram P-ZN-p718; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to ZnP-19Gha.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "P-ZN-p718",
+  "target_tdb": "ZnP-19Gha.tdb",
+  "record_ids": [
+   "aspa-5defed2946353325"
+  ],
+  "confidence": [
+   "high"
+  ],
+  "points_left_out": 4,
+  "source": "assessed-phase-assemblages/espei-zpf/P-ZN-p718.json"
+ }
+}

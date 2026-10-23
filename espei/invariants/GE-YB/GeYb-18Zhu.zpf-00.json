@@ -1,6 +1,7 @@
 {
  "components": [
   "GE",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -268,35 +269,91 @@
   "observations": [
    {
     "id": "ORC-XTIMVM73B3",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-JWV3AJQDXF",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-ORSWGTPSZZ",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-43MQ53KFJJ",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-A4BEATAL5L",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-AIENF3U4P2",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-FM5ARABZ7K",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-6A3SR3SG3W",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-MUZ2FKXXLB",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-SSX3P5F2CH",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-6U6CHXD4BU",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-GRXURM75QG",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-EZNCG77NGM",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-X2T47UP6R6",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-4UZVLNPCNP",
-    "paper": "doi:10.1080/00150193.2018.1392217"
+    "paper": "doi:10.1080/00150193.2018.1392217",
+    "also_reported_as": [
+     {
+      "id": "ORC-LFQFZQ5QBQ",
+      "paper": "doi:10.1080/00150193.2018.1392217",
+      "dataset": "invariants/GE-YB/GeYb-18Zhu.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -305,7 +362,8 @@
   "dois": [
    "10.1080/00150193.2018.1392217"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeYb-18Zhu/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeYb-18Zhu/zpf-00.json",
+  "e3_merged": 8
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

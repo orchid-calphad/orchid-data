@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "ALTI_L10",

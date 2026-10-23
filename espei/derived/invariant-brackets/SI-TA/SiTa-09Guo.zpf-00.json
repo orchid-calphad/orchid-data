@@ -1,0 +1,355 @@
+{
+ "components": [
+  "SI",
+  "TA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "SI3TA5_D8L",
+  "SITA2_C16",
+  "SITA3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2623.0,
+   2603.0,
+   2723.0,
+   2703.0,
+   2443.0,
+   2423.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "SITA3",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "SITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.635
+    ]
+   ]
+  ],
+  [
+   [
+    "SI3TA5_D8L",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.635
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guo 2009, doi:10.1007/s11669-009-9579-x",
+ "bibtex": "guo2009_e49d74",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SI-TA/SiTa-09Guo.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-E4Z3YBP56R ORC-KPXEXFUTDH ORC-XCDYRU2GSZ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/SI-TA/SiTa-09Guo.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-KPXEXFUTDH",
+    "side": "above",
+    "T_invariant_K": 2613.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ta2Si -> Ta3Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "SITA2_C16"
+    ],
+    "phases_below": [
+     "SITA3"
+    ]
+   },
+   {
+    "source_observation": "ORC-KPXEXFUTDH",
+    "side": "below",
+    "T_invariant_K": 2613.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ta2Si -> Ta3Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "SITA2_C16"
+    ],
+    "phases_below": [
+     "SITA3"
+    ]
+   },
+   {
+    "source_observation": "ORC-XCDYRU2GSZ",
+    "side": "above",
+    "T_invariant_K": 2713.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βTa5Si3 -> Ta2Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "SITA2_C16"
+    ]
+   },
+   {
+    "source_observation": "ORC-XCDYRU2GSZ",
+    "side": "below",
+    "T_invariant_K": 2713.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βTa5Si3 -> Ta2Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "SITA2_C16"
+    ]
+   },
+   {
+    "source_observation": "ORC-E4Z3YBP56R",
+    "side": "above",
+    "T_invariant_K": 2433.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.625,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "βTa5Si3 -> αTa5Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "SI3TA5_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-E4Z3YBP56R",
+    "side": "below",
+    "T_invariant_K": 2433.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.625,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "βTa5Si3 -> αTa5Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "SI3TA5_D8L"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s11669-009-9579-x"
+  ],
+  "papers": [
+   "doi:10.1007/s11669-009-9579-x"
+  ]
+ }
+}

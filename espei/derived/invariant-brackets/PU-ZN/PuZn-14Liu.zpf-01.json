@@ -1,0 +1,561 @@
+{
+ "components": [
+  "PU",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID",
+  "PU2ZN17",
+  "PU3ZN22",
+  "PUZN9_HT",
+  "PUZN9_LAMBDA",
+  "PUZN9_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1211.15,
+   1191.15,
+   1053.15,
+   1033.15,
+   1173.15,
+   1153.15,
+   1095.15,
+   1075.15,
+   989.15,
+   957.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.895
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.885
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.905
+    ]
+   ]
+  ],
+  [
+   [
+    "PU2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.885
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.905
+    ]
+   ]
+  ],
+  [
+   [
+    "PUZN9_HT",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.89
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.91
+    ]
+   ]
+  ],
+  [
+   [
+    "PUZN9_LT",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.89
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.91
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PU2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8726315789
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8873684211
+    ]
+   ]
+  ],
+  [
+   [
+    "PU3ZN22",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8726315789
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8873684211
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PU2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8973684211
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9026315789
+    ]
+   ]
+  ],
+  [
+   [
+    "PUZN9_HT",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8973684211
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9026315789
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PUZN9_LT",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9025
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9075
+    ]
+   ]
+  ],
+  [
+   [
+    "PUZN9_LAMBDA",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9025
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9075
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2014, doi:10.1016/j.jnucmat.2014.07.001",
+ "bibtex": "liu2014_a06549",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PU-ZN/PuZn-14Liu.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-32NE6PPXUB ORC-BYK3OZGQWZ ORC-MWZ5IDROTE ORC-NIJ6DJUAOB ORC-UVIL64FWAW",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/PU-ZN/PuZn-14Liu.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-NIJ6DJUAOB",
+    "side": "above",
+    "T_invariant_K": 1201.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.895,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ Pu2Zn17",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PU2ZN17"
+    ]
+   },
+   {
+    "source_observation": "ORC-NIJ6DJUAOB",
+    "side": "below",
+    "T_invariant_K": 1201.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.895,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ Pu2Zn17",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PU2ZN17"
+    ]
+   },
+   {
+    "source_observation": "ORC-UVIL64FWAW",
+    "side": "above",
+    "T_invariant_K": 1043.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.9,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "κ ↔ κ′",
+    "reaction_type": "polymorphic",
+    "phases_above": [
+     "PUZN9_HT"
+    ],
+    "phases_below": [
+     "PUZN9_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-UVIL64FWAW",
+    "side": "below",
+    "T_invariant_K": 1043.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.9,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "κ ↔ κ′",
+    "reaction_type": "polymorphic",
+    "phases_above": [
+     "PUZN9_HT"
+    ],
+    "phases_below": [
+     "PUZN9_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-32NE6PPXUB",
+    "side": "above",
+    "T_invariant_K": 1163.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.88,
+    "hyperplane_delta": 0.00736842105263158,
+    "reaction_printed": "L + Pu2Zn17 ↔ Pu3Zn22",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PU2ZN17"
+    ],
+    "phases_below": [
+     "PU3ZN22"
+    ]
+   },
+   {
+    "source_observation": "ORC-32NE6PPXUB",
+    "side": "below",
+    "T_invariant_K": 1163.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.88,
+    "hyperplane_delta": 0.00736842105263158,
+    "reaction_printed": "L + Pu2Zn17 ↔ Pu3Zn22",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PU2ZN17"
+    ],
+    "phases_below": [
+     "PU3ZN22"
+    ]
+   },
+   {
+    "source_observation": "ORC-MWZ5IDROTE",
+    "side": "above",
+    "T_invariant_K": 1085.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.9,
+    "hyperplane_delta": 0.0026315789473684292,
+    "reaction_printed": "L + Pu2Zn17 ↔ κ",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PU2ZN17"
+    ],
+    "phases_below": [
+     "PUZN9_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-MWZ5IDROTE",
+    "side": "below",
+    "T_invariant_K": 1085.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.9,
+    "hyperplane_delta": 0.0026315789473684292,
+    "reaction_printed": "L + Pu2Zn17 ↔ κ",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PU2ZN17"
+    ],
+    "phases_below": [
+     "PUZN9_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-BYK3OZGQWZ",
+    "side": "above",
+    "T_invariant_K": 973.15,
+    "offset_K": 16.0,
+    "T_sigma_K": 8.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.905,
+    "hyperplane_delta": 0.0025000000000000022,
+    "reaction_printed": "L + κ′ ↔ λ",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PUZN9_LT"
+    ],
+    "phases_below": [
+     "PUZN9_LAMBDA"
+    ]
+   },
+   {
+    "source_observation": "ORC-BYK3OZGQWZ",
+    "side": "below",
+    "T_invariant_K": 973.15,
+    "offset_K": 16.0,
+    "T_sigma_K": 8.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.905,
+    "hyperplane_delta": 0.0025000000000000022,
+    "reaction_printed": "L + κ′ ↔ λ",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "PUZN9_LT"
+    ],
+    "phases_below": [
+     "PUZN9_LAMBDA"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0022-5088(67)90052-5",
+   "10.1016/j.jnucmat.2014.07.001"
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2014.07.001",
+   "doi:10.1016/0022-5088(67)90052-5"
+  ]
+ }
+}

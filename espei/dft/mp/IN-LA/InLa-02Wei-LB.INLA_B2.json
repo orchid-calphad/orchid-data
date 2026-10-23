@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "INLA_B2"

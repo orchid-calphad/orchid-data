@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "CESB_B1"

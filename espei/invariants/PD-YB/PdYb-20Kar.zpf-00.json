@@ -1,6 +1,7 @@
 {
  "components": [
   "PD",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -86,7 +87,7 @@
      "YB"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -106,7 +107,7 @@
      "YB"
     ],
     [
-     0.736
+     null
     ]
    ],
    [
@@ -135,7 +136,7 @@
      "YB"
     ],
     [
-     0.7140000000000001
+     null
     ]
    ],
    [
@@ -144,7 +145,16 @@
      "YB"
     ],
     [
-     0.714286
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.714143
     ]
    ]
   ],
@@ -222,7 +232,7 @@
      "YB"
     ],
     [
-     0.42857142857142855
+     null
     ]
    ],
    [
@@ -251,7 +261,7 @@
      "YB"
     ],
     [
-     0.42857142857142855
+     null
     ]
    ],
    [
@@ -300,7 +310,7 @@
      "YB"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -329,7 +339,7 @@
      "YB"
     ],
     [
-     0.322581
+     null
     ]
    ],
    [
@@ -349,7 +359,7 @@
      "YB"
     ],
     [
-     0.322
+     null
     ]
    ],
    [
@@ -358,7 +368,16 @@
      "YB"
     ],
     [
-     0.322581
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.3222905
     ]
    ]
   ],
@@ -369,7 +388,7 @@
      "YB"
     ],
     [
-     0.35200000000000004
+     null
     ]
    ],
    [
@@ -582,5 +601,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 11,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

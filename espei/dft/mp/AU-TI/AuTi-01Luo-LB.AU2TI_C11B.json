@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "AU2TI_C11B"

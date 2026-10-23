@@ -1,7 +1,8 @@
 {
  "components": [
   "BE",
-  "HF"
+  "HF",
+  "VA"
  ],
  "phases": [
   "BE5HF_D2D"

@@ -1,31 +1,20 @@
 {
  "components": [
   "CO",
+  "VA",
   "ZR"
  ],
  "phases": [
   "B2_BCC",
-  "BCC_A2",
   "C15_LAVES",
-  "CO11ZR2",
-  "CO23ZR6_D8A",
   "COZR2_C16",
-  "COZR3",
-  "FCC_A1",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1503,
-   1544,
-   1616,
    1586,
-   1337,
-   1258,
-   1254,
-   1111
+   1337
   ]
  },
  "output": "ZPF",
@@ -41,102 +30,6 @@
     ]
    ],
    [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO11ZR2",
-    [
-     "ZR"
-    ],
-    [
-     0.15384615384615385
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     0.20689655172413793
-    ]
-   ],
-   [
-    "CO11ZR2",
-    [
-     "ZR"
-    ],
-    [
-     0.15384615384615385
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.180371353
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     0.20689655172413793
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "C15_LAVES",
     [
      "ZR"
@@ -180,7 +73,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -192,102 +85,6 @@
      0.5833333334999999
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR2_C16",
-    [
-     "ZR"
-    ],
-    [
-     0.6666666666666666
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "COZR2_C16",
-    [
-     "ZR"
-    ],
-    [
-     0.6666666666666666
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR3",
-    [
-     "ZR"
-    ],
-    [
-     0.75
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.7083333334999999
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR3",
-    [
-     "ZR"
-    ],
-    [
-     0.75
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "2009, X.J. Liu, H.H. Zhang, C.P. Wang, and K. Ishida, X.J. Liu, H.H. Zhang, C.P. Wang, and K. Ishida, Experimental Determination and Thermodynamic Assessment of the Phase Diagram in the Co–Zr System, J. Alloy. Compd., 2009, 482(1–2), p 99–105",
@@ -297,27 +94,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SIL4GEA7FE ORC-BNZ652FZXN ORC-SNECZBAHSF ORC-ZQFNODPO5T ORC-HL4GMBAYJB ORC-RU3QBVFK32 ORC-TNI6B2TRA5 ORC-UU2N4VAE3C",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZQFNODPO5T ORC-HL4GMBAYJB",
  "bibtex": "liu2009_3431ce",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-SIL4GEA7FE",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
-   {
-    "id": "ORC-BNZ652FZXN",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
-   {
-    "id": "ORC-SNECZBAHSF",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
    {
     "id": "ORC-ZQFNODPO5T",
     "paper": "doi:10.1007/s11669-020-00859-5",
@@ -325,21 +107,6 @@
    },
    {
     "id": "ORC-HL4GMBAYJB",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
-   {
-    "id": "ORC-RU3QBVFK32",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
-   {
-    "id": "ORC-TNI6B2TRA5",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:f1fbd1e29892bba4"
-   },
-   {
-    "id": "ORC-UU2N4VAE3C",
     "paper": "doi:10.1007/s11669-020-00859-5",
     "measured_in": "ref:f1fbd1e29892bba4"
    }
@@ -351,7 +118,8 @@
   "dois": [
    "10.1007/s11669-020-00859-5"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-04.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-04.json",
+  "values_dropped": 6
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -363,32 +131,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

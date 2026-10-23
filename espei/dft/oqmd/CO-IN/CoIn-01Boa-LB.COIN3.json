@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "IN"
+  "IN",
+  "VA"
  ],
  "phases": [
   "COIN3"

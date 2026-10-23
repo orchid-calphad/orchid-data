@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "CEPT5_D2D"

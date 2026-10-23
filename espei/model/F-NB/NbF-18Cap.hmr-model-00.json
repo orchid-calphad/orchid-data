@@ -1,7 +1,8 @@
 {
  "components": [
   "F",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,11 +12,7 @@
   "T": 298.15,
   "X_NB": [
    0.5,
-   0.5,
    0.333333,
-   0.333333,
-   0.166667,
-   0.166667,
    0.166667,
    0.166667
   ]
@@ -25,12 +22,8 @@
   [
    [
     117880.0,
-    117880.0,
-    -112886.66666666667,
     -112886.66666666667,
     -294263.3333333333,
-    -294263.3333333333,
-    -296380.0,
     -296380.0
    ]
   ]
@@ -44,7 +37,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CLYRTLS66S.3ecef6 ORC-CLYRTLS66S.3ecef6 ORC-ZVWDFNQA6L.737c44 ORC-ZVWDFNQA6L.737c44 ORC-ZSMYDT6LEW.2d0fd8 ORC-ZSMYDT6LEW.2d0fd8 ORC-5FDDV435DD.850cf0 ORC-5FDDV435DD.850cf0",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CLYRTLS66S.3ecef6 ORC-ZVWDFNQA6L.737c44 ORC-ZSMYDT6LEW.2d0fd8 ORC-5FDDV435DD.850cf0",
  "reference_states": {
   "F": {
    "phase": "1",
@@ -96,15 +89,9 @@
     "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-CLYRTLS66S.3ecef6",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
-    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-CLYRTLS66S.3ecef6"
     ]
    },
    {
@@ -114,15 +101,9 @@
     "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-ZVWDFNQA6L.737c44",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
-    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-ZVWDFNQA6L.737c44"
     ]
    },
    {
@@ -132,15 +113,9 @@
     "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-ZSMYDT6LEW.2d0fd8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
-    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-ZSMYDT6LEW.2d0fd8"
     ]
    },
    {
@@ -150,15 +125,9 @@
     "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-5FDDV435DD.850cf0",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
-    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-5FDDV435DD.850cf0"
     ]
    }
   ],
@@ -168,7 +137,8 @@
   "dois": [
    "10.1016/j.jfluchem.2018.01.011"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/NbF-18Cap/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/NbF-18Cap/hmr-model-00.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -178,26 +148,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

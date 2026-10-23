@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "GANI3_L12"

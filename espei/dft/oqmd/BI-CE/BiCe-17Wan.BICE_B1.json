@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "CE"
+  "CE",
+  "VA"
  ],
  "phases": [
   "BICE_B1"

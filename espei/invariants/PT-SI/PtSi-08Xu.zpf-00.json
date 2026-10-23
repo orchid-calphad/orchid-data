@@ -1,7 +1,8 @@
 {
  "components": [
   "PT",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",
@@ -63,7 +64,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -83,7 +84,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -103,7 +104,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -112,7 +113,7 @@
      "SI"
     ],
     [
-     0.45454545454545453
+     null
     ]
    ]
   ],
@@ -132,7 +133,7 @@
      "SI"
     ],
     [
-     0.45454545454545453
+     null
     ]
    ],
    [
@@ -141,7 +142,7 @@
      "SI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -161,7 +162,7 @@
      "SI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -172,7 +173,7 @@
      "SI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -181,7 +182,7 @@
      "SI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -201,7 +202,7 @@
      "SI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -210,7 +211,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ]
   ],
@@ -221,7 +222,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -230,7 +231,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ]
   ],
@@ -250,7 +251,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -259,7 +260,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -270,7 +271,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -279,7 +280,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -308,7 +309,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -319,7 +320,7 @@
      "SI"
     ],
     [
-     0.32
+     null
     ]
    ],
    [
@@ -328,7 +329,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -337,7 +338,7 @@
      "SI"
     ],
     [
-     0.2857142857142857
+     null
     ]
    ],
    [
@@ -357,7 +358,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -375,7 +376,7 @@
      "SI"
     ],
     [
-     0.21875
+     null
     ]
    ],
    [
@@ -535,5 +536,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 23,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "CU2TH_C32"

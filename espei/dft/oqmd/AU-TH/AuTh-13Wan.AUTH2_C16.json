@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "AUTH2_C16"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
   "AG2ND_ALPHA",
@@ -35,7 +36,7 @@
      "ND"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -44,7 +45,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -64,7 +65,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -75,7 +76,7 @@
      "ND"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "ND"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ]
@@ -105,28 +106,54 @@
    {
     "id": "ORC-LGTIR34DK3",
     "paper": "doi:10.1016/j.jallcom.2008.03.039",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-KZLTQHFRLI",
+      "paper": "doi:10.1016/j.jallcom.2008.03.039",
+      "measured_in": "ref:e1056ed34b54e6ef",
+      "dataset": "invariants/AG-ND/AgNd-09Hua.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-HWOKYTRIWN",
     "paper": "doi:10.1016/j.jallcom.2008.03.039",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-5WY7GODVOU",
+      "paper": "doi:10.1016/j.jallcom.2008.03.039",
+      "measured_in": "ref:e1056ed34b54e6ef",
+      "dataset": "invariants/AG-ND/AgNd-09Hua.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-COBVSF4HUM",
     "paper": "doi:10.1016/j.jallcom.2008.03.039",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-YKMQXGKBQB",
+      "paper": "doi:10.1016/j.jallcom.2008.03.039",
+      "measured_in": "ref:e1056ed34b54e6ef",
+      "dataset": "invariants/AG-ND/AgNd-09Hua.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/0022-5088(78)90247-3",
-   "doi:10.1016/j.jallcom.2008.03.039"
+   "doi:10.1016/j.jallcom.2008.03.039",
+   "ref:e1056ed34b54e6ef"
   ],
   "dois": [
    "10.1016/0022-5088(78)90247-3",
    "10.1016/j.jallcom.2008.03.039"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Hua/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Hua/zpf-01.json",
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -145,5 +172,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

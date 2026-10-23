@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -181,7 +182,14 @@
    },
    {
     "id": "ORC-LIAFV7OPM3",
-    "paper": "doi:10.1016/j.jallcom.2010.12.005"
+    "paper": "doi:10.1016/j.jallcom.2010.12.005",
+    "also_reported_as": [
+     {
+      "id": "ORC-IDT7SE6OQN",
+      "paper": "doi:10.1016/j.jallcom.2010.12.005",
+      "dataset": "invariants/GE-NB/GeNb-11Gen.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -192,7 +200,8 @@
    "10.1016/0022-5088(78)90013-9",
    "10.1016/j.jallcom.2010.12.005"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeNb-11Gen/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeNb-11Gen/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

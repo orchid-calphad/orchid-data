@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "SITA3"

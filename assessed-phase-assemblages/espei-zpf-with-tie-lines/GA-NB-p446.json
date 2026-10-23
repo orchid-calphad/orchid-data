@@ -76,7 +76,7 @@
      "NB"
     ],
     [
-     0.278
+     null
     ]
    ],
    [
@@ -85,7 +85,16 @@
      "NB"
     ],
     [
-     0.46
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NB"
+    ],
+    [
+     0.3683755444
     ]
    ]
   ],
@@ -96,7 +105,7 @@
      "NB"
     ],
     [
-     0.46
+     null
     ]
    ],
    [
@@ -105,7 +114,16 @@
      "NB"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NB"
+    ],
+    [
+     0.509629322
     ]
    ]
   ],
@@ -116,7 +134,7 @@
      "NB"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -247,7 +265,7 @@
      "NB"
     ],
     [
-     0.278
+     null
     ]
    ]
   ],
@@ -267,7 +285,7 @@
      "NB"
     ],
     [
-     0.2
+     null
     ]
    ]
   ],
@@ -278,7 +296,7 @@
      "NB"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -287,7 +305,16 @@
      "NB"
     ],
     [
-     0.278
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NB"
+    ],
+    [
+     0.2391433649
     ]
    ]
   ],
@@ -307,7 +334,7 @@
      "NB"
     ],
     [
-     0.556
+     null
     ]
    ]
   ],
@@ -394,6 +421,11 @@
  ],
  "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1829-1830 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 446",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-NB-p446; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GA-NB-p446",

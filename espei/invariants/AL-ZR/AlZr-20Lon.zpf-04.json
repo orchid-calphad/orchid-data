@@ -1,20 +1,18 @@
 {
  "components": [
   "AL",
+  "VA",
   "ZR"
  ],
  "phases": [
   "AL2ZR3",
   "AL3ZR4",
-  "AL3ZR5_D8M",
   "AL4ZR5",
-  "ALZR2_B82",
   "ALZR_B33"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1273,
    1303,
    1273
   ]
@@ -23,41 +21,12 @@
  "values": [
   [
    [
-    "AL3ZR5_D8M",
-    [
-     "ZR"
-    ],
-    [
-     0.625
-    ]
-   ],
-   [
-    "ALZR2_B82",
-    [
-     "ZR"
-    ],
-    [
-     0.6666666666666666
-    ]
-   ],
-   [
     "AL2ZR3",
     [
      "ZR"
     ],
     [
-     0.6
-    ]
-   ]
-  ],
-  [
-   [
-    "AL2ZR3",
-    [
-     "ZR"
-    ],
-    [
-     0.6
+     null
     ]
    ],
    [
@@ -66,7 +35,7 @@
      "ZR"
     ],
     [
-     0.5660000000000001
+     null
     ]
    ],
    [
@@ -75,7 +44,16 @@
      "ZR"
     ],
     [
-     0.5714285714285714
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5791428571
     ]
    ]
   ],
@@ -86,7 +64,7 @@
      "ZR"
     ],
     [
-     0.5660000000000001
+     null
     ]
    ],
    [
@@ -95,7 +73,7 @@
      "ZR"
     ],
     [
-     0.5714285714285714
+     null
     ]
    ],
    [
@@ -104,7 +82,16 @@
      "ZR"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5458095238
     ]
    ]
   ]
@@ -116,17 +103,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X2NEJR2XDE.6492ab ORC-IF4LBBWU73 ORC-X2NEJR2XDE.ee661b",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IF4LBBWU73 ORC-X2NEJR2XDE.ee661b",
  "bibtex": "potzschke1962_d06388",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-X2NEJR2XDE.6492ab",
-    "paper": "doi:10.1007/s11669-020-00827-z",
-    "measured_in": "doi:10.1515/ijmr-1962-530810"
-   },
    {
     "id": "ORC-IF4LBBWU73",
     "paper": "doi:10.1007/s11669-020-00827-z",
@@ -146,7 +128,8 @@
    "10.1007/s11669-020-00827-z",
    "10.1515/ijmr-1962-530810"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlZr-20Lon/zpf-04.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-20Lon/zpf-04.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -158,12 +141,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 6,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

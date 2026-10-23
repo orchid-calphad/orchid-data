@@ -18,7 +18,7 @@
  ],
  "exclude": [],
  "n_files": 19,
- "total_bytes": 179198,
+ "total_bytes": 180008,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -87,8 +87,8 @@
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 3892,
-   "sha256": "b7631fa549051e9d2b3de879f68b4391b5e10e0c6578a3b011e9004a2c4dbc4e"
+   "bytes": 4702,
+   "sha256": "e5bbd8974e4d9d5c7be964b0cca9229e6e8e295bdb30a8308d7f4ee040841192"
   },
   {
    "path": "zenodo/hulls.metadata.json",

@@ -1,0 +1,207 @@
+{
+ "components": [
+  "P",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GAS",
+  "LIQUID",
+  "SIP"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   802.2286804,
+   1222.72868,
+   964.2286804,
+   2602.22868,
+   1444.72868,
+   2009.22868,
+   2083.22868
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIP",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2538424497
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     0.008429905768
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIP",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.6915782935
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     0.6154503207
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.1336403874
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.07504188199
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2478323466
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.W. Olesinski, N. Kanani, and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 6(2), 130-133 (1985) doi:10.1007/bf02869224; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 716",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram P-SI-p716; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to SiP-14Lia.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "P-SI-p716",
+  "target_tdb": "SiP-14Lia.tdb",
+  "record_ids": [
+   "aspa-43648f9df1a9ecca",
+   "aspa-c28ed4689fe712f2",
+   "aspa-a37f99f92f87f266",
+   "aspa-e276336426e30a1f",
+   "aspa-517e8c66ff94437e",
+   "aspa-fa653635d2460d83",
+   "aspa-b2d1ef03a13e4f4c"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "medium",
+   "high",
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/P-SI-p716.json"
+ }
+}

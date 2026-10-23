@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "W"
  ],
  "phases": [
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 1300.0,
   "X_W": [
-   0.07,
    0.07
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    -1459.0,
     -1459.0
    ]
   ]
@@ -31,7 +30,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CWF5BOVOXI.ac2741 ORC-CWF5BOVOXI.ac2741",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CWF5BOVOXI.ac2741",
  "reference_states": {
   "CO": {
    "phase": "FCC_A1"
@@ -52,14 +51,9 @@
     "paper": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-CWF5BOVOXI.ac2741",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-CWF5BOVOXI.ac2741"
     ]
    }
   ],
@@ -71,7 +65,8 @@
    "10.1007/bf02651660",
    "10.1016/0021-9614(76)90023-9"
   ],
-  "source_dataset": "db-v2.1/general/espei/CoW-89Fer-LB/gmr-02.json"
+  "source_dataset": "db-v2.1/general/espei/CoW-89Fer-LB/gmr-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -81,18 +76,6 @@
   },
   "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
   "values": [
-   {
-    "sigma": 427.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.427,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.002342,
-    "weight_used": 0.002342
-   },
    {
     "sigma": 427.0,
     "sigma_basis": "printed",

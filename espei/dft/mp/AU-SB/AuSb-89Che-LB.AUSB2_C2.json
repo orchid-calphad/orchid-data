@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "AUSB2_C2"

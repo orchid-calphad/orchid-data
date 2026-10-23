@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "MN"
+  "MN",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

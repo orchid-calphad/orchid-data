@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "EU"
+  "EU",
+  "VA"
  ],
  "phases": [
   "CUEU_B27"

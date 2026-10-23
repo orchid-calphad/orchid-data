@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "SRB6_D21"

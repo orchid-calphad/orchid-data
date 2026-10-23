@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "NI3SE2_D5E"

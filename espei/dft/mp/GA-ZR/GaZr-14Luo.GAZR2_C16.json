@@ -1,6 +1,7 @@
 {
  "components": [
   "GA",
+  "VA",
   "ZR"
  ],
  "phases": [

@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "HO"
+  "HO",
+  "VA"
  ],
  "phases": [
   "GA2HO_C32"

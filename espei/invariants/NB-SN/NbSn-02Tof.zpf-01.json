@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCT_A5",
@@ -27,7 +28,7 @@
      "SN"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -56,7 +57,7 @@
      "SN"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -145,22 +146,42 @@
    },
    {
     "id": "ORC-23VUXQYL2G",
-    "paper": "doi:10.1361/1054971023604071"
+    "paper": "doi:10.1361/1054971023604071",
+    "also_reported_as": [
+     {
+      "id": "ORC-3QE72RQ23E",
+      "paper": "doi:10.1361/105497198770341978",
+      "measured_in": "unresolved:source:doi:10-1361-105497198770341978#64ell",
+      "dataset": "invariants/NB-SN/NbSn-98Tof.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-NUGSZXSMAK",
-    "paper": "doi:10.1361/1054971023604071"
+    "paper": "doi:10.1361/1054971023604071",
+    "also_reported_as": [
+     {
+      "id": "ORC-Z3EYYWIXHW",
+      "paper": "doi:10.1361/1054971023604071",
+      "dataset": "invariants/NB-SN/NbSn-02Tof.zpf-06.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1361/1054971023604071",
-   "doi:10.1016/0022-5088(64)90018-9"
+   "doi:10.1016/0022-5088(64)90018-9",
+   "unresolved:source:doi:10-1361-105497198770341978#64ell",
+   "doi:10.1361/105497198770341978",
+   "unresolved:source:doi:10-1361-105497198770341978#65vuc"
   ],
   "dois": [
    "10.1016/0022-5088(64)90018-9",
-   "10.1361/1054971023604071"
+   "10.1361/1054971023604071",
+   "10.1361/105497198770341978"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbSn-02Tof/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NbSn-02Tof/zpf-01.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -183,5 +204,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 2,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

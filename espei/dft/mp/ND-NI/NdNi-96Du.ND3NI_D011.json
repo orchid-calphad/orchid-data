@@ -1,7 +1,8 @@
 {
  "components": [
   "ND",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "ND3NI_D011"

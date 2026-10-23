@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -47,7 +48,7 @@
      "MG"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -67,7 +68,7 @@
      "MG"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -85,7 +86,7 @@
      "MG"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -114,7 +115,7 @@
      "MG"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -123,7 +124,7 @@
      "MG"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -152,7 +153,7 @@
      "MG"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -181,7 +182,7 @@
      "MG"
     ],
     [
-     0.5
+     null
     ]
    ]
   ]
@@ -209,7 +210,14 @@
    },
    {
     "id": "ORC-ECGSYFKUAN",
-    "paper": "doi:10.1016/j.jallcom.2015.12.105"
+    "paper": "doi:10.1016/j.jallcom.2015.12.105",
+    "also_reported_as": [
+     {
+      "id": "ORC-J6URU6OCAR",
+      "paper": "doi:10.1016/j.jallcom.2015.12.105",
+      "dataset": "invariants/LA-MG/LaMg-16Zha.zpf-06.json"
+     }
+    ]
    },
    {
     "id": "ORC-QSOGTVXBDX",
@@ -228,7 +236,8 @@
    "10.1016/0022-5088(86)90135-9",
    "10.1016/j.jallcom.2015.12.105"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/LaMg-16Zha/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/LaMg-16Zha/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -255,5 +264,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 7,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,10 +12,7 @@
   "T": 300.0,
   "X_PB": [
    0.3333,
-   0.3333,
    0.5,
-   0.5,
-   0.75,
    0.75
   ]
  },
@@ -23,10 +21,7 @@
   [
    [
     -96000.0,
-    -96000.0,
     -75300.0,
-    -75300.0,
-    -44000.0,
     -44000.0
    ]
   ]
@@ -37,7 +32,7 @@
   "thermochemical_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ILKXXSNCXH.2c30af ORC-ILKXXSNCXH.2c30af ORC-3XQQHMM7AK.14b409 ORC-3XQQHMM7AK.14b409 ORC-Y34T3BZUQO.83a804 ORC-Y34T3BZUQO.83a804",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ILKXXSNCXH.2c30af ORC-3XQQHMM7AK.14b409 ORC-Y34T3BZUQO.83a804",
  "reference_states": {
   "BA": {
    "phase": "BCC_A2"
@@ -55,32 +50,26 @@
    {
     "id": "ORC-ILKXXSNCXH.2c30af",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
-   },
-   {
-    "id": "ORC-ILKXXSNCXH.2c30af",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
-   },
-   {
-    "id": "ORC-3XQQHMM7AK.14b409",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
+    "paper": "doi:10.1016/j.calphad.2007.04.003",
+    "also_read_as": [
+     "ORC-ILKXXSNCXH.2c30af"
+    ]
    },
    {
     "id": "ORC-3XQQHMM7AK.14b409",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
+    "paper": "doi:10.1016/j.calphad.2007.04.003",
+    "also_read_as": [
+     "ORC-3XQQHMM7AK.14b409"
+    ]
    },
    {
     "id": "ORC-Y34T3BZUQO.83a804",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
-   },
-   {
-    "id": "ORC-Y34T3BZUQO.83a804",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.04.003"
+    "paper": "doi:10.1016/j.calphad.2007.04.003",
+    "also_read_as": [
+     "ORC-Y34T3BZUQO.83a804"
+    ]
    }
   ],
   "papers": [
@@ -89,7 +78,8 @@
   "dois": [
    "10.1016/j.calphad.2007.04.003"
   ],
-  "source_dataset": "db-v2.1/general/espei/BaPb-07Idb/hmr-01.json"
+  "source_dataset": "db-v2.1/general/espei/BaPb-07Idb/hmr-01.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -124,42 +114,6 @@
     "weight_used": 0.041667
    },
    {
-    "sigma": 12000.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 12.0,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.041667,
-    "weight_used": 0.041667
-   },
-   {
-    "sigma": 12000.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 12.0,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.041667,
-    "weight_used": 0.041667
-   },
-   {
-    "sigma": 2000.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 2.0,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.25,
-    "weight_used": 0.041667
-   },
-   {
     "sigma": 2000.0,
     "sigma_basis": "printed",
     "printed": {
@@ -172,5 +126,13 @@
     "weight_used": 0.041667
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.041667,
+  "weight_written": 0.041667,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "C15_LAVES",

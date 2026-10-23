@@ -1,7 +1,8 @@
 {
  "components": [
   "TE",
-  "TL"
+  "TL",
+  "VA"
  ],
  "phases": [
   "TL2TE"

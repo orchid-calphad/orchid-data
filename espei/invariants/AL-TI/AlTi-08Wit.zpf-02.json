@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "ALTI3_D019",
@@ -61,18 +62,28 @@
   "observations": [
    {
     "id": "ORC-KBKLSCP4LC",
-    "paper": "doi:10.1016/j.jallcom.2007.10.061"
+    "paper": "doi:10.1016/j.jallcom.2007.10.061",
+    "also_reported_as": [
+     {
+      "id": "ORC-EUGWE4AHBS",
+      "paper": "doi:10.1016/j.jallcom.2007.10.061",
+      "dataset": "invariants/AL-TI/AlTi-08Wit.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2007.10.061",
-   "doi:10.1016/0956-716x(92)90103-l"
+   "doi:10.1016/0956-716x(92)90103-l",
+   "doi:10.1016/0966-9795(94)90018-3"
   ],
   "dois": [
    "10.1016/0956-716x(92)90103-l",
+   "10.1016/0966-9795(94)90018-3",
    "10.1016/j.jallcom.2007.10.061"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

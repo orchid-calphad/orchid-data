@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LAPB3_L12"

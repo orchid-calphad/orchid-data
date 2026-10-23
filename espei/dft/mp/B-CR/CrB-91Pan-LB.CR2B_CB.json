@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "CR"
+  "CR",
+  "VA"
  ],
  "phases": [
   "CR2B_CB"

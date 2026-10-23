@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "ER2NI17",
@@ -65,7 +66,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -85,7 +86,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -94,7 +95,7 @@
      "NI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -114,7 +115,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -123,7 +124,7 @@
      "NI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -143,7 +144,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -163,7 +164,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -172,7 +173,7 @@
      "NI"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -192,7 +193,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -201,7 +202,7 @@
      "NI"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -221,7 +222,7 @@
      "NI"
     ],
     [
-     0.8
+     null
     ]
    ],
    [
@@ -230,7 +231,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -241,7 +242,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -250,7 +251,7 @@
      "NI"
     ],
     [
-     0.8
+     null
     ]
    ],
    [
@@ -259,7 +260,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -288,7 +289,7 @@
      "NI"
     ],
     [
-     0.8095238095238095
+     null
     ]
    ],
    [
@@ -297,7 +298,7 @@
      "NI"
     ],
     [
-     0.8
+     null
     ]
    ]
   ],
@@ -317,7 +318,7 @@
      "NI"
     ],
     [
-     0.8148148148148148
+     null
     ]
    ],
    [
@@ -326,7 +327,7 @@
      "NI"
     ],
     [
-     0.8095238095238095
+     null
     ]
    ]
   ],
@@ -346,7 +347,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -355,7 +356,7 @@
      "NI"
     ],
     [
-     0.8148148148148148
+     null
     ]
    ]
   ],
@@ -375,7 +376,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ]
   ],
@@ -395,7 +396,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -404,7 +405,7 @@
      "NI"
     ],
     [
-     0.8947368421052632
+     null
     ]
    ]
   ],
@@ -424,7 +425,7 @@
      "NI"
     ],
     [
-     0.8947368421052632
+     null
     ]
    ],
    [
@@ -597,5 +598,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 25,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

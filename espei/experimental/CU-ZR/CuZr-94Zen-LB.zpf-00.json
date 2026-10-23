@@ -1,6 +1,7 @@
 {
  "components": [
   "CU",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -37,7 +38,7 @@
      "ZR"
     ],
     [
-     0.215385
+     null
     ]
    ]
   ],
@@ -57,7 +58,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -77,7 +78,7 @@
      "ZR"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ],
@@ -97,7 +98,7 @@
      "ZR"
     ],
     [
-     0.411765
+     null
     ]
    ]
   ]
@@ -117,31 +118,98 @@
    {
     "id": "ORC-2HMIRZDSJ3",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02647618"
+    "paper": "doi:10.1007/bf02647618",
+    "also_reported_as": [
+     {
+      "id": "ORC-3PNJR2W47L",
+      "paper": "doi:10.1016/j.calphad.2006.06.002",
+      "measured_in": "ref:78d7b0e17fc2b5d9",
+      "dataset": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-NYKVMVHSJT",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02647618"
+    "paper": "doi:10.1007/bf02647618",
+    "also_reported_as": [
+     {
+      "id": "ORC-6IB2LVPDV5",
+      "paper": "doi:10.1016/j.calphad.2006.06.002",
+      "measured_in": "ref:78d7b0e17fc2b5d9",
+      "dataset": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json"
+     },
+     {
+      "id": "ORC-X6YLMUFDB3",
+      "paper": "doi:10.1007/s11106-008-9039-x",
+      "dataset": "invariants/CU-ZR/CuZr-08Tur.zpf-09.json"
+     },
+     {
+      "id": "ORC-DTDLENWVY4",
+      "paper": "doi:10.1016/j.actamat.2009.12.004",
+      "measured_in": "ref:e23e5b02fa4a10fe",
+      "dataset": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json"
+     },
+     {
+      "id": "ORC-PEQG3ERIL6",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-4EK2PJH36U",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02647618"
+    "paper": "doi:10.1007/bf02647618",
+    "also_reported_as": [
+     {
+      "id": "ORC-SEWBYREUHL",
+      "paper": "doi:10.1016/j.actamat.2009.12.004",
+      "measured_in": "ref:e23e5b02fa4a10fe",
+      "dataset": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json"
+     }
+    ]
    },
    {
     "id": "ORC-TDHBYASPMD",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02647618"
+    "paper": "doi:10.1007/bf02647618",
+    "also_reported_as": [
+     {
+      "id": "ORC-T5WGR7XORU",
+      "paper": "doi:10.1016/j.calphad.2006.06.002",
+      "measured_in": "doi:10.1007/bf02898260",
+      "dataset": "invariants/CU-ZR/CuZr-06Wan.zpf-00.json"
+     },
+     {
+      "id": "ORC-BYSNH6M46U",
+      "paper": "doi:10.1016/j.actamat.2009.12.004",
+      "measured_in": "ref:e23e5b02fa4a10fe",
+      "dataset": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1007/bf02647618"
+   "doi:10.1007/bf02647618",
+   "ref:78d7b0e17fc2b5d9",
+   "doi:10.1016/j.calphad.2006.06.002",
+   "doi:10.1007/s11106-008-9039-x",
+   "ref:e23e5b02fa4a10fe",
+   "doi:10.1016/j.actamat.2009.12.004",
+   "doi:10.1007/s11669-017-0522-2",
+   "doi:10.1007/bf02898260"
   ],
   "dois": [
-   "10.1007/bf02647618"
+   "10.1007/bf02647618",
+   "10.1007/bf02898260",
+   "10.1007/s11106-008-9039-x",
+   "10.1007/s11669-017-0522-2",
+   "10.1016/j.actamat.2009.12.004",
+   "10.1016/j.calphad.2006.06.002"
   ],
-  "source_dataset": "db-v2.1/general/espei/CuZr-94Zen-LB/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/CuZr-94Zen-LB/zpf-00.json",
+  "e3_merged": 8
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -164,5 +232,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "GA5PD"

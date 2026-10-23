@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "FESN_B35"

@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "GE2TI_C54"

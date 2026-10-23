@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "IR"
+  "IR",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,7 +12,6 @@
   "T": 0.0,
   "X_IR": [
    1.0,
-   1.0,
    0.0,
    1.0
   ]
@@ -20,7 +20,6 @@
  "values": [
   [
    [
-    0.0,
     0.0,
     60200.0,
     8800.0
@@ -36,7 +35,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PSDZU7YMNB.abef50 ORC-PSDZU7YMNB.ed0174 ORC-KMC3ISMFEM ORC-3GMHV2XSSV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PSDZU7YMNB.abef50 ORC-KMC3ISMFEM ORC-3GMHV2XSSV",
  "reference_states": {
   "AL": {
    "phase": "FCC_A1"
@@ -82,15 +81,9 @@
     "measured_in": "doi:10.1016/j.calphad.2008.09.014",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-PSDZU7YMNB.ed0174",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2008.09.014",
-    "measured_in": "doi:10.1016/j.calphad.2008.09.014",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-PSDZU7YMNB.ed0174"
     ]
    },
    {
@@ -118,7 +111,8 @@
   "dois": [
    "10.1016/j.calphad.2008.09.014"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/AlIr-08Abe/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/AlIr-08Abe/hmr-model-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -128,11 +122,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

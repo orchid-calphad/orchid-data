@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "SISR2_C37"

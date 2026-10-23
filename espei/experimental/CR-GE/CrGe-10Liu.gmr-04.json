@@ -1,7 +1,8 @@
 {
  "components": [
   "CR",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -13,16 +14,9 @@
    0.25,
    0.25,
    0.25,
-   0.25,
-   0.25,
-   0.25,
    0.2,
    0.2,
    0.2,
-   0.2,
-   0.2,
-   0.2,
-   0.37,
    0.37
   ]
  },
@@ -31,18 +25,11 @@
   [
    [
     -18070.0,
-    -18070.0,
-    -19220.0,
     -19220.0,
     -17380.0,
-    -17380.0,
-    -14370.0,
     -14370.0,
     -13690.0,
-    -13690.0,
     -14510.0,
-    -14510.0,
-    -16340.0,
     -16340.0
    ]
   ]
@@ -54,7 +41,7 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZDS7SVJW37.79f712 ORC-ZDS7SVJW37.6c99b2 ORC-SHBHPLOWRZ.496f37 ORC-SHBHPLOWRZ.b6ec88 ORC-5DSEUH4NK2.275607 ORC-5DSEUH4NK2.4030f3 ORC-D6O6WD7FEM.052b22 ORC-D6O6WD7FEM.41ccc1 ORC-D4GO4RDBQ3.f911d1 ORC-D4GO4RDBQ3.0b66ef ORC-SQKDM2MIIO.51bcd7 ORC-SQKDM2MIIO.7c252f ORC-2J4IQSP6P5.6ab015 ORC-2J4IQSP6P5.455370",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZDS7SVJW37.79f712 ORC-SHBHPLOWRZ.496f37 ORC-5DSEUH4NK2.275607 ORC-D6O6WD7FEM.052b22 ORC-D4GO4RDBQ3.f911d1 ORC-SQKDM2MIIO.51bcd7 ORC-2J4IQSP6P5.6ab015",
  "reference_states": {
   "CR": {
    "phase": "BCC_A2"
@@ -71,72 +58,58 @@
    {
     "id": "ORC-ZDS7SVJW37.79f712",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-ZDS7SVJW37.6c99b2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-ZDS7SVJW37.6c99b2"
+    ]
    },
    {
     "id": "ORC-SHBHPLOWRZ.496f37",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-SHBHPLOWRZ.b6ec88",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-SHBHPLOWRZ.b6ec88"
+    ]
    },
    {
     "id": "ORC-5DSEUH4NK2.275607",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-5DSEUH4NK2.4030f3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-5DSEUH4NK2.4030f3"
+    ]
    },
    {
     "id": "ORC-D6O6WD7FEM.052b22",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-D6O6WD7FEM.41ccc1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-D6O6WD7FEM.41ccc1"
+    ]
    },
    {
     "id": "ORC-D4GO4RDBQ3.f911d1",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-D4GO4RDBQ3.0b66ef",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-D4GO4RDBQ3.0b66ef"
+    ]
    },
    {
     "id": "ORC-SQKDM2MIIO.51bcd7",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-SQKDM2MIIO.7c252f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-SQKDM2MIIO.7c252f"
+    ]
    },
    {
     "id": "ORC-2J4IQSP6P5.6ab015",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
-   },
-   {
-    "id": "ORC-2J4IQSP6P5.455370",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2009.11.001"
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "also_read_as": [
+     "ORC-2J4IQSP6P5.455370"
+    ]
    }
   ],
   "papers": [
@@ -147,7 +120,8 @@
    "10.1016/j.calphad.2009.11.001",
    "10.1016/s0925-8388(01)01551-1"
   ],
-  "source_dataset": "db-v2.1/general/espei/CrGe-10Liu/gmr-04.json"
+  "source_dataset": "db-v2.1/general/espei/CrGe-10Liu/gmr-04.json",
+  "values_dropped": 7
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -157,55 +131,6 @@
   },
   "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_printed": null,

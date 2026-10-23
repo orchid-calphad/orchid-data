@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "GEPT_B31"

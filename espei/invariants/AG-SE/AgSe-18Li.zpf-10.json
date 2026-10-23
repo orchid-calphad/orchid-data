@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "FCC_A1",

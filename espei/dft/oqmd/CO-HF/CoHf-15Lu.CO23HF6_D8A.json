@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "HF"
+  "HF",
+  "VA"
  ],
  "phases": [
   "CO23HF6_D8A"

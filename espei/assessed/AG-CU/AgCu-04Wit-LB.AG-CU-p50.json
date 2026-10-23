@@ -1,0 +1,174 @@
+{
+ "components": [
+  "AG",
+  "CU",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   974.1734742,
+   754.1734742,
+   1076.173474,
+   1103.173474,
+   1143.173474,
+   1309.173474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.04076200846
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CU"
+    ],
+    [
+     0.5152726867
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.9832763619
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CU"
+    ],
+    [
+     0.1844166125
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CU"
+    ],
+    [
+     0.786064118
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.4572101986
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and J.H. Perepezko, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, Ohio, 5-17 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 50",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-CU-p50; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AgCu-04Wit-LB.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-CU-p50",
+  "target_tdb": "AgCu-04Wit-LB.tdb",
+  "record_ids": [
+   "aspa-6f168e107a78d329",
+   "aspa-93b0af65352f2bd2",
+   "aspa-735c1462979504a4",
+   "aspa-6b22cf45ea99b431",
+   "aspa-0e963111be3126bc",
+   "aspa-a3c8eb44ae3ad69b"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/AG-CU-p50.json"
+ }
+}

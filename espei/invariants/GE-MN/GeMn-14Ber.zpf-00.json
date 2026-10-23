@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "MN"
+  "MN",
+  "VA"
  ],
  "phases": [
   "GE2MN5_HT",

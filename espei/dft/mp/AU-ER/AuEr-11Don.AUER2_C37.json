@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "AUER2_C37"

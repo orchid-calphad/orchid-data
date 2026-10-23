@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "ERB12_D2F",

@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "BA2PB_C37",
@@ -41,7 +42,7 @@
      "PB"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -70,7 +71,7 @@
      "PB"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -79,7 +80,7 @@
      "PB"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -90,7 +91,7 @@
      "PB"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -99,7 +100,7 @@
      "PB"
     ],
     [
-     0.625
+     null
     ]
    ]
   ],
@@ -128,7 +129,7 @@
      "PB"
     ],
     [
-     0.75
+     null
     ]
    ]
   ]
@@ -202,5 +203,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 6,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

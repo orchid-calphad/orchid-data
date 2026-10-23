@@ -1,7 +1,8 @@
 {
  "components": [
   "PT",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "PTSN2_C1"

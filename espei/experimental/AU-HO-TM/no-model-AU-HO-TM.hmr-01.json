@@ -2,7 +2,8 @@
  "components": [
   "AU",
   "HO",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -12,12 +13,7 @@
   "T": 298.0,
   "X_HO": [
    0.333333,
-   0.333333,
    0.25,
-   0.25,
-   0.0,
-   0.0,
-   0.0,
    0.0,
    0.0,
    0.0
@@ -25,13 +21,8 @@
   "X_TM": [
    0.0,
    0.0,
-   0.0,
-   0.0,
-   0.5,
    0.5,
    0.333333,
-   0.333333,
-   0.25,
    0.25
   ]
  },
@@ -40,14 +31,9 @@
   [
    [
     -84600.0,
-    -84600.0,
-    -67100.0,
     -67100.0,
     -92800.0,
-    -92800.0,
     -91600.0,
-    -91600.0,
-    -72700.0,
     -72700.0
    ]
   ]
@@ -59,7 +45,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XILELDB44S.2bbebd ORC-XILELDB44S.2bbebd ORC-7JD6XCXRB7.668c2f ORC-7JD6XCXRB7.668c2f ORC-34KYBMAMNH.bce292 ORC-34KYBMAMNH.bce292 ORC-VGPFFM6HKY.31582e ORC-VGPFFM6HKY.31582e ORC-XNBGYI6FKA.1661c8 ORC-XNBGYI6FKA.1661c8",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XILELDB44S.2bbebd ORC-7JD6XCXRB7.668c2f ORC-34KYBMAMNH.bce292 ORC-VGPFFM6HKY.31582e ORC-XNBGYI6FKA.1661c8",
  "reference_states": {
   "AU": {
    "phase": "FCC_A1"
@@ -83,14 +69,9 @@
     "paper": "doi:10.1016/j.calphad.2012.02.002",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-XILELDB44S.2bbebd",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.002",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-XILELDB44S.2bbebd"
     ]
    },
    {
@@ -99,14 +80,9 @@
     "paper": "doi:10.1016/j.calphad.2012.02.002",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-7JD6XCXRB7.668c2f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.002",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-7JD6XCXRB7.668c2f"
     ]
    },
    {
@@ -115,14 +91,9 @@
     "paper": "doi:10.1016/j.calphad.2012.02.002",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-34KYBMAMNH.bce292",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.002",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-34KYBMAMNH.bce292"
     ]
    },
    {
@@ -131,14 +102,9 @@
     "paper": "doi:10.1016/j.calphad.2012.02.002",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-VGPFFM6HKY.31582e",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.002",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-VGPFFM6HKY.31582e"
     ]
    },
    {
@@ -147,14 +113,9 @@
     "paper": "doi:10.1016/j.calphad.2012.02.002",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-XNBGYI6FKA.1661c8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.002",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-XNBGYI6FKA.1661c8"
     ]
    }
   ],
@@ -166,7 +127,8 @@
    "10.1016/j.calphad.2012.02.002",
    "10.1016/s0925-8388(03)00527-9"
   ],
-  "source_dataset": "db-v2.1/general/espei/no-model-AU-HO-TM/hmr-01.json"
+  "source_dataset": "db-v2.1/general/espei/no-model-AU-HO-TM/hmr-01.json",
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -189,30 +151,6 @@
     "weight_used": 0.238095
    },
    {
-    "sigma": 1400.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 1.4,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.357143,
-    "weight_used": 0.238095
-   },
-   {
-    "sigma": 2100.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 2.1,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.238095,
-    "weight_used": 0.238095
-   },
-   {
     "sigma": 2100.0,
     "sigma_basis": "printed",
     "printed": {
@@ -237,18 +175,6 @@
     "weight_used": 0.238095
    },
    {
-    "sigma": 1900.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 1.9,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.263158,
-    "weight_used": 0.238095
-   },
-   {
     "sigma": 2300.0,
     "sigma_basis": "printed",
     "printed": {
@@ -258,30 +184,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.217391,
-    "weight_used": 0.238095
-   },
-   {
-    "sigma": 2300.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 2.3,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.217391,
-    "weight_used": 0.238095
-   },
-   {
-    "sigma": 2100.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 2.1,
-     "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.238095,
     "weight_used": 0.238095
    },
    {
@@ -297,5 +199,13 @@
     "weight_used": 0.238095
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.238095,
+  "weight_written": 0.238095,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

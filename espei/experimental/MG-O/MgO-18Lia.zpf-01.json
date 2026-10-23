@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "B1_OXIDE",
@@ -51,16 +52,26 @@
    {
     "id": "ORC-GIK4GT2IHC",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jeurceramsoc.2018.06.015"
+    "paper": "doi:10.1016/j.jeurceramsoc.2018.06.015",
+    "also_reported_as": [
+     {
+      "id": "ORC-3WKU277YLT",
+      "paper": "doi:10.1016/j.jeurceramsoc.2018.06.015",
+      "dataset": "experimental/MG-O/MgO-18Lia.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/j.jeurceramsoc.2018.06.015"
+   "doi:10.1016/j.jeurceramsoc.2018.06.015",
+   "doi:10.1351/pac198254030681"
   ],
   "dois": [
-   "10.1016/j.jeurceramsoc.2018.06.015"
+   "10.1016/j.jeurceramsoc.2018.06.015",
+   "10.1351/pac198254030681"
   ],
-  "source_dataset": "db-v2.1/general/espei/MgO-18Lia/zpf-01.json"
+  "source_dataset": "db-v2.1/general/espei/MgO-18Lia/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

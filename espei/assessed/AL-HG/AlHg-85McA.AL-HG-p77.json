@@ -1,0 +1,115 @@
+{
+ "components": [
+  "AL",
+  "HG",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBO_A10"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   203.537637,
+   532.037637,
+   879.037637
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBO_A10",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HG"
+    ],
+    [
+     0.4997734825
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HG"
+    ],
+    [
+     0.4682204411
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.6204763868
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.J. McAlister, Bull. Alloy Phase Diagrams, 6(3), 319-322 (1985); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 77",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-HG-p77; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlHg-85McA.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-HG-p77",
+  "target_tdb": "AlHg-85McA.tdb",
+  "record_ids": [
+   "aspa-346e14ec31044ec1",
+   "aspa-22a9f2000d1d2aef",
+   "aspa-7cd21323bb57f129"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-HG-p77.json"
+ }
+}

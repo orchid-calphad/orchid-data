@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -13,8 +14,6 @@
    0.6,
    0.6,
    0.6,
-   0.6,
-   0.666667,
    0.666667,
    0.666667,
    0.666667,
@@ -29,8 +28,6 @@
     -1.18,
     -1.16,
     -1.08,
-    -1.08,
-    -2.37,
     -2.37,
     -2.36,
     -2.26,
@@ -47,7 +44,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q7FLMQBHKU.19db17 ORC-RHY3T5V3A4.de31c7 ORC-ACXKXPR5PP.0a53f9 ORC-ACXKXPR5PP.0a53f9 ORC-5HJJYFZRTZ.983636 ORC-5HJJYFZRTZ.983636 ORC-5NCTUBP7YY.8e8864 ORC-MNXVKCIQTN.b5f734 ORC-TUA5HIYR7G.6ca990 ORC-DIWZHZFXLD.13bc22",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q7FLMQBHKU.19db17 ORC-RHY3T5V3A4.de31c7 ORC-ACXKXPR5PP.0a53f9 ORC-5HJJYFZRTZ.983636 ORC-5NCTUBP7YY.8e8864 ORC-MNXVKCIQTN.b5f734 ORC-TUA5HIYR7G.6ca990 ORC-DIWZHZFXLD.13bc22",
  "reference_states": {
   "ER": {
    "phase": "HCP_A3",
@@ -108,25 +105,19 @@
     "id": "ORC-ACXKXPR5PP.0a53f9",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
-    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
-   },
-   {
-    "id": "ORC-ACXKXPR5PP.0a53f9",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2017.07.129",
-    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129",
+    "also_read_as": [
+     "ORC-ACXKXPR5PP.0a53f9"
+    ]
    },
    {
     "id": "ORC-5HJJYFZRTZ.983636",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
-    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
-   },
-   {
-    "id": "ORC-5HJJYFZRTZ.983636",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2017.07.129",
-    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129",
+    "also_read_as": [
+     "ORC-5HJJYFZRTZ.983636"
+    ]
    },
    {
     "id": "ORC-5NCTUBP7YY.8e8864",
@@ -159,7 +150,8 @@
   "dois": [
    "10.1016/j.jallcom.2017.07.129"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/ErGe-17Ach/smr-model-16.json"
+  "source_dataset": "db-v2.1/general/espei-model/ErGe-17Ach/smr-model-16.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -169,16 +161,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

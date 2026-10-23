@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "INPD2_C37"

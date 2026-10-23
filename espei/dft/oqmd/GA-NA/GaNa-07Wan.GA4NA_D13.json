@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "NA"
+  "NA",
+  "VA"
  ],
  "phases": [
   "GA4NA_D13"

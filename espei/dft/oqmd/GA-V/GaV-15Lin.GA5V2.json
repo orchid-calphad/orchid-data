@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "GA5V2"

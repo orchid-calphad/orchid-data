@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "CETE_B1"

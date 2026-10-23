@@ -1,7 +1,8 @@
 {
  "components": [
   "HF",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "HFSN2_C40"

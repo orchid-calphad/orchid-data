@@ -1,0 +1,148 @@
+{
+ "components": [
+  "NI",
+  "P",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "M2P_C22",
+  "M3P_D0E"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   719.4897442,
+   1528.489744,
+   1233.489744,
+   1195.489744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M3P_D0E",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.1243519697
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.3861337046
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M2P_C22",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.3781250856
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M3P_D0E",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2289645559
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 31(2), 200-201 (2010) doi:10.1007/s11669-010-9664-1; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 688",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-P-p688; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to NiP-99Shi.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-P-p688",
+  "target_tdb": "NiP-99Shi.tdb",
+  "record_ids": [
+   "aspa-652ccf123f094118",
+   "aspa-b271197801f5a3b4",
+   "aspa-f80f91af237f0720",
+   "aspa-f7719d9e8ba0df18"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "medium",
+   "medium"
+  ],
+  "points_left_out": 3,
+  "source": "assessed-phase-assemblages/espei-zpf/NI-P-p688.json"
+ }
+}

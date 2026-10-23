@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "RB"
+  "RB",
+  "VA"
  ],
  "phases": [
   "BI2RB3",
@@ -15,7 +16,6 @@
   "T": [
    886.0,
    643.0,
-   676.0,
    743.0
   ]
  },
@@ -37,7 +37,7 @@
      "RB"
     ],
     [
-     0.333333
+     null
     ]
    ]
   ],
@@ -57,7 +57,7 @@
      "RB"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -66,7 +66,7 @@
      "RB"
     ],
     [
-     0.555556
+     null
     ]
    ],
    [
@@ -86,54 +86,16 @@
      "RB"
     ],
     [
+     0.6
+    ]
+   ],
+   [
+    "BI2RB3",
+    [
+     "RB"
+    ],
+    [
      null
-    ]
-   ],
-   [
-    "BI2RB3",
-    [
-     "RB"
-    ],
-    [
-     0.6
-    ]
-   ],
-   [
-    "BI4RB5",
-    [
-     "RB"
-    ],
-    [
-     0.555556
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RB"
-    ],
-    [
-     0.577778
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "RB"
-    ],
-    [
-     0.6
-    ]
-   ],
-   [
-    "BI2RB3",
-    [
-     "RB"
-    ],
-    [
-     0.6
     ]
    ]
   ]
@@ -145,7 +107,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AXUCJCYFF3 ORC-LO26MIQMAM ORC-Z6GKBLDMZ2 ORC-QVHCBFXJIM",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AXUCJCYFF3 ORC-LO26MIQMAM ORC-QVHCBFXJIM",
  "bibtex": "dziri2022_7a1c7b",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -157,10 +119,6 @@
    },
    {
     "id": "ORC-LO26MIQMAM",
-    "paper": "doi:10.1007/s11669-022-00968-3"
-   },
-   {
-    "id": "ORC-Z6GKBLDMZ2",
     "paper": "doi:10.1007/s11669-022-00968-3"
    },
    {
@@ -176,7 +134,8 @@
    "10.1007/s11669-022-00968-3",
    "10.1149/1.2095424"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiRb-22Dzi/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiRb-22Dzi/zpf-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -192,12 +151,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,0 +1,368 @@
+{
+ "components": [
+  "MG",
+  "TL",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "MG2TL_C22",
+  "MG5TL2_D8G",
+  "MGTL_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   675.0,
+   655.0,
+   636.0,
+   616.0,
+   485.0,
+   465.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.343
+    ]
+   ],
+   [
+    "MG5TL2_D8G",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.3285
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.3381666667
+    ]
+   ]
+  ],
+  [
+   [
+    "MG2TL_C22",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.3285
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.3381666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.425
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.415
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.435
+    ]
+   ]
+  ],
+  [
+   [
+    "MG2TL_C22",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MGTL_B2",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.415
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.435
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "MGTL_B2",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     0.952
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ]
+ ],
+ "reference": "doi:10.1002/bbpc.19340400213",
+ "bibtex": "grubend_723177",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MG-TL/MgTl-08Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-QEEJS66DAT ORC-UQYJNC7XHV ORC-XCLW642NPM",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/MG-TL/MgTl-08Liu.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-QEEJS66DAT",
+    "side": "above",
+    "T_invariant_K": 665,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.004833333333333356,
+    "reaction_printed": "Liquid + Mg5Tl2 -> Mg2Tl",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "MG5TL2_D8G"
+    ],
+    "phases_below": [
+     "MG2TL_C22"
+    ]
+   },
+   {
+    "source_observation": "ORC-QEEJS66DAT",
+    "side": "below",
+    "T_invariant_K": 665,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.004833333333333356,
+    "reaction_printed": "Liquid + Mg5Tl2 -> Mg2Tl",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "MG5TL2_D8G"
+    ],
+    "phases_below": [
+     "MG2TL_C22"
+    ]
+   },
+   {
+    "source_observation": "ORC-UQYJNC7XHV",
+    "side": "above",
+    "T_invariant_K": 626,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.425,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> Mg2Tl + MgTl",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "MG2TL_C22",
+     "MGTL_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-UQYJNC7XHV",
+    "side": "below",
+    "T_invariant_K": 626,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.425,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> Mg2Tl + MgTl",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "MG2TL_C22",
+     "MGTL_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-XCLW642NPM",
+    "side": "above",
+    "T_invariant_K": 475,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> MgTl + bcc",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "MGTL_B2",
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-XCLW642NPM",
+    "side": "below",
+    "T_invariant_K": 475,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> MgTl + bcc",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "MGTL_B2",
+     "BCC_A2"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1002/bbpc.19340400213",
+   "10.1016/j.jallcom.2007.04.031"
+  ],
+  "papers": [
+   "doi:10.1002/bbpc.19340400213",
+   "doi:10.1016/j.jallcom.2007.04.031"
+  ]
+ }
+}

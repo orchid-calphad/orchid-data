@@ -1,7 +1,8 @@
 {
  "components": [
   "P",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "TIP2_C37"

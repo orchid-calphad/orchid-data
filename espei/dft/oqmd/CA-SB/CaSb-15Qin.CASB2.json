@@ -1,7 +1,8 @@
 {
  "components": [
   "CA",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "CASB2"

@@ -1,7 +1,8 @@
 {
  "components": [
   "SM",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "SM5SN3_D88"

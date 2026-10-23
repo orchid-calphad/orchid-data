@@ -1,0 +1,161 @@
+{
+ "components": [
+  "B",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "MO2B_C16"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2434.512103,
+   2057.512103,
+   2813.012103,
+   2609.512103,
+   2493.012103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     0.6647474787
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.8332505183
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.1842388109
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.9147519884
+    ]
+   ]
+  ],
+  [
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.7082482634
+    ]
+   ]
+  ]
+ ],
+ "reference": "K.E. Spear and P.K. Liao, Bull. Alloy Phase Diagrams, 9(4), 457-466 (1988) doi:10.1007/bf02881867; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 145",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-MO-p145; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to MoB-16Wit.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-MO-p145",
+  "target_tdb": "MoB-16Wit.tdb",
+  "record_ids": [
+   "aspa-885cf71a43a77813",
+   "aspa-55ba5d9a34f597e4",
+   "aspa-b0dcf2bea96366b1",
+   "aspa-64e3f44edcab118a",
+   "aspa-4c83f05c628262a8"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/B-MO-p145.json"
+ }
+}

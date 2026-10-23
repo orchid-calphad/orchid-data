@@ -1,0 +1,321 @@
+{
+ "components": [
+  "RU",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "RU2SI_C37",
+  "RU4SI3",
+  "RUSI"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1843.0,
+   1823.0,
+   1827.0,
+   1528.0,
+   1508.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RUSI",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.418571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.438571
+    ]
+   ]
+  ],
+  [
+   [
+    "RU4SI3",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.418571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.438571
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RU4SI3",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "RU2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RU4SI3",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2001, doi:10.1016/s0925-8388(01)00931-8",
+ "bibtex": "liu2001_edd236",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/RU-SI/RuSi-01Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2BTOY7ZBR5 ORC-4H5ALG7AMR ORC-PXUYSJABBE",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/RU-SI/RuSi-01Liu.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-PXUYSJABBE",
+    "side": "above",
+    "T_invariant_K": 1833.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.428571,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + RuSi = Ru4Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RUSI"
+    ],
+    "phases_below": [
+     "RU4SI3"
+    ]
+   },
+   {
+    "source_observation": "ORC-PXUYSJABBE",
+    "side": "below",
+    "T_invariant_K": 1833.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.428571,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + RuSi = Ru4Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RUSI"
+    ],
+    "phases_below": [
+     "RU4SI3"
+    ]
+   },
+   {
+    "source_observation": "ORC-2BTOY7ZBR5",
+    "side": "above",
+    "T_invariant_K": 1817.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + Ru4Si3 = Ru2Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU4SI3"
+    ],
+    "phases_below": [
+     "RU2SI_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-4H5ALG7AMR",
+    "side": "above",
+    "T_invariant_K": 1518.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ru2Si = (Ru) + Ru4Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "RU2SI_C37"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "RU4SI3"
+    ]
+   },
+   {
+    "source_observation": "ORC-4H5ALG7AMR",
+    "side": "below",
+    "T_invariant_K": 1518.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ru2Si = (Ru) + Ru4Si3",
+    "reaction_type": null,
+    "phases_above": [
+     "RU2SI_C37"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "RU4SI3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.01.079",
+   "10.1016/s0925-8388(01)00931-8",
+   "10.1016/s0925-8388(98)00911-6"
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(01)00931-8",
+   "doi:10.1016/s0925-8388(98)00911-6",
+   "doi:10.1016/j.jallcom.2009.01.079"
+  ]
+ }
+}

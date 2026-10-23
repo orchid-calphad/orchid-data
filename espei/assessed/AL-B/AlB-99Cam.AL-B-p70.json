@@ -1,0 +1,212 @@
+{
+ "components": [
+  "AL",
+  "B",
+  "VA"
+ ],
+ "phases": [
+  "ALB12_ALPHA",
+  "ALB2_C32",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   377.7819804,
+   706.7819804,
+   863.7819804,
+   1088.28198,
+   2243.28198,
+   1618.28198
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALB12_ALPHA",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.4611910073
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALB2_C32",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.3319737903
+    ]
+   ]
+  ],
+  [
+   [
+    "ALB12_ALPHA",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALB2_C32",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.7947517303
+    ]
+   ]
+  ],
+  [
+   [
+    "ALB2_C32",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.3359805257
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.3955807149
+    ]
+   ]
+  ],
+  [
+   [
+    "ALB12_ALPHA",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.5673694957
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 27(2), 195-196 (2006) doi:10.1361/154770306x97687; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 70",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-B-p70; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlB-99Cam.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-B-p70",
+  "target_tdb": "AlB-99Cam.tdb",
+  "record_ids": [
+   "aspa-95ae3017ac34c2a5",
+   "aspa-1b992417cd15b589",
+   "aspa-1d99cfb6e681aa90",
+   "aspa-65757b6acecf7049",
+   "aspa-d91e29ce3a8ec094",
+   "aspa-f13d8df3e98940e7"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "medium",
+   "medium",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-B-p70.json"
+ }
+}

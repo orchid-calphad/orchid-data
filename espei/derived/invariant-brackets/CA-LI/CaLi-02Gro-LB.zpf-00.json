@@ -1,0 +1,367 @@
+{
+ "components": [
+  "CA",
+  "LI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CALI2_C14",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   653.15,
+   633.15,
+   513.15,
+   493.15,
+   424.15,
+   404.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     0.09
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.085
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.095
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.08
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.085
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.095
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.58
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "CALI2_C14",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.58
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.92
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.93
+    ]
+   ]
+  ],
+  [
+   [
+    "CALI2_C14",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.93
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gröbner 2002, doi:10.1016/s0040-6031(01)00842-5",
+ "bibtex": "grobner2002_cffa72",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CA-LI/CaLi-02Gro-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-74ZISW3DST ORC-SAN4RXU25Q ORC-WXIRJKKLXQ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CA-LI/CaLi-02Gro-LB.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-74ZISW3DST",
+    "side": "above",
+    "T_invariant_K": 643.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.09,
+    "hyperplane_delta": 0.0049999999999999975,
+    "reaction_printed": "βCa = αCa + liquid",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "LIQUID"
+    ]
+   },
+   {
+    "source_observation": "ORC-74ZISW3DST",
+    "side": "below",
+    "T_invariant_K": 643.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.09,
+    "hyperplane_delta": 0.0049999999999999975,
+    "reaction_printed": "βCa = αCa + liquid",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "LIQUID"
+    ]
+   },
+   {
+    "source_observation": "ORC-SAN4RXU25Q",
+    "side": "above",
+    "T_invariant_K": 503.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.59,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = αCa + CaLi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CALI2_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-SAN4RXU25Q",
+    "side": "below",
+    "T_invariant_K": 503.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.59,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = αCa + CaLi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CALI2_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-WXIRJKKLXQ",
+    "side": "above",
+    "T_invariant_K": 414.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.92,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = CaLi2 + (Li)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CALI2_C14",
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-WXIRJKKLXQ",
+    "side": "below",
+    "T_invariant_K": 414.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.92,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = CaLi2 + (Li)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CALI2_C14",
+     "BCC_A2"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/bf02873196",
+   "10.1016/s0040-6031(01)00842-5"
+  ],
+  "papers": [
+   "doi:10.1016/s0040-6031(01)00842-5",
+   "doi:10.1007/bf02873196"
+  ]
+ }
+}

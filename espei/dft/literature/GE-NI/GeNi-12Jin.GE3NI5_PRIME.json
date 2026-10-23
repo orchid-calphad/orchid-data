@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "GE3NI5_PRIME"

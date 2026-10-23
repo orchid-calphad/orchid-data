@@ -1,7 +1,8 @@
 {
  "components": [
   "O",
-  "PU"
+  "PU",
+  "VA"
  ],
  "phases": [
   "PU2O3_D52",

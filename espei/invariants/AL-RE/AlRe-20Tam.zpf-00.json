@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "RE"
+  "RE",
+  "VA"
  ],
  "phases": [
   "AL11RE4",
@@ -51,7 +52,7 @@
      "RE"
     ],
     [
-     0.07692307692307693
+     null
     ]
    ],
    [
@@ -80,7 +81,7 @@
      "RE"
     ],
     [
-     0.14285714285714285
+     null
     ]
    ],
    [
@@ -89,7 +90,7 @@
      "RE"
     ],
     [
-     0.07692307692307693
+     null
     ]
    ]
   ],
@@ -118,7 +119,7 @@
      "RE"
     ],
     [
-     0.14285714285714285
+     null
     ]
    ]
   ],
@@ -196,7 +197,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -225,7 +226,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ]
   ],
@@ -245,7 +246,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -283,7 +284,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -321,7 +322,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -341,7 +342,7 @@
      "RE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -350,7 +351,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -359,7 +360,7 @@
      "RE"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -379,7 +380,7 @@
      "RE"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -388,7 +389,7 @@
      "RE"
     ],
     [
-     0.26666666666666666
+     null
     ]
    ],
    [
@@ -547,5 +548,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 14,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

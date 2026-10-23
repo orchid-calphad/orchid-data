@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -54,7 +55,7 @@
      "ZR"
     ],
     [
-     0.15384615384615385
+     null
     ]
    ]
   ],
@@ -65,7 +66,7 @@
      "ZR"
     ],
     [
-     0.20689655172413793
+     null
     ]
    ],
    [
@@ -83,7 +84,7 @@
      "ZR"
     ],
     [
-     0.15384615384615385
+     null
     ]
    ],
    [
@@ -121,7 +122,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -150,7 +151,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -159,7 +160,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -197,7 +198,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -217,7 +218,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -226,7 +227,7 @@
      "ZR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -255,7 +256,7 @@
      "ZR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -359,5 +360,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 10,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

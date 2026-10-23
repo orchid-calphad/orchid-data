@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -51,18 +52,28 @@
    {
     "id": "ORC-3ZQQLMXFFV",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2003.09.017"
+    "paper": "doi:10.1016/j.jallcom.2003.09.017",
+    "also_reported_as": [
+     {
+      "id": "ORC-25QNNHFKQE",
+      "paper": "doi:10.1016/j.jallcom.2006.10.034",
+      "dataset": "invariants/B-TI/TiB-08Wit.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2003.09.017",
-   "doi:10.1002/zaac.19522680308"
+   "doi:10.1002/zaac.19522680308",
+   "doi:10.1016/j.jallcom.2006.10.034"
   ],
   "dois": [
    "10.1002/zaac.19522680308",
-   "10.1016/j.jallcom.2003.09.017"
+   "10.1016/j.jallcom.2003.09.017",
+   "10.1016/j.jallcom.2006.10.034"
   ],
-  "source_dataset": "db-v2.1/general/espei/TiB-04Ma/zpf-04.json"
+  "source_dataset": "db-v2.1/general/espei/TiB-04Ma/zpf-04.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

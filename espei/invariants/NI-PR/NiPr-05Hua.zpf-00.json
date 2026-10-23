@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "DHCP",
@@ -42,7 +43,7 @@
      "PR"
     ],
     [
-     0.166667
+     null
     ]
    ],
    [
@@ -71,7 +72,7 @@
      "PR"
     ],
     [
-     0.166667
+     null
     ]
    ]
   ],
@@ -91,7 +92,7 @@
      "PR"
     ],
     [
-     0.166667
+     null
     ]
    ],
    [
@@ -100,7 +101,7 @@
      "PR"
     ],
     [
-     0.222222
+     null
     ]
    ],
    [
@@ -129,7 +130,7 @@
      "PR"
     ],
     [
-     0.222222
+     null
     ]
    ],
    [
@@ -138,7 +139,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -167,7 +168,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -176,7 +177,7 @@
      "PR"
     ],
     [
-     0.333333
+     null
     ]
    ],
    [
@@ -205,7 +206,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -240,7 +241,14 @@
    {
     "id": "ORC-AKDY6WQ73W",
     "paper": "doi:10.1016/j.jallcom.2004.11.039",
-    "measured_in": "doi:10.1016/j.jallcom.2004.11.039"
+    "measured_in": "doi:10.1016/j.jallcom.2004.11.039",
+    "also_reported_as": [
+     {
+      "id": "ORC-2PMEIFPIFB",
+      "paper": "doi:10.1016/j.jallcom.2004.11.039",
+      "dataset": "invariants/NI-PR/NiPr-05Hua.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-YYCH3OT6ED",
@@ -260,16 +268,26 @@
    {
     "id": "ORC-K2AQ3VBPZM",
     "paper": "doi:10.1016/j.jallcom.2004.11.039",
-    "measured_in": "doi:10.1016/j.jallcom.2004.11.039"
+    "measured_in": "doi:10.1016/j.jallcom.2004.11.039",
+    "also_reported_as": [
+     {
+      "id": "ORC-E3HIEVAXFE",
+      "paper": "doi:10.1016/j.jallcom.2004.11.039",
+      "dataset": "invariants/NI-PR/NiPr-05Hua.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/j.jallcom.2004.11.039"
+   "doi:10.1016/j.jallcom.2004.11.039",
+   "doi:10.1007/bf02877506"
   ],
   "dois": [
+   "10.1007/bf02877506",
    "10.1016/j.jallcom.2004.11.039"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiPr-05Hua/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiPr-05Hua/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -300,5 +318,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 9,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

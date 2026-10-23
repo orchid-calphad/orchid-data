@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "LI"
+  "LI",
+  "VA"
  ],
  "phases": [
   "GE4LI15_D86"

@@ -1,0 +1,574 @@
+{
+ "components": [
+  "HO",
+  "NI",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "HO3NI2_HT",
+  "HO3NI2_LT",
+  "HO3NI_D011",
+  "HONI2_C15",
+  "HONI3",
+  "HONI_B27",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1033.15,
+   1013.15,
+   1003.15,
+   983.15,
+   1043.15,
+   1023.15,
+   1233.15,
+   1258.15,
+   1478.15,
+   1458.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "HO3NI_D011",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.31
+    ]
+   ]
+  ],
+  [
+   [
+    "HO3NI_D011",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HO3NI2_LT",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.31
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.31
+    ]
+   ],
+   [
+    "HONI_B27",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "HO3NI2_LT",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "HO3NI2_HT",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.53
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.55
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.63
+    ]
+   ],
+   [
+    "HONI3",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "HONI2_C15",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2015, doi:10.1007/s10973-014-4189-1",
+ "bibtex": "kardellass2015_811e4f",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/HO-NI/HoNi-15Kar.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4S4NG6B7KZ ORC-7TRMHGG7PR ORC-D7RYIIJ5EW ORC-E4TT5BS24J ORC-J2FQQVAPSX ORC-JN7IFDYOL3",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/HO-NI/HoNi-15Kar.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-JN7IFDYOL3",
+    "side": "above",
+    "T_invariant_K": 1023.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ho -> Ho3Ni",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "HO3NI_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-JN7IFDYOL3",
+    "side": "below",
+    "T_invariant_K": 1023.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ho -> Ho3Ni",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "HO3NI_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-J2FQQVAPSX",
+    "side": "above",
+    "T_invariant_K": 993.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Ho3Ni + Ho3Ni2_LT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HO3NI_D011",
+     "HO3NI2_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-J2FQQVAPSX",
+    "side": "below",
+    "T_invariant_K": 993.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Ho3Ni + Ho3Ni2_LT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HO3NI_D011",
+     "HO3NI2_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-7TRMHGG7PR",
+    "side": "above",
+    "T_invariant_K": 1033.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + HoNi -> Ho3Ni2_LT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HONI_B27"
+    ],
+    "phases_below": [
+     "HO3NI2_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-7TRMHGG7PR",
+    "side": "below",
+    "T_invariant_K": 1033.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + HoNi -> Ho3Ni2_LT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HONI_B27"
+    ],
+    "phases_below": [
+     "HO3NI2_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-E4TT5BS24J",
+    "side": "below",
+    "T_invariant_K": 1243.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + HoNi -> Ho3Ni2_HT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HONI_B27"
+    ],
+    "phases_below": [
+     "HO3NI2_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-D7RYIIJ5EW",
+    "side": "above",
+    "T_invariant_K": 1248.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.54,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> HoNi + HoNi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HONI_B27",
+     "HONI2_C15"
+    ]
+   },
+   {
+    "source_observation": "ORC-4S4NG6B7KZ",
+    "side": "above",
+    "T_invariant_K": 1468.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + HoNi3 -> HoNi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HONI3"
+    ],
+    "phases_below": [
+     "HONI2_C15"
+    ]
+   },
+   {
+    "source_observation": "ORC-4S4NG6B7KZ",
+    "side": "below",
+    "T_invariant_K": 1468.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + HoNi3 -> HoNi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HONI3"
+    ],
+    "phases_below": [
+     "HONI2_C15"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s10973-014-4189-1"
+  ],
+  "papers": [
+   "doi:10.1007/s10973-014-4189-1"
+  ]
+ }
+}

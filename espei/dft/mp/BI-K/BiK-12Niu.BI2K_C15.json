@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "K"
+  "K",
+  "VA"
  ],
  "phases": [
   "BI2K_C15"

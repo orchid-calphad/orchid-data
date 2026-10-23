@@ -1,0 +1,587 @@
+{
+ "components": [
+  "AG",
+  "CE",
+  "VA"
+ ],
+ "phases": [
+  "AG2CE",
+  "AG4CE",
+  "AG51CE14",
+  "AGCE",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   793.15,
+   773.15,
+   1063.15,
+   1043.15,
+   1138.15,
+   1118.15,
+   1128.15,
+   1088.15,
+   1083.15,
+   1063.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.816
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.806
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.826
+    ]
+   ]
+  ],
+  [
+   [
+    "AGCE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.806
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.826
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.435
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.425
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.445
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2CE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AGCE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.425
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.445
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "AG51CE14",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.325
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.3416666667
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2CE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.325
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.3416666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.129
+    ]
+   ],
+   [
+    "AG51CE14",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.1923076923
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.2076923077
+    ]
+   ]
+  ],
+  [
+   [
+    "AG4CE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.1923076923
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.2076923077
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.09
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.11
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG4CE",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.09
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.11
+    ]
+   ]
+  ]
+ ],
+ "reference": "Delfino 1975, doi:10.1016/0022-5088(75)90093-4",
+ "bibtex": "delfino1975_2aba24",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-CE/AgCe-02Yin-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-EBRCG7NVUR ORC-F5ZIDDMWV3 ORC-ITSV27SZJT ORC-LQOKJGCAOD ORC-S55OUO7XK6",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AG-CE/AgCe-02Yin-LB.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-EBRCG7NVUR",
+    "side": "above",
+    "T_invariant_K": 783.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.816,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->AgCe+γ-Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AGCE",
+     "FCC_A1"
+    ]
+   },
+   {
+    "source_observation": "ORC-EBRCG7NVUR",
+    "side": "below",
+    "T_invariant_K": 783.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.816,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->AgCe+γ-Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AGCE",
+     "FCC_A1"
+    ]
+   },
+   {
+    "source_observation": "ORC-ITSV27SZJT",
+    "side": "above",
+    "T_invariant_K": 1053.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.435,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->Ag2Ce+AgCe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AG2CE",
+     "AGCE"
+    ]
+   },
+   {
+    "source_observation": "ORC-ITSV27SZJT",
+    "side": "below",
+    "T_invariant_K": 1053.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.435,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->Ag2Ce+AgCe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AG2CE",
+     "AGCE"
+    ]
+   },
+   {
+    "source_observation": "ORC-S55OUO7XK6",
+    "side": "above",
+    "T_invariant_K": 1128.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.008333333333333331,
+    "reaction_printed": "L+Ag51Ce14->Ag2Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "AG51CE14"
+    ],
+    "phases_below": [
+     "AG2CE"
+    ]
+   },
+   {
+    "source_observation": "ORC-S55OUO7XK6",
+    "side": "below",
+    "T_invariant_K": 1128.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.008333333333333331,
+    "reaction_printed": "L+Ag51Ce14->Ag2Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "AG51CE14"
+    ],
+    "phases_below": [
+     "AG2CE"
+    ]
+   },
+   {
+    "source_observation": "ORC-LQOKJGCAOD",
+    "side": "above",
+    "T_invariant_K": 1108.15,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.2,
+    "hyperplane_delta": 0.007692307692307693,
+    "reaction_printed": "L+Ag51Ce14->Ag4Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "AG51CE14"
+    ],
+    "phases_below": [
+     "AG4CE"
+    ]
+   },
+   {
+    "source_observation": "ORC-LQOKJGCAOD",
+    "side": "below",
+    "T_invariant_K": 1108.15,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.2,
+    "hyperplane_delta": 0.007692307692307693,
+    "reaction_printed": "L+Ag51Ce14->Ag4Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "AG51CE14"
+    ],
+    "phases_below": [
+     "AG4CE"
+    ]
+   },
+   {
+    "source_observation": "ORC-F5ZIDDMWV3",
+    "side": "above",
+    "T_invariant_K": 1073.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.1,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->Ag+Ag4Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG4CE"
+    ]
+   },
+   {
+    "source_observation": "ORC-F5ZIDDMWV3",
+    "side": "below",
+    "T_invariant_K": 1073.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.1,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->Ag+Ag4Ce",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG4CE"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0022-5088(75)90093-4",
+   "10.1016/0022-5088(80)90028-4",
+   "10.1016/0022-5088(83)90239-4",
+   "10.1016/s0925-8388(01)01757-1"
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(75)90093-4",
+   "doi:10.1016/s0925-8388(01)01757-1",
+   "doi:10.1016/0022-5088(83)90239-4",
+   "doi:10.1016/0022-5088(80)90028-4"
+  ]
+ }
+}

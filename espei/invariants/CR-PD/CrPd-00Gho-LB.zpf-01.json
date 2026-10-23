@@ -1,7 +1,8 @@
 {
  "components": [
   "CR",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

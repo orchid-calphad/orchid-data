@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "GETM_B33"

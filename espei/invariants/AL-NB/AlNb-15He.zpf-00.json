@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "AL3NB_D022",

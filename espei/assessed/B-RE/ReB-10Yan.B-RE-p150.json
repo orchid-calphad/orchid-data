@@ -1,0 +1,116 @@
+{
+ "components": [
+  "B",
+  "RE",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "RE3B_E1A",
+  "RE7B3_D102"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2830.207073,
+   2069.707073,
+   2792.707073
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.4790618334
+    ]
+   ]
+  ],
+  [
+   [
+    "RE7B3_D102",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RE3B_E1A",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.7256538944
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.8955618388
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 525-526 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 150",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-RE-p150; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to ReB-10Yan.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-RE-p150",
+  "target_tdb": "ReB-10Yan.tdb",
+  "record_ids": [
+   "aspa-a104f94d226c9f7a",
+   "aspa-6a0784e6316e6114",
+   "aspa-ab3729488d5302d9"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/B-RE-p150.json"
+ }
+}

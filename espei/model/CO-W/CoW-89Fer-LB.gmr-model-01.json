@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "W"
  ],
  "phases": [
@@ -12,10 +13,7 @@
   "T": 1350.0,
   "X_W": [
    0.03,
-   0.03,
    0.05,
-   0.05,
-   0.07,
    0.07
   ]
  },
@@ -24,10 +22,7 @@
   [
    [
     -1034.0,
-    -1034.0,
     -1472.0,
-    -1472.0,
-    -1819.0,
     -1819.0
    ]
   ]
@@ -41,7 +36,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4CWRGDCFIY.308057 ORC-4CWRGDCFIY.308057 ORC-QUEZV7PMKL.4fd1bf ORC-QUEZV7PMKL.4fd1bf ORC-MWUVFPVS4B.0c313c ORC-MWUVFPVS4B.0c313c",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4CWRGDCFIY.308057 ORC-QUEZV7PMKL.4fd1bf ORC-MWUVFPVS4B.0c313c",
  "reference_states": {
   "CO": {
    "phase": "FCC_A1"
@@ -87,15 +82,9 @@
     "measured_in": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-4CWRGDCFIY.308057",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "measured_in": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-4CWRGDCFIY.308057"
     ]
    },
    {
@@ -105,15 +94,9 @@
     "measured_in": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-QUEZV7PMKL.4fd1bf",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "measured_in": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-QUEZV7PMKL.4fd1bf"
     ]
    },
    {
@@ -123,15 +106,9 @@
     "measured_in": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-MWUVFPVS4B.0c313c",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "measured_in": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-MWUVFPVS4B.0c313c"
     ]
    }
   ],
@@ -141,7 +118,8 @@
   "dois": [
    "10.1007/bf02651660"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CoW-89Fer-LB/gmr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/CoW-89Fer-LB/gmr-model-01.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -151,21 +129,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

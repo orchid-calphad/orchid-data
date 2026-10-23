@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "COSB3_D02"

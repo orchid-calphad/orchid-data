@@ -1,0 +1,195 @@
+{
+ "components": [
+  "CO",
+  "HF",
+  "VA"
+ ],
+ "phases": [
+  "CO23HF6_D8A",
+  "COHF2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1018.002306,
+   967.5023058,
+   1273.502306,
+   1600.502306,
+   2237.002306,
+   1566.502306
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "COHF2",
+    [
+     "HF"
+    ],
+    [
+     0.7033540952
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COHF2",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.8649549538
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23HF6_D8A",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.1074821984
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.04494316638
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.4747113942
+    ]
+   ]
+  ],
+  [
+   [
+    "COHF2",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HF"
+    ],
+    [
+     0.7879068664
+    ]
+   ]
+  ]
+ ],
+ "reference": "K. Ishida and T. Nishizawa, J. Phase Equilibria, 12(1), 77-83 (1991) doi:10.1007/bf02663679; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 304",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-HF-p304; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CoHf-15Lu.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-HF-p304",
+  "target_tdb": "CoHf-15Lu.tdb",
+  "record_ids": [
+   "aspa-39834936c71be970",
+   "aspa-661b629921b2e26e",
+   "aspa-34dbeb4e257a3bb9",
+   "aspa-18281f97ab1ea652",
+   "aspa-29cf434bcd3a9764",
+   "aspa-0b91a72604ccfed0"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "medium",
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 5,
+  "source": "assessed-phase-assemblages/espei-zpf/CO-HF-p304.json"
+ }
+}

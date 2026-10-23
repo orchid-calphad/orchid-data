@@ -9,32 +9,11 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1073.15,
    953.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.015
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.015
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -62,17 +41,12 @@
   "phase_compositions_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Y6IXZU5OHL ORC-4A7TW2ZJ2S",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4A7TW2ZJ2S",
  "bibtex": "olesinski1985_9ed9e5",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-Y6IXZU5OHL",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02869508"
-   },
    {
     "id": "ORC-4A7TW2ZJ2S",
     "reader_agreement": "multi_reader",
@@ -85,15 +59,12 @@
   "dois": [
    "10.1007/bf02869508"
   ],
-  "source_dataset": "db-v2.1/general/espei/SbSi-85Ole-LB/zpf-03.json"
+  "source_dataset": "db-v2.1/general/espei/SbSi-85Ole-LB/zpf-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

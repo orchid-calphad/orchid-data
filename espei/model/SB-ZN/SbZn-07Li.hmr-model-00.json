@@ -1,6 +1,7 @@
 {
  "components": [
   "SB",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 420.0,
   "X_ZN": [
-   0.5,
    0.5
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    -11455.0,
     -11455.0
    ]
   ]
@@ -32,7 +31,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LAENHZK3Y6.a8b5fd ORC-LAENHZK3Y6.a8b5fd",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LAENHZK3Y6.a8b5fd",
  "reference_states": {
   "SB": {
    "phase": "RHOMBOHEDRAL_A7"
@@ -75,13 +74,10 @@
     "id": "ORC-LAENHZK3Y6.a8b5fd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2006.08.035",
-    "measured_in": "doi:10.1016/j.jallcom.2006.08.035"
-   },
-   {
-    "id": "ORC-LAENHZK3Y6.a8b5fd",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.08.035",
-    "measured_in": "doi:10.1016/j.jallcom.2006.08.035"
+    "measured_in": "doi:10.1016/j.jallcom.2006.08.035",
+    "also_read_as": [
+     "ORC-LAENHZK3Y6.a8b5fd"
+    ]
    }
   ],
   "papers": [
@@ -90,7 +86,8 @@
   "dois": [
    "10.1016/j.jallcom.2006.08.035"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/SbZn-07Li/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/SbZn-07Li/hmr-model-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -100,11 +97,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

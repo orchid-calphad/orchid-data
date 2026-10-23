@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "DY"
+  "DY",
+  "VA"
  ],
  "phases": [
   "CO2DY_C15"

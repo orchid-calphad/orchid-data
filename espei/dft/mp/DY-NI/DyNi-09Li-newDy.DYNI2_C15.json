@@ -1,7 +1,8 @@
 {
  "components": [
   "DY",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "DYNI2_C15"

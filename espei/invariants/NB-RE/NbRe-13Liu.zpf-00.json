@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "RE"
+  "RE",
+  "VA"
  ],
  "phases": [
   "CHI_A12",
@@ -93,22 +94,39 @@
    {
     "id": "ORC-L62WHNUIWH",
     "paper": "doi:10.1016/j.calphad.2013.02.006",
-    "measured_in": "ref:e888029a968eaa92"
+    "measured_in": "ref:e888029a968eaa92",
+    "also_reported_as": [
+     {
+      "id": "ORC-6JF6Y3MMIG",
+      "paper": "doi:10.1016/j.calphad.2020.101797",
+      "dataset": "invariants/NB-RE/NbRe-20Yen.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-7XWYXZW7PP",
     "paper": "doi:10.1016/j.calphad.2013.02.006",
-    "measured_in": "ref:e888029a968eaa92"
+    "measured_in": "ref:e888029a968eaa92",
+    "also_reported_as": [
+     {
+      "id": "ORC-6OOI4WDRRE",
+      "paper": "doi:10.1016/j.calphad.2020.101797",
+      "dataset": "invariants/NB-RE/NbRe-20Yen.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:e888029a968eaa92",
-   "doi:10.1016/j.calphad.2013.02.006"
+   "doi:10.1016/j.calphad.2013.02.006",
+   "doi:10.1016/j.calphad.2020.101797"
   ],
   "dois": [
-   "10.1016/j.calphad.2013.02.006"
+   "10.1016/j.calphad.2013.02.006",
+   "10.1016/j.calphad.2020.101797"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbRe-13Liu/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/NbRe-13Liu/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

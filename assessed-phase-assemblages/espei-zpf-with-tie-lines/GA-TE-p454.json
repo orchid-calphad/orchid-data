@@ -50,7 +50,7 @@
      "TE"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -61,7 +61,7 @@
      "TE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -70,7 +70,16 @@
      "TE"
     ],
     [
-     0.571
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.5351752179
     ]
    ]
   ],
@@ -81,7 +90,7 @@
      "TE"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -90,7 +99,16 @@
      "TE"
     ],
     [
-     0.6
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.58526521
     ]
    ]
   ],
@@ -101,7 +119,7 @@
      "TE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -150,7 +168,7 @@
      "TE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -159,7 +177,16 @@
      "TE"
     ],
     [
-     0.715
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.6573947986
     ]
    ]
   ],
@@ -170,7 +197,7 @@
      "TE"
     ],
     [
-     0.715
+     null
     ]
    ],
    [
@@ -190,7 +217,7 @@
      "TE"
     ],
     [
-     0.715
+     null
     ]
    ],
    [
@@ -241,7 +268,7 @@
      "TE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -344,6 +371,11 @@
  ],
  "reference": "U.R. Kattner, Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1864-1865 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 454",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-TE-p454; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GA-TE-p454",

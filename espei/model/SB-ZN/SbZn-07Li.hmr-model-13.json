@@ -1,6 +1,7 @@
 {
  "components": [
   "SB",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -11,8 +12,6 @@
   "T": 800.0,
   "X_ZN": [
    0.571429,
-   0.571429,
-   0.6,
    0.6
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     -10707.0,
-    -10707.0,
-    -9839.0,
     -9839.0
    ]
   ]
@@ -36,7 +33,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-THQ7S4MRBN.008989 ORC-THQ7S4MRBN.008989 ORC-XD2QFXBABL.a4f923 ORC-XD2QFXBABL.a4f923",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-THQ7S4MRBN.008989 ORC-XD2QFXBABL.a4f923",
  "reference_states": {
   "SB": {
    "phase": "RHOMBOHEDRAL_A7"
@@ -82,28 +79,19 @@
     "measured_in": "doi:10.1016/j.jallcom.2006.08.035",
     "caveats": [
      "dft_outlier_unexplained"
+    ],
+    "also_read_as": [
+     "ORC-THQ7S4MRBN.008989"
     ]
    },
    {
-    "id": "ORC-THQ7S4MRBN.008989",
+    "id": "ORC-XD2QFXBABL.a4f923",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2006.08.035",
     "measured_in": "doi:10.1016/j.jallcom.2006.08.035",
-    "caveats": [
-     "dft_outlier_unexplained"
+    "also_read_as": [
+     "ORC-XD2QFXBABL.a4f923"
     ]
-   },
-   {
-    "id": "ORC-XD2QFXBABL.a4f923",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.08.035",
-    "measured_in": "doi:10.1016/j.jallcom.2006.08.035"
-   },
-   {
-    "id": "ORC-XD2QFXBABL.a4f923",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.08.035",
-    "measured_in": "doi:10.1016/j.jallcom.2006.08.035"
    }
   ],
   "papers": [
@@ -112,7 +100,8 @@
   "dois": [
    "10.1016/j.jallcom.2006.08.035"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/SbZn-07Li/hmr-model-13.json"
+  "source_dataset": "db-v2.1/general/espei-model/SbZn-07Li/hmr-model-13.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -122,16 +111,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

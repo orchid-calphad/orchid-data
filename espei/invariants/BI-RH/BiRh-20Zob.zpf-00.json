@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "RH"
+  "RH",
+  "VA"
  ],
  "phases": [
   "BI2RH_HT",
@@ -78,7 +79,7 @@
      "RH"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -98,7 +99,7 @@
      "RH"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -107,7 +108,7 @@
      "RH"
     ],
     [
-     0.2
+     null
     ]
    ]
   ],
@@ -118,7 +119,7 @@
      "RH"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -127,7 +128,7 @@
      "RH"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -147,7 +148,7 @@
      "RH"
     ],
     [
-     0.0
+     null
     ]
    ],
    [
@@ -156,7 +157,7 @@
      "RH"
     ],
     [
-     0.2
+     null
     ]
    ]
   ]
@@ -192,7 +193,14 @@
    },
    {
     "id": "ORC-DMW6CAPU2U",
-    "paper": "doi:10.1007/s11669-020-00854-w"
+    "paper": "doi:10.1007/s11669-020-00854-w",
+    "also_reported_as": [
+     {
+      "id": "ORC-MXRA3HVRGS",
+      "paper": "doi:10.1007/s11669-020-00854-w",
+      "dataset": "invariants/BI-RH/BiRh-20Zob.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -203,7 +211,8 @@
    "10.1007/s11669-010-9660-5",
    "10.1007/s11669-020-00854-w"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiRh-20Zob/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiRh-20Zob/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -230,5 +239,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 7,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

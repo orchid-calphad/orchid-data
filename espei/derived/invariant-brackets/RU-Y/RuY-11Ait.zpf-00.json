@@ -1,0 +1,881 @@
+{
+ "components": [
+  "RU",
+  "VA",
+  "Y"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "RU25Y44",
+  "RU2Y3",
+  "RU2Y5",
+  "RU2Y_C14",
+  "RUY3_D011"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2123.0,
+   2103.0,
+   2233.0,
+   2213.0,
+   1633.0,
+   1613.0,
+   1578.0,
+   1558.0,
+   1483.0,
+   1463.0,
+   1603.0,
+   1583.0,
+   1533.0,
+   1513.0,
+   1363.0,
+   1343.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.21
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RU2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.21
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3233
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3433
+    ]
+   ]
+  ],
+  [
+   [
+    "RU2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3233
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3433
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.619
+    ]
+   ],
+   [
+    "RU2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.5905
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6095
+    ]
+   ]
+  ],
+  [
+   [
+    "RU2Y3",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.5905
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6095
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.641
+    ]
+   ],
+   [
+    "RU2Y3",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6360215
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6393405
+    ]
+   ]
+  ],
+  [
+   [
+    "RU25Y44",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6360215
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.6393405
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.67
+    ]
+   ]
+  ],
+  [
+   [
+    "RU25Y44",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RU2Y5",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.67
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.7142
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.7042
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.7242
+    ]
+   ]
+  ],
+  [
+   [
+    "RU2Y5",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.7042
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.7242
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.7895
+    ]
+   ],
+   [
+    "RU2Y5",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "RUY3_D011",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.84
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.86
+    ]
+   ]
+  ],
+  [
+   [
+    "RUY3_D011",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.84
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.86
+    ]
+   ]
+  ]
+ ],
+ "reference": "Amar 2011, doi:10.1007/s10973-010-1076-2",
+ "bibtex": "amar2011_dd8854",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/RU-Y/RuY-11Ait.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3LJOFDZGH6 ORC-6AG3ZOTYSE ORC-EHV6NHESQT ORC-FKPAEKMBTW ORC-IQBD5O2U3I ORC-QB7ZNEQH2H ORC-QNDFD2BNYB ORC-VE7RIBTKUQ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/RU-Y/RuY-11Ait.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-3LJOFDZGH6",
+    "side": "above",
+    "T_invariant_K": 2113.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru + Ru2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "RU2Y_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-3LJOFDZGH6",
+    "side": "below",
+    "T_invariant_K": 2113.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru + Ru2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "RU2Y_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-VE7RIBTKUQ",
+    "side": "above",
+    "T_invariant_K": 2223.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU2Y_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-VE7RIBTKUQ",
+    "side": "below",
+    "T_invariant_K": 2223.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU2Y_C14"
+    ]
+   },
+   {
+    "source_observation": "ORC-QB7ZNEQH2H",
+    "side": "above",
+    "T_invariant_K": 1623.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "Liq + Ru2Y -> Ru2Y3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y_C14"
+    ],
+    "phases_below": [
+     "RU2Y3"
+    ]
+   },
+   {
+    "source_observation": "ORC-QB7ZNEQH2H",
+    "side": "below",
+    "T_invariant_K": 1623.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.009500000000000008,
+    "reaction_printed": "Liq + Ru2Y -> Ru2Y3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y_C14"
+    ],
+    "phases_below": [
+     "RU2Y3"
+    ]
+   },
+   {
+    "source_observation": "ORC-QNDFD2BNYB",
+    "side": "above",
+    "T_invariant_K": 1568.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.637681,
+    "hyperplane_delta": 0.0016594999999999804,
+    "reaction_printed": "Liq + Ru2Y3 -> Ru25Y44",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y3"
+    ],
+    "phases_below": [
+     "RU25Y44"
+    ]
+   },
+   {
+    "source_observation": "ORC-QNDFD2BNYB",
+    "side": "below",
+    "T_invariant_K": 1568.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.637681,
+    "hyperplane_delta": 0.0016594999999999804,
+    "reaction_printed": "Liq + Ru2Y3 -> Ru25Y44",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y3"
+    ],
+    "phases_below": [
+     "RU25Y44"
+    ]
+   },
+   {
+    "source_observation": "ORC-FKPAEKMBTW",
+    "side": "above",
+    "T_invariant_K": 1473.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.66,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru25Y44 + Ru2Y5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU25Y44",
+     "RU2Y5"
+    ]
+   },
+   {
+    "source_observation": "ORC-FKPAEKMBTW",
+    "side": "below",
+    "T_invariant_K": 1473.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.66,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru25Y44 + Ru2Y5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU25Y44",
+     "RU2Y5"
+    ]
+   },
+   {
+    "source_observation": "ORC-6AG3ZOTYSE",
+    "side": "above",
+    "T_invariant_K": 1593.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7142,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru2Y5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU2Y5"
+    ]
+   },
+   {
+    "source_observation": "ORC-6AG3ZOTYSE",
+    "side": "below",
+    "T_invariant_K": 1593.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7142,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> Ru2Y5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RU2Y5"
+    ]
+   },
+   {
+    "source_observation": "ORC-EHV6NHESQT",
+    "side": "above",
+    "T_invariant_K": 1523.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq + Ru2Y5 -> RuY3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y5"
+    ],
+    "phases_below": [
+     "RUY3_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-EHV6NHESQT",
+    "side": "below",
+    "T_invariant_K": 1523.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq + Ru2Y5 -> RuY3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU2Y5"
+    ],
+    "phases_below": [
+     "RUY3_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-IQBD5O2U3I",
+    "side": "above",
+    "T_invariant_K": 1353.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.85,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> RuY3 + αY",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RUY3_D011",
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-IQBD5O2U3I",
+    "side": "below",
+    "T_invariant_K": 1353.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.85,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq -> RuY3 + αY",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "RUY3_D011",
+     "HCP_A3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s10973-010-1076-2"
+  ],
+  "papers": [
+   "doi:10.1007/s10973-010-1076-2"
+  ]
+ }
+}

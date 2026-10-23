@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "LIQUID"

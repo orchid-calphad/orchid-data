@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "GA3NB_D022"

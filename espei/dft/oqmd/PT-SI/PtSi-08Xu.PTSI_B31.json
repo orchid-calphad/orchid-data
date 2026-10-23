@@ -1,7 +1,8 @@
 {
  "components": [
   "PT",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "PTSI_B31"

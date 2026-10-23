@@ -1,6 +1,7 @@
 {
  "components": [
   "CU",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -46,7 +47,7 @@
      "ZR"
     ],
     [
-     0.2727272727272727
+     null
     ]
    ],
    [
@@ -55,7 +56,7 @@
      "ZR"
     ],
     [
-     0.4117647058823529
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "ZR"
     ],
     [
-     0.4117647058823529
+     null
     ]
    ],
    [
@@ -113,7 +114,7 @@
      "ZR"
     ],
     [
-     0.4117647058823529
+     null
     ]
    ],
    [
@@ -122,7 +123,16 @@
      "ZR"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4558823529
     ]
    ]
   ],
@@ -142,7 +152,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -162,7 +172,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -171,7 +181,16 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5833333333
     ]
    ]
   ],
@@ -191,7 +210,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -229,7 +248,7 @@
      "ZR"
     ],
     [
-     0.1818
+     null
     ]
    ]
   ],
@@ -249,7 +268,7 @@
      "ZR"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ],
    [
@@ -258,7 +277,16 @@
      "ZR"
     ],
     [
-     0.1818
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.1985923077
     ]
    ]
   ],
@@ -278,7 +306,7 @@
      "ZR"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ],
    [
@@ -307,7 +335,7 @@
      "ZR"
     ],
     [
-     0.2153846153846154
+     null
     ]
    ],
    [
@@ -316,7 +344,7 @@
      "ZR"
     ],
     [
-     0.2727272727272727
+     null
     ]
    ],
    [
@@ -357,7 +385,14 @@
    },
    {
     "id": "ORC-6NSN5PDW4I",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-B5KUXLLJ4K",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-RSGFDH6J2C",
@@ -365,7 +400,14 @@
    },
    {
     "id": "ORC-SOALR52AHT",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-XFAWKPECCI",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-I4WFFILYT2",
@@ -377,7 +419,14 @@
    },
    {
     "id": "ORC-TB6X5GL4ZL",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-3MGNJFIWMV",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-YWAVRM5E6J",
@@ -385,12 +434,17 @@
    }
   ],
   "papers": [
-   "doi:10.1007/s11106-008-9039-x"
+   "doi:10.1007/s11106-008-9039-x",
+   "doi:10.1007/s11669-017-0522-2",
+   "doi:10.1016/j.jallcom.2007.01.173"
   ],
   "dois": [
-   "10.1007/s11106-008-9039-x"
+   "10.1007/s11106-008-9039-x",
+   "10.1007/s11669-017-0522-2",
+   "10.1016/j.jallcom.2007.01.173"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-01.json",
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -441,5 +495,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 15,
+  "hyperplanes_added": 3,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

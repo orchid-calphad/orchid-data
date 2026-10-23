@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "MN"
+  "MN",
+  "VA"
  ],
  "phases": [
   "HOMN12_D2B"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "ALSC2_B82"

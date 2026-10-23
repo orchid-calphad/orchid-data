@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "LU"
+  "LU",
+  "VA"
  ],
  "phases": [
   "AG4LU_D1A"

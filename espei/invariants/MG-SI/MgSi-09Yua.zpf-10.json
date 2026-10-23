@@ -1,10 +1,10 @@
 {
  "components": [
   "MG",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
-  "DIAMOND_A4",
   "HCP_A3",
   "LIQUID",
   "MG2SI_C1"
@@ -12,9 +12,7 @@
  "conditions": {
   "P": 101325,
   "T": [
-   911.75,
-   1218.75,
-   1358.15
+   911.75
   ]
  },
  "output": "ZPF",
@@ -44,56 +42,7 @@
      "SI"
     ],
     [
-     0.333333
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.53
-    ]
-   ],
-   [
-    "MG2SI_C1",
-    [
-     "SI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "MG2SI_C1",
-    [
-     "SI"
-    ],
-    [
-     0.333333
     ]
    ]
   ]
@@ -105,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CDUCTCRC43 ORC-6Z5W5OSF6Q ORC-YMYXOHS74A",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CDUCTCRC43",
  "bibtex": "yuan2009_4ae599",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -113,24 +62,27 @@
   "observations": [
    {
     "id": "ORC-CDUCTCRC43",
-    "paper": "doi:10.1016/j.calphad.2009.08.004"
-   },
-   {
-    "id": "ORC-6Z5W5OSF6Q",
-    "paper": "doi:10.1016/j.calphad.2009.08.004"
-   },
-   {
-    "id": "ORC-YMYXOHS74A",
-    "paper": "doi:10.1016/j.calphad.2009.08.004"
+    "paper": "doi:10.1016/j.calphad.2009.08.004",
+    "also_reported_as": [
+     {
+      "id": "ORC-HD5VKBHZUV",
+      "paper": "doi:10.1016/j.calphad.2012.02.001",
+      "dataset": "invariants/MG-SI/MgSi-12Sch.zpf-06.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/j.calphad.2009.08.004"
+   "doi:10.1016/j.calphad.2009.08.004",
+   "doi:10.1016/j.calphad.2012.02.001"
   ],
   "dois": [
-   "10.1016/j.calphad.2009.08.004"
+   "10.1016/j.calphad.2009.08.004",
+   "10.1016/j.calphad.2012.02.001"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MgSi-09Yua/zpf-10.json"
+  "source_dataset": "db-v2.1/invariants/espei/MgSi-09Yua/zpf-10.json",
+  "e3_merged": 1,
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -138,16 +90,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

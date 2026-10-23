@@ -1,0 +1,211 @@
+{
+ "components": [
+  "AL",
+  "LI",
+  "VA"
+ ],
+ "phases": [
+  "AL2LI3",
+  "AL4LI9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   460.3310515,
+   498.3310515,
+   954.8310515,
+   575.3310515,
+   574.3310515,
+   689.3310515
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "AL2LI3",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4LI9",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6447471179
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4LI9",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.8297504551
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.8307504732
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2LI3",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4LI9",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6457471359
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4LI9",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.8087500763
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2LI3",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.723248534
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.J. McAlister, Bull. Alloy Phase Diagrams, 3(2), 177-183 (1982) doi:10.1007/bf02892377; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 79",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-LI-p79; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlLi-20Lon.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-LI-p79",
+  "target_tdb": "AlLi-20Lon.tdb",
+  "record_ids": [
+   "aspa-da70748a5763ec9a",
+   "aspa-c5b79ed846783abb",
+   "aspa-bec408c3c6a7261b",
+   "aspa-a005e958d6bc5e76",
+   "aspa-11b943f30d49fdfa",
+   "aspa-2f41653ed81febc8"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 3,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-LI-p79.json"
+ }
+}

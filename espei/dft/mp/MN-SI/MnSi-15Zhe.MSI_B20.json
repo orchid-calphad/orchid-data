@@ -1,7 +1,8 @@
 {
  "components": [
   "MN",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "MSI_B20"

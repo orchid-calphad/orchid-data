@@ -1,7 +1,8 @@
 {
  "components": [
   "CD",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "CD11PR_D2E"

@@ -1,0 +1,129 @@
+{
+ "components": [
+  "HF",
+  "MN",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1306.246919,
+   1463.246919,
+   1768.246919,
+   1908.746919
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "MN"
+    ],
+    [
+     0.006725377537
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.0287490799
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     0.04226362453
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.1043304221
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 16(4), 361-363 (1995) doi:10.1007/bf02645298; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 502",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram HF-MN-p502; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to HfMn-24Bro.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "HF-MN-p502",
+  "target_tdb": "HfMn-24Bro.tdb",
+  "record_ids": [
+   "aspa-0ece0be14415d2ba",
+   "aspa-36fab89c0bb15b29",
+   "aspa-a269a913e67a8e79",
+   "aspa-8e803a7d42ce5910"
+  ],
+  "confidence": [
+   "medium",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 4,
+  "source": "assessed-phase-assemblages/espei-zpf/HF-MN-p502.json"
+ }
+}

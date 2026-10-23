@@ -1,6 +1,7 @@
 {
  "components": [
   "SI",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -14,7 +15,6 @@
    0.555556,
    0.5,
    0.214286,
-   0.214286,
    0.375,
    0.364964
   ]
@@ -26,7 +26,6 @@
     -49800.0,
     -51100.0,
     -51000.0,
-    -49100.0,
     -49100.0,
     -45000.0,
     -41100.0
@@ -41,7 +40,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7R5RIVEM5Z.d2992b ORC-KIVT5CBN7U.85e60c ORC-TXHXLMW4C6.e17668 ORC-SQXXJQONU6.8888e0 ORC-SQXXJQONU6.42c00b ORC-Y3467HFFVN.b8cb6e ORC-RF4ARV2TWA.98739d",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7R5RIVEM5Z.d2992b ORC-KIVT5CBN7U.85e60c ORC-TXHXLMW4C6.e17668 ORC-SQXXJQONU6.8888e0 ORC-Y3467HFFVN.b8cb6e ORC-RF4ARV2TWA.98739d",
  "reference_states": {
   "SI": {
    "phase": "DIAMOND_A4",
@@ -108,13 +107,10 @@
     "id": "ORC-SQXXJQONU6.8888e0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2005.06.004",
-    "measured_in": "doi:10.1016/j.calphad.2005.06.004"
-   },
-   {
-    "id": "ORC-SQXXJQONU6.42c00b",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2005.06.004",
-    "measured_in": "doi:10.1016/j.calphad.2005.06.004"
+    "measured_in": "doi:10.1016/j.calphad.2005.06.004",
+    "also_read_as": [
+     "ORC-SQXXJQONU6.42c00b"
+    ]
    },
    {
     "id": "ORC-Y3467HFFVN.b8cb6e",
@@ -135,7 +131,8 @@
   "dois": [
    "10.1016/j.calphad.2005.06.004"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/SiYb-05Bru/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/SiYb-05Bru/hmr-model-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -145,11 +142,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "LASI2_CC"

@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",
@@ -59,7 +60,7 @@
      "GE"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -79,7 +80,7 @@
      "GE"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -99,7 +100,7 @@
      "GE"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -108,7 +109,7 @@
      "GE"
     ],
     [
-     0.444444
+     null
     ]
    ],
    [
@@ -137,7 +138,7 @@
      "GE"
     ],
     [
-     0.444444
+     null
     ]
    ],
    [
@@ -146,7 +147,7 @@
      "GE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -175,7 +176,7 @@
      "GE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -184,7 +185,7 @@
      "GE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -204,7 +205,7 @@
      "GE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -213,7 +214,7 @@
      "GE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -222,7 +223,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -242,7 +243,7 @@
      "GE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -251,7 +252,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -280,7 +281,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -298,7 +299,7 @@
      "GE"
     ],
     [
-     0.719888
+     null
     ]
    ],
    [
@@ -327,7 +328,7 @@
      "GE"
     ],
     [
-     0.719888
+     null
     ]
    ],
    [
@@ -347,7 +348,7 @@
      "GE"
     ],
     [
-     0.719888
+     null
     ]
    ],
    [
@@ -356,7 +357,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -385,7 +386,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -394,7 +395,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ]
   ],
@@ -405,7 +406,7 @@
      "GE"
     ],
     [
-     0.59
+     null
     ]
    ],
    [
@@ -423,7 +424,7 @@
      "GE"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -507,13 +508,7 @@
    "10.1007/bf00792035",
    "10.1016/j.jallcom.2007.07.105"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GdGe-08Che/zpf-00.json",
-  "espei_evaluation": {
-   "tdb": "GdGe-08Che",
-   "vertices": 11,
-   "median_abs_driving_force_J": 0.89,
-   "max_abs_driving_force_J": 1876.66
-  }
+  "source_dataset": "db-v2.1/invariants/espei/GdGe-08Che/zpf-00.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -568,5 +563,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 22,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

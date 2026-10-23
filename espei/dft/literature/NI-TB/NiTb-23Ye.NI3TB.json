@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "TB"
+  "TB",
+  "VA"
  ],
  "phases": [
   "NI3TB"

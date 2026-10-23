@@ -1,7 +1,8 @@
 {
  "components": [
   "LI",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "LI2TE_C1"

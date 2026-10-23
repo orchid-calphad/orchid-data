@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "GA2PR_C32"

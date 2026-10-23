@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -61,17 +62,27 @@
    {
     "id": "ORC-S77FTLVIUZ",
     "paper": "doi:10.1016/j.calphad.2013.03.001",
-    "measured_in": "ref:1db5138b1297fc31"
+    "measured_in": "ref:1db5138b1297fc31",
+    "also_reported_as": [
+     {
+      "id": "ORC-XFNBTLXZG6",
+      "paper": "doi:10.1016/j.calphad.2013.03.001",
+      "measured_in": "ref:e6d8e1e1a16c6dfd",
+      "dataset": "invariants/B-PR/PrB-13Wan.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:1db5138b1297fc31",
-   "doi:10.1016/j.calphad.2013.03.001"
+   "doi:10.1016/j.calphad.2013.03.001",
+   "ref:e6d8e1e1a16c6dfd"
   ],
   "dois": [
    "10.1016/j.calphad.2013.03.001"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PrB-13Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/PrB-13Wan/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "ALER"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "CA"
+  "CA",
+  "VA"
  ],
  "phases": [
   "AG7CA2"

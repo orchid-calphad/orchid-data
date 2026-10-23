@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -126,7 +127,7 @@
      "TI"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ],
@@ -242,7 +243,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -253,7 +254,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -271,7 +272,16 @@
      "TI"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3666666667
     ]
    ]
   ],
@@ -300,7 +310,7 @@
      "TI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ]
@@ -324,7 +334,14 @@
    },
    {
     "id": "ORC-655PDHMN3G",
-    "paper": "doi:10.1007/s11106-008-9026-2"
+    "paper": "doi:10.1007/s11106-008-9026-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-X4YDIUBEM3",
+      "paper": "doi:10.1007/s11106-008-9026-2",
+      "dataset": "invariants/CU-TI/CuTi-08Tur.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-46MGT7SF2R",
@@ -340,7 +357,14 @@
    },
    {
     "id": "ORC-3MYJMUGQP3",
-    "paper": "doi:10.1007/s11106-008-9026-2"
+    "paper": "doi:10.1007/s11106-008-9026-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-5S5Q6XVZSE",
+      "paper": "doi:10.1007/s11106-008-9026-2",
+      "dataset": "invariants/CU-TI/CuTi-08Tur.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-R5ZA3OAZ3X",
@@ -361,13 +385,16 @@
   ],
   "papers": [
    "doi:10.1007/s11106-008-9026-2",
-   "doi:10.1002/pssa.2210520121"
+   "doi:10.1002/pssa.2210520121",
+   "doi:10.1007/bf00796511"
   ],
   "dois": [
    "10.1002/pssa.2210520121",
+   "10.1007/bf00796511",
    "10.1007/s11106-008-9026-2"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -432,5 +459,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 1,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

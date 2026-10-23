@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "HO"
+  "HO",
+  "VA"
  ],
  "phases": [
   "COHO3_D011"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "CE"
+  "CE",
+  "VA"
  ],
  "phases": [
   "AUCE_B27"

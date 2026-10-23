@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "GA4SR_D13"

@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "BAO",
@@ -13,11 +14,7 @@
   "X_O": [
    0.5,
    0.5,
-   0.5,
-   0.5,
    0.666667,
-   0.666667,
-   0.5,
    0.5
   ]
  },
@@ -26,12 +23,8 @@
   [
    [
     -276680.0,
-    -276680.0,
-    -250138.0,
     -250138.0,
     -211900.0,
-    -211900.0,
-    -60450.0,
     -60450.0
    ]
   ]
@@ -45,7 +38,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6UBIDCFIOR.411216 ORC-6UBIDCFIOR.411216 ORC-ZTEM7HIHVT.1cef31 ORC-ZTEM7HIHVT.1cef31 ORC-FZDHSR2W56.243809 ORC-FZDHSR2W56.243809 ORC-TSAWQE6B7D.67270d ORC-TSAWQE6B7D.67270d",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6UBIDCFIOR.411216 ORC-ZTEM7HIHVT.1cef31 ORC-FZDHSR2W56.243809 ORC-TSAWQE6B7D.67270d",
  "reference_states": {
   "BA": {
    "phase": "BCC_A2",
@@ -97,15 +90,9 @@
     "measured_in": "doi:10.1016/0364-5916(95)00012-4",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-6UBIDCFIOR.411216",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(95)00012-4",
-    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-6UBIDCFIOR.411216"
     ]
    },
    {
@@ -115,15 +102,9 @@
     "measured_in": "doi:10.1016/0364-5916(95)00012-4",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-ZTEM7HIHVT.1cef31",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(95)00012-4",
-    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-ZTEM7HIHVT.1cef31"
     ]
    },
    {
@@ -133,15 +114,9 @@
     "measured_in": "doi:10.1016/0364-5916(95)00012-4",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-FZDHSR2W56.243809",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(95)00012-4",
-    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-FZDHSR2W56.243809"
     ]
    },
    {
@@ -151,15 +126,9 @@
     "measured_in": "doi:10.1016/0364-5916(95)00012-4",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-TSAWQE6B7D.67270d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(95)00012-4",
-    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-TSAWQE6B7D.67270d"
     ]
    }
   ],
@@ -169,7 +138,8 @@
   "dois": [
    "10.1016/0364-5916(95)00012-4"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/BaO-95Zim/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/BaO-95Zim/hmr-model-00.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -179,26 +149,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

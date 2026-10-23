@@ -328,6 +328,10 @@
  ],
  "reference": "M.E. Drits, V.F. Potemkin, and L.L. Zusman, Inorg. Mater., 18(7), 969-971 (1982); J. Sangster and A.D. Pelton, J. Phase Equilibria, 18(3), 287-288 (1997) doi:10.1007/bf02647855; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 474",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GE-K-p474; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GE-K-p474",

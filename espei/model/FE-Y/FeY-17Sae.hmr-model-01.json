@@ -1,6 +1,7 @@
 {
  "components": [
   "FE",
+  "VA",
   "Y"
  ],
  "phases": [
@@ -10,7 +11,6 @@
   "P": 101325,
   "T": 895.0,
   "X_Y": [
-   0.105263,
    0.105263
   ]
  },
@@ -18,7 +18,6 @@
  "values": [
   [
    [
-    -6660.0,
     -6660.0
    ]
   ]
@@ -31,7 +30,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZU2CLADFIL.c5029b ORC-ZU2CLADFIL.53298d",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZU2CLADFIL.c5029b",
  "reference_states": {
   "FE": {
    "phase": "BCC_A2",
@@ -80,13 +79,10 @@
     "id": "ORC-ZU2CLADFIL.c5029b",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1007/s11669-017-0574-3"
-   },
-   {
-    "id": "ORC-ZU2CLADFIL.53298d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1007/s11669-017-0574-3"
+    "measured_in": "doi:10.1007/s11669-017-0574-3",
+    "also_read_as": [
+     "ORC-ZU2CLADFIL.53298d"
+    ]
    }
   ],
   "papers": [
@@ -95,7 +91,8 @@
   "dois": [
    "10.1007/s11669-017-0574-3"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeY-17Sae/hmr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeY-17Sae/hmr-model-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -105,11 +102,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

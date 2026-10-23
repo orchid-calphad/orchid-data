@@ -1,6 +1,7 @@
 {
  "components": [
   "MO",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -130,16 +131,26 @@
    },
    {
     "id": "ORC-GKIZPXMBXH",
-    "paper": "doi:10.1361/1054971023604242"
+    "paper": "doi:10.1361/1054971023604242",
+    "also_reported_as": [
+     {
+      "id": "ORC-NIPBU3MRAE",
+      "paper": "doi:10.1016/j.calphad.2003.09.003",
+      "dataset": "invariants/MO-ZR/MoZr-03Jer-LB.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1361/1054971023604242"
+   "doi:10.1361/1054971023604242",
+   "doi:10.1016/j.calphad.2003.09.003"
   ],
   "dois": [
+   "10.1016/j.calphad.2003.09.003",
    "10.1361/1054971023604242"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MoZr-02Zin/zpf-04.json"
+  "source_dataset": "db-v2.1/invariants/espei/MoZr-02Zin/zpf-04.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

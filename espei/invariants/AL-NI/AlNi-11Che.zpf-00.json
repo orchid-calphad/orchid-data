@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "B2_BCC",
@@ -52,18 +53,37 @@
    {
     "id": "ORC-IYORXBTGGM",
     "paper": "doi:10.1016/j.tca.2010.10.005",
-    "measured_in": "doi:10.1007/bf02669138"
+    "measured_in": "doi:10.1007/bf02669138",
+    "also_reported_as": [
+     {
+      "id": "ORC-WYVDLI3BMP",
+      "paper": "doi:10.1016/j.intermet.2022.107647",
+      "measured_in": "doi:10.1007/bf02669138",
+      "dataset": "invariants/AL-NI/AlNi-22Yan.zpf-00.json"
+     },
+     {
+      "id": "ORC-TNZWKVNPWN",
+      "paper": "doi:10.1016/s0966-9795(97)00099-x",
+      "measured_in": "doi:10.1007/bf02669138",
+      "dataset": "invariants/AL-NI/AlNi-98Hua.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1007/bf02669138",
-   "doi:10.1016/j.tca.2010.10.005"
+   "doi:10.1016/j.tca.2010.10.005",
+   "doi:10.1016/j.intermet.2022.107647",
+   "doi:10.1016/s0966-9795(97)00099-x"
   ],
   "dois": [
    "10.1007/bf02669138",
-   "10.1016/j.tca.2010.10.005"
+   "10.1016/j.intermet.2022.107647",
+   "10.1016/j.tca.2010.10.005",
+   "10.1016/s0966-9795(97)00099-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlNi-11Che/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlNi-11Che/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

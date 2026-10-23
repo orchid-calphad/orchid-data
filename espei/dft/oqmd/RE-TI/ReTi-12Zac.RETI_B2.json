@@ -1,7 +1,8 @@
 {
  "components": [
   "RE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "RETI_B2"

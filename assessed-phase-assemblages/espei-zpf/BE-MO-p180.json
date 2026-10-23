@@ -335,6 +335,10 @@
  ],
  "reference": "H. Okamoto and L.E. Tanner, Phase Diagrams of Binary Beryllium Alloys, H. Okamoto and L.E. Tanner, ed., ASM International, Metals Park, OH, 119-123 (1987); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 180",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BE-MO-p180; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "BE-MO-p180",

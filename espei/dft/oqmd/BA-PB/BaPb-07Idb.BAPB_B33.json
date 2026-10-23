@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "BAPB_B33"

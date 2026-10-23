@@ -1,6 +1,7 @@
 {
  "components": [
   "CU",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -11,8 +12,6 @@
   "T": 1623.0,
   "X_ZR": [
    0.27,
-   0.27,
-   0.749,
    0.749
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     0.0643,
-    0.0643,
-    0.601,
     0.601
    ]
   ]
@@ -34,10 +31,10 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZROKVQJL2B.b60b47 ORC-ZROKVQJL2B.7ed026 ORC-TY3NGMQR4C.3c0536 ORC-TY3NGMQR4C.404811",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZROKVQJL2B.b60b47 ORC-TY3NGMQR4C.3c0536",
  "reference_state": {
   "phases": [
-   "HCP_A3"
+   "LIQUID"
   ],
   "conditions": {
    "P": 101325,
@@ -54,25 +51,19 @@
     "id": "ORC-ZROKVQJL2B.b60b47",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1039/b305089k"
-   },
-   {
-    "id": "ORC-ZROKVQJL2B.7ed026",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1039/b305089k"
+    "measured_in": "doi:10.1039/b305089k",
+    "also_read_as": [
+     "ORC-ZROKVQJL2B.7ed026"
+    ]
    },
    {
     "id": "ORC-TY3NGMQR4C.3c0536",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1039/b305089k"
-   },
-   {
-    "id": "ORC-TY3NGMQR4C.404811",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1039/b305089k"
+    "measured_in": "doi:10.1039/b305089k",
+    "also_read_as": [
+     "ORC-TY3NGMQR4C.404811"
+    ]
    }
   ],
   "papers": [
@@ -83,7 +74,8 @@
    "10.1016/j.calphad.2006.06.002",
    "10.1039/b305089k"
   ],
-  "source_dataset": "db-v2.1/general/espei/CuZr-06Wan/acr_zr-11.json"
+  "source_dataset": "db-v2.1/general/espei/CuZr-06Wan/acr_zr-11.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "1 (activity)",
@@ -106,21 +98,26 @@
     "sigma_assumed": 500.0,
     "sigma_basis": "espei_default_experimental (assumed, not printed)",
     "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
    }
   ]
+ },
+ "orchid_reference_state": {
+  "element": "ZR",
+  "phase": "LIQUID",
+  "basis": "printed",
+  "quote": "Comparison of the measured [12] and present calculated activities of the components in the Cu-Zr melt (reference states: liquid pure components)",
+  "where": "table 3 caption, p. 7",
+  "record_reference_state_agrees": false,
+  "written_before_audit": [
+   "HCP_A3"
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.0,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

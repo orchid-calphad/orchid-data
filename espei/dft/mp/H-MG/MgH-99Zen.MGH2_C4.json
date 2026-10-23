@@ -1,7 +1,8 @@
 {
  "components": [
   "H",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "MGH2_C4"

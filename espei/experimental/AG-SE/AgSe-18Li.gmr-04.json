@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -12,9 +13,6 @@
   "X_SE": [
    0.333333,
    0.333333,
-   0.333333,
-   0.333333,
-   0.333333,
    0.333333
   ]
  },
@@ -23,10 +21,7 @@
   [
    [
     -16396.666666666668,
-    -16396.666666666668,
     -16530.0,
-    -16530.0,
-    -15860.0,
     -15860.0
    ]
   ]
@@ -39,7 +34,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IYYBFJIDJR.9a13f7 ORC-IYYBFJIDJR.b0c51f ORC-IAHORPYKKP.4a3737 ORC-IAHORPYKKP.dffef8 ORC-FCNMFTUR4E.d90e23 ORC-FCNMFTUR4E.92fd58",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IYYBFJIDJR.9a13f7 ORC-IAHORPYKKP.4a3737 ORC-FCNMFTUR4E.d90e23",
  "reference_states": {
   "AG": {
    "phase": "FCC_A1",
@@ -66,15 +61,9 @@
     "measured_in": "doi:10.1134/s1023193511040203",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-IYYBFJIDJR.b0c51f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-018-0683-7",
-    "measured_in": "doi:10.1134/s1023193511040203",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-IYYBFJIDJR.b0c51f"
     ]
    },
    {
@@ -84,15 +73,9 @@
     "measured_in": "doi:10.1134/s1023193511040203",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-IAHORPYKKP.dffef8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-018-0683-7",
-    "measured_in": "doi:10.1134/s1023193511040203",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-IAHORPYKKP.dffef8"
     ]
    },
    {
@@ -102,15 +85,9 @@
     "measured_in": "doi:10.1134/s1023193511040203",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-FCNMFTUR4E.92fd58",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-018-0683-7",
-    "measured_in": "doi:10.1134/s1023193511040203",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-FCNMFTUR4E.92fd58"
     ]
    }
   ],
@@ -122,7 +99,8 @@
    "10.1007/s11669-018-0683-7",
    "10.1134/s1023193511040203"
   ],
-  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/gmr-04.json"
+  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/gmr-04.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -132,27 +110,6 @@
   },
   "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_printed": null,

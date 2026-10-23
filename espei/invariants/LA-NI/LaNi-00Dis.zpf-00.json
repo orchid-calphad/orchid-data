@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "FCC_A1",
@@ -54,7 +55,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -83,7 +84,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ]
   ],
@@ -103,7 +104,7 @@
      "NI"
     ],
     [
-     0.8095238095238095
+     null
     ]
    ],
    [
@@ -112,7 +113,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -132,7 +133,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -141,7 +142,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ]
   ],
@@ -161,7 +162,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -170,7 +171,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -199,7 +200,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -208,7 +209,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -237,7 +238,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -246,7 +247,7 @@
      "NI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -275,7 +276,7 @@
      "NI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -284,7 +285,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -313,7 +314,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -333,7 +334,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -342,7 +343,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -371,7 +372,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ]
   ],
@@ -391,7 +392,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -400,7 +401,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -429,7 +430,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -449,7 +450,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -480,12 +481,34 @@
    {
     "id": "ORC-EZCX4T2ZV3",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-ITNPPNW3Q3",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     },
+     {
+      "id": "ORC-XPUAVX74LM",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#53",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-GJILY3R566",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-3PGEBRVLRK",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#53",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-U5GKLYZR2L",
@@ -505,17 +528,53 @@
    {
     "id": "ORC-LNAJHFEH5L",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-PEPI4ZQVMR",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     },
+     {
+      "id": "ORC-AOMU5SBO3V",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#52",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-04.json"
+     }
+    ]
    },
    {
     "id": "ORC-4VO2PJ3HPR",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-WFNYQIBYKZ",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     },
+     {
+      "id": "ORC-PAGXHTRHGT",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#52",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-04.json"
+     }
+    ]
    },
    {
     "id": "ORC-TOKYB4UEJK",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-KVZYLV5EHE",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-ABHDSR44M7",
@@ -528,6 +587,14 @@
     "measured_in": "doi:10.1007/bf02645085",
     "caveats": [
      "plausibility_fail"
+    ],
+    "also_reported_as": [
+     {
+      "id": "ORC-KGM7DRQ2WF",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     }
     ]
    },
    {
@@ -551,18 +618,34 @@
    {
     "id": "ORC-NQBMDHAAK3",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1007/bf02645085"
+    "measured_in": "doi:10.1007/bf02645085",
+    "also_reported_as": [
+     {
+      "id": "ORC-53B6GI5EKS",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "ref:6431d052667c2b46",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1007/bf02645085",
-   "doi:10.1016/s0925-8388(00)01151-8"
+   "doi:10.1016/s0925-8388(00)01151-8",
+   "ref:6431d052667c2b46",
+   "doi:10.1016/j.calphad.2012.12.002",
+   "unresolved:source:doi:10-1007-s10853-022-08039-1#53",
+   "doi:10.1007/s10853-022-08039-1",
+   "unresolved:source:doi:10-1007-s10853-022-08039-1#52"
   ],
   "dois": [
    "10.1007/bf02645085",
+   "10.1007/s10853-022-08039-1",
+   "10.1016/j.calphad.2012.12.002",
    "10.1016/s0925-8388(00)01151-8"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/LaNi-00Dis/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/LaNi-00Dis/zpf-00.json",
+  "e3_merged": 10
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -625,5 +708,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 22,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

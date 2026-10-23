@@ -1,7 +1,8 @@
 {
  "components": [
   "AS",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "PTAS2_C2"

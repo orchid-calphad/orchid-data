@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "CEGA2_C32",

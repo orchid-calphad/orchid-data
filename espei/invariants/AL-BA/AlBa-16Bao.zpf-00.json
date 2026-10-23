@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "BA"
+  "BA",
+  "VA"
  ],
  "phases": [
   "AL13BA7",
@@ -45,7 +46,7 @@
      "BA"
     ],
     [
-     0.2
+     null
     ]
    ]
   ],
@@ -65,7 +66,7 @@
      "BA"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -74,7 +75,7 @@
      "BA"
     ],
     [
-     0.35
+     null
     ]
    ]
   ],
@@ -94,7 +95,7 @@
      "BA"
     ],
     [
-     0.35
+     null
     ]
    ],
    [
@@ -103,7 +104,7 @@
      "BA"
     ],
     [
-     0.4444444444444444
+     null
     ]
    ]
   ]
@@ -124,7 +125,15 @@
    {
     "id": "ORC-N35CG5UNKD",
     "paper": "doi:10.1007/s11669-016-0466-y",
-    "measured_in": "doi:10.1007/bf02679015"
+    "measured_in": "doi:10.1007/bf02679015",
+    "also_reported_as": [
+     {
+      "id": "ORC-O77OOPGXEG",
+      "paper": "doi:10.1007/s11669-016-0466-y",
+      "measured_in": "doi:10.1016/0022-5088(75)90212-x",
+      "dataset": "invariants/AL-BA/AlBa-16Bao.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-ULGQROBETV",
@@ -139,13 +148,16 @@
   ],
   "papers": [
    "doi:10.1007/bf02679015",
-   "doi:10.1007/s11669-016-0466-y"
+   "doi:10.1007/s11669-016-0466-y",
+   "doi:10.1016/0022-5088(75)90212-x"
   ],
   "dois": [
    "10.1007/bf02679015",
-   "10.1007/s11669-016-0466-y"
+   "10.1007/s11669-016-0466-y",
+   "10.1016/0022-5088(75)90212-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlBa-16Bao/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlBa-16Bao/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -164,5 +176,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

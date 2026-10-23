@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -61,16 +62,26 @@
   "observations": [
    {
     "id": "ORC-6WHPPZVLIQ",
-    "paper": "doi:10.1016/j.intermet.2004.08.003"
+    "paper": "doi:10.1016/j.intermet.2004.08.003",
+    "also_reported_as": [
+     {
+      "id": "ORC-VZGOVUAXK3",
+      "paper": "doi:10.1016/j.calphad.2010.02.004",
+      "dataset": "invariants/CO-GA/CoGa-10Cha.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/j.intermet.2004.08.003"
+   "doi:10.1016/j.intermet.2004.08.003",
+   "doi:10.1016/j.calphad.2010.02.004"
   ],
   "dois": [
+   "10.1016/j.calphad.2010.02.004",
    "10.1016/j.intermet.2004.08.003"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoGa-05Su/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoGa-05Su/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

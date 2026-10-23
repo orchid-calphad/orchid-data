@@ -1,11 +1,11 @@
 {
  "components": [
   "FE",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
-  "BCT_A5",
   "FE3SN2",
   "FE5SN3_B82",
   "FESN2_C16",
@@ -20,8 +20,7 @@
    1038.15,
    1043.15,
    880.15,
-   786.15,
-   505.15
+   786.15
   ]
  },
  "output": "ZPF",
@@ -51,7 +50,7 @@
      "SN"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -62,7 +61,7 @@
      "SN"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -80,7 +79,7 @@
      "SN"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -100,7 +99,7 @@
      "SN"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -118,7 +117,7 @@
      "SN"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -138,7 +137,7 @@
      "SN"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -156,7 +155,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -176,7 +175,7 @@
      "SN"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -194,7 +193,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -214,7 +213,7 @@
      "SN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -232,7 +231,7 @@
      "SN"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -244,35 +243,6 @@
      0.5833333334999999
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FESN2_C16",
-    [
-     "SN"
-    ],
-    [
-     0.6666666666666666
-    ]
-   ],
-   [
-    "BCT_A5",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "1977, Fedorenko AN, Brovkin VG. Vapor pressure of tin and thermodynamic properties of the tin–iron system. Sb Nauchn Tr Gos Proektn Nauchno-Issled Inst Gipronikel 1977;3:83.",
@@ -282,7 +252,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OOZ6Q2DFCZ ORC-PMP6D3YGAY ORC-7CW5XVRYSI ORC-4CDIOO4FKX ORC-4NUHZVSBKN ORC-ALCYRH2ZFP ORC-XVQ6DBCVTC",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OOZ6Q2DFCZ ORC-PMP6D3YGAY ORC-7CW5XVRYSI ORC-4CDIOO4FKX ORC-4NUHZVSBKN ORC-ALCYRH2ZFP",
  "bibtex": "fedorenko1977_d35fb7",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -291,12 +261,28 @@
    {
     "id": "ORC-OOZ6Q2DFCZ",
     "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
+    "measured_in": "ref:43ca667b3b5031fe",
+    "also_reported_as": [
+     {
+      "id": "ORC-4GTLOLVA76",
+      "paper": "doi:10.1016/j.intermet.2010.01.026",
+      "measured_in": "ref:d851e8b226a2bc00",
+      "dataset": "invariants/FE-SN/FeSn-10Hua.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-PMP6D3YGAY",
     "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
+    "measured_in": "ref:43ca667b3b5031fe",
+    "also_reported_as": [
+     {
+      "id": "ORC-LMRCRHGGOB",
+      "paper": "doi:10.1016/j.intermet.2010.01.026",
+      "measured_in": "ref:d851e8b226a2bc00",
+      "dataset": "invariants/FE-SN/FeSn-10Hua.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-7CW5XVRYSI",
@@ -306,32 +292,54 @@
    {
     "id": "ORC-4CDIOO4FKX",
     "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
+    "measured_in": "ref:43ca667b3b5031fe",
+    "also_reported_as": [
+     {
+      "id": "ORC-XTHJQ5TZN6",
+      "paper": "doi:10.1016/j.intermet.2010.01.026",
+      "measured_in": "ref:d851e8b226a2bc00",
+      "dataset": "invariants/FE-SN/FeSn-10Hua.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-4NUHZVSBKN",
     "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
+    "measured_in": "ref:43ca667b3b5031fe",
+    "also_reported_as": [
+     {
+      "id": "ORC-VWBQDEGXSV",
+      "paper": "doi:10.1016/j.intermet.2010.01.026",
+      "measured_in": "ref:d851e8b226a2bc00",
+      "dataset": "invariants/FE-SN/FeSn-10Hua.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-ALCYRH2ZFP",
     "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
-   },
-   {
-    "id": "ORC-XVQ6DBCVTC",
-    "paper": "doi:10.1016/j.intermet.2010.01.026",
-    "measured_in": "ref:43ca667b3b5031fe"
+    "measured_in": "ref:43ca667b3b5031fe",
+    "also_reported_as": [
+     {
+      "id": "ORC-IO63HJ52E5",
+      "paper": "doi:10.1016/j.intermet.2010.01.026",
+      "measured_in": "ref:d851e8b226a2bc00",
+      "dataset": "invariants/FE-SN/FeSn-10Hua.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:43ca667b3b5031fe",
-   "doi:10.1016/j.intermet.2010.01.026"
+   "doi:10.1016/j.intermet.2010.01.026",
+   "ref:d851e8b226a2bc00"
   ],
   "dois": [
    "10.1016/j.intermet.2010.01.026"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-01.json",
+  "e3_merged": 5,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -359,12 +367,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 11,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

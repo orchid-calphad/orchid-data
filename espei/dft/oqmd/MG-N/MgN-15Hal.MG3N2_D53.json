@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "N"
+  "N",
+  "VA"
  ],
  "phases": [
   "MG3N2_D53"

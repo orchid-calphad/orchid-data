@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "CE3PT2",
@@ -51,7 +52,7 @@
      "PT"
     ],
     [
-     0.00795
+     null
     ]
    ]
   ],
@@ -91,7 +92,7 @@
      "PT"
     ],
     [
-     0.00833
+     null
     ]
    ],
    [
@@ -100,7 +101,16 @@
      "PT"
     ],
     [
-     0.0082
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.008265
     ]
    ]
   ],
@@ -129,7 +139,7 @@
      "PT"
     ],
     [
-     0.0082
+     null
     ]
    ]
   ],
@@ -149,7 +159,7 @@
      "PT"
     ],
     [
-     0.00833
+     null
     ]
    ],
    [
@@ -178,7 +188,7 @@
      "PT"
     ],
     [
-     0.005
+     null
     ]
    ]
   ],
@@ -198,7 +208,7 @@
      "PT"
     ],
     [
-     0.005
+     null
     ]
    ],
    [
@@ -207,7 +217,16 @@
      "PT"
     ],
     [
-     0.005714
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.005357
     ]
    ]
   ],
@@ -227,7 +246,7 @@
      "PT"
     ],
     [
-     0.005714
+     null
     ]
    ],
    [
@@ -256,7 +275,7 @@
      "PT"
     ],
     [
-     0.005
+     null
     ]
    ],
    [
@@ -265,7 +284,7 @@
      "PT"
     ],
     [
-     0.00444
+     null
     ]
    ]
   ],
@@ -285,7 +304,7 @@
      "PT"
     ],
     [
-     0.00444
+     null
     ]
    ],
    [
@@ -294,7 +313,7 @@
      "PT"
     ],
     [
-     0.004
+     null
     ]
    ]
   ],
@@ -314,7 +333,7 @@
      "PT"
     ],
     [
-     0.004
+     null
     ]
    ],
    [
@@ -352,7 +371,7 @@
      "PT"
     ],
     [
-     0.003
+     null
     ]
    ]
   ],
@@ -381,7 +400,7 @@
      "PT"
     ],
     [
-     0.003
+     null
     ]
    ]
   ]
@@ -535,5 +554,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 16,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

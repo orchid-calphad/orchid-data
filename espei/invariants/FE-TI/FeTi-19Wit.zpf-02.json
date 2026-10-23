@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "A2_BCC",

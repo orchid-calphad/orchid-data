@@ -1,0 +1,261 @@
+{
+ "components": [
+  "CA",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "CA14SI19",
+  "CA2SI_C37",
+  "CA5SI3_D8L",
+  "CASI2_C12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1542.15,
+   1522.15,
+   1316.15,
+   1296.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CA2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.385
+    ]
+   ]
+  ],
+  [
+   [
+    "CA5SI3_D8L",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CA14SI19",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "CASI2_C12",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Schürmann 1975, doi:10.1002/srin.197503664",
+ "bibtex": "schurmann1975_978170",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CA-SI/CaSi-03Gro.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-F2FQUCD4PE ORC-U64PQ4RU2Q",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CA-SI/CaSi-03Gro.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-U64PQ4RU2Q",
+    "side": "above",
+    "T_invariant_K": 1532.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.375,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ca2Si = Ca5Si3",
+    "reaction_type": "other",
+    "phases_above": [
+     "LIQUID",
+     "CA2SI_C37"
+    ],
+    "phases_below": [
+     "CA5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-U64PQ4RU2Q",
+    "side": "below",
+    "T_invariant_K": 1532.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.375,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ca2Si = Ca5Si3",
+    "reaction_type": "other",
+    "phases_above": [
+     "LIQUID",
+     "CA2SI_C37"
+    ],
+    "phases_below": [
+     "CA5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-F2FQUCD4PE",
+    "side": "above",
+    "T_invariant_K": 1306.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ca14Si19 = CaSi2",
+    "reaction_type": "other",
+    "phases_above": [
+     "LIQUID",
+     "CA14SI19"
+    ],
+    "phases_below": [
+     "CASI2_C12"
+    ]
+   },
+   {
+    "source_observation": "ORC-F2FQUCD4PE",
+    "side": "below",
+    "T_invariant_K": 1306.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ca14Si19 = CaSi2",
+    "reaction_type": "other",
+    "phases_above": [
+     "LIQUID",
+     "CA14SI19"
+    ],
+    "phases_below": [
+     "CASI2_C12"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1002/srin.197503664",
+   "10.1016/j.intermet.2003.07.001"
+  ],
+  "papers": [
+   "doi:10.1002/srin.197503664",
+   "doi:10.1016/j.intermet.2003.07.001"
+  ]
+ }
+}

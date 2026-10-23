@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",
@@ -62,7 +63,7 @@
      "SI"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -71,7 +72,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -91,7 +92,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -100,7 +101,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -129,7 +130,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -149,7 +150,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -169,7 +170,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -178,7 +179,7 @@
      "SI"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ],
@@ -198,7 +199,7 @@
      "SI"
     ],
     [
-     1.0
+     null
     ]
    ],
    [
@@ -207,7 +208,7 @@
      "SI"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ]
   ]
@@ -227,7 +228,21 @@
   "observations": [
    {
     "id": "ORC-SKAXD7EFFQ",
-    "paper": "doi:10.1016/s0364-5916(03)00049-x"
+    "paper": "doi:10.1016/s0364-5916(03)00049-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-DKQ2UIRYLI",
+      "paper": "doi:10.1016/j.calphad.2005.08.001",
+      "measured_in": "ref:20676c9623806214",
+      "dataset": "invariants/NI-SI/NiSi-05Mie.zpf-02.json"
+     },
+     {
+      "id": "ORC-E7VATMKC2B",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "ref:78dcd7bdc0e164ad",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-CBZOKQJJOP",
@@ -255,12 +270,19 @@
    }
   ],
   "papers": [
-   "doi:10.1016/s0364-5916(03)00049-x"
+   "doi:10.1016/s0364-5916(03)00049-x",
+   "ref:20676c9623806214",
+   "doi:10.1016/j.calphad.2005.08.001",
+   "ref:78dcd7bdc0e164ad",
+   "doi:10.1007/s11661-999-0249-8"
   ],
   "dois": [
+   "10.1007/s11661-999-0249-8",
+   "10.1016/j.calphad.2005.08.001",
    "10.1016/s0364-5916(03)00049-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-02.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -295,5 +317,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 10,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

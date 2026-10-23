@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CR"
+  "CR",
+  "VA"
  ],
  "phases": [
   "AL4CR",
@@ -208,22 +209,68 @@
    {
     "id": "ORC-KWT25C5ZN7",
     "paper": "doi:10.1016/j.jallcom.2016.12.298",
-    "measured_in": "doi:10.1016/j.jallcom.2005.04.144"
+    "measured_in": "doi:10.1016/j.jallcom.2005.04.144",
+    "also_reported_as": [
+     {
+      "id": "ORC-DKWGLDF2CP",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "measured_in": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-04.json"
+     },
+     {
+      "id": "ORC-3YUXYFKWTY",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-05.json"
+     }
+    ]
    },
    {
     "id": "ORC-Z2CBRMYNJU",
     "paper": "doi:10.1016/j.jallcom.2016.12.298",
-    "measured_in": "doi:10.1016/j.jallcom.2005.04.144"
+    "measured_in": "doi:10.1016/j.jallcom.2005.04.144",
+    "also_reported_as": [
+     {
+      "id": "ORC-J5G4SA4ITP",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "measured_in": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-04.json"
+     },
+     {
+      "id": "ORC-BWXWGSOS3W",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-05.json"
+     }
+    ]
    },
    {
     "id": "ORC-KWQNNYVMQU",
     "paper": "doi:10.1016/j.jallcom.2016.12.298",
-    "measured_in": "doi:10.1016/j.jallcom.2005.04.144"
+    "measured_in": "doi:10.1016/j.jallcom.2005.04.144",
+    "also_reported_as": [
+     {
+      "id": "ORC-3ISTU4VCT7",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "measured_in": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-04.json"
+     },
+     {
+      "id": "ORC-3QX62MP47I",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-05.json"
+     }
+    ]
    },
    {
     "id": "ORC-QVDKHDGI3N",
     "paper": "doi:10.1016/j.jallcom.2016.12.298",
-    "measured_in": "doi:10.1016/j.jallcom.2005.04.144"
+    "measured_in": "doi:10.1016/j.jallcom.2005.04.144",
+    "also_reported_as": [
+     {
+      "id": "ORC-YLSMRHQH5U",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -234,7 +281,8 @@
    "10.1016/j.jallcom.2005.04.144",
    "10.1016/j.jallcom.2016.12.298"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlCr-17Cui-incomplete/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlCr-17Cui-incomplete/zpf-02.json",
+  "e3_merged": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

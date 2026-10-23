@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

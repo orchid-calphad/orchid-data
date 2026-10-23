@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "MG23SR6_D8A"

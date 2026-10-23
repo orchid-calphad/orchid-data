@@ -1,7 +1,8 @@
 {
  "components": [
   "MO",
-  "P"
+  "P",
+  "VA"
  ],
  "phases": [
   "MO3P"

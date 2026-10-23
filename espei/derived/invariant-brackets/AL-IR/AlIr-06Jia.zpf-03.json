@@ -1,0 +1,463 @@
+{
+ "components": [
+  "AL",
+  "IR",
+  "VA"
+ ],
+ "phases": [
+  "AL13IR4",
+  "AL3IR_D018",
+  "AL5IR2",
+  "ALIR_B2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2341.0,
+   2321.0,
+   2403.0,
+   2383.0,
+   1733.0,
+   1713.0,
+   1298.0,
+   1278.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ],
+  [
+   [
+    "ALIR_B2",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     0.82
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "ALIR_B2",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5IR2",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3IR_D018",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3IR_D018",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.227941
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.242647
+    ]
+   ]
+  ],
+  [
+   [
+    "AL13IR4",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.227941
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.242647
+    ]
+   ]
+  ]
+ ],
+ "reference": "JIANG 2006, doi:10.1016/j.actamat.2006.03.058",
+ "bibtex": "jiang2006_eb3817",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-IR/AlIr-06Jia.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2OZR4FNUN5 ORC-CLD4ZCDX4N ORC-CMXPVZJ5ES ORC-XJL7RMAZQ3",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AL-IR/AlIr-06Jia.zpf-03.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-XJL7RMAZQ3",
+    "side": "above",
+    "T_invariant_K": 2331.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = AlIr + fcc",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ALIR_B2",
+     "FCC_A1"
+    ]
+   },
+   {
+    "source_observation": "ORC-XJL7RMAZQ3",
+    "side": "below",
+    "T_invariant_K": 2331.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = AlIr + fcc",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ALIR_B2",
+     "FCC_A1"
+    ]
+   },
+   {
+    "source_observation": "ORC-CMXPVZJ5ES",
+    "side": "above",
+    "T_invariant_K": 2393.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = AlIr",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ALIR_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-CMXPVZJ5ES",
+    "side": "below",
+    "T_invariant_K": 2393.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = AlIr",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ALIR_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-2OZR4FNUN5",
+    "side": "above",
+    "T_invariant_K": 1723.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Al2.7Ir = Al3Ir",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL5IR2"
+    ],
+    "phases_below": [
+     "AL3IR_D018"
+    ]
+   },
+   {
+    "source_observation": "ORC-2OZR4FNUN5",
+    "side": "below",
+    "T_invariant_K": 1723.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Al2.7Ir = Al3Ir",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL5IR2"
+    ],
+    "phases_below": [
+     "AL3IR_D018"
+    ]
+   },
+   {
+    "source_observation": "ORC-CLD4ZCDX4N",
+    "side": "above",
+    "T_invariant_K": 1288.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.235294,
+    "hyperplane_delta": 0.007352999999999998,
+    "reaction_printed": "Liquid + Al3Ir = Al13Ir4",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL3IR_D018"
+    ],
+    "phases_below": [
+     "AL13IR4"
+    ]
+   },
+   {
+    "source_observation": "ORC-CLD4ZCDX4N",
+    "side": "below",
+    "T_invariant_K": 1288.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.235294,
+    "hyperplane_delta": 0.007352999999999998,
+    "reaction_printed": "Liquid + Al3Ir = Al13Ir4",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL3IR_D018"
+    ],
+    "phases_below": [
+     "AL13IR4"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.03.058"
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.03.058"
+  ]
+ }
+}

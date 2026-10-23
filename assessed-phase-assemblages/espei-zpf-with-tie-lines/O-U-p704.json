@@ -78,7 +78,7 @@
      "O"
     ],
     [
-     0.692
+     null
     ]
    ]
   ],
@@ -89,7 +89,7 @@
      "O"
     ],
     [
-     0.692
+     null
     ]
    ],
    [
@@ -98,7 +98,16 @@
      "O"
     ],
     [
-     0.727
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7096086028
     ]
    ]
   ],
@@ -109,7 +118,7 @@
      "O"
     ],
     [
-     0.727
+     null
     ]
    ],
    [
@@ -118,7 +127,16 @@
      "O"
     ],
     [
-     0.75
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7381565927
     ]
    ]
   ],
@@ -258,7 +276,7 @@
      "O"
     ],
     [
-     0.727
+     null
     ]
    ]
   ],
@@ -427,6 +445,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equil. Diffusion, 28(5), 497 (2007) doi:10.1007/s11669-007-9153-3; M. Baichi, C. Chatillon, G. Ducros, and K. Froment, J. Nucl. Mater., 349, 57-82 (2006) doi:10.1016/j.jnucmat.2005.10.001; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 704",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram O-U-p704; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "O-U-p704",

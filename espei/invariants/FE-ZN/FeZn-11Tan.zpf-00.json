@@ -1,10 +1,10 @@
 {
  "components": [
   "FE",
+  "VA",
   "ZN"
  ],
  "phases": [
-  "BCC_A2",
   "FE3ZN7_D82",
   "FEZN10",
   "FEZN13",
@@ -14,7 +14,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1055.15,
    945.15,
    823.15,
    803.15
@@ -22,35 +21,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "BCC_A2",
-    [
-     "ZN"
-    ],
-    [
-     0.42
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     0.92
-    ]
-   ],
-   [
-    "FE3ZN7_D82",
-    [
-     "ZN"
-    ],
-    [
-     0.72
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -146,17 +116,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-22UFYYPI27 ORC-FRKUDYFKEV ORC-5GMZNRQHMW ORC-2NZQ4XQ43A",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FRKUDYFKEV ORC-5GMZNRQHMW ORC-2NZQ4XQ43A",
  "bibtex": "gellingsnd_48aca6",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-22UFYYPI27",
-    "paper": "doi:10.2298/jmmb1101001t",
-    "measured_in": "doi:10.1515/ijmr-1980-710303"
-   },
    {
     "id": "ORC-FRKUDYFKEV",
     "paper": "doi:10.2298/jmmb1101001t",
@@ -181,15 +146,12 @@
    "10.1515/ijmr-1980-710303",
    "10.2298/jmmb1101001t"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeZn-11Tan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeZn-11Tan/zpf-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

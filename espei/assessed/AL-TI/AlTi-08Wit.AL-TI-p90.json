@@ -1,0 +1,175 @@
+{
+ "components": [
+  "AL",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "ALTI_L10",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1208.545668,
+   1395.045668,
+   1870.045668,
+   1537.545668,
+   1711.045668,
+   1759.045668
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.1623929102
+    ]
+   ]
+  ],
+  [
+   [
+    "ALTI_L10",
+    [
+     "AL"
+    ],
+    [
+     0.5347936956
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.6444116687
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALTI_L10",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.464718279
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALTI_L10",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.6489165169
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.5222802283
+    ]
+   ]
+  ]
+ ],
+ "reference": "I. Ohnuma, Y. Fujita, H. Mitsui, K. Ishikawa, R. Kainuma, and K. Ishida, Acta Material., 48(12), 3113-3124 (2000) doi:10.1016/s1359-6454(00)00118-x; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 90",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-TI-p90; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlTi-08Wit.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-TI-p90",
+  "target_tdb": "AlTi-08Wit.tdb",
+  "record_ids": [
+   "aspa-39cc0a8e67cf755c",
+   "aspa-3987d42015bf9a73",
+   "aspa-8b2248f349eca66e",
+   "aspa-1da9ab541fa40bef",
+   "aspa-bbca7fcffc5554f5",
+   "aspa-34b9cbf9258389be"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "medium",
+   "medium",
+   "medium"
+  ],
+  "points_left_out": 3,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-TI-p90.json"
+ }
+}

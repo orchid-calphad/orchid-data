@@ -41,7 +41,7 @@
      "SI"
     ],
     [
-     0.142857
+     null
     ]
    ]
   ]
@@ -62,7 +62,14 @@
    {
     "id": "ORC-WGIMVWPSA2",
     "paper": "doi:10.1016/j.jallcom.2009.03.044",
-    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044",
+    "also_reported_as": [
+     {
+      "id": "ORC-GOLALQAFNH",
+      "paper": "doi:10.1016/j.jallcom.2009.03.044",
+      "dataset": "invariants/B-SI/SiB-09Che.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -71,7 +78,8 @@
   "dois": [
    "10.1016/j.jallcom.2009.03.044"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/SiB-09Che/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/SiB-09Che/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -82,5 +90,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

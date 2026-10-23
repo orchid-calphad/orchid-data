@@ -1,0 +1,465 @@
+{
+ "components": [
+  "PT",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "PT2TE3",
+  "PT3TE4",
+  "PTTE",
+  "PTTE2_C6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1153.0,
+   1133.0,
+   1218.0,
+   1198.0,
+   1433.0,
+   1413.0,
+   933.0,
+   913.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PTTE",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PT3TE4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "PTTE",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.657
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.677
+    ]
+   ]
+  ],
+  [
+   [
+    "PTTE2_C6",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.657
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.677
+    ]
+   ]
+  ],
+  [
+   [
+    "PTTE2_C6",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PT3TE4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "PT2TE3",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guo 2015, doi:10.1007/s11664-015-3676-x",
+ "bibtex": "guo2015_127a41",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PT-TE/PtTe-15Guo.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-AFL2HVIQSX ORC-F77WYCHRYQ ORC-UOVUUI7B2U ORC-WICAADE4PO",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/PT-TE/PtTe-15Guo.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-AFL2HVIQSX",
+    "side": "above",
+    "T_invariant_K": 1143.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> fcc(Pt) + PtTe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "PTTE"
+    ]
+   },
+   {
+    "source_observation": "ORC-AFL2HVIQSX",
+    "side": "below",
+    "T_invariant_K": 1143.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> fcc(Pt) + PtTe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "PTTE"
+    ]
+   },
+   {
+    "source_observation": "ORC-WICAADE4PO",
+    "side": "above",
+    "T_invariant_K": 1208.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + Pt3Te4 -> PtTe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PT3TE4"
+    ],
+    "phases_below": [
+     "PTTE"
+    ]
+   },
+   {
+    "source_observation": "ORC-WICAADE4PO",
+    "side": "below",
+    "T_invariant_K": 1208.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + Pt3Te4 -> PtTe",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "PT3TE4"
+    ],
+    "phases_below": [
+     "PTTE"
+    ]
+   },
+   {
+    "source_observation": "ORC-UOVUUI7B2U",
+    "side": "above",
+    "T_invariant_K": 1423.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> PtTe2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PTTE2_C6"
+    ]
+   },
+   {
+    "source_observation": "ORC-UOVUUI7B2U",
+    "side": "below",
+    "T_invariant_K": 1423.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> PtTe2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "PTTE2_C6"
+    ]
+   },
+   {
+    "source_observation": "ORC-F77WYCHRYQ",
+    "side": "above",
+    "T_invariant_K": 923.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "PtTe2 + Pt3Te4 -> Pt2Te3",
+    "reaction_type": null,
+    "phases_above": [
+     "PTTE2_C6",
+     "PT3TE4"
+    ],
+    "phases_below": [
+     "PT2TE3"
+    ]
+   },
+   {
+    "source_observation": "ORC-F77WYCHRYQ",
+    "side": "below",
+    "T_invariant_K": 923.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "PtTe2 + Pt3Te4 -> Pt2Te3",
+    "reaction_type": null,
+    "phases_above": [
+     "PTTE2_C6",
+     "PT3TE4"
+    ],
+    "phases_below": [
+     "PT2TE3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/bf03025941",
+   "10.1007/s11664-015-3676-x"
+  ],
+  "papers": [
+   "doi:10.1007/s11664-015-3676-x",
+   "doi:10.1007/bf03025941"
+  ]
+ }
+}

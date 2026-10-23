@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "HOTE_B1"

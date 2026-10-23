@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "TL"
+  "TL",
+  "VA"
  ],
  "phases": [
   "GDTL3_L12"

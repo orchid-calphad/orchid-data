@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "NI2SI_C37"

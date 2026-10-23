@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "AGER_B2"

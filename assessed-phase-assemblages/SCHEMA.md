@@ -55,10 +55,13 @@ One ZPF dataset per diagram: `components` (upper case, `VA` when a model of an i
 `conditions {P: 101325, T: [K...]}`, `values` aligned with `T`. Single-phase point: `[[PHASE, [X], [x]]]`. Two-phase
 point (default): `[[P1, [X], [null]], [P2, [X], [null]], ["__HYPERPLANE__", [X], [x]]]` -- phases present,
 compositions unknown, the target hyperplane at the point's overall composition. The tie-line variant uses
-`[[P1, [X], [x1]], [P2, [X], [x2]]]` where a `tie_line` block exists, else the default form. `reference`: original
-evaluation(s) and the handbook; `comment`: evidence class, point method and (variant) the caveat; `orchid`: record
-ids. Points whose phases do not all map to a registry phase with a TDB name are left out
-(`espei_exclusions.jsonl`) but stay in `records.*`.
+`[[P1, [X], [x1]], [P2, [X], [x2]]]` where a `tie_line` block exists, else the default form; a line-compound endpoint
+is written with composition null (ESPEI 0.9.1 / pycalphad 0.11.2 return NaN for a line compound at a fixed composition),
+and where both endpoints are line compounds the hyperplane is set at the point. `tags`: `assessed_phase_diagram`,
+`orchid` (+ `tie_line_variant`). `reference`: original evaluation(s) and the handbook; `comment`: evidence class, point
+method and (variant) the caveat; `orchid`: record ids. Points whose phases do not all map to a registry phase with a TDB
+name are left out (`espei_exclusions.jsonl`) but stay in `records.*`. The ESPEI bundle (`espei/assessed/`) carries the
+same points in the phase names of each assessment (TDB) that has ESPEI ZPF datasets, for use together with them.
 
 ## CSV / Parquet columns
 

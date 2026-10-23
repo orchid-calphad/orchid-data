@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "TB"
+  "TB",
+  "VA"
  ],
  "phases": [
   "FCC_A1",
@@ -22,7 +23,6 @@
    1062,
    996,
    1138,
-   1250,
    1199,
    1417,
    1499,
@@ -58,7 +58,7 @@
      "TB"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -78,7 +78,7 @@
      "TB"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -87,7 +87,7 @@
      "TB"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -107,7 +107,7 @@
      "TB"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -116,27 +116,7 @@
      "TB"
     ],
     [
-     0.6
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TB"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "NITB",
-    [
-     "TB"
-    ],
-    [
-     0.5
+     null
     ]
    ]
   ],
@@ -156,7 +136,7 @@
      "TB"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -165,7 +145,7 @@
      "TB"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -185,7 +165,7 @@
      "TB"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -194,7 +174,7 @@
      "TB"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -214,7 +194,7 @@
      "TB"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ],
    [
@@ -223,7 +203,7 @@
      "TB"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -243,7 +223,7 @@
      "TB"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -252,7 +232,7 @@
      "TB"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ]
   ],
@@ -272,7 +252,7 @@
      "TB"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -281,7 +261,7 @@
      "TB"
     ],
     [
-     0.10526315789473684
+     null
     ]
    ]
   ],
@@ -301,7 +281,7 @@
      "TB"
     ],
     [
-     0.10526315789473684
+     null
     ]
    ],
    [
@@ -323,7 +303,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NZM7KN3FDF ORC-UKTNDZM7XJ ORC-HTNPAQU7BW ORC-D2TZFRMTUI ORC-JAW774V3C5 ORC-KOSDWKWJZN ORC-EZIWG5WZGJ ORC-JXYU6Q2WPH ORC-IATXGROU2L ORC-3DAJW7RBT4",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NZM7KN3FDF ORC-UKTNDZM7XJ ORC-HTNPAQU7BW ORC-JAW774V3C5 ORC-KOSDWKWJZN ORC-EZIWG5WZGJ ORC-JXYU6Q2WPH ORC-IATXGROU2L ORC-3DAJW7RBT4",
  "bibtex": "yao2004_f3648a",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -346,11 +326,6 @@
     "caveats": [
      "plausibility_fail"
     ]
-   },
-   {
-    "id": "ORC-D2TZFRMTUI",
-    "paper": "doi:10.1007/s11669-024-01089-9",
-    "measured_in": "ref:95597306f6af63a9"
    },
    {
     "id": "ORC-JAW774V3C5",
@@ -390,7 +365,8 @@
   "dois": [
    "10.1007/s11669-024-01089-9"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiTb-24Rah/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiTb-24Rah/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -430,12 +406,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 16,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

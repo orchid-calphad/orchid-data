@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TL"
+  "TL",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -9,7 +10,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1241.0,
    1308.0,
    1313.0,
    1343.0,
@@ -27,26 +27,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TL"
-    ],
-    [
-     0.8297
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TL"
-    ],
-    [
-     0.145
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -315,17 +295,12 @@
   "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VQWTUHLLRP ORC-6TEAE3QLVZ ORC-4O7UMLN3X5 ORC-HOIBV5UZOV ORC-BDNXAYAW3N ORC-BE4YWYE4LQ ORC-2EWEXCCCK5 ORC-BA2VCJDEIE ORC-M2E7OROGEU ORC-YXDCE42RH3 ORC-YGIS22FQL6 ORC-YN2HYSVHRO ORC-3NJDRZF3SU ORC-7P4NLGRLZ6",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6TEAE3QLVZ ORC-4O7UMLN3X5 ORC-HOIBV5UZOV ORC-BDNXAYAW3N ORC-BE4YWYE4LQ ORC-2EWEXCCCK5 ORC-BA2VCJDEIE ORC-M2E7OROGEU ORC-YXDCE42RH3 ORC-YGIS22FQL6 ORC-YN2HYSVHRO ORC-3NJDRZF3SU ORC-7P4NLGRLZ6",
  "bibtex": "chevalier1989_b588ee",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-VQWTUHLLRP",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0040-6031(89)87205-3"
-   },
    {
     "id": "ORC-6TEAE3QLVZ",
     "reader_agreement": "multi_reader",
@@ -400,15 +375,12 @@
    "10.1016/0025-5416(69)90038-x",
    "10.1016/0040-6031(89)87205-3"
   ],
-  "source_dataset": "db-v2.1/general/espei/CuTl-89Che/zpf-01.json"
+  "source_dataset": "db-v2.1/general/espei/CuTl-89Che/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

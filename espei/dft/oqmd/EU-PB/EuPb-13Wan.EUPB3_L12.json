@@ -1,7 +1,8 @@
 {
  "components": [
   "EU",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "EUPB3_L12"

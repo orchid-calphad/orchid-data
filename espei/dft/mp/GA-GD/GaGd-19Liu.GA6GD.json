@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "GA6GD"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CD",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "CDSR_B2"

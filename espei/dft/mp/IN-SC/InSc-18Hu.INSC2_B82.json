@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "INSC2_B82"

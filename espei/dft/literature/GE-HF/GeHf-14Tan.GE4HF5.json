@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "HF"
+  "HF",
+  "VA"
  ],
  "phases": [
   "GE4HF5"

@@ -1,6 +1,7 @@
 {
  "components": [
   "NB",
+  "VA",
   "ZN"
  ],
  "phases": [

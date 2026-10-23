@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "IR"
+  "IR",
+  "VA"
  ],
  "phases": [
   "FCC_A1",

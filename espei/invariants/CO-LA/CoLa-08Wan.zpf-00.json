@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "CO13LA_D23",
@@ -301,11 +302,25 @@
    },
    {
     "id": "ORC-CVDB2BVSQK",
-    "paper": "doi:10.1016/j.jallcom.2006.11.155"
+    "paper": "doi:10.1016/j.jallcom.2006.11.155",
+    "also_reported_as": [
+     {
+      "id": "ORC-GPZXIPQTBN",
+      "paper": "doi:10.1016/j.jallcom.2006.11.155",
+      "dataset": "invariants/CO-LA/CoLa-08Wan.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-JMBPFQFJBW",
-    "paper": "doi:10.1016/j.jallcom.2006.11.155"
+    "paper": "doi:10.1016/j.jallcom.2006.11.155",
+    "also_reported_as": [
+     {
+      "id": "ORC-QKPPA544QU",
+      "paper": "doi:10.1016/j.jallcom.2006.11.155",
+      "dataset": "invariants/CO-LA/CoLa-08Wan.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -314,7 +329,8 @@
   "dois": [
    "10.1016/j.jallcom.2006.11.155"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoLa-08Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoLa-08Wan/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

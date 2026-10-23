@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -348,13 +349,29 @@
     "id": "ORC-HCE5L56NI4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667485",
-    "measured_in": "doi:10.1051/jphysrad:0196300240101700"
+    "measured_in": "doi:10.1051/jphysrad:0196300240101700",
+    "also_reported_as": [
+     {
+      "id": "ORC-2HTD7W3DHH",
+      "paper": "doi:10.1007/bf02667485",
+      "measured_in": "unresolved:source:doi:10-1007-bf02667485#74shu1",
+      "dataset": "experimental/GA-SN/GaSn-92And-LB.zpf-04.json"
+     }
+    ]
    },
    {
     "id": "ORC-LSZNX2X23T",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667485",
-    "measured_in": "doi:10.1051/jphysrad:0196300240101700"
+    "measured_in": "doi:10.1051/jphysrad:0196300240101700",
+    "also_reported_as": [
+     {
+      "id": "ORC-INPCU42EI5",
+      "paper": "doi:10.1007/bf02667485",
+      "measured_in": "unresolved:source:doi:10-1007-bf02667485#64pre",
+      "dataset": "experimental/GA-SN/GaSn-92And-LB.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-H77SMIVUEG",
@@ -461,13 +478,16 @@
   ],
   "papers": [
    "doi:10.1051/jphysrad:0196300240101700",
-   "doi:10.1007/bf02667485"
+   "doi:10.1007/bf02667485",
+   "unresolved:source:doi:10-1007-bf02667485#64pre",
+   "unresolved:source:doi:10-1007-bf02667485#74shu1"
   ],
   "dois": [
    "10.1007/bf02667485",
    "10.1051/jphysrad:0196300240101700"
   ],
-  "source_dataset": "db-v2.1/general/espei/GaSn-92And-LB/zpf-02.json"
+  "source_dataset": "db-v2.1/general/espei/GaSn-92And-LB/zpf-02.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

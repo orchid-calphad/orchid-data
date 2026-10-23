@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "GDMG_B2"

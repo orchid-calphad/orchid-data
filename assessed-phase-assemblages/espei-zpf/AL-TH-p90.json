@@ -607,6 +607,10 @@
  ],
  "reference": "M.E. Kassner and D.E. Peterson, Phase Diagrams of Binary Actinide Alloys, M.E. Kassner and D.E. Peterson, ed., ASM International, Materials Park, OH, 12-16 (1995); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 90",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-TH-p90; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "AL-TH-p90",

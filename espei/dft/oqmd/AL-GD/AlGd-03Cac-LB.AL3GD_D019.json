@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "AL3GD_D019"

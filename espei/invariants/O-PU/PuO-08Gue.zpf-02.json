@@ -1,7 +1,8 @@
 {
  "components": [
   "O",
-  "PU"
+  "PU",
+  "VA"
  ],
  "phases": [
   "PU2O3_D52",
@@ -12,7 +13,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   573.0,
    573.0,
    943.0
   ]
@@ -26,7 +26,7 @@
      "PU"
     ],
     [
-     0.396825
+     null
     ]
    ],
    [
@@ -54,44 +54,6 @@
     ],
     [
      0.3899835
-    ]
-   ]
-  ],
-  [
-   [
-    "PUO161_D53",
-    [
-     "PU"
-    ],
-    [
-     0.383142
-    ]
-   ],
-   [
-    "PUO152_D53",
-    [
-     "PU"
-    ],
-    [
-     0.396825
-    ]
-   ],
-   [
-    "PUO2_C1",
-    [
-     "PU"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "PU"
-    ],
-    [
-     0.3711
     ]
    ]
   ],
@@ -132,7 +94,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I4MSG3JTZ2 ORC-3IYINHT7VJ ORC-47CIGYUNCJ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I4MSG3JTZ2 ORC-47CIGYUNCJ",
  "bibtex": "gueneau2008_15d032",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -140,10 +102,6 @@
   "observations": [
    {
     "id": "ORC-I4MSG3JTZ2",
-    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
-   },
-   {
-    "id": "ORC-3IYINHT7VJ",
     "paper": "doi:10.1016/j.jnucmat.2008.06.013"
    },
    {
@@ -159,7 +117,8 @@
    "10.1016/0022-3115(76)90114-8",
    "10.1016/j.jnucmat.2008.06.013"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PuO-08Gue/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/PuO-08Gue/zpf-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -171,12 +130,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

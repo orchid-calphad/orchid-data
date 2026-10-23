@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "IN3SC_L12"

@@ -1,7 +1,8 @@
 {
  "components": [
   "BE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BE12TI_D2B"

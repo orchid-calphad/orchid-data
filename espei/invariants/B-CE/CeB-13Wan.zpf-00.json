@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "CE"
+  "CE",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -77,7 +78,7 @@
      "B"
     ],
     [
-     0.8
+     null
     ]
    ]
   ],
@@ -97,7 +98,7 @@
      "B"
     ],
     [
-     0.8571428571428571
+     null
     ]
    ],
    [
@@ -106,7 +107,7 @@
      "B"
     ],
     [
-     0.8
+     null
     ]
    ]
   ],
@@ -126,7 +127,7 @@
      "B"
     ],
     [
-     0.8571428571428571
+     null
     ]
    ],
    [
@@ -155,7 +156,7 @@
      "B"
     ],
     [
-     0.8571428571428571
+     null
     ]
    ],
    [
@@ -190,7 +191,15 @@
    {
     "id": "ORC-WAA5IB7UXY",
     "paper": "doi:10.1016/j.calphad.2013.03.001",
-    "measured_in": "doi:10.1007/bf02647853"
+    "measured_in": "doi:10.1007/bf02647853",
+    "also_reported_as": [
+     {
+      "id": "ORC-3YHAUGBE7D",
+      "paper": "doi:10.1016/j.calphad.2013.03.001",
+      "measured_in": "doi:10.1111/j.1151-2916.1951.tb11631.x",
+      "dataset": "invariants/B-CE/CeB-13Wan.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-WAXL4Q3B23",
@@ -210,13 +219,16 @@
   ],
   "papers": [
    "doi:10.1007/bf02647853",
-   "doi:10.1016/j.calphad.2013.03.001"
+   "doi:10.1016/j.calphad.2013.03.001",
+   "doi:10.1111/j.1151-2916.1951.tb11631.x"
   ],
   "dois": [
    "10.1007/bf02647853",
-   "10.1016/j.calphad.2013.03.001"
+   "10.1016/j.calphad.2013.03.001",
+   "10.1111/j.1151-2916.1951.tb11631.x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CeB-13Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CeB-13Wan/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -243,5 +255,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,19 +1,17 @@
 {
  "components": [
   "B",
-  "MO"
+  "MO",
+  "VA"
  ],
  "phases": [
-  "BCC_A2",
   "LIQUID",
-  "MO2B_C16",
   "MOB_B33"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   2773.0,
-   2323.0
+   2773.0
   ]
  },
  "output": "ZPF",
@@ -37,35 +35,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MO2B_C16",
-    [
-     "MO"
-    ],
-    [
-     0.666667
-    ]
-   ]
   ]
  ],
  "reference": "Witusiewicz 2016, doi:10.1016/j.jallcom.2015.09.158",
@@ -75,7 +44,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NVGWJCWPNM ORC-7LVGOXPFQ6",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NVGWJCWPNM",
  "bibtex": "witusiewicz2016_ee3968",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -83,10 +52,6 @@
   "observations": [
    {
     "id": "ORC-NVGWJCWPNM",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
-   },
-   {
-    "id": "ORC-7LVGOXPFQ6",
     "paper": "doi:10.1016/j.jallcom.2015.09.158"
    }
   ],
@@ -96,15 +61,12 @@
   "dois": [
    "10.1016/j.jallcom.2015.09.158"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-06.json"
+  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-06.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

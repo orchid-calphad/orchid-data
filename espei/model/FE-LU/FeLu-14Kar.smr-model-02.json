@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "LU"
+  "LU",
+  "VA"
  ],
  "phases": [
   "FE2LU_C15",

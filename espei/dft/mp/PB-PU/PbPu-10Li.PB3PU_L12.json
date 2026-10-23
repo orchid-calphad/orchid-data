@@ -1,7 +1,8 @@
 {
  "components": [
   "PB",
-  "PU"
+  "PU",
+  "VA"
  ],
  "phases": [
   "PB3PU_L12"

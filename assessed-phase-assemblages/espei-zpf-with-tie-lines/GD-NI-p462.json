@@ -144,7 +144,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -153,7 +153,16 @@
      "NI"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.5828955954
     ]
    ]
   ],
@@ -164,7 +173,7 @@
      "NI"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -173,7 +182,16 @@
      "NI"
     ],
     [
-     0.75
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.7076052351
     ]
    ]
   ],
@@ -184,7 +202,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -193,7 +211,16 @@
      "NI"
     ],
     [
-     0.778
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.7621970051
     ]
    ]
   ],
@@ -204,7 +231,7 @@
      "NI"
     ],
     [
-     0.778
+     null
     ]
    ],
    [
@@ -213,7 +240,16 @@
      "NI"
     ],
     [
-     0.8
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.7872391015
     ]
    ]
   ],
@@ -224,7 +260,7 @@
      "NI"
     ],
     [
-     0.8
+     null
     ]
    ],
    [
@@ -233,7 +269,16 @@
      "NI"
     ],
     [
-     0.833
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8162879332
     ]
    ]
   ],
@@ -244,7 +289,7 @@
      "NI"
     ],
     [
-     0.833
+     null
     ]
    ],
    [
@@ -253,7 +298,16 @@
      "NI"
     ],
     [
-     0.895
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8638679162
     ]
    ]
   ],
@@ -264,7 +318,7 @@
      "NI"
     ],
     [
-     0.895
+     null
     ]
    ],
    [
@@ -284,7 +338,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -313,7 +367,7 @@
      "NI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -422,7 +476,7 @@
      "NI"
     ],
     [
-     0.667
+     null
     ]
    ]
   ],
@@ -442,7 +496,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -462,7 +516,7 @@
      "NI"
     ],
     [
-     0.778
+     null
     ]
    ]
   ],
@@ -482,7 +536,7 @@
      "NI"
     ],
     [
-     0.8
+     null
     ]
    ]
   ],
@@ -587,6 +641,11 @@
  ],
  "reference": "Y.Y. Pan and P. Nash, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 140-145 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 462",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GD-NI-p462; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GD-NI-p462",

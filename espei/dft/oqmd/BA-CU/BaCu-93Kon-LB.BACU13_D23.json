@@ -1,7 +1,8 @@
 {
  "components": [
   "BA",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
   "BACU13_D23"

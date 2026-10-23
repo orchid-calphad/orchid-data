@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "HF"
+  "HF",
+  "VA"
  ],
  "phases": [
   "AL3HF4"

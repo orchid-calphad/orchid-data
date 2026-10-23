@@ -1,7 +1,8 @@
 {
  "components": [
   "CR",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "LIQUID"

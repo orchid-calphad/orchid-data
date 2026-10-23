@@ -1,6 +1,7 @@
 {
  "components": [
   "SB",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -52,7 +53,7 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -72,7 +73,7 @@
      "ZN"
     ],
     [
-     0.5579999999999999
+     null
     ]
    ],
    [
@@ -81,7 +82,7 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -101,7 +102,7 @@
      "ZN"
     ],
     [
-     0.5579999999999999
+     null
     ]
    ]
   ],
@@ -121,7 +122,7 @@
      "ZN"
     ],
     [
-     0.5579999999999999
+     null
     ]
    ],
    [
@@ -130,7 +131,7 @@
      "ZN"
     ],
     [
-     0.595
+     null
     ]
    ]
   ],
@@ -150,7 +151,7 @@
      "ZN"
     ],
     [
-     0.595
+     null
     ]
    ]
   ],
@@ -161,7 +162,7 @@
      "ZN"
     ],
     [
-     0.5579999999999999
+     null
     ]
    ],
    [
@@ -170,7 +171,7 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -179,7 +180,16 @@
      "ZN"
     ],
     [
-     0.559
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.539
     ]
    ]
   ],
@@ -190,7 +200,7 @@
      "ZN"
     ],
     [
-     0.5579999999999999
+     null
     ]
    ],
    [
@@ -199,7 +209,7 @@
      "ZN"
     ],
     [
-     0.595
+     null
     ]
    ],
    [
@@ -208,7 +218,16 @@
      "ZN"
     ],
     [
-     0.559
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.5706666667
     ]
    ]
   ],
@@ -219,7 +238,7 @@
      "ZN"
     ],
     [
-     0.559
+     null
     ]
    ],
    [
@@ -228,7 +247,7 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -237,7 +256,16 @@
      "ZN"
     ],
     [
-     0.5650000000000001
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.5413333333
     ]
    ]
   ],
@@ -248,7 +276,7 @@
      "ZN"
     ],
     [
-     0.559
+     null
     ]
    ],
    [
@@ -257,7 +285,7 @@
      "ZN"
     ],
     [
-     0.595
+     null
     ]
    ],
    [
@@ -266,7 +294,16 @@
      "ZN"
     ],
     [
-     0.5650000000000001
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.573
     ]
    ]
   ]
@@ -381,5 +418,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 19,
+  "hyperplanes_added": 4,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

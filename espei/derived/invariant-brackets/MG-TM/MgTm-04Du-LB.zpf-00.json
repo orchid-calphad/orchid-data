@@ -1,0 +1,583 @@
+{
+ "components": [
+  "MG",
+  "TM",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "MG24TM5_A12",
+  "MG2TM_C14",
+  "MGTM_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   858.0,
+   838.0,
+   873.0,
+   853.0,
+   1043.0,
+   1023.0,
+   1483.0,
+   1463.0,
+   953.0,
+   933.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.11
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.12
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.06
+    ]
+   ],
+   [
+    "MG24TM5_A12",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.12
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "MG2TM_C14",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1624137931
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1824137931
+    ]
+   ]
+  ],
+  [
+   [
+    "MG24TM5_A12",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1624137931
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.1824137931
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.32
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.57
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "MGTM_B2",
+    [
+     "TM"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.82
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.81
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.82
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ],
+  [
+   [
+    "MGTM_B2",
+    [
+     "TM"
+    ],
+    [
+     0.52
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.87
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ]
+ ],
+ "reference": "Saccone 1995, doi:10.1016/0925-8388(94)06023-1",
+ "bibtex": "saccone1995_63b61e",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MG-TM/MgTm-04Du-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2B2KI7D33D ORC-B5KTIEUM4G ORC-C5VPMUDM5V ORC-EJVY27LGMZ ORC-NJAVRCS2NH",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/MG-TM/MgTm-04Du-LB.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-2B2KI7D33D",
+    "side": "above",
+    "T_invariant_K": 848,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.11,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> hcp(Mg)+Mg24Tm5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "MG24TM5_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-2B2KI7D33D",
+    "side": "below",
+    "T_invariant_K": 848,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.11,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid -> hcp(Mg)+Mg24Tm5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "MG24TM5_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-NJAVRCS2NH",
+    "side": "above",
+    "T_invariant_K": 863,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.1724137931034483,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid +Mg2Tm -> Mg24Tm5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "MG2TM_C14"
+    ],
+    "phases_below": [
+     "MG24TM5_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-NJAVRCS2NH",
+    "side": "below",
+    "T_invariant_K": 863,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.1724137931034483,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid +Mg2Tm -> Mg24Tm5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "MG2TM_C14"
+    ],
+    "phases_below": [
+     "MG24TM5_A12"
+    ]
+   },
+   {
+    "source_observation": "ORC-EJVY27LGMZ",
+    "side": "above",
+    "T_invariant_K": 1033,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + bcc -> MgTm",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "MGTM_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-EJVY27LGMZ",
+    "side": "below",
+    "T_invariant_K": 1033,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + bcc -> MgTm",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "MGTM_B2"
+    ]
+   },
+   {
+    "source_observation": "ORC-C5VPMUDM5V",
+    "side": "above",
+    "T_invariant_K": 1473,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.81,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + hcp(Tm) -> bcc",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-C5VPMUDM5V",
+    "side": "below",
+    "T_invariant_K": 1473,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.81,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + hcp(Tm) -> bcc",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-B5KTIEUM4G",
+    "side": "above",
+    "T_invariant_K": 943,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc -> MgTm + hcp(Tm)",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "MGTM_B2",
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-B5KTIEUM4G",
+    "side": "below",
+    "T_invariant_K": 943,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc -> MgTm + hcp(Tm)",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "MGTM_B2",
+     "HCP_A3"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0925-8388(94)06023-1",
+   "10.1016/j.jallcom.2003.10.033"
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(94)06023-1",
+   "doi:10.1016/j.jallcom.2003.10.033"
+  ]
+ }
+}

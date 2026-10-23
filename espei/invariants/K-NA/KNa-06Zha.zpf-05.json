@@ -1,7 +1,8 @@
 {
  "components": [
   "K",
-  "NA"
+  "NA",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -11,8 +12,7 @@
  "conditions": {
   "P": 101325,
   "T": [
-   280.05,
-   260.55
+   280.05
   ]
  },
  "output": "ZPF",
@@ -45,35 +45,6 @@
      0.6666666666666666
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "KNA2_C14",
-    [
-     "NA"
-    ],
-    [
-     0.666667
-    ]
-   ]
   ]
  ],
  "reference": "Zhang 2006, doi:10.1016/j.msea.2005.11.037",
@@ -83,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KNDE3X332H ORC-L2F7KIVN6O",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KNDE3X332H",
  "bibtex": "zhang2006_d10fdb",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -91,10 +62,6 @@
   "observations": [
    {
     "id": "ORC-KNDE3X332H",
-    "paper": "doi:10.1016/j.msea.2005.11.037"
-   },
-   {
-    "id": "ORC-L2F7KIVN6O",
     "paper": "doi:10.1016/j.msea.2005.11.037"
    }
   ],
@@ -104,15 +71,12 @@
   "dois": [
    "10.1016/j.msea.2005.11.037"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/KNa-06Zha/zpf-05.json"
+  "source_dataset": "db-v2.1/invariants/espei/KNa-06Zha/zpf-05.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

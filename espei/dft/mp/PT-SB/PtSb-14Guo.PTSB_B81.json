@@ -1,7 +1,8 @@
 {
  "components": [
   "PT",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "PTSB_B81"

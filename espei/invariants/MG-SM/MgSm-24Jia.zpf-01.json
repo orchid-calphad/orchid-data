@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "LIQUID",

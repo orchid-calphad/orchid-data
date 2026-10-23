@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "GESC_B33"

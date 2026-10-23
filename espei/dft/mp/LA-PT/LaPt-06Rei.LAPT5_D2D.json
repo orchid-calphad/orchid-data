@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "LAPT5_D2D"

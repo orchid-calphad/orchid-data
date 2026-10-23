@@ -52,7 +52,7 @@
      "SM"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -63,7 +63,7 @@
      "SM"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -72,7 +72,16 @@
      "SM"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.4162486509
     ]
    ]
   ],
@@ -83,7 +92,7 @@
      "SM"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -92,7 +101,16 @@
      "SM"
     ],
     [
-     0.571
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.5352746801
     ]
    ]
   ],
@@ -103,7 +121,7 @@
      "SM"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -112,7 +130,16 @@
      "SM"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.5977883509
     ]
    ]
   ],
@@ -123,7 +150,7 @@
      "SM"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -132,7 +159,16 @@
      "SM"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.6452987407
     ]
    ]
   ],
@@ -152,7 +188,7 @@
      "SM"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -174,7 +210,7 @@
      "SM"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -194,7 +230,7 @@
      "SM"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -214,7 +250,7 @@
      "SM"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -263,7 +299,7 @@
      "SM"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -274,7 +310,7 @@
      "SM"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -319,6 +355,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 21(4), 414 (2000) doi:10.1361/105497100770340002; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 792",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SB-SM-p792; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "SB-SM-p792",

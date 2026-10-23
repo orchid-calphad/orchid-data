@@ -260,6 +260,10 @@
  ],
  "reference": "S.V. Nagender Naidu, A.M. Sriramamurthy, and P. Rama Rao, Phase Diagrams of Binary Iron Alloys, H. Okamoto, ed., ASM International, Materials Park, OH, 444-453 (1993); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 438",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram FE-W-p438; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "FE-W-p438",

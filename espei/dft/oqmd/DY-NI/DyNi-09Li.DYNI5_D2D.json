@@ -1,7 +1,8 @@
 {
  "components": [
   "DY",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "DYNI5_D2D"

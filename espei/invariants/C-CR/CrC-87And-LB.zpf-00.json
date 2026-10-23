@@ -1,7 +1,8 @@
 {
  "components": [
   "C",
-  "CR"
+  "CR",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -52,7 +53,7 @@
      "CR"
     ],
     [
-     0.7931034482758621
+     null
     ]
    ]
   ],
@@ -81,7 +82,7 @@
      "CR"
     ],
     [
-     0.7931034482758621
+     null
     ]
    ]
   ],
@@ -101,7 +102,7 @@
      "CR"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -110,7 +111,7 @@
      "CR"
     ],
     [
-     0.7931034482758621
+     null
     ]
    ]
   ],
@@ -130,7 +131,7 @@
      "CR"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -139,7 +140,7 @@
      "CR"
     ],
     [
-     0.7931034482758621
+     null
     ]
    ],
    [
@@ -168,7 +169,7 @@
      "CR"
     ],
     [
-     0.7
+     null
     ]
    ]
   ],
@@ -188,7 +189,7 @@
      "CR"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -197,7 +198,7 @@
      "CR"
     ],
     [
-     0.6
+     null
     ]
    ]
   ],
@@ -217,7 +218,7 @@
      "CR"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -226,7 +227,7 @@
      "CR"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -264,7 +265,7 @@
      "CR"
     ],
     [
-     0.6
+     null
     ]
    ]
   ],
@@ -293,7 +294,7 @@
      "CR"
     ],
     [
-     0.6
+     null
     ]
    ]
   ]
@@ -314,27 +315,73 @@
    {
     "id": "ORC-SXBWSANMRQ",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-R5JGL5KUT3",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:934bb2901a95ae45",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-5MLXI4G55R",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-UKM6TZ43W7",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:5e6158f1f69bb470",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-MMJPD6EKD4.12b559",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-CUCITGEHR5",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:934bb2901a95ae45",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-MMJPD6EKD4.fec645",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-3IRDQRC6UL",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:5e6158f1f69bb470",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-AA3CD4HJC6.5043e4",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-KBLJQOQ7U2",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:5e6158f1f69bb470",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-00.json"
+     },
+     {
+      "id": "ORC-CY27KDBVUN",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:934bb2901a95ae45",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-BAV5ZYS2IW.6ed1fe",
@@ -344,26 +391,55 @@
    {
     "id": "ORC-BAV5ZYS2IW.766ae5",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-YE4Q6BLKDZ",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:5e6158f1f69bb470",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-EWA34MXCLM.d61ee8",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-QU5SH7TRWU",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:934bb2901a95ae45",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-EWA34MXCLM.d3fd78",
     "paper": "doi:10.1016/0364-5916(87)90045-9",
-    "measured_in": "doi:10.1016/0364-5916(87)90045-9"
+    "measured_in": "doi:10.1016/0364-5916(87)90045-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-S75IHDDP4D",
+      "paper": "doi:10.1007/bf02646072",
+      "measured_in": "ref:5e6158f1f69bb470",
+      "dataset": "invariants/C-CR/CrC-90Kaj.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/0364-5916(87)90045-9"
+   "doi:10.1016/0364-5916(87)90045-9",
+   "ref:5e6158f1f69bb470",
+   "doi:10.1007/bf02646072",
+   "ref:934bb2901a95ae45"
   ],
   "dois": [
+   "10.1007/bf02646072",
    "10.1016/0364-5916(87)90045-9"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CrC-87And-LB/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CrC-87And-LB/zpf-00.json",
+  "e3_merged": 9
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -406,5 +482,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 13,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "AS",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -123,7 +124,14 @@
   "observations": [
    {
     "id": "ORC-NRKGNTF2T4",
-    "paper": "doi:10.1016/j.jnucmat.2013.04.066"
+    "paper": "doi:10.1016/j.jnucmat.2013.04.066",
+    "also_reported_as": [
+     {
+      "id": "ORC-HBQOZXV5KD",
+      "paper": "doi:10.1016/j.jnucmat.2013.04.066",
+      "dataset": "invariants/AS-U/UAs-13Wan.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-YAEFCZ7HFL",
@@ -142,7 +150,8 @@
    "10.1016/j.jnucmat.2013.04.066",
    "10.1149/1.2411157"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/UAs-13Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/UAs-13Wan/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

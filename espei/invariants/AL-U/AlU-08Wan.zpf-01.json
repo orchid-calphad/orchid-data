@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "AL2U_C15",

@@ -1,7 +1,8 @@
 {
  "components": [
   "RU",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "RUSM3_D011"

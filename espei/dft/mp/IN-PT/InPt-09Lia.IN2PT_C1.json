@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "IN2PT_C1"

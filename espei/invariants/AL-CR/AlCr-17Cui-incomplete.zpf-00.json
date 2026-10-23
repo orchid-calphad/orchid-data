@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CR"
+  "CR",
+  "VA"
  ],
  "phases": [
   "AL11CR2",
@@ -36,7 +37,7 @@
      "CR"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -65,7 +66,7 @@
      "CR"
     ],
     [
-     0.153846
+     null
     ]
    ],
    [
@@ -74,7 +75,7 @@
      "CR"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -112,7 +113,7 @@
      "CR"
     ],
     [
-     0.153846
+     null
     ]
    ],
    [
@@ -145,7 +146,14 @@
    },
    {
     "id": "ORC-WJBF5KG6MZ",
-    "paper": "doi:10.1016/j.jallcom.2016.12.298"
+    "paper": "doi:10.1016/j.jallcom.2016.12.298",
+    "also_reported_as": [
+     {
+      "id": "ORC-5FREJXGOUG",
+      "paper": "doi:10.1016/j.jallcom.2016.12.298",
+      "dataset": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-E5NGXLNZXB",
@@ -154,13 +162,16 @@
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2016.12.298",
-   "doi:10.1007/s10853-005-6525-0"
+   "doi:10.1007/s10853-005-6525-0",
+   "doi:10.1016/0925-8388(92)90601-5"
   ],
   "dois": [
    "10.1007/s10853-005-6525-0",
+   "10.1016/0925-8388(92)90601-5",
    "10.1016/j.jallcom.2016.12.298"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlCr-17Cui-incomplete/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlCr-17Cui-incomplete/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -179,5 +190,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

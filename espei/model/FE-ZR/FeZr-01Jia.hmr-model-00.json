@@ -1,6 +1,7 @@
 {
  "components": [
   "FE",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -12,7 +13,6 @@
   "P": 101325,
   "T": 1573.15,
   "X_ZR": [
-   0.25,
    0.25
   ]
  },
@@ -20,7 +20,6 @@
  "values": [
   [
    [
-    -25105.0,
     -25105.0
    ]
   ]
@@ -34,7 +33,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWVAJGVCR7.a94d59 ORC-ZWVAJGVCR7.6ca7cc",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWVAJGVCR7.a94d59",
  "reference_states": {
   "FE": {
    "phase": "BCC_A2",
@@ -86,15 +85,9 @@
     "measured_in": "doi:10.1361/105497101770332965",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-ZWVAJGVCR7.6ca7cc",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497101770332965",
-    "measured_in": "doi:10.1361/105497101770332965",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-ZWVAJGVCR7.6ca7cc"
     ]
    }
   ],
@@ -104,7 +97,8 @@
   "dois": [
    "10.1361/105497101770332965"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeZr-01Jia/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeZr-01Jia/hmr-model-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -114,11 +108,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

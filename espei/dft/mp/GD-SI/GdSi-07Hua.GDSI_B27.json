@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "GDSI_B27"

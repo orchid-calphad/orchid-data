@@ -57,7 +57,7 @@
      "LA"
     ],
     [
-     0.071
+     null
     ]
    ]
   ],
@@ -68,7 +68,7 @@
      "LA"
     ],
     [
-     0.071
+     null
     ]
    ],
    [
@@ -77,7 +77,16 @@
      "LA"
     ],
     [
-     0.167
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LA"
+    ],
+    [
+     0.1196168134
     ]
    ]
   ],
@@ -88,7 +97,7 @@
      "LA"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -97,7 +106,16 @@
      "LA"
     ],
     [
-     0.208
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LA"
+    ],
+    [
+     0.1877313154
     ]
    ]
   ],
@@ -108,7 +126,7 @@
      "LA"
     ],
     [
-     0.208
+     null
     ]
    ],
    [
@@ -117,7 +135,16 @@
      "LA"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LA"
+    ],
+    [
+     0.2147767795
     ]
    ]
   ],
@@ -157,7 +184,7 @@
      "LA"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -177,7 +204,7 @@
      "LA"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -206,7 +233,7 @@
      "LA"
     ],
     [
-     0.071
+     null
     ]
    ]
   ],
@@ -248,7 +275,7 @@
      "LA"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -268,7 +295,7 @@
      "LA"
     ],
     [
-     0.222
+     null
     ]
    ],
    [
@@ -288,7 +315,7 @@
      "LA"
     ],
     [
-     0.208
+     null
     ]
    ],
    [
@@ -328,7 +355,7 @@
      "LA"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -348,7 +375,7 @@
      "LA"
     ],
     [
-     0.071
+     null
     ]
    ],
    [
@@ -384,6 +411,11 @@
  ],
  "reference": "C.P. Wang, J. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, and K. Ishida, J. Alloys Compd., , 453, 174-179 (2008) doi:10.1016/j.jallcom.2006.11.155; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 306",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-LA-p306; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CO-LA-p306",

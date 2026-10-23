@@ -1,0 +1,416 @@
+{
+ "components": [
+  "FE",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C15_LAVES",
+  "FEZR2_C16",
+  "FEZR3_E1A",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1956.0,
+   1936.0,
+   1234.0,
+   1063.0,
+   1134.0,
+   1114.0,
+   1038.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.73
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.344
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.67
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.959
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.998
+    ]
+   ],
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.755
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.95
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.97
+    ]
+   ]
+  ]
+ ],
+ "reference": "Stein 2002, doi:10.1361/105497102770331172",
+ "bibtex": "stein2002_ba3922",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-ZR/FeZr-08Guo.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B7JFXI7DG3 ORC-G7HYHDKZ7D ORC-QIEP5E2ZYM ORC-RIWX26RYIO ORC-ZOVK6GQKLL",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/FE-ZR/FeZr-08Guo.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-B7JFXI7DG3",
+    "side": "above",
+    "T_invariant_K": 1946.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liq. -> Fe2Zr",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "C15_LAVES"
+    ]
+   },
+   {
+    "source_observation": "ORC-B7JFXI7DG3",
+    "side": "below",
+    "T_invariant_K": 1946.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liq. -> Fe2Zr",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "C15_LAVES"
+    ]
+   },
+   {
+    "source_observation": "ORC-G7HYHDKZ7D",
+    "side": "above",
+    "T_invariant_K": 1224.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liq. + Fe2Zr -> FeZr2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "C15_LAVES"
+    ],
+    "phases_below": [
+     "FEZR2_C16"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZOVK6GQKLL",
+    "side": "above",
+    "T_invariant_K": 1053.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "FeZr2 -> Fe2Zr + FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "FEZR2_C16"
+    ],
+    "phases_below": [
+     "C15_LAVES",
+     "FEZR3_E1A"
+    ]
+   },
+   {
+    "source_observation": "ORC-RIWX26RYIO",
+    "side": "above",
+    "T_invariant_K": 1124.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "FeZr2 + bcc -> FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "FEZR2_C16",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FEZR3_E1A"
+    ]
+   },
+   {
+    "source_observation": "ORC-RIWX26RYIO",
+    "side": "below",
+    "T_invariant_K": 1124.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "FeZr2 + bcc -> FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "FEZR2_C16",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FEZR3_E1A"
+    ]
+   },
+   {
+    "source_observation": "ORC-QIEP5E2ZYM",
+    "side": "below",
+    "T_invariant_K": 1048.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.96,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc -> hcp + FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "FEZR3_E1A"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2008.08.007",
+   "10.1361/105497102770331172"
+  ],
+  "papers": [
+   "doi:10.1361/105497102770331172",
+   "doi:10.1016/j.calphad.2008.08.007"
+  ]
+ }
+}

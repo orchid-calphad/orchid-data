@@ -1,18 +1,13 @@
 {
  "components": [
   "CO",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
-  "CO17SM2",
-  "CO19SM5",
   "CO2SM_C15",
-  "CO3SM",
   "CO4SM9",
-  "CO5SM",
-  "CO7SM2",
   "COSM3_D011",
-  "FCC_A1",
   "LIQUID",
   "RHOMB_C19"
  ],
@@ -20,15 +15,8 @@
   "P": 101325,
   "T": [
    868,
-   968,
    878,
-   848,
-   1348,
-   1473,
-   1513,
-   1593,
-   1608,
-   1598
+   848
   ]
  },
  "output": "ZPF",
@@ -58,27 +46,7 @@
      "SM"
     ],
     [
-     0.75
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     0.75
-    ]
-   ],
-   [
-    "COSM3_D011",
-    [
-     "SM"
-    ],
-    [
-     0.75
+     null
     ]
    ]
   ],
@@ -98,7 +66,7 @@
      "SM"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -107,7 +75,7 @@
      "SM"
     ],
     [
-     0.6923076923076923
+     null
     ]
    ],
    [
@@ -136,7 +104,7 @@
      "SM"
     ],
     [
-     0.6923076923076923
+     null
     ]
    ],
    [
@@ -145,7 +113,7 @@
      "SM"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -155,207 +123,6 @@
     ],
     [
      0.5128205125
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO3SM",
-    [
-     "SM"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "CO2SM_C15",
-    [
-     "SM"
-    ],
-    [
-     0.3333333333333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.2916666665
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO7SM2",
-    [
-     "SM"
-    ],
-    [
-     0.2222222222222222
-    ]
-   ],
-   [
-    "CO3SM",
-    [
-     "SM"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.23611111099999998
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO19SM5",
-    [
-     "SM"
-    ],
-    [
-     0.20833333333333334
-    ]
-   ],
-   [
-    "CO7SM2",
-    [
-     "SM"
-    ],
-    [
-     0.2222222222222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.2152777775
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO17SM2",
-    [
-     "SM"
-    ],
-    [
-     0.10526315789473684
-    ]
-   ],
-   [
-    "CO5SM",
-    [
-     "SM"
-    ],
-    [
-     0.16666666666666666
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.13596491249999998
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     0.10526315789473684
-    ]
-   ],
-   [
-    "CO17SM2",
-    [
-     "SM"
-    ],
-    [
-     0.10526315789473684
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO17SM2",
-    [
-     "SM"
-    ],
-    [
-     0.10526315789473684
     ]
    ]
   ]
@@ -368,7 +135,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I2TGEIBJLD ORC-7TFRF635BU ORC-HQKHI23C3H ORC-OZMZWBGZD6 ORC-DG4VXA5DTV ORC-AJD4CF3AM7 ORC-Y5S7FDTHRF ORC-W5JW5TDOID ORC-DHQFWA5CR4 ORC-MZ7TEMZHWT",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I2TGEIBJLD ORC-HQKHI23C3H ORC-OZMZWBGZD6",
  "bibtex": "buschow1968_8f4622",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -383,47 +150,12 @@
     ]
    },
    {
-    "id": "ORC-7TFRF635BU",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
     "id": "ORC-HQKHI23C3H",
     "paper": "doi:10.1016/s0925-8388(97)00540-9",
     "measured_in": "doi:10.1016/0022-5088(68)90037-4"
    },
    {
     "id": "ORC-OZMZWBGZD6",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-DG4VXA5DTV",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-AJD4CF3AM7",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-Y5S7FDTHRF",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-W5JW5TDOID",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-DHQFWA5CR4",
-    "paper": "doi:10.1016/s0925-8388(97)00540-9",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
-   },
-   {
-    "id": "ORC-MZ7TEMZHWT",
     "paper": "doi:10.1016/s0925-8388(97)00540-9",
     "measured_in": "doi:10.1016/0022-5088(68)90037-4"
    }
@@ -436,7 +168,8 @@
    "10.1016/0022-5088(68)90037-4",
    "10.1016/s0925-8388(97)00540-9"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoSm-98Su/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoSm-98Su/zpf-00.json",
+  "values_dropped": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -452,36 +185,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

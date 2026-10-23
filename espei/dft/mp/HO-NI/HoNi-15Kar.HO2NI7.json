@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "HO2NI7"

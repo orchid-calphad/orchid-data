@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -240,7 +241,14 @@
    },
    {
     "id": "ORC-3T6BRDCB7T",
-    "paper": "doi:10.1016/j.calphad.2008.02.001"
+    "paper": "doi:10.1016/j.calphad.2008.02.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-DYZ5ZUNZFE",
+      "paper": "doi:10.1016/j.calphad.2008.02.001",
+      "dataset": "invariants/NI-SB/NiSb-08Zha.zpf-08.json"
+     }
+    ]
    },
    {
     "id": "ORC-Y5LKFOVMU3",
@@ -252,7 +260,14 @@
    },
    {
     "id": "ORC-5WRDQ65JAW",
-    "paper": "doi:10.1016/j.calphad.2008.02.001"
+    "paper": "doi:10.1016/j.calphad.2008.02.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-3HPPXTTPLP",
+      "paper": "doi:10.1016/j.calphad.2008.02.001",
+      "dataset": "invariants/NI-SB/NiSb-08Zha.zpf-08.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -261,7 +276,8 @@
   "dois": [
    "10.1016/j.calphad.2008.02.001"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiSb-08Zha/zpf-07.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiSb-08Zha/zpf-07.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

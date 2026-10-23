@@ -1,6 +1,7 @@
 {
  "components": [
   "FE",
+  "VA",
   "Y"
  ],
  "phases": [
@@ -11,8 +12,6 @@
   "T": 895.0,
   "X_Y": [
    0.105263,
-   0.105263,
-   0.105263,
    0.105263
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     -8350.0,
-    -8350.0,
-    -7660.0,
     -7660.0
    ]
   ]
@@ -35,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4L5AQFNUQI.db3220 ORC-4L5AQFNUQI.028ff6 ORC-HIIHOOYKXL.f238cc ORC-HIIHOOYKXL.c87a5a",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4L5AQFNUQI.db3220 ORC-HIIHOOYKXL.f238cc",
  "reference_states": {
   "FE": {
    "phase": "BCC_A2",
@@ -84,25 +81,19 @@
     "id": "ORC-4L5AQFNUQI.db3220",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
-   },
-   {
-    "id": "ORC-4L5AQFNUQI.028ff6",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010",
+    "also_read_as": [
+     "ORC-4L5AQFNUQI.028ff6"
+    ]
    },
    {
     "id": "ORC-HIIHOOYKXL.f238cc",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
-   },
-   {
-    "id": "ORC-HIIHOOYKXL.c87a5a",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010",
+    "also_read_as": [
+     "ORC-HIIHOOYKXL.c87a5a"
+    ]
    }
   ],
   "papers": [
@@ -113,7 +104,8 @@
    "10.1007/s11669-017-0574-3",
    "10.1016/j.jallcom.2013.07.010"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeY-14Kar/hmr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeY-14Kar/hmr-model-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -123,16 +115,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

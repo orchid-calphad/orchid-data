@@ -1,7 +1,8 @@
 {
  "components": [
   "O",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -12,9 +13,6 @@
   "X_PB": [
    0.5,
    0.5,
-   0.5,
-   0.5,
-   0.428571,
    0.428571
   ]
  },
@@ -23,10 +21,7 @@
   [
    [
     -109527.5,
-    -109527.5,
     -108721.0,
-    -108721.0,
-    -104838.71428571429,
     -104838.71428571429
    ]
   ]
@@ -40,7 +35,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2NEHG54LHP.72b531 ORC-2NEHG54LHP.72b531 ORC-XYFQXGYQGO.9e2ed3 ORC-XYFQXGYQGO.9e2ed3 ORC-Y2WSRB4DLG.15a3c1 ORC-Y2WSRB4DLG.15a3c1",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2NEHG54LHP.72b531 ORC-XYFQXGYQGO.9e2ed3 ORC-Y2WSRB4DLG.15a3c1",
  "reference_states": {
   "O": {
    "phase": "1",
@@ -92,15 +87,9 @@
     "measured_in": "doi:10.1361/105497198770342238",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-2NEHG54LHP.72b531",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497198770342238",
-    "measured_in": "doi:10.1361/105497198770342238",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-2NEHG54LHP.72b531"
     ]
    },
    {
@@ -110,15 +99,9 @@
     "measured_in": "doi:10.1361/105497198770342238",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-XYFQXGYQGO.9e2ed3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497198770342238",
-    "measured_in": "doi:10.1361/105497198770342238",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-XYFQXGYQGO.9e2ed3"
     ]
    },
    {
@@ -128,15 +111,9 @@
     "measured_in": "doi:10.1361/105497198770342238",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-Y2WSRB4DLG.15a3c1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497198770342238",
-    "measured_in": "doi:10.1361/105497198770342238",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-Y2WSRB4DLG.15a3c1"
     ]
    }
   ],
@@ -146,7 +123,8 @@
   "dois": [
    "10.1361/105497198770342238"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/PbO-98Ris-LB/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/PbO-98Ris-LB/hmr-model-00.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -156,21 +134,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

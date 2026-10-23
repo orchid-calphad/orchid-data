@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "PD20TE7"

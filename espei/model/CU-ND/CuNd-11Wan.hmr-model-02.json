@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
   "CU2ND",
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 298.0,
   "X_ND": [
-   0.333333,
    0.333333
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    -20250.0,
     -20250.0
    ]
   ]
@@ -33,7 +32,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2OPUP5U5JL.a14004 ORC-2OPUP5U5JL.a14004",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2OPUP5U5JL.a14004",
  "reference_states": {
   "CU": {
    "phase": "FCC_A1",
@@ -85,15 +84,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2010.11.160",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-2OPUP5U5JL.a14004",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2010.11.160",
-    "measured_in": "doi:10.1016/j.jallcom.2010.11.160",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-2OPUP5U5JL.a14004"
     ]
    }
   ],
@@ -103,7 +96,8 @@
   "dois": [
    "10.1016/j.jallcom.2010.11.160"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CuNd-11Wan/hmr-model-02.json"
+  "source_dataset": "db-v2.1/general/espei-model/CuNd-11Wan/hmr-model-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -113,11 +107,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

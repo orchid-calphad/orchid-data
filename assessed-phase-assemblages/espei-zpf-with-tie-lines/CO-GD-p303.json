@@ -60,7 +60,7 @@
      "GD"
     ],
     [
-     0.105
+     null
     ]
    ]
   ],
@@ -71,7 +71,7 @@
      "GD"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -80,7 +80,16 @@
      "GD"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.1642093918
     ]
    ]
   ],
@@ -91,7 +100,7 @@
      "GD"
     ],
     [
-     0.222
+     null
     ]
    ],
    [
@@ -100,7 +109,16 @@
      "GD"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.2363306292
     ]
    ]
   ],
@@ -111,7 +129,7 @@
      "GD"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -120,7 +138,16 @@
      "GD"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.2914232411
     ]
    ]
   ],
@@ -189,7 +216,7 @@
      "GD"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -218,7 +245,7 @@
      "GD"
     ],
     [
-     0.105
+     null
     ]
    ]
   ],
@@ -229,7 +256,7 @@
      "GD"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -258,7 +285,7 @@
      "GD"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -280,7 +307,7 @@
      "GD"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -320,7 +347,7 @@
      "GD"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -329,7 +356,16 @@
      "GD"
     ],
     [
-     0.167
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.135661402
     ]
    ]
   ],
@@ -340,7 +376,7 @@
      "GD"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -349,7 +385,16 @@
      "GD"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.1947607493
     ]
    ]
   ],
@@ -360,7 +405,7 @@
      "GD"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -380,7 +425,7 @@
      "GD"
     ],
     [
-     0.222
+     null
     ]
    ],
    [
@@ -400,7 +445,7 @@
      "GD"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -420,7 +465,7 @@
      "GD"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -456,6 +501,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 18(3), 314 (1997) doi:10.1007/bf02647864; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 303",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-GD-p303; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CO-GD-p303",

@@ -1,7 +1,8 @@
 {
  "components": [
   "O",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,20 +12,12 @@
   "T": 298.15,
   "X_U": [
    0.333333,
-   0.333333,
-   0.307692,
    0.307692,
    0.272727,
-   0.272727,
-   0.25,
    0.25,
    1.0,
-   1.0,
-   0.5,
    0.5,
    0.333333,
-   0.333333,
-   0.25,
    0.25
   ]
  },
@@ -33,20 +26,12 @@
   [
    [
     -361374.0,
-    -361374.0,
-    -346864.0,
     -346864.0,
     -325220.0,
-    -325220.0,
-    -305950.0,
     -305950.0,
     534996.0,
-    534996.0,
-    7954.0,
     7954.0,
     -158176.0,
-    -158176.0,
-    -198613.0,
     -198613.0
    ]
   ]
@@ -60,7 +45,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WJS56OFWF2.662e9d ORC-WJS56OFWF2.db26d2 ORC-ARH6QFMUVX.99a873 ORC-ARH6QFMUVX.c56014 ORC-CGXG2LYDLD.cc2b7a ORC-CGXG2LYDLD.cfa217 ORC-VJKQQEBA2V.a94f52 ORC-VJKQQEBA2V.4dc903 ORC-IY4HBZTVGD.c1046d ORC-IY4HBZTVGD.c76b55 ORC-SAHSUVBSIT.d6e31e ORC-SAHSUVBSIT.0df3aa ORC-O4MOZLURZJ.f4c11e ORC-O4MOZLURZJ.ceb2c2 ORC-U6QFEWSDKO.c387c4 ORC-U6QFEWSDKO.90f187",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WJS56OFWF2.662e9d ORC-ARH6QFMUVX.99a873 ORC-CGXG2LYDLD.cc2b7a ORC-VJKQQEBA2V.a94f52 ORC-IY4HBZTVGD.c1046d ORC-SAHSUVBSIT.d6e31e ORC-O4MOZLURZJ.f4c11e ORC-U6QFEWSDKO.c387c4",
  "reference_states": {
   "O": {
    "phase": "1",
@@ -112,15 +97,9 @@
     "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-WJS56OFWF2.db26d2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-WJS56OFWF2.db26d2"
     ]
    },
    {
@@ -130,15 +109,9 @@
     "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-ARH6QFMUVX.c56014",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-ARH6QFMUVX.c56014"
     ]
    },
    {
@@ -148,15 +121,9 @@
     "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-CGXG2LYDLD.cfa217",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-CGXG2LYDLD.cfa217"
     ]
    },
    {
@@ -166,15 +133,9 @@
     "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-VJKQQEBA2V.4dc903",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-VJKQQEBA2V.4dc903"
     ]
    },
    {
@@ -184,52 +145,37 @@
     "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-IY4HBZTVGD.c76b55",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-IY4HBZTVGD.c76b55"
     ]
    },
    {
     "id": "ORC-SAHSUVBSIT.d6e31e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
-   },
-   {
-    "id": "ORC-SAHSUVBSIT.0df3aa",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
+    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
+    "also_read_as": [
+     "ORC-SAHSUVBSIT.0df3aa"
+    ]
    },
    {
     "id": "ORC-O4MOZLURZJ.f4c11e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
-   },
-   {
-    "id": "ORC-O4MOZLURZJ.ceb2c2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
+    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
+    "also_read_as": [
+     "ORC-O4MOZLURZJ.ceb2c2"
+    ]
    },
    {
     "id": "ORC-U6QFEWSDKO.c387c4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
-   },
-   {
-    "id": "ORC-U6QFEWSDKO.90f187",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(02)00878-4",
-    "measured_in": "doi:10.1016/s0022-3115(02)00878-4"
+    "measured_in": "doi:10.1016/s0022-3115(02)00878-4",
+    "also_read_as": [
+     "ORC-U6QFEWSDKO.90f187"
+    ]
    }
   ],
   "papers": [
@@ -238,7 +184,8 @@
   "dois": [
    "10.1016/s0022-3115(02)00878-4"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/UO-02Gue/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/UO-02Gue/hmr-model-00.json",
+  "values_dropped": 8
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -248,46 +195,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

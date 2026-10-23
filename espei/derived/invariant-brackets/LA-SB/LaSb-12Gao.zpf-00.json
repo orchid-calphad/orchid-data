@@ -1,0 +1,523 @@
+{
+ "components": [
+  "LA",
+  "SB",
+  "VA"
+ ],
+ "phases": [
+  "LA2SB",
+  "LA3SB2",
+  "LASB2",
+  "LASB_B1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1128.15,
+   1743.15,
+   1723.15,
+   1823.15,
+   1803.15,
+   1393.15,
+   1373.15,
+   913.15,
+   893.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.034
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.024
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.044
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.324
+    ]
+   ],
+   [
+    "LA3SB2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.3286666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.338
+    ]
+   ]
+  ],
+  [
+   [
+    "LA2SB",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.3286666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.338
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.53
+    ]
+   ],
+   [
+    "LA3SB2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LASB_B1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.745
+    ]
+   ],
+   [
+    "LASB_B1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LASB2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.995
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.9925
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.9975
+    ]
+   ]
+  ],
+  [
+   [
+    "LASB2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.9925
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.9975
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gao 2012, doi:10.1016/j.calphad.2012.01.002",
+ "bibtex": "gao2012_2b9ca1",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/LA-SB/LaSb-12Gao.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-DYHTLVXBTB ORC-RN2VYUQ3DB ORC-TDMIZFBNXK ORC-Y7TH34EZDN ORC-YAWW34HOGE",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/LA-SB/LaSb-12Gao.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-YAWW34HOGE",
+    "side": "above",
+    "T_invariant_K": 1118.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.034,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (β-La) + La2Sb",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "LA2SB"
+    ]
+   },
+   {
+    "source_observation": "ORC-RN2VYUQ3DB",
+    "side": "above",
+    "T_invariant_K": 1733.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.004666666666666652,
+    "reaction_printed": "L + La3Sb2 ↔ La2Sb",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LA3SB2"
+    ],
+    "phases_below": [
+     "LA2SB"
+    ]
+   },
+   {
+    "source_observation": "ORC-RN2VYUQ3DB",
+    "side": "below",
+    "T_invariant_K": 1733.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.004666666666666652,
+    "reaction_printed": "L + La3Sb2 ↔ La2Sb",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LA3SB2"
+    ],
+    "phases_below": [
+     "LA2SB"
+    ]
+   },
+   {
+    "source_observation": "ORC-TDMIZFBNXK",
+    "side": "above",
+    "T_invariant_K": 1813.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + La3Sb2 ↔ LaSb",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LA3SB2"
+    ],
+    "phases_below": [
+     "LASB_B1"
+    ]
+   },
+   {
+    "source_observation": "ORC-TDMIZFBNXK",
+    "side": "below",
+    "T_invariant_K": 1813.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + La3Sb2 ↔ LaSb",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LA3SB2"
+    ],
+    "phases_below": [
+     "LASB_B1"
+    ]
+   },
+   {
+    "source_observation": "ORC-Y7TH34EZDN",
+    "side": "above",
+    "T_invariant_K": 1383.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + LaSb ↔ LaSb2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LASB_B1"
+    ],
+    "phases_below": [
+     "LASB2"
+    ]
+   },
+   {
+    "source_observation": "ORC-Y7TH34EZDN",
+    "side": "below",
+    "T_invariant_K": 1383.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + LaSb ↔ LaSb2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "LASB_B1"
+    ],
+    "phases_below": [
+     "LASB2"
+    ]
+   },
+   {
+    "source_observation": "ORC-DYHTLVXBTB",
+    "side": "above",
+    "T_invariant_K": 903.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.995,
+    "hyperplane_delta": 0.0025000000000000022,
+    "reaction_printed": "L ↔ LaSb2 + (Sb)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "LASB2",
+     "RHOMBOHEDRAL_A7"
+    ]
+   },
+   {
+    "source_observation": "ORC-DYHTLVXBTB",
+    "side": "below",
+    "T_invariant_K": 903.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.995,
+    "hyperplane_delta": 0.0025000000000000022,
+    "reaction_printed": "L ↔ LaSb2 + (Sb)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "LASB2",
+     "RHOMBOHEDRAL_A7"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.01.002"
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2012.01.002"
+  ]
+ }
+}

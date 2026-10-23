@@ -1,7 +1,8 @@
 {
  "components": [
   "PR",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "PR5SB3_D88"

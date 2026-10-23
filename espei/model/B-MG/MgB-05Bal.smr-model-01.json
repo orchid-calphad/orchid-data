@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -12,8 +13,6 @@
   "T": 298.0,
   "X_MG": [
    0.2,
-   0.2,
-   0.2,
    0.2
   ]
  },
@@ -22,8 +21,6 @@
   [
    [
     -1.18,
-    -1.18,
-    0.655,
     0.655
    ]
   ]
@@ -36,7 +33,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FGMCYNYI3R.1b40e0 ORC-FGMCYNYI3R.1b40e0 ORC-BNYQZOHJAG.0134b4 ORC-BNYQZOHJAG.0134b4",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FGMCYNYI3R.1b40e0 ORC-BNYQZOHJAG.0134b4",
  "reference_states": {
   "B": {
    "phase": "BETA_RHOMBO_B",
@@ -85,25 +82,19 @@
     "id": "ORC-FGMCYNYI3R.1b40e0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jpcs.2004.06.063",
-    "measured_in": "doi:10.1016/j.jpcs.2004.06.063"
-   },
-   {
-    "id": "ORC-FGMCYNYI3R.1b40e0",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jpcs.2004.06.063",
-    "measured_in": "doi:10.1016/j.jpcs.2004.06.063"
+    "measured_in": "doi:10.1016/j.jpcs.2004.06.063",
+    "also_read_as": [
+     "ORC-FGMCYNYI3R.1b40e0"
+    ]
    },
    {
     "id": "ORC-BNYQZOHJAG.0134b4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jpcs.2004.06.063",
-    "measured_in": "doi:10.1016/j.jpcs.2004.06.063"
-   },
-   {
-    "id": "ORC-BNYQZOHJAG.0134b4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jpcs.2004.06.063",
-    "measured_in": "doi:10.1016/j.jpcs.2004.06.063"
+    "measured_in": "doi:10.1016/j.jpcs.2004.06.063",
+    "also_read_as": [
+     "ORC-BNYQZOHJAG.0134b4"
+    ]
    }
   ],
   "papers": [
@@ -112,7 +103,8 @@
   "dois": [
    "10.1016/j.jpcs.2004.06.063"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/MgB-05Bal/smr-model-01.json"
+  "source_dataset": "db-v2.1/general/espei-model/MgB-05Bal/smr-model-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -122,16 +114,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

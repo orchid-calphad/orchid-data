@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,7 +12,6 @@
   "T": 900.0,
   "X_O": [
    0.6,
-   0.571429,
    0.571429
   ]
  },
@@ -20,7 +20,6 @@
   [
    [
     35.336200000000005,
-    30.20885714285714,
     30.20885714285714
    ]
   ]
@@ -33,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GN2UPTFFIZ.2a69a7 ORC-3OZ5J2G74S.1fc778 ORC-3OZ5J2G74S.8e05b2",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GN2UPTFFIZ.2a69a7 ORC-3OZ5J2G74S.1fc778",
  "orchid_model_evidence": {
   "tdb": {
    "name": "FeO-91Sun-LB.tdb",
@@ -74,13 +73,10 @@
     "id": "ORC-3OZ5J2G74S.1fc778",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02645709",
-    "measured_in": "doi:10.1007/bf02645709"
-   },
-   {
-    "id": "ORC-3OZ5J2G74S.8e05b2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02645709",
-    "measured_in": "doi:10.1007/bf02645709"
+    "measured_in": "doi:10.1007/bf02645709",
+    "also_read_as": [
+     "ORC-3OZ5J2G74S.8e05b2"
+    ]
    }
   ],
   "papers": [
@@ -89,7 +85,8 @@
   "dois": [
    "10.1007/bf02645709"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeO-91Sun-LB/cpm-model-24.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -99,11 +96,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

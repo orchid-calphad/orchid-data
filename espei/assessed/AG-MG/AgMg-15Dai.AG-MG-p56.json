@@ -1,0 +1,143 @@
+{
+ "components": [
+  "AG",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   813.2971364,
+   714.7971364,
+   808.2971364,
+   1108.297136,
+   889.2971364
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "MG"
+    ],
+    [
+     0.4892446748
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     0.9882817488
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.928217106
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.6399068205
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.6674364484
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.A. Nayeb-Hashemi and J.B. Clark, Bull. Alloy Phase Diagrams, 5(4), 348-358 (1984) doi:10.1007/bf02872949; H. Okamoto, J. Phase Equilibria, 19(5), 487 (1998) doi:10.1361/105497198770341987; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 56",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-MG-p56; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AgMg-15Dai.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-MG-p56",
+  "target_tdb": "AgMg-15Dai.tdb",
+  "record_ids": [
+   "aspa-48f325010de18b10",
+   "aspa-fde9c12f01298ba3",
+   "aspa-b35defe9ff4511de",
+   "aspa-4afd7d9184b1a98d",
+   "aspa-6cf2cc2a803707bf"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "medium",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 4,
+  "source": "assessed-phase-assemblages/espei-zpf/AG-MG-p56.json"
+ }
+}

@@ -1,7 +1,8 @@
 {
  "components": [
   "HF",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,10 +12,7 @@
   "T": 298.15,
   "X_NI": [
    0.777778,
-   0.777778,
    0.7,
-   0.7,
-   0.333333,
    0.333333
   ]
  },
@@ -23,10 +21,7 @@
   [
    [
     -45180.0,
-    -45180.0,
     -48880.0,
-    -48880.0,
-    -32880.0,
     -32880.0
    ]
   ]
@@ -39,7 +34,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MCM6OSD5NL.0b1437 ORC-MCM6OSD5NL.0b1437 ORC-QTR653AO47.3bab61 ORC-QTR653AO47.3bab61 ORC-HI2NIG257C.1c1787 ORC-HI2NIG257C.1c1787",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MCM6OSD5NL.0b1437 ORC-QTR653AO47.3bab61 ORC-HI2NIG257C.1c1787",
  "reference_states": {
   "HF": {
    "phase": "HCP_A3",
@@ -88,37 +83,28 @@
     "id": "ORC-MCM6OSD5NL.0b1437",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
-   },
-   {
-    "id": "ORC-MCM6OSD5NL.0b1437",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
+    "measured_in": "doi:10.1016/j.tca.2018.08.011",
+    "also_read_as": [
+     "ORC-MCM6OSD5NL.0b1437"
+    ]
    },
    {
     "id": "ORC-QTR653AO47.3bab61",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
-   },
-   {
-    "id": "ORC-QTR653AO47.3bab61",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
+    "measured_in": "doi:10.1016/j.tca.2018.08.011",
+    "also_read_as": [
+     "ORC-QTR653AO47.3bab61"
+    ]
    },
    {
     "id": "ORC-HI2NIG257C.1c1787",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
-   },
-   {
-    "id": "ORC-HI2NIG257C.1c1787",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2018.08.011",
-    "measured_in": "doi:10.1016/j.tca.2018.08.011"
+    "measured_in": "doi:10.1016/j.tca.2018.08.011",
+    "also_read_as": [
+     "ORC-HI2NIG257C.1c1787"
+    ]
    }
   ],
   "papers": [
@@ -127,7 +113,8 @@
   "dois": [
    "10.1016/j.tca.2018.08.011"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/HfNi-18Ros/hmr-model-03.json"
+  "source_dataset": "db-v2.1/general/espei-model/HfNi-18Ros/hmr-model-03.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -137,21 +124,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

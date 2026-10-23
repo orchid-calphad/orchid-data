@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "AUGA2_C1"

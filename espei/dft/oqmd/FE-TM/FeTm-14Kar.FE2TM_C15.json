@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "FE2TM_C15"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "CULA_B27"

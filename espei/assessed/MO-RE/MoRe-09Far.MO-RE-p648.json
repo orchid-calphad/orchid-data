@@ -1,0 +1,128 @@
+{
+ "components": [
+  "MO",
+  "RE",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1579.906455,
+   2582.406455,
+   3193.406455,
+   3101.906455
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.8703788612
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.9480093599
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.3940781892
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.7997601496
+    ]
+   ]
+  ]
+ ],
+ "reference": "Y. Yang. C. Zhang, S. Chen, D. Morgan, and Y.A. Chang, Intermetallics, 18, 574-581 (2010) doi:10.1016/j.intermet.2009.10.012; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 648",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MO-RE-p648; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to MoRe-09Far.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MO-RE-p648",
+  "target_tdb": "MoRe-09Far.tdb",
+  "record_ids": [
+   "aspa-ac0c802f77448a68",
+   "aspa-a7aa4d192199315b",
+   "aspa-7a013a713ac506a4",
+   "aspa-0e67518449675a05"
+  ],
+  "confidence": [
+   "medium",
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/MO-RE-p648.json"
+ }
+}

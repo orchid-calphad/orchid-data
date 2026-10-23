@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "HO"
+  "HO",
+  "VA"
  ],
  "phases": [
   "ALHO2_C37"

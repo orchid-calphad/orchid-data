@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,7 +12,6 @@
   "T": 1100.0,
   "X_O": [
    0.6,
-   0.571429,
    0.571429
   ]
  },
@@ -20,7 +20,6 @@
   [
    [
     28.6406,
-    28.357714285714284,
     28.357714285714284
    ]
   ]
@@ -33,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TOQCHKTD7O.e3da38 ORC-HJKM4D66BC.10888f ORC-HJKM4D66BC.e7ad1c",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TOQCHKTD7O.e3da38 ORC-HJKM4D66BC.10888f",
  "orchid_model_evidence": {
   "tdb": {
    "name": "FeO-91Sun-LB.tdb",
@@ -74,13 +73,10 @@
     "id": "ORC-HJKM4D66BC.10888f",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02645709",
-    "measured_in": "doi:10.1007/bf02645709"
-   },
-   {
-    "id": "ORC-HJKM4D66BC.e7ad1c",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02645709",
-    "measured_in": "doi:10.1007/bf02645709"
+    "measured_in": "doi:10.1007/bf02645709",
+    "also_read_as": [
+     "ORC-HJKM4D66BC.e7ad1c"
+    ]
    }
   ],
   "papers": [
@@ -89,7 +85,8 @@
   "dois": [
    "10.1007/bf02645709"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeO-91Sun-LB/cpm-model-34.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -99,11 +96,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

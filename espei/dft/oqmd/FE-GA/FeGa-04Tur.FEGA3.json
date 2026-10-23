@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "FEGA3"

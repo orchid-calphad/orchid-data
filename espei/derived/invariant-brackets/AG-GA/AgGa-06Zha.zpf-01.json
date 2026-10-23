@@ -1,0 +1,260 @@
+{
+ "components": [
+  "AG",
+  "GA",
+  "VA"
+ ],
+ "phases": [
+  "AG2GA_C22",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   895.0,
+   875.0,
+   685.0,
+   665.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.281
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.23
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     0.22
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.23
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     0.227
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.217
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.237
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     0.192
+    ]
+   ],
+   [
+    "AG2GA_C22",
+    [
+     "GA"
+    ],
+    [
+     0.254
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.217
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.237
+    ]
+   ]
+  ]
+ ],
+ "reference": "Feschotte 1991, doi:10.1016/0022-5088(91)90272-6",
+ "bibtex": "feschotte1991_3155d7",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-GA/AgGa-06Zha.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-MN6QWE4KAJ ORC-PNNUUHIY26",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AG-GA/AgGa-06Zha.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-MN6QWE4KAJ",
+    "side": "above",
+    "T_invariant_K": 885.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.22,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "fcc + L <-> hcp",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "FCC_A1",
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-MN6QWE4KAJ",
+    "side": "below",
+    "T_invariant_K": 885.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.22,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "fcc + L <-> hcp",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "FCC_A1",
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3"
+    ]
+   },
+   {
+    "source_observation": "ORC-PNNUUHIY26",
+    "side": "above",
+    "T_invariant_K": 675.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.227,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "hcp <-> fcc + Ag2Ga",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG2GA_C22"
+    ]
+   },
+   {
+    "source_observation": "ORC-PNNUUHIY26",
+    "side": "below",
+    "T_invariant_K": 675.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.227,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "hcp <-> fcc + Ag2Ga",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "HCP_A3"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "AG2GA_C22"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0022-5088(91)90272-6",
+   "10.1016/j.calphad.2006.02.004"
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(91)90272-6",
+   "doi:10.1016/j.calphad.2006.02.004"
+  ]
+ }
+}

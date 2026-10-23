@@ -1,0 +1,586 @@
+{
+ "components": [
+  "SI",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "LIQUID",
+  "SI2SR_CC",
+  "SI3SR5_D8L",
+  "SISR2_C37",
+  "SISR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1028.15,
+   1008.15,
+   1393.15,
+   1373.15,
+   1363.15,
+   1343.15,
+   1338.15,
+   1318.15,
+   1328.15,
+   1308.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.97
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.96
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.98
+    ]
+   ]
+  ],
+  [
+   [
+    "SISR2_C37",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.96
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.98
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.56
+    ]
+   ]
+  ],
+  [
+   [
+    "SI3SR5_D8L",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SISR_B33",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.56
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.72
+    ]
+   ],
+   [
+    "SI3SR5_D8L",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "SISR2_C37",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.38
+    ]
+   ]
+  ],
+  [
+   [
+    "SISR_B33",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2SR_CC",
+    [
+     "SR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.38
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2SR_CC",
+    [
+     "SR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ]
+ ],
+ "reference": "Palenzona 2004, doi:10.1016/j.jallcom.2003.11.003",
+ "bibtex": "palenzona2004_2787f3",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SI-SR/SiSr-09Gar-ass.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7H46MVIZVT ORC-F5RQP4ZDY4 ORC-IUOT4RLMY3 ORC-JNRIYDPU56 ORC-ZVGDVT3PJP",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/SI-SR/SiSr-09Gar-ass.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-IUOT4RLMY3",
+    "side": "above",
+    "T_invariant_K": 1018.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.97,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Sr2Si + (βSr)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SISR2_C37",
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-IUOT4RLMY3",
+    "side": "below",
+    "T_invariant_K": 1018.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.97,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Sr2Si + (βSr)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SISR2_C37",
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-JNRIYDPU56",
+    "side": "above",
+    "T_invariant_K": 1383.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.55,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Sr5Si3 + SrSi",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SI3SR5_D8L",
+     "SISR_B33"
+    ]
+   },
+   {
+    "source_observation": "ORC-JNRIYDPU56",
+    "side": "below",
+    "T_invariant_K": 1383.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.55,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Sr5Si3 + SrSi",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SI3SR5_D8L",
+     "SISR_B33"
+    ]
+   },
+   {
+    "source_observation": "ORC-F5RQP4ZDY4",
+    "side": "above",
+    "T_invariant_K": 1353.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Sr5Si3 -> Sr2Si",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "SI3SR5_D8L"
+    ],
+    "phases_below": [
+     "SISR2_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-F5RQP4ZDY4",
+    "side": "below",
+    "T_invariant_K": 1353.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Sr5Si3 -> Sr2Si",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "SI3SR5_D8L"
+    ],
+    "phases_below": [
+     "SISR2_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-7H46MVIZVT",
+    "side": "above",
+    "T_invariant_K": 1328.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.37,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> SrSi + SrSi2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SISR_B33",
+     "SI2SR_CC"
+    ]
+   },
+   {
+    "source_observation": "ORC-7H46MVIZVT",
+    "side": "below",
+    "T_invariant_K": 1328.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.37,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> SrSi + SrSi2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SISR_B33",
+     "SI2SR_CC"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZVGDVT3PJP",
+    "side": "above",
+    "T_invariant_K": 1318.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Si + SrSi2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "DIAMOND_A4",
+     "SI2SR_CC"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZVGDVT3PJP",
+    "side": "below",
+    "T_invariant_K": 1318.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Si + SrSi2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "DIAMOND_A4",
+     "SI2SR_CC"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.07.001",
+   "10.1016/j.calphad.2011.09.007",
+   "10.1016/j.jallcom.2003.11.003"
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2003.11.003",
+   "doi:10.1016/j.calphad.2009.07.001",
+   "doi:10.1016/j.calphad.2011.09.007"
+  ]
+ }
+}

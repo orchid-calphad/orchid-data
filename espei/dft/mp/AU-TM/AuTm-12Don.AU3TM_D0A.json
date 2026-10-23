@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "AU3TM_D0A"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "CU2TE_EPSILON",
@@ -54,7 +55,7 @@
      "TE"
     ],
     [
-     0.0
+     null
     ]
    ],
    [
@@ -63,7 +64,7 @@
      "TE"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -83,7 +84,7 @@
      "TE"
     ],
     [
-     0.41
+     null
     ]
    ],
    [
@@ -92,7 +93,7 @@
      "TE"
     ],
     [
-     0.41
+     null
     ]
    ]
   ],
@@ -112,7 +113,7 @@
      "TE"
     ],
     [
-     0.42
+     null
     ]
    ],
    [
@@ -121,7 +122,7 @@
      "TE"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -141,7 +142,7 @@
      "TE"
     ],
     [
-     1.0
+     null
     ]
    ],
    [
@@ -150,7 +151,7 @@
      "TE"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -161,7 +162,7 @@
      "TE"
     ],
     [
-     0.345
+     null
     ]
    ],
    [
@@ -170,7 +171,7 @@
      "TE"
     ],
     [
-     0.345
+     null
     ]
    ]
   ],
@@ -181,7 +182,7 @@
      "TE"
     ],
     [
-     0.354
+     null
     ]
    ],
    [
@@ -190,7 +191,7 @@
      "TE"
     ],
     [
-     0.345
+     null
     ]
    ],
    [
@@ -199,7 +200,16 @@
      "TE"
     ],
     [
-     0.357
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.352
     ]
    ]
   ],
@@ -210,7 +220,7 @@
      "TE"
     ],
     [
-     0.357
+     null
     ]
    ],
    [
@@ -219,7 +229,7 @@
      "TE"
     ],
     [
-     0.357
+     null
     ]
    ]
   ],
@@ -230,7 +240,7 @@
      "TE"
     ],
     [
-     0.345
+     null
     ]
    ],
    [
@@ -239,7 +249,7 @@
      "TE"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -248,7 +258,16 @@
      "TE"
     ],
     [
-     0.357
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.3451111111
     ]
    ]
   ],
@@ -259,7 +278,7 @@
      "TE"
     ],
     [
-     0.357
+     null
     ]
    ],
    [
@@ -268,7 +287,7 @@
      "TE"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -277,7 +296,16 @@
      "TE"
     ],
     [
-     0.42857142857142855
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.372968254
     ]
    ]
   ],
@@ -288,7 +316,7 @@
      "TE"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -306,7 +334,7 @@
      "TE"
     ],
     [
-     0.37
+     null
     ]
    ]
   ],
@@ -317,7 +345,7 @@
      "TE"
     ],
     [
-     0.37
+     null
     ]
    ],
    [
@@ -335,7 +363,7 @@
      "TE"
     ],
     [
-     0.42857142857142855
+     null
     ]
    ]
   ]
@@ -479,5 +507,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 25,
+  "hyperplanes_added": 3,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

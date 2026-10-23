@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -63,7 +64,7 @@
      "TI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -107,17 +108,31 @@
    {
     "id": "ORC-RGWNUMZUNO",
     "paper": "doi:10.1361/105497198770341923",
-    "measured_in": "unresolved:source:doi:10-1361-105497198770341923#57hel"
+    "measured_in": "unresolved:source:doi:10-1361-105497198770341923#57hel",
+    "also_reported_as": [
+     {
+      "id": "ORC-SHH66VZBDX",
+      "paper": "doi:10.1007/s11663-998-0113-z",
+      "dataset": "invariants/FE-TI/FeTi-98Jon.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
    "unresolved:source:doi:10-1361-105497198770341923#57hel",
-   "doi:10.1361/105497198770341923"
+   "doi:10.1361/105497198770341923",
+   "doi:10.1007/s11663-998-0113-z",
+   "doi:10.1098/rsta.1957.0004",
+   "doi:10.1007/bf02868286"
   ],
   "dois": [
+   "10.1007/bf02868286",
+   "10.1007/s11663-998-0113-z",
+   "10.1098/rsta.1957.0004",
    "10.1361/105497198770341923"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeTi-98Dum/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-98Dum/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -132,5 +147,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "LU"
+  "LU",
+  "VA"
  ],
  "phases": [
   "LUB4_D1E"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "COSN_B35"

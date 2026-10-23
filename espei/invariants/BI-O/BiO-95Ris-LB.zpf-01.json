@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "BI2O3_C1",
@@ -52,18 +53,28 @@
    {
     "id": "ORC-7OYXK6X5FM",
     "paper": "doi:10.1007/bf02667306",
-    "measured_in": "doi:10.1002/zaac.19643280106"
+    "measured_in": "doi:10.1002/zaac.19643280106",
+    "also_reported_as": [
+     {
+      "id": "ORC-26UXG4RH2M",
+      "paper": "doi:10.1007/bf02667306",
+      "measured_in": "unresolved:source:doi:10-1007-bf02667306#79har",
+      "dataset": "invariants/BI-O/BiO-95Ris-LB.zpf-10.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1002/zaac.19643280106",
-   "doi:10.1007/bf02667306"
+   "doi:10.1007/bf02667306",
+   "unresolved:source:doi:10-1007-bf02667306#79har"
   ],
   "dois": [
    "10.1002/zaac.19643280106",
    "10.1007/bf02667306"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

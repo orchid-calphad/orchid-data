@@ -1,7 +1,8 @@
 {
  "components": [
   "S",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "SNS2_C6"

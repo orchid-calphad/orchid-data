@@ -76,7 +76,7 @@
      "PR"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -85,7 +85,16 @@
      "PR"
     ],
     [
-     0.215
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.190736367
     ]
    ]
   ],
@@ -96,7 +105,7 @@
      "PR"
     ],
     [
-     0.215
+     null
     ]
    ],
    [
@@ -105,7 +114,16 @@
      "PR"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.2733752849
     ]
    ]
   ],
@@ -116,7 +134,7 @@
      "PR"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -125,7 +143,16 @@
      "PR"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.4161152339
     ]
    ]
   ],
@@ -136,7 +163,7 @@
      "PR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -167,7 +194,7 @@
      "PR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -247,7 +274,7 @@
      "PR"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -256,7 +283,16 @@
      "PR"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.4166160759
     ]
    ]
   ],
@@ -327,7 +363,7 @@
      "PR"
     ],
     [
-     0.167
+     null
     ]
    ]
   ],
@@ -338,7 +374,7 @@
      "PR"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -441,6 +477,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 23(3), 279 (2002) doi:10.1361/105497102770331839; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 60",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-PR-p60; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "AG-PR-p60",

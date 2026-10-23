@@ -1,0 +1,211 @@
+{
+ "components": [
+  "SN",
+  "TE"
+ ],
+ "phases": [
+  "BCT_A5",
+  "DIAMOND_A4",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   463.578273,
+   548.078273,
+   743.078273,
+   1028.578273,
+   819.078273,
+   691.078273
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCT_A5",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.2498431058
+    ]
+   ]
+  ],
+  [
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.7533067575
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.2743656892
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.8073565332
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.6261896923
+    ]
+   ]
+  ],
+  [
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.9469851205
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.C. Sharma and Y.A. Chang, Bull. Alloy Phase Diagrams, 7(1), 72-80 (1986) doi:10.1007/bf02874985; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 817",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SN-TE-p817; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to SnTe-10Liu.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "SN-TE-p817",
+  "target_tdb": "SnTe-10Liu.tdb",
+  "record_ids": [
+   "aspa-793b8b930b0f5af6",
+   "aspa-c4f986375bdbaa96",
+   "aspa-fed34263807610ea",
+   "aspa-f85c74875c4c3e17",
+   "aspa-df66f80f4ac7bbe8",
+   "aspa-00dcabf8391e87f5"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "medium",
+   "high",
+   "medium",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/SN-TE-p817.json"
+ }
+}

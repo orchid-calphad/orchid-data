@@ -1,7 +1,8 @@
 {
  "components": [
   "MO",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "MO3SI_A15"

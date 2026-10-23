@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "GA2MG",

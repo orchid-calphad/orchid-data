@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "NI5U_C15B"

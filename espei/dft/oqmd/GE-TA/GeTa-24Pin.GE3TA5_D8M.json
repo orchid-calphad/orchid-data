@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "GE3TA5_D8M"

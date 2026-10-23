@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "GAPR_B33"

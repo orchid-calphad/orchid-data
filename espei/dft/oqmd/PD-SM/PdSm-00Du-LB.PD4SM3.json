@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "PD4SM3"

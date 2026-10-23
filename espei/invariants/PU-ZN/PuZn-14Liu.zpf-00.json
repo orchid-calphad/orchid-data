@@ -1,6 +1,7 @@
 {
  "components": [
   "PU",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -36,7 +37,7 @@
      "ZN"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -65,7 +66,7 @@
      "ZN"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -94,7 +95,7 @@
      "ZN"
     ],
     [
-     0.905
+     null
     ]
    ],
    [
@@ -123,11 +124,25 @@
   "observations": [
    {
     "id": "ORC-Z23EHJSSPR",
-    "paper": "doi:10.1016/j.jnucmat.2014.07.001"
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-CMXDCYFMKJ",
+      "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+      "dataset": "invariants/PU-ZN/PuZn-14Liu.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-W3WFYIBFRP",
-    "paper": "doi:10.1016/j.jnucmat.2014.07.001"
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-JIQKT7E5BR",
+      "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+      "dataset": "invariants/PU-ZN/PuZn-14Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-KGEGVBE4OY",
@@ -142,7 +157,8 @@
    "10.1016/0022-3115(64)90131-x",
    "10.1016/j.jnucmat.2014.07.001"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PuZn-14Liu/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/PuZn-14Liu/zpf-00.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -163,5 +179,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 3,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

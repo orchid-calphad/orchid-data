@@ -1,7 +1,8 @@
 {
  "components": [
   "SR",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "SRTE_B1"

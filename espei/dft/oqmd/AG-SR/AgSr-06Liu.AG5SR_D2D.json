@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "AG5SR_D2D"

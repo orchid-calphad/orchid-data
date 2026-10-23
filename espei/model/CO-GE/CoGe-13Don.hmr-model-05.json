@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "COGE2",

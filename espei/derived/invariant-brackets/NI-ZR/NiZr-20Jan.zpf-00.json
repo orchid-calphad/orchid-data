@@ -1,0 +1,261 @@
+{
+ "components": [
+  "NI",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID",
+  "NI10ZR7",
+  "NI21ZR8",
+  "NI3ZR_D019",
+  "NI7ZR2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1368.0,
+   1328.0,
+   1213.0,
+   1173.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.37
+    ]
+   ]
+  ],
+  [
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.37
+    ]
+   ]
+  ],
+  [
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3ZR_D019",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
+ "bibtex": "jana2020_bdc191",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-ZR/NiZr-20Jan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2CD6XBUHWF ORC-HJEDEL7B3G",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/NI-ZR/NiZr-20Jan.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-2CD6XBUHWF",
+    "side": "above",
+    "T_invariant_K": 1348.0,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.36,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ⇌ Ni21Zr8 + Ni10Zr7",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI21ZR8",
+     "NI10ZR7"
+    ]
+   },
+   {
+    "source_observation": "ORC-2CD6XBUHWF",
+    "side": "below",
+    "T_invariant_K": 1348.0,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.36,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ⇌ Ni21Zr8 + Ni10Zr7",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI21ZR8",
+     "NI10ZR7"
+    ]
+   },
+   {
+    "source_observation": "ORC-HJEDEL7B3G",
+    "side": "above",
+    "T_invariant_K": 1193.0,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ni7Zr2 + Ni21Zr8 ⇌ Ni3Zr",
+    "reaction_type": null,
+    "phases_above": [
+     "NI7ZR2",
+     "NI21ZR8"
+    ],
+    "phases_below": [
+     "NI3ZR_D019"
+    ]
+   },
+   {
+    "source_observation": "ORC-HJEDEL7B3G",
+    "side": "below",
+    "T_invariant_K": 1193.0,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ni7Zr2 + Ni21Zr8 ⇌ Ni3Zr",
+    "reaction_type": null,
+    "phases_above": [
+     "NI7ZR2",
+     "NI21ZR8"
+    ],
+    "phases_below": [
+     "NI3ZR_D019"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0022-5088(79)90241-8",
+   "10.1016/j.intermet.2019.106640"
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2019.106640",
+   "doi:10.1016/0022-5088(79)90241-8"
+  ]
+ }
+}

@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "BCC_A2"
@@ -9,7 +10,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1023.15,
    1023.15,
    1023.15,
    1023.15,
@@ -133,26 +133,6 @@
      0.3552
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "V"
-    ],
-    [
-     0.4188
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "V"
-    ],
-    [
-     0.3889
-    ]
-   ]
   ]
  ],
  "reference": "Gao 2018, doi:10.1016/j.jallcom.2018.07.254",
@@ -162,7 +142,7 @@
   "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6D45JY4PGG ORC-2FYRV5SGLU ORC-6ZE4J4ICN2 ORC-TYW5XCMKP5 ORC-AVAY6BBQRB ORC-XBR4KSI53X ORC-YUHBPV6Y4J ORC-UAC6H4TAJJ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6D45JY4PGG ORC-2FYRV5SGLU ORC-6ZE4J4ICN2 ORC-TYW5XCMKP5 ORC-AVAY6BBQRB ORC-XBR4KSI53X ORC-YUHBPV6Y4J",
  "bibtex": "gao2018_ce5508",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -172,7 +152,15 @@
     "id": "ORC-6D45JY4PGG",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.07.254",
-    "measured_in": "doi:10.1016/j.jallcom.2018.07.254"
+    "measured_in": "doi:10.1016/j.jallcom.2018.07.254",
+    "also_reported_as": [
+     {
+      "id": "ORC-UAC6H4TAJJ",
+      "paper": "doi:10.1016/j.jallcom.2018.07.254",
+      "measured_in": "doi:10.1016/j.jallcom.2018.07.254",
+      "dataset": "experimental/NB-V/NbV-18Gao.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-2FYRV5SGLU",
@@ -209,12 +197,6 @@
     "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2018.07.254",
     "measured_in": "doi:10.1016/j.jallcom.2018.07.254"
-   },
-   {
-    "id": "ORC-UAC6H4TAJJ",
-    "reader_agreement": "single_reader_text_layer",
-    "paper": "doi:10.1016/j.jallcom.2018.07.254",
-    "measured_in": "doi:10.1016/j.jallcom.2018.07.254"
    }
   ],
   "papers": [
@@ -223,15 +205,13 @@
   "dois": [
    "10.1016/j.jallcom.2018.07.254"
   ],
-  "source_dataset": "db-v2.1/general/espei/NbV-18Gao/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/NbV-18Gao/zpf-00.json",
+  "e3_merged": 1,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

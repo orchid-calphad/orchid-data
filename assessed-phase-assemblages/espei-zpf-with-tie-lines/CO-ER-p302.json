@@ -80,7 +80,7 @@
      "ER"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -89,7 +89,16 @@
      "ER"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ER"
+    ],
+    [
+     0.1638945262
     ]
    ]
   ],
@@ -100,7 +109,7 @@
      "ER"
     ],
     [
-     0.222
+     null
     ]
    ],
    [
@@ -109,7 +118,16 @@
      "ER"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ER"
+    ],
+    [
+     0.2364726363
     ]
    ]
   ],
@@ -120,7 +138,7 @@
      "ER"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -129,7 +147,16 @@
      "ER"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ER"
+    ],
+    [
+     0.2915318922
     ]
    ]
   ],
@@ -198,7 +225,7 @@
      "ER"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -218,7 +245,7 @@
      "ER"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -316,7 +343,7 @@
      "ER"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -347,7 +374,7 @@
      "ER"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -356,7 +383,16 @@
      "ER"
     ],
     [
-     0.167
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ER"
+    ],
+    [
+     0.136865437
     ]
    ]
   ],
@@ -367,7 +403,7 @@
      "ER"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -376,7 +412,16 @@
      "ER"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ER"
+    ],
+    [
+     0.194927925
     ]
    ]
   ],
@@ -474,7 +519,7 @@
      "ER"
     ],
     [
-     0.222
+     null
     ]
    ]
   ],
@@ -539,6 +584,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 17(4), 368 (1996) doi:10.1007/bf02665568; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 302",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-ER-p302; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CO-ER-p302",

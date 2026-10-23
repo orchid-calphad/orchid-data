@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
   "BETA_RHOMBO_B",

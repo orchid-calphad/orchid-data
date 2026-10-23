@@ -82,7 +82,7 @@
      "TB"
     ],
     [
-     0.125
+     null
     ]
    ]
   ],
@@ -93,7 +93,7 @@
      "TB"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -133,7 +133,7 @@
      "TB"
     ],
     [
-     0.323
+     null
     ]
    ]
   ],
@@ -144,7 +144,7 @@
      "TB"
     ],
     [
-     0.323
+     null
     ]
    ],
    [
@@ -153,7 +153,16 @@
      "TB"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.3612420038
     ]
    ]
   ],
@@ -164,7 +173,7 @@
      "TB"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -173,7 +182,16 @@
      "TB"
     ],
     [
-     0.429
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.4147429689
     ]
    ]
   ],
@@ -184,7 +202,7 @@
      "TB"
     ],
     [
-     0.429
+     null
     ]
    ],
    [
@@ -262,7 +280,7 @@
      "TB"
     ],
     [
-     0.714
+     null
     ]
    ],
    [
@@ -302,7 +320,7 @@
      "TB"
     ],
     [
-     0.714
+     null
     ]
    ],
    [
@@ -382,7 +400,7 @@
      "TB"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -411,7 +429,7 @@
      "TB"
     ],
     [
-     0.6
+     null
     ]
    ]
   ],
@@ -442,7 +460,7 @@
      "TB"
     ],
     [
-     0.323
+     null
     ]
    ],
    [
@@ -451,7 +469,16 @@
      "TB"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.3617420129
     ]
    ]
   ],
@@ -462,7 +489,7 @@
      "TB"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -471,7 +498,16 @@
      "TB"
     ],
     [
-     0.429
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.4147429689
     ]
    ]
   ],
@@ -522,7 +558,7 @@
      "TB"
     ],
     [
-     0.323
+     null
     ]
    ],
    [
@@ -551,7 +587,7 @@
      "TB"
     ],
     [
-     0.429
+     null
     ]
    ]
   ],
@@ -618,6 +654,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 15(1), 130-131 (1994) doi:10.1007/bf02667701; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 731",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram PD-TB-p731; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "PD-TB-p731",

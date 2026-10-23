@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,32 +12,18 @@
   "T": 1141.0,
   "X_MG": [
    0.7032,
-   0.7032,
-   0.6667,
    0.6667,
    0.634,
-   0.634,
-   0.6122,
    0.6122,
    0.5947,
-   0.5947,
-   0.5689,
    0.5689,
    0.5452,
-   0.5452,
-   0.5218,
    0.5218,
    0.5019,
-   0.5019,
-   0.484,
    0.484,
    0.4655,
-   0.4655,
-   0.4478,
    0.4478,
    0.4355,
-   0.4355,
-   0.4223,
    0.4223
   ]
  },
@@ -45,32 +32,18 @@
   [
    [
     -10215.0,
-    -10215.0,
-    -11153.0,
     -11153.0,
     -11940.0,
-    -11940.0,
-    -12420.0,
     -12420.0,
     -12752.0,
-    -12752.0,
-    -13194.0,
     -13194.0,
     -13451.0,
-    -13451.0,
-    -13547.0,
     -13547.0,
     -13338.0,
-    -13338.0,
-    -13219.0,
     -13219.0,
     -13173.0,
-    -13173.0,
-    -13174.0,
     -13174.0,
     -12989.0,
-    -12989.0,
-    -12901.0,
     -12901.0
    ]
   ]
@@ -82,7 +55,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LYUSMKZDEB.deec2c ORC-LYUSMKZDEB.6a9a9c ORC-4W6T3ICZIG.9d1ab9 ORC-4W6T3ICZIG.0f9dfa ORC-5BZY5GRORQ.219132 ORC-5BZY5GRORQ.42abb7 ORC-U2PCO2SDRR.31e67a ORC-U2PCO2SDRR.6a8a02 ORC-6HHKAQX3T5.21bf41 ORC-6HHKAQX3T5.1e52a8 ORC-TUCLD4GVW5.40025e ORC-TUCLD4GVW5.786e95 ORC-GB5GW42HLU.1b3248 ORC-GB5GW42HLU.6c4ac1 ORC-YDXV67V7T2.2b0fc9 ORC-YDXV67V7T2.45f56e ORC-TN3WLU6ZLT.65a42b ORC-TN3WLU6ZLT.2bfba9 ORC-CEU7U6V4GF.c3820b ORC-CEU7U6V4GF.dfe190 ORC-4DGGWXUTZP.5e6ffb ORC-4DGGWXUTZP.b574f0 ORC-OIYJ2ORV6Q.bac776 ORC-OIYJ2ORV6Q.5e0e45 ORC-RNGVKEETAU.1423dd ORC-RNGVKEETAU.d37fcd ORC-YC6IQIAXZC.6a1582 ORC-YC6IQIAXZC.7dc1ad",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LYUSMKZDEB.deec2c ORC-4W6T3ICZIG.9d1ab9 ORC-5BZY5GRORQ.219132 ORC-U2PCO2SDRR.31e67a ORC-6HHKAQX3T5.21bf41 ORC-TUCLD4GVW5.40025e ORC-GB5GW42HLU.1b3248 ORC-YDXV67V7T2.2b0fc9 ORC-TN3WLU6ZLT.65a42b ORC-CEU7U6V4GF.c3820b ORC-4DGGWXUTZP.5e6ffb ORC-OIYJ2ORV6Q.bac776 ORC-RNGVKEETAU.1423dd ORC-YC6IQIAXZC.6a1582",
  "reference_states": {
   "AG": {
    "phase": "LIQUID"
@@ -104,15 +77,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-LYUSMKZDEB.6a9a9c",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-LYUSMKZDEB.6a9a9c"
     ]
    },
    {
@@ -122,15 +89,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-4W6T3ICZIG.0f9dfa",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-4W6T3ICZIG.0f9dfa"
     ]
    },
    {
@@ -140,15 +101,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-5BZY5GRORQ.42abb7",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-5BZY5GRORQ.42abb7"
     ]
    },
    {
@@ -158,15 +113,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-U2PCO2SDRR.6a8a02",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-U2PCO2SDRR.6a8a02"
     ]
    },
    {
@@ -176,15 +125,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-6HHKAQX3T5.1e52a8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-6HHKAQX3T5.1e52a8"
     ]
    },
    {
@@ -194,15 +137,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-TUCLD4GVW5.786e95",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-TUCLD4GVW5.786e95"
     ]
    },
    {
@@ -212,15 +149,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-GB5GW42HLU.6c4ac1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-GB5GW42HLU.6c4ac1"
     ]
    },
    {
@@ -230,15 +161,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-YDXV67V7T2.45f56e",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-YDXV67V7T2.45f56e"
     ]
    },
    {
@@ -248,15 +173,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-TN3WLU6ZLT.2bfba9",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-TN3WLU6ZLT.2bfba9"
     ]
    },
    {
@@ -266,15 +185,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-CEU7U6V4GF.dfe190",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-CEU7U6V4GF.dfe190"
     ]
    },
    {
@@ -284,15 +197,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-4DGGWXUTZP.b574f0",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-4DGGWXUTZP.b574f0"
     ]
    },
    {
@@ -302,15 +209,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-OIYJ2ORV6Q.5e0e45",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-OIYJ2ORV6Q.5e0e45"
     ]
    },
    {
@@ -320,15 +221,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-RNGVKEETAU.d37fcd",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-RNGVKEETAU.d37fcd"
     ]
    },
    {
@@ -338,15 +233,9 @@
     "measured_in": "doi:10.1016/j.jallcom.2021.161937",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-YC6IQIAXZC.7dc1ad",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2021.161937",
-    "measured_in": "doi:10.1016/j.jallcom.2021.161937",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-YC6IQIAXZC.7dc1ad"
     ]
    }
   ],
@@ -356,7 +245,8 @@
   "dois": [
    "10.1016/j.jallcom.2021.161937"
   ],
-  "source_dataset": "db-v2.1/general/espei/AgMg-21Deb/hmr-01.json"
+  "source_dataset": "db-v2.1/general/espei/AgMg-21Deb/hmr-01.json",
+  "values_dropped": 14
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -379,18 +269,6 @@
     "weight_used": 1.123596
    },
    {
-    "sigma": 381.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.381,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.312336,
-    "weight_used": 1.123596
-   },
-   {
     "sigma": 389.0,
     "sigma_basis": "printed",
     "printed": {
@@ -400,30 +278,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.285347,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 389.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.389,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.285347,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 397.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.397,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.259446,
     "weight_used": 1.123596
    },
    {
@@ -451,18 +305,6 @@
     "weight_used": 1.123596
    },
    {
-    "sigma": 404.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.404,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.237624,
-    "weight_used": 1.123596
-   },
-   {
     "sigma": 411.0,
     "sigma_basis": "printed",
     "printed": {
@@ -472,30 +314,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.216545,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 411.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.411,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.216545,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 422.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.422,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.184834,
     "weight_used": 1.123596
    },
    {
@@ -523,18 +341,6 @@
     "weight_used": 1.123596
    },
    {
-    "sigma": 436.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.436,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.146789,
-    "weight_used": 1.123596
-   },
-   {
     "sigma": 454.0,
     "sigma_basis": "printed",
     "printed": {
@@ -544,30 +350,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.101322,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 454.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.454,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.101322,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 477.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.477,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.048218,
     "weight_used": 1.123596
    },
    {
@@ -595,30 +377,6 @@
     "weight_used": 1.123596
    },
    {
-    "sigma": 497.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.497,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 1.006036,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 516.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.516,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.968992,
-    "weight_used": 1.123596
-   },
-   {
     "sigma": 516.0,
     "sigma_basis": "printed",
     "printed": {
@@ -643,18 +401,6 @@
     "weight_used": 1.123596
    },
    {
-    "sigma": 534.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.534,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.93633,
-    "weight_used": 1.123596
-   },
-   {
     "sigma": 551.0,
     "sigma_basis": "printed",
     "printed": {
@@ -664,30 +410,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.907441,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 551.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.551,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.907441,
-    "weight_used": 1.123596
-   },
-   {
-    "sigma": 568.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.568,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.880282,
     "weight_used": 1.123596
    },
    {
@@ -703,5 +425,13 @@
     "weight_used": 1.123596
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.123596,
+  "changes_weight": true,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

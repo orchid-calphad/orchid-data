@@ -1,6 +1,7 @@
 {
  "components": [
   "FE",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -183,7 +184,14 @@
    {
     "id": "ORC-IIJ7WETS47",
     "paper": "doi:10.1361/105497101770332965",
-    "measured_in": "doi:10.1016/0022-5088(81)90035-7"
+    "measured_in": "doi:10.1016/0022-5088(81)90035-7",
+    "also_reported_as": [
+     {
+      "id": "ORC-AK5TSUWSHU",
+      "paper": "doi:10.1016/0925-8388(94)06036-3",
+      "dataset": "invariants/FE-ZR/FeZr-95Ser.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-5XFUY5JEYT",
@@ -193,13 +201,16 @@
   ],
   "papers": [
    "doi:10.1016/0022-5088(81)90035-7",
-   "doi:10.1361/105497101770332965"
+   "doi:10.1361/105497101770332965",
+   "doi:10.1016/0925-8388(94)06036-3"
   ],
   "dois": [
    "10.1016/0022-5088(81)90035-7",
+   "10.1016/0925-8388(94)06036-3",
    "10.1361/105497101770332965"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeZr-01Jia/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeZr-01Jia/zpf-03.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

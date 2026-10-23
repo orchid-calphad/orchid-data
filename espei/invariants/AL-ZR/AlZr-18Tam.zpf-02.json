@@ -1,22 +1,19 @@
 {
  "components": [
   "AL",
+  "VA",
   "ZR"
  ],
  "phases": [
   "AL2ZR_C14",
   "AL3ZR2",
-  "AL3ZR_D023",
-  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1845,
-   1897,
-   1852,
-   929
+   1897
   ]
  },
  "output": "ZPF",
@@ -37,7 +34,7 @@
      "ZR"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -46,7 +43,7 @@
      "ZR"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -66,65 +63,7 @@
      "ZR"
     ],
     [
-     0.3333333333333333
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "AL2ZR_C14",
-    [
-     "ZR"
-    ],
-    [
-     0.3333333333333333
-    ]
-   ],
-   [
-    "AL3ZR_D023",
-    [
-     "ZR"
-    ],
-    [
-     0.25
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.007000000000000006
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
      null
-    ]
-   ],
-   [
-    "AL3ZR_D023",
-    [
-     "ZR"
-    ],
-    [
-     0.25
     ]
    ]
   ]
@@ -136,7 +75,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZRY4MKU2VM ORC-U5HOD6WFWQ ORC-42ZYVM6HZY ORC-DI6DMQCU4P",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZRY4MKU2VM ORC-U5HOD6WFWQ",
  "bibtex": "smallman2014_37c049",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -145,32 +84,36 @@
    {
     "id": "ORC-ZRY4MKU2VM",
     "paper": "doi:10.1007/s10973-017-6635-3",
-    "measured_in": "ref:b7f1321d350e5fe7"
+    "measured_in": "ref:b7f1321d350e5fe7",
+    "also_reported_as": [
+     {
+      "id": "ORC-RGA3XNHK5U",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "doi:10.1007/s10973-013-3113-4",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-U5HOD6WFWQ",
-    "paper": "doi:10.1007/s10973-017-6635-3",
-    "measured_in": "ref:b7f1321d350e5fe7"
-   },
-   {
-    "id": "ORC-42ZYVM6HZY",
-    "paper": "doi:10.1007/s10973-017-6635-3",
-    "measured_in": "ref:b7f1321d350e5fe7"
-   },
-   {
-    "id": "ORC-DI6DMQCU4P",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "ref:b7f1321d350e5fe7"
    }
   ],
   "papers": [
    "ref:b7f1321d350e5fe7",
-   "doi:10.1007/s10973-017-6635-3"
+   "doi:10.1007/s10973-017-6635-3",
+   "doi:10.1007/s10973-013-3113-4",
+   "doi:10.1007/s11669-020-00827-z"
   ],
   "dois": [
-   "10.1007/s10973-017-6635-3"
+   "10.1007/s10973-013-3113-4",
+   "10.1007/s10973-017-6635-3",
+   "10.1007/s11669-020-00827-z"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlZr-18Tam/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-18Tam/zpf-02.json",
+  "e3_merged": 1,
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -182,16 +125,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 3,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

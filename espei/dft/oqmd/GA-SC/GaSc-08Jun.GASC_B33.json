@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "GASC_B33"

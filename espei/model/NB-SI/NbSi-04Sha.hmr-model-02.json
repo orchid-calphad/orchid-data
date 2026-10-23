@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "LIQUID",

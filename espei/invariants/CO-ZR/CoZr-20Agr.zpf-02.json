@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -16,7 +17,6 @@
   "P": 101325,
   "T": [
    1503.0,
-   1543.0,
    1723.0,
    1583.0,
    1333.0,
@@ -50,45 +50,7 @@
      "ZR"
     ],
     [
-     0.153846
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
      null
-    ]
-   ],
-   [
-    "CO23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     0.206897
-    ]
-   ],
-   [
-    "CO11ZR2",
-    [
-     "ZR"
-    ],
-    [
-     0.153846
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.18037150000000002
     ]
    ]
   ],
@@ -117,7 +79,7 @@
      "ZR"
     ],
     [
-     0.206897
+     null
     ]
    ],
    [
@@ -155,7 +117,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -175,7 +137,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -184,7 +146,7 @@
      "ZR"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ],
@@ -204,7 +166,7 @@
      "ZR"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -225,7 +187,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MVXRVW3OJZ ORC-3RXRP4NWPY ORC-COE3TSGA7W ORC-LOWIWXO2XO ORC-TX52L3Z7JN ORC-UZQ3ZI6ZUP",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MVXRVW3OJZ ORC-COE3TSGA7W ORC-LOWIWXO2XO ORC-TX52L3Z7JN ORC-UZQ3ZI6ZUP",
  "bibtex": "agraval2020_7cb854",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -233,10 +195,6 @@
   "observations": [
    {
     "id": "ORC-MVXRVW3OJZ",
-    "paper": "doi:10.1007/s11669-020-00805-5"
-   },
-   {
-    "id": "ORC-3RXRP4NWPY",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
@@ -262,7 +220,8 @@
   "dois": [
    "10.1007/s11669-020-00805-5"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoZr-20Agr/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoZr-20Agr/zpf-02.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -286,12 +245,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 6,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

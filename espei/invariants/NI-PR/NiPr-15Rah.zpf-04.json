@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "DHCP",
@@ -19,12 +20,10 @@
   "P": 101325,
   "T": [
    1553,
-   1658.0,
    1433,
    1283,
    1183,
    953,
-   1003.0,
    783,
    808,
    763,
@@ -50,7 +49,7 @@
      "PR"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -70,26 +69,6 @@
      "PR"
     ],
     [
-     0.16666666666666666
-    ]
-   ],
-   [
-    "NI5PR_D2D",
-    [
-     "PR"
-    ],
-    [
-     0.16666666666666666
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "PR"
-    ],
-    [
      0.3
     ]
    ],
@@ -99,7 +78,7 @@
      "PR"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -108,7 +87,7 @@
      "PR"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ]
   ],
@@ -128,7 +107,7 @@
      "PR"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ],
    [
@@ -137,7 +116,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -157,7 +136,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -166,7 +145,7 @@
      "PR"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -186,7 +165,7 @@
      "PR"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -195,27 +174,7 @@
      "PR"
     ],
     [
-     0.5
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "PR"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "NIPR_B33",
-    [
-     "PR"
-    ],
-    [
-     0.5
+     null
     ]
    ]
   ],
@@ -235,7 +194,7 @@
      "PR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -244,7 +203,7 @@
      "PR"
     ],
     [
-     0.7
+     null
     ]
    ]
   ],
@@ -264,7 +223,7 @@
      "PR"
     ],
     [
-     0.7
+     null
     ]
    ]
   ],
@@ -284,7 +243,7 @@
      "PR"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -293,7 +252,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -313,7 +272,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -333,7 +292,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -355,7 +314,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OLFH2EMFJE ORC-CXPOXMC4VW ORC-23ORWZPNTA ORC-G7C4EOV6MU ORC-BPLRV26EJJ ORC-ESHU3PIWIU ORC-SGWG3WCRGT ORC-TY5QDXOJRD ORC-G3G626DGCH ORC-MQKM2H5F7C ORC-6PXYA567S7 ORC-XWZ36PEOO3",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OLFH2EMFJE ORC-23ORWZPNTA ORC-G7C4EOV6MU ORC-BPLRV26EJJ ORC-ESHU3PIWIU ORC-TY5QDXOJRD ORC-G3G626DGCH ORC-MQKM2H5F7C ORC-6PXYA567S7 ORC-XWZ36PEOO3",
  "bibtex": "pan1984_b4eb0c",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -363,11 +322,6 @@
   "observations": [
    {
     "id": "ORC-OLFH2EMFJE",
-    "paper": "doi:10.1016/j.jallcom.2014.09.116",
-    "measured_in": "ref:903449779d48dc61"
-   },
-   {
-    "id": "ORC-CXPOXMC4VW",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "ref:903449779d48dc61"
    },
@@ -393,11 +347,6 @@
     "caveats": [
      "plausibility_fail"
     ]
-   },
-   {
-    "id": "ORC-SGWG3WCRGT",
-    "paper": "doi:10.1016/j.jallcom.2014.09.116",
-    "measured_in": "ref:903449779d48dc61"
    },
    {
     "id": "ORC-TY5QDXOJRD",
@@ -441,7 +390,8 @@
   "dois": [
    "10.1016/j.jallcom.2014.09.116"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiPr-15Rah/zpf-04.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiPr-15Rah/zpf-04.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -485,16 +435,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 16,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

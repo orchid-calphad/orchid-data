@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
   "AGND_B2"

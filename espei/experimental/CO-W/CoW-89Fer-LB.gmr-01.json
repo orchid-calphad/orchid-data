@@ -1,6 +1,7 @@
 {
  "components": [
   "CO",
+  "VA",
   "W"
  ],
  "phases": [
@@ -12,10 +13,7 @@
   "T": 1350.0,
   "X_W": [
    0.03,
-   0.03,
    0.05,
-   0.05,
-   0.07,
    0.07
   ]
  },
@@ -24,10 +22,7 @@
   [
    [
     -941.0,
-    -941.0,
     -1280.0,
-    -1280.0,
-    -1498.0,
     -1498.0
    ]
   ]
@@ -39,7 +34,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZW4FB7HMVM.00a81f ORC-ZW4FB7HMVM.00a81f ORC-VHX6GMMSGM.10fb72 ORC-VHX6GMMSGM.10fb72 ORC-YOJB4D7DY3.a30c8d ORC-YOJB4D7DY3.a30c8d",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZW4FB7HMVM.00a81f ORC-VHX6GMMSGM.10fb72 ORC-YOJB4D7DY3.a30c8d",
  "reference_states": {
   "CO": {
    "phase": "FCC_A1"
@@ -60,14 +55,9 @@
     "paper": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-ZW4FB7HMVM.00a81f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-ZW4FB7HMVM.00a81f"
     ]
    },
    {
@@ -76,14 +66,9 @@
     "paper": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-VHX6GMMSGM.10fb72",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-VHX6GMMSGM.10fb72"
     ]
    },
    {
@@ -92,14 +77,9 @@
     "paper": "doi:10.1007/bf02651660",
     "caveats": [
      "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-YOJB4D7DY3.a30c8d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02651660",
-    "caveats": [
-     "energy_basis_unstated"
+    ],
+    "also_read_as": [
+     "ORC-YOJB4D7DY3.a30c8d"
     ]
    }
   ],
@@ -111,7 +91,8 @@
    "10.1007/bf02651660",
    "10.1016/0021-9614(76)90023-9"
   ],
-  "source_dataset": "db-v2.1/general/espei/CoW-89Fer-LB/gmr-01.json"
+  "source_dataset": "db-v2.1/general/espei/CoW-89Fer-LB/gmr-01.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -134,18 +115,6 @@
     "weight_used": 0.002967
    },
    {
-    "sigma": 238.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.238,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.004202,
-    "weight_used": 0.002967
-   },
-   {
     "sigma": 337.0,
     "sigma_basis": "printed",
     "printed": {
@@ -155,30 +124,6 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.002967,
-    "weight_used": 0.002967
-   },
-   {
-    "sigma": 337.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.337,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.002967,
-    "weight_used": 0.002967
-   },
-   {
-    "sigma": 435.0,
-    "sigma_basis": "printed",
-    "printed": {
-     "value": 0.435,
-     "unit": "kJ/mol (basis unstated)",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
-    },
-    "weight_per_value_equivalent": 0.002299,
     "weight_used": 0.002967
    },
    {

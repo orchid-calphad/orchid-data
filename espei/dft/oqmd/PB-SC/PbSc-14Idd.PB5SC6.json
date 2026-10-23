@@ -1,7 +1,8 @@
 {
  "components": [
   "PB",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "PB5SC6"

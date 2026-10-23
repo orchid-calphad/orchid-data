@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "CU3SE2"

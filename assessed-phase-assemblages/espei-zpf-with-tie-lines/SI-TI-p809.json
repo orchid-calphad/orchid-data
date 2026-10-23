@@ -56,7 +56,7 @@
      "TI"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -67,7 +67,7 @@
      "TI"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -76,7 +76,16 @@
      "TI"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.4161328808
     ]
    ]
   ],
@@ -87,7 +96,7 @@
      "TI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -96,7 +105,16 @@
      "TI"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.5273197885
     ]
    ]
   ],
@@ -107,7 +125,7 @@
      "TI"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -207,7 +225,7 @@
      "TI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -276,7 +294,7 @@
      "TI"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -347,7 +365,7 @@
      "TI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -367,7 +385,7 @@
      "TI"
     ],
     [
-     0.556
+     null
     ]
    ]
   ],
@@ -394,6 +412,11 @@
  ],
  "reference": "J.L. Murray, Phase Diagrams of Binary Titanium Alloys, J.L. Murray, ed., ASM International, Metals Park, OH, 289-294 (1987); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 809",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SI-TI-p809; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "SI-TI-p809",

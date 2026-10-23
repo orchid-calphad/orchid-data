@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "GA3TI_D022"

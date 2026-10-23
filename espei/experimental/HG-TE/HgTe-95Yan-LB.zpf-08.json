@@ -1,7 +1,8 @@
 {
  "components": [
   "HG",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -41,7 +42,14 @@
    {
     "id": "ORC-VHNCQGF5GA",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(95)00038-g"
+    "paper": "doi:10.1016/0364-5916(95)00038-g",
+    "also_reported_as": [
+     {
+      "id": "ORC-ZJGWCO5MLR",
+      "paper": "doi:10.1016/0364-5916(95)00038-g",
+      "dataset": "experimental/HG-TE/HgTe-95Yan-LB.zpf-09.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -50,7 +58,8 @@
   "dois": [
    "10.1016/0364-5916(95)00038-g"
   ],
-  "source_dataset": "db-v2.1/general/espei/HgTe-95Yan-LB/zpf-08.json"
+  "source_dataset": "db-v2.1/general/espei/HgTe-95Yan-LB/zpf-08.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

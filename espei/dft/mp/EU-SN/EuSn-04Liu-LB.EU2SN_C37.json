@@ -1,7 +1,8 @@
 {
  "components": [
   "EU",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "EU2SN_C37"

@@ -1,0 +1,452 @@
+{
+ "components": [
+  "CS",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "CS2TE3",
+  "CS2TE5",
+  "CS2TE_HT",
+  "CSTE4",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1103.0,
+   1083.0,
+   678.0,
+   658.0,
+   518.0,
+   498.0,
+   546.0,
+   526.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "CS2TE_HT",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "CS2TE3",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "CS2TE5",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.704286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.724286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CS2TE3",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.704286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.724286
+    ]
+   ]
+  ],
+  [
+   [
+    "CSTE4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ]
+ ],
+ "reference": "Thi 2015, doi:10.1016/j.calphad.2014.10.006",
+ "bibtex": "thi2015_f3ba91",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CS-TE/CsTe-15Pha.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7DDVUB7P2Q ORC-7JFIUPPMGK ORC-GRYTTBC6AU ORC-PGVAQDZDD2",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CS-TE/CsTe-15Pha.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-7DDVUB7P2Q",
+    "side": "above",
+    "T_invariant_K": 1093.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "β-Cs2Te -> L",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CS2TE_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-7DDVUB7P2Q",
+    "side": "below",
+    "T_invariant_K": 1093.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "β-Cs2Te -> L",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CS2TE_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-GRYTTBC6AU",
+    "side": "above",
+    "T_invariant_K": 668.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Cs2Te3 -> L",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CS2TE3"
+    ]
+   },
+   {
+    "source_observation": "ORC-GRYTTBC6AU",
+    "side": "below",
+    "T_invariant_K": 668.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Cs2Te3 -> L",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CS2TE3"
+    ]
+   },
+   {
+    "source_observation": "ORC-7JFIUPPMGK",
+    "side": "above",
+    "T_invariant_K": 508.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.714286,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Cs2Te5 -> L + Cs2Te3",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "CS2TE5"
+    ],
+    "phases_below": [
+     "LIQUID",
+     "CS2TE3"
+    ]
+   },
+   {
+    "source_observation": "ORC-7JFIUPPMGK",
+    "side": "below",
+    "T_invariant_K": 508.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.714286,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Cs2Te5 -> L + Cs2Te3",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "CS2TE5"
+    ],
+    "phases_below": [
+     "LIQUID",
+     "CS2TE3"
+    ]
+   },
+   {
+    "source_observation": "ORC-PGVAQDZDD2",
+    "side": "above",
+    "T_invariant_K": 536.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "CsTe4 -> Te + L",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "CSTE4"
+    ],
+    "phases_below": [
+     "HEXAGONAL_A8",
+     "LIQUID"
+    ]
+   },
+   {
+    "source_observation": "ORC-PGVAQDZDD2",
+    "side": "below",
+    "T_invariant_K": 536.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "CsTe4 -> Te + L",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "CSTE4"
+    ],
+    "phases_below": [
+     "HEXAGONAL_A8",
+     "LIQUID"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.10.006"
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.10.006"
+  ]
+ }
+}

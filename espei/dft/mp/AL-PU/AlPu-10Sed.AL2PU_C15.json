@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "PU"
+  "PU",
+  "VA"
  ],
  "phases": [
   "AL2PU_C15"

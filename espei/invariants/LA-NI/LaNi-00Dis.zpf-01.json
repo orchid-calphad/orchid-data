@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "FCC_A1",
@@ -55,7 +56,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ]
   ],
@@ -104,7 +105,7 @@
      "NI"
     ],
     [
-     0.8333333333333334
+     null
     ]
    ],
    [
@@ -113,7 +114,7 @@
      "NI"
     ],
     [
-     0.8095238095238095
+     null
     ]
    ],
    [
@@ -142,7 +143,7 @@
      "NI"
     ],
     [
-     0.8095238095238095
+     null
     ]
    ],
    [
@@ -151,7 +152,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -171,7 +172,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -180,7 +181,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ]
   ],
@@ -200,7 +201,7 @@
      "NI"
     ],
     [
-     0.7777777777777778
+     null
     ]
    ],
    [
@@ -209,7 +210,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -238,7 +239,7 @@
      "NI"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -247,7 +248,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -276,7 +277,7 @@
      "NI"
     ],
     [
-     0.6956521739130435
+     null
     ]
    ],
    [
@@ -285,7 +286,7 @@
      "NI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -314,7 +315,7 @@
      "NI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -323,7 +324,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -352,7 +353,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -372,7 +373,7 @@
      "NI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -381,7 +382,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -410,7 +411,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ]
   ],
@@ -430,7 +431,7 @@
      "NI"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -439,7 +440,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -468,7 +469,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -488,7 +489,7 @@
      "NI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -518,12 +519,34 @@
    {
     "id": "ORC-P2SVSKARQV",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-VDXOW4USUT",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     },
+     {
+      "id": "ORC-I3X3OPC25U",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#31",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-62HP5CPDVB",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-7KBJ6SEM46",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#31",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-DF4UNCI2AK.8c6246",
@@ -548,17 +571,53 @@
    {
     "id": "ORC-B4ILEAOL6Q",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-YINQ6Y33DL",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     },
+     {
+      "id": "ORC-Q6HO2WOC4K",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#31",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-ZPZXKHA6YS.f1fb36",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-VRVBZ5DOA4",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     },
+     {
+      "id": "ORC-4PZPD3C45I.f036be",
+      "paper": "doi:10.1007/s10853-022-08039-1",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#31",
+      "dataset": "invariants/LA-NI/LaNi-23Ye.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-JH6IMN53LV",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-K6RBUW72EN",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-JLX2KAV6OQ",
@@ -568,7 +627,15 @@
    {
     "id": "ORC-QRVUG3V4UB",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-OVCUWYDRFE",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-DD3DNZLBII",
@@ -578,7 +645,15 @@
    {
     "id": "ORC-5IM5HDXLSC",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-I4MOTOXD2K",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-EZM4NGZOR6",
@@ -588,16 +663,32 @@
    {
     "id": "ORC-VIEZIKVMQU.f8260e",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
-    "measured_in": "doi:10.1016/s0925-8388(00)01151-8"
+    "measured_in": "doi:10.1016/s0925-8388(00)01151-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-G7S3EJ2EZK",
+      "paper": "doi:10.1016/j.calphad.2012.12.002",
+      "measured_in": "doi:10.2320/matertrans1989.30.583",
+      "dataset": "invariants/LA-NI/LaNi-13An.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1016/s0925-8388(00)01151-8"
+   "doi:10.1016/s0925-8388(00)01151-8",
+   "doi:10.2320/matertrans1989.30.583",
+   "doi:10.1016/j.calphad.2012.12.002",
+   "unresolved:source:doi:10-1007-s10853-022-08039-1#31",
+   "doi:10.1007/s10853-022-08039-1"
   ],
   "dois": [
-   "10.1016/s0925-8388(00)01151-8"
+   "10.1007/s10853-022-08039-1",
+   "10.1016/j.calphad.2012.12.002",
+   "10.1016/s0925-8388(00)01151-8",
+   "10.2320/matertrans1989.30.583"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/LaNi-00Dis/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/LaNi-00Dis/zpf-01.json",
+  "e3_merged": 11
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -664,5 +755,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 24,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

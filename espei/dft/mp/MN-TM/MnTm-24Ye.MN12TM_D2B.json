@@ -1,7 +1,8 @@
 {
  "components": [
   "MN",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "MN12TM_D2B"

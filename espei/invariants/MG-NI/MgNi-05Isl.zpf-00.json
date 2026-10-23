@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "C36_LAVES",
@@ -44,7 +45,7 @@
      "NI"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -73,7 +74,7 @@
      "NI"
     ],
     [
-     0.667
+     null
     ]
    ]
   ],
@@ -130,18 +131,30 @@
    },
    {
     "id": "ORC-NXAPCSN6FQ",
-    "paper": "doi:10.1016/j.calphad.2005.08.006"
+    "paper": "doi:10.1016/j.calphad.2005.08.006",
+    "also_reported_as": [
+     {
+      "id": "ORC-CI2X5QJRDE",
+      "paper": "doi:10.1016/s0364-5916(99)00008-5",
+      "measured_in": "unresolved:source:doi:10-1016-s0364-5916-99-00008-5#6",
+      "dataset": "invariants/MG-NI/MgNi-98Jac-2.zpf-03.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/j.calphad.2005.08.006",
-   "doi:10.1002/zaac.19080570103"
+   "doi:10.1002/zaac.19080570103",
+   "unresolved:source:doi:10-1016-s0364-5916-99-00008-5#6",
+   "doi:10.1016/s0364-5916(99)00008-5"
   ],
   "dois": [
    "10.1002/zaac.19080570103",
-   "10.1016/j.calphad.2005.08.006"
+   "10.1016/j.calphad.2005.08.006",
+   "10.1016/s0364-5916(99)00008-5"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MgNi-05Isl/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/MgNi-05Isl/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -160,5 +173,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 2,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

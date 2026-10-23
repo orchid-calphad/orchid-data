@@ -1,6 +1,7 @@
 {
  "components": [
   "CU",
+  "VA",
   "ZN"
  ],
  "phases": [

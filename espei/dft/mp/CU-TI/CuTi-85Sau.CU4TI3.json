@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "CU4TI3"

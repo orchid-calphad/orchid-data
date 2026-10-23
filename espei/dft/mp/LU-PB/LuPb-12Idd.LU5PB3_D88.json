@@ -1,7 +1,8 @@
 {
  "components": [
   "LU",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LU5PB3_D88"

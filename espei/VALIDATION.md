@@ -8,12 +8,15 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
-| experimental | 1679 | 1679 | ok |
+| experimental | 1668 | 1668 | ok |
 | model | 758 | 758 | ok |
-| invariants | 2143 | 2143 | ok |
+| invariants | 2018 | 2018 | ok |
 | dft/literature | 479 | 479 | ok |
 | dft/mp | 1290 | 1290 | ok |
 | dft/oqmd | 1290 | 1290 | ok |
+| assessed | 708 | 708 | ok |
+| derived/invariant-brackets | 1305 | 1305 | ok |
+| derived/liquid-stability | 457 | 457 | ok |
 
 Invalid files in the final bundle: **0**.
 
@@ -54,11 +57,38 @@ Invalid files in the final bundle: **0**.
 | null_in_composition | invariants/GA-GD-NB/binary-subsystems-Ga-Gd-Nb.zpf-ternary-47.json | db-v2.1/invariants/espei/binary-subsystems-Ga-Gd-Nb/zpf-ternary-47.json |
 | null_in_composition | invariants/MG-SN-ZN/binary-subsystems-Mg-Sn-Zn.zpf-ternary-49.json | db-v2.1/invariants/espei/binary-subsystems-Mg-Sn-Zn/zpf-ternary-49.json |
 
+## Encoding fixes (E1-E6)
+
+| fix | what | count |
+|---|---|---:|
+| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 7423 |
+| E2 | line-compound ZPF vertices written with composition null (datasets) | 7072 vertices (1380 datasets; 177 hyperplanes added) |
+| E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 873 (136) |
+| E4 | values read twice from the same printed row, counted once | 1362 |
+| E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 132 / 64 / 84 |
+| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 1377 / 52 |
+
+Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
+
+## Phase constraints (optional)
+
+| folder | datasets | ZPF points | systems |
+|---|---:|---:|---:|
+| assessed | 708 | 8441 | 522 |
+| derived/invariant-brackets | 1305 | 6590 | 433 |
+| derived/liquid-stability | 457 | 4113 | 329 |
+
+Invariant brackets written: above 3311, below 3279; skipped: another_invariant_within_offset (above) 592, another_invariant_within_offset (below) 624, composition_not_between_the_two_phases 186, invariant_composition_unknown 1143, phase_unmapped_or_repeated 53, reaction_label_not_matched 872, reaction_not_parsed 190, reaction_phases_differ_from_dataset 12, reaction_type_magnetic 10, reaction_type_order-disorder 4, unary_reaction 77.
+Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 154, phase_not_in_tdb 295.
+Liquid-stability systems: above_a_boiling_point 88, element_not_a_condensed_liquid_at_1_atm 26, liquid_miscibility_gap_in_sources 69, no_assessed_diagram 32, no_single_phase_liquid_field 17, written 329.
+
 ## Inclusion gate (same rules as the published literature values)
 
 | reason | values removed |
 |---|---:|
 | composition_differs_from_release: a ZPF vertex composition is not among the published phase compositions | 6 |
+| duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 873 |
+| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1362 |
 | evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 2 |
 | magnitude_implausible: physically implausible magnitude for fitting (|S| > 150 J/K/mol-atom, |Cp| > 200 J/K/mol-atom, |H| or |G| > 1000 kJ/mol-atom): a unit error in the source or the extraction; the value stays in the literature release with its flags | 57 |
 | value_differs_from_release: dataset value differs from the published value (e.g. a quality fix applied in the release: per-formula -> per-atom basis); the dataset value is not used | 29 |
@@ -67,10 +97,11 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 
 - `composition_differs_from_release`: 1
 - `dft_superseded`: 124 (the corpus's DFT datasets are replaced by the endmember HM_FORM datasets in `dft/literature/`, written only where a TDB endmember is unambiguous)
+- `duplicate_identical_zpf`: 136
 - `magnitude_implausible`: 18
 - `value_differs_from_release`: 16
 
-Datasets kept with some values removed: **6** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 15839 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **955** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 15839 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 
@@ -89,5 +120,5 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 
 ## Self-check against the corpus ESPEI evaluation
 
-15 invariant ZPF datasets carry the corpus driving-force evaluation against their assessment (`orchid.espei_evaluation`; only datasets kept unchanged).
+2 invariant ZPF datasets carry the corpus driving-force evaluation against their assessment (`orchid.espei_evaluation`; only datasets kept unchanged).
 

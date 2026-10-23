@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "MGPD2_C37"

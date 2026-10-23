@@ -2,7 +2,8 @@
  "components": [
   "BI",
   "PB",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

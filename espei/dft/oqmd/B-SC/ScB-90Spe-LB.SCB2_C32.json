@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "SCB2_C32"

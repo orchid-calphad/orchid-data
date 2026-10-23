@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "CO17PR2",
@@ -60,7 +61,7 @@
      "PR"
     ],
     [
-     0.10526315789473684
+     null
     ]
    ]
   ],
@@ -80,7 +81,7 @@
      "PR"
     ],
     [
-     0.10526315789473684
+     null
     ]
    ],
    [
@@ -89,7 +90,7 @@
      "PR"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ]
   ],
@@ -109,7 +110,7 @@
      "PR"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -118,7 +119,7 @@
      "PR"
     ],
     [
-     0.20833333333333334
+     null
     ]
    ]
   ],
@@ -138,7 +139,7 @@
      "PR"
     ],
     [
-     0.20833333333333334
+     null
     ]
    ],
    [
@@ -147,7 +148,7 @@
      "PR"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ]
   ],
@@ -167,7 +168,7 @@
      "PR"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ],
    [
@@ -176,7 +177,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -196,7 +197,7 @@
      "PR"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -205,7 +206,7 @@
      "PR"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -225,7 +226,7 @@
      "PR"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -234,7 +235,7 @@
      "PR"
     ],
     [
-     0.5714285714285714
+     null
     ]
    ]
   ],
@@ -254,7 +255,7 @@
      "PR"
     ],
     [
-     0.5714285714285714
+     null
     ]
    ],
    [
@@ -263,7 +264,7 @@
      "PR"
     ],
     [
-     0.7142857142857143
+     null
     ]
    ]
   ],
@@ -283,7 +284,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -292,7 +293,7 @@
      "PR"
     ],
     [
-     0.7142857142857143
+     null
     ]
    ]
   ],
@@ -312,7 +313,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ]
   ],
@@ -332,7 +333,7 @@
      "PR"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -412,17 +413,27 @@
    {
     "id": "ORC-22XLYVOBBO",
     "paper": "doi:10.1016/s0925-8388(98)00928-1",
-    "measured_in": "ref:632f002c126a910f"
+    "measured_in": "ref:632f002c126a910f",
+    "also_reported_as": [
+     {
+      "id": "ORC-LVBSSM2F43",
+      "paper": "doi:10.1016/s0925-8388(98)00928-1",
+      "measured_in": "ref:c4bcf23b6e51feda",
+      "dataset": "invariants/CO-PR/CoPr-99Du.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:632f002c126a910f",
-   "doi:10.1016/s0925-8388(98)00928-1"
+   "doi:10.1016/s0925-8388(98)00928-1",
+   "ref:c4bcf23b6e51feda"
   ],
   "dois": [
    "10.1016/s0925-8388(98)00928-1"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoPr-99Du/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoPr-99Du/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -473,5 +484,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 19,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

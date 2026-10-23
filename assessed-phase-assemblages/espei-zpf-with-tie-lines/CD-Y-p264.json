@@ -51,7 +51,7 @@
      "Y"
     ],
     [
-     0.143
+     null
     ]
    ]
   ],
@@ -62,7 +62,7 @@
      "Y"
     ],
     [
-     0.143
+     null
     ]
    ],
    [
@@ -71,7 +71,16 @@
      "Y"
     ],
     [
-     0.183
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.1632207853
     ]
    ]
   ],
@@ -82,7 +91,7 @@
      "Y"
     ],
     [
-     0.183
+     null
     ]
    ],
    [
@@ -91,7 +100,16 @@
      "Y"
     ],
     [
-     0.196
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.1897212633
     ]
    ]
   ],
@@ -102,7 +120,7 @@
      "Y"
     ],
     [
-     0.196
+     null
     ]
    ],
    [
@@ -111,7 +129,16 @@
      "Y"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.2232218676
     ]
    ]
   ],
@@ -151,7 +178,7 @@
      "Y"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -160,7 +187,16 @@
      "Y"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.4162253491
     ]
    ]
   ],
@@ -171,7 +207,7 @@
      "Y"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -240,7 +276,7 @@
      "Y"
     ],
     [
-     0.183
+     null
     ]
    ]
   ],
@@ -260,7 +296,7 @@
      "Y"
     ],
     [
-     0.196
+     null
     ]
    ]
   ],
@@ -280,7 +316,7 @@
      "Y"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -300,7 +336,7 @@
      "Y"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -336,6 +372,11 @@
  ],
  "reference": "K.A. Gschneidner, Jr. and F.W. Calderwood, Bull. Alloy Phase Diagrams, 9(2), 139-141 (1988); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 264",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CD-Y-p264; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CD-Y-p264",

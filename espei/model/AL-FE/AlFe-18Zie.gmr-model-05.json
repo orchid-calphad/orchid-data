@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "FE"
+  "FE",
+  "VA"
  ],
  "phases": [
   "AL2FE",
@@ -11,7 +12,6 @@
   "P": 101325,
   "T": 298.15,
   "X_FE": [
-   0.333333,
    0.333333
   ]
  },
@@ -19,7 +19,6 @@
  "values": [
   [
    [
-    -32729.999999999996,
     -32729.999999999996
    ]
   ]
@@ -32,7 +31,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQUBXYMF3T.85d912 ORC-OQUBXYMF3T.85d912",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQUBXYMF3T.85d912",
  "reference_states": {
   "AL": {
    "phase": "AL2FE"
@@ -75,13 +74,10 @@
     "id": "ORC-OQUBXYMF3T.85d912",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2022.168361",
-    "measured_in": "doi:10.1016/j.jallcom.2018.01.316"
-   },
-   {
-    "id": "ORC-OQUBXYMF3T.85d912",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2022.168361",
-    "measured_in": "doi:10.1016/j.jallcom.2018.01.316"
+    "measured_in": "doi:10.1016/j.jallcom.2018.01.316",
+    "also_read_as": [
+     "ORC-OQUBXYMF3T.85d912"
+    ]
    }
   ],
   "papers": [
@@ -92,7 +88,8 @@
    "10.1016/j.jallcom.2018.01.316",
    "10.1016/j.jallcom.2022.168361"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/AlFe-18Zie/gmr-model-05.json"
+  "source_dataset": "db-v2.1/general/espei-model/AlFe-18Zie/gmr-model-05.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -102,11 +99,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

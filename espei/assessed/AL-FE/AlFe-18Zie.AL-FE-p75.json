@@ -1,0 +1,96 @@
+{
+ "components": [
+  "AL",
+  "FE",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1109.651484,
+   1646.651484,
+   1544.151484
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "AL"
+    ],
+    [
+     0.3976637413
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.6934821072
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.5232989526
+    ]
+   ]
+  ]
+ ],
+ "reference": "U.R. Kattner and B.P. Burton, Phase Diagrams of Binary Iron Alloys, H. Okamoto, ed., ASM International, Materials Park, OH, 12-28 (1993); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 75",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-FE-p75; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlFe-18Zie.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-FE-p75",
+  "target_tdb": "AlFe-18Zie.tdb",
+  "record_ids": [
+   "aspa-73daa7a817fbea80",
+   "aspa-badce2a32a9ec4c0",
+   "aspa-bbe43438d64d01d5"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 3,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-FE-p75.json"
+ }
+}

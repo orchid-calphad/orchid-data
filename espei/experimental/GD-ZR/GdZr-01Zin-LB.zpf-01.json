@@ -1,6 +1,7 @@
 {
  "components": [
   "GD",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -386,7 +387,15 @@
     "id": "ORC-BOBUXNW5I2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497101770339283",
-    "measured_in": "ref:8900eadbe3427d3c"
+    "measured_in": "ref:8900eadbe3427d3c",
+    "also_reported_as": [
+     {
+      "id": "ORC-SACUGSBRAH",
+      "paper": "doi:10.1361/105497101770339283",
+      "measured_in": "ref:8900eadbe3427d3c",
+      "dataset": "invariants/GD-ZR/GdZr-01Zin-LB.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-GA3QIB6MDZ",
@@ -540,7 +549,8 @@
   "dois": [
    "10.1361/105497101770339283"
   ],
-  "source_dataset": "db-v2.1/general/espei/GdZr-01Zin-LB/zpf-01.json"
+  "source_dataset": "db-v2.1/general/espei/GdZr-01Zin-LB/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

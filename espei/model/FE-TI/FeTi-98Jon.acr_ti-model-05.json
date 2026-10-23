@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,12 +12,8 @@
   "T": 1873.0,
   "X_TI": [
    0.066,
-   0.066,
-   0.089,
    0.089,
    0.126,
-   0.126,
-   0.143,
    0.143
   ]
  },
@@ -25,12 +22,8 @@
   [
    [
     1.84,
-    1.84,
-    2.96,
     2.96,
     5.51,
-    5.51,
-    7.06,
     7.06
    ]
   ]
@@ -44,7 +37,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YRJRLIIKUB.7c6e02 ORC-YRJRLIIKUB.7c6e02 ORC-TJ7J2Q7B3U.05ade3 ORC-TJ7J2Q7B3U.05ade3 ORC-FDXALNGQP6.1dd219 ORC-FDXALNGQP6.1dd219 ORC-VHP44YINHQ.3e7f41 ORC-VHP44YINHQ.3e7f41",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YRJRLIIKUB.7c6e02 ORC-TJ7J2Q7B3U.05ade3 ORC-FDXALNGQP6.1dd219 ORC-VHP44YINHQ.3e7f41",
  "reference_state": {
   "phases": [
    "BCC_A2"
@@ -92,15 +85,9 @@
     "measured_in": "doi:10.1007/s11663-998-0113-z",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-YRJRLIIKUB.7c6e02",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11663-998-0113-z",
-    "measured_in": "doi:10.1007/s11663-998-0113-z",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-YRJRLIIKUB.7c6e02"
     ]
    },
    {
@@ -110,15 +97,9 @@
     "measured_in": "doi:10.1007/s11663-998-0113-z",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-TJ7J2Q7B3U.05ade3",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11663-998-0113-z",
-    "measured_in": "doi:10.1007/s11663-998-0113-z",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-TJ7J2Q7B3U.05ade3"
     ]
    },
    {
@@ -128,15 +109,9 @@
     "measured_in": "doi:10.1007/s11663-998-0113-z",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-FDXALNGQP6.1dd219",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11663-998-0113-z",
-    "measured_in": "doi:10.1007/s11663-998-0113-z",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-FDXALNGQP6.1dd219"
     ]
    },
    {
@@ -146,15 +121,9 @@
     "measured_in": "doi:10.1007/s11663-998-0113-z",
     "caveats": [
      "magnitude_suspect"
-    ]
-   },
-   {
-    "id": "ORC-VHP44YINHQ.3e7f41",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11663-998-0113-z",
-    "measured_in": "doi:10.1007/s11663-998-0113-z",
-    "caveats": [
-     "magnitude_suspect"
+    ],
+    "also_read_as": [
+     "ORC-VHP44YINHQ.3e7f41"
     ]
    }
   ],
@@ -164,7 +133,8 @@
   "dois": [
    "10.1007/s11663-998-0113-z"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/FeTi-98Jon/acr_ti-model-05.json"
+  "source_dataset": "db-v2.1/general/espei-model/FeTi-98Jon/acr_ti-model-05.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "1 (activity)",
@@ -193,27 +163,18 @@
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
    }
+  ]
+ },
+ "orchid_reference_state": {
+  "element": "TI",
+  "phase": "BCC_A2",
+  "basis": "printed",
+  "quote": "*In both cases, the reference state is bcc.",
+  "where": "table III footnote",
+  "record_reference_state_agrees": true,
+  "written_before_audit": [
+   "BCC_A2"
   ]
  }
 }

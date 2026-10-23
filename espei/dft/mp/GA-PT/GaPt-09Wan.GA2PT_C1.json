@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "GA2PT_C1"

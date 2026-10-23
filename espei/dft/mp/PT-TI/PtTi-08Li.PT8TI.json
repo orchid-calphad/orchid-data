@@ -1,7 +1,8 @@
 {
  "components": [
   "PT",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "PT8TI"

@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "CO5GE3_B82",
@@ -12,10 +13,7 @@
   "T": 1060.0,
   "X_GE": [
    0.35,
-   0.35,
    0.38,
-   0.38,
-   0.41,
    0.41
   ]
  },
@@ -24,10 +22,7 @@
   [
    [
     -14314.0,
-    -14314.0,
     -16171.0,
-    -16171.0,
-    -18665.0,
     -18665.0
    ]
   ]
@@ -40,7 +35,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WMXZFAXV4H.148fdd ORC-WMXZFAXV4H.148fdd ORC-4J432QRD3D.600041 ORC-4J432QRD3D.600041 ORC-5NJEWCWNC2.1361f8 ORC-5NJEWCWNC2.1361f8",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WMXZFAXV4H.148fdd ORC-4J432QRD3D.600041 ORC-5NJEWCWNC2.1361f8",
  "reference_states": {
   "CO": {
    "phase": "HCP_A3"
@@ -83,37 +78,28 @@
     "id": "ORC-WMXZFAXV4H.148fdd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
-   },
-   {
-    "id": "ORC-WMXZFAXV4H.148fdd",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
+    "measured_in": "doi:10.1016/j.tca.2013.08.026",
+    "also_read_as": [
+     "ORC-WMXZFAXV4H.148fdd"
+    ]
    },
    {
     "id": "ORC-4J432QRD3D.600041",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
-   },
-   {
-    "id": "ORC-4J432QRD3D.600041",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
+    "measured_in": "doi:10.1016/j.tca.2013.08.026",
+    "also_read_as": [
+     "ORC-4J432QRD3D.600041"
+    ]
    },
    {
     "id": "ORC-5NJEWCWNC2.1361f8",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
-   },
-   {
-    "id": "ORC-5NJEWCWNC2.1361f8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.tca.2013.08.026",
-    "measured_in": "doi:10.1016/j.tca.2013.08.026"
+    "measured_in": "doi:10.1016/j.tca.2013.08.026",
+    "also_read_as": [
+     "ORC-5NJEWCWNC2.1361f8"
+    ]
    }
   ],
   "papers": [
@@ -122,7 +108,8 @@
   "dois": [
    "10.1016/j.tca.2013.08.026"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CoGe-13Don/hmr-model-02.json"
+  "source_dataset": "db-v2.1/general/espei-model/CoGe-13Don/hmr-model-02.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -132,21 +119,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

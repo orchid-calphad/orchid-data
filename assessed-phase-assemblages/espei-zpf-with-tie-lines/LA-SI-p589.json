@@ -57,7 +57,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -68,7 +68,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -77,7 +77,16 @@
      "SI"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3876529675
     ]
    ]
   ],
@@ -88,7 +97,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -97,7 +106,16 @@
      "SI"
     ],
     [
-     0.444
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4226906759
     ]
    ]
   ],
@@ -108,7 +126,7 @@
      "SI"
     ],
     [
-     0.444
+     null
     ]
    ],
    [
@@ -117,7 +135,16 @@
      "SI"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4722440062
     ]
    ]
   ],
@@ -228,7 +255,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ]
   ],
@@ -328,7 +355,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -348,7 +375,7 @@
      "SI"
     ],
     [
-     0.444
+     null
     ]
    ]
   ],
@@ -359,7 +386,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -404,6 +431,11 @@
  ],
  "reference": "M.V. Bulanova, P.N. Zheltov, K.A. Meleshevich, P.A. Saltykov, G. Effenberg, and J.C. Tedenac, J. Alloys Compd., 329, 214-223 (2001) doi:10.1016/s0925-8388(01)01686-3; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 589",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LA-SI-p589; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "LA-SI-p589",

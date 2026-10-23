@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PU"
+  "PU",
+  "VA"
  ],
  "phases": [
   "GA4PU_D1B"

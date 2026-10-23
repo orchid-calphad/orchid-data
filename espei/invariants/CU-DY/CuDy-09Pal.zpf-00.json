@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "DY"
+  "DY",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -49,7 +50,7 @@
      "DY"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -69,7 +70,7 @@
      "DY"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -78,7 +79,7 @@
      "DY"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -98,7 +99,7 @@
      "DY"
     ],
     [
-     0.125
+     null
     ]
    ],
    [
@@ -116,7 +117,7 @@
      "DY"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ]
   ],
@@ -127,7 +128,7 @@
      "DY"
     ],
     [
-     0.18181818181818182
+     null
     ]
    ],
    [
@@ -136,7 +137,7 @@
      "DY"
     ],
     [
-     0.16666666666666666
+     null
     ]
    ],
    [
@@ -156,7 +157,7 @@
      "DY"
     ],
     [
-     0.18181818181818182
+     null
     ]
    ],
    [
@@ -176,7 +177,7 @@
      "DY"
     ],
     [
-     0.18181818181818182
+     null
     ]
    ],
    [
@@ -185,7 +186,7 @@
      "DY"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ],
    [
@@ -205,7 +206,7 @@
      "DY"
     ],
     [
-     0.2222222222222222
+     null
     ]
    ],
    [
@@ -214,7 +215,7 @@
      "DY"
     ],
     [
-     0.18181818181818182
+     null
     ]
    ],
    [
@@ -234,7 +235,7 @@
      "DY"
     ],
     [
-     0.18181818181818182
+     null
     ]
    ],
    [
@@ -243,7 +244,7 @@
      "DY"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -263,7 +264,7 @@
      "DY"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -283,7 +284,7 @@
      "DY"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -292,7 +293,7 @@
      "DY"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -312,7 +313,7 @@
      "DY"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -332,7 +333,7 @@
      "DY"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -406,22 +407,54 @@
    {
     "id": "ORC-UCI5OXBKHF",
     "paper": "doi:10.1016/j.calphad.2009.04.001",
-    "measured_in": "doi:10.1016/0022-5088(82)90092-3"
+    "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-M5BMLBFA6A",
+      "paper": "doi:10.1016/j.jallcom.2008.03.007",
+      "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+      "dataset": "invariants/CU-DY/CuDy-09Zha.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-CRILC3KA5M",
     "paper": "doi:10.1016/j.calphad.2009.04.001",
-    "measured_in": "doi:10.1016/0022-5088(82)90092-3"
+    "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-JZMPOWFHNZ",
+      "paper": "doi:10.1016/j.jallcom.2008.03.007",
+      "measured_in": "ref:2bc6c2ad198c257f",
+      "dataset": "invariants/CU-DY/CuDy-09Zha.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-SACNNMGHPQ",
     "paper": "doi:10.1016/j.calphad.2009.04.001",
-    "measured_in": "doi:10.1016/0022-5088(82)90092-3"
+    "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-BUEOC6LP6K",
+      "paper": "doi:10.1016/j.jallcom.2008.03.007",
+      "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+      "dataset": "invariants/CU-DY/CuDy-09Zha.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-4FTAKVFKOZ",
     "paper": "doi:10.1016/j.calphad.2009.04.001",
-    "measured_in": "doi:10.1016/0022-5088(82)90092-3"
+    "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+    "also_reported_as": [
+     {
+      "id": "ORC-AHRRT5KDMP",
+      "paper": "doi:10.1016/j.jallcom.2008.03.007",
+      "measured_in": "doi:10.1016/0022-5088(82)90092-3",
+      "dataset": "invariants/CU-DY/CuDy-09Zha.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-UQBQD6CQWH",
@@ -431,13 +464,17 @@
   ],
   "papers": [
    "doi:10.1016/0022-5088(82)90092-3",
-   "doi:10.1016/j.calphad.2009.04.001"
+   "doi:10.1016/j.calphad.2009.04.001",
+   "doi:10.1016/j.jallcom.2008.03.007",
+   "ref:2bc6c2ad198c257f"
   ],
   "dois": [
    "10.1016/0022-5088(82)90092-3",
-   "10.1016/j.calphad.2009.04.001"
+   "10.1016/j.calphad.2009.04.001",
+   "10.1016/j.jallcom.2008.03.007"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuDy-09Pal/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuDy-09Pal/zpf-00.json",
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -492,5 +529,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 19,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

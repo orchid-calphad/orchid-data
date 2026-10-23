@@ -1,22 +1,17 @@
 {
  "components": [
   "GA",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "GA2TI",
-  "GA3TI2",
-  "GA3TI_D022",
-  "GATI_L10",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1441.0,
-   1348.0,
-   1457.0,
-   1203.0
+   1457.0
   ]
  },
  "output": "ZPF",
@@ -28,130 +23,16 @@
      "TI"
     ],
     [
-     null
-    ]
-   ],
-   [
-    "GATI_L10",
-    [
-     "TI"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "GA2TI",
-    [
-     "TI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.4166665
-    ]
-   ]
-  ],
-  [
-   [
-    "GATI_L10",
-    [
-     "TI"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "GA2TI",
-    [
-     "TI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "GA3TI2",
-    [
-     "TI"
-    ],
-    [
-     0.4
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.411111
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
      0.333333
     ]
    ],
    [
     "GA2TI",
-    [
-     "TI"
-    ],
-    [
-     0.333333
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
     [
      "TI"
     ],
     [
      null
-    ]
-   ],
-   [
-    "GA2TI",
-    [
-     "TI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "GA3TI_D022",
-    [
-     "TI"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.2916665
     ]
    ]
   ]
@@ -163,29 +44,14 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BF7LGNAMQF ORC-OTISAPEORG ORC-EBKB5MYVP4 ORC-FVBUEPWBSA",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EBKB5MYVP4",
  "bibtex": "li2003_c0f02b",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-BF7LGNAMQF",
-    "paper": "doi:10.1016/j.calphad.2013.02.003",
-    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
-   },
-   {
-    "id": "ORC-OTISAPEORG",
-    "paper": "doi:10.1016/j.calphad.2013.02.003",
-    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
-   },
-   {
     "id": "ORC-EBKB5MYVP4",
-    "paper": "doi:10.1016/j.calphad.2013.02.003",
-    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
-   },
-   {
-    "id": "ORC-FVBUEPWBSA",
     "paper": "doi:10.1016/j.calphad.2013.02.003",
     "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
    }
@@ -198,7 +64,8 @@
    "10.1016/j.calphad.2013.02.003",
    "10.1016/s0925-8388(03)00131-2"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GaTi-13Liu/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/GaTi-13Liu/zpf-02.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -206,20 +73,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

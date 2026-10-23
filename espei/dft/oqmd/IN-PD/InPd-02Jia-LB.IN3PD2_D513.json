@@ -1,7 +1,8 @@
 {
  "components": [
   "IN",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "IN3PD2_D513"

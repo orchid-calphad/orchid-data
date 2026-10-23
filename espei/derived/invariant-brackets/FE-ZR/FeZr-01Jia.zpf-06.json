@@ -1,0 +1,151 @@
+{
+ "components": [
+  "FE",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FEZR2_C16",
+  "FEZR3_E1A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1160.15,
+   1140.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FEZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ]
+ ],
+ "reference": "1989, Z.M. Alekseeva and N.V. Korotkova: Izv. Akad. Nauk SSSR, Metall., 1989, vol. 4, pp. 202-08.",
+ "bibtex": "alekseeva1989_e70cdc",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-ZR/FeZr-01Jia.zpf-06.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2CUICRT52O",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/FE-ZR/FeZr-01Jia.zpf-06.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-2CUICRT52O",
+    "side": "above",
+    "T_invariant_K": 1150.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "FeZr2 + βZr -> FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "FEZR2_C16",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FEZR3_E1A"
+    ]
+   },
+   {
+    "source_observation": "ORC-2CUICRT52O",
+    "side": "below",
+    "T_invariant_K": 1150.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "FeZr2 + βZr -> FeZr3",
+    "reaction_type": null,
+    "phases_above": [
+     "FEZR2_C16",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "FEZR3_E1A"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1361/105497101770332965"
+  ],
+  "papers": [
+   "ref:26ad7bfb3df00cae",
+   "doi:10.1361/105497101770332965"
+  ]
+ }
+}

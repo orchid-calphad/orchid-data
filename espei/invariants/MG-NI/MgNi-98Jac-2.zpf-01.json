@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "C36_LAVES",

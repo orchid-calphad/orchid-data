@@ -1,7 +1,8 @@
 {
  "components": [
   "CA",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "CANI2_C15",

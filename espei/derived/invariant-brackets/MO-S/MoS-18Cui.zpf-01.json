@@ -1,0 +1,263 @@
+{
+ "components": [
+  "MO",
+  "S",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "MO2S3_HT",
+  "MO2S3_LT",
+  "MOS2_C7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1904.15,
+   1856.15,
+   893.15,
+   873.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "S"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.38
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "S"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MO2S3_HT",
+    [
+     "S"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.38
+    ]
+   ]
+  ],
+  [
+   [
+    "MO2S3_LT",
+    [
+     "S"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "S"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MOS2_C7",
+    [
+     "S"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "S"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cui 2018, doi:10.1016/j.tca.2017.12.011",
+ "bibtex": "cui2018_2c2c48",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MO-S/MoS-18Cui.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-36WDSGB2IS ORC-P7JJDEXOAN",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/MO-S/MoS-18Cui.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-36WDSGB2IS",
+    "side": "above",
+    "T_invariant_K": 1880.15,
+    "offset_K": 24.0,
+    "T_sigma_K": 12.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.37,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = bcc_A2 + β_Mo2S3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "MO2S3_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-36WDSGB2IS",
+    "side": "below",
+    "T_invariant_K": 1880.15,
+    "offset_K": 24.0,
+    "T_sigma_K": 12.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.37,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid = bcc_A2 + β_Mo2S3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "MO2S3_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-P7JJDEXOAN",
+    "side": "above",
+    "T_invariant_K": 883.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "α_Mo2S3 = bcc_A2 + MoS2",
+    "reaction_type": null,
+    "phases_above": [
+     "MO2S3_LT"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "MOS2_C7"
+    ]
+   },
+   {
+    "source_observation": "ORC-P7JJDEXOAN",
+    "side": "below",
+    "T_invariant_K": 883.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "α_Mo2S3 = bcc_A2 + MoS2",
+    "reaction_type": null,
+    "phases_above": [
+     "MO2S3_LT"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "MOS2_C7"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0036-9748(83)90262-4",
+   "10.1016/j.tca.2017.12.011",
+   "10.1023/a:1010115620439"
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2017.12.011",
+   "doi:10.1016/0036-9748(83)90262-4",
+   "doi:10.1023/a:1010115620439"
+  ]
+ }
+}

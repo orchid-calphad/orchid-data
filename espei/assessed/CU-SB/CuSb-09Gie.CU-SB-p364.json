@@ -1,0 +1,209 @@
+{
+ "components": [
+  "CU",
+  "SB",
+  "VA"
+ ],
+ "phases": [
+  "CU2SB_C38",
+  "CU3SB_D03",
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   708.770892,
+   635.770892,
+   835.270892,
+   824.770892,
+   1184.270892,
+   891.770892,
+   1085.770892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.8748864386
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.4406564883
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.5553492895
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3SB_D03",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.3585184124
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.08405703667
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 16(5), 472 (1995) doi:10.1007/bf02645360; P.R. Subramanian and D.E. Laughlin, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, OH, 372-383 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 364",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-SB-p364; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CuSb-09Gie.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-SB-p364",
+  "target_tdb": "CuSb-09Gie.tdb",
+  "record_ids": [
+   "aspa-54f54a9bf99310a4",
+   "aspa-67f73964f2e77cae",
+   "aspa-adea403a5c5b7f7b",
+   "aspa-f97ec00b55dedad3",
+   "aspa-668ea6dfe1436be0",
+   "aspa-c3b2b4040e9ecff7",
+   "aspa-370bec71966d5969"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "medium",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/CU-SB-p364.json"
+ }
+}

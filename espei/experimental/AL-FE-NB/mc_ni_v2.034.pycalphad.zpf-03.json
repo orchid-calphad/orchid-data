@@ -2,7 +2,8 @@
  "components": [
   "AL",
   "FE",
-  "NB"
+  "NB",
+  "VA"
  ],
  "phases": [
   "LIQUID"

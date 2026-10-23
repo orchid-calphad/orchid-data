@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "IR"
+  "IR",
+  "VA"
  ],
  "phases": [
   "AL13IR4"

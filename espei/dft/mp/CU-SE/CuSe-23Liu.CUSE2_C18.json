@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "CUSE2_C18"

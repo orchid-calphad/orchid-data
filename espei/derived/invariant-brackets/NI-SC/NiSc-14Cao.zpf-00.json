@@ -1,0 +1,415 @@
+{
+ "components": [
+  "NI",
+  "SC",
+  "VA"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "FCC_A1",
+  "LIQUID",
+  "NI5SC_D2D",
+  "NI7SC2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1412.6,
+   1392.6,
+   1448.0,
+   1428.0,
+   1542.2,
+   1522.2,
+   1404.1
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.10560000000000001
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.0956
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.1156
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SC"
+    ],
+    [
+     0.008
+    ]
+   ],
+   [
+    "NI5SC_D2D",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.0956
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.1156
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.141
+    ]
+   ],
+   [
+    "NI7SC2",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.158
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.178
+    ]
+   ]
+  ],
+  [
+   [
+    "NI5SC_D2D",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.158
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.178
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.2575
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.2475
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.2675
+    ]
+   ]
+  ],
+  [
+   [
+    "NI7SC2",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "SC"
+    ],
+    [
+     0.29300000000000004
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.2475
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.2675
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.42090000000000005
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.4109
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.4309
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cao 2014, doi:10.1016/j.tca.2014.04.006",
+ "bibtex": "cao2014_191dfd",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SC/NiSc-14Cao.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2DKTBMVIJO ORC-3NILFJ4GLO ORC-EDYZNQHBDK ORC-UJXJXL572Y",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/NI-SC/NiSc-14Cao.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-2DKTBMVIJO",
+    "side": "above",
+    "T_invariant_K": 1402.6,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.10560000000000001,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> (Ni) + ScNi5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "NI5SC_D2D"
+    ]
+   },
+   {
+    "source_observation": "ORC-2DKTBMVIJO",
+    "side": "below",
+    "T_invariant_K": 1402.6,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.10560000000000001,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> (Ni) + ScNi5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "NI5SC_D2D"
+    ]
+   },
+   {
+    "source_observation": "ORC-3NILFJ4GLO",
+    "side": "above",
+    "T_invariant_K": 1438,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.168,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Sc2Ni7 -> ScNi5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "NI7SC2"
+    ],
+    "phases_below": [
+     "NI5SC_D2D"
+    ]
+   },
+   {
+    "source_observation": "ORC-3NILFJ4GLO",
+    "side": "below",
+    "T_invariant_K": 1438,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.168,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Sc2Ni7 -> ScNi5",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "NI7SC2"
+    ],
+    "phases_below": [
+     "NI5SC_D2D"
+    ]
+   },
+   {
+    "source_observation": "ORC-EDYZNQHBDK",
+    "side": "above",
+    "T_invariant_K": 1532.2,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2575,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> Sc2Ni7 + ScNi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI7SC2",
+     "C15_LAVES"
+    ]
+   },
+   {
+    "source_observation": "ORC-EDYZNQHBDK",
+    "side": "below",
+    "T_invariant_K": 1532.2,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2575,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> Sc2Ni7 + ScNi2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI7SC2",
+     "C15_LAVES"
+    ]
+   },
+   {
+    "source_observation": "ORC-UJXJXL572Y",
+    "side": "above",
+    "T_invariant_K": 1394.1,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.42090000000000005,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> ScNi2 + ScNi",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "C15_LAVES",
+     "B2_BCC"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.tca.2014.04.006"
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2014.04.006"
+  ]
+ }
+}

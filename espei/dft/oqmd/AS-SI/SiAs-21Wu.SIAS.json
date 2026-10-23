@@ -1,7 +1,8 @@
 {
  "components": [
   "AS",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "SIAS"

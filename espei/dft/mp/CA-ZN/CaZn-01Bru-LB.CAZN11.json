@@ -1,6 +1,7 @@
 {
  "components": [
   "CA",
+  "VA",
   "ZN"
  ],
  "phases": [

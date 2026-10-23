@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "HG"
+  "HG",
+  "VA"
  ],
  "phases": [
   "LIQUID"

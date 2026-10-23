@@ -1,6 +1,7 @@
 {
  "components": [
   "SI",
+  "VA",
   "YB"
  ],
  "phases": [

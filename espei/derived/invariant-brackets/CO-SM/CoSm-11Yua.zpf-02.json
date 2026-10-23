@@ -1,0 +1,152 @@
+{
+ "components": [
+  "CO",
+  "SM",
+  "VA"
+ ],
+ "phases": [
+  "CO17SM2",
+  "CO19SM5",
+  "CO5SM"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1093.0,
+   1073.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CO5SM",
+    [
+     "SM"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.1566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.1766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "CO19SM5",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO17SM2",
+    [
+     "SM"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.1566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.1766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ge 1993, doi:10.1515/ijmr-1993-840306",
+ "bibtex": "ge1993_e85d9d",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-SM/CoSm-11Yua.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-S52TJA6SZO",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CO-SM/CoSm-11Yua.zpf-02.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-S52TJA6SZO",
+    "side": "above",
+    "T_invariant_K": 1083,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.16666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "SmCo5 -> Sm5Co19 + Sm2Co17",
+    "reaction_type": null,
+    "phases_above": [
+     "CO5SM"
+    ],
+    "phases_below": [
+     "CO19SM5",
+     "CO17SM2"
+    ]
+   },
+   {
+    "source_observation": "ORC-S52TJA6SZO",
+    "side": "below",
+    "T_invariant_K": 1083,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.16666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "SmCo5 -> Sm5Co19 + Sm2Co17",
+    "reaction_type": null,
+    "phases_above": [
+     "CO5SM"
+    ],
+    "phases_below": [
+     "CO19SM5",
+     "CO17SM2"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.06.001",
+   "10.1515/ijmr-1993-840306"
+  ],
+  "papers": [
+   "doi:10.1515/ijmr-1993-840306",
+   "doi:10.1016/j.calphad.2011.06.001"
+  ]
+ }
+}

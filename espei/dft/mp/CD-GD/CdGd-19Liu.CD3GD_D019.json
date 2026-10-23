@@ -1,7 +1,8 @@
 {
  "components": [
   "CD",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "CD3GD_D019"

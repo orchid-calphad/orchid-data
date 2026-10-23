@@ -47,6 +47,10 @@
  ],
  "reference": "J.P. Neumann, T. Zhong, and Y.A. Chang, Bull. Alloy Phase Diagrams, 5(2), 136-140 (1984) doi:10.1007/bf02868948; B. Hallstedt, D. Risold, and L.J. Gauckler, J. Phase Equilibria, 15(5), 483-499 (1994) L. Schramm, G. Behr, W. Löser, and K. Wetzig, J. Phase Equilibria Diffusion, 26(6), 605-612 (2005) doi:10.1007/bf02649399; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 359",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-O-p359; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CU-O-p359",

@@ -1,7 +1,8 @@
 {
  "components": [
   "DY",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "DY5SI3_D88"

@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "AL21PD8"

@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

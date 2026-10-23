@@ -1,5 +1,6 @@
 {
  "components": [
+  "VA",
   "Y",
   "ZN"
  ],
@@ -384,19 +385,67 @@
   "observations": [
    {
     "id": "ORC-BY7225MNKN",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-AC2VMCIJ5Z",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-MPDU2E2F26",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-SNJMFM5ZEF",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-7UXOCDZNI3",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-IDD3GOEMPL",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-YBLJGTXU7S",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-R33R4RAI26",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-Z3Q7NWY3EP",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-GRFZ2OLCNQ",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-M6J5BCOBVQ",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-RVBTGXYID3",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-5OY72WFZRJ",
@@ -420,19 +469,62 @@
    },
    {
     "id": "ORC-LVJCH5OBLG",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-YSTMW3DSFP",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-3FT34GMONE",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-EMTEE2SRMH",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-B2CBD5GOEJ",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-VPGZOFX4MJ",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-UZAU2JYTNY",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-2BOVG5YA4U",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-IHYK2AVMH6",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-S6UJ3JUSUZ",
-    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+    "paper": "doi:10.1016/j.jallcom.2006.11.029",
+    "also_reported_as": [
+     {
+      "id": "ORC-VQR26JNTBH",
+      "paper": "doi:10.1016/j.jallcom.2006.11.029",
+      "dataset": "invariants/Y-ZN/YZn-08Liu.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -443,7 +535,8 @@
    "10.1007/bf02644469",
    "10.1016/j.jallcom.2006.11.029"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/YZn-08Liu/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/YZn-08Liu/zpf-00.json",
+  "e3_merged": 15
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

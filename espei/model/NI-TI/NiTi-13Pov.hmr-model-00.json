@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,11 +12,7 @@
   "T": 298.15,
   "X_TI": [
    0.25,
-   0.25,
    0.666667,
-   0.666667,
-   0.5,
-   0.5,
    0.5,
    0.5
   ]
@@ -25,12 +22,8 @@
   [
    [
     -42132.0,
-    -42132.0,
-    -26977.0,
     -26977.0,
     -34721.0,
-    -34721.0,
-    -37721.0,
     -37721.0
    ]
   ]
@@ -43,7 +36,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GGV4NIYGUE.42e186 ORC-GGV4NIYGUE.038c77 ORC-VZ42TLKJHT.c6ec38 ORC-VZ42TLKJHT.7cd9c0 ORC-BFT55GLVVO.d07852 ORC-BFT55GLVVO.762d6d ORC-HHKNYOONKX.40cafe ORC-HHKNYOONKX.26cd87",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GGV4NIYGUE.42e186 ORC-VZ42TLKJHT.c6ec38 ORC-BFT55GLVVO.d07852 ORC-HHKNYOONKX.40cafe",
  "reference_states": {
   "NI": {
    "phase": "FCC_A1",
@@ -92,49 +85,37 @@
     "id": "ORC-GGV4NIYGUE.42e186",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
-   },
-   {
-    "id": "ORC-GGV4NIYGUE.038c77",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
+    "measured_in": "doi:10.1016/j.calphad.2013.02.004",
+    "also_read_as": [
+     "ORC-GGV4NIYGUE.038c77"
+    ]
    },
    {
     "id": "ORC-VZ42TLKJHT.c6ec38",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
-   },
-   {
-    "id": "ORC-VZ42TLKJHT.7cd9c0",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
+    "measured_in": "doi:10.1016/j.calphad.2013.02.004",
+    "also_read_as": [
+     "ORC-VZ42TLKJHT.7cd9c0"
+    ]
    },
    {
     "id": "ORC-BFT55GLVVO.d07852",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
-   },
-   {
-    "id": "ORC-BFT55GLVVO.762d6d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
+    "measured_in": "doi:10.1016/j.calphad.2013.02.004",
+    "also_read_as": [
+     "ORC-BFT55GLVVO.762d6d"
+    ]
    },
    {
     "id": "ORC-HHKNYOONKX.40cafe",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
-   },
-   {
-    "id": "ORC-HHKNYOONKX.26cd87",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2013.02.004",
-    "measured_in": "doi:10.1016/j.calphad.2013.02.004"
+    "measured_in": "doi:10.1016/j.calphad.2013.02.004",
+    "also_read_as": [
+     "ORC-HHKNYOONKX.26cd87"
+    ]
    }
   ],
   "papers": [
@@ -143,7 +124,8 @@
   "dois": [
    "10.1016/j.calphad.2013.02.004"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/NiTi-13Pov/hmr-model-00.json"
+  "source_dataset": "db-v2.1/general/espei-model/NiTi-13Pov/hmr-model-00.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -153,26 +135,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

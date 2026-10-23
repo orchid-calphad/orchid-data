@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "NISM3_D011"

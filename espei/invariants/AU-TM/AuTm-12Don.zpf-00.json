@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "AU10TM7",
@@ -58,7 +59,7 @@
      "TM"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ],
@@ -78,7 +79,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -87,7 +88,7 @@
      "TM"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -116,7 +117,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -127,7 +128,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -136,7 +137,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -156,7 +157,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -165,7 +166,7 @@
      "TM"
     ],
     [
-     0.411765
+     null
     ]
    ],
    [
@@ -194,7 +195,7 @@
      "TM"
     ],
     [
-     0.333333
+     null
     ]
    ],
    [
@@ -203,7 +204,7 @@
      "TM"
     ],
     [
-     0.411765
+     null
     ]
    ],
    [
@@ -232,7 +233,7 @@
      "TM"
     ],
     [
-     0.333333
+     null
     ]
    ]
   ],
@@ -252,7 +253,7 @@
      "TM"
     ],
     [
-     0.333333
+     null
     ]
    ],
    [
@@ -261,7 +262,7 @@
      "TM"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -290,7 +291,7 @@
      "TM"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -310,7 +311,7 @@
      "TM"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -319,7 +320,7 @@
      "TM"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -348,7 +349,7 @@
      "TM"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -479,5 +480,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 17,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

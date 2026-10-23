@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "HO"
+  "HO",
+  "VA"
  ],
  "phases": [
   "FE2HO_C15"

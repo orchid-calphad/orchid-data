@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",
@@ -64,7 +65,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -75,7 +76,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -104,7 +105,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -124,7 +125,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -142,7 +143,7 @@
      "SI"
     ],
     [
-     0.285714
+     null
     ]
    ],
    [
@@ -171,7 +172,7 @@
      "SI"
     ],
     [
-     0.285714
+     null
     ]
    ],
    [
@@ -180,7 +181,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -209,7 +210,7 @@
      "SI"
     ],
     [
-     0.285714
+     null
     ]
    ]
   ],
@@ -229,7 +230,7 @@
      "SI"
     ],
     [
-     0.285714
+     null
     ]
    ],
    [
@@ -238,7 +239,7 @@
      "SI"
     ],
     [
-     0.333333
+     null
     ]
    ],
    [
@@ -276,7 +277,7 @@
      "SI"
     ],
     [
-     0.333333
+     null
     ]
    ]
   ],
@@ -316,7 +317,7 @@
      "SI"
     ],
     [
-     0.333333
+     null
     ]
    ],
    [
@@ -325,7 +326,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -354,7 +355,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -363,7 +364,7 @@
      "SI"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -401,7 +402,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -430,7 +431,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -450,7 +451,7 @@
      "SI"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -459,7 +460,7 @@
      "SI"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -497,7 +498,7 @@
      "SI"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ]
@@ -518,7 +519,15 @@
    {
     "id": "ORC-4WDKDDCCVG",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-UTF2FWUFGY",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-WHX2AGKPSN",
@@ -528,67 +537,171 @@
    {
     "id": "ORC-QCAB4WHTDG",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-KTY24Q3G6G",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-2AERCYT35J",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-2OQUKRRTZE",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-BH2NUW6RFQ",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-3CCEFEN3CE",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-ZZB3VR43M7",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-OP242C6OSO",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-WJGVHME2S3",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-UZX5GE53IB",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-X2FKXN3525",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-QIDGPKHSGE",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-VOGF5KRC72",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-QCRC5JYGSF",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-3X77EB5BQB",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-RMDD3UK3LM",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-L4LQT67DP4",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-D47A6WXIMS",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-OOLUPXSXK6",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-SRIYTMPALQ",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-KIXGKWCQ4X",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-VYWTJOMB7J",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-6RXCQHJZHP",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-4WWSCXAW47",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-WV37QGVIY3",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1007/s11661-999-0249-8"
+    "measured_in": "doi:10.1007/s11661-999-0249-8",
+    "also_reported_as": [
+     {
+      "id": "ORC-M7ODSJTS6Y",
+      "paper": "doi:10.1007/s11661-999-0249-8",
+      "measured_in": "doi:10.1007/s11661-999-0249-8",
+      "dataset": "invariants/NI-SI/NiSi-99Du.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -599,7 +712,8 @@
    "10.1007/s11661-999-0249-8",
    "10.1016/s0364-5916(03)00049-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-01.json",
+  "e3_merged": 14
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -666,5 +780,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 21,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

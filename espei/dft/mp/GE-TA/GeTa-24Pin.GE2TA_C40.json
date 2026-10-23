@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "GE2TA_C40"

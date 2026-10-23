@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,8 +12,6 @@
   "T": 298.15,
   "X_SE": [
    0.333333,
-   0.333333,
-   0.333333,
    0.333333
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     -16413.333333333332,
-    -16413.333333333332,
-    -15880.0,
     -15880.0
    ]
   ]
@@ -35,7 +32,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3HNT2KROYM.fc350f ORC-3HNT2KROYM.a2bfc1 ORC-JFXIVMRCAO.3f0c26 ORC-JFXIVMRCAO.b4f2b4",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3HNT2KROYM.fc350f ORC-JFXIVMRCAO.3f0c26",
  "reference_states": {
   "AG": {
    "phase": "FCC_A1",
@@ -62,15 +59,9 @@
     "measured_in": "doi:10.1016/j.ssi.2012.10.013",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-3HNT2KROYM.a2bfc1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-018-0683-7",
-    "measured_in": "doi:10.1016/j.ssi.2012.10.013",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-3HNT2KROYM.a2bfc1"
     ]
    },
    {
@@ -80,15 +71,9 @@
     "measured_in": "doi:10.1016/j.ssi.2012.10.013",
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-JFXIVMRCAO.b4f2b4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-018-0683-7",
-    "measured_in": "doi:10.1016/j.ssi.2012.10.013",
-    "caveats": [
-     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-JFXIVMRCAO.b4f2b4"
     ]
    }
   ],
@@ -100,7 +85,8 @@
    "10.1007/s11669-018-0683-7",
    "10.1016/j.ssi.2012.10.013"
   ],
-  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/gmr-12.json"
+  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/gmr-12.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -110,20 +96,6 @@
   },
   "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_printed": null,

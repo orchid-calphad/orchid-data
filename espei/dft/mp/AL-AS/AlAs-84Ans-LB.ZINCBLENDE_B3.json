@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "AS"
+  "AS",
+  "VA"
  ],
  "phases": [
   "ZINCBLENDE_B3"

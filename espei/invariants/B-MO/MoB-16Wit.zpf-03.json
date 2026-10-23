@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "MO"
+  "MO",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -363,7 +364,14 @@
    },
    {
     "id": "ORC-WRI4XRYH4M",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+    "paper": "doi:10.1016/j.jallcom.2015.09.158",
+    "also_reported_as": [
+     {
+      "id": "ORC-DP3GDQGHBJ",
+      "paper": "doi:10.1016/j.jallcom.2015.09.158",
+      "dataset": "invariants/B-MO/MoB-16Wit.zpf-10.json"
+     }
+    ]
    },
    {
     "id": "ORC-GVHL3HSVP6",
@@ -379,11 +387,25 @@
    },
    {
     "id": "ORC-22IWBSHLXU",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+    "paper": "doi:10.1016/j.jallcom.2015.09.158",
+    "also_reported_as": [
+     {
+      "id": "ORC-L6S3SXCA76",
+      "paper": "doi:10.1016/j.jallcom.2015.09.158",
+      "dataset": "invariants/B-MO/MoB-16Wit.zpf-10.json"
+     }
+    ]
    },
    {
     "id": "ORC-3VOJTKXRYP",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+    "paper": "doi:10.1016/j.jallcom.2015.09.158",
+    "also_reported_as": [
+     {
+      "id": "ORC-QCJQ2KU7OS",
+      "paper": "doi:10.1016/j.jallcom.2015.09.158",
+      "dataset": "invariants/B-MO/MoB-16Wit.zpf-10.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -392,7 +414,8 @@
   "dois": [
    "10.1016/j.jallcom.2015.09.158"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-03.json",
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

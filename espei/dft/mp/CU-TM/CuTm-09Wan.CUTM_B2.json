@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "TM"
+  "TM",
+  "VA"
  ],
  "phases": [
   "CUTM_B2"

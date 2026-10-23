@@ -1,0 +1,247 @@
+{
+ "components": [
+  "FE",
+  "U",
+  "VA"
+ ],
+ "phases": [
+  "FE2U_C15",
+  "FEU6_D2C",
+  "LIQUID",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1517.0,
+   1497.0,
+   1112.0,
+   1092.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "FE2U_C15",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.847143
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.867143
+    ]
+   ]
+  ],
+  [
+   [
+    "FEU6_D2C",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.847143
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.867143
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chatain 2003, doi:10.1361/105497103770330730",
+ "bibtex": "chatain2003_585885",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-U/FeU-03Cha.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-SHWVCWZWXY ORC-XU4TL2U24U",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/FE-U/FeU-03Cha.zpf-03.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-XU4TL2U24U",
+    "side": "above",
+    "T_invariant_K": 1507.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <-> Fe2U",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FE2U_C15"
+    ]
+   },
+   {
+    "source_observation": "ORC-XU4TL2U24U",
+    "side": "below",
+    "T_invariant_K": 1507.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <-> Fe2U",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FE2U_C15"
+    ]
+   },
+   {
+    "source_observation": "ORC-SHWVCWZWXY",
+    "side": "above",
+    "T_invariant_K": 1102.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.857143,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + bcc - U <-> FeU6",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "TETRAGONAL_U"
+    ],
+    "phases_below": [
+     "FEU6_D2C"
+    ]
+   },
+   {
+    "source_observation": "ORC-SHWVCWZWXY",
+    "side": "below",
+    "T_invariant_K": 1102.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.857143,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + bcc - U <-> FeU6",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "TETRAGONAL_U"
+    ],
+    "phases_below": [
+     "FEU6_D2C"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1361/105497103770330730"
+  ],
+  "papers": [
+   "doi:10.1361/105497103770330730"
+  ]
+ }
+}

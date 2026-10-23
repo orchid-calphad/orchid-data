@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "RE"
+  "RE",
+  "VA"
  ],
  "phases": [
   "ALRE_B11"

@@ -1,7 +1,8 @@
 {
  "components": [
   "GE",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",
@@ -20,7 +21,6 @@
    629.0,
    993.0,
    703.0,
-   673.0,
    648.0,
    638.0
   ]
@@ -121,7 +121,7 @@
      "TE"
     ],
     [
-     0.51
+     null
     ]
    ],
    [
@@ -202,35 +202,6 @@
    ],
    [
     "DIAMOND_A4",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "GETE_B1",
-    [
-     "TE"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "GETE_LOW",
-    [
-     "TE"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "LIQUID",
     [
      "TE"
     ],
@@ -275,7 +246,7 @@
      "TE"
     ],
     [
-     0.51
+     null
     ]
    ],
    [
@@ -314,7 +285,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F7FJ4C5HKP ORC-F4OT3AURCX ORC-TA6SJ23POK ORC-EI3J4M7ENM ORC-DYIQOHVHNC ORC-NCMAZDQJ7Z ORC-7DEH6VWT7P ORC-AIPUW77DYA ORC-SJR37GQKJF",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F7FJ4C5HKP ORC-F4OT3AURCX ORC-TA6SJ23POK ORC-EI3J4M7ENM ORC-DYIQOHVHNC ORC-NCMAZDQJ7Z ORC-AIPUW77DYA ORC-SJR37GQKJF",
  "bibtex": "schlieper1999_4731cc",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -322,7 +293,14 @@
   "observations": [
    {
     "id": "ORC-F7FJ4C5HKP",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
+    "paper": "doi:10.1016/s0364-5916(99)00012-7",
+    "also_reported_as": [
+     {
+      "id": "ORC-56QG7PO5OZ",
+      "paper": "doi:10.1016/s0364-5916(99)00012-7",
+      "dataset": "invariants/GE-TE/GeTe-99Sch-LB.zpf-09.json"
+     }
+    ]
    },
    {
     "id": "ORC-F4OT3AURCX",
@@ -330,7 +308,14 @@
    },
    {
     "id": "ORC-TA6SJ23POK",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
+    "paper": "doi:10.1016/s0364-5916(99)00012-7",
+    "also_reported_as": [
+     {
+      "id": "ORC-4BVADXFP5S",
+      "paper": "doi:10.1016/s0364-5916(99)00012-7",
+      "dataset": "invariants/GE-TE/GeTe-99Sch-LB.zpf-12.json"
+     }
+    ]
    },
    {
     "id": "ORC-EI3J4M7ENM",
@@ -342,11 +327,14 @@
    },
    {
     "id": "ORC-NCMAZDQJ7Z",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
-   },
-   {
-    "id": "ORC-7DEH6VWT7P",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
+    "paper": "doi:10.1016/s0364-5916(99)00012-7",
+    "also_reported_as": [
+     {
+      "id": "ORC-FDBOG4II5Q",
+      "paper": "doi:10.1016/s0364-5916(99)00012-7",
+      "dataset": "invariants/GE-TE/GeTe-99Sch-LB.zpf-11.json"
+     }
+    ]
    },
    {
     "id": "ORC-AIPUW77DYA",
@@ -354,7 +342,14 @@
    },
    {
     "id": "ORC-SJR37GQKJF",
-    "paper": "doi:10.1016/s0364-5916(99)00012-7"
+    "paper": "doi:10.1016/s0364-5916(99)00012-7",
+    "also_reported_as": [
+     {
+      "id": "ORC-S2EZPI3H22",
+      "paper": "doi:10.1016/s0364-5916(99)00012-7",
+      "dataset": "invariants/GE-TE/GeTe-99Sch-LB.zpf-11.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -363,7 +358,9 @@
   "dois": [
    "10.1016/s0364-5916(99)00012-7"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeTe-99Sch-LB/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeTe-99Sch-LB/zpf-03.json",
+  "e3_merged": 4,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -407,12 +404,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 2,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "SN",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "SN3U_L12"

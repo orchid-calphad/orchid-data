@@ -1,0 +1,64 @@
+{
+ "components": [
+  "CU",
+  "PD",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   558.4897442,
+   1676.489744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "PD"
+    ],
+    [
+     0.4171847503
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.3676314199
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and D.E. Laughlin, J. Phase Equilibria, 12(2), 231-243 (1991) doi:10.1007/bf02645723; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 361",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-PD-p361; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CuPd-08Li.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-PD-p361",
+  "target_tdb": "CuPd-08Li.tdb",
+  "record_ids": [
+   "aspa-4db9790ca71ec0d6",
+   "aspa-df716252b08a1eac"
+  ],
+  "confidence": [
+   "high",
+   "high"
+  ],
+  "points_left_out": 4,
+  "source": "assessed-phase-assemblages/espei-zpf/CU-PD-p361.json"
+ }
+}

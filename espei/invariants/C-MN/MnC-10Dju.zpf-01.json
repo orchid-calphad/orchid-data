@@ -1,7 +1,8 @@
 {
  "components": [
   "C",
-  "MN"
+  "MN",
+  "VA"
  ],
  "phases": [
   "CBCC_A12",
@@ -37,7 +38,7 @@
      "MN"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -46,7 +47,7 @@
      "MN"
     ],
     [
-     0.714286
+     null
     ]
    ],
    [
@@ -75,7 +76,7 @@
      "MN"
     ],
     [
-     0.714286
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "MN"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -113,7 +114,7 @@
      "MN"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -122,7 +123,7 @@
      "MN"
     ],
     [
-     0.793103
+     null
     ]
    ],
    [
@@ -142,7 +143,7 @@
      "MN"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -151,7 +152,7 @@
      "MN"
     ],
     [
-     0.714286
+     null
     ]
    ],
    [
@@ -160,7 +161,7 @@
      "MN"
     ],
     [
-     0.793103
+     null
     ]
    ],
    [
@@ -193,7 +194,14 @@
    },
    {
     "id": "ORC-DRGF5IDHOG",
-    "paper": "doi:10.1016/j.calphad.2010.05.002"
+    "paper": "doi:10.1016/j.calphad.2010.05.002",
+    "also_reported_as": [
+     {
+      "id": "ORC-KNBDYQ3WUD",
+      "paper": "doi:10.1016/j.calphad.2010.05.002",
+      "dataset": "invariants/C-MN/MnC-10Dju.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-DDC4YRDUQR",
@@ -212,7 +220,8 @@
    "10.1007/bf02665426",
    "10.1016/j.calphad.2010.05.002"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -235,5 +244,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 9,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

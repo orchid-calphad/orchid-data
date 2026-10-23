@@ -1,0 +1,624 @@
+{
+ "components": [
+  "NI",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "NI2SI_C37",
+  "NI2SI_THETA",
+  "NI3SI2",
+  "NISI2_C1",
+  "NISI_B31"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1568.15,
+   1548.15,
+   1089.15,
+   1069.15,
+   1128.15,
+   1108.15,
+   1227.15,
+   1275.15,
+   1255.15,
+   1276.15,
+   1256.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.388
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.382
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.394
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3SI2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.382
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.394
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.391
+    ]
+   ],
+   [
+    "NISI_B31",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3955
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4045
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3SI2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3955
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4045
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.41
+    ]
+   ],
+   [
+    "NISI_B31",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.47
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.506
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.496
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.516
+    ]
+   ]
+  ],
+  [
+   [
+    "NISI_B31",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.496
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.516
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.602
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "NISI2_C1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Tokunaga 2003, doi:10.1016/s0364-5916(03)00049-x",
+ "bibtex": "tokunaga2003_832b45",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SI/NiSi-03Tok.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6RM4PVKHKE ORC-CBZOKQJJOP ORC-EH7SJS7KXS ORC-G6M6KXQVOS ORC-SEWJ3XX5VF ORC-SKAXD7EFFQ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/NI-SI/NiSi-03Tok.zpf-02.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-SKAXD7EFFQ",
+    "side": "above",
+    "T_invariant_K": 1558.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> θ",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI2SI_THETA"
+    ]
+   },
+   {
+    "source_observation": "ORC-SKAXD7EFFQ",
+    "side": "below",
+    "T_invariant_K": 1558.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> θ",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI2SI_THETA"
+    ]
+   },
+   {
+    "source_observation": "ORC-CBZOKQJJOP",
+    "side": "above",
+    "T_invariant_K": 1079.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.388,
+    "hyperplane_delta": 0.006000000000000005,
+    "reaction_printed": "θ -> δ + ε",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "NI2SI_THETA"
+    ],
+    "phases_below": [
+     "NI2SI_C37",
+     "NI3SI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-CBZOKQJJOP",
+    "side": "below",
+    "T_invariant_K": 1079.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.388,
+    "hyperplane_delta": 0.006000000000000005,
+    "reaction_printed": "θ -> δ + ε",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "NI2SI_THETA"
+    ],
+    "phases_below": [
+     "NI2SI_C37",
+     "NI3SI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-SEWJ3XX5VF",
+    "side": "above",
+    "T_invariant_K": 1118.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.004500000000000004,
+    "reaction_printed": "θ + NiSi -> ε",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "NI2SI_THETA",
+     "NISI_B31"
+    ],
+    "phases_below": [
+     "NI3SI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-SEWJ3XX5VF",
+    "side": "below",
+    "T_invariant_K": 1118.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.004500000000000004,
+    "reaction_printed": "θ + NiSi -> ε",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "NI2SI_THETA",
+     "NISI_B31"
+    ],
+    "phases_below": [
+     "NI3SI2"
+    ]
+   },
+   {
+    "source_observation": "ORC-6RM4PVKHKE",
+    "side": "below",
+    "T_invariant_K": 1237.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.46,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> θ + NiSi",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI2SI_THETA",
+     "NISI_B31"
+    ]
+   },
+   {
+    "source_observation": "ORC-G6M6KXQVOS",
+    "side": "above",
+    "T_invariant_K": 1265.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.506,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> NiSi",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NISI_B31"
+    ]
+   },
+   {
+    "source_observation": "ORC-G6M6KXQVOS",
+    "side": "below",
+    "T_invariant_K": 1265.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.506,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid -> NiSi",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NISI_B31"
+    ]
+   },
+   {
+    "source_observation": "ORC-EH7SJS7KXS",
+    "side": "above",
+    "T_invariant_K": 1266.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Si -> NiSi2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "DIAMOND_A4"
+    ],
+    "phases_below": [
+     "NISI2_C1"
+    ]
+   },
+   {
+    "source_observation": "ORC-EH7SJS7KXS",
+    "side": "below",
+    "T_invariant_K": 1266.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Si -> NiSi2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "DIAMOND_A4"
+    ],
+    "phases_below": [
+     "NISI2_C1"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s11661-999-0249-8",
+   "10.1016/j.calphad.2005.08.001",
+   "10.1016/s0364-5916(03)00049-x"
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(03)00049-x",
+   "ref:20676c9623806214",
+   "doi:10.1016/j.calphad.2005.08.001",
+   "ref:78dcd7bdc0e164ad",
+   "doi:10.1007/s11661-999-0249-8"
+  ]
+ }
+}

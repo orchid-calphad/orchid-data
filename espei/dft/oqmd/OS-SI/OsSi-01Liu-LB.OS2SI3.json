@@ -1,7 +1,8 @@
 {
  "components": [
   "OS",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "OS2SI3"

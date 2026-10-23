@@ -1,0 +1,1010 @@
+{
+ "components": [
+  "AL",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "AL2ZR3",
+  "AL3ZR2",
+  "AL3ZR4",
+  "AL3ZR5_D8M",
+  "AL4ZR5",
+  "ALZR2_B82",
+  "ALZR3_L12",
+  "ALZR_B33",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1633.0,
+   1613.0,
+   1583.0,
+   1563.0,
+   1533.0,
+   1513.0,
+   1302.0,
+   1282.0,
+   1271.0,
+   1251.0,
+   1683.0,
+   1663.0,
+   1743.0,
+   1333.0,
+   1313.0,
+   1768.0,
+   1558.0,
+   1538.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.68
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.7
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3ZR5_D8M",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.68
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.7
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3ZR5_D8M",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "ALZR2_B82",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3ZR5_D8M",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "ALZR2_B82",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALZR2_B82",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "ALZR3_L12",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALZR2_B82",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "ALZR3_L12",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.6499999999999999
+    ]
+   ],
+   [
+    "AL2ZR3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.635
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3ZR5_D8M",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.635
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2ZR3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.595
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.605
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2ZR3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5634920635
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5793650794
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3ZR4",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5634920635
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5793650794
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.48
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3ZR2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "ALZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ]
+ ],
+ "reference": "Murray 1992, doi:10.1007/bf02667556",
+ "bibtex": "murray1992_5c5d85",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-ZR/AlZr-18Tam.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3C7ZQX72FM ORC-DEFZDBXFWT ORC-LKXWFXNNHQ ORC-SKAXOHRCH5 ORC-UWNPV3NAQN ORC-VRKK7U2JT2 ORC-X3322BTOHO ORC-ZL4QVXQJY6 ORC-ZT2I3NGQD5 ORC-ZXU6LPSRKR",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AL-ZR/AlZr-18Tam.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-ZXU6LPSRKR",
+    "side": "above",
+    "T_invariant_K": 1623,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.69,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> bcc + Al3Zr5",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZXU6LPSRKR",
+    "side": "below",
+    "T_invariant_K": 1623,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.69,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> bcc + Al3Zr5",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ]
+   },
+   {
+    "source_observation": "ORC-UWNPV3NAQN",
+    "side": "above",
+    "T_invariant_K": 1573,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + Al3Zr5 -> AlZr2",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ],
+    "phases_below": [
+     "ALZR2_B82"
+    ]
+   },
+   {
+    "source_observation": "ORC-UWNPV3NAQN",
+    "side": "below",
+    "T_invariant_K": 1573,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + Al3Zr5 -> AlZr2",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ],
+    "phases_below": [
+     "ALZR2_B82"
+    ]
+   },
+   {
+    "source_observation": "ORC-3C7ZQX72FM",
+    "side": "above",
+    "T_invariant_K": 1523,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + Al3Zr5 -> AlZr2",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ],
+    "phases_below": [
+     "ALZR2_B82"
+    ]
+   },
+   {
+    "source_observation": "ORC-3C7ZQX72FM",
+    "side": "below",
+    "T_invariant_K": 1523,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + Al3Zr5 -> AlZr2",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "AL3ZR5_D8M"
+    ],
+    "phases_below": [
+     "ALZR2_B82"
+    ]
+   },
+   {
+    "source_observation": "ORC-DEFZDBXFWT",
+    "side": "above",
+    "T_invariant_K": 1292,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + AlZr2 -> AlZr3",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "ALZR2_B82"
+    ],
+    "phases_below": [
+     "ALZR3_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-DEFZDBXFWT",
+    "side": "below",
+    "T_invariant_K": 1292,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + AlZr2 -> AlZr3",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "ALZR2_B82"
+    ],
+    "phases_below": [
+     "ALZR3_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-LKXWFXNNHQ",
+    "side": "above",
+    "T_invariant_K": 1261,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + AlZr2 -> AlZr3",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "ALZR2_B82"
+    ],
+    "phases_below": [
+     "ALZR3_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-LKXWFXNNHQ",
+    "side": "below",
+    "T_invariant_K": 1261,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "bcc + AlZr2 -> AlZr3",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "BCC_A2",
+     "ALZR2_B82"
+    ],
+    "phases_below": [
+     "ALZR3_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-VRKK7U2JT2",
+    "side": "above",
+    "T_invariant_K": 1673,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.625,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Al2Zr3 -> Al3Zr5",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL2ZR3"
+    ],
+    "phases_below": [
+     "AL3ZR5_D8M"
+    ]
+   },
+   {
+    "source_observation": "ORC-VRKK7U2JT2",
+    "side": "below",
+    "T_invariant_K": 1673,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.625,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Al2Zr3 -> Al3Zr5",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL2ZR3"
+    ],
+    "phases_below": [
+     "AL3ZR5_D8M"
+    ]
+   },
+   {
+    "source_observation": "ORC-X3322BTOHO",
+    "side": "below",
+    "T_invariant_K": 1753,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.0050000000000000044,
+    "reaction_printed": "L + Al4Zr5 -> Al2Zr3",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL4ZR5"
+    ],
+    "phases_below": [
+     "AL2ZR3"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZL4QVXQJY6",
+    "side": "above",
+    "T_invariant_K": 1323,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5714285714285714,
+    "hyperplane_delta": 0.007936507936507908,
+    "reaction_printed": "Al2Zr3 + Al4Zr5 -> Al3Zr4",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "AL2ZR3",
+     "AL4ZR5"
+    ],
+    "phases_below": [
+     "AL3ZR4"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZL4QVXQJY6",
+    "side": "below",
+    "T_invariant_K": 1323,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5714285714285714,
+    "hyperplane_delta": 0.007936507936507908,
+    "reaction_printed": "Al2Zr3 + Al4Zr5 -> Al3Zr4",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "AL2ZR3",
+     "AL4ZR5"
+    ],
+    "phases_below": [
+     "AL3ZR4"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZT2I3NGQD5",
+    "side": "above",
+    "T_invariant_K": 1758,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.49,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Al4Zr5 + Al3Zr2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AL4ZR5",
+     "AL3ZR2"
+    ]
+   },
+   {
+    "source_observation": "ORC-SKAXOHRCH5",
+    "side": "above",
+    "T_invariant_K": 1548,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Al4Zr5 + Al3Zr2 -> AlZr",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "AL4ZR5",
+     "AL3ZR2"
+    ],
+    "phases_below": [
+     "ALZR_B33"
+    ]
+   },
+   {
+    "source_observation": "ORC-SKAXOHRCH5",
+    "side": "below",
+    "T_invariant_K": 1548,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Al4Zr5 + Al3Zr2 -> AlZr",
+    "reaction_type": "peritectoid",
+    "phases_above": [
+     "AL4ZR5",
+     "AL3ZR2"
+    ],
+    "phases_below": [
+     "ALZR_B33"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/bf02667556",
+   "10.1007/s10973-017-6635-3",
+   "10.1007/s11669-020-00827-z"
+  ],
+  "papers": [
+   "doi:10.1007/bf02667556",
+   "doi:10.1007/s10973-017-6635-3",
+   "ref:75d2a7c94d80a4c9",
+   "doi:10.1007/s11669-020-00827-z",
+   "ref:ce857b9b659a728f"
+  ]
+ }
+}

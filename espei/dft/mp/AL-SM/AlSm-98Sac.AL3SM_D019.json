@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "AL3SM_D019"

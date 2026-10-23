@@ -1,0 +1,178 @@
+{
+ "components": [
+  "B",
+  "PR"
+ ],
+ "phases": [
+  "LIQUID",
+  "PRB4_D1E",
+  "PRB6_D21"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1699.708685,
+   2600.708685,
+   2424.208685,
+   2521.208685,
+   2718.708685
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "PRB4_D1E",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PRB6_D21",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1724213308
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     0.6128953781
+    ]
+   ]
+  ],
+  [
+   [
+    "PRB4_D1E",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.2555107534
+    ]
+   ]
+  ],
+  [
+   [
+    "PRB6_D21",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.09083352433
+    ]
+   ]
+  ],
+  [
+   [
+    "PRB6_D21",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PR"
+    ],
+    [
+     0.1849347981
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.K. Liao and K.E. Spear, Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 519, 521-522 (1990); M.E. Schlesinger, J. Phase Equilibria, 19(1), 49-55 (1998) doi:10.1361/105497198770342742; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 149",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-PR-p149; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to PrB-20Che.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-PR-p149",
+  "target_tdb": "PrB-20Che.tdb",
+  "record_ids": [
+   "aspa-989c02deb523a8d1",
+   "aspa-baf2627e807c3ebe",
+   "aspa-9d15e37272e94ea1",
+   "aspa-44aaa5280d762a0c",
+   "aspa-945f692f779d075d"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/B-PR-p149.json"
+ }
+}

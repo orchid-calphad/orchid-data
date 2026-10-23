@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "FCC_A1",

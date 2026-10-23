@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "GA"
+  "GA",
+  "VA"
  ],
  "phases": [
   "CEGA2_C32",
@@ -12,8 +13,6 @@
   "T": 298.15,
   "X_GA": [
    0.666667,
-   0.666667,
-   0.666667,
    0.666667
   ]
  },
@@ -22,8 +21,6 @@
   [
    [
     -72036.0,
-    -72036.0,
-    -57382.0,
     -57382.0
    ]
   ]
@@ -36,7 +33,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B2ABHRFCI6.381ccf ORC-B2ABHRFCI6.381ccf ORC-ZRZDG6UDAH.79d7f8 ORC-ZRZDG6UDAH.d84e3c",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B2ABHRFCI6.381ccf ORC-ZRZDG6UDAH.79d7f8",
  "reference_states": {
   "CE": {
    "phase": "FCC_A1",
@@ -85,25 +82,19 @@
     "id": "ORC-B2ABHRFCI6.381ccf",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-013-0261-y",
-    "measured_in": "doi:10.1007/s11669-013-0261-y"
-   },
-   {
-    "id": "ORC-B2ABHRFCI6.381ccf",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-013-0261-y",
-    "measured_in": "doi:10.1007/s11669-013-0261-y"
+    "measured_in": "doi:10.1007/s11669-013-0261-y",
+    "also_read_as": [
+     "ORC-B2ABHRFCI6.381ccf"
+    ]
    },
    {
     "id": "ORC-ZRZDG6UDAH.79d7f8",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-013-0261-y",
-    "measured_in": "doi:10.1007/s11669-013-0261-y"
-   },
-   {
-    "id": "ORC-ZRZDG6UDAH.d84e3c",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-013-0261-y",
-    "measured_in": "doi:10.1007/s11669-013-0261-y"
+    "measured_in": "doi:10.1007/s11669-013-0261-y",
+    "also_read_as": [
+     "ORC-ZRZDG6UDAH.d84e3c"
+    ]
    }
   ],
   "papers": [
@@ -112,7 +103,8 @@
   "dois": [
    "10.1007/s11669-013-0261-y"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CeGa-13Idb/hmr-model-02.json"
+  "source_dataset": "db-v2.1/general/espei-model/CeGa-13Idb/hmr-model-02.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -122,16 +114,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

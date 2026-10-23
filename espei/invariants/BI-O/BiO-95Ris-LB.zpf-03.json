@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "BI2O3_ALPHA",
@@ -62,18 +63,37 @@
    {
     "id": "ORC-S6F72H7KE4",
     "paper": "doi:10.1007/bf02667306",
-    "measured_in": "doi:10.1016/0040-6031(80)87127-9"
+    "measured_in": "doi:10.1016/0040-6031(80)87127-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-AQFEHFCL7K",
+      "paper": "doi:10.1007/bf02667306",
+      "measured_in": "doi:10.2320/jinstmet1952.55.5_536",
+      "dataset": "invariants/BI-O/BiO-95Ris-LB.zpf-06.json"
+     },
+     {
+      "id": "ORC-NP7DG4REST",
+      "paper": "doi:10.1007/bf02667306",
+      "measured_in": "doi:10.2320/jinstmet1952.56.8_900",
+      "dataset": "invariants/BI-O/BiO-95Ris-LB.zpf-07.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/0040-6031(80)87127-9",
-   "doi:10.1007/bf02667306"
+   "doi:10.1007/bf02667306",
+   "doi:10.2320/jinstmet1952.55.5_536",
+   "doi:10.2320/jinstmet1952.56.8_900"
   ],
   "dois": [
    "10.1007/bf02667306",
-   "10.1016/0040-6031(80)87127-9"
+   "10.1016/0040-6031(80)87127-9",
+   "10.2320/jinstmet1952.55.5_536",
+   "10.2320/jinstmet1952.56.8_900"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-03.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

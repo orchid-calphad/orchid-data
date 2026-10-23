@@ -1,19 +1,18 @@
 {
  "components": [
   "GE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
-  "DIAMOND_A4",
   "GE3TI5_D88",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1703.0,
-   1133.0
+   1703.0
   ]
  },
  "output": "ZPF",
@@ -46,35 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GE3TI5_D88",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Liu 2011, doi:10.1016/j.tca.2011.04.017",
@@ -84,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IRFYE736PV ORC-H7PYXKGY4X",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IRFYE736PV",
  "bibtex": "liu2011_519742",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -92,10 +62,6 @@
   "observations": [
    {
     "id": "ORC-IRFYE736PV",
-    "paper": "doi:10.1016/j.tca.2011.04.017"
-   },
-   {
-    "id": "ORC-H7PYXKGY4X",
     "paper": "doi:10.1016/j.tca.2011.04.017"
    }
   ],
@@ -105,15 +71,12 @@
   "dois": [
    "10.1016/j.tca.2011.04.017"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GeTi-11Liu/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/GeTi-11Liu/zpf-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

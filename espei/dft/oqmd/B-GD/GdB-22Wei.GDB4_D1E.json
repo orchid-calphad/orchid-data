@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "GDB4_D1E"

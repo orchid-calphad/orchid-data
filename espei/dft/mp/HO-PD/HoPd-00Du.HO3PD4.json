@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "HO3PD4"

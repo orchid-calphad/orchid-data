@@ -1,0 +1,207 @@
+{
+ "components": [
+  "MO",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1915.502306,
+   1137.002306,
+   1716.502306,
+   2208.502306,
+   2457.502306,
+   2383.002306,
+   2750.502306
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.09105278104
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.3680183664
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.7912297943
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.404579827
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.2152615788
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.6439822679
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.4942305319
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 21(6), 572 (2000) doi:10.1007/s11669-000-0030-6; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 648",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MO-RU-p648; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to MoRu-00Oh-oldsigma.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MO-RU-p648",
+  "target_tdb": "MoRu-00Oh-oldsigma.tdb",
+  "record_ids": [
+   "aspa-86e368e725ecfc57",
+   "aspa-1bc826d9463f4470",
+   "aspa-8372e282566e8e94",
+   "aspa-e7ed4a693823f485",
+   "aspa-865d19ee47de958f",
+   "aspa-ea985f229550550f",
+   "aspa-b2e39246cd384260"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "high",
+   "medium",
+   "medium",
+   "medium",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/MO-RU-p648.json"
+ }
+}

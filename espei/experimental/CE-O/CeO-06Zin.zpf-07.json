@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -41,7 +42,14 @@
    {
     "id": "ORC-BOZMAAQGKP",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.ssi.2006.02.044"
+    "paper": "doi:10.1016/j.ssi.2006.02.044",
+    "also_reported_as": [
+     {
+      "id": "ORC-CQ7EYVAKAY",
+      "paper": "doi:10.1016/j.ssi.2006.02.044",
+      "dataset": "experimental/CE-O/CeO-06Zin.zpf-09.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -50,7 +58,8 @@
   "dois": [
    "10.1016/j.ssi.2006.02.044"
   ],
-  "source_dataset": "db-v2.1/general/espei/CeO-06Zin/zpf-07.json"
+  "source_dataset": "db-v2.1/general/espei/CeO-06Zin/zpf-07.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

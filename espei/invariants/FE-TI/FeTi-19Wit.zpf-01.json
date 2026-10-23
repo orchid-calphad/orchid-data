@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "A2_BCC",
@@ -12,42 +13,12 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1589.0,
    1599.0,
    1357.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "B2_BCC",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -114,16 +85,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HU3IY7BSCK ORC-6BVRQWP75R ORC-LRBJHCCJER",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6BVRQWP75R ORC-LRBJHCCJER",
  "bibtex": "witusiewicz2019_f3538e",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-HU3IY7BSCK",
-    "paper": "doi:10.1016/j.jallcom.2019.05.341"
-   },
    {
     "id": "ORC-6BVRQWP75R",
     "paper": "doi:10.1016/j.jallcom.2019.05.341"
@@ -139,17 +106,12 @@
   "dois": [
    "10.1016/j.jallcom.2019.05.341"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeTi-19Wit/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-19Wit/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 9.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",

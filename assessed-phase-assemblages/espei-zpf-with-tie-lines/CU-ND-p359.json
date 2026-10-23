@@ -51,7 +51,7 @@
      "ND"
     ],
     [
-     0.143
+     null
     ]
    ]
   ],
@@ -62,7 +62,7 @@
      "ND"
     ],
     [
-     0.143
+     null
     ]
    ],
    [
@@ -71,7 +71,16 @@
      "ND"
     ],
     [
-     0.167
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.1546933952
     ]
    ]
   ],
@@ -82,7 +91,7 @@
      "ND"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -91,7 +100,16 @@
      "ND"
     ],
     [
-     0.2
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.183241385
     ]
    ]
   ],
@@ -102,7 +120,7 @@
      "ND"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -111,7 +129,16 @@
      "ND"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.2668819867
     ]
    ]
   ],
@@ -153,7 +180,7 @@
      "ND"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -173,7 +200,7 @@
      "ND"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -222,7 +249,7 @@
      "ND"
     ],
     [
-     0.167
+     null
     ]
    ],
    [
@@ -242,7 +269,7 @@
      "ND"
     ],
     [
-     0.143
+     null
     ]
    ],
    [
@@ -327,6 +354,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 19(2), 181 (1998) doi:10.1361/105497198770342670; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 359",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-ND-p359; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CU-ND-p359",

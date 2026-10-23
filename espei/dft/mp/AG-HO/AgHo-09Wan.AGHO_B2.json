@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "HO"
+  "HO",
+  "VA"
  ],
  "phases": [
   "AGHO_B2"

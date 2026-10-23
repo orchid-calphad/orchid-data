@@ -1,6 +1,7 @@
 {
  "components": [
   "FE",
+  "VA",
   "Y"
  ],
  "phases": [
@@ -10,7 +11,6 @@
   "P": 101325,
   "T": 973.0,
   "X_Y": [
-   0.206897,
    0.206897
   ]
  },
@@ -18,7 +18,6 @@
  "values": [
   [
    [
-    -79.0,
     -79.0
    ]
   ]
@@ -31,7 +30,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-R7FXTYB7WY.1c8732 ORC-R7FXTYB7WY.a72d0b",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-R7FXTYB7WY.1c8732",
  "reference_states": {
   "FE": {
    "phase": "BCC_A2",
@@ -80,13 +79,10 @@
     "id": "ORC-R7FXTYB7WY.1c8732",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
-   },
-   {
-    "id": "ORC-R7FXTYB7WY.a72d0b",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0574-3",
-    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010",
+    "also_read_as": [
+     "ORC-R7FXTYB7WY.a72d0b"
+    ]
    }
   ],
   "papers": [
@@ -98,7 +94,7 @@
    "10.1016/j.jallcom.2013.07.010"
   ],
   "source_dataset": "db-v2.1/general/espei-model/FeY-14Kar/smr-model-05.json",
-  "values_dropped": 14
+  "values_dropped": 15
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -108,11 +104,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "SE"
+  "SE",
+  "VA"
  ],
  "phases": [
   "PD17SE15"

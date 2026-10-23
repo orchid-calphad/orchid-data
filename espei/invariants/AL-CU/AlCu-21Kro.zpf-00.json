@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
   "AL2CU_C16",
@@ -246,7 +247,7 @@
      "CU"
     ],
     [
-     0.561
+     null
     ]
    ],
    [
@@ -334,7 +335,15 @@
    {
     "id": "ORC-ZP2XYIXGJZ",
     "paper": "doi:10.1007/s10853-020-05423-7",
-    "measured_in": "doi:10.1016/j.intermet.2011.07.007"
+    "measured_in": "doi:10.1016/j.intermet.2011.07.007",
+    "also_reported_as": [
+     {
+      "id": "ORC-4WYRR53PRX",
+      "paper": "doi:10.1007/s10853-020-05423-7",
+      "measured_in": "unresolved:source:doi:10-1007-s10853-020-05423-7#1",
+      "dataset": "invariants/AL-CU/AlCu-21Kro.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-CE3FHZD6KB",
@@ -354,13 +363,15 @@
   ],
   "papers": [
    "doi:10.1016/j.intermet.2011.07.007",
-   "doi:10.1007/s10853-020-05423-7"
+   "doi:10.1007/s10853-020-05423-7",
+   "unresolved:source:doi:10-1007-s10853-020-05423-7#1"
   ],
   "dois": [
    "10.1007/s10853-020-05423-7",
    "10.1016/j.intermet.2011.07.007"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlCu-21Kro/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlCu-21Kro/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -399,5 +410,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 1,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

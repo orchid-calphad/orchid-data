@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "FE"
+  "FE",
+  "VA"
  ],
  "phases": [
   "M2B_C16"

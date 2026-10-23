@@ -1,7 +1,8 @@
 {
  "components": [
   "CR",
-  "RE"
+  "RE",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -92,7 +93,15 @@
   "observations": [
    {
     "id": "ORC-NUIN4BC5W3",
-    "paper": "doi:10.1016/j.calphad.2010.09.003"
+    "paper": "doi:10.1016/j.calphad.2010.09.003",
+    "also_reported_as": [
+     {
+      "id": "ORC-WS74RFU5XL",
+      "paper": "doi:10.1016/s0925-8388(98)00572-6",
+      "measured_in": "doi:10.1016/s0925-8388(98)00572-6",
+      "dataset": "invariants/CR-RE/CrRe-98Hua-newsigma.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-XDIXO4VKWM",
@@ -100,12 +109,15 @@
    }
   ],
   "papers": [
-   "doi:10.1016/j.calphad.2010.09.003"
+   "doi:10.1016/j.calphad.2010.09.003",
+   "doi:10.1016/s0925-8388(98)00572-6"
   ],
   "dois": [
-   "10.1016/j.calphad.2010.09.003"
+   "10.1016/j.calphad.2010.09.003",
+   "10.1016/s0925-8388(98)00572-6"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CrRe-10Pal/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CrRe-10Pal/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

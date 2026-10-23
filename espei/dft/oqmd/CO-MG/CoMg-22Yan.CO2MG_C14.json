@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "CO2MG_C14"

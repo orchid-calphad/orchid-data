@@ -1,6 +1,7 @@
 {
  "components": [
   "AL",
+  "VA",
   "ZR"
  ],
  "phases": [
@@ -28,7 +29,7 @@
      "ZR"
     ],
     [
-     0.5555555555555556
+     null
     ]
    ],
    [
@@ -37,7 +38,7 @@
      "ZR"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -46,7 +47,7 @@
      "ZR"
     ],
     [
-     0.5714285714285714
+     null
     ]
    ],
    [
@@ -66,7 +67,7 @@
      "ZR"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -75,7 +76,7 @@
      "ZR"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -84,7 +85,7 @@
      "ZR"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -104,7 +105,7 @@
      "ZR"
     ],
     [
-     0.5555555555555556
+     null
     ]
    ],
    [
@@ -113,7 +114,7 @@
      "ZR"
     ],
     [
-     0.5714285714285714
+     null
     ]
    ],
    [
@@ -122,7 +123,7 @@
      "ZR"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -152,27 +153,85 @@
    {
     "id": "ORC-ZXQ7W576YC",
     "paper": "doi:10.1007/s11669-015-0398-y",
-    "measured_in": "ref:0d1facddb947a2a5"
+    "measured_in": "ref:0d1facddb947a2a5",
+    "also_reported_as": [
+     {
+      "id": "ORC-HLM6ABCIYG",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "doi:10.1007/bf02667556",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-00.json"
+     },
+     {
+      "id": "ORC-HRQ3PL2UMV",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "ref:1d99771a0cbc5caf",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-CK6BLEXIYS",
     "paper": "doi:10.1007/s11669-015-0398-y",
-    "measured_in": "ref:0d1facddb947a2a5"
+    "measured_in": "ref:0d1facddb947a2a5",
+    "also_reported_as": [
+     {
+      "id": "ORC-AFBCFLX4GI",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "doi:10.1007/bf02667556",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-00.json"
+     },
+     {
+      "id": "ORC-FSAC5JFUAW",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "ref:1d99771a0cbc5caf",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-01.json"
+     },
+     {
+      "id": "ORC-X2NEJR2XDE.6492ab",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "doi:10.1515/ijmr-1962-530810",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-04.json"
+     }
+    ]
    },
    {
     "id": "ORC-ZZW7RHNQ3H",
     "paper": "doi:10.1007/s11669-015-0398-y",
-    "measured_in": "ref:0d1facddb947a2a5"
+    "measured_in": "ref:0d1facddb947a2a5",
+    "also_reported_as": [
+     {
+      "id": "ORC-AUX6NSQSFD",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "doi:10.1007/bf02667556",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-00.json"
+     },
+     {
+      "id": "ORC-M5VBSSXGAZ",
+      "paper": "doi:10.1007/s10973-017-6635-3",
+      "measured_in": "ref:1d99771a0cbc5caf",
+      "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:0d1facddb947a2a5",
-   "doi:10.1007/s11669-015-0398-y"
+   "doi:10.1007/s11669-015-0398-y",
+   "doi:10.1007/bf02667556",
+   "doi:10.1007/s10973-017-6635-3",
+   "ref:1d99771a0cbc5caf",
+   "doi:10.1515/ijmr-1962-530810",
+   "doi:10.1007/s11669-020-00827-z"
   ],
   "dois": [
-   "10.1007/s11669-015-0398-y"
+   "10.1007/bf02667556",
+   "10.1007/s10973-017-6635-3",
+   "10.1007/s11669-015-0398-y",
+   "10.1007/s11669-020-00827-z",
+   "10.1515/ijmr-1962-530810"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlZr-15Fis/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-15Fis/zpf-01.json",
+  "e3_merged": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -191,5 +250,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 9,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "AL2PR_C15"

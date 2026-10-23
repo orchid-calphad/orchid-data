@@ -1,7 +1,8 @@
 {
  "components": [
   "LI",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -22,9 +23,7 @@
    1008.0,
    837.6,
    759.2,
-   722.7,
-   823.8,
-   885.9
+   722.7
   ]
  },
  "output": "ZPF",
@@ -182,28 +181,6 @@
      0.6
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.04
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.08
-    ]
-   ]
   ]
  ],
  "reference": "Li 2014, doi:10.1016/j.calphad.2014.09.002",
@@ -214,7 +191,7 @@
   "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TWBWJZSXU2 ORC-LEVJCJX5K7 ORC-IF7B4FZA7E ORC-JQEVRDTZ3D ORC-N4G34I5D35 ORC-Z3I227U66K ORC-ZQCRAYKHXW ORC-Z2QJ5MDQX3 ORC-JGEF4F6PJV ORC-WBZKS5L2EO ORC-5532QTJPJ5 ORC-OPD4R2MPXF ORC-RDWRM4IIOO ORC-IZUW2XUHIR ORC-JOJU5VIVFN ORC-VCKIFZPUZR",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TWBWJZSXU2 ORC-LEVJCJX5K7 ORC-IF7B4FZA7E ORC-JQEVRDTZ3D ORC-N4G34I5D35 ORC-Z3I227U66K ORC-ZQCRAYKHXW ORC-Z2QJ5MDQX3 ORC-JGEF4F6PJV ORC-WBZKS5L2EO ORC-5532QTJPJ5 ORC-OPD4R2MPXF ORC-RDWRM4IIOO ORC-IZUW2XUHIR",
  "bibtex": "li2014_61c8d5",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -230,13 +207,29 @@
     "id": "ORC-LEVJCJX5K7",
     "reader_agreement": "single_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
+    "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+    "also_reported_as": [
+     {
+      "id": "ORC-JOJU5VIVFN",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "experimental/LI-SN/LiSn-14Li.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-IF7B4FZA7E",
     "reader_agreement": "single_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
+    "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+    "also_reported_as": [
+     {
+      "id": "ORC-VCKIFZPUZR",
+      "paper": "doi:10.1016/j.calphad.2014.09.002",
+      "measured_in": "doi:10.1016/j.calphad.2014.09.002",
+      "dataset": "experimental/LI-SN/LiSn-14Li.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-JQEVRDTZ3D",
@@ -303,18 +296,6 @@
     "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
-   },
-   {
-    "id": "ORC-JOJU5VIVFN",
-    "reader_agreement": "single_reader",
-    "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
-   },
-   {
-    "id": "ORC-VCKIFZPUZR",
-    "reader_agreement": "single_reader",
-    "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    }
   ],
   "papers": [
@@ -323,19 +304,13 @@
   "dois": [
    "10.1016/j.calphad.2014.09.002"
   ],
-  "source_dataset": "db-v2.1/general/espei/LiSn-14Li/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/LiSn-14Li/zpf-00.json",
+  "e3_merged": 2,
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "MO"
+  "MO",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -61,7 +62,14 @@
   "observations": [
    {
     "id": "ORC-2TRUJEHUE7",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+    "paper": "doi:10.1016/j.jallcom.2015.09.158",
+    "also_reported_as": [
+     {
+      "id": "ORC-B32ZL7A3MG",
+      "paper": "doi:10.1016/j.jallcom.2015.09.158",
+      "dataset": "invariants/B-MO/MoB-16Wit.zpf-09.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -70,7 +78,8 @@
   "dois": [
    "10.1016/j.jallcom.2015.09.158"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

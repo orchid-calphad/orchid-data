@@ -1,6 +1,7 @@
 {
  "components": [
   "SR",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -92,17 +93,38 @@
    {
     "id": "ORC-QZ3JSFBR7M",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497103770330325"
+    "paper": "doi:10.1361/105497103770330325",
+    "also_reported_as": [
+     {
+      "id": "ORC-IJJ3TQJFPO",
+      "paper": "doi:10.1361/105497103770330325",
+      "dataset": "experimental/SR-ZN/SrZn-03Zho.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-NPBFO7Z7M5",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497103770330325"
+    "paper": "doi:10.1361/105497103770330325",
+    "also_reported_as": [
+     {
+      "id": "ORC-5XUBNIPTLG",
+      "paper": "doi:10.1361/105497103770330325",
+      "dataset": "experimental/SR-ZN/SrZn-03Zho.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-JRDQOT34PH",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497103770330325"
+    "paper": "doi:10.1361/105497103770330325",
+    "also_reported_as": [
+     {
+      "id": "ORC-ERIIUCOABH",
+      "paper": "doi:10.1361/105497103770330325",
+      "dataset": "experimental/SR-ZN/SrZn-03Zho.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -111,7 +133,8 @@
   "dois": [
    "10.1361/105497103770330325"
   ],
-  "source_dataset": "db-v2.1/general/espei/SrZn-03Zho/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/SrZn-03Zho/zpf-00.json",
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

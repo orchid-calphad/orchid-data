@@ -1,7 +1,8 @@
 {
  "components": [
   "GD",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "GDNI2_C15"

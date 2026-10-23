@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "AUPR2_C37"

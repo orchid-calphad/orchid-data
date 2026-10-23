@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "SITI_B27"

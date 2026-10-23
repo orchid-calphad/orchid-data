@@ -2,6 +2,7 @@
  "components": [
   "AL",
   "MG",
+  "VA",
   "ZN"
  ],
  "phases": [
@@ -28,7 +29,6 @@
    573.15,
    573.15,
    573.15,
-   608.15,
    608.15,
    608.15,
    608.15
@@ -265,19 +265,6 @@
      0.075
     ]
    ]
-  ],
-  [
-   [
-    "ALMG_BETA",
-    [
-     "MG",
-     "ZN"
-    ],
-    [
-     0.378,
-     0.057
-    ]
-   ]
   ]
  ],
  "reference": "Liang 1998, doi:10.1016/s0040-6031(97)00458-9",
@@ -288,7 +275,7 @@
   "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DPCHK24JAV ORC-4XCYUXAYYQ ORC-HZMCM6BBDA ORC-OXFBANHSWS ORC-WVTN6NSFUH ORC-IGC6GBFUUA ORC-ZRAU3D35IS ORC-2ARTLQ74KD ORC-PSU4C32VEZ ORC-LMY4JHG56P ORC-NJQ4X6KVL6 ORC-55XHRS2A26 ORC-GAEIEHMQSM ORC-SMON4E7K4Z ORC-DRKPOL2TCZ ORC-AEM3WMCXZZ ORC-HN6MYLGNMB",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DPCHK24JAV ORC-4XCYUXAYYQ ORC-HZMCM6BBDA ORC-OXFBANHSWS ORC-WVTN6NSFUH ORC-IGC6GBFUUA ORC-ZRAU3D35IS ORC-2ARTLQ74KD ORC-PSU4C32VEZ ORC-LMY4JHG56P ORC-NJQ4X6KVL6 ORC-55XHRS2A26 ORC-GAEIEHMQSM ORC-SMON4E7K4Z ORC-DRKPOL2TCZ ORC-AEM3WMCXZZ",
  "bibtex": "liang1998_d0f757",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -298,7 +285,15 @@
     "id": "ORC-DPCHK24JAV",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0040-6031(97)00458-9",
-    "measured_in": "doi:10.1016/s0040-6031(97)00458-9"
+    "measured_in": "doi:10.1016/s0040-6031(97)00458-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-HN6MYLGNMB",
+      "paper": "doi:10.1016/s0040-6031(97)00458-9",
+      "measured_in": "doi:10.1016/s0040-6031(97)00458-9",
+      "dataset": "experimental/AL-MG-ZN/AlMgZn.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-4XCYUXAYYQ",
@@ -389,12 +384,6 @@
     "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/s0040-6031(97)00458-9",
     "measured_in": "doi:10.1016/s0040-6031(97)00458-9"
-   },
-   {
-    "id": "ORC-HN6MYLGNMB",
-    "reader_agreement": "single_reader",
-    "paper": "doi:10.1016/s0040-6031(97)00458-9",
-    "measured_in": "doi:10.1016/s0040-6031(97)00458-9"
    }
   ],
   "papers": [
@@ -403,15 +392,13 @@
   "dois": [
    "10.1016/s0040-6031(97)00458-9"
   ],
-  "source_dataset": "db-v2.1/general/espei/AlMgZn/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/AlMgZn/zpf-00.json",
+  "e3_merged": 1,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

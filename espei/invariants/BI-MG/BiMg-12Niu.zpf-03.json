@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "BI2MG3_BETA",

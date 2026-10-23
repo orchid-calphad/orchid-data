@@ -77,7 +77,7 @@
      "ZN"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -86,7 +86,16 @@
      "ZN"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.4161152339
     ]
    ]
   ],
@@ -97,7 +106,7 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -106,7 +115,16 @@
      "ZN"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.5823947535
     ]
    ]
   ],
@@ -117,7 +135,7 @@
      "ZN"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -126,7 +144,16 @@
      "ZN"
     ],
     [
-     0.75
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.7076052351
     ]
    ]
   ],
@@ -166,7 +193,7 @@
      "ZN"
     ],
     [
-     0.833
+     null
     ]
    ],
    [
@@ -175,7 +202,16 @@
      "ZN"
     ],
     [
-     0.909
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8698780193
     ]
    ]
   ],
@@ -186,7 +222,7 @@
      "ZN"
     ],
     [
-     0.909
+     null
     ]
    ],
    [
@@ -195,7 +231,16 @@
      "ZN"
     ],
     [
-     0.941
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9244697893
     ]
    ]
   ],
@@ -206,7 +251,7 @@
      "ZN"
     ],
     [
-     0.941
+     null
     ]
    ],
    [
@@ -313,7 +358,7 @@
      "ZN"
     ],
     [
-     0.75
+     null
     ]
    ],
    [
@@ -382,7 +427,7 @@
      "ZN"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -404,7 +449,7 @@
      "ZN"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -433,13 +478,18 @@
      "ZN"
     ],
     [
-     0.5
+     null
     ]
    ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 211-212 (2008) doi:10.1007/s11669-008-9271-6; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 842",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram TI-ZN-p842; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "TI-ZN-p842",

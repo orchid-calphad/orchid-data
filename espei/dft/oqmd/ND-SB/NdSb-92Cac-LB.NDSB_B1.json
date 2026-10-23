@@ -1,7 +1,8 @@
 {
  "components": [
   "ND",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "NDSB_B1"

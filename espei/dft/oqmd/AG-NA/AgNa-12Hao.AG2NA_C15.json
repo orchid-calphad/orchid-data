@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "NA"
+  "NA",
+  "VA"
  ],
  "phases": [
   "AG2NA_C15"

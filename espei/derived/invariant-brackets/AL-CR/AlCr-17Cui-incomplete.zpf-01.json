@@ -1,0 +1,261 @@
+{
+ "components": [
+  "AL",
+  "CR",
+  "VA"
+ ],
+ "phases": [
+  "AL4CR",
+  "AL8CR5_D810",
+  "AL8CR5_D82",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1318.15,
+   1298.15,
+   1598.15,
+   1578.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL8CR5_D810",
+    [
+     "CR"
+    ],
+    [
+     0.384615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.21
+    ]
+   ]
+  ],
+  [
+   [
+    "AL4CR",
+    [
+     "CR"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.21
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.374615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.394615
+    ]
+   ]
+  ],
+  [
+   [
+    "AL8CR5_D82",
+    [
+     "CR"
+    ],
+    [
+     0.384615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.374615
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.394615
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cui 2017, doi:10.1016/j.jallcom.2016.12.298",
+ "bibtex": "cui2017_7ae8ea",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-CR/AlCr-17Cui-incomplete.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-T534SI77WY ORC-WRTT4TSQQQ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/AL-CR/AlCr-17Cui-incomplete.zpf-01.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-T534SI77WY",
+    "side": "above",
+    "T_invariant_K": 1308.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + γ_L = Al4Cr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL8CR5_D810"
+    ],
+    "phases_below": [
+     "AL4CR"
+    ]
+   },
+   {
+    "source_observation": "ORC-T534SI77WY",
+    "side": "below",
+    "T_invariant_K": 1308.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + γ_L = Al4Cr",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AL8CR5_D810"
+    ],
+    "phases_below": [
+     "AL4CR"
+    ]
+   },
+   {
+    "source_observation": "ORC-WRTT4TSQQQ",
+    "side": "above",
+    "T_invariant_K": 1588.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.384615,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + bcc_A2 = γ_H",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "AL8CR5_D82"
+    ]
+   },
+   {
+    "source_observation": "ORC-WRTT4TSQQQ",
+    "side": "below",
+    "T_invariant_K": 1588.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.384615,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + bcc_A2 = γ_H",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "AL8CR5_D82"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/0925-8388(92)90601-5",
+   "10.1016/j.jallcom.2016.12.298"
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.12.298",
+   "doi:10.1016/0925-8388(92)90601-5"
+  ]
+ }
+}

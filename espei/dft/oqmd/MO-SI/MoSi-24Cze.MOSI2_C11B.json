@@ -1,7 +1,8 @@
 {
  "components": [
   "MO",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "MOSI2_C11B"

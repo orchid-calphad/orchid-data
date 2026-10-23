@@ -1,7 +1,8 @@
 {
  "components": [
   "MN",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "MN3PD5"

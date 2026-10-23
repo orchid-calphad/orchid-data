@@ -1,0 +1,370 @@
+{
+ "components": [
+  "GE",
+  "VA",
+  "Y"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GE2Y",
+  "GE3Y2_C32",
+  "GE3Y2_HT",
+  "GE5Y3_CC",
+  "GE7Y2",
+  "GEY_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   995.0,
+   975.0,
+   1043.0,
+   1023.0,
+   1713.0,
+   1693.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE5Y3_CC",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3233333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3433333333
+    ]
+   ]
+  ],
+  [
+   [
+    "GE2Y",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3233333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.3433333333
+    ]
+   ]
+  ],
+  [
+   [
+    "GE7Y2",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.2122222222
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.2322222222
+    ]
+   ]
+  ],
+  [
+   [
+    "GE2Y",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.2122222222
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.2322222222
+    ]
+   ]
+  ],
+  [
+   [
+    "GE3Y2_HT",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GEY_B33",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.392
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.408
+    ]
+   ]
+  ],
+  [
+   [
+    "GE3Y2_C32",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.392
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.408
+    ]
+   ]
+  ]
+ ],
+ "reference": "Schmidt 1972, doi:10.1016/0022-5088(72)90008-2",
+ "bibtex": "schmidt1972_37f64a",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-Y/GeY-13Idb.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JZGVORVATA ORC-KBKWXR2YTC ORC-RGRXIZAJOF",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/GE-Y/GeY-13Idb.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-KBKWXR2YTC",
+    "side": "above",
+    "T_invariant_K": 985,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "(Ge) + Ge5Y3 -> Ge2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "DIAMOND_A4",
+     "GE5Y3_CC"
+    ],
+    "phases_below": [
+     "GE2Y"
+    ]
+   },
+   {
+    "source_observation": "ORC-KBKWXR2YTC",
+    "side": "below",
+    "T_invariant_K": 985,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3333333333333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "(Ge) + Ge5Y3 -> Ge2Y",
+    "reaction_type": null,
+    "phases_above": [
+     "DIAMOND_A4",
+     "GE5Y3_CC"
+    ],
+    "phases_below": [
+     "GE2Y"
+    ]
+   },
+   {
+    "source_observation": "ORC-RGRXIZAJOF",
+    "side": "above",
+    "T_invariant_K": 1033,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2222222222222222,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ge7Y2 -> Ge2Y + (Ge)",
+    "reaction_type": null,
+    "phases_above": [
+     "GE7Y2"
+    ],
+    "phases_below": [
+     "GE2Y",
+     "DIAMOND_A4"
+    ]
+   },
+   {
+    "source_observation": "ORC-RGRXIZAJOF",
+    "side": "below",
+    "T_invariant_K": 1033,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2222222222222222,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Ge7Y2 -> Ge2Y + (Ge)",
+    "reaction_type": null,
+    "phases_above": [
+     "GE7Y2"
+    ],
+    "phases_below": [
+     "GE2Y",
+     "DIAMOND_A4"
+    ]
+   },
+   {
+    "source_observation": "ORC-JZGVORVATA",
+    "side": "above",
+    "T_invariant_K": 1703,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.008000000000000007,
+    "reaction_printed": "Ge1.5Y-HT + GeY -> Ge1.5Y-LT",
+    "reaction_type": null,
+    "phases_above": [
+     "GE3Y2_HT",
+     "GEY_B33"
+    ],
+    "phases_below": [
+     "GE3Y2_C32"
+    ]
+   },
+   {
+    "source_observation": "ORC-JZGVORVATA",
+    "side": "below",
+    "T_invariant_K": 1703,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.4,
+    "hyperplane_delta": 0.008000000000000007,
+    "reaction_printed": "Ge1.5Y-HT + GeY -> Ge1.5Y-LT",
+    "reaction_type": null,
+    "phases_above": [
+     "GE3Y2_HT",
+     "GEY_B33"
+    ],
+    "phases_below": [
+     "GE3Y2_C32"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s10973-012-2271-0",
+   "10.1016/0022-5088(72)90008-2"
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(72)90008-2",
+   "doi:10.1007/s10973-012-2271-0"
+  ]
+ }
+}

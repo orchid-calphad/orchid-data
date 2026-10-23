@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCT_A5",
@@ -325,7 +326,7 @@
      "SN"
     ],
     [
-     1.0
+     null
     ]
    ],
    [
@@ -363,7 +364,7 @@
      "SN"
     ],
     [
-     0.33
+     null
     ]
    ]
   ],
@@ -383,7 +384,7 @@
      "SN"
     ],
     [
-     0.33
+     null
     ]
    ],
    [
@@ -473,7 +474,14 @@
    {
     "id": "ORC-GNYFBJJT5U",
     "paper": "doi:10.1016/j.intermet.2020.106945",
-    "measured_in": "doi:10.1016/0022-5088(59)90005-0"
+    "measured_in": "doi:10.1016/0022-5088(59)90005-0",
+    "also_reported_as": [
+     {
+      "id": "ORC-OBMLKKHDFP",
+      "paper": "doi:10.1016/j.intermet.2020.106945",
+      "dataset": "invariants/PD-SN/PdSn-20Cui.zpf-02.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -484,7 +492,8 @@
    "10.1016/0022-5088(59)90005-0",
    "10.1016/j.intermet.2020.106945"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PdSn-20Cui/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/PdSn-20Cui/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -543,5 +552,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 3,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

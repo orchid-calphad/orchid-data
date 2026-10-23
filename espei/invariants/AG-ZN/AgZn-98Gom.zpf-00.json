@@ -1,6 +1,7 @@
 {
  "components": [
   "AG",
+  "VA",
   "ZN"
  ],
  "phases": [

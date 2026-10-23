@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "SM"
+  "SM",
+  "VA"
  ],
  "phases": [
   "CU5SM_D2D"

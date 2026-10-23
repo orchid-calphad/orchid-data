@@ -1,0 +1,90 @@
+{
+ "components": [
+  "GA",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "GAMG2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   715.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GAMG2",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Feng 2009, doi:10.1016/j.jallcom.2009.07.010",
+ "bibtex": "feng2009_b8bb03",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GA-MG/GaMg-09Fen.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-KNGP2SJKUN",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/GA-MG/GaMg-09Fen.zpf-03.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-KNGP2SJKUN",
+    "side": "below",
+    "T_invariant_K": 725.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Mg5Ga2 <-> Mg2Ga",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "GA2MG5_D8G"
+    ],
+    "phases_below": [
+     "GAMG2"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.07.010"
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.07.010"
+  ]
+ }
+}

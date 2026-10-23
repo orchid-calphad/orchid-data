@@ -1,7 +1,8 @@
 {
  "components": [
   "C",
-  "U"
+  "U",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,8 +12,6 @@
   "T": 298.0,
   "X_U": [
    0.5,
-   0.5,
-   0.345,
    0.345
   ]
  },
@@ -21,8 +20,6 @@
   [
    [
     29.87376,
-    29.87376,
-    23.973,
     23.973
    ]
   ]
@@ -35,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YMGMSKDJRN.ed4b2a ORC-YMGMSKDJRN.e2d281 ORC-TBQXO4GNED.a67817 ORC-TBQXO4GNED.1c83ec",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YMGMSKDJRN.ed4b2a ORC-TBQXO4GNED.a67817",
  "orchid_model_evidence": {
   "tdb": {
    "name": "UC-01Che.tdb",
@@ -70,25 +67,19 @@
     "id": "ORC-YMGMSKDJRN.ed4b2a",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
-   },
-   {
-    "id": "ORC-YMGMSKDJRN.e2d281",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
+    "measured_in": "doi:10.1016/s0022-3115(00)00713-3",
+    "also_read_as": [
+     "ORC-YMGMSKDJRN.e2d281"
+    ]
    },
    {
     "id": "ORC-TBQXO4GNED.a67817",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
-   },
-   {
-    "id": "ORC-TBQXO4GNED.1c83ec",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/s0022-3115(00)00713-3",
-    "measured_in": "doi:10.1016/s0022-3115(00)00713-3"
+    "measured_in": "doi:10.1016/s0022-3115(00)00713-3",
+    "also_read_as": [
+     "ORC-TBQXO4GNED.1c83ec"
+    ]
    }
   ],
   "papers": [
@@ -97,7 +88,8 @@
   "dois": [
    "10.1016/s0022-3115(00)00713-3"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/UC-01Che/sm-model-02.json"
+  "source_dataset": "db-v2.1/general/espei-model/UC-01Che/sm-model-02.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -107,16 +99,6 @@
   },
   "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",

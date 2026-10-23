@@ -1,7 +1,8 @@
 {
  "components": [
   "DY",
-  "GE"
+  "GE",
+  "VA"
  ],
  "phases": [
   "DYGE_B33"

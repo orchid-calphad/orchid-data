@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "CUSC_B2"

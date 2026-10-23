@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "SR"
+  "SR",
+  "VA"
  ],
  "phases": [
   "DIAMOND_A4",

@@ -51,7 +51,7 @@
      "ND"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -91,7 +91,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -100,7 +100,16 @@
      "ND"
     ],
     [
-     0.571
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.5353156124
     ]
    ]
   ],
@@ -111,7 +120,7 @@
      "ND"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -120,7 +129,16 @@
      "ND"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.5979208532
     ]
    ]
   ],
@@ -131,7 +149,7 @@
      "ND"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -140,7 +158,16 @@
      "ND"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.6455008363
     ]
    ]
   ],
@@ -200,7 +227,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ]
   ],
@@ -211,7 +238,7 @@
      "ND"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -231,7 +258,7 @@
      "ND"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -271,7 +298,7 @@
      "ND"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -291,7 +318,7 @@
      "ND"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -336,6 +363,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 23(2), 191 (2002) doi:10.1361/1054971023604224; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 198",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BI-ND-p198; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "BI-ND-p198",

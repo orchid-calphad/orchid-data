@@ -1,7 +1,8 @@
 {
  "components": [
   "IR",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -215,11 +216,30 @@
   "observations": [
    {
     "id": "ORC-73S2KV2BHO",
-    "paper": "doi:10.1007/s11669-014-0302-1"
+    "paper": "doi:10.1007/s11669-014-0302-1",
+    "also_reported_as": [
+     {
+      "id": "ORC-NQVY5QFOX3",
+      "paper": "doi:10.1007/s11669-014-0302-1",
+      "dataset": "invariants/IR-TI/IrTi-14Wan.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-CBPHOD733R",
-    "paper": "doi:10.1007/s11669-014-0302-1"
+    "paper": "doi:10.1007/s11669-014-0302-1",
+    "also_reported_as": [
+     {
+      "id": "ORC-XC7R5W3D23",
+      "paper": "doi:10.1007/s11669-014-0302-1",
+      "dataset": "invariants/IR-TI/IrTi-14Wan.zpf-02.json"
+     },
+     {
+      "id": "ORC-O7SBYMR6U4",
+      "paper": "doi:10.1007/s11669-014-0302-1",
+      "dataset": "invariants/IR-TI/IrTi-14Wan.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-DFGG74U3NU",
@@ -246,7 +266,8 @@
    "10.1007/bf02667568",
    "10.1007/s11669-014-0302-1"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/IrTi-14Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/IrTi-14Wan/zpf-00.json",
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

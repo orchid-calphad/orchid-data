@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
   "ALMG_EPS"

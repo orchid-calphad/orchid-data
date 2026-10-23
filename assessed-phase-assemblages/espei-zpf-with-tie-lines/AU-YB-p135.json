@@ -97,7 +97,7 @@
      "YB"
     ],
     [
-     0.2
+     null
     ]
    ],
    [
@@ -106,7 +106,16 @@
      "YB"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.2249778933
     ]
    ]
   ],
@@ -117,7 +126,7 @@
      "YB"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -126,7 +135,16 @@
      "YB"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.2915495391
     ]
    ]
   ],
@@ -166,7 +184,7 @@
      "YB"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -175,7 +193,16 @@
      "YB"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.5278038008
     ]
    ]
   ],
@@ -186,7 +213,7 @@
      "YB"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -195,7 +222,16 @@
      "YB"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.590371137
     ]
    ]
   ],
@@ -206,7 +242,7 @@
      "YB"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -215,7 +251,16 @@
      "YB"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.6454303929
     ]
    ]
   ],
@@ -226,7 +271,7 @@
      "YB"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -235,7 +280,16 @@
      "YB"
     ],
     [
-     0.7
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.6829707947
     ]
    ]
   ],
@@ -246,7 +300,7 @@
      "YB"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -266,7 +320,7 @@
      "YB"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -295,7 +349,7 @@
      "YB"
     ],
     [
-     0.556
+     null
     ]
    ]
   ],
@@ -306,7 +360,7 @@
      "YB"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -357,7 +411,7 @@
      "YB"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -388,7 +442,7 @@
      "YB"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -408,7 +462,7 @@
      "YB"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -457,7 +511,7 @@
      "YB"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -479,7 +533,7 @@
      "YB"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -573,6 +627,11 @@
  ],
  "reference": "K.A. Gschneidner, Jr., F.W. Calderwood, H. Okamoto, and T.B. Massalski, Phase Diagrams of Binary Gold Alloys, H. Okamoto and T.B. Massalski, ed., ASM International, Metals Park, OH, 328-331 (1987); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 135",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-YB-p135; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "AU-YB-p135",

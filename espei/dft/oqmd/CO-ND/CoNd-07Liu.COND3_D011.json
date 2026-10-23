@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
   "COND3_D011"

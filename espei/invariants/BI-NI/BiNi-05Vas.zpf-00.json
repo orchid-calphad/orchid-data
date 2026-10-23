@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "BINI_B81",

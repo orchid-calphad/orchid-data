@@ -1,7 +1,8 @@
 {
  "components": [
   "AG",
-  "GD"
+  "GD",
+  "VA"
  ],
  "phases": [
   "AGGD_B2"

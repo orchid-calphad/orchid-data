@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "TB"
+  "TB",
+  "VA"
  ],
  "phases": [
   "GA2TB_C32"

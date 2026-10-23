@@ -1,7 +1,8 @@
 {
  "components": [
   "PB",
-  "PT"
+  "PT",
+  "VA"
  ],
  "phases": [
   "PBPT_B81"

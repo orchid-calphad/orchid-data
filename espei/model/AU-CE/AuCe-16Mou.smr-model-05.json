@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "CE"
+  "CE",
+  "VA"
  ],
  "phases": [
   "BCC_A2",

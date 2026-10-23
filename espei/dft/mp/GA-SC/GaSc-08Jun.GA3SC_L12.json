@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "SC"
+  "SC",
+  "VA"
  ],
  "phases": [
   "GA3SC_L12"

@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "LA5SI3_D8L"

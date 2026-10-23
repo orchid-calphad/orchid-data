@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "MO"
+  "MO",
+  "VA"
  ],
  "phases": [
   "ALMO3_A15",

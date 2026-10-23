@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "LIQUID"

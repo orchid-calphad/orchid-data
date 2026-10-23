@@ -1,7 +1,8 @@
 {
  "components": [
   "CD",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "CDSB_BE",

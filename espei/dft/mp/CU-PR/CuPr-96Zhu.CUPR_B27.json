@@ -1,7 +1,8 @@
 {
  "components": [
   "CU",
-  "PR"
+  "PR",
+  "VA"
  ],
  "phases": [
   "CUPR_B27"

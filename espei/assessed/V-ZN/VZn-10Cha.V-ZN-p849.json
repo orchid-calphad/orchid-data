@@ -1,0 +1,198 @@
+{
+ "components": [
+  "V",
+  "ZN",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "V4ZN5",
+  "VZN3_L12"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   757.960446,
+   733.960446,
+   793.960446,
+   919.460446,
+   1008.460446
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "V4ZN5",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.2763979833
+    ]
+   ]
+  ],
+  [
+   [
+    "V4ZN5",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "VZN3_L12",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.6525302701
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "VZN3_L12",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8723998758
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "V4ZN5",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.7727323324
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.4947650632
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.F. Smith, Phase Diagrams of Binary Vanadium Alloys, J.F. Smith, ed., ASM International, Metals Park, OH, 323-325 (1989) doi:10.1007/bf02882159; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 849",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram V-ZN-p849; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to VZn-10Cha.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "V-ZN-p849",
+  "target_tdb": "VZn-10Cha.tdb",
+  "record_ids": [
+   "aspa-dd94475918553c34",
+   "aspa-55b80ede978964f1",
+   "aspa-45326f6ae4b82591",
+   "aspa-32967e5b5b1f1097",
+   "aspa-e3e7fba939c29bfb"
+  ],
+  "confidence": [
+   "high",
+   "medium",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 2,
+  "source": "assessed-phase-assemblages/espei-zpf/V-ZN-p849.json"
+ }
+}

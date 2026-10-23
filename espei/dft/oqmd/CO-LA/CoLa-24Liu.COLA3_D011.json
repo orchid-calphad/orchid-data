@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "COLA3_D011"

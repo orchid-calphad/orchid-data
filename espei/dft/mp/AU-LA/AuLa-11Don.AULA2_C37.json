@@ -1,7 +1,8 @@
 {
  "components": [
   "AU",
-  "LA"
+  "LA",
+  "VA"
  ],
  "phases": [
   "AULA2_C37"

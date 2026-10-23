@@ -1,7 +1,8 @@
 {
  "components": [
   "PD",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "PD3TI_D024"

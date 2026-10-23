@@ -1,7 +1,8 @@
 {
  "components": [
   "SB",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "LIQUID",

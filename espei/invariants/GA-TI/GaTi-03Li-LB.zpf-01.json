@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -11,17 +12,13 @@
   "GA3TI_D022",
   "GA4TI5",
   "GATI2_B82",
-  "GATI3_D019",
   "GATI_L10",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1693.0,
-   1303.0,
-   1213.0,
    1698.0,
    1703.0,
    1523.0,
@@ -53,64 +50,6 @@
    ],
    [
     "GATI2_B82",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GATI2_B82",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GATI3_D019",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GATI3_D019",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
     [
      "TI"
     ],
@@ -301,7 +240,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J2KG2334OD ORC-PSPDOJJILH ORC-JGBEGLBF2P ORC-PA3P3RDHBT ORC-Z457K7Y2LW ORC-DBJ4XGGZKJ ORC-IZKPL7HRZ4 ORC-A6RDUPGUBA ORC-QU3V6YECBH",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J2KG2334OD ORC-PA3P3RDHBT ORC-Z457K7Y2LW ORC-DBJ4XGGZKJ ORC-IZKPL7HRZ4 ORC-A6RDUPGUBA ORC-QU3V6YECBH",
  "bibtex": "li2003_c0f02b",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -309,62 +248,109 @@
   "observations": [
    {
     "id": "ORC-J2KG2334OD",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
-   },
-   {
-    "id": "ORC-PSPDOJJILH",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
-   },
-   {
-    "id": "ORC-JGBEGLBF2P",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-I32GDGSFMH",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-PA3P3RDHBT",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-JNWONX3LQE",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-Z457K7Y2LW",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-6KEIJVQ3PJ",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-DBJ4XGGZKJ",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-5YPS63CYVA",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-IZKPL7HRZ4",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-FCNKJY6ZED",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-A6RDUPGUBA",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-BNPIA5QKQP",
+      "paper": "doi:10.1016/s0925-8388(03)00131-2",
+      "dataset": "invariants/GA-TI/GaTi-03Li-LB.zpf-03.json"
+     },
+     {
+      "id": "ORC-HKO3ZQKWHO",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     },
+     {
+      "id": "ORC-CBYSHFXSOF",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-QU3V6YECBH",
-    "paper": "doi:10.1016/s0925-8388(03)00131-2"
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "also_reported_as": [
+     {
+      "id": "ORC-ALXLC6H3NF",
+      "paper": "doi:10.1016/j.calphad.2013.02.003",
+      "dataset": "invariants/GA-TI/GaTi-13Liu.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1016/s0925-8388(03)00131-2",
-   "doi:10.1016/s0925-8388(00)01416-x"
+   "doi:10.1016/s0925-8388(00)01416-x",
+   "doi:10.1016/j.calphad.2013.02.003"
   ],
   "dois": [
+   "10.1016/j.calphad.2013.02.003",
    "10.1016/s0925-8388(00)01416-x",
    "10.1016/s0925-8388(03)00131-2"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GaTi-03Li-LB/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/GaTi-03Li-LB/zpf-01.json",
+  "e3_merged": 9,
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

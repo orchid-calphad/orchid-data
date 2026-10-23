@@ -43,7 +43,7 @@
      "TE"
     ],
     [
-     0.571
+     null
     ]
    ]
   ],
@@ -54,7 +54,7 @@
      "TE"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -63,7 +63,16 @@
      "TE"
     ],
     [
-     0.6
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.5863491807
     ]
    ]
   ],
@@ -74,7 +83,7 @@
      "TE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -83,7 +92,16 @@
      "TE"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.6128777312
     ]
    ]
   ],
@@ -123,7 +141,7 @@
      "TE"
     ],
     [
-     0.714
+     null
     ]
    ],
    [
@@ -143,7 +161,7 @@
      "TE"
     ],
     [
-     0.571
+     null
     ]
    ],
    [
@@ -152,7 +170,16 @@
      "TE"
     ],
     [
-     0.6
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.5853481033
     ]
    ]
   ],
@@ -163,7 +190,7 @@
      "TE"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -172,7 +199,16 @@
      "TE"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.6123771925
     ]
    ]
   ],
@@ -208,6 +244,11 @@
  ],
  "reference": "N.Yu. Budanova and E.Ya. Skasyrskaya, Inorg. Mater., 34(3), 220-221 (1998); H. Okamoto, Phase Diagrams of Indium Alloys and Their Engineering Applications, C.E.T. White and H. Okamoto, ed., ASM International, Materials Park, OH, 265-273 (1992); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 560",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-TE-p560; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "IN-TE-p560",

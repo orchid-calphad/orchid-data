@@ -1,10 +1,10 @@
 {
  "components": [
   "BE",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
-  "B2_BCC",
   "BCC_A2",
   "FCC_A1",
   "LIQUID"
@@ -12,8 +12,7 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1138.0,
-   851.0
+   1138.0
   ]
  },
  "output": "ZPF",
@@ -46,35 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "CU"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "CU"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "B2_BCC",
-    [
-     "CU"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Liu 2018, doi:10.1007/s10853-017-1777-z",
@@ -84,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-244YA77HZJ ORC-CJSHUDD2FZ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-244YA77HZJ",
  "bibtex": "liu2018_d66781",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -92,10 +62,6 @@
   "observations": [
    {
     "id": "ORC-244YA77HZJ",
-    "paper": "doi:10.1007/s10853-017-1777-z"
-   },
-   {
-    "id": "ORC-CJSHUDD2FZ",
     "paper": "doi:10.1007/s10853-017-1777-z"
    }
   ],
@@ -105,15 +71,12 @@
   "dois": [
    "10.1007/s10853-017-1777-z"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BeCu-18Liu/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/BeCu-18Liu/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

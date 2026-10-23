@@ -1,7 +1,8 @@
 {
  "components": [
   "LI",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LI5PB2"

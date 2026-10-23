@@ -1,7 +1,8 @@
 {
  "components": [
   "HO",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "HCP_A3",

@@ -77,7 +77,7 @@
      "TM"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -86,7 +86,16 @@
      "TM"
     ],
     [
-     0.444
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.4221724903
     ]
    ]
   ],
@@ -97,7 +106,7 @@
      "TM"
     ],
     [
-     0.444
+     null
     ]
    ],
    [
@@ -106,7 +115,16 @@
      "TM"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.4717258206
     ]
    ]
   ],
@@ -117,7 +135,7 @@
      "TM"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -126,7 +144,16 @@
      "TM"
     ],
     [
-     0.524
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.5117689158
     ]
    ]
   ],
@@ -137,7 +164,7 @@
      "TM"
     ],
     [
-     0.524
+     null
     ]
    ],
    [
@@ -146,7 +173,16 @@
      "TM"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.5397990825
     ]
    ]
   ],
@@ -157,7 +193,7 @@
      "TM"
     ],
     [
-     0.556
+     null
     ]
    ],
    [
@@ -166,7 +202,16 @@
      "TM"
     ],
     [
-     0.625
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.5903534902
     ]
    ]
   ],
@@ -177,7 +222,7 @@
      "TM"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -228,7 +273,7 @@
      "TM"
     ],
     [
-     0.524
+     null
     ]
    ],
    [
@@ -237,7 +282,16 @@
      "TM"
     ],
     [
-     0.556
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.5397990825
     ]
    ]
   ],
@@ -257,7 +311,7 @@
      "TM"
     ],
     [
-     0.4
+     null
     ]
    ]
   ],
@@ -277,7 +331,7 @@
      "TM"
     ],
     [
-     0.444
+     null
     ]
    ]
   ],
@@ -288,7 +342,7 @@
      "TM"
     ],
     [
-     0.444
+     null
     ]
    ],
    [
@@ -297,7 +351,16 @@
      "TM"
     ],
     [
-     0.524
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.4837387492
     ]
    ]
   ],
@@ -308,7 +371,7 @@
      "TM"
     ],
     [
-     0.625
+     null
     ]
    ],
    [
@@ -357,7 +420,7 @@
      "TM"
     ],
     [
-     0.524
+     null
     ]
    ]
   ],
@@ -377,7 +440,7 @@
      "TM"
     ],
     [
-     0.556
+     null
     ]
    ]
   ],
@@ -413,6 +476,11 @@
  ],
  "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 2015-2016 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 486",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GE-TM-p486; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GE-TM-p486",

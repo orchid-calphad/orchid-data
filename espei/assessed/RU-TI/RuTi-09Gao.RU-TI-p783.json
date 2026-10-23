@@ -1,0 +1,207 @@
+{
+ "components": [
+  "RU",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1739.047202,
+   1449.547202,
+   1758.047202,
+   2436.047202,
+   2075.047202,
+   2279.047202,
+   2220.047202
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.05101911638
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.2914232411
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.5072861114
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5929300808
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.6104595483
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.1301521408
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.4031109907
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.L. Murray, Phase Diagrams of Binary Titanium Alloys, J.L. Murray, ed., ASM International, Metals Park, OH, 270-275 (1987); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 783",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram RU-TI-p783; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to RuTi-09Gao.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "RU-TI-p783",
+  "target_tdb": "RuTi-09Gao.tdb",
+  "record_ids": [
+   "aspa-35a1c94f0d510891",
+   "aspa-1ad02f446275891a",
+   "aspa-b5566d1cf92804ce",
+   "aspa-64ef20b9dad91ec3",
+   "aspa-060f558e834fb93d",
+   "aspa-41c4a804aeb9df65",
+   "aspa-2c4bbbff5e1f26ac"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 3,
+  "source": "assessed-phase-assemblages/espei-zpf/RU-TI-p783.json"
+ }
+}

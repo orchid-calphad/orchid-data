@@ -1,7 +1,8 @@
 {
  "components": [
   "FE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "A2_BCC",
@@ -154,7 +155,14 @@
    {
     "id": "ORC-7KGCRCGCY4",
     "paper": "doi:10.1016/j.jallcom.2019.05.341",
-    "measured_in": "doi:10.1007/bf02868286"
+    "measured_in": "doi:10.1007/bf02868286",
+    "also_reported_as": [
+     {
+      "id": "ORC-HU3IY7BSCK",
+      "paper": "doi:10.1016/j.jallcom.2019.05.341",
+      "dataset": "invariants/FE-TI/FeTi-19Wit.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-HTD5DSZPQ7",
@@ -180,7 +188,8 @@
    "10.1007/bf02868286",
    "10.1016/j.jallcom.2019.05.341"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeTi-19Wit/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-19Wit/zpf-00.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

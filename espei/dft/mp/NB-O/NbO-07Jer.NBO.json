@@ -1,7 +1,8 @@
 {
  "components": [
   "NB",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
   "NBO"

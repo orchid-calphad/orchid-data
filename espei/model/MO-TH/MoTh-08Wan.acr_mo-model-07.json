@@ -1,7 +1,8 @@
 {
  "components": [
   "MO",
-  "TH"
+  "TH",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -98,6 +99,17 @@
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
    }
+  ]
+ },
+ "orchid_reference_state": {
+  "element": "MO",
+  "phase": "LIQUID",
+  "basis": "printed",
+  "quote": "Note: The reference states are the liquid phases for the Mo and Th.",
+  "where": "table 6 note",
+  "record_reference_state_agrees": true,
+  "written_before_audit": [
+   "LIQUID"
   ]
  }
 }

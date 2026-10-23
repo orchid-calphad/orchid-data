@@ -1,7 +1,8 @@
 {
  "components": [
   "RE",
-  "TI"
+  "TI",
+  "VA"
  ],
  "phases": [
   "RE24TI5_A12"

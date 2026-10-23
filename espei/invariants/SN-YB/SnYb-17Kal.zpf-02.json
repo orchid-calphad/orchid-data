@@ -1,6 +1,7 @@
 {
  "components": [
   "SN",
+  "VA",
   "YB"
  ],
  "phases": [
@@ -43,7 +44,7 @@
      "YB"
     ],
     [
-     0.666667
+     null
     ]
    ]
   ],
@@ -63,7 +64,7 @@
      "YB"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -236,7 +237,15 @@
    },
    {
     "id": "ORC-USNYU56ZGA",
-    "paper": "doi:10.1007/s11669-017-0588-x"
+    "paper": "doi:10.1007/s11669-017-0588-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-NYDRO2BE5G",
+      "paper": "doi:10.1007/s11669-017-0588-x",
+      "measured_in": "doi:10.1016/s0925-8388(98)00929-3",
+      "dataset": "invariants/SN-YB/SnYb-17Kal.zpf-03.json"
+     }
+    ]
    },
    {
     "id": "ORC-4H6DWE5TJV",
@@ -257,13 +266,16 @@
   ],
   "papers": [
    "doi:10.1007/s11669-017-0588-x",
-   "doi:10.1016/0022-5088(76)90221-6"
+   "doi:10.1016/0022-5088(76)90221-6",
+   "doi:10.1016/s0925-8388(98)00929-3"
   ],
   "dois": [
    "10.1007/s11669-017-0588-x",
-   "10.1016/0022-5088(76)90221-6"
+   "10.1016/0022-5088(76)90221-6",
+   "10.1016/s0925-8388(98)00929-3"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/SnYb-17Kal/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/SnYb-17Kal/zpf-02.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -298,5 +310,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 2,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

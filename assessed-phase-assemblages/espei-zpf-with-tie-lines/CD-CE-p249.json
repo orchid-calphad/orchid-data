@@ -84,7 +84,7 @@
      "CE"
     ],
     [
-     0.083
+     null
     ]
    ],
    [
@@ -93,7 +93,16 @@
      "CE"
     ],
     [
-     0.143
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.1136243572
     ]
    ]
   ],
@@ -104,7 +113,7 @@
      "CE"
     ],
     [
-     0.143
+     null
     ]
    ],
    [
@@ -113,7 +122,16 @@
      "CE"
     ],
     [
-     0.183
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.1632077079
     ]
    ]
   ],
@@ -124,7 +142,7 @@
      "CE"
     ],
     [
-     0.183
+     null
     ]
    ],
    [
@@ -133,7 +151,16 @@
      "CE"
     ],
     [
-     0.25
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.2162969521
     ]
    ]
   ],
@@ -144,7 +171,7 @@
      "CE"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -153,7 +180,16 @@
      "CE"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.2914232411
     ]
    ]
   ],
@@ -164,7 +200,7 @@
      "CE"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -173,7 +209,16 @@
      "CE"
     ],
     [
-     0.5
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.4166337227
     ]
    ]
   ],
@@ -184,7 +229,7 @@
      "CE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -235,7 +280,7 @@
      "CE"
     ],
     [
-     0.083
+     null
     ]
    ]
   ],
@@ -246,7 +291,7 @@
      "CE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -297,7 +342,7 @@
      "CE"
     ],
     [
-     0.083
+     null
     ]
    ],
    [
@@ -306,7 +351,16 @@
      "CE"
     ],
     [
-     0.105
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.09459236398
     ]
    ]
   ],
@@ -317,7 +371,7 @@
      "CE"
     ],
     [
-     0.105
+     null
     ]
    ],
    [
@@ -326,7 +380,16 @@
      "CE"
     ],
     [
-     0.143
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.1241420376
     ]
    ]
   ],
@@ -346,7 +409,7 @@
      "CE"
     ],
     [
-     0.105
+     null
     ]
    ]
   ],
@@ -366,7 +429,7 @@
      "CE"
     ],
     [
-     0.143
+     null
     ]
    ]
   ],
@@ -377,7 +440,7 @@
      "CE"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -426,7 +489,7 @@
      "CE"
     ],
     [
-     0.183
+     null
     ]
    ]
   ],
@@ -549,6 +612,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 20(6), 636 (1999) doi:10.1361/105497199770335181; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 249",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CD-CE-p249; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CD-CE-p249",

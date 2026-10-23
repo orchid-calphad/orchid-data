@@ -1,7 +1,8 @@
 {
  "components": [
   "CE",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,48 +12,26 @@
   "T": 1923.15,
   "X_SI": [
    0.0,
-   0.0,
-   0.05,
    0.05,
    0.1,
-   0.1,
-   0.15,
    0.15,
    0.2,
-   0.2,
-   0.25,
    0.25,
    0.3,
-   0.3,
-   0.35,
    0.35,
    0.4,
-   0.4,
-   0.45,
    0.45,
    0.5,
-   0.5,
-   0.52,
    0.52,
    0.55,
-   0.55,
-   0.6,
    0.6,
    0.65,
-   0.65,
-   0.7,
    0.7,
    0.75,
-   0.75,
-   0.8,
    0.8,
    0.85,
-   0.85,
-   0.9,
    0.9,
    0.95,
-   0.95,
-   1.0,
    1.0
   ]
  },
@@ -61,48 +40,26 @@
   [
    [
     0.0,
-    0.0,
-    -10300.0,
     -10300.0,
     -20500.0,
-    -20500.0,
-    -30400.0,
     -30400.0,
     -39800.0,
-    -39800.0,
-    -48600.0,
     -48600.0,
     -56600.0,
-    -56600.0,
-    -63300.0,
     -63300.0,
     -68400.0,
-    -68400.0,
-    -72000.0,
     -72000.0,
     -73900.0,
-    -73900.0,
-    -74000.0,
     -74000.0,
     -73750.0,
-    -73750.0,
-    -71300.0,
     -71300.0,
     -66700.0,
-    -66700.0,
-    -60200.0,
     -60200.0,
     -52300.0,
-    -52300.0,
-    -43300.0,
     -43300.0,
     -33400.0,
-    -33400.0,
-    -22800.0,
     -22800.0,
     -11650.0,
-    -11650.0,
-    0.0,
     0.0
    ]
   ]
@@ -114,7 +71,7 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EB4LAZM5M4.ca03f6 ORC-EB4LAZM5M4.c664ba ORC-QN4HS7ABC5.c2b9e4 ORC-QN4HS7ABC5.567db6 ORC-OD5K4D3P6X.130eed ORC-OD5K4D3P6X.714493 ORC-JYDIQHVZJY.f37290 ORC-JYDIQHVZJY.0f4b1e ORC-YBDLHBNMS7.a9afbb ORC-YBDLHBNMS7.d4dfd7 ORC-PQZF6Q43FE.d97fd0 ORC-PQZF6Q43FE.767b72 ORC-FFTUE5RXFA.6a7fd2 ORC-FFTUE5RXFA.adeddf ORC-KIXZE5BPYE.59471c ORC-KIXZE5BPYE.67c4da ORC-NYIK7ROSS3.95f086 ORC-NYIK7ROSS3.90ad9a ORC-6WTVTZV5WW.067771 ORC-6WTVTZV5WW.f5cf17 ORC-DMZBBXUC7I.ab0471 ORC-DMZBBXUC7I.4de758 ORC-TQ3PMQLINS.473bdc ORC-TQ3PMQLINS.7ea8fe ORC-MFOH2OTVBL.636837 ORC-MFOH2OTVBL.f9d0c8 ORC-DMUEGPCIHE.188403 ORC-DMUEGPCIHE.8f2f35 ORC-TLCMGKP5PW.64b35b ORC-TLCMGKP5PW.c0a574 ORC-OMOESPRYC6.94d9f9 ORC-OMOESPRYC6.cd6e21 ORC-O6T27EECUR.ffd08b ORC-O6T27EECUR.475ca1 ORC-47GIDRCAIY.25d926 ORC-47GIDRCAIY.327edc ORC-5OZUNE57VC.439fb3 ORC-5OZUNE57VC.f92ebe ORC-W7QKNYCF5B.516144 ORC-W7QKNYCF5B.a4d041 ORC-BJUR3AAGDL.0ab99e ORC-BJUR3AAGDL.4d0c3b ORC-KHVJHSHEFF.3579d9 ORC-KHVJHSHEFF.df8c98",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EB4LAZM5M4.ca03f6 ORC-QN4HS7ABC5.c2b9e4 ORC-OD5K4D3P6X.130eed ORC-JYDIQHVZJY.f37290 ORC-YBDLHBNMS7.a9afbb ORC-PQZF6Q43FE.d97fd0 ORC-FFTUE5RXFA.6a7fd2 ORC-KIXZE5BPYE.59471c ORC-NYIK7ROSS3.95f086 ORC-6WTVTZV5WW.067771 ORC-DMZBBXUC7I.ab0471 ORC-TQ3PMQLINS.473bdc ORC-MFOH2OTVBL.636837 ORC-DMUEGPCIHE.188403 ORC-TLCMGKP5PW.64b35b ORC-OMOESPRYC6.94d9f9 ORC-O6T27EECUR.ffd08b ORC-47GIDRCAIY.25d926 ORC-5OZUNE57VC.439fb3 ORC-W7QKNYCF5B.516144 ORC-BJUR3AAGDL.0ab99e ORC-KHVJHSHEFF.3579d9",
  "reference_states": {
   "CE": {
    "phase": "LIQUID"
@@ -131,222 +88,178 @@
    {
     "id": "ORC-EB4LAZM5M4.ca03f6",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-EB4LAZM5M4.c664ba",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-EB4LAZM5M4.c664ba"
+    ]
    },
    {
     "id": "ORC-QN4HS7ABC5.c2b9e4",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-QN4HS7ABC5.567db6",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-QN4HS7ABC5.567db6"
+    ]
    },
    {
     "id": "ORC-OD5K4D3P6X.130eed",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-OD5K4D3P6X.714493",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-OD5K4D3P6X.714493"
+    ]
    },
    {
     "id": "ORC-JYDIQHVZJY.f37290",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-JYDIQHVZJY.0f4b1e",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-JYDIQHVZJY.0f4b1e"
+    ]
    },
    {
     "id": "ORC-YBDLHBNMS7.a9afbb",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-YBDLHBNMS7.d4dfd7",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-YBDLHBNMS7.d4dfd7"
+    ]
    },
    {
     "id": "ORC-PQZF6Q43FE.d97fd0",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-PQZF6Q43FE.767b72",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-PQZF6Q43FE.767b72"
+    ]
    },
    {
     "id": "ORC-FFTUE5RXFA.6a7fd2",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-FFTUE5RXFA.adeddf",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-FFTUE5RXFA.adeddf"
+    ]
    },
    {
     "id": "ORC-KIXZE5BPYE.59471c",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-KIXZE5BPYE.67c4da",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-KIXZE5BPYE.67c4da"
+    ]
    },
    {
     "id": "ORC-NYIK7ROSS3.95f086",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-NYIK7ROSS3.90ad9a",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-NYIK7ROSS3.90ad9a"
+    ]
    },
    {
     "id": "ORC-6WTVTZV5WW.067771",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-6WTVTZV5WW.f5cf17",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-6WTVTZV5WW.f5cf17"
+    ]
    },
    {
     "id": "ORC-DMZBBXUC7I.ab0471",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-DMZBBXUC7I.4de758",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-DMZBBXUC7I.4de758"
+    ]
    },
    {
     "id": "ORC-TQ3PMQLINS.473bdc",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-TQ3PMQLINS.7ea8fe",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-TQ3PMQLINS.7ea8fe"
+    ]
    },
    {
     "id": "ORC-MFOH2OTVBL.636837",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-MFOH2OTVBL.f9d0c8",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-MFOH2OTVBL.f9d0c8"
+    ]
    },
    {
     "id": "ORC-DMUEGPCIHE.188403",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-DMUEGPCIHE.8f2f35",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-DMUEGPCIHE.8f2f35"
+    ]
    },
    {
     "id": "ORC-TLCMGKP5PW.64b35b",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-TLCMGKP5PW.c0a574",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-TLCMGKP5PW.c0a574"
+    ]
    },
    {
     "id": "ORC-OMOESPRYC6.94d9f9",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-OMOESPRYC6.cd6e21",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-OMOESPRYC6.cd6e21"
+    ]
    },
    {
     "id": "ORC-O6T27EECUR.ffd08b",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-O6T27EECUR.475ca1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-O6T27EECUR.475ca1"
+    ]
    },
    {
     "id": "ORC-47GIDRCAIY.25d926",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-47GIDRCAIY.327edc",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-47GIDRCAIY.327edc"
+    ]
    },
    {
     "id": "ORC-5OZUNE57VC.439fb3",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-5OZUNE57VC.f92ebe",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-5OZUNE57VC.f92ebe"
+    ]
    },
    {
     "id": "ORC-W7QKNYCF5B.516144",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-W7QKNYCF5B.a4d041",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-W7QKNYCF5B.a4d041"
+    ]
    },
    {
     "id": "ORC-BJUR3AAGDL.0ab99e",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-BJUR3AAGDL.4d0c3b",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-BJUR3AAGDL.4d0c3b"
+    ]
    },
    {
     "id": "ORC-KHVJHSHEFF.3579d9",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
-   },
-   {
-    "id": "ORC-KHVJHSHEFF.df8c98",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11661-004-0172-y"
+    "paper": "doi:10.1007/s11661-004-0172-y",
+    "also_read_as": [
+     "ORC-KHVJHSHEFF.df8c98"
+    ]
    }
   ],
   "papers": [
@@ -355,7 +268,8 @@
   "dois": [
    "10.1007/s11661-004-0172-y"
   ],
-  "source_dataset": "db-v2.1/general/espei/CeSi-04Gro/hmr-00.json"
+  "source_dataset": "db-v2.1/general/espei/CeSi-04Gro/hmr-00.json",
+  "values_dropped": 22
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -518,161 +432,15 @@
     "sigma_assumed": 500.0,
     "sigma_basis": "espei_default_experimental (assumed, not printed)",
     "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
    }
   ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.0,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

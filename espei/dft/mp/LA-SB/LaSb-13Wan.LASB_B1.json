@@ -1,7 +1,8 @@
 {
  "components": [
   "LA",
-  "SB"
+  "SB",
+  "VA"
  ],
  "phases": [
   "LASB_B1"

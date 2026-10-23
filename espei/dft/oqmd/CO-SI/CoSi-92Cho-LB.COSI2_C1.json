@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "COSI2_C1"

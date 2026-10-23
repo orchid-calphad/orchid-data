@@ -1,12 +1,11 @@
 {
  "components": [
   "GA",
-  "MG"
+  "MG",
+  "VA"
  ],
  "phases": [
-  "GA2MG",
   "GA2MG5_D8G",
-  "GA5MG2",
   "GAMG",
   "GAMG2",
   "HCP_A3",
@@ -18,10 +17,7 @@
    693.0,
    736.0,
    718.0,
-   642.0,
-   639.0,
-   556.0,
-   476.0
+   642.0
   ]
  },
  "output": "ZPF",
@@ -51,7 +47,7 @@
      "MG"
     ],
     [
-     0.714286
+     null
     ]
    ]
   ],
@@ -71,7 +67,7 @@
      "MG"
     ],
     [
-     0.714286
+     null
     ]
    ]
   ],
@@ -91,7 +87,7 @@
      "MG"
     ],
     [
-     0.714286
+     null
     ]
    ],
    [
@@ -100,7 +96,7 @@
      "MG"
     ],
     [
-     0.666667
+     null
     ]
    ],
    [
@@ -129,121 +125,7 @@
      "MG"
     ],
     [
-     0.5
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
      null
-    ]
-   ],
-   [
-    "GAMG2",
-    [
-     "MG"
-    ],
-    [
-     0.666667
-    ]
-   ],
-   [
-    "GAMG",
-    [
-     "MG"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "MG"
-    ],
-    [
-     0.5833335
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GAMG",
-    [
-     "MG"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "GA2MG",
-    [
-     "MG"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "MG"
-    ],
-    [
-     0.4166665
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA2MG",
-    [
-     "MG"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "GA5MG2",
-    [
-     "MG"
-    ],
-    [
-     0.285714
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "MG"
-    ],
-    [
-     0.3095235
     ]
    ]
   ]
@@ -255,7 +137,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3A43PUKFWR ORC-K7ZEGWDZMS ORC-LIF2CRXX3K ORC-KM5NWSXNF5 ORC-3NS2G3SCNS ORC-L2NHUPPVL7 ORC-QH7JADQOHC",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3A43PUKFWR ORC-K7ZEGWDZMS ORC-LIF2CRXX3K ORC-KM5NWSXNF5",
  "bibtex": "meng2010_1573d0",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -276,18 +158,6 @@
    {
     "id": "ORC-KM5NWSXNF5",
     "paper": "doi:10.1016/s1003-6326(09)60161-8"
-   },
-   {
-    "id": "ORC-3NS2G3SCNS",
-    "paper": "doi:10.1016/s1003-6326(09)60161-8"
-   },
-   {
-    "id": "ORC-L2NHUPPVL7",
-    "paper": "doi:10.1016/s1003-6326(09)60161-8"
-   },
-   {
-    "id": "ORC-QH7JADQOHC",
-    "paper": "doi:10.1016/s1003-6326(09)60161-8"
    }
   ],
   "papers": [
@@ -296,7 +166,8 @@
   "dois": [
    "10.1016/s1003-6326(09)60161-8"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/GaMg-10Men/zpf-07.json"
+  "source_dataset": "db-v2.1/invariants/espei/GaMg-10Men/zpf-07.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -316,20 +187,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 5,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,0 +1,210 @@
+{
+ "components": [
+  "NI",
+  "SM",
+  "VA"
+ ],
+ "phases": [
+  "NI2SM3",
+  "NISM3_D011",
+  "NISM_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   882.0,
+   883.0,
+   863.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NISM3_D011",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI2SM3",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ],
+  [
+   [
+    "NI2SM3",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ],
+  [
+   [
+    "NISM3_D011",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NISM_B33",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "Borzone 2012, doi:10.1007/s00706-012-0794-5",
+ "bibtex": "borzone2012_00cb3b",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SM/NiSm-16Rah.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7A2KSG7M3Q ORC-P7EX3O6XI3",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/NI-SM/NiSm-16Rah.zpf-00.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-7A2KSG7M3Q",
+    "side": "below",
+    "T_invariant_K": 892,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.7,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Sm7Ni3 -> Sm3Ni + Sm3Ni2",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "NI3SM7_D102"
+    ],
+    "phases_below": [
+     "NISM3_D011",
+     "NI2SM3"
+    ]
+   },
+   {
+    "source_observation": "ORC-P7EX3O6XI3",
+    "side": "above",
+    "T_invariant_K": 873,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Sm3Ni2 -> Sm3Ni + SmNi",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "NI2SM3"
+    ],
+    "phases_below": [
+     "NISM3_D011",
+     "NISM_B33"
+    ]
+   },
+   {
+    "source_observation": "ORC-P7EX3O6XI3",
+    "side": "below",
+    "T_invariant_K": 873,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Sm3Ni2 -> Sm3Ni + SmNi",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "NI2SM3"
+    ],
+    "phases_below": [
+     "NISM3_D011",
+     "NISM_B33"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1007/s00706-012-0794-5",
+   "10.1016/j.jallcom.2015.12.215"
+  ],
+  "papers": [
+   "doi:10.1007/s00706-012-0794-5",
+   "doi:10.1016/j.jallcom.2015.12.215"
+  ]
+ }
+}

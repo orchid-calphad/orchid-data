@@ -1,7 +1,8 @@
 {
  "components": [
   "ER",
-  "PD"
+  "PD",
+  "VA"
  ],
  "phases": [
   "ER3PD4"

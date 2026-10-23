@@ -1,7 +1,8 @@
 {
  "components": [
   "NI",
-  "P"
+  "P",
+  "VA"
  ],
  "phases": [
   "M3P_D0E"

@@ -69,7 +69,7 @@
      "PT"
     ],
     [
-     0.3
+     null
     ]
    ]
   ],
@@ -80,7 +80,7 @@
      "PT"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -89,7 +89,16 @@
      "PT"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.3174670213
     ]
    ]
   ],
@@ -100,7 +109,7 @@
      "PT"
     ],
     [
-     0.333
+     null
     ]
    ],
    [
@@ -109,7 +118,16 @@
      "PT"
     ],
     [
-     0.4
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.3675512139
     ]
    ]
   ],
@@ -120,7 +138,7 @@
      "PT"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -191,7 +209,7 @@
      "PT"
     ],
     [
-     0.6
+     null
     ]
    ]
   ],
@@ -202,7 +220,7 @@
      "PT"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -293,7 +311,7 @@
      "PT"
     ],
     [
-     0.3
+     null
     ]
    ]
   ],
@@ -315,7 +333,7 @@
      "PT"
     ],
     [
-     0.3
+     null
     ]
    ],
    [
@@ -324,7 +342,16 @@
      "PT"
     ],
     [
-     0.333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.3179678632
     ]
    ]
   ],
@@ -404,7 +431,7 @@
      "PT"
     ],
     [
-     0.333
+     null
     ]
    ]
   ],
@@ -435,7 +462,7 @@
      "PT"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -466,7 +493,7 @@
      "PT"
     ],
     [
-     0.4
+     null
     ]
    ],
    [
@@ -571,6 +598,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 26(4), 399 (2005) doi:10.1361/154770305x56962; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 555",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-PT-p555; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "IN-PT-p555",

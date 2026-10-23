@@ -1,0 +1,992 @@
+{
+ "components": [
+  "CE",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "CE3SI2_D5A",
+  "CE3SI5",
+  "CE5SI3_D8L",
+  "CE5SI4",
+  "CESI2_CC",
+  "CESI_B27",
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   918.0,
+   898.0,
+   1543.0,
+   1523.0,
+   1618.0,
+   1598.0,
+   1803.0,
+   1743.0,
+   1913.0,
+   1893.0,
+   1830.5,
+   1780.5,
+   2003.0,
+   1983.0,
+   1843.0,
+   1823.0,
+   1481.0,
+   1461.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.095
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.115
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "CE5SI3_D8L",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.095
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.115
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE3SI2_D5A",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.385
+    ]
+   ]
+  ],
+  [
+   [
+    "CE5SI3_D8L",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE5SI4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "CE3SI2_D5A",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.41
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CESI_B27",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.434444
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.454444
+    ]
+   ]
+  ],
+  [
+   [
+    "CE5SI4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.434444
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.454444
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "CESI_B27",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.56
+    ]
+   ]
+  ],
+  [
+   [
+    "CESI_B27",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE3SI5",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.56
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.63
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.62
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.64
+    ]
+   ]
+  ],
+  [
+   [
+    "CE3SI5",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.62
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.64
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE3SI5",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.676667
+    ]
+   ]
+  ],
+  [
+   [
+    "CESI2_CC",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.676667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.82
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.81
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.83
+    ]
+   ]
+  ],
+  [
+   [
+    "CESI2_CC",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.81
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.83
+    ]
+   ]
+  ]
+ ],
+ "reference": "Huang 2016, doi:10.1016/j.tca.2016.11.003",
+ "bibtex": "huang2016_e2faad",
+ "tags": [
+  "derived",
+  "derived_bracket",
+  "orchid",
+  "via_assessment"
+ ],
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CE-SI/CeSi-16Hua.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4DYEGVGPOH ORC-AKXBITPNKR ORC-JJQAY6FIK7 ORC-KMJDOMLVCD ORC-MGTH7YGJMX ORC-ONDOJOX2II ORC-THGQLGHDBR ORC-XJU4U2L7ZX ORC-ZQXIIZ7RBZ",
+ "orchid": {
+  "evidence_class": "derived",
+  "derived_from": "invariants/CE-SI/CeSi-16Hua.zpf-03.json",
+  "derivation": "invariant_bracket",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "points": [
+   {
+    "source_observation": "ORC-4DYEGVGPOH",
+    "side": "above",
+    "T_invariant_K": 908.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.105,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (γCe) + Ce5Si3",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CE5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-4DYEGVGPOH",
+    "side": "below",
+    "T_invariant_K": 908.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.105,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (γCe) + Ce5Si3",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CE5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-XJU4U2L7ZX",
+    "side": "above",
+    "T_invariant_K": 1533.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.375,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ce3Si2 ↔ Ce5Si3",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE3SI2_D5A"
+    ],
+    "phases_below": [
+     "CE5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-XJU4U2L7ZX",
+    "side": "below",
+    "T_invariant_K": 1533.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.375,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ce3Si2 ↔ Ce5Si3",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE3SI2_D5A"
+    ],
+    "phases_below": [
+     "CE5SI3_D8L"
+    ]
+   },
+   {
+    "source_observation": "ORC-THGQLGHDBR",
+    "side": "above",
+    "T_invariant_K": 1608.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ce5Si4 ↔ Ce3Si2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE5SI4"
+    ],
+    "phases_below": [
+     "CE3SI2_D5A"
+    ]
+   },
+   {
+    "source_observation": "ORC-THGQLGHDBR",
+    "side": "below",
+    "T_invariant_K": 1608.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.4,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ce5Si4 ↔ Ce3Si2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE5SI4"
+    ],
+    "phases_below": [
+     "CE3SI2_D5A"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZQXIIZ7RBZ",
+    "side": "above",
+    "T_invariant_K": 1773.0,
+    "offset_K": 30.0,
+    "T_sigma_K": 15.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.444444,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CeSi ↔ Ce5Si4",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CESI_B27"
+    ],
+    "phases_below": [
+     "CE5SI4"
+    ]
+   },
+   {
+    "source_observation": "ORC-ZQXIIZ7RBZ",
+    "side": "below",
+    "T_invariant_K": 1773.0,
+    "offset_K": 30.0,
+    "T_sigma_K": 15.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.444444,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CeSi ↔ Ce5Si4",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CESI_B27"
+    ],
+    "phases_below": [
+     "CE5SI4"
+    ]
+   },
+   {
+    "source_observation": "ORC-MGTH7YGJMX",
+    "side": "above",
+    "T_invariant_K": 1903.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI_B27"
+    ]
+   },
+   {
+    "source_observation": "ORC-MGTH7YGJMX",
+    "side": "below",
+    "T_invariant_K": 1903.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI_B27"
+    ]
+   },
+   {
+    "source_observation": "ORC-KMJDOMLVCD",
+    "side": "above",
+    "T_invariant_K": 1805.5,
+    "offset_K": 25.0,
+    "T_sigma_K": 12.5,
+    "T_sigma_basis": "printed",
+    "x0": 0.55,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi + CeSi1.68",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI_B27",
+     "CE3SI5"
+    ]
+   },
+   {
+    "source_observation": "ORC-KMJDOMLVCD",
+    "side": "below",
+    "T_invariant_K": 1805.5,
+    "offset_K": 25.0,
+    "T_sigma_K": 12.5,
+    "T_sigma_basis": "printed",
+    "x0": 0.55,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi + CeSi1.68",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI_B27",
+     "CE3SI5"
+    ]
+   },
+   {
+    "source_observation": "ORC-ONDOJOX2II",
+    "side": "above",
+    "T_invariant_K": 1993.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.63,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi1.68",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CE3SI5"
+    ]
+   },
+   {
+    "source_observation": "ORC-ONDOJOX2II",
+    "side": "below",
+    "T_invariant_K": 1993.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.63,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi1.68",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CE3SI5"
+    ]
+   },
+   {
+    "source_observation": "ORC-JJQAY6FIK7",
+    "side": "above",
+    "T_invariant_K": 1833.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CeSi1.68 ↔ CeSi2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE3SI5"
+    ],
+    "phases_below": [
+     "CESI2_CC"
+    ]
+   },
+   {
+    "source_observation": "ORC-JJQAY6FIK7",
+    "side": "below",
+    "T_invariant_K": 1833.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + CeSi1.68 ↔ CeSi2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "CE3SI5"
+    ],
+    "phases_below": [
+     "CESI2_CC"
+    ]
+   },
+   {
+    "source_observation": "ORC-AKXBITPNKR",
+    "side": "above",
+    "T_invariant_K": 1471.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.82,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi2 + (Si)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI2_CC",
+     "DIAMOND_A4"
+    ]
+   },
+   {
+    "source_observation": "ORC-AKXBITPNKR",
+    "side": "below",
+    "T_invariant_K": 1471.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.82,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ CeSi2 + (Si)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CESI2_CC",
+     "DIAMOND_A4"
+    ]
+   }
+  ],
+  "dois": [
+   "10.1016/j.tca.2016.11.003",
+   "10.1016/s0925-8388(02)00409-7"
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2016.11.003",
+   "doi:10.1016/s0925-8388(02)00409-7"
+  ]
+ }
+}

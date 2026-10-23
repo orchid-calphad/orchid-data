@@ -1,7 +1,8 @@
 {
  "components": [
   "GA",
-  "PB"
+  "PB",
+  "VA"
  ],
  "phases": [
   "LIQUID"
@@ -11,22 +12,13 @@
   "T": 1000.0,
   "X_PB": [
    0.1,
-   0.1,
-   0.2,
    0.2,
    0.3,
-   0.3,
-   0.4,
    0.4,
    0.5,
-   0.5,
-   0.6,
    0.6,
    0.7,
-   0.7,
    0.8,
-   0.8,
-   0.9,
    0.9
   ]
  },
@@ -35,22 +27,13 @@
   [
    [
     0.224,
-    0.224,
-    0.324,
     0.324,
     0.419,
-    0.419,
-    0.496,
     0.496,
     0.567,
-    0.567,
-    0.649,
     0.649,
     0.726,
-    0.726,
     0.809,
-    0.809,
-    0.904,
     0.904
    ]
   ]
@@ -62,7 +45,7 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7ETPQ4MBKX.0a40ca ORC-7ETPQ4MBKX.0a40ca ORC-ZGNAFNTX2H.5e9855 ORC-ZGNAFNTX2H.5e9855 ORC-7G4J3DVKFH.4c3dd1 ORC-7G4J3DVKFH.4c3dd1 ORC-7I45ALU6KN.148367 ORC-7I45ALU6KN.148367 ORC-MONU7THU37.51a297 ORC-MONU7THU37.51a297 ORC-63QYRBVRYF.54531d ORC-63QYRBVRYF.54531d ORC-LJTN6HCDSM.141d8a ORC-LJTN6HCDSM.141d8a ORC-3Z5S7VXILD.09f25f ORC-3Z5S7VXILD.09f25f ORC-CRRFPLQB7C.8b23eb ORC-CRRFPLQB7C.8b23eb",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7ETPQ4MBKX.0a40ca ORC-ZGNAFNTX2H.5e9855 ORC-7G4J3DVKFH.4c3dd1 ORC-7I45ALU6KN.148367 ORC-MONU7THU37.51a297 ORC-63QYRBVRYF.54531d ORC-LJTN6HCDSM.141d8a ORC-3Z5S7VXILD.09f25f ORC-CRRFPLQB7C.8b23eb",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -81,92 +64,74 @@
    {
     "id": "ORC-7ETPQ4MBKX.0a40ca",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-7ETPQ4MBKX.0a40ca",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-ZGNAFNTX2H.5e9855",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-7ETPQ4MBKX.0a40ca"
+    ]
    },
    {
     "id": "ORC-ZGNAFNTX2H.5e9855",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-ZGNAFNTX2H.5e9855"
+    ]
    },
    {
     "id": "ORC-7G4J3DVKFH.4c3dd1",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-7G4J3DVKFH.4c3dd1",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-7I45ALU6KN.148367",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-7G4J3DVKFH.4c3dd1"
+    ]
    },
    {
     "id": "ORC-7I45ALU6KN.148367",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-7I45ALU6KN.148367"
+    ]
    },
    {
     "id": "ORC-MONU7THU37.51a297",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-MONU7THU37.51a297",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-63QYRBVRYF.54531d",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-MONU7THU37.51a297"
+    ]
    },
    {
     "id": "ORC-63QYRBVRYF.54531d",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-63QYRBVRYF.54531d"
+    ]
    },
    {
     "id": "ORC-LJTN6HCDSM.141d8a",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-LJTN6HCDSM.141d8a",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-3Z5S7VXILD.09f25f",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-LJTN6HCDSM.141d8a"
+    ]
    },
    {
     "id": "ORC-3Z5S7VXILD.09f25f",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-3Z5S7VXILD.09f25f"
+    ]
    },
    {
     "id": "ORC-CRRFPLQB7C.8b23eb",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
-   },
-   {
-    "id": "ORC-CRRFPLQB7C.8b23eb",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7"
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "also_read_as": [
+     "ORC-CRRFPLQB7C.8b23eb"
+    ]
    }
   ],
   "papers": [
@@ -177,7 +142,8 @@
    "10.1016/0022-5088(73)90149-5",
    "10.1016/0925-8388(95)02178-7"
   ],
-  "source_dataset": "db-v2.1/general/espei/GaPb-96Mat/acr_pb-63.json"
+  "source_dataset": "db-v2.1/general/espei/GaPb-96Mat/acr_pb-63.json",
+  "values_dropped": 9
  },
  "orchid_uncertainty": {
   "unit": "1 (activity)",
@@ -249,70 +215,26 @@
     "sigma_assumed": 500.0,
     "sigma_basis": "espei_default_experimental (assumed, not printed)",
     "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
    }
   ]
+ },
+ "orchid_reference_state": {
+  "element": "PB",
+  "phase": "LIQUID",
+  "basis": "not_printed_implied",
+  "quote": "Experimental activity of lead in [Ga + Pb] liquid alloys",
+  "where": "table 1 caption; reference state not printed; Pb is liquid at 1000-1143 K",
+  "record_reference_state_agrees": true,
+  "written_before_audit": [
+   "LIQUID"
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.0,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  }
 }

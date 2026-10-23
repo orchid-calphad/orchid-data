@@ -1,0 +1,212 @@
+{
+ "components": [
+  "CO",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "CO2MG_C14",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   583.9487531,
+   689.9487531,
+   969.9487531,
+   1056.448753,
+   1553.448753,
+   1431.448753
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2MG_C14",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.1667136014
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2MG_C14",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.6680563698
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2MG_C14",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.1662127595
+    ]
+   ]
+  ],
+  [
+   [
+    "CO2MG_C14",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.5834140842
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.653031112
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.2273154745
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.A. Nayeb-Hashemi and J.B. Clark, Bull. Alloy Phase Diagrams, 8(4), 352- 354 (1987) doi:10.1007/bf02869272; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 307",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-MG-p307; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to CoMg-22Yan.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-MG-p307",
+  "target_tdb": "CoMg-22Yan.tdb",
+  "record_ids": [
+   "aspa-d7fb8c2ad7edefe9",
+   "aspa-9351232375fab7b7",
+   "aspa-d785f62c903adf2b",
+   "aspa-b6ae9633be8d4d2b",
+   "aspa-651c8d669c791e19",
+   "aspa-8e7524c6cb913c0c"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "high",
+   "high",
+   "high"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/CO-MG-p307.json"
+ }
+}

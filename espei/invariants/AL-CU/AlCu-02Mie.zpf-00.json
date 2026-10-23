@@ -1,7 +1,8 @@
 {
  "components": [
   "AL",
-  "CU"
+  "CU",
+  "VA"
  ],
  "phases": [
   "AL4CU9_GAMMA",

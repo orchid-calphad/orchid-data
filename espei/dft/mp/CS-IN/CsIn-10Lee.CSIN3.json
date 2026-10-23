@@ -1,7 +1,8 @@
 {
  "components": [
   "CS",
-  "IN"
+  "IN",
+  "VA"
  ],
  "phases": [
   "CSIN3"

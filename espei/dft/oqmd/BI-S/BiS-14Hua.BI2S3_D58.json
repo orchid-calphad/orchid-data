@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "S"
+  "S",
+  "VA"
  ],
  "phases": [
   "BI2S3_D58"

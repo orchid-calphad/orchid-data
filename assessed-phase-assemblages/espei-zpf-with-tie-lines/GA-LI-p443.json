@@ -57,7 +57,7 @@
      "LI"
     ],
     [
-     0.176
+     null
     ]
    ]
   ],
@@ -68,7 +68,7 @@
      "LI"
     ],
     [
-     0.176
+     null
     ]
    ],
    [
@@ -77,7 +77,16 @@
      "LI"
     ],
     [
-     0.222
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.1987487933
     ]
    ]
   ],
@@ -117,7 +126,7 @@
      "LI"
     ],
     [
-     0.357
+     null
     ]
    ],
    [
@@ -146,7 +155,7 @@
      "LI"
     ],
     [
-     0.556
+     null
     ]
    ]
   ],
@@ -186,7 +195,7 @@
      "LI"
     ],
     [
-     0.6
+     null
     ]
    ],
    [
@@ -195,7 +204,16 @@
      "LI"
     ],
     [
-     0.667
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6331397381
     ]
    ]
   ],
@@ -206,7 +224,7 @@
      "LI"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -306,7 +324,7 @@
      "LI"
     ],
     [
-     0.667
+     null
     ]
    ],
    [
@@ -364,7 +382,7 @@
      "LI"
     ],
     [
-     0.357
+     null
     ]
    ]
   ],
@@ -404,7 +422,7 @@
      "LI"
     ],
     [
-     0.667
+     null
     ]
    ]
   ],
@@ -431,6 +449,11 @@
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 27(2), 200 (2006) doi:10.1361/154770306x97722; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 443",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-LI-p443; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid",
+  "tie_line_variant"
+ ],
  "orchid": {
   "evidence_class": "assessed_phase_diagram",
   "diagram": "GA-LI-p443",

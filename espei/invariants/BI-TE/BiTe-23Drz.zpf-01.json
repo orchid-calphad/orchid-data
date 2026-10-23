@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "BI2TE3_C33",
@@ -91,7 +92,14 @@
   "observations": [
    {
     "id": "ORC-J3VVE3X3QU",
-    "paper": "doi:10.1007/s11669-023-01049-9"
+    "paper": "doi:10.1007/s11669-023-01049-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-KXRMUYNPV6",
+      "paper": "doi:10.1007/s11669-023-01049-9",
+      "dataset": "invariants/BI-TE/BiTe-23Drz.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-WRI7XO45AZ",
@@ -100,13 +108,16 @@
   ],
   "papers": [
    "doi:10.1007/s11669-023-01049-9",
-   "doi:10.1021/j100849a043"
+   "doi:10.1021/j100849a043",
+   "doi:10.1107/s0567740879002788"
   ],
   "dois": [
    "10.1007/s11669-023-01049-9",
-   "10.1021/j100849a043"
+   "10.1021/j100849a043",
+   "10.1107/s0567740879002788"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiTe-23Drz/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiTe-23Drz/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -1,21 +1,18 @@
 {
  "components": [
   "NB",
-  "RE"
+  "RE",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
-  "CHI_A12",
-  "HCP_A3",
   "LIQUID",
   "SIGMA_D8B"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   2740.0,
-   3004.0,
-   2843.0
+   2740.0
   ]
  },
  "output": "ZPF",
@@ -48,64 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "RE"
-    ],
-    [
-     0.88
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "RE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CHI_A12",
-    [
-     "RE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "RE"
-    ],
-    [
-     0.53
-    ]
-   ],
-   [
-    "CHI_A12",
-    [
-     "RE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "SIGMA_D8B",
-    [
-     "RE"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Yen 2020, doi:10.1016/j.calphad.2020.101797",
@@ -115,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HHFTH2FIN7 ORC-6OOI4WDRRE ORC-6JF6Y3MMIG",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HHFTH2FIN7",
  "bibtex": "yen2020_e857d1",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -123,14 +62,6 @@
   "observations": [
    {
     "id": "ORC-HHFTH2FIN7",
-    "paper": "doi:10.1016/j.calphad.2020.101797"
-   },
-   {
-    "id": "ORC-6OOI4WDRRE",
-    "paper": "doi:10.1016/j.calphad.2020.101797"
-   },
-   {
-    "id": "ORC-6JF6Y3MMIG",
     "paper": "doi:10.1016/j.calphad.2020.101797"
    }
   ],
@@ -140,23 +71,12 @@
   "dois": [
    "10.1016/j.calphad.2020.101797"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbRe-20Yen/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/NbRe-20Yen/zpf-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 10.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 15.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",

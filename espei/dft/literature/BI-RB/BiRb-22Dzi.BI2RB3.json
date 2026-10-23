@@ -1,7 +1,8 @@
 {
  "components": [
   "BI",
-  "RB"
+  "RB",
+  "VA"
  ],
  "phases": [
   "BI2RB3"

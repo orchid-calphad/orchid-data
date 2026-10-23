@@ -1,7 +1,8 @@
 {
  "components": [
   "CO",
-  "ER"
+  "ER",
+  "VA"
  ],
  "phases": [
   "COER3_D011"

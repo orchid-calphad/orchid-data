@@ -1,54 +1,22 @@
 {
  "components": [
   "BI",
-  "NI"
+  "NI",
+  "VA"
  ],
  "phases": [
   "BI3NI",
   "BINI_B81",
-  "FCC_A1",
-  "LIQUID",
-  "RHOMBOHEDRAL_A7"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   927.0,
-   735.0,
-   542.0
+   735.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BINI_B81",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -77,35 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BI3NI",
-    [
-     "NI"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "RHOMBOHEDRAL_A7",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Portevin 1908, doi:10.1051/metal/190805030110",
@@ -115,24 +54,14 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FDTATG3QNY ORC-TRA2QN2H35 ORC-TONFLYC4VV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TRA2QN2H35",
  "bibtex": "portevin1908_5d4349",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-FDTATG3QNY",
-    "paper": "doi:10.1007/s11664-015-4272-9",
-    "measured_in": "doi:10.1051/metal/190805030110"
-   },
-   {
     "id": "ORC-TRA2QN2H35",
-    "paper": "doi:10.1007/s11664-015-4272-9",
-    "measured_in": "doi:10.1051/metal/190805030110"
-   },
-   {
-    "id": "ORC-TONFLYC4VV",
     "paper": "doi:10.1007/s11664-015-4272-9",
     "measured_in": "doi:10.1051/metal/190805030110"
    }
@@ -145,19 +74,12 @@
    "10.1007/s11664-015-4272-9",
    "10.1051/metal/190805030110"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiNi-16Liu/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiNi-16Liu/zpf-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"

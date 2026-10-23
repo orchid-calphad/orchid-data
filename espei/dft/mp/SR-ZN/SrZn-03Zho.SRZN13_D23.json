@@ -1,6 +1,7 @@
 {
  "components": [
   "SR",
+  "VA",
   "ZN"
  ],
  "phases": [

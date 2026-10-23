@@ -1,7 +1,8 @@
 {
  "components": [
   "SI",
-  "V"
+  "V",
+  "VA"
  ],
  "phases": [
   "SIV3_A15"

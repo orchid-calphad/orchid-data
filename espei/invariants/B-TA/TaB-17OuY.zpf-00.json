@@ -1,7 +1,8 @@
 {
  "components": [
   "B",
-  "TA"
+  "TA",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
@@ -43,7 +44,7 @@
      "TA"
     ],
     [
-     0.483
+     null
     ]
    ],
    [
@@ -52,7 +53,7 @@
      "TA"
     ],
     [
-     0.431
+     null
     ]
    ]
   ],
@@ -81,7 +82,7 @@
      "TA"
     ],
     [
-     0.422
+     null
     ]
    ]
   ],
@@ -101,7 +102,7 @@
      "TA"
     ],
     [
-     0.501
+     null
     ]
    ],
    [
@@ -110,7 +111,7 @@
      "TA"
     ],
     [
-     0.712
+     null
     ]
    ]
   ],
@@ -130,7 +131,7 @@
      "TA"
     ],
     [
-     0.701
+     null
     ]
    ],
    [
@@ -150,7 +151,7 @@
      "TA"
     ],
     [
-     0.505
+     null
     ]
    ],
    [
@@ -159,7 +160,7 @@
      "TA"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -168,7 +169,16 @@
      "TA"
     ],
     [
-     0.59
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.5872222222
     ]
    ]
   ],
@@ -208,7 +218,7 @@
      "TA"
     ],
     [
-     0.7
+     null
     ]
    ],
    [
@@ -217,7 +227,7 @@
      "TA"
     ],
     [
-     0.61
+     null
     ]
    ],
    [
@@ -320,5 +330,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 11,
+  "hyperplanes_added": 1,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

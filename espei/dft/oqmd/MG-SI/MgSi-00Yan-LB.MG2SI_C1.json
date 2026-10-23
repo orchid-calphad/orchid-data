@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "MG2SI_C1"

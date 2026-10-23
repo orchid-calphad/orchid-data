@@ -1,10 +1,10 @@
 {
  "components": [
   "AG",
-  "ND"
+  "ND",
+  "VA"
  ],
  "phases": [
-  "AG2ND_ALPHA",
   "AG2ND_BETA",
   "AG51ND14",
   "AGND_B2",
@@ -13,11 +13,8 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1218.15,
    1083.15,
-   1093.15,
-   893.15,
-   1228.15
+   1093.15
   ]
  },
  "output": "ZPF",
@@ -29,26 +26,6 @@
      "ND"
     ],
     [
-     0.5
-    ]
-   ],
-   [
-    "AGND_B2",
-    [
-     "ND"
-    ],
-    [
-     0.5
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ND"
-    ],
-    [
      null
     ]
    ],
@@ -58,7 +35,7 @@
      "ND"
     ],
     [
-     0.5
+     null
     ]
    ],
    [
@@ -67,7 +44,16 @@
      "ND"
     ],
     [
-     0.3333333333333333
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.4166666667
     ]
    ]
   ],
@@ -87,7 +73,7 @@
      "ND"
     ],
     [
-     0.25
+     null
     ]
    ],
    [
@@ -96,47 +82,16 @@
      "ND"
     ],
     [
-     0.3333333333333333
-    ]
-   ]
-  ],
-  [
-   [
-    "AG2ND_BETA",
-    [
-     "ND"
-    ],
-    [
-     0.333333
+     null
     ]
    ],
    [
-    "AG2ND_ALPHA",
+    "__HYPERPLANE__",
     [
      "ND"
     ],
     [
-     0.333333
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ND"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     0.25
+     0.2916666667
     ]
    ]
   ]
@@ -148,17 +103,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-K23TT2IXCX ORC-UVXHTTIIWX ORC-TG7ITMIBXL ORC-SMQUGMGALF ORC-M5JV2RN6TD",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UVXHTTIIWX ORC-TG7ITMIBXL",
  "bibtex": "mulokozi1978_ecb934",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-K23TT2IXCX",
-    "paper": "doi:10.1016/j.jallcom.2008.09.129",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
-   },
    {
     "id": "ORC-UVXHTTIIWX",
     "paper": "doi:10.1016/j.jallcom.2008.09.129",
@@ -166,16 +116,6 @@
    },
    {
     "id": "ORC-TG7ITMIBXL",
-    "paper": "doi:10.1016/j.jallcom.2008.09.129",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
-   },
-   {
-    "id": "ORC-SMQUGMGALF",
-    "paper": "doi:10.1016/j.jallcom.2008.09.129",
-    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
-   },
-   {
-    "id": "ORC-M5JV2RN6TD",
     "paper": "doi:10.1016/j.jallcom.2008.09.129",
     "measured_in": "doi:10.1016/0022-5088(78)90247-3"
    }
@@ -188,7 +128,8 @@
    "10.1016/0022-5088(78)90247-3",
    "10.1016/j.jallcom.2008.09.129"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Wan/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Wan/zpf-03.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -200,20 +141,13 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 2,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

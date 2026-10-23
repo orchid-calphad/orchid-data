@@ -1,22 +1,21 @@
 {
  "components": [
   "NB",
-  "SI"
+  "SI",
+  "VA"
  ],
  "phases": [
   "BCC_A2",
   "LIQUID",
   "NB3SI",
-  "NB5SI3",
-  "NBSI2_C40"
+  "NB5SI3"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    2193.15,
    2253.15,
-   2793.15,
-   2213.15
+   2793.15
   ]
  },
  "output": "ZPF",
@@ -46,7 +45,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -66,7 +65,7 @@
      "SI"
     ],
     [
-     0.375
+     null
     ]
    ],
    [
@@ -75,7 +74,7 @@
      "SI"
     ],
     [
-     0.25
+     null
     ]
    ]
   ],
@@ -95,36 +94,7 @@
      "SI"
     ],
     [
-     0.375
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.667
-    ]
-   ],
-   [
-    "NBSI2_C40",
-    [
-     "SI"
-    ],
-    [
-     0.6666666666666666
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6668333335000001
+     null
     ]
    ]
   ]
@@ -136,7 +106,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H3KRLNWGQ4 ORC-JDBOWWGRLH ORC-SQILVUSUJH ORC-RALMHOZRJW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H3KRLNWGQ4 ORC-JDBOWWGRLH ORC-SQILVUSUJH",
  "bibtex": "kocherzhinskiy1980_4abd2e",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -156,11 +126,6 @@
     "id": "ORC-SQILVUSUJH",
     "paper": "doi:10.1016/s0966-9795(98)00073-9",
     "measured_in": "ref:a8126ebcb1cf5857"
-   },
-   {
-    "id": "ORC-RALMHOZRJW",
-    "paper": "doi:10.1016/s0966-9795(98)00073-9",
-    "measured_in": "ref:a8126ebcb1cf5857"
    }
   ],
   "papers": [
@@ -170,7 +135,8 @@
   "dois": [
    "10.1016/s0966-9795(98)00073-9"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbSi-99Lia/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/NbSi-99Lia/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -192,14 +158,13 @@
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
     "temperature_sigma_K": 20.0,
     "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 20.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

@@ -1,7 +1,8 @@
 {
  "components": [
   "MG",
-  "SN"
+  "SN",
+  "VA"
  ],
  "phases": [
   "BCT_A5",
@@ -44,7 +45,7 @@
      "SN"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -64,7 +65,7 @@
      "SN"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ]
   ],
@@ -84,7 +85,7 @@
      "SN"
     ],
     [
-     0.3333333333333333
+     null
     ]
    ],
    [
@@ -119,7 +120,15 @@
    {
     "id": "ORC-QL3QBGLW22",
     "paper": "doi:10.1016/j.jallcom.2010.08.124",
-    "measured_in": "ref:0dc5b53dbc3a2816"
+    "measured_in": "ref:0dc5b53dbc3a2816",
+    "also_reported_as": [
+     {
+      "id": "ORC-E3UBLMQZ4P",
+      "paper": "doi:10.1016/j.jallcom.2010.08.124",
+      "measured_in": "ref:e98d63e928d8c96d",
+      "dataset": "invariants/MG-SN/MgSn-10Men.zpf-10.json"
+     }
+    ]
    },
    {
     "id": "ORC-3PUA3GPZTE",
@@ -129,12 +138,14 @@
   ],
   "papers": [
    "ref:0dc5b53dbc3a2816",
-   "doi:10.1016/j.jallcom.2010.08.124"
+   "doi:10.1016/j.jallcom.2010.08.124",
+   "ref:e98d63e928d8c96d"
   ],
   "dois": [
    "10.1016/j.jallcom.2010.08.124"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MgSn-10Men/zpf-05.json"
+  "source_dataset": "db-v2.1/invariants/espei/MgSn-10Men/zpf-05.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -153,5 +164,10 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 3,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  }
 }

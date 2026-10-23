@@ -1,7 +1,8 @@
 {
  "components": [
   "IR",
-  "MO"
+  "MO",
+  "VA"
  ],
  "phases": [
   "IRMO_B19"
