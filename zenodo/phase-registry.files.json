@@ -14,12 +14,12 @@
  ],
  "exclude": [],
  "n_files": 1259,
- "total_bytes": 164923486,
+ "total_bytes": 111980610,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 7839,
-   "sha256": "14716e99b6ac90cee396e2dfff4e166bc7b008e9bdceeb2f0f0a6e89d04787e3"
+   "bytes": 8241,
+   "sha256": "e7c5cb2c38eb246d877986e9c518ccdf60f0d9d50d04300255a59226a428e5f4"
   },
   {
    "path": "LICENSE",
@@ -53,8 +53,8 @@
   },
   {
    "path": "phases/SCHEMA.md",
-   "bytes": 15150,
-   "sha256": "79d37689d1c2a5c2629b3935675ba10931bcdbd67748f7dd170440ca5d14bfcb"
+   "bytes": 16377,
+   "sha256": "30faff4da6149d6ff67db911027fe177f2cd2864a7dc184d9475060a52d02522"
   },
   {
    "path": "phases/context.jsonld",
@@ -78,8 +78,8 @@
   },
   {
    "path": "phases/registry.json",
-   "bytes": 60793998,
-   "sha256": "46a1109ce89de846caa1f9349ebeb481c25994221111efd6440f7021b2216cdd"
+   "bytes": 7849294,
+   "sha256": "3fed5525090f7e026bdf138a86121dda78ef4e2c5ddf7897ce9020f2ec95d9d6"
   },
   {
    "path": "phases/registry.jsonld",
@@ -6308,8 +6308,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 8374,
-   "sha256": "e999710b3932162b645dfb0cfd43ab192177a75b6df27ff1e50a96d712c1dc5d"
+   "bytes": 8573,
+   "sha256": "31b82abfc1d950140bcb588ca7cb3e33c89a181b9c71b29bcf68611439e53c1d"
   }
  ]
 }

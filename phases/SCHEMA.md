@@ -12,16 +12,29 @@ a review candidate. Paper labels come from the machine-extracted literature valu
 
 | file | content |
 |---|---|
-| `registry.json` | canonical registry: `{dataset, registry_version, inputs, counts, cite_as, phases[]}` |
+| `registry.json` | compact index of every phase: `{dataset, registry_version, inputs, counts, cite_as, record_format: "compact", detail, phases[]}`; each row is a compact entry (below), without `tdb_definition` text or reference details |
+| `systems/<SYS>.json` | full records of one binary system: `{system, release, phases[], structure_types{}, cite_as}`; `phases[]` are full phase entries (below, with `models[].tdb_definition`, `stability`, `references`) |
 | `structure_types.json` | system-independent structure types, each with its sources |
 | `registry.jsonld`, `context.jsonld` | the phases as a schema.org `DefinedTermSet` of `DefinedTerm`s (`citation`, `isBasedOn`; `additionalProperty`: one `PropertyValue` `orchid:tdbPhaseDefinition` per model with the verbatim statements) |
 | `registry.csv` | one flat row per phase (`references_first5`: first five reference DOIs, `;`-joined; `tdb_first_model`, `tdb_phase_line`, `tdb_constituent_line`: file and verbatim PHASE / CONSTITUENT statements of the first model, models sorted by file and phase name) |
 | `registry.parquet` | the CSV columns as a typed Parquet table (when built with pyarrow) |
 | `review_queue.json` | phases with candidates but no assigned structure (`status: needs_review`) |
 | `CONFLICTS.md` | same name -> different structures, name vs DFT, MP vs OQMD, model compositions, polymorph families |
-| `index.json`, `systems/<SYS>.json` | website search index and per-system detail (same entries as `registry.json`) |
+| `index.json` | website search index (column arrays) |
 
-## Phase entry
+Every file stays below 45 MB: the full records are split by system, and `registry.json` is the index over them.
+To get all full records, read `registry.json` and then each distinct `detail` file (1 file per system).
+
+## Compact entry (`registry.json`)
+
+`{id, system, elements, preferred_name, status, structure, names[], tdb_names[], stoichiometry, counts, detail}`.
+`structure` is `null` or `{structure_type, basis, tier, confidence, prototype, strukturbericht, pearson, space_group}`
+(the full entry adds `label`, `caveats`, `dft`, `source`). `names` are the `name` strings of the full entry's `names`.
+`counts`: `{models, models_with_tdb_definition, candidates, calculated_diagrams, stable_in_diagrams, literature_values,
+literature_accepted_values, literature_papers, references_listed, total_papers}`. `detail`: the per-system file
+(relative to `phases/`) holding the full entry with the same `id`.
+
+## Phase entry (full, `systems/<SYS>.json`)
 
 | field | meaning |
 |---|---|

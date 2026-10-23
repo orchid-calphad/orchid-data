@@ -15,6 +15,11 @@ CONSTITUENT and TYPE_DEFINITION statements with line numbers (8,392 distinct typ
 partner), parameter counts by kind and interaction order, and links to the file on orchid-project.org and in
 orchid-calphad/orchid-pipeline. Built by `tools/build_phase_registry.py` (orchid-project.org).
 
+File layout: every file stays below 45 MB (GitHub warns at 50 MB). `phases/registry.json` (7.8 MB) is a compact index
+of all phases (id, system, names, structure summary with tier and prototype, counts, `detail` file); the full records,
+including `models[].tdb_definition` and `references`, are in `phases/systems/<SYS>.json` (one per system, largest
+0.37 MB). JSON-LD, CSV and Parquet are unchanged.
+
 ## v2026.10 — Version 1, machine-extracted (2026-10-22)
 
 First citable release of the ORCHID data, archived on Zenodo as four datasets, each its own record and DOI, plus
