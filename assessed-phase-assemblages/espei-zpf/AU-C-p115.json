@@ -1,0 +1,38 @@
+{
+ "components": [
+  "AU",
+  "C"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1402.194552
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.0241876528
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams, 5(4), 378-379 (1984) doi:10.1007/bf02872953; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 115",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-C-p115; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-C-p115",
+  "record_ids": [
+   "aspa-af0c5b5e17c8a33e"
+  ]
+ }
+}

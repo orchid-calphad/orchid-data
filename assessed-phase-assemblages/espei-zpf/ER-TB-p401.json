@@ -1,0 +1,67 @@
+{
+ "components": [
+  "ER",
+  "TB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1590.772256,
+   1644.772256,
+   1786.772256
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     0.4001664348
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TB"
+    ],
+    [
+     0.7590526756
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.5898705983
+    ]
+   ]
+  ]
+ ],
+ "reference": "S. Norgren, J. Phase Equilibria, 21(2), 148-156 (2000) doi:10.1361/105497100770340200; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 401",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram ER-TB-p401; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "ER-TB-p401",
+  "record_ids": [
+   "aspa-dee251103d370efa",
+   "aspa-f6d224ec249d5faf",
+   "aspa-18898b41393c2220"
+  ]
+ }
+}

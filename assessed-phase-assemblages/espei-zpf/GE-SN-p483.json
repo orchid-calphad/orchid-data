@@ -1,0 +1,133 @@
+{
+ "components": [
+  "GE",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   279.6734742,
+   395.1734742,
+   769.6734742,
+   1093.173474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.4987725567
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.504779021
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.419186905
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.6459309316
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.W. Olesinski and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 5(3), 267- 272 (1984); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 483",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GE-SN-p483; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GE-SN-p483",
+  "record_ids": [
+   "aspa-188eea1daa80ac80",
+   "aspa-ae92777330777cf9",
+   "aspa-88561732f6043d9c",
+   "aspa-00cf9f03252cd51e"
+  ]
+ }
+}

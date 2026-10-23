@@ -1,0 +1,133 @@
+{
+ "components": [
+  "GA",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   232.7000294,
+   297.7000294,
+   477.2000294,
+   362.2000294
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.4812423312
+    ]
+   ]
+  ],
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.0079467107
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.3991042553
+    ]
+   ]
+  ],
+  [
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.6234814383
+    ]
+   ]
+  ]
+ ],
+ "reference": "T.J. Anderson and I. Ansara, J. Phase Equilibria, 13(2), 181-189 (1992) doi:10.1007/bf02667485; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 453",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-SN-p453; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GA-SN-p453",
+  "record_ids": [
+   "aspa-193de8393308455f",
+   "aspa-2b40fc2d97e35d9a",
+   "aspa-735135d9d387f7b9",
+   "aspa-ca68a116f128fae7"
+  ]
+ }
+}

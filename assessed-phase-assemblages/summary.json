@@ -1,0 +1,159 @@
+{
+ "dataset": "assessed-phase-assemblages",
+ "schema": "assessed-phase-assemblage-v1",
+ "method": {
+  "name": "assessed phase-assemblage points (ORCHID)",
+  "version": "1.0.0",
+  "annotation_run": "run-20261021h-full",
+  "annotation_tools_sha256": "c8c3e77469eddd6d9bc28c90060e4d20564dbab33e9ea02b176b26db0a1b4f45",
+  "phase_mapper_sha256": "4ac6bbe5c56280dce273bab97760dc43927985c660f1b431f648874742d2758f",
+  "builder": "orchid-project.org/tools/build_assessed_assemblages.py"
+ },
+ "diagrams_with_points": 2178,
+ "diagrams_seen": 2272,
+ "diagrams_not_annotated": 149,
+ "fields_seen": 27118,
+ "points": 23131,
+ "point_method": {
+  "centroid": 21618,
+  "pole_of_inaccessibility": 1513
+ },
+ "points_by_n_phases": {
+  "1": 4639,
+  "2": 18492
+ },
+ "points_by_basis": {
+  "deterministic_adjacency": 8035,
+  "reader_consensus": 6795,
+  "deterministic_printed_label": 3206,
+  "adjudicator": 2803,
+  "deterministic_phase_rules": 2186,
+  "expert_reviewed": 86,
+  "dft_hull_corroborated": 20
+ },
+ "points_by_confidence": {
+  "high": 14454,
+  "medium": 8603,
+  "low": 74
+ },
+ "points_by_review_state": {
+  "not reviewed by the expert": 23025,
+  "expert decision (tier 5)": 86,
+  "expert-reviewed (tier 5)": 20
+ },
+ "excluded_fields_by_reason": {
+  "too_thin_for_margin": 2047,
+  "tracing_fault": 740,
+  "partly_drawn_truncated_edge": 482,
+  "undetermined_in_source": 255,
+  "awaiting_expert": 172,
+  "diagram_tracing_suspect": 123,
+  "axis_component_not_in_system": 89,
+  "open": 70,
+  "more_than_two_phases": 5,
+  "cannot_tell": 4
+ },
+ "phase_labels_mapped_to_registry": {
+  "mapped": 20910,
+  "unmapped": 20713
+ },
+ "two_phase_tie_lines": {
+  "with_tie_line": 11962,
+  "without": 6530,
+  "omitted_by_reason": {
+   "side_assignment_ambiguous": 4396,
+   "neighbour_field_unnamed": 908,
+   "frame_edge_phase_ambiguous": 732,
+   "endpoints_do_not_cover_the_two_phases": 363,
+   "boundary_not_a_single_clean_line": 119,
+   "isotherm_reaches_cut_off_frame_edge": 12
+  },
+  "line_compound_endpoints": 8814
+ },
+ "sgte_crosscheck": {
+  "comparisons": 30769,
+  "agrees": 18974,
+  "disagrees": 4087,
+  "not_comparable": 7708,
+  "agreement_rate_of_comparable": 0.8228,
+  "not_comparable_by_reason": {
+   "assemblage phase without registry mapping": 6072,
+   "no calculated equilibrium at this cell": 25,
+   "order-disorder model: the grid label does not tell the ordered from the disordered state": 631,
+   "outside the calculated T-x range": 405,
+   "the same registry phase twice (the grid collapses composition sets)": 575
+  },
+  "points": {
+   "no SGTE assessment": 10196,
+   "agrees with >=1": 9118,
+   "not comparable": 2577,
+   "disagrees with all comparable": 1240
+  }
+ },
+ "espei": {
+  "datasets_default": 1070,
+  "datasets_with_tie_lines": 1070,
+  "points_in_espei": 10870,
+  "points_excluded_from_espei": 12261,
+  "validation": {
+   "espei-zpf": {
+    "files": 1070,
+    "valid": 1070,
+    "loaded": 1070,
+    "errors": [],
+    "espei": "0.9.1"
+   },
+   "espei-zpf-with-tie-lines": {
+    "files": 1070,
+    "valid": 1070,
+    "loaded": 1070,
+    "errors": [],
+    "espei": "0.9.1"
+   }
+  }
+ },
+ "cite_as": {
+  "dataset": "assessed-phase-assemblages",
+  "version": "2026.10",
+  "release_tag": "v2026.10",
+  "license": "CC-BY-4.0",
+  "status": "Version 1, machine-extracted: phase fields of expert-drawn (assessed) diagrams named by deterministic rules, model readers, an adjudicator and partial expert review (basis and review state per record); one point deep inside each field; boundary and tie-line positions are drawing-based and of low credence.",
+  "title": "ORCHID assessed phase assemblages (binary systems)",
+  "doi": "10.5281/zenodo.PENDING-assessed-phase-assemblages",
+  "url": "https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID assessed phase assemblages (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
+  "bibtex": "@misc{orchid_assessed_assemblages_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID assessed phase assemblages (binary systems)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  note      = {Version 1, machine-extracted}\n}",
+  "also_cite": [
+   "for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation",
+   "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
+  ],
+  "part_of": {
+   "title": "ORCHID data",
+   "doi": "10.5281/zenodo.PENDING-orchid-data",
+   "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+  }
+ },
+ "files": {
+  "bytes_by_file_or_dir": {
+   "CITATION.cff": 1891,
+   "espei-zpf": 3733807,
+   "espei-zpf-with-tie-lines": 3580398,
+   "espei_exclusions.jsonl": 1680689,
+   "exclusions.csv": 322521,
+   "exclusions.jsonl": 542384,
+   "records.csv": 10709345,
+   "records.jsonl.gz": 3563007,
+   "records.parquet": 1659123,
+   "summary.json": 0
+  }
+ },
+ "parquet": {
+  "table": "records.parquet",
+  "rows": 23131,
+  "csv_sha256": "87e84ee76fc7975712c2200f988c4ac61f062b42e506eb4a25fe8d7992cb14ca",
+  "content_sha256": "0808e6a0a6abc0892b2f8e7e876d571dbc186a71ceb2813c12404678286879ce",
+  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
+ }
+}

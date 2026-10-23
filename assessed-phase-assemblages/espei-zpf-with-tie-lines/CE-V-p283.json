@@ -1,0 +1,134 @@
+{
+ "components": [
+  "CE",
+  "V",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   885.0534341,
+   1036.053434,
+   1625.553434,
+   2255.053434
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "V"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "V"
+    ],
+    [
+     0.5017768502
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "V"
+    ],
+    [
+     0.4912591698
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.F. Smith and K.J. Lee, Bull. Alloy Phase Diagrams, 8(6), 523-525 (1987) doi:10.1007/bf02879427; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 283",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CE-V-p283; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CE-V-p283",
+  "record_ids": [
+   "aspa-8eb68b604c2455ce",
+   "aspa-af3f03c6768704bd",
+   "aspa-2ec23e11afb1ffdc",
+   "aspa-a1af217aaac71b3d"
+  ]
+ }
+}

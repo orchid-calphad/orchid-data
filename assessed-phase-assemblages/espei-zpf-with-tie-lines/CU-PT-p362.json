@@ -1,0 +1,107 @@
+{
+ "components": [
+  "CU",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "A1_FCC",
+  "CUPT_L11",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1334.845856,
+   855.8458556,
+   1918.345856,
+   1658.345856
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     0.5823947535
+    ]
+   ]
+  ],
+  [
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUPT_L11",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.375046196
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.3490024158
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.31369306
+    ]
+   ],
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     0.3665318832
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and D.E. Laughlin, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, OH, 326-337 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 362",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-PT-p362; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-PT-p362",
+  "record_ids": [
+   "aspa-3c9bcde07caf0043",
+   "aspa-5bcc0eb36553d7a4",
+   "aspa-d644444b67aa0904",
+   "aspa-b90815ac66cd9973"
+  ]
+ }
+}

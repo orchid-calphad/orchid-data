@@ -1,0 +1,53 @@
+{
+ "components": [
+  "MO",
+  "NB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2755.18738,
+   2893.18738
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     0.41466441
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.5883513354
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 12(5), 616-617 (1991) doi:10.1007/bf02645086; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 642",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MO-NB-p642; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MO-NB-p642",
+  "record_ids": [
+   "aspa-cccf7d87bd2d76af",
+   "aspa-7b57060eb31b8f55"
+  ]
+ }
+}

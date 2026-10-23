@@ -1,0 +1,138 @@
+{
+ "components": [
+  "CU",
+  "P",
+  "VA"
+ ],
+ "phases": [
+  "CUP2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   900.6734742,
+   772.1734742,
+   1295.173474,
+   1130.673474,
+   1129.673474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "P"
+    ],
+    [
+     0.01173076444
+    ]
+   ]
+  ],
+  [
+   [
+    "CUP2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.8190996715
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.5693308652
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "P"
+    ],
+    [
+     0.0209907302
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.1190963135
+    ]
+   ]
+  ],
+  [
+   [
+    "CUP2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.5998637253
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and D.E. Laughlin, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, OH, 295-300 (1994); H. Okamoto, J. Phase Equilibria, 16(4), 368-369 (1995) doi:10.1007/bf02645303; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 360",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-P-p360; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-P-p360",
+  "record_ids": [
+   "aspa-246270087689d250",
+   "aspa-da4f25e94abe1cea",
+   "aspa-780775880beef37f",
+   "aspa-27b9edc25003d909",
+   "aspa-e37362ff1016dfca"
+  ]
+ }
+}

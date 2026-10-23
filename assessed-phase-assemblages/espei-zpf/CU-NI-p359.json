@@ -1,0 +1,146 @@
+{
+ "components": [
+  "CU",
+  "NI",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1007.197474,
+   412.1974742,
+   423.6974742,
+   1559.697474,
+   1704.197474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.5137887174
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.3541168753
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.6779654078
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.496770402
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.3971632027
+    ]
+   ]
+  ]
+ ],
+ "reference": "D.J. Chakrabarti, D.E. Laughlin, S.W. Chen, and Y.A. Chang, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 85-95 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 359",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-NI-p359; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-NI-p359",
+  "record_ids": [
+   "aspa-26439b2cefbfd188",
+   "aspa-aefec86b36993274",
+   "aspa-1259e581ffee4a34",
+   "aspa-cf340bda54c00752",
+   "aspa-f78fbc3487045cac"
+  ]
+ }
+}

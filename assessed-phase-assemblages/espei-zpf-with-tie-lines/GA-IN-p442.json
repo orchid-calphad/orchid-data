@@ -1,0 +1,119 @@
+{
+ "components": [
+  "GA",
+  "IN"
+ ],
+ "phases": [
+  "LIQUID",
+  "ORTHORHOMBIC_A11",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   255.2732187,
+   330.2732187,
+   293.2732187,
+   327.2732187,
+   403.7732187
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "IN"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     0.9875309408
+    ]
+   ]
+  ],
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     0.9872806714
+    ]
+   ]
+  ],
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "IN"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.09306830158
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.3285717553
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     0.9657575077
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.4206708742
+    ]
+   ]
+  ]
+ ],
+ "reference": "T.J. Anderson and I. Ansara, J. Phase Equilibria, 12(1), 64-72 (1991) doi:10.1007/bf02663677; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 442",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-IN-p442; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GA-IN-p442",
+  "record_ids": [
+   "aspa-2643d493869ccaa1",
+   "aspa-9093d8007fac819f",
+   "aspa-683c152fe82857e0",
+   "aspa-a75fd808a5d57371",
+   "aspa-c4a156cbe5efeb45"
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "components": [
+  "NI",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1461.455825,
+   1189.955825,
+   1735.455825,
+   2386.955825,
+   2124.455825
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.1076142541
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.4812423312
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.8483594633
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.3770672105
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.6219789126
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 30(4), 412 (2009) doi:10.1007/s11669-009-9541-y; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 691",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-RU-p691; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-RU-p691",
+  "record_ids": [
+   "aspa-f156bf52837d5539",
+   "aspa-413f0078ad5d5724",
+   "aspa-df4fa3ee15544390",
+   "aspa-a1a61d6b1cf6850e",
+   "aspa-ebeea8d7c8957b06"
+  ]
+ }
+}

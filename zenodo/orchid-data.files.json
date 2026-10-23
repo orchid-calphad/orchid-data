@@ -17,23 +17,23 @@
   "zenodo/*.metadata.json"
  ],
  "exclude": [],
- "n_files": 16,
- "total_bytes": 147993,
+ "n_files": 17,
+ "total_bytes": 158154,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 9084,
-   "sha256": "4432f5a55ea7210b7e0659cc24fc00b967be1bdd3fe37e65e3acc472a678364a"
+   "bytes": 10360,
+   "sha256": "5fcbde56869863a69d735632bb6e6c3aaa8adc2a34ba5b843a62434ae51d81fb"
   },
   {
    "path": "CITATION.cff",
-   "bytes": 2309,
-   "sha256": "7969aa94899aa3f05a122a25636c96e10fefc6d4f35df14c7401b47624dc2b25"
+   "bytes": 2475,
+   "sha256": "534dbe198b4157cc84f390ea83787e2cef3f61a710081eff56b2bac8920218a5"
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 41228,
-   "sha256": "dd100eb38eb791d5b0f1c5428605d2483e0b40523d976d2aa6ad608255d620cb"
+   "bytes": 44698,
+   "sha256": "2cf35ff446e3769a671f480c81d10cf131bac4009998a60d9202551e887008bf"
   },
   {
    "path": "LICENSE",
@@ -52,8 +52,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 5016,
-   "sha256": "a4a19ad9c672a1b7faec66085188df94e054808990f495d32323c542a3bd93e5"
+   "bytes": 5750,
+   "sha256": "ddb3c1a77e12648d117c0329361b858e3aa4c125809527cc377db4b5ae3e3c37"
   },
   {
    "path": "parquet/MANIFEST.json",
@@ -66,14 +66,19 @@
    "sha256": "1110a385d470f2fcba258856f3484b493e3638f322f6005e42349202ff78c866"
   },
   {
+   "path": "zenodo/assessed-phase-assemblages.metadata.json",
+   "bytes": 4073,
+   "sha256": "a2002fa426347bc5668f376aebaca6f830651eeaae8f8a80142c13d5eb26bc8c"
+  },
+  {
    "path": "zenodo/dft-benchmark.metadata.json",
    "bytes": 8210,
    "sha256": "2cb630b964729389ed98d01c954f431ed542c3db1546ddb86640e23f217aecde"
   },
   {
    "path": "zenodo/dois.json",
-   "bytes": 694,
-   "sha256": "cc16e99b1e99a83a7a5f87fcc5c4a9c83fb81d9bfdcdc03c31bf60a0bf489b82"
+   "bytes": 778,
+   "sha256": "e90985da25e4fc569ed0bd626ba53abc83ea70e10e1cac9e202ce285975af238"
   },
   {
    "path": "zenodo/hulls.metadata.json",
@@ -87,8 +92,8 @@
   },
   {
    "path": "zenodo/orchid-data.metadata.json",
-   "bytes": 7286,
-   "sha256": "8a345be9e0bef5c161d9564895c2af5760f7430f25851838a840e96145e9b605"
+   "bytes": 7644,
+   "sha256": "cd6c5cdc91a0017bf1de46b97a8edfd4f8064e0d188a8e0a273a8d042cb7acb1"
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",

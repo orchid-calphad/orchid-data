@@ -1,0 +1,115 @@
+{
+ "components": [
+  "CR",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2194.201903,
+   1272.201903,
+   3204.701903,
+   2945.701903
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     0.6149494787
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4987541518
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.3264645291
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5668686538
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.V. Nagender Naidu, A.M. Sriramamurthy, and P. Rama Rao, Phase Diagrams of Binary Tungsten Alloys, S.V. Nagender Naidu and P. Rama Rao, ed., Indian Institute of Metals, Calcutta, India, 69-74 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 340",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-W-p340; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-W-p340",
+  "record_ids": [
+   "aspa-6f746d3e333b2960",
+   "aspa-ea9a5d832e14a8a8",
+   "aspa-706bf2ba18d18711",
+   "aspa-7aaf8a876fcbff4e"
+  ]
+ }
+}

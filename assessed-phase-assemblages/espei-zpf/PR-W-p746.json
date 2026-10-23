@@ -1,0 +1,165 @@
+{
+ "components": [
+  "PR",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DHCP",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   920.2558032,
+   1137.255803,
+   2414.755803,
+   3716.255803,
+   3702.755803
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5002566776
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4992549937
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.504263413
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.01193579925
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4997558357
+    ]
+   ]
+  ]
+ ],
+ "reference": "compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 746",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram PR-W-p746; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "PR-W-p746",
+  "record_ids": [
+   "aspa-e1ea05c92246c112",
+   "aspa-4e74c753ad376f42",
+   "aspa-5ade6afda09bc7ca",
+   "aspa-7eb486892ebe0276",
+   "aspa-b6306986a59f4a8f"
+  ]
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "components": [
+  "AG",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "GAS",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   752.1373704,
+   1854.13737,
+   3087.13737,
+   4687.63737,
+   5804.63737
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4997734825
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5002743244
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4997734825
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5278206304
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "W"
+    ],
+    [
+     0.3755646847
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.V. Nagender Naidu and P. Rama Rao, Phase Diagrams of Binary Tungsten Alloys, S.V. Nagender Naidu and P. Rama Rao, ed., Indian Institute of Metals, Calcutta, India, 5-6 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 67",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-W-p67; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-W-p67",
+  "record_ids": [
+   "aspa-a2d520b39e208889",
+   "aspa-5309b9c84534477a",
+   "aspa-71371a9d25793585",
+   "aspa-f35e0fd0c800e8a7",
+   "aspa-162dfa16d5ce960c"
+  ]
+ }
+}

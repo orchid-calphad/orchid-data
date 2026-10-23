@@ -1,0 +1,115 @@
+{
+ "components": [
+  "GA",
+  "HG"
+ ],
+ "phases": [
+  "LIQUID",
+  "ORTHORHOMBIC_A11",
+  "RHOMBO_A10"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   222.8049313,
+   266.3049313,
+   487.8049313,
+   377.3049313
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "HG"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "RHOMBO_A10",
+    [
+     "HG"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "HG"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.9832940087
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.1408873933
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HG"
+    ],
+    [
+     0.5007747115
+    ]
+   ]
+  ]
+ ],
+ "reference": "C. Guminski and L. Zabdyr, J. Phase Equilibria, 14(6), 719-725 (1993) doi:10.1007/bf02667885; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 441",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-HG-p441; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GA-HG-p441",
+  "record_ids": [
+   "aspa-38d20395e4baa372",
+   "aspa-0f1ebb885a3cfe3a",
+   "aspa-b7c8d4dcd8eeb73c",
+   "aspa-f9d7480d6299450e"
+  ]
+ }
+}

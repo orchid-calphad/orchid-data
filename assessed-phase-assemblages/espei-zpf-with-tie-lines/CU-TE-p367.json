@@ -1,0 +1,94 @@
+{
+ "components": [
+  "CU",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "CU2TE_DELTA",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   704.012103,
+   754.012103,
+   1336.512103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.3416034081
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "CU2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.3325937116
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.01525218213
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian and D.E. Laughlin, ed., ASM International, Materials Park, OH, 434-439 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 367",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-TE-p367; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-TE-p367",
+  "record_ids": [
+   "aspa-986f3e075913ec78",
+   "aspa-5d63ebc7831d0244",
+   "aspa-be6a5e3f178626c7"
+  ]
+ }
+}

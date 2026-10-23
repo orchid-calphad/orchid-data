@@ -1,0 +1,160 @@
+{
+ "components": [
+  "FE",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1504.696948,
+   1300.696948,
+   1235.696948,
+   2029.696948,
+   1420.696948,
+   1330.196948,
+   2478.196948,
+   2230.696948
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.07780187153
+    ]
+   ]
+  ],
+  [
+   [
+    "MU_D85",
+    [
+     "MO"
+    ],
+    [
+     0.4176676421
+    ]
+   ]
+  ],
+  [
+   [
+    "MU_D85",
+    [
+     "MO"
+    ],
+    [
+     0.4396913445
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.979021783
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9182063322
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MO"
+    ],
+    [
+     0.007225916227
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.08981480009
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "MO"
+    ],
+    [
+     0.3926407076
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.3686148505
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.5740859827
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.8403725659
+    ]
+   ]
+  ]
+ ],
+ "reference": "A. Fernandez-Guillermet, Bull. Alloy Phase Diagrams, 3(3), 359-367 (1982) doi:10.1007/bf02869315; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 426",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram FE-MO-p426; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "FE-MO-p426",
+  "record_ids": [
+   "aspa-157bf2d3e6087263",
+   "aspa-f70542bd00d7530b",
+   "aspa-0e1855ab137c17dc",
+   "aspa-8e992861678d073b",
+   "aspa-be011452ab18f1d7",
+   "aspa-f99df70800253827",
+   "aspa-0a25ec12e16eb377",
+   "aspa-f6b52ebbd22c66a1"
+  ]
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "components": [
+  "NI",
+  "O"
+ ],
+ "phases": [
+  "GAS",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2191.581484,
+   2652.581484,
+   2378.581484,
+   2694.081484,
+   3269.581484
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GAS",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.2959308184
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.1341588762
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.3515242723
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.6500260605
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "O"
+    ],
+    [
+     0.5824124004
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 18(4), 404 (1997) doi:10.1007/s11669-997-0074-y; H. Okamoto, J. Phase Equilibria Diffusion, 28(4), 408 (2007) doi:10.1007/s11669-007-9119-5; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 687",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-O-p687; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-O-p687",
+  "record_ids": [
+   "aspa-dfb3048362f9dcd6",
+   "aspa-5e3b550dc2276eb8",
+   "aspa-ac8984b90df27db5",
+   "aspa-472c40f6b80f444a",
+   "aspa-63c4edae40b14e1b"
+  ]
+ }
+}

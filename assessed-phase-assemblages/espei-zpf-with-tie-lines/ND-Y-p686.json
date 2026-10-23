@@ -1,0 +1,111 @@
+{
+ "components": [
+  "ND",
+  "Y",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   969.6901824,
+   1430.190182,
+   1680.190182,
+   1545.690182,
+   1436.190182
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.7396591184
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.3975840826
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.3675335671
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.4779692118
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.5410752946
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.4727103716
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.5308080351
+    ]
+   ]
+  ]
+ ],
+ "reference": "C. Guo, Z. Du, and C. Li, Proceedings of the 13 th National Symposium on Phase Diagrams, China-Japan Joint Symposium on Phase Diagrams, Materials Design and Their Applications, Xiamen, China, 107-110 (2006); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 686",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram ND-Y-p686; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "ND-Y-p686",
+  "record_ids": [
+   "aspa-838d5a79d74e5c0f",
+   "aspa-948971359ae0e2c6",
+   "aspa-18c0be8956e0f647",
+   "aspa-79147b14ecb124fa",
+   "aspa-d2d37b097effc168"
+  ]
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "components": [
+  "HO",
+  "V",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   986.20223,
+   1922.20223,
+   2374.20223,
+   2455.20223
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "V"
+    ],
+    [
+     0.5022776921
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "V"
+    ],
+    [
+     0.5343315754
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.07005110958
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "V"
+    ],
+    [
+     0.5774039811
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.F. Smith and K.J. Lee, Phase Diagrams of Binary Vanadium Alloy, J.F. Smith, ed., ASM International, Metals Park, OH, 118-119 (1989); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 539",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram HO-V-p539; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "HO-V-p539",
+  "record_ids": [
+   "aspa-85e6345eef41fe53",
+   "aspa-29ee387acc0c11aa",
+   "aspa-c79dd63be90ce7a9",
+   "aspa-73e9692d28c0c234"
+  ]
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "components": [
+  "LA",
+  "Y",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   987.3458556,
+   946.3458556,
+   1368.345856,
+   1385.345856,
+   1639.845856,
+   1479.845856
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.8132828816
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "Y"
+    ],
+    [
+     0.01944842815
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.4286362821
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.5939141178
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.3650293574
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.5102735161
+    ]
+   ]
+  ]
+ ],
+ "reference": "Z. Du, C. Guo, C. Li, and W. Zhang, Rare Metals, 25(5), 492-500 (2006) doi:10.1016/s1001-0521(06)60090-9; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 594",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LA-Y-p594; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "LA-Y-p594",
+  "record_ids": [
+   "aspa-650c6d744e8725df",
+   "aspa-7d457c4da7ea7c74",
+   "aspa-ea905cec93bd4cea",
+   "aspa-270159080f8be471",
+   "aspa-d279b27b2352942a",
+   "aspa-6d005136ebb7b383"
+  ]
+ }
+}

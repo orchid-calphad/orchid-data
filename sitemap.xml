@@ -4546,4 +4546,11 @@
 <url><loc>https://data.orchid-project.org/phases/structure_types.parquet</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://data.orchid-project.org/phases/review_queue.json</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://data.orchid-project.org/phases/CONFLICTS.md</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/README.md</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/SCHEMA.md</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/summary.json</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/records.jsonl.gz</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/records.csv</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/records.parquet</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://data.orchid-project.org/assessed-phase-assemblages/exclusions.jsonl</loc><lastmod>2026-10-22</lastmod></url>
 </urlset>

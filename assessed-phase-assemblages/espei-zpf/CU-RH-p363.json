@@ -1,0 +1,115 @@
+{
+ "components": [
+  "CU",
+  "RH",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1566.489744,
+   1052.489744,
+   2062.489744,
+   1822.489744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     0.8461464077
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.575855515
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.3486109497
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.5743538989
+    ]
+   ]
+  ]
+ ],
+ "reference": "D.J. Chakrabarti and D.E. Laughlin, Bull. Alloy Phase Diagrams, 2(4), 460-462 (1982) doi:10.1007/bf02876163; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 363",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-RH-p363; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-RH-p363",
+  "record_ids": [
+   "aspa-ba0a252ce5984180",
+   "aspa-646784e76e653b5c",
+   "aspa-0e3268904a92dd66",
+   "aspa-e564459634c683dc"
+  ]
+ }
+}

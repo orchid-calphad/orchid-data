@@ -1,0 +1,90 @@
+{
+ "components": [
+  "LI",
+  "N",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LI3N",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   363.4578276,
+   720.4578276
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LI3N",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.1248046076
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LI3N",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.1442443223
+    ]
+   ]
+  ]
+ ],
+ "reference": "J. Sangster and A.D. Pelton, J. Phase Equilibria, 13(3), 291-296 (1992) doi:10.1007/bf02667557; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 596",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LI-N-p596; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "LI-N-p596",
+  "record_ids": [
+   "aspa-59b600aefccd704c",
+   "aspa-d0c9e90500331db3"
+  ]
+ }
+}

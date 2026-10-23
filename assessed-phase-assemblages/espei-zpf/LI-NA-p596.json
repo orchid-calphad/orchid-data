@@ -1,0 +1,164 @@
+{
+ "components": [
+  "LI",
+  "NA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   343.6281881,
+   404.1281881,
+   575.1281881,
+   447.1281881,
+   501.6281881
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.4987541518
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.4677019524
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.8403283457
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.008429905768
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.4351472271
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.W. Bale, Bull. Alloy Phase Diagrams, 10(3), 265-268 (1989) doi:10.1007/bf02877509; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 596",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LI-NA-p596; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "LI-NA-p596",
+  "record_ids": [
+   "aspa-52a35165f8de015b",
+   "aspa-287383e512f59e83",
+   "aspa-7afb17be2153b257",
+   "aspa-422c347d920f1ec2",
+   "aspa-1bd6d329f5bd185a"
+  ]
+ }
+}

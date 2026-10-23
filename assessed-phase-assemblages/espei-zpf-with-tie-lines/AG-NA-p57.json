@@ -1,0 +1,139 @@
+{
+ "components": [
+  "AG",
+  "NA",
+  "VA"
+ ],
+ "phases": [
+  "AG2NA_C15",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   459.270892,
+   346.270892,
+   482.770892,
+   1150.770892,
+   821.270892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG2NA_C15",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.1652110756
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2NA_C15",
+    [
+     "NA"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2NA_C15",
+    [
+     "NA"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.9961078317
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.5859182939
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NA"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.9452723761
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.D. Pelton, Bull. Alloy Phase Diagrams, 7(2), 133-136 (1986) doi:10.1007/bf02881549; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 57",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-NA-p57; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-NA-p57",
+  "record_ids": [
+   "aspa-ddcec9a93ae48dd3",
+   "aspa-a44d2ebbd3a33948",
+   "aspa-b296a48546738580",
+   "aspa-f354e42f1bc96316",
+   "aspa-1fd7d89a6464c76d"
+  ]
+ }
+}

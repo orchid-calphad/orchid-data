@@ -1,0 +1,161 @@
+{
+ "components": [
+  "C",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GRAPHITE_A9",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   881.3566767,
+   2457.856677,
+   2544.356677,
+   2717.856677,
+   2632.356677,
+   3029.356677
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "C"
+    ],
+    [
+     0.7505435179
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     0.006242485704
+    ]
+   ]
+  ],
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "C"
+    ],
+    [
+     0.7069966518
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.4061728991
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "C"
+    ],
+    [
+     0.06630712851
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.4637348484
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 861-862 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 225",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-MO-p225; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-MO-p225",
+  "record_ids": [
+   "aspa-f217436c419d5366",
+   "aspa-65773955bacbd24b",
+   "aspa-225aa63a197638bb",
+   "aspa-9715d42de10c3a60",
+   "aspa-9bb2a58bfa51295f",
+   "aspa-10e453f1b17f52ee"
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "components": [
+  "IN",
+  "PB",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   373.1722761,
+   373.1722761,
+   429.6722761,
+   553.6722761,
+   439.6722761,
+   506.1722761
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "PB"
+    ],
+    [
+     0.06652756924
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.2924072781
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.6990909224
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.3570158866
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.1832237381
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.5473358187
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 27(3), 312 (2006) doi:10.1361/154770306x110023; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 554",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-PB-p554; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "IN-PB-p554",
+  "record_ids": [
+   "aspa-fdf044495d52946c",
+   "aspa-58b8a0e38f658dc3",
+   "aspa-d774e316c355a0f1",
+   "aspa-97d4ce52e1c0e54f",
+   "aspa-50f39e1e8f1adb69",
+   "aspa-b8f2fb3c13f89e6e"
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "components": [
+  "IN",
+  "SB"
+ ],
+ "phases": [
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
+  "TETRAGONAL_A6",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   349.7479278,
+   518.7479278,
+   902.2479278,
+   579.2479278,
+   779.7479278,
+   815.7479278
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "SB"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.4181362485
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.07105279344
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.5723955618
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.7614633891
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.C. Sharma, T.L. Ngai, and Y.A. Chang, Bull. Alloy Phase Diagrams, 10(6), 657-664 (1989) doi:10.1007/bf02877639; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 557",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-SB-p557; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "IN-SB-p557",
+  "record_ids": [
+   "aspa-3dc42c27f10f5b50",
+   "aspa-5cd1fca10658fd81",
+   "aspa-46081bca942bb86b",
+   "aspa-e7e394d750bf12b4",
+   "aspa-52e36dda8939a054",
+   "aspa-49535e7c57261469"
+  ]
+ }
+}

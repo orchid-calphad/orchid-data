@@ -1,0 +1,164 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID",
+  "ZN3P2",
+  "ZNP2"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   723.3800396,
+   1433.38004,
+   1248.88004,
+   1191.88004,
+   1338.38004
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZNP2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.8167887751
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.5548484476
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2498357143
+    ]
+   ]
+  ],
+  [
+   [
+    "ZNP2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.5333122447
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.4697053201
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilib. Diffusion, 32(1), to be published (2011) doi:10.1007/s11669-010-9849-7; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 718",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram P-ZN-p718; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "P-ZN-p718",
+  "record_ids": [
+   "aspa-087caa0ea87e4abe",
+   "aspa-5defed2946353325",
+   "aspa-fad9f5b9c61733b5",
+   "aspa-97da955da91305f1",
+   "aspa-8fe66ed48616404b"
+  ]
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "components": [
+  "CU",
+  "IN",
+  "VA"
+ ],
+ "phases": [
+  "CU11IN9",
+  "CU7IN3",
+  "FCC_A1",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   810.9752616,
+   546.9752616,
+   583.9752616,
+   349.4752616,
+   502.4752616
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.03377211366
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.1694180987
+    ]
+   ]
+  ],
+  [
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     0.3035624676
+    ]
+   ]
+  ],
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU11IN9",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.7250160447
+    ]
+   ]
+  ],
+  [
+   [
+    "CU11IN9",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.7205111965
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 26(6), 645 (2005) doi:10.1361/154770305x74674; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 355",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-IN-p355; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-IN-p355",
+  "record_ids": [
+   "aspa-4a113c287b18eda7",
+   "aspa-b1c52989a80d8774",
+   "aspa-71e57632805062d2",
+   "aspa-4486c1aab0c99e4f",
+   "aspa-05218ba0330b53d9"
+  ]
+ }
+}

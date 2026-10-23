@@ -26,6 +26,7 @@ Table: Folders of the data site
 | [phase-diagrams/](https://data.orchid-project.org/phase-diagrams/index.json) | Calculated binary phase diagrams (pycalphad, SGTE binary collection): index.json and sgte/\<TDB>.json (phase regions, invariants, grid). |
 | hulls/ | Binary convex hulls: dft-mp/ (Materials Project), dft-oqmd/ (OQMD), calphad-sgte/ (assessed CALPHAD), one JSON per system. |
 | [phases/](https://data.orchid-project.org/phases/SCHEMA.md) | Phase registry (binary systems): registry.json (compact index) / .csv / .parquet / .jsonld, structure_types.json / .parquet, review_queue.json, CONFLICTS.md, systems/\<SYS>.json (full records), pages/\<SYS>.html\|.md (static pages); fields in SCHEMA.md. |
+| [assessed-phase-assemblages/](https://data.orchid-project.org/assessed-phase-assemblages/README.md) | Assessed phase assemblages: one (T, x, P) point deep inside each named phase field of expert-drawn (assessed) binary diagrams (evidence class assessed_phase_diagram): records.jsonl.gz / .csv / .parquet, exclusions, ESPEI ZPF datasets (espei-zpf/, espei-zpf-with-tie-lines/); fields in SCHEMA.md. |
 | [systems/](https://data.orchid-project.org/systems/index.html) | Static pages per chemical system: \<SYS>.html, \<SYS>.md, \<SYS>.csv. |
 | [compounds/](https://data.orchid-project.org/compounds/index.html) | Static pages per compound (reduced formula): \<FORMULA>.html, \<FORMULA>.md. |
 | [papers/](https://data.orchid-project.org/papers/index.html) | Index of reporting papers. |
@@ -35,7 +36,7 @@ Table: Folders of the data site
 
 ## Licence and citation
 
-Release v2026.10 is archived on Zenodo as five citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data](https://doi.org/10.5281/zenodo.PENDING-orchid-data); [ORCHID literature values](https://doi.org/10.5281/zenodo.PENDING-literature); [ORCHID calculated binary phase diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams); [ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.PENDING-hulls); [ORCHID DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark); [ORCHID phase registry (binary systems)](https://doi.org/10.5281/zenodo.PENDING-phase-registry).
+Release v2026.10 is archived on Zenodo as six citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data](https://doi.org/10.5281/zenodo.PENDING-orchid-data); [ORCHID literature values](https://doi.org/10.5281/zenodo.PENDING-literature); [ORCHID calculated binary phase diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams); [ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.PENDING-hulls); [ORCHID DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark); [ORCHID phase registry (binary systems)](https://doi.org/10.5281/zenodo.PENDING-phase-registry); [ORCHID assessed phase assemblages (binary systems)](https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages).
 
 Derived data: CC BY 4.0. Cite the ORCHID release ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original source of every value you use (its paper and DOI). Quoted sentences are single sentences reproduced under fair use so values can be checked; source papers, page images and full text are not redistributed. Licences of the DFT and CALPHAD sources: [LICENSES.md](https://data.orchid-project.org/LICENSES.md), [NOTICE.md](https://data.orchid-project.org/NOTICE.md).
 
@@ -46,9 +47,10 @@ Derived data: CC BY 4.0. Cite the ORCHID release ([CITATION.cff](https://data.or
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
 - R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID assessed phase assemblages (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162.
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation.
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
@@ -103,6 +105,17 @@ Version 1, machine-extracted: values were read from papers by language-model rea
   year      = {2026},
   doi       = {10.5281/zenodo.PENDING-phase-registry},
   url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_assessed_assemblages_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID assessed phase assemblages (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},
   note      = {Version 1, machine-extracted}
 }
 

@@ -1,0 +1,53 @@
+{
+ "components": [
+  "MN",
+  "TA",
+  "VA"
+ ],
+ "phases": [
+  "CBCC_A12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   906.770892,
+   1657.270892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CBCC_A12",
+    [
+     "TA"
+    ],
+    [
+     0.00392899019
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.0783862767
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.P. Garg, M. Venkatraman, and N. Krishnamurthy, Phase Diagrams of Binary Tantalum Alloys, S.P. Garg, M. Venkatraman, N. Krishnamurthy, and R. Krishnan, ed., Indian Institute of Metals, Calcutta, India, 100-102 (1996) doi:10.1007/bf02648373; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 637",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MN-TA-p637; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MN-TA-p637",
+  "record_ids": [
+   "aspa-e1d150c60e7b6238",
+   "aspa-1515840a47b6365a"
+  ]
+ }
+}

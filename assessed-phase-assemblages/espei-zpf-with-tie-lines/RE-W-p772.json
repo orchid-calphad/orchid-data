@@ -1,0 +1,134 @@
+{
+ "components": [
+  "RE",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CHI_A12",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2571.456117,
+   2081.456117,
+   2622.456117,
+   3221.456117,
+   3530.456117,
+   3410.456117
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "W"
+    ],
+    [
+     0.06502504346
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "W"
+    ],
+    [
+     0.109099133
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "W"
+    ],
+    [
+     0.2633584463
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     0.8438342391
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "W"
+    ],
+    [
+     0.06377293864
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.1331395455
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.4256312305
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.7336490153
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     0.8874074867
+    ]
+   ]
+  ]
+ ],
+ "reference": "Z.K. Liu and Y.A. Chang, J. Alloys Compds, 299, 153-162 (2000) doi:10.1016/s0925-8388(99)00597-6; S.V. Nagender Naidu and P. Rama Rao, Phase Diagrams of Binary Tungsten Alloys, S.V. Nagender Naidu and P. Rama Rao, ed., Indian Institute of Metals, Calcutta, India, 232-237 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 772",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram RE-W-p772; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "RE-W-p772",
+  "record_ids": [
+   "aspa-12fd78d28cc7b732",
+   "aspa-432f06a4bc733e93",
+   "aspa-d47dc951d98c2f31",
+   "aspa-68190129f513ee18",
+   "aspa-3dabd988a8b8c280",
+   "aspa-50011d2c2019d75f"
+  ]
+ }
+}

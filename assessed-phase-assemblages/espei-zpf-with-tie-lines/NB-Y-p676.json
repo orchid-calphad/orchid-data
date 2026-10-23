@@ -1,0 +1,142 @@
+{
+ "components": [
+  "NB",
+  "Y",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1257.708685,
+   2168.708685,
+   1767.708685,
+   2714.208685,
+   3069.208685,
+   2953.208685
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.7898181582
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.9577488887
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.7920705823
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.02724746383
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.03800904567
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.5025089501
+    ]
+   ]
+  ]
+ ],
+ "reference": "A. Palenzona and S. Cirafici, J. Phase Equilibria, 12(2), 204-207 (1991) doi:10.1007/bf02645717; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 676",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NB-Y-p676; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NB-Y-p676",
+  "record_ids": [
+   "aspa-6f695c925c025e00",
+   "aspa-c44fe67442c5df72",
+   "aspa-b18c30e70d6e888e",
+   "aspa-07dd778a6c2ab250",
+   "aspa-be9d1988940d8513",
+   "aspa-5bf0b79fcd51cf01"
+  ]
+ }
+}

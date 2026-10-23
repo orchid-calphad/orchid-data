@@ -1,0 +1,53 @@
+{
+ "components": [
+  "CO",
+  "NI",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1058.489744,
+   1810.489744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.5272856152
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.5272856152
+    ]
+   ]
+  ]
+ ],
+ "reference": "T. Nishizawa and K. Ishida, Bull. Alloy Phase Diagrams, 4(4), 390-395 (1983) doi:10.1007/bf02868090; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 310",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-NI-p310; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-NI-p310",
+  "record_ids": [
+   "aspa-1007cd0e7d0d1c5e",
+   "aspa-d64610c01ba595b1"
+  ]
+ }
+}

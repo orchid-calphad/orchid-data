@@ -1,0 +1,102 @@
+{
+ "components": [
+  "BI",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   407.7650235,
+   826.2650235,
+   1165.765023
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.5002741728
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.5368134972
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.3866518902
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.W. Olesinski and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 7(6), 535- 540 (1986) doi:10.1007/bf02869861; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 193",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BI-GE-p193; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BI-GE-p193",
+  "record_ids": [
+   "aspa-6fc577c24487a19c",
+   "aspa-d44479b6f505b6fd",
+   "aspa-08e213d45f7eb843"
+  ]
+ }
+}

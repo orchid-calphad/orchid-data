@@ -1,0 +1,152 @@
+{
+ "components": [
+  "CL",
+  "K",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "KCL_B1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   304.270892,
+   668.770892,
+   1039.270892,
+   1031.770892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "KCL_B1",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CL"
+    ],
+    [
+     0.2496251695
+    ]
+   ]
+  ],
+  [
+   [
+    "KCL_B1",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CL"
+    ],
+    [
+     0.259436012
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CL"
+    ],
+    [
+     0.3533397898
+    ]
+   ]
+  ],
+  [
+   [
+    "KCL_B1",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CL"
+    ],
+    [
+     0.494896231
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1149-1150 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 289",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CL-K-p289; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CL-K-p289",
+  "record_ids": [
+   "aspa-6c3d451e1065ff9f",
+   "aspa-c6c5ad9d15cc4eeb",
+   "aspa-5ac3e082d4232de4",
+   "aspa-d7f87b2fbb5319db"
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "components": [
+  "BI",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "DIAMOND_A4",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   279.2929899,
+   426.7929899,
+   347.7929899,
+   395.2929899,
+   455.7929899,
+   516.2929899,
+   442.7929899
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.001987906839
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.009746256535
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.01049706457
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     0.9715313495
+    ]
+   ]
+  ],
+  [
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     0.9807913153
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.02526295593
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.4306992949
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.5558339674
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.7425348988
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     0.9632724611
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 31(2), 205 (2010) doi:10.1007/s11669-010-9659-y; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 205",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BI-SN-p205; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BI-SN-p205",
+  "record_ids": [
+   "aspa-f286e5433acf907b",
+   "aspa-344a0a42da8f2226",
+   "aspa-153e79977c8a39b2",
+   "aspa-2e3fe3f260d0ebd1",
+   "aspa-06f4bdf50a1be731",
+   "aspa-f9132672309721f3",
+   "aspa-24254986b374ab72"
+  ]
+ }
+}

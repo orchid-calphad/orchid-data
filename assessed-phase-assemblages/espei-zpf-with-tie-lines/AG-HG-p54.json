@@ -1,0 +1,133 @@
+{
+ "components": [
+  "AG",
+  "HG",
+  "VA"
+ ],
+ "phases": [
+  "AG11HG9_A3",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   597.2326873,
+   362.2326873,
+   327.7326873,
+   1021.232687,
+   473.7326873,
+   761.2326873
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "HG"
+    ],
+    [
+     0.1606858514
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "HG"
+    ],
+    [
+     0.361022622
+    ]
+   ],
+   [
+    "AG11HG9_A3",
+    [
+     "HG"
+    ],
+    [
+     0.4271337563
+    ]
+   ]
+  ],
+  [
+   [
+    "AG11HG9_A3",
+    [
+     "HG"
+    ],
+    [
+     0.4436615399
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.6550168329
+    ]
+   ]
+  ],
+  [
+   [
+    "AG11HG9_A3",
+    [
+     "HG"
+    ],
+    [
+     0.4576851138
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.9865741882
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "HG"
+    ],
+    [
+     0.3232090566
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.6412436799
+    ]
+   ]
+  ]
+ ],
+ "reference": "M.R. Baren, J. Phase Equilibria, 17(2), 122-128 (1996) doi:10.1007/bf02665787; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 54",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-HG-p54; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-HG-p54",
+  "record_ids": [
+   "aspa-94e85d640dde52fb",
+   "aspa-df2f8b591e6ddca3",
+   "aspa-5417775fe7427ac0",
+   "aspa-958de5b0dcb51c30",
+   "aspa-6fea6baa0ecf1bbc",
+   "aspa-d90f53da43ca45a8"
+  ]
+ }
+}

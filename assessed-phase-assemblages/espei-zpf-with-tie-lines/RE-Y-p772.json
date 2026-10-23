@@ -1,0 +1,129 @@
+{
+ "components": [
+  "RE",
+  "Y",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "RE2Y_C14"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2132.45594,
+   1597.95594,
+   2118.45594,
+   3014.95594,
+   3037.45594
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "RE2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ],
+  [
+   [
+    "RE2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "RE2Y_C14",
+    [
+     "Y"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.7812289983
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.6439983105
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.2806374928
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.E. Lundin, The Rare Earths, F.H. Spedding and A.H. Daane, ed., John Wiley &amp; Sons, New York, 263-264 (1961); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 772",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram RE-Y-p772; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "RE-Y-p772",
+  "record_ids": [
+   "aspa-800445634a5f8896",
+   "aspa-b3222318ceb7f211",
+   "aspa-e90794bffceeedf0",
+   "aspa-a1707114fa1c29f3",
+   "aspa-3aac84cbdeeb199d"
+  ]
+ }
+}

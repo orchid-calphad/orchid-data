@@ -1,0 +1,89 @@
+{
+ "components": [
+  "HF",
+  "ZR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1388.609094,
+   1909.609094,
+   1589.109094,
+   2471.609094
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.3531161601
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.5611616163
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.4833946249
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.5414073002
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5831664242
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.P. Abriata, J.C. Bolcich, and H.A. Peretti, Bull. Alloy Phase Diagrams, 3(1), 29-34 (1982) doi:10.1007/bf02873408; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 511",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram HF-ZR-p511; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "HF-ZR-p511",
+  "record_ids": [
+   "aspa-1629d7471af5e4af",
+   "aspa-b5c72c02b77359fa",
+   "aspa-6caacfba54c6b00b",
+   "aspa-d5191c169e815e88"
+  ]
+ }
+}

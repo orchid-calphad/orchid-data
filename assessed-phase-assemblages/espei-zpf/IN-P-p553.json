@@ -1,0 +1,89 @@
+{
+ "components": [
+  "IN",
+  "P"
+ ],
+ "phases": [
+  "LIQUID",
+  "TETRAGONAL_A6",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   351.4752616,
+   840.9752616
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2498600364
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2663755199
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, Phase Diagrams of Indium Alloys and Their Engineering Applications, C.E.T. White and H. Okamoto, ed., ASM International, Materials Park, OH, 194-196 (1992); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 553",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-P-p553; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "IN-P-p553",
+  "record_ids": [
+   "aspa-0cbc149ae7a79d7a",
+   "aspa-fe30bfbb9ace76e4"
+  ]
+ }
+}

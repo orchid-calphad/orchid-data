@@ -1,0 +1,142 @@
+{
+ "components": [
+  "AG",
+  "CR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1004.319722,
+   1952.319722,
+   1478.319722,
+   1993.319722,
+   1875.819722,
+   2111.319722
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "CR"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.02274261562
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.01173076444
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.04726901143
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.9464867682
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.9752677428
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.9627542756
+    ]
+   ]
+  ]
+ ],
+ "reference": "M. Venkatraman and J.P. Neumann, Bull. Alloy Phase Diagrams, 11(3), 263-265 (1990) doi:10.1007/bf03029296; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 50",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-CR-p50; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-CR-p50",
+  "record_ids": [
+   "aspa-9d9e854598a5b200",
+   "aspa-04dac5e739225237",
+   "aspa-43fa77d97662b1db",
+   "aspa-0a107ce6edf47eb6",
+   "aspa-bcd62b37f72d47c0",
+   "aspa-d7c958da9438a674"
+  ]
+ }
+}

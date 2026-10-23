@@ -1,0 +1,121 @@
+{
+ "components": [
+  "H",
+  "LI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIH_B1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   412.6734742,
+   691.6734742,
+   1075.173474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIH_B1",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.2494082951
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIH_B1",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.2683263195
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.3671204472
+    ]
+   ]
+  ]
+ ],
+ "reference": "J. Sangster and A.D. Pelton, J. Phase Equilibria, 14(3), 373-381 (1993) doi:10.1007/bf02668238; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 490",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram H-LI-p490; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "H-LI-p490",
+  "record_ids": [
+   "aspa-43657f391c7f0ba3",
+   "aspa-c4c94c52f55a943b",
+   "aspa-b6bd69210055e257"
+  ]
+ }
+}

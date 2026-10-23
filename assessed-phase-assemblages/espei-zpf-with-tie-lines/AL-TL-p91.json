@@ -1,0 +1,139 @@
+{
+ "components": [
+  "AL",
+  "TL",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   388.4331522,
+   539.9331522,
+   755.4331522,
+   1720.933152,
+   1297.433152
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TL"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.004240330944
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.9983101694
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.07982167315
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.5027768663
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 13(3), 325-326 (1992) doi:10.1007/bf02667565; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 91",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-TL-p91; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-TL-p91",
+  "record_ids": [
+   "aspa-1640fce819229b40",
+   "aspa-e134b31d99c5f7f9",
+   "aspa-bedf76e8489393cc",
+   "aspa-2355ccaefdbec4f1",
+   "aspa-41214b0b5fa38b08"
+  ]
+ }
+}

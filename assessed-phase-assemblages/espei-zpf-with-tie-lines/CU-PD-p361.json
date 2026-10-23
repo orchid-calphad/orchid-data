@@ -1,0 +1,133 @@
+{
+ "components": [
+  "CU",
+  "PD",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   944.9897442,
+   558.4897442,
+   504.4897442,
+   750.4897442,
+   1676.489744,
+   1610.489744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.5408178067
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "PD"
+    ],
+    [
+     0.4171847503
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "PD"
+    ],
+    [
+     0.4727445449
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.5808609019
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.3213315911
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "PD"
+    ],
+    [
+     0.3551179527
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.3676314199
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.6414260834
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.7255165834
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and D.E. Laughlin, J. Phase Equilibria, 12(2), 231-243 (1991) doi:10.1007/bf02645723; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 361",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-PD-p361; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-PD-p361",
+  "record_ids": [
+   "aspa-896c0893d1de361e",
+   "aspa-4db9790ca71ec0d6",
+   "aspa-422022edad19a5ae",
+   "aspa-e9d2d43fa516b276",
+   "aspa-df716252b08a1eac",
+   "aspa-a0b3b946ed748629"
+  ]
+ }
+}

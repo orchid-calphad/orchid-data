@@ -1,0 +1,84 @@
+{
+ "components": [
+  "C",
+  "CO",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1461.489744,
+   1656.489744,
+   1888.989744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.01254594669
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "C"
+    ],
+    [
+     0.05180502352
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.08217336794
+    ]
+   ]
+  ]
+ ],
+ "reference": "K. Ishida and T. Nishizawa, J. Phase Equilibria, 12(4), 417-424 (1991) doi:10.1007/bf02645959; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 221",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-CO-p221; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-CO-p221",
+  "record_ids": [
+   "aspa-7edb7d552be8b1b0",
+   "aspa-cb1433b7cdf7bf2c",
+   "aspa-84829254b759fbce"
+  ]
+ }
+}

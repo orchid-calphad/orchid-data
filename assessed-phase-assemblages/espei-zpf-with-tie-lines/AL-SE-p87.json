@@ -1,0 +1,148 @@
+{
+ "components": [
+  "AL",
+  "SE",
+  "VA"
+ ],
+ "phases": [
+  "AL2SE3",
+  "FCC_A1",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   602.6734742,
+   383.1734742,
+   792.1734742,
+   1156.673474,
+   1061.673474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2SE3",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.2990576194
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2SE3",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "SE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2SE3",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     0.9234796353
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     0.8836868094
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2SE3",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.3441061015
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.W. Howe, Bull. Alloy Phase Diagrams, 10(6), 650-652 (1989) doi:10.1007/bf02877636; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 87",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-SE-p87; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-SE-p87",
+  "record_ids": [
+   "aspa-9ad8684784cc7a0a",
+   "aspa-bef7f0b6004b1293",
+   "aspa-9e9719c3fe2fd517",
+   "aspa-64b7ccfca0a3cd61",
+   "aspa-db8d43ad3d5b3478"
+  ]
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "components": [
+  "P",
+  "SB"
+ ],
+ "phases": [
+  "GAS",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   635.1652284,
+   1425.665228,
+   1292.665228,
+   1327.665228
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GAS",
+    [
+     "SB"
+    ],
+    [
+     0.2498533612
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "SB"
+    ],
+    [
+     0.2488516773
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "SB"
+    ],
+    [
+     0.2663811448
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.9575430033
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.98008089
+    ]
+   ]
+  ]
+ ],
+ "reference": "I. Ansara, C. Chatillon, H.L. Lukas, T, Nishizawa, H. Ohtani, K. Ishida, M. Hillert, B. Sundman, B.B. Argent, A. Watson, T.G. Chart, and T. Anderson, Calphad, 18(2), 177-222 (1994) doi:10.1016/0364-5916(94)90027-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 715",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram P-SB-p715; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "P-SB-p715",
+  "record_ids": [
+   "aspa-4fea5f517f5f7e59",
+   "aspa-d83224b2d9149359",
+   "aspa-224436abb5136664",
+   "aspa-ac04caa8ea88432d"
+  ]
+ }
+}

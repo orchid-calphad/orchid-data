@@ -1,0 +1,142 @@
+{
+ "components": [
+  "N",
+  "TA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "TAN_EPS"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1299.82991,
+   2491.82991,
+   2029.82991,
+   2870.82991,
+   3322.32991,
+   3294.82991
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TAN_EPS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.6805597711
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     0.8227988782
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     0.0374787375
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.06853093695
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     0.0620199919
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     0.2638592883
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(3), 291(2008) doi:10.1007/s11669-008-9316-x; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 658",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram N-TA-p658; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "N-TA-p658",
+  "record_ids": [
+   "aspa-3c452a65f3a7dfbb",
+   "aspa-4d217dc2f2e147d1",
+   "aspa-4dfe8b38f1aa636b",
+   "aspa-3414a088fac4a2ac",
+   "aspa-ec75919a95be9747",
+   "aspa-a5d60980e23138f3"
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "components": [
+  "N",
+  "NB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2235.70223,
+   2651.70223,
+   2966.20223
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     0.03455359312
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.1135766828
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     0.06159571505
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yu.V. Levinskiy, Russ. Metall., (1), 34-37 (1974); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 657",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram N-NB-p657; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "N-NB-p657",
+  "record_ids": [
+   "aspa-604b219f0b383ee1",
+   "aspa-3cddc481d5792fc9",
+   "aspa-9d58690c0e5c1ac8"
+  ]
+ }
+}

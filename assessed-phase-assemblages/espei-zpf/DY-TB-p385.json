@@ -1,0 +1,67 @@
+{
+ "components": [
+  "DY",
+  "TB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1441.661737,
+   1628.161737,
+   1714.161737
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     0.4772493931
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TB"
+    ],
+    [
+     0.5628415091
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.5408178067
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1561, 1564 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 385",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram DY-TB-p385; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "DY-TB-p385",
+  "record_ids": [
+   "aspa-30932a7cac0b6b55",
+   "aspa-3a8f3ea154553c7c",
+   "aspa-a578bfcf051196c1"
+  ]
+ }
+}

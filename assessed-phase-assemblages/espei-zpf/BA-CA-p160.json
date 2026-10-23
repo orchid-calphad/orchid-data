@@ -1,0 +1,160 @@
+{
+ "components": [
+  "BA",
+  "CA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   723.3172226,
+   557.8172226,
+   555.3172226,
+   1055.317223,
+   968.8172226,
+   933.8172226
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "CA"
+    ],
+    [
+     0.463226197
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.7677316898
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CA"
+    ],
+    [
+     0.8967340169
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     0.4762264315
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.8102324565
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.2482223186
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.B. Alcock and V.P. Itkin, Bull. Alloy Phase Diagrams, 7(4), 338-340 (1986) doi:10.1007/bf02873004; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 160",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BA-CA-p160; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BA-CA-p160",
+  "record_ids": [
+   "aspa-e911c7440b48c475",
+   "aspa-407e4da7f586f6dc",
+   "aspa-648ff4bdeb0d20f4",
+   "aspa-544a3c18320baaab",
+   "aspa-59dbe1ef8ff7f85e",
+   "aspa-6c68d7f872e67217"
+  ]
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "components": [
+  "AS",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1317.770305,
+   1077.270305,
+   1543.770305,
+   1490.770305
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     0.9865952341
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SI"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.06575152939
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.3645186057
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.6835707895
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     0.965308393
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.W. Olesinski and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 6(3), 254- 258 (1985) doi:10.1007/bf02880410; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 109",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AS-SI-p109; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AS-SI-p109",
+  "record_ids": [
+   "aspa-9bc5eda13b7612ad",
+   "aspa-d1f304c1bf96cddb",
+   "aspa-1b6dc13cec2b1b07",
+   "aspa-e1f2b7ac830fc107"
+  ]
+ }
+}

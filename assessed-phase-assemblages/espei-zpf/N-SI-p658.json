@@ -1,0 +1,70 @@
+{
+ "components": [
+  "N",
+  "SI"
+ ],
+ "phases": [
+  "GAS",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2732.607522,
+   3498.607522
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.4596884815
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     0.5914099082
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 26(3), 293-294 (2005) doi:10.1361/15477030523571; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 658",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram N-SI-p658; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "N-SI-p658",
+  "record_ids": [
+   "aspa-38042ac3bbe93bd7",
+   "aspa-c5094a7eb57e4bfb"
+  ]
+ }
+}

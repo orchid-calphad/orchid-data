@@ -1,0 +1,120 @@
+{
+ "components": [
+  "AU",
+  "GE",
+  "VA"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   838.270892,
+   552.770892,
+   892.770892,
+   852.270892,
+   1203.770892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.01043327347
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.009682010584
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.02195263778
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.1957447863
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.4511741688
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.4672011104
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams, 5(6), 601-610 (1984) doi:10.1007/bf02868323; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 120",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-GE-p120; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-GE-p120",
+  "record_ids": [
+   "aspa-f843f16207537e41",
+   "aspa-edc7f91b9db24370",
+   "aspa-82c3cbf38471eae7",
+   "aspa-1957c72b93a8b5ea",
+   "aspa-ef52489221816883"
+  ]
+ }
+}

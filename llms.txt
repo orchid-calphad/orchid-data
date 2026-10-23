@@ -21,6 +21,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - [Phase registry, binary systems](https://data.orchid-project.org/phases/pages/index.md); structure types https://data.orchid-project.org/phases/structure_types.json (Parquet: phases/structure_types.parquet), all phases https://data.orchid-project.org/phases/registry.csv / registry.parquet / registry.jsonld
 - [All systems with one-line summaries](https://data.orchid-project.org/llms-full.txt)
 - [Field reference](https://data.orchid-project.org/literature/SCHEMA.md)
+- [Assessed phase assemblages](https://data.orchid-project.org/assessed-phase-assemblages/README.md): one (T, x, P) point per named field of expert-drawn binary diagrams, evidence class assessed_phase_diagram (not experimental, not CALPHAD); https://data.orchid-project.org/assessed-phase-assemblages/records.jsonl.gz (also .csv, .parquet), ESPEI ZPF datasets espei-zpf/<DIAGRAM>.json, fields https://data.orchid-project.org/assessed-phase-assemblages/SCHEMA.md
 
 ## Bulk files
 - https://data.orchid-project.org/literature/orchid-literature.jsonl.gz (all records, one JSON object per line)
@@ -36,6 +37,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
   - ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD): https://doi.org/10.5281/zenodo.PENDING-hulls
   - ORCHID DFT-vs-experiment formation-enthalpy benchmark: https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
   - ORCHID phase registry (binary systems): https://doi.org/10.5281/zenodo.PENDING-phase-registry
+  - ORCHID assessed phase assemblages (binary systems): https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
 - Every JSON file carries a top-level cite_as object (text, BibTeX, DOI); Parquet files carry orchid.cite_as metadata; literature/CITATION.txt sits beside the CSV.
 - Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).
 - Quotes: one verbatim sentence per value, fair use. Source papers, page images and full text are not redistributed.

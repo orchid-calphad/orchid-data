@@ -1,0 +1,106 @@
+{
+ "components": [
+  "IR",
+  "RH",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1902.265655,
+   1351.765655,
+   2473.765655,
+   2710.765655
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     0.469240774
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.4627337711
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     0.4832558574
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.5378145746
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.5843646728
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.N. Tripathi, S.R. Bharadwaj, and M.S. Chandrasekharaiah, J. Phase Equilibria, 12(5), 506-608 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 569",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IR-RH-p569; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "IR-RH-p569",
+  "record_ids": [
+   "aspa-18c0fe1876617012",
+   "aspa-aeedc66d7fcc5308",
+   "aspa-b1cae00a775605e8",
+   "aspa-c2e91437e88df9c6"
+  ]
+ }
+}

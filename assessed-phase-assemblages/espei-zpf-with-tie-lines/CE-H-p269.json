@@ -1,0 +1,51 @@
+{
+ "components": [
+  "CE",
+  "H"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1315.569059,
+   1180.069059
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.1718478227
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.2536387182
+    ]
+   ]
+  ]
+ ],
+ "reference": "F.D. Manchester and J.M. Pitre, J. Phase Equilibria, 18(1), 63-77 (1997) doi:10.1007/bf02646759; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 269",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CE-H-p269; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CE-H-p269",
+  "record_ids": [
+   "aspa-a04cb954a89b5414",
+   "aspa-22ee769ebd8a2246"
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "components": [
+  "CS",
+  "NA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CSNA2_C14",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   226.907384,
+   239.407384,
+   261.407384,
+   252.907384,
+   343.907384,
+   303.907384
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CSNA2_C14",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.3275706779
+    ]
+   ]
+  ],
+  [
+   [
+    "CSNA2_C14",
+    [
+     "NA"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.1378665143
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.2572449919
+    ]
+   ],
+   [
+    "CSNA2_C14",
+    [
+     "NA"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.3746213147
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.4179179114
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.W. Bale, Bull. Alloy Phase Diagrams, 3(3), 310-313 (1982) doi:10.1007/bf02869300; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 346",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CS-NA-p346; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CS-NA-p346",
+  "record_ids": [
+   "aspa-3d1ae0bea8b9e76b",
+   "aspa-69b7b1a3c53075fa",
+   "aspa-3ef9346d216c3f2a",
+   "aspa-d792e7320802fbcc",
+   "aspa-29b360089dbb70ab",
+   "aspa-60647a762af0b779"
+  ]
+ }
+}

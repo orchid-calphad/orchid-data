@@ -1,0 +1,103 @@
+{
+ "components": [
+  "IN",
+  "ZN",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   394.5927186,
+   521.0927186,
+   644.5927186
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.5037802179
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.5944326066
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.3595377431
+    ]
+   ]
+  ]
+ ],
+ "reference": "J. Dutkiewicz and W. Zakulski, Bull. Alloy Phase Diagrams, 5(3), 284-289 (1984) doi:10.1007/bf02868554; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 563",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram IN-ZN-p563; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "IN-ZN-p563",
+  "record_ids": [
+   "aspa-dc791275cd704406",
+   "aspa-48557633b96c8462",
+   "aspa-06223e58ceebc36f"
+  ]
+ }
+}

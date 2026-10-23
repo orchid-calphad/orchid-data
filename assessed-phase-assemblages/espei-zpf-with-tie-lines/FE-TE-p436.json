@@ -1,0 +1,49 @@
+{
+ "components": [
+  "FE",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "FETE2_C18",
+  "HEXAGONAL_A8"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   496.5937367
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FETE2_C18",
+    [
+     "TE"
+    ],
+    [
+     0.6734429127
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and L.E. Tanner, Bull. Alloy Phase Diagrams, 11(4), 371-376 (1990) doi:10.1007/bf02843316; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 436",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram FE-TE-p436; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "FE-TE-p436",
+  "record_ids": [
+   "aspa-b36319c13db87a46"
+  ]
+ }
+}

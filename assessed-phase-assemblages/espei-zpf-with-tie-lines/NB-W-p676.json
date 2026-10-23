@@ -1,0 +1,75 @@
+{
+ "components": [
+  "NB",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2866.270761,
+   3396.270761,
+   3122.770761
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     0.6560185167
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.3765487217
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.5265508787
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     0.7046001836
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.V. Nagender Naidu, A.M. Sriramamurthy, and P. Rama Rao, J. Alloy Phase Diagrams, 4(3), 184-190 (1988); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 676",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NB-W-p676; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NB-W-p676",
+  "record_ids": [
+   "aspa-793104bdb4afa6ca",
+   "aspa-f9330ff157b59ae5",
+   "aspa-1e040bc9c71198dd"
+  ]
+ }
+}

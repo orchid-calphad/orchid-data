@@ -1,0 +1,148 @@
+{
+ "components": [
+  "AG",
+  "TL",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   795.5954879,
+   437.5954879,
+   533.5954879,
+   764.0954879,
+   1059.595488
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.02996610861
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.5152819354
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.524797932
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.4151135501
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.6234637915
+    ]
+   ]
+  ]
+ ],
+ "reference": "M.R. Baren, Bull. Alloy Phase Diagrams, 10(6), 641-643 (1989) doi:10.1007/bf02877633; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 66",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-TL-p66; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-TL-p66",
+  "record_ids": [
+   "aspa-a7533200283ea374",
+   "aspa-e7d42edaa7468b4e",
+   "aspa-5c0b8bf5b3346028",
+   "aspa-5a07bb16ccc524f2",
+   "aspa-251dd10c7738631b"
+  ]
+ }
+}

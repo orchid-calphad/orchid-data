@@ -1,0 +1,70 @@
+{
+ "components": [
+  "B",
+  "N"
+ ],
+ "phases": [
+  "BN_B4",
+  "GAS"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1721.807585,
+   4395.807585
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BN_B4",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.7506776408
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     0.5728787569
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Wen and H.L. Lukas, COST 507, Thermochemical Database for Light Metal Alloys, I. Ansara, A.T. Dinsdale, and M.H. Rand, ed., European Communities, vol. 2, 123-125 (1998); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 146",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-N-p146; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-N-p146",
+  "record_ids": [
+   "aspa-c125fddab38108d3",
+   "aspa-2ee7de67f02465f8"
+  ]
+ }
+}

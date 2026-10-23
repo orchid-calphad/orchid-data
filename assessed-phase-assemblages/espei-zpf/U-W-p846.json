@@ -1,0 +1,166 @@
+{
+ "components": [
+  "U",
+  "W",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "ORTHORHOMBIC_A20",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   854.7558032,
+   991.2558032,
+   1227.755803,
+   2283.255803,
+   3264.755803
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ORTHORHOMBIC_A20",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4997558357
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5012583614
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4997558357
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.5743812827
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.3319737903
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 30(4), 415 (2009) doi:10.1007/s11669-009-9540-z; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 846",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram U-W-p846; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "U-W-p846",
+  "record_ids": [
+   "aspa-8e3e0f0ea318c1b1",
+   "aspa-7b66b582fdddc358",
+   "aspa-333622e5209e154b",
+   "aspa-cca3a880dc7cbb67",
+   "aspa-66a4d86e265781fd"
+  ]
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "components": [
+  "CD",
+  "PB",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   446.1558685,
+   507.6558685,
+   539.1558685,
+   584.6558685,
+   544.6558685
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.4882612443
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.9817923927
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.248002673
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.5142892561
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.8936975832
+    ]
+   ]
+  ]
+ ],
+ "reference": "J. Dutkiewicz, Z. Moser, and W. Zakulski, Bull. Alloy Phase Diagrams, 9(6), 694-701 (1988) doi:10.1007/bf02883171; W. Zakulski and Z. Moser, J. Phase Equilibria, 16(3), 239-242 (1995) doi:10.1007/bf02667308; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 257",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CD-PB-p257; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CD-PB-p257",
+  "record_ids": [
+   "aspa-26c7e5b7f42eaebf",
+   "aspa-c01d432d428db07a",
+   "aspa-9442b6e68b1467e2",
+   "aspa-de508a2ba0b48efb",
+   "aspa-079e1cfa037a4ffe"
+  ]
+ }
+}

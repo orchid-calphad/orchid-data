@@ -1,0 +1,133 @@
+{
+ "components": [
+  "NA",
+  "RB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   250.6700118,
+   300.6700118,
+   352.1700118,
+   283.1700118
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RB"
+    ],
+    [
+     0.4997734825
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RB"
+    ],
+    [
+     0.3214737567
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     0.5884225035
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RB"
+    ],
+    [
+     0.9465244809
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.W. Bale, Bull. Alloy Phase Diagrams, 3(3), 318-321 (1982) doi:10.1007/bf02869302; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 663",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NA-RB-p663; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NA-RB-p663",
+  "record_ids": [
+   "aspa-851a6e370e56c6e5",
+   "aspa-2fe3121573f996b8",
+   "aspa-33f1a4276067f678",
+   "aspa-43c2e60f6ea9674e"
+  ]
+ }
+}

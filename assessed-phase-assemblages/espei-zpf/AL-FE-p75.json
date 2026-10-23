@@ -1,0 +1,160 @@
+{
+ "components": [
+  "AL",
+  "FE",
+  "VA"
+ ],
+ "phases": [
+  "B2_BCC",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1285.651484,
+   1109.651484,
+   866.1514839,
+   1646.651484,
+   1544.151484,
+   1678.151484
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.1493965511
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "AL"
+    ],
+    [
+     0.3976637413
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.2409951314
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.6934821072
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.5232989526
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AL"
+    ],
+    [
+     0.3666303426
+    ]
+   ]
+  ]
+ ],
+ "reference": "U.R. Kattner and B.P. Burton, Phase Diagrams of Binary Iron Alloys, H. Okamoto, ed., ASM International, Materials Park, OH, 12-28 (1993); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 75",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-FE-p75; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-FE-p75",
+  "record_ids": [
+   "aspa-dcd834dace871d26",
+   "aspa-73daa7a817fbea80",
+   "aspa-c067c45c2d0763db",
+   "aspa-badce2a32a9ec4c0",
+   "aspa-bbe43438d64d01d5",
+   "aspa-9f5202acfb3e7787"
+  ]
+ }
+}

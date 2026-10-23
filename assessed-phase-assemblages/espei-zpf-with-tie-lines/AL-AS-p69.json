@@ -1,0 +1,148 @@
+{
+ "components": [
+  "AL",
+  "AS",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   803.1974742,
+   884.6974742,
+   1398.697474,
+   2030.197474,
+   1481.697474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "AS"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "AS"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "AS"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "AS"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "AS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AS"
+    ],
+    [
+     0.2990576194
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AS"
+    ],
+    [
+     0.8481485624
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "AS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "AS"
+    ],
+    [
+     0.6914799524
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.J. McAlister, Bull. Alloy Phase Diagrams, 5(6), 577-579 (1984) doi:10.1007/bf02868319; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 69",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-AS-p69; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-AS-p69",
+  "record_ids": [
+   "aspa-0be09158d02ebd07",
+   "aspa-623d071460f63a15",
+   "aspa-ef4e3366c46efd85",
+   "aspa-fdc716fcec3c6631",
+   "aspa-a6d5cc1705516e0f"
+  ]
+ }
+}

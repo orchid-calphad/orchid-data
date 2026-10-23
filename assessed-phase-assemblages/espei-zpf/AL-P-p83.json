@@ -1,0 +1,134 @@
+{
+ "components": [
+  "AL",
+  "P",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   499.8060012,
+   1461.806001,
+   2711.806001,
+   1773.806001
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2495042891
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.7355273572
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.08983244695
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.269025298
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.J. McAlister, Bull. Alloy Phase Diagrams, 6(3), 222-224 (1985) doi:10.1007/bf02880402; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 83",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-P-p83; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-P-p83",
+  "record_ids": [
+   "aspa-45dc8cf8d6d5b102",
+   "aspa-be329ef4831c3ab3",
+   "aspa-9e98523f85273f70",
+   "aspa-24f0d211afacda75"
+  ]
+ }
+}

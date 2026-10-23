@@ -1,0 +1,133 @@
+{
+ "components": [
+  "NA",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   319.9076142,
+   498.9076142,
+   885.4076142,
+   535.9076142,
+   820.4076142,
+   866.4076142
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.8828999094
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.9495118856
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.374545354
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.0572619936
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.8986764301
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.6905766096
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.9329841021
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.9685438788
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.D. Pelton, Bull. Alloy Phase Diagrams, 6(1), 43-45 (1985) doi:10.1007/bf02871185; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 664",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NA-SR-p664; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NA-SR-p664",
+  "record_ids": [
+   "aspa-7d2739454b4ab446",
+   "aspa-25569cc803ef68d9",
+   "aspa-a6125e1159c3f4de",
+   "aspa-48a3a226c78e11c9",
+   "aspa-2685961d5d67715f",
+   "aspa-e527bad01c154789"
+  ]
+ }
+}

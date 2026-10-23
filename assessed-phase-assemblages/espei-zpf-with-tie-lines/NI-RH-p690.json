@@ -1,0 +1,106 @@
+{
+ "components": [
+  "NI",
+  "RH",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   179.814825,
+   1094.314825,
+   2193.314825,
+   1931.814825
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.5112683771
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     0.5242823831
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.4181681808
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.4822371331
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     0.5881010661
+    ]
+   ]
+  ]
+ ],
+ "reference": "A. Nash and P. Nash, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 271-273 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 690",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-RH-p690; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-RH-p690",
+  "record_ids": [
+   "aspa-8f5630b191cc99bb",
+   "aspa-ac6a4517a904d3a6",
+   "aspa-e39220a00b401dd7",
+   "aspa-c148d7fff86134ce"
+  ]
+ }
+}

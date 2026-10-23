@@ -1,0 +1,133 @@
+{
+ "components": [
+  "SE",
+  "TL"
+ ],
+ "phases": [
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "TLSE_B37"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   481.6617371,
+   529.1617371,
+   662.1617371,
+   600.6617371
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HEXAGONAL_A8",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.1228680005
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TLSE_B37",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.4281966014
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.3941599705
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TLSE_B37",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TL"
+    ],
+    [
+     0.5268027234
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 3349-3350 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 805",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SE-TL-p805; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "SE-TL-p805",
+  "record_ids": [
+   "aspa-4b50bf5eb0ce4e63",
+   "aspa-f0b4292e326406f4",
+   "aspa-e353db7032967f74",
+   "aspa-9557c3659ec501bc"
+  ]
+ }
+}

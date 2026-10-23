@@ -1,0 +1,129 @@
+{
+ "components": [
+  "NI",
+  "OS",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1245.13069,
+   1133.63069,
+   1742.13069,
+   2856.13069,
+   2242.63069
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "OS"
+    ],
+    [
+     0.03927803925
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "OS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "OS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "OS"
+    ],
+    [
+     0.4922655538
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "OS"
+    ],
+    [
+     0.9572659969
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "OS"
+    ],
+    [
+     0.3826475806
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "OS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "OS"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "OS"
+    ],
+    [
+     0.6694562501
+    ]
+   ]
+  ]
+ ],
+ "reference": "T.Ya. Velikonova, T.G. Mazhuga, O.L. Semonova, P.S. Martsenyuk, and V.M. Vereshchaka, Powder Metall. Met. Ceram., 41(5-6), 288-295 (2002); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 687",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-OS-p687; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-OS-p687",
+  "record_ids": [
+   "aspa-2fc1d8624c158a61",
+   "aspa-a8de5fbc14894ddc",
+   "aspa-46666294023634dc",
+   "aspa-dc1af87aa51dc5db",
+   "aspa-a65519f7764de0f2"
+  ]
+ }
+}

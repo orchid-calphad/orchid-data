@@ -1,0 +1,142 @@
+{
+ "components": [
+  "FE",
+  "N",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "FE4N_L1"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   662.2967637,
+   808.7967637,
+   859.7967637,
+   957.2967637,
+   892.7967637,
+   1108.796764
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     0.001678220078
+    ]
+   ],
+   [
+    "FE4N_L1",
+    [
+     "N"
+    ],
+    [
+     0.1987419782
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     0.003678867369
+    ]
+   ],
+   [
+    "FE4N_L1",
+    [
+     "N"
+    ],
+    [
+     0.1945406189
+    ]
+   ]
+  ],
+  [
+   [
+    "FE4N_L1",
+    [
+     "N"
+    ],
+    [
+     0.1969413956
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "N"
+    ],
+    [
+     0.003878932098
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "N"
+    ],
+    [
+     0.05289479072
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "N"
+    ],
+    [
+     0.09560861037
+    ]
+   ],
+   [
+    "FE4N_L1",
+    [
+     "N"
+    ],
+    [
+     0.1929401011
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "N"
+    ],
+    [
+     0.05509550274
+    ]
+   ]
+  ]
+ ],
+ "reference": "H.A. Wriedt, N.A. Gokcen, and R.H. Nafziger, Phase Diagrams of Binary Iron Alloys, H. Okamoto, ed., ASM International, Materials Park, OH, 222-242 (1993); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 426",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram FE-N-p426; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "FE-N-p426",
+  "record_ids": [
+   "aspa-38f07d3fc9cfd8c5",
+   "aspa-ad4ce1346ecc901f",
+   "aspa-8b07c1cbe75bd340",
+   "aspa-0e3d37cc9c281bf7",
+   "aspa-07a3f2b9c3b51dc8",
+   "aspa-78add86db3397cee"
+  ]
+ }
+}

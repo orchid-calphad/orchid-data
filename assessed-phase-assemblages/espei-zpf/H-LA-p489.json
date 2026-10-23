@@ -1,0 +1,93 @@
+{
+ "components": [
+  "H",
+  "LA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   919.7470122,
+   1209.247012,
+   1209.247012,
+   1364.247012,
+   1365.747012
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "H"
+    ],
+    [
+     0.07139255489
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.4779240843
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.2474495165
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.1730254373
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.3778917198
+    ]
+   ]
+  ]
+ ],
+ "reference": "D. Khatamian and F.D. Manchester, Bull. Alloy Phase Diagrams, 11(1), 90-99 (1990) doi:10.1007/bf02841589; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 489",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram H-LA-p489; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "H-LA-p489",
+  "record_ids": [
+   "aspa-18e1ec44e0397b41",
+   "aspa-1c0c0b60ced15791",
+   "aspa-3a8d41203f273e2a",
+   "aspa-677a9acaea9f431f",
+   "aspa-5d424f1b8d6b4c93"
+  ]
+ }
+}

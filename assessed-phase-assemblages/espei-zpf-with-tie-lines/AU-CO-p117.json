@@ -1,0 +1,133 @@
+{
+ "components": [
+  "AU",
+  "CO",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   485.0478816,
+   971.0478816,
+   1149.547882,
+   1350.547882,
+   1420.547882,
+   1642.547882
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "CO"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.04002884728
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.9933047825
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.06380443506
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.9913026278
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CO"
+    ],
+    [
+     0.4434630315
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CO"
+    ],
+    [
+     0.974784851
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CO"
+    ],
+    [
+     0.4026691283
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, T.B. Massalski, M. Hasebe, and T. Nishizawa, Bull. Alloy Phase Diagrams, 6(5), 449-454 (1985) doi:10.1007/bf02869509; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 117",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-CO-p117; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-CO-p117",
+  "record_ids": [
+   "aspa-cb663d4c3d8d1166",
+   "aspa-66891b8006f17a4c",
+   "aspa-197308075f2a7d35",
+   "aspa-63984ff4dad58070",
+   "aspa-2bbf9da07749d7a6",
+   "aspa-599a012e2fd773fc"
+  ]
+ }
+}

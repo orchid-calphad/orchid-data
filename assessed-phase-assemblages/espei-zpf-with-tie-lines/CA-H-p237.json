@@ -1,0 +1,157 @@
+{
+ "components": [
+  "CA",
+  "H",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CAH2_BETA",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   662.5535951,
+   736.0535951,
+   814.0535951,
+   998.5535951,
+   1107.553595,
+   1212.553595,
+   1212.553595
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "H"
+    ],
+    [
+     0.001901397458
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     0.01819440368
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     0.05831374159
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.07460674782
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     0.1026377263
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.1185803453
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.3065630945
+    ]
+   ],
+   [
+    "CAH2_BETA",
+    [
+     "H"
+    ],
+    [
+     0.6581766805
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.1805988851
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.3691072152
+    ]
+   ],
+   [
+    "CAH2_BETA",
+    [
+     "H"
+    ],
+    [
+     0.6599286166
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 20(2), 165 (1999) doi:10.1007/s11669-999-0016-y; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 237",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CA-H-p237; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CA-H-p237",
+  "record_ids": [
+   "aspa-0726e3ec58bc57ff",
+   "aspa-71abc4d3e55a6854",
+   "aspa-ab97661006b49ac0",
+   "aspa-f50036f4a63555a5",
+   "aspa-b7ee672f3a47c65b",
+   "aspa-892c0802cb879e14",
+   "aspa-1021ac2408c94d66"
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "components": [
+  "NB",
+  "TA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2818.22969,
+   3162.72969,
+   3015.22969
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.6068889138
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.3676314199
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.5012752502
+    ]
+   ]
+  ]
+ ],
+ "reference": "R. Krishnan, S.P. Garg, N. Krishnamurthy, and E. Paul, Phase Diagrams of Binary Tantalum Alloys, S.P. Garg, M. Venkatraman, N. Krishnamurthy, and R. Krishnan, ed., Indian Institute of Metals, Calcutta, India, 118-120(1996); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 673",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NB-TA-p673; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NB-TA-p673",
+  "record_ids": [
+   "aspa-855a56674765da22",
+   "aspa-52d63281c982bb22",
+   "aspa-4cda66020bcc7f10"
+  ]
+ }
+}

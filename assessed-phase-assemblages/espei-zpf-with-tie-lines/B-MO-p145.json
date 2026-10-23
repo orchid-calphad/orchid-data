@@ -1,0 +1,120 @@
+{
+ "components": [
+  "B",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "MO2B_C16"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2434.512103,
+   2057.512103,
+   2813.012103,
+   2609.512103,
+   2493.012103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     0.6647474787
+    ]
+   ]
+  ],
+  [
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     0.6692475599
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9962534586
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.1842388109
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.8305004687
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9942534225
+    ]
+   ]
+  ],
+  [
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     0.6707475869
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.7489989985
+    ]
+   ]
+  ]
+ ],
+ "reference": "K.E. Spear and P.K. Liao, Bull. Alloy Phase Diagrams, 9(4), 457-466 (1988) doi:10.1007/bf02881867; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 145",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-MO-p145; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-MO-p145",
+  "record_ids": [
+   "aspa-885cf71a43a77813",
+   "aspa-55ba5d9a34f597e4",
+   "aspa-b0dcf2bea96366b1",
+   "aspa-64e3f44edcab118a",
+   "aspa-4c83f05c628262a8"
+  ]
+ }
+}

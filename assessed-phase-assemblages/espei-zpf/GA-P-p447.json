@@ -1,0 +1,57 @@
+{
+ "components": [
+  "GA",
+  "P"
+ ],
+ "phases": [
+  "LIQUID",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1356.129547
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2875552169
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1834-1835 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 447",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-P-p447; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GA-P-p447",
+  "record_ids": [
+   "aspa-26627e4fc0212339"
+  ]
+ }
+}

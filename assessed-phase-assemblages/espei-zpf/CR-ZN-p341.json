@@ -1,0 +1,166 @@
+{
+ "components": [
+  "CR",
+  "ZN",
+  "VA"
+ ],
+ "phases": [
+  "CRZN13",
+  "CRZN17",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   689.6695856,
+   666.6695856,
+   712.6695856,
+   769.6695856,
+   744.6695856
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CRZN13",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CRZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9360539427
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CRZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9722147298
+    ]
+   ]
+  ],
+  [
+   [
+    "CRZN17",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9688090047
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.9781747487
+    ]
+   ]
+  ],
+  [
+   [
+    "CRZN13",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9507786953
+    ]
+   ]
+  ]
+ ],
+ "reference": "G. Reumont and P. Perrot, J. Phase Equilibria, 24(1), 50-54 (2003) doi:10.1007/s11669-003-0006-4; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 341",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-ZN-p341; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-ZN-p341",
+  "record_ids": [
+   "aspa-9b9f52e28517b998",
+   "aspa-6addfbededba7eef",
+   "aspa-87bda1a9f861f187",
+   "aspa-e45285324e891d10",
+   "aspa-2cc88c3fc223ddd3"
+  ]
+ }
+}

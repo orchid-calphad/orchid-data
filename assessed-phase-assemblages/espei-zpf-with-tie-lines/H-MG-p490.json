@@ -1,0 +1,166 @@
+{
+ "components": [
+  "H",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "GAS",
+  "HCP_A3",
+  "LIQUID",
+  "MGH2_C4"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   416.7219595,
+   416.7219595,
+   741.7219595,
+   1115.221959,
+   1365.721959
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MGH2_C4",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.3320755261
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MGH2_C4",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.8336152936
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.4997559873
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "H"
+    ],
+    [
+     0.4456978087
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     0.608372883
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 22(5), 598-599 (2001) doi:10.1361/105497101770332893; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 490",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram H-MG-p490; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "H-MG-p490",
+  "record_ids": [
+   "aspa-ff9d47474b995d9e",
+   "aspa-2646849e751b76d5",
+   "aspa-3577152a9b6953de",
+   "aspa-2c35b9e11735b9b0",
+   "aspa-ea9a99fe32f7c0ab"
+  ]
+ }
+}

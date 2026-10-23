@@ -1,0 +1,90 @@
+{
+ "components": [
+  "B",
+  "TM"
+ ],
+ "phases": [
+  "LIQUID",
+  "TMB12_D2F",
+  "TMB2_C32",
+  "TMB4_D1E"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1647.20223,
+   2401.70223
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TMB2_C32",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TMB4_D1E",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.2663634979
+    ]
+   ]
+  ],
+  [
+   [
+    "TMB12_D2F",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.05400652108
+    ]
+   ]
+  ]
+ ],
+ "reference": "M.E. Schlesinger, J. Phase Equilibria, 19(1), 49-55 (1998) doi:10.1361/105497198770342742; P.K. Liao and K.E. Spear, Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 549-551 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 156",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-TM-p156; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-TM-p156",
+  "record_ids": [
+   "aspa-e555456807ce4feb",
+   "aspa-ef15235d3ae5fff2"
+  ]
+ }
+}

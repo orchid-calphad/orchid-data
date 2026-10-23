@@ -1,0 +1,89 @@
+{
+ "components": [
+  "BA",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   717.8110708,
+   535.3110708,
+   535.3110708,
+   1044.811071
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.446811706
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.7517438485
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.8166761638
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.9133254179
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.4323268048
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.B. Alcock and V.P. Itkin, Bull. Alloy Phase Diagrams, 8(6), 534-536 (1987) doi:10.1007/bf02879429; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 172",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BA-SR-p172; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BA-SR-p172",
+  "record_ids": [
+   "aspa-395a7d4f8352d9cc",
+   "aspa-20f75243c80cd5e3",
+   "aspa-3d2bb40130dfd80b",
+   "aspa-9ad583d6829fd018"
+  ]
+ }
+}

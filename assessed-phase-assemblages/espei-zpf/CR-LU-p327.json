@@ -1,0 +1,134 @@
+{
+ "components": [
+  "CR",
+  "LU",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1424.698879,
+   1811.198879,
+   1758.198879,
+   2097.198879
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LU"
+    ],
+    [
+     0.4996289832
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LU"
+    ],
+    [
+     0.2256367266
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LU"
+    ],
+    [
+     0.9113687179
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.545210876
+    ]
+   ]
+  ]
+ ],
+ "reference": "S. Ray and J.P. Neumann, J. Phase Equilibria, 17(3), 179-185 (1996) doi:10.1007/bf02648486; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 327",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-LU-p327; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-LU-p327",
+  "record_ids": [
+   "aspa-9df8d67811b72594",
+   "aspa-0ebfdb1f0c6adfad",
+   "aspa-5d76c2d1456abd8f",
+   "aspa-9b8d851a2ff5f552"
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "components": [
+  "PT",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1518.956117,
+   1438.956117,
+   1650.456117,
+   2220.456117,
+   2515.956117,
+   2462.456117
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.346515853
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.653031112
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.7997777965
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.9044537591
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.3234771244
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.3703058445
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.4041126745
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.8200618945
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.8749040854
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(5), 471, (2008) doi:10.1007/s11669-008-9366-0; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 749",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram PT-RU-p749; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "PT-RU-p749",
+  "record_ids": [
+   "aspa-a7e84d0bc8cc67c8",
+   "aspa-83683d886bcbf6ca",
+   "aspa-a597edf9bc208801",
+   "aspa-9eb319bbdf3fbf8e",
+   "aspa-89f999d892f8dd8f",
+   "aspa-6b9d1bb27fd8c3b3"
+  ]
+ }
+}

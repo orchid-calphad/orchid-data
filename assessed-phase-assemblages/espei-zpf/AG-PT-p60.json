@@ -1,0 +1,159 @@
+{
+ "components": [
+  "AG",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1067.943527,
+   1386.943527,
+   1259.443527,
+   1798.443527,
+   1381.943527,
+   1687.443527
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.1542206229
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.9582351263
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.6257291283
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.3012232746
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.2207218225
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.6787300844
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 18(5), 547 (1997); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 60",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-PT-p60; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-PT-p60",
+  "record_ids": [
+   "aspa-12c1edbd609ee639",
+   "aspa-d5255099dfdd3f2f",
+   "aspa-895c3a13c5dd1770",
+   "aspa-e6f168a9d38bb426",
+   "aspa-bb4d93ec6974f607",
+   "aspa-cf8d74a345aabdbc"
+  ]
+ }
+}

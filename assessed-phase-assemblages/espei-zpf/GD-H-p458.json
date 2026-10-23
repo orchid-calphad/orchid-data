@@ -1,0 +1,39 @@
+{
+ "components": [
+  "GD",
+  "H",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   948.4578276
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "H"
+    ],
+    [
+     0.1225950187
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1883-1884 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 458",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GD-H-p458; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GD-H-p458",
+  "record_ids": [
+   "aspa-de25e1035cc8f5d9"
+  ]
+ }
+}

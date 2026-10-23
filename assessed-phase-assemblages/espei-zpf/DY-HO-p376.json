@@ -1,0 +1,67 @@
+{
+ "components": [
+  "DY",
+  "HO",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1640.654695,
+   1689.154695,
+   1741.654695
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "HO"
+    ],
+    [
+     0.5628238622
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "HO"
+    ],
+    [
+     0.2504877196
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     0.4106601004
+    ]
+   ]
+  ]
+ ],
+ "reference": "S. Norgren, J. Phase Equilibria, 21(2), 148-156 (2000) doi:10.1361/105497100770340200; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 376",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram DY-HO-p376; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "DY-HO-p376",
+  "record_ids": [
+   "aspa-ea9a45664337a8a7",
+   "aspa-6bdd726c1f15bd56",
+   "aspa-38816f77e77cc6e6"
+  ]
+ }
+}

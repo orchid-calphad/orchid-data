@@ -1,0 +1,61 @@
+{
+ "components": [
+  "SN",
+  "ZN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   482.1105803,
+   639.1105803
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCT_A5",
+    [
+     "ZN"
+    ],
+    [
+     0.005508457513
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.08032672447
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.3678390614
+    ]
+   ]
+  ]
+ ],
+ "reference": "Z. Moser, J. Dutkiewicz, W. Gasior, and J. Salawa, Bull. Alloy Phase Diagrams, 6(4), 330-334 (1985) doi:10.1007/bf02880511; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 820",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SN-ZN-p820; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "SN-ZN-p820",
+  "record_ids": [
+   "aspa-b73bbd39b1fe7a7d",
+   "aspa-06b12bb47388a2a8"
+  ]
+ }
+}

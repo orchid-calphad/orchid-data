@@ -1,0 +1,139 @@
+{
+ "components": [
+  "ND",
+  "SC",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DHCP",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   590.4039222,
+   1310.903922,
+   1282.903922,
+   1652.903922,
+   1483.903922
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DHCP",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.5253164208
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.4456825544
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.6410109058
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.3855815233
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.5445988349
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.7306616106
+    ]
+   ]
+  ]
+ ],
+ "reference": "K.A. Gschneidner, Jr. and F.W. Calderwood, Bull. Alloy Phase Diagrams, 3(3), 356-357 (1982) doi:10.1007/bf02869312; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 681",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram ND-SC-p681; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "ND-SC-p681",
+  "record_ids": [
+   "aspa-cb2edc250a04f65f",
+   "aspa-6c9e24bbeaf99e01",
+   "aspa-f06a4908a56b99ce",
+   "aspa-8ffeb25f09eaae24",
+   "aspa-d1b8d0448193d008"
+  ]
+ }
+}

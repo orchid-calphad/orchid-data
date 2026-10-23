@@ -1,0 +1,129 @@
+{
+ "components": [
+  "NB",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NB3SI"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2118.448753,
+   2519.448753,
+   2070.448753,
+   2406.448753,
+   2222.448753
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.01043327347
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.63348063
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NB3SI",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.1376471228
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.01744506044
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.1253764956
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.177464056
+    ]
+   ],
+   [
+    "NB3SI",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.B. Fernandes, G.C. Coelho, F. Ferreira, C.A. Nunes, and B. Sundman, Intermetallics, 10(10), 993-999 (2002) doi:10.1016/s0966-9795(02)00125-5; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 672",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NB-SI-p672; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NB-SI-p672",
+  "record_ids": [
+   "aspa-f4ae7d0fee0a1a79",
+   "aspa-9fb69d38bc553902",
+   "aspa-38debf3464e680ea",
+   "aspa-d6b00fe70658b214",
+   "aspa-18526f107f7025f1"
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "components": [
+  "AU",
+  "RH",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1006.31889,
+   2879.31889,
+   1737.31889,
+   2410.81889
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.5022763276
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     0.4577283842
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.5288048782
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RH"
+    ],
+    [
+     0.5518296579
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams, 5(4), 384-387 (1984) doi:10.1007/bf02872960; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 129",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-RH-p129; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-RH-p129",
+  "record_ids": [
+   "aspa-0dc25ed3f3faa420",
+   "aspa-0b6d130c31be967d",
+   "aspa-154264fb3bacbbd2",
+   "aspa-cf3f61ae5b68f648"
+  ]
+ }
+}

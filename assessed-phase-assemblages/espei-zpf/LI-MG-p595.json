@@ -1,0 +1,160 @@
+{
+ "components": [
+  "LI",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   491.0150198,
+   547.5150198,
+   587.5150198,
+   816.5150198,
+   654.0150198,
+   883.0150198
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "MG"
+    ],
+    [
+     0.428153087
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.7682247551
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     0.9169748073
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.3209729148
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.3229762825
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.8688939823
+    ]
+   ]
+  ]
+ ],
+ "reference": "A.A. Nayeb-Hashemi, J.B. Clark, and A.D. Pelton, Bull. Alloy Phase Diagrams, 5(4), 365-374 (1984) doi:10.1007/bf02872951; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 595",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram LI-MG-p595; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "LI-MG-p595",
+  "record_ids": [
+   "aspa-9b0187c56a4e0947",
+   "aspa-6506a24461223f9b",
+   "aspa-c529d69e836538c4",
+   "aspa-d6293ecd9e09dc87",
+   "aspa-3418b621afa1abea",
+   "aspa-2031144d702a0dc5"
+  ]
+ }
+}

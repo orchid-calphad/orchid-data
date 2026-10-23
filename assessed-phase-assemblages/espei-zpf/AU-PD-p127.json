@@ -1,0 +1,71 @@
+{
+ "components": [
+  "AU",
+  "PD",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1738.989744,
+   1520.989744
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.3185786283
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PD"
+    ],
+    [
+     0.1594073249
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams, 6(3), 229-235 (1985) doi:10.1007/bf02880404; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 127",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-PD-p127; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-PD-p127",
+  "record_ids": [
+   "aspa-e86fb8d91adb018f",
+   "aspa-bfc4a6cf6f686dd9"
+  ]
+ }
+}

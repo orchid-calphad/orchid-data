@@ -1,0 +1,53 @@
+{
+ "components": [
+  "ER",
+  "LU",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1827.211072,
+   1913.211072
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "LU"
+    ],
+    [
+     0.624407768
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.3921578158
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 13(6), 676-677 (1992) doi:10.1007/bf02667226; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 393",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram ER-LU-p393; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "ER-LU-p393",
+  "record_ids": [
+   "aspa-7558883c68827581",
+   "aspa-fa913464a6add716"
+  ]
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "components": [
+  "SN",
+  "ZR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "HCP_A3",
+  "LIQUID",
+  "SN2ZR_C54",
+  "SNZR4_A15"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   439.6020307,
+   784.6020307,
+   1101.602031,
+   896.1020307,
+   2017.102031,
+   1671.602031,
+   1395.102031
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCT_A5",
+    [
+     "ZR"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "SN2ZR_C54",
+    [
+     "ZR"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ],
+  [
+   [
+    "SNZR4_A15",
+    [
+     "ZR"
+    ],
+    [
+     0.8060451759
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.9551812808
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.9711958961
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SN2ZR_C54",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.1919847707
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.3586368611
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.9426698626
+    ]
+   ]
+  ],
+  [
+   [
+    "SNZR4_A15",
+    [
+     "ZR"
+    ],
+    [
+     0.8000396951
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.9269054757
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 31(4), 411 (2010) doi:10.1007/s11669-010-9734-4; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 821",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SN-ZR-p821; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "SN-ZR-p821",
+  "record_ids": [
+   "aspa-5d5739f9ee306356",
+   "aspa-d47034c250c23627",
+   "aspa-ef6bea24b1e4fbaa",
+   "aspa-c9e0af738a8b6923",
+   "aspa-e2e35fbf75764942",
+   "aspa-ab75192ac2f902a8",
+   "aspa-39320c1242040a42"
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "components": [
+  "P",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GAS",
+  "LIQUID",
+  "SIP"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   802.2286804,
+   1222.72868,
+   964.2286804,
+   2602.22868,
+   1444.72868,
+   2009.22868,
+   2083.22868
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     0.004423170356
+    ]
+   ],
+   [
+    "SIP",
+    [
+     "P"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     0.008429905768
+    ]
+   ]
+  ],
+  [
+   [
+    "SIP",
+    [
+     "P"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     0.8951705366
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     0.6154503207
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     0.02345516356
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.2543432917
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.07504188199
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.09207050749
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "P"
+    ],
+    [
+     0.3432427336
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.W. Olesinski, N. Kanani, and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 6(2), 130-133 (1985) doi:10.1007/bf02869224; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 716",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram P-SI-p716; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "P-SI-p716",
+  "record_ids": [
+   "aspa-43648f9df1a9ecca",
+   "aspa-c28ed4689fe712f2",
+   "aspa-a37f99f92f87f266",
+   "aspa-e276336426e30a1f",
+   "aspa-517e8c66ff94437e",
+   "aspa-fa653635d2460d83",
+   "aspa-b2d1ef03a13e4f4c"
+  ]
+ }
+}

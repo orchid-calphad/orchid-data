@@ -1,0 +1,58 @@
+{
+ "components": [
+  "NI",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "NITE_C38"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1033.739104
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NITE_C38",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.1862464365
+    ]
+   ]
+  ]
+ ],
+ "reference": "S.Y. Lee and P. Nash, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 330-338 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 695",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-TE-p695; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-TE-p695",
+  "record_ids": [
+   "aspa-7076ad57f7b9e241"
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "components": [
+  "HO",
+  "W"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2622.38004
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.01517361215
+    ]
+   ]
+  ]
+ ],
+ "reference": "N. Krishnamurthy, T. Kundu, A. Awasthi, and S.P. Garg, Z. Metallkd., 91(3), 234-240 (2000) doi:10.1515/ijmr-2000-910311; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 539",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram HO-W-p539; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "HO-W-p539",
+  "record_ids": [
+   "aspa-93d778492c704206"
+  ]
+ }
+}

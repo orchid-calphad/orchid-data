@@ -58,6 +58,10 @@ configs:
   data_files:
   - split: full
     path: phases/structure_types.parquet
+- config_name: assessed_phase_assemblages
+  data_files:
+  - split: full
+    path: assessed-phase-assemblages/records.parquet
 dataset_info:
 - config_name: literature_values
   features:
@@ -749,6 +753,88 @@ dataset_info:
   - name: full
     num_examples: 1563
   download_size: 53094
+- config_name: assessed_phase_assemblages
+  features:
+  - name: id
+    dtype: string
+  - name: system
+    dtype: string
+  - name: diagram
+    dtype: string
+  - name: field
+    dtype: int32
+  - name: assemblage_label
+    dtype: string
+  - name: n_phases
+    dtype: int32
+  - name: phase_labels
+    dtype: string
+  - name: canonical_names
+    dtype: string
+  - name: phase_ids
+    dtype: string
+  - name: T_K
+    dtype: float64
+  - name: T_C
+    dtype: float64
+  - name: x
+    dtype: float64
+  - name: x_component
+    dtype: string
+  - name: P_Pa
+    dtype: float64
+  - name: u_T_K
+    dtype: float64
+  - name: u_x
+    dtype: float64
+  - name: point_method
+    dtype: string
+  - name: margin_normalized
+    dtype: float64
+  - name: margin_isotherm_x
+    dtype: float64
+  - name: margin_isopleth_K
+    dtype: float64
+  - name: basis
+    dtype: string
+  - name: confidence
+    dtype: string
+  - name: review_state
+    dtype: string
+  - name: flags
+    dtype: string
+  - name: tie_line_x_left
+    dtype: float64
+  - name: tie_line_phase_left
+    dtype: string
+  - name: tie_line_x_right
+    dtype: float64
+  - name: tie_line_phase_right
+    dtype: string
+  - name: tie_line_omitted
+    dtype: string
+  - name: sgte_n
+    dtype: int32
+  - name: sgte_agrees
+    dtype: int32
+  - name: sgte_disagrees
+    dtype: int32
+  - name: sgte_not_comparable
+    dtype: int32
+  - name: sgte_results
+    dtype: string
+  - name: original_citation
+    dtype: string
+  - name: original_doi
+    dtype: string
+  - name: handbook_page_pdf
+    dtype: int32
+  - name: evidence_class
+    dtype: string
+  splits:
+  - name: full
+    num_examples: 23131
+  download_size: 1659123
 ---
 
 # ORCHID data: analysis-ready tables
@@ -762,15 +848,17 @@ format.
 
 - Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`)
 - Status: **Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.**
-- Zenodo: five citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
+- Zenodo: six citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
   calculated binary phase diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), binary convex hulls (doi:10.5281/zenodo.PENDING-hulls), DFT-vs-experiment formation-enthalpy
   benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark), phase registry (binary systems)
-  (doi:10.5281/zenodo.PENDING-phase-registry)
+  (doi:10.5281/zenodo.PENDING-phase-registry), assessed phase assemblages (binary systems)
+  (doi:10.5281/zenodo.PENDING-assessed-phase-assemblages)
 - Homepage: <https://orchid-project.org> · data: <https://data.orchid-project.org>
 - Field reference: `literature/SCHEMA.md`, hull format: `hulls/` (interval schema v1)
 - Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`); the
   `phases` and `structure_types` tables: `tools/build_phase_registry.py` (deterministic, `--check`; field reference
-  `phases/SCHEMA.md`)
+  `phases/SCHEMA.md`); the `assessed_phase_assemblages` table: `tools/build_assessed_assemblages.py` (deterministic,
+  `--check`; field reference `assessed-phase-assemblages/SCHEMA.md`)
 
 ## Tables
 
@@ -784,6 +872,7 @@ format.
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
 | `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
+| `assessed_phase_assemblages` | 23,131 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
 
 ### Phase registry tables (`phases`, `structure_types`)
@@ -811,6 +900,19 @@ labels, corpus ids, MP, OQMD), `stoichiometry` (`EL:x;...` when every model is s
 first), `total_papers`, `tdb_first_model`, `tdb_phase_line`, `tdb_constituent_line` (file and verbatim PHASE /
 CONSTITUENT statements of the first model). The complete records (every name, every model with its verbatim TDB
 definition, stability per diagram, references) are in `phases/systems/<SYS>.json`.
+
+### Assessed phase assemblages (`assessed_phase_assemblages`)
+
+Evidence class `assessed_phase_diagram`: an expert drew the diagram from experimental evidence without a CALPHAD
+model; these rows are neither measurements nor model values. One row per named phase field: the field's area centroid
+(or its pole of inaccessibility when the centroid is not safely inside), so the assemblage claim does not depend on
+exactly where the boundaries were drawn. `T_K`, `x` (mole fraction of `x_component`), `P_Pa` (1 atm assumed),
+`u_T_K` / `u_x` (bounds from the axis calibration), `phase_labels` (as printed), `canonical_names`, `phase_ids`
+(phase-registry ids; empty when unmapped), `basis`, `confidence`, `review_state`, `margin_*` (distance to the nearest
+drawn line: drawing-based, low credence), `tie_line_*` (two-phase rows only, drawing-based, weak constraint),
+`sgte_*` (agreement with the calculated SGTE diagrams of the system), `original_citation` / `original_doi` (cite
+first) and `handbook_page_pdf`. Full records, exclusions and ESPEI ZPF datasets are in `assessed-phase-assemblages/`
+(field reference `SCHEMA.md` there).
 
 `structure_types` columns: `id`, `prototype`, `prototype_spellings` (`;`), `strukturbericht`, `pearson`,
 `space_group_number`, `space_group_symbol`, `stoichiometry`, `verification` (which source confirms the row),

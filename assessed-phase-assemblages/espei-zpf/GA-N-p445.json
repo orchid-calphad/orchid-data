@@ -1,0 +1,165 @@
+{
+ "components": [
+  "GA",
+  "N"
+ ],
+ "phases": [
+  "GAN_B4",
+  "GAS",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   236.9028436,
+   645.9028436,
+   711.4028436,
+   1742.902844,
+   2417.402844
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAN_B4",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.2493525193
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAN_B4",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.7506952877
+    ]
+   ]
+  ],
+  [
+   [
+    "GAN_B4",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.2488516773
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.4717263346
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     0.6515285862
+    ]
+   ]
+  ]
+ ],
+ "reference": "J. Unland, B. Onderka, A. Davydov, and R. Schmid-Fetzer. J. Cryst. Growth, 256, 33-51 (2003) doi:10.1016/s0022-0248(03)01352-6; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 445",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GA-N-p445; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GA-N-p445",
+  "record_ids": [
+   "aspa-50a75248e50225fa",
+   "aspa-9a64cde434d1bf25",
+   "aspa-6b4fc7acfe2314b0",
+   "aspa-d54ad35f63d27cf4",
+   "aspa-f00deb31abab6fce"
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "components": [
+  "C",
+  "PB",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "GRAPHITE_A9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   432.7544601,
+   2219.75446,
+   4262.25446
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "PB"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "PB"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.9427681665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.6375050123
+    ]
+   ]
+  ]
+ ],
+ "reference": "compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 227",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-PB-p227; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-PB-p227",
+  "record_ids": [
+   "aspa-dde194b725262d6a",
+   "aspa-414a060851ff0c64",
+   "aspa-18690f9047e76463"
+  ]
+ }
+}

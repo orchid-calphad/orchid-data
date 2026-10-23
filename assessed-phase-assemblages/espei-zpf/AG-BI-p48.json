@@ -1,0 +1,116 @@
+{
+ "components": [
+  "AG",
+  "BI",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   847.4237371,
+   504.4237371,
+   728.9237371,
+   994.4237371
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "BI"
+    ],
+    [
+     0.01072968706
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "BI"
+    ],
+    [
+     0.5037602968
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "BI"
+    ],
+    [
+     0.3105523624
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     0.6098744991
+    ]
+   ]
+  ]
+ ],
+ "reference": "I. Karakaya and W.T. Thompson, J. Phase Equilibria, 14(4), 525-530 (1993) doi:10.1007/bf02671975; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 48",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-BI-p48; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-BI-p48",
+  "record_ids": [
+   "aspa-432182c2497cd533",
+   "aspa-8609019b4bc446af",
+   "aspa-05cbffcddbd42566",
+   "aspa-b1c502588ea0ab5f"
+  ]
+ }
+}

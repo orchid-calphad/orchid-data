@@ -1,0 +1,165 @@
+{
+ "components": [
+  "CD",
+  "GA",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   287.5996883,
+   425.0996883,
+   576.0996883,
+   567.5996883,
+   559.0996883
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.4996292331
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.4756057651
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.6007279941
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.06570534292
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.4931228772
+    ]
+   ]
+  ]
+ ],
+ "reference": "Z. Moser, J. Dutkiewics, W. Gasior, and J. Salawa, Bull. Alloy Phase Diagrams, 9(1), 691-694 (1988) doi:10.1007/bf02883170; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 251",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CD-GA-p251; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CD-GA-p251",
+  "record_ids": [
+   "aspa-0024e086acaffd67",
+   "aspa-87690f2a3a83e9f3",
+   "aspa-dace35836653ee23",
+   "aspa-3095166c3f338d9f",
+   "aspa-e88cbfb34d511a46"
+  ]
+ }
+}

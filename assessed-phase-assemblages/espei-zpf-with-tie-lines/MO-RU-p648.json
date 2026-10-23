@@ -1,0 +1,155 @@
+{
+ "components": [
+  "MO",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1915.502306,
+   1137.002306,
+   1716.502306,
+   2208.502306,
+   2457.502306,
+   2383.002306,
+   2750.502306
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.09105278104
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.1028225663
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.6339654293
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.7912297943
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.3244451188
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.4852153772
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.166429491
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.2443104105
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.6009098622
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.6672714175
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.4942305319
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 21(6), 572 (2000) doi:10.1007/s11669-000-0030-6; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 648",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MO-RU-p648; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MO-RU-p648",
+  "record_ids": [
+   "aspa-86e368e725ecfc57",
+   "aspa-1bc826d9463f4470",
+   "aspa-8372e282566e8e94",
+   "aspa-e7ed4a693823f485",
+   "aspa-865d19ee47de958f",
+   "aspa-ea985f229550550f",
+   "aspa-b2e39246cd384260"
+  ]
+ }
+}

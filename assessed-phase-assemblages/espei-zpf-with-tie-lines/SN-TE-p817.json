@@ -1,0 +1,151 @@
+{
+ "components": [
+  "SN",
+  "TE"
+ ],
+ "phases": [
+  "BCT_A5",
+  "DIAMOND_A4",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   463.578273,
+   548.078273,
+   743.078273,
+   1028.578273,
+   819.078273,
+   691.078273
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCT_A5",
+    [
+     "TE"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     0.5005740099
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     0.5055786187
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.01913063715
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     0.5005740099
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.8073565332
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     0.5100827667
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.7452993833
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.8909335012
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "R.C. Sharma and Y.A. Chang, Bull. Alloy Phase Diagrams, 7(1), 72-80 (1986) doi:10.1007/bf02874985; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 817",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram SN-TE-p817; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "SN-TE-p817",
+  "record_ids": [
+   "aspa-793b8b930b0f5af6",
+   "aspa-c4f986375bdbaa96",
+   "aspa-fed34263807610ea",
+   "aspa-f85c74875c4c3e17",
+   "aspa-df66f80f4ac7bbe8",
+   "aspa-00dcabf8391e87f5"
+  ]
+ }
+}

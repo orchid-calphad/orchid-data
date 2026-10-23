@@ -1,0 +1,134 @@
+{
+ "components": [
+  "AS",
+  "CU",
+  "VA"
+ ],
+ "phases": [
+  "CU3AS",
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   422.4876171,
+   506.4876171,
+   741.4876171,
+   666.4876171,
+   1202.487617,
+   1113.987617
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "CU"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "CU3AS",
+    [
+     "CU"
+    ],
+    [
+     0.7209940883
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3AS",
+    [
+     "CU"
+    ],
+    [
+     0.7300037847
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.9697618173
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3AS",
+    [
+     "CU"
+    ],
+    [
+     0.7390134811
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.9307197994
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.4326838028
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.8613951909
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.9592505048
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian and D.E. Laughlin, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, OH, 43-52 (1994); H. Okamoto, J. Phase Equilibria, 15(2), 225-226 (1994) doi:10.1007/bf02646371; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 100",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AS-CU-p100; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AS-CU-p100",
+  "record_ids": [
+   "aspa-630992363f49cdd1",
+   "aspa-266787fa7387b937",
+   "aspa-15755b90206d1ab3",
+   "aspa-bc74f3e074c6f0e7",
+   "aspa-1351e10671a1275c",
+   "aspa-6045853e1a640652"
+  ]
+ }
+}

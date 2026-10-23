@@ -1,0 +1,121 @@
+{
+ "components": [
+  "F",
+  "K",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "KF_B1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   304.1734742,
+   698.1734742,
+   1143.673474
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "KF_B1",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.2493357734
+    ]
+   ]
+  ],
+  [
+   [
+    "KF_B1",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.2699961036
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.4135678895
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1691-1692 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 417",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram F-K-p417; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "F-K-p417",
+  "record_ids": [
+   "aspa-4bf3e4e947433001",
+   "aspa-c4246d6cff557bea",
+   "aspa-aa3423f6d25ba715"
+  ]
+ }
+}

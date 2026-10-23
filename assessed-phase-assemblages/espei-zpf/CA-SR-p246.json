@@ -1,0 +1,67 @@
+{
+ "components": [
+  "CA",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   620.5354373,
+   899.0354373,
+   1102.535437
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     0.5293055093
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.4481691172
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.5423273994
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 31(5), 491 (2010) doi:10.1007/s11669-010-9757-x; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 246",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CA-SR-p246; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CA-SR-p246",
+  "record_ids": [
+   "aspa-405dc01d21777a37",
+   "aspa-76efa4a4b66dc179",
+   "aspa-4be75d9c2e9d88a8"
+  ]
+ }
+}

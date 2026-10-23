@@ -1,0 +1,99 @@
+{
+ "components": [
+  "MN",
+  "SC",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUB_A13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1360.58228,
+   1394.08228,
+   1450.58228,
+   1447.58228
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CUB_A13",
+    [
+     "SC"
+    ],
+    [
+     0.005829056682
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SC"
+    ],
+    [
+     0.001111708744
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.003184938092
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SC"
+    ],
+    [
+     0.01877922841
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 2598, 2600 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 635",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MN-SC-p635; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MN-SC-p635",
+  "record_ids": [
+   "aspa-38e59ccd7f63f96a",
+   "aspa-ce463269deac57d4",
+   "aspa-669cfc747f2475fd",
+   "aspa-3197c9f29e0dac5d"
+  ]
+ }
+}

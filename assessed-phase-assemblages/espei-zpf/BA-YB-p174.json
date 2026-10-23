@@ -1,0 +1,160 @@
+{
+ "components": [
+  "BA",
+  "YB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   691.2967637,
+   668.2967637,
+   696.2967637,
+   1034.796764,
+   901.2967637,
+   949.7967637
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "YB"
+    ],
+    [
+     0.4361875736
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.8791643144
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     0.9607521208
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.4617150468
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.1558859072
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.7895678888
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 12(4), 502-504 (1991) doi:10.1007/bf02645985; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 174",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram BA-YB-p174; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "BA-YB-p174",
+  "record_ids": [
+   "aspa-18658f85ab363eed",
+   "aspa-723d73f638169397",
+   "aspa-3fe5ef856ce79420",
+   "aspa-5133cde39da5255f",
+   "aspa-c7f46d48e9aa49c7",
+   "aspa-74b33a353a982348"
+  ]
+ }
+}

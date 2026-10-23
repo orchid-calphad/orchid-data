@@ -1,0 +1,151 @@
+{
+ "components": [
+  "CO",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   534.3346425,
+   1151.334643,
+   1025.834643,
+   1458.834643,
+   2335.834643,
+   2115.334643
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.0855772093
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.6234814383
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.02597702005
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.1236411957
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.3169661793
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.3810739459
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.7176397205
+    ]
+   ]
+  ]
+ ],
+ "reference": "W. Koster and E. Horn, Z. Metallkd., 43, 444-449 (1952) doi:10.1515/ijmr-1952-431206; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 313",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-RU-p313; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-RU-p313",
+  "record_ids": [
+   "aspa-bbc0f2a32d2809d6",
+   "aspa-da2ce1427bcbaac1",
+   "aspa-baeb4e79ed3aee4d",
+   "aspa-2061bb4bc59c86b2",
+   "aspa-8af72be10f4f1f0c",
+   "aspa-956123246f1d8f8c"
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "components": [
+  "AU",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1212.484445,
+   1031.984445,
+   1868.484445,
+   1692.484445
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.1403692078
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.593857261
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.3260690618
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.5207786123
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams, 6(1), 46-56 (1985) doi:10.1007/bf02871187; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 128",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AU-PT-p128; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AU-PT-p128",
+  "record_ids": [
+   "aspa-08820e81c67d4710",
+   "aspa-506dd09498d4bbdf",
+   "aspa-4cc1dab5be25fdc9",
+   "aspa-649227b88f6edf03"
+  ]
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "components": [
+  "NI",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID",
+  "NISR"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   703.596547,
+   546.596547,
+   876.596547,
+   1028.096547,
+   972.096547,
+   1491.596547
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NISR",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.2492399835
+    ]
+   ]
+  ],
+  [
+   [
+    "NISR",
+    [
+     "SR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "NISR",
+    [
+     "SR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "NISR",
+    [
+     "SR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.8460007483
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.9222521237
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.7362487685
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 319 (1991); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 693",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-SR-p693; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-SR-p693",
+  "record_ids": [
+   "aspa-f23a52130bfc0023",
+   "aspa-08b7543afabae225",
+   "aspa-d370b9ffd92ef79f",
+   "aspa-2b8ea93287a61e09",
+   "aspa-d224393a5ef3f9ed",
+   "aspa-5b690f3f421583bf"
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "components": [
+  "NI",
+  "RE",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1425.700925,
+   1353.200925,
+   2178.700925,
+   3034.700925,
+   1837.200925,
+   2386.700925
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "RE"
+    ],
+    [
+     0.06378678821
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RE"
+    ],
+    [
+     0.1135903879
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.9377273411
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.9402300345
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.3706170052
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.06003274803
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RE"
+    ],
+    [
+     0.1095860783
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.3320755261
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.8591427667
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 13(3), 335 (1992) doi:10.1007/bf02667572; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 690",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-RE-p690; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-RE-p690",
+  "record_ids": [
+   "aspa-bebf698c092c3aed",
+   "aspa-6a4a5d798a281bb2",
+   "aspa-7ee388b92856ca9e",
+   "aspa-3ec2361b136a11ba",
+   "aspa-5b5e7253e146237e",
+   "aspa-884a38268b481531"
+  ]
+ }
+}

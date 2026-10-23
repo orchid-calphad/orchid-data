@@ -17,12 +17,12 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123492792,
+ "total_bytes": 123494802,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 9084,
-   "sha256": "4432f5a55ea7210b7e0659cc24fc00b967be1bdd3fe37e65e3acc472a678364a"
+   "bytes": 10360,
+   "sha256": "5fcbde56869863a69d735632bb6e6c3aaa8adc2a34ba5b843a62434ae51d81fb"
   },
   {
    "path": "LICENSE",
@@ -41,8 +41,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 5016,
-   "sha256": "a4a19ad9c672a1b7faec66085188df94e054808990f495d32323c542a3bd93e5"
+   "bytes": 5750,
+   "sha256": "ddb3c1a77e12648d117c0329361b858e3aa4c125809527cc377db4b5ae3e3c37"
   },
   {
    "path": "parquet/MANIFEST.json",

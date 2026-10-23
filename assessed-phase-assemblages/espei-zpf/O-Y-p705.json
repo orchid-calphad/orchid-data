@@ -1,0 +1,160 @@
+{
+ "components": [
+  "O",
+  "Y",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1366.391784,
+   1574.391784,
+   1761.391784,
+   1888.891784,
+   2431.891784,
+   1886.391784
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "O"
+    ],
+    [
+     0.04885328637
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.1052656305
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "O"
+    ],
+    [
+     0.1434578386
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.05130599698
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.2632902715
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.2716995651
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 19(4), 402 (1998) doi:10.1361/105497198770342193; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 705",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram O-Y-p705; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "O-Y-p705",
+  "record_ids": [
+   "aspa-f1e26e048300c3fa",
+   "aspa-d81fa512a3b1237a",
+   "aspa-d8e4214e1e8d844e",
+   "aspa-ffd357d18250e057",
+   "aspa-4920bbbea62e21e5",
+   "aspa-d82f5da39a94894a"
+  ]
+ }
+}

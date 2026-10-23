@@ -1,0 +1,97 @@
+{
+ "components": [
+  "NI",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "A1_FCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1218.387161,
+   626.8871612,
+   1917.387161,
+   1922.887161
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     0.5213096853
+    ]
+   ]
+  ],
+  [
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     0.4997734825
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.4136286712
+    ]
+   ]
+  ],
+  [
+   [
+    "A1_FCC",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.8899293432
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 31(3), 322 (2010) doi:10.1007/s11669-010-9701-0; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 689",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram NI-PT-p689; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "NI-PT-p689",
+  "record_ids": [
+   "aspa-28e9c6249f66cd41",
+   "aspa-1eaa9de6e8028bf7",
+   "aspa-3c3e3368481eee6d",
+   "aspa-23637de697d3e98c"
+  ]
+ }
+}

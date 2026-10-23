@@ -1,0 +1,161 @@
+{
+ "components": [
+  "CU",
+  "MN",
+  "VA"
+ ],
+ "phases": [
+  "CBCC_A12",
+  "CUB_A13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   988.518821,
+   706.518821,
+   597.518821,
+   1051.518821,
+   1411.018821,
+   1280.018821
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     0.3736378842
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.659946015
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     0.1273728487
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.9117169761
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.4206885211
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.6724594822
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 19(2), 180 (1998) doi:10.1361/105497198770342661; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 357",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-MN-p357; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-MN-p357",
+  "record_ids": [
+   "aspa-5f3e57ab9b0c7ffc",
+   "aspa-9edf0eaeaf2a1983",
+   "aspa-0247630c8b3f4878",
+   "aspa-cec22b230da955fc",
+   "aspa-e1353c8d0e3c1b22",
+   "aspa-8baa0087513612f5"
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "components": [
+  "CR",
+  "NI",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1577.012103,
+   818.512103,
+   1253.012103,
+   1168.012103,
+   1662.512103,
+   1822.012103,
+   1945.012103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.1038475303
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.01725433689
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.6131456474
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.7895855357
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.04052938598
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.590371137
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.6364206965
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.7280192768
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.1541516686
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.2820393039
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.5798598245
+    ]
+   ]
+  ]
+ ],
+ "reference": "P. Nash, Phase Diagrams of Binary Nickel Alloys, P. Nash, ed., ASM International, Materials Park, OH, 75-84 (1991); H. Okamoto, J. Phase Equilibria, 18(2), 221 (1997) doi:10.1007/bf02665713; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 329",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-NI-p329; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-NI-p329",
+  "record_ids": [
+   "aspa-2e53a5a5989683f8",
+   "aspa-353b9ffbb8dbf6a9",
+   "aspa-7b92add114110a2f",
+   "aspa-1a191ce9edb5af77",
+   "aspa-0e8055991642b840",
+   "aspa-4fa6130e0abf4ba7",
+   "aspa-a3d958dbc5188cab"
+  ]
+ }
+}

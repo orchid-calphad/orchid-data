@@ -1,0 +1,115 @@
+{
+ "components": [
+  "AG",
+  "IR",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1003.76128,
+   1833.76128,
+   2131.76128,
+   2554.26128
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.01725433689
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.02326080117
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.4997736341
+    ]
+   ]
+  ]
+ ],
+ "reference": "I. Karakaya and W.T. Thompson, Bull. Alloy Phase Diagrams, 7(4), 359-360 (1986) doi:10.1007/bf02873021; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 55",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-IR-p55; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AG-IR-p55",
+  "record_ids": [
+   "aspa-c865d44b139be02d",
+   "aspa-91847faeb097017c",
+   "aspa-a202908fae422eb3",
+   "aspa-832dd1ba50b51542"
+  ]
+ }
+}

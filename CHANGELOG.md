@@ -1,5 +1,19 @@
 # Changelog
 
+## Unreleased — assessed phase assemblages v1 (2026-10-23)
+
+New dataset **ORCHID assessed phase assemblages (binary systems)** (`assessed-phase-assemblages/`, Zenodo record
+`assessed-phase-assemblages`, 10.5281/zenodo.PENDING-assessed-phase-assemblages, `hasPart` of the umbrella; Version 1,
+machine-extracted): one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary
+diagrams compiled in Okamoto's Desk Handbook (annotation run-20261021h-full), evidence class `assessed_phase_diagram`.
+23,131 points from 2,178 diagrams (area centroid 21,618, pole of inaccessibility 1,513), with phase-registry ids,
+coordinate uncertainty from the axis calibration, naming basis, confidence, review state, a cross-check against the
+calculated SGTE diagrams (82.3% agreement where comparable) and citations (original evaluation first, the handbook
+as compilation). Two-phase points carry phases with unknown compositions; 11,962 also carry a drawing-based tie_line
+block (low credence). ESPEI ZPF datasets, one per diagram (1,070; default with null endpoints, and a tie-line
+variant), validated with ESPEI 0.9.1. Data only: no page images, crops or handbook text (build-time guard). Built by
+`tools/build_assessed_assemblages.py` (orchid-project.org).
+
 ## Unreleased — phase registry v0 (2026-10-23)
 
 New dataset **ORCHID phase registry (binary systems)** (`phases/`, Zenodo record `phase-registry`,

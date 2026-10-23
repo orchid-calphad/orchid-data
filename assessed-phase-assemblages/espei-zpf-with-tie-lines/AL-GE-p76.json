@@ -1,0 +1,120 @@
+{
+ "components": [
+  "AL",
+  "GE",
+  "VA"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   531.8353685,
+   710.3353685,
+   883.3353685,
+   778.3353685,
+   1076.835369
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.004222684086
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     0.9957898291
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.008226993607
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.458962084
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     0.9922860583
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.01798749806
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.2031868134
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.3811283177
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 14(1), 118-119 (1993) doi:10.1007/bf02652170; H. Okamoto, J. Phase Equilibria, 19(1), 86 (1998) doi:10.1361/105497198770342814; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 76",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-GE-p76; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-GE-p76",
+  "record_ids": [
+   "aspa-0da68d8caf786a65",
+   "aspa-65929d9c9905004c",
+   "aspa-37e9673d3d4cf13a",
+   "aspa-2b4970027c0bb680",
+   "aspa-dcdc21c52d5cd5d7"
+  ]
+ }
+}

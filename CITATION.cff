@@ -40,4 +40,7 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.PENDING-phase-registry"
     description: "ORCHID phase registry (binary systems) (Zenodo, v2026.10)"
+  - type: doi
+    value: "10.5281/zenodo.PENDING-assessed-phase-assemblages"
+    description: "ORCHID assessed phase assemblages (binary systems) (Zenodo, v2026.10)"
 keywords: [CALPHAD, thermodynamics, phase diagrams, convex hull, DFT, formation enthalpy, AI-ready data]

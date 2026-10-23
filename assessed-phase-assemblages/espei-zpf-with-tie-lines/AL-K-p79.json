@@ -1,0 +1,120 @@
+{
+ "components": [
+  "AL",
+  "K",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   304.6199549,
+   632.6199549,
+   1232.119955,
+   1144.119955,
+   1248.619955
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "K"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "K"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "K"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "K"
+    ],
+    [
+     0.9978096308
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "K"
+    ],
+    [
+     0.0317699589
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "K"
+    ],
+    [
+     0.03952830859
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "K"
+    ],
+    [
+     0.974784851
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "K"
+    ],
+    [
+     0.9717816189
+    ]
+   ]
+  ]
+ ],
+ "reference": "M. Ono, Nippon Kinzoku Gakkai-shi, 8(6), 269-276 (1944); J. Sangster and A.D. Pelton, J. Phase Equilibria, 14(3), 366 (1993) doi:10.1007/bf02668235; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 79",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-K-p79; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-K-p79",
+  "record_ids": [
+   "aspa-7fbc5ffbacf1da08",
+   "aspa-f6f6881c771217d1",
+   "aspa-0abf5de76d9c578e",
+   "aspa-dd134e89e4d00847",
+   "aspa-1e77136b64a4dee0"
+  ]
+ }
+}

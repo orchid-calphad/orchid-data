@@ -1,0 +1,84 @@
+{
+ "components": [
+  "RE",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2658.448753,
+   3322.448753,
+   3011.448753
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.3960992037
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.6184730191
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.4982709567
+    ]
+   ]
+  ]
+ ],
+ "reference": "E. Rudy, B. Kietter, and H. Froelich, Z. Metallkd., 53, 90-92 (1962) doi:10.1515/ijmr-1962-530206; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 767",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram RE-RU-p767; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "RE-RU-p767",
+  "record_ids": [
+   "aspa-202dad6baec505c3",
+   "aspa-a8274526ce6eb45b",
+   "aspa-59cf7fd74680b261"
+  ]
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "components": [
+  "CO",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "COPT_L10",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   752.7656553,
+   626.2656553,
+   382.2656553,
+   893.7656553,
+   1926.765655
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COPT_L10",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.4197254123
+    ]
+   ]
+  ],
+  [
+   [
+    "COPT_L10",
+    [
+     "PT"
+    ],
+    [
+     0.5592279287
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COPT_L10",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.7357311126
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COPT_L10",
+    [
+     "PT"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PT"
+    ],
+    [
+     0.6612297687
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.4012250785
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 22(5), 591 (2001) doi:10.1361/105497101770332848; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 312",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-PT-p312; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-PT-p312",
+  "record_ids": [
+   "aspa-12a16a7f02dbc181",
+   "aspa-5dbfa692aeccf46f",
+   "aspa-acf0fcad079ad4cf",
+   "aspa-e930563df7eb2127",
+   "aspa-b8d45d1e0524c7b6"
+  ]
+ }
+}

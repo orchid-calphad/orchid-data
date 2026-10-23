@@ -1,0 +1,163 @@
+{
+ "components": [
+  "AS",
+  "U",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "ORTHORHOMBIC_A20",
+  "TETRAGONAL_U",
+  "U3AS4_D73",
+  "UAS_B1"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2878.579899,
+   1626.579899,
+   617.5798987,
+   1005.579899,
+   1224.579899,
+   2044.079899
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.8686706487
+    ]
+   ]
+  ],
+  [
+   [
+    "U3AS4_D73",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.4642353871
+    ]
+   ]
+  ],
+  [
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A20",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.923980174
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 330, 333-334 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 113",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AS-U-p113; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AS-U-p113",
+  "record_ids": [
+   "aspa-3d45b1c145e426e2",
+   "aspa-5f36079f66b9842c",
+   "aspa-c1d742363fa17927",
+   "aspa-bd6062237e7e6c00",
+   "aspa-bdf58f86eda3f5f7",
+   "aspa-f5df9a4eb3f3e488"
+  ]
+ }
+}

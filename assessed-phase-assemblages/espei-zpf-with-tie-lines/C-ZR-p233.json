@@ -1,0 +1,165 @@
+{
+ "components": [
+  "C",
+  "ZR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "GRAPHITE_A9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   2172.054527,
+   2135.554527,
+   1643.054527,
+   2762.554527,
+   4253.054527,
+   3393.054527,
+   3787.554527
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "C"
+    ],
+    [
+     0.4131804407
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "C"
+    ],
+    [
+     0.4997736341
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "C"
+    ],
+    [
+     0.3696335747
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.05429419995
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "C"
+    ],
+    [
+     0.3721362682
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.4066734378
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "C"
+    ],
+    [
+     0.4917650151
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.6361704272
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.7460386696
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 17(2), 162 (1996) doi:10.1007/bf02665797; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 233",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-ZR-p233; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-ZR-p233",
+  "record_ids": [
+   "aspa-9a881259317dc096",
+   "aspa-3b96364060ef8838",
+   "aspa-fa04fd61c91fa4e3",
+   "aspa-b609a149acb4d5fc",
+   "aspa-6ff7ab7b18a6f48a",
+   "aspa-e67d853badc8c98f",
+   "aspa-fdf74257e4bb1841"
+  ]
+ }
+}

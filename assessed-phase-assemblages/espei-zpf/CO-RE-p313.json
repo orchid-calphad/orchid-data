@@ -1,0 +1,129 @@
+{
+ "components": [
+  "CO",
+  "RE",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1367.077186,
+   1395.077186,
+   1428.577186,
+   3012.077186,
+   2426.077186
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.6089570225
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RE"
+    ],
+    [
+     0.0665452161
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.1576984467
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.3860823652
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RE"
+    ],
+    [
+     0.5463517817
+    ]
+   ]
+  ]
+ ],
+ "reference": "O.M. Barabash and Yu.N. Koval, ed., Crystal Structures of Metals and Alloys, Naukova Dumka, Kiev, 241-242 (1986); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 313",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CO-RE-p313; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CO-RE-p313",
+  "record_ids": [
+   "aspa-8ec898a8b2400266",
+   "aspa-c097594c0578b39a",
+   "aspa-9624b13bb361201b",
+   "aspa-75653dffd719eff7",
+   "aspa-4be5d2197c6d6d56"
+  ]
+ }
+}

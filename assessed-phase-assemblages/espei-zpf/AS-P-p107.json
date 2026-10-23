@@ -1,0 +1,159 @@
+{
+ "components": [
+  "AS",
+  "P"
+ ],
+ "phases": [
+  "ASP",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   925.1112233,
+   859.6112233,
+   845.6112233,
+   1056.611223,
+   919.6112233,
+   1001.111223
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "P"
+    ],
+    [
+     0.06704605802
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ASP",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2548617805
+    ]
+   ]
+  ],
+  [
+   [
+    "ASP",
+    [
+     "P"
+    ],
+    [
+     0.4161328808
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.605451129
+    ]
+   ]
+  ],
+  [
+   [
+    "ASP",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.5543652525
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.2523575708
+    ]
+   ]
+  ]
+ ],
+ "reference": "I. Karakaya and W.T. Thompson, J. Phase Equilibria, 12(3), 343-346 (1991) doi:10.1007/bf02649923; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 107",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AS-P-p107; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AS-P-p107",
+  "record_ids": [
+   "aspa-39c94c42d762ffd2",
+   "aspa-50229bd9b4670203",
+   "aspa-1bf99d0b8e94d5d3",
+   "aspa-fc7248ed11c3a19d",
+   "aspa-d29fe19ed2dd71ea",
+   "aspa-5cc3c2966679f3c6"
+  ]
+ }
+}

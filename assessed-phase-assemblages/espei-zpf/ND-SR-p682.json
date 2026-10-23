@@ -1,0 +1,146 @@
+{
+ "components": [
+  "ND",
+  "SR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1288.460446,
+   1151.960446,
+   1175.460446,
+   1240.460446,
+   1317.960446
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.6049326402
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     0.02746189897
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.5273021416
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.06853093695
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.1201176554
+    ]
+   ]
+  ]
+ ],
+ "reference": "K.K. Eshnov, M.A. Zukhuritdinov, A.V. Vakhobov, and T.D. Zhurayev, Russ. Metall., (1), 171-173 (1978); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 682",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram ND-SR-p682; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "ND-SR-p682",
+  "record_ids": [
+   "aspa-e863b73cc6239c9f",
+   "aspa-611790067a6d8a52",
+   "aspa-1faabaf7e732b1b8",
+   "aspa-2fe34efacaa67738",
+   "aspa-11b8b05389db23d7"
+  ]
+ }
+}

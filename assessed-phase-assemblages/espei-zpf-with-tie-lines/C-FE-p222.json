@@ -1,0 +1,111 @@
+{
+ "components": [
+  "C",
+  "FE",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1061.721959,
+   1383.221959,
+   1565.221959,
+   1729.721959,
+   1757.221959
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     0.001183269897
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.01718138391
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.03355445371
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.0569266984
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.1200442576
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.1205441986
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     0.001933181491
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equilibria, 13(5), 543-565 (1992) doi:10.1007/bf02665767; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 222",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-FE-p222; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-FE-p222",
+  "record_ids": [
+   "aspa-ab5966aa25dfa1c6",
+   "aspa-8b99efec882bacfe",
+   "aspa-ce557366ea2ee0fe",
+   "aspa-ac926404ac415934",
+   "aspa-661aefdbd2d38228"
+  ]
+ }
+}

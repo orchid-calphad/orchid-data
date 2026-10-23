@@ -1,0 +1,53 @@
+{
+ "components": [
+  "CS",
+  "RB",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   281.1511737,
+   306.1511737
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "RB"
+    ],
+    [
+     0.8281270148
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     0.4732450836
+    ]
+   ]
+  ]
+ ],
+ "reference": "C.W. Bale and A.D. Pelton, Bull. Alloy Phase Diagrams, 4(4), 382-384 (1983) doi:10.1007/bf02868087; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 347",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CS-RB-p347; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CS-RB-p347",
+  "record_ids": [
+   "aspa-64f27cf70433a777",
+   "aspa-b2e49946667e2147"
+  ]
+ }
+}

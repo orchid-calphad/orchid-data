@@ -1,0 +1,83 @@
+{
+ "components": [
+  "GE",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1332.027694,
+   1446.027694,
+   1583.527694
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     0.6705429326
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.456182588
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.3259636872
+    ]
+   ]
+  ]
+ ],
+ "reference": "C. Bergman, R. Chastel, and R. Castanet, J. Phase Equilibria, 13(2), 113-118 (1992) doi:10.1007/bf02667471; R.W. Olesinski and G.J. Abbaschian, Bull. Alloy Phase Diagrams, 5(2), 180- 183 (1984) doi:10.1007/bf02868957; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 482",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram GE-SI-p482; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "GE-SI-p482",
+  "record_ids": [
+   "aspa-ea7bb973d6a0023e",
+   "aspa-3be2cd278fc53063",
+   "aspa-567dbaa3b955eee0"
+  ]
+ }
+}

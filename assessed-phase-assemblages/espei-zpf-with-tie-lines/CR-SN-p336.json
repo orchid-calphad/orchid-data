@@ -1,0 +1,133 @@
+{
+ "components": [
+  "CR",
+  "SN",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1131.260725,
+   396.2607247,
+   1045.760725,
+   1908.260725,
+   1813.260725,
+   1692.760725
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.008226993607
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.01623561265
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.01823776741
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.965256969
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.6008648027
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.01423345789
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.1558859072
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.3921401689
+    ]
+   ]
+  ]
+ ],
+ "reference": "M. Venkatraman and J.P. Neumann, Bull. Alloy Phase Diagrams, 9(2), 159-162 (1988); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 336",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CR-SN-p336; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CR-SN-p336",
+  "record_ids": [
+   "aspa-661c3668d2cfcc79",
+   "aspa-dec69f30dbc4917f",
+   "aspa-ee1c96fc82973e6a",
+   "aspa-f0a77dfce99098c1",
+   "aspa-45b7b652c0080456",
+   "aspa-4243d37a873da19b"
+  ]
+ }
+}

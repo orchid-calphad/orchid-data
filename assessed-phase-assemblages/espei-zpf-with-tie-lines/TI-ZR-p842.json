@@ -1,0 +1,133 @@
+{
+ "components": [
+  "TI",
+  "ZR",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   825.4571902,
+   1444.95719,
+   1000.95719,
+   973.4571902,
+   2085.45719,
+   1900.95719
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.4947474164
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.5227945643
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.1479143823
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.2157784633
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.7852357337
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.8318140329
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.4466665914
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.620208319
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.667537881
+    ]
+   ]
+  ]
+ ],
+ "reference": "J.L. Murray, Phase Diagrams of Binary Titanium Alloys, J.L. Murray, ed., ASM International, Metals Park, OH, 340-345 (1987); H. Okamoto, J. Phase Equilibria, 16(4), 371 (1995) doi:10.1007/bf02645305; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 842",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram TI-ZR-p842; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "TI-ZR-p842",
+  "record_ids": [
+   "aspa-c6146e9e8d772012",
+   "aspa-014b73b05beb1dae",
+   "aspa-f5bd4f72c8c166e1",
+   "aspa-98dc05f12516b4e0",
+   "aspa-b6383910b2aaf9e0",
+   "aspa-ca220987ddcfe272"
+  ]
+ }
+}

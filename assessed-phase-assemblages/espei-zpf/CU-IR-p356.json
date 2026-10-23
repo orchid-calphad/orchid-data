@@ -1,0 +1,102 @@
+{
+ "components": [
+  "CU",
+  "IR",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1189.265655,
+   1915.265655,
+   1841.765655
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.5172748414
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     0.9762688202
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.5883513354
+    ]
+   ]
+  ]
+ ],
+ "reference": "D.J. Chakrabarti and D.E. Laughlin, Bull. Alloy Phase Diagrams, 8(2), 132-136 (1987); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 356",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram CU-IR-p356; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "CU-IR-p356",
+  "record_ids": [
+   "aspa-5ba5a55783d39866",
+   "aspa-9ceecac5e30c729e",
+   "aspa-c6a7aab6e017f8f4"
+  ]
+ }
+}

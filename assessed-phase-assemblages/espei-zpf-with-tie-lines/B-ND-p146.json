@@ -1,0 +1,141 @@
+{
+ "components": [
+  "B",
+  "ND"
+ ],
+ "phases": [
+  "LIQUID",
+  "NDB4_D1E",
+  "NDB6_D21"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1825.463154,
+   1476.963154,
+   2449.963154,
+   2095.463154,
+   2618.463154,
+   2760.463154
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NDB6_D21",
+    [
+     "ND"
+    ],
+    [
+     0.1193465828
+    ]
+   ]
+  ],
+  [
+   [
+    "NDB6_D21",
+    [
+     "ND"
+    ],
+    [
+     0.1433724399
+    ]
+   ],
+   [
+    "NDB4_D1E",
+    [
+     "ND"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.6078723443
+    ]
+   ]
+  ],
+  [
+   [
+    "NDB4_D1E",
+    [
+     "ND"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.3230658297
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.04326470191
+    ]
+   ],
+   [
+    "NDB6_D21",
+    [
+     "ND"
+    ],
+    [
+     0.09482018699
+    ]
+   ]
+  ],
+  [
+   [
+    "NDB6_D21",
+    [
+     "ND"
+    ],
+    [
+     0.1433724399
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.2487358342
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.K. Liao, K.E. Spear, and M.E. Schlesinger, J. Phase Equilibria, 17(4), 335- 339 (1996) doi:10.1007/bf02665560; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 146",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram B-ND-p146; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "B-ND-p146",
+  "record_ids": [
+   "aspa-4a2ca1d6d2515683",
+   "aspa-5f6d152d48fcf127",
+   "aspa-298543b53c6a4a9f",
+   "aspa-2b558129c4eb1b6a",
+   "aspa-e0e54cbfddde3ff5",
+   "aspa-17a6a6b92a62aba5"
+  ]
+ }
+}

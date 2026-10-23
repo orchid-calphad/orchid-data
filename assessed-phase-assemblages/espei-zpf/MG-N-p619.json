@@ -1,0 +1,90 @@
+{
+ "components": [
+  "MG",
+  "N",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "MG3N2_D53"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   597.7326873,
+   1149.232687
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG3N2_D53",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.1993122222
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG3N2_D53",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "N"
+    ],
+    [
+     0.1997627201
+    ]
+   ]
+  ]
+ ],
+ "reference": "H.A. Wriedt, Phase Diagrams of Binary Magnesium Alloys, A.A. Nayeb- Hashemi and J.B. Clark, ed., ASM International, Metals Park, OH, 205-208 (1988); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 619",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MG-N-p619; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MG-N-p619",
+  "record_ids": [
+   "aspa-9e34c794ce266bd5",
+   "aspa-37944ddebaf5e25c"
+  ]
+ }
+}

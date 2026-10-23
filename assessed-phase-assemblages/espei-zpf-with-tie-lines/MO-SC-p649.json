@@ -1,0 +1,142 @@
+{
+ "components": [
+  "MO",
+  "SC",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1439.96772,
+   1625.46772,
+   1678.96772,
+   2064.46772,
+   1705.96772,
+   2542.96772
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.003439133361
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SC"
+    ],
+    [
+     0.9961078317
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.9840876254
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.9946053059
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.00644418492
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.7186414044
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.9249882781
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.9895968866
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.646520167
+    ]
+   ]
+  ]
+ ],
+ "reference": "L. Brewer and R.H. Lamoreaux, Molybdenum: Physico-Chemical Properties of Its Compounds and Alloys, Special Issue No. 7, International Atomic Energy Agency, Vienna, 317-319 (1980) doi:10.1007/bf02881197; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 649",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram MO-SC-p649; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "MO-SC-p649",
+  "record_ids": [
+   "aspa-df461648b54c7e48",
+   "aspa-10054ef385905a3e",
+   "aspa-65762f77a91d9c8e",
+   "aspa-5983d22c898e49c3",
+   "aspa-a698db8268fd1541",
+   "aspa-4950734d1cfd6d81"
+  ]
+ }
+}

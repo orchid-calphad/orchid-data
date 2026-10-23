@@ -1,0 +1,166 @@
+{
+ "components": [
+  "TE",
+  "YB",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "YBTE_B1"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   494.391784,
+   670.391784,
+   1232.391784,
+   1960.891784,
+   1448.891784
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HEXAGONAL_A8",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.2493525193
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.7501944458
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.305446815
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.1561959209
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.6895925726
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 3474-3475 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 835",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram TE-YB-p835; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "TE-YB-p835",
+  "record_ids": [
+   "aspa-e8f85e268fbf5eea",
+   "aspa-d428fda8fae80473",
+   "aspa-4dbe1f9651f227a0",
+   "aspa-b920985b9ecca060",
+   "aspa-7cd548b6c4cda27b"
+  ]
+ }
+}

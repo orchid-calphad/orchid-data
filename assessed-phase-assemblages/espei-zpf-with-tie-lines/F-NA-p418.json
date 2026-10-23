@@ -1,0 +1,121 @@
+{
+ "components": [
+  "F",
+  "NA",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NAF_B1"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   321.9435274,
+   798.4435274,
+   1342.943527
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NAF_B1",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.2496736029
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NAF_B1",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.2671823572
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "F"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "F"
+    ],
+    [
+     0.3407191256
+    ]
+   ]
+  ]
+ ],
+ "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1693, 1695 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 418",
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram F-NA-p418; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Variant with tie-lines: two-phase points with a tie_line block carry its endpoint compositions (isotherm through the point intersected with the drawn boundaries); caveat: drawing-based; boundary positions in assessed diagrams carry low credence -- use as weak/soft constraints.",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "F-NA-p418",
+  "record_ids": [
+   "aspa-57aa0918b3c29794",
+   "aspa-9c7499d99ae1d594",
+   "aspa-9226668775eddf74"
+  ]
+ }
+}
