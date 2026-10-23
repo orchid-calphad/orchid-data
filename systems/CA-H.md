@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-H.html · Markdown: https://dat
 
 33 accepted literature values from 1 paper(s) (experimental 18, model 3, DFT 12); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-H.json) · [CSV](https://data.orchid-project.org/systems/CA-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-H/CaH-11Wan.json) · [Markdown](https://data.orchid-project.org/systems/CA-H.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-H.json) · [CSV](https://data.orchid-project.org/systems/CA-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-H/CaH-11Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-H.html) · [Markdown](https://data.orchid-project.org/systems/CA-H.md)
 
 Table: Accepted values by evidence class
 

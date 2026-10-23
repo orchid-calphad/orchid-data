@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-CA.html · Markdown: https://da
 
 97 accepted literature values from 2 paper(s) (experimental 61, model 26, unspecified 10); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AG-CA.html) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
 
 Table: Accepted values by evidence class
 

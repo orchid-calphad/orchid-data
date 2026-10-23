@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IR-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IR-W.json) · [CSV](https://data.orchid-project.org/systems/IR-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-W/IrW-20Hua.json) · [Markdown](https://data.orchid-project.org/systems/IR-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IR-W.json) · [CSV](https://data.orchid-project.org/systems/IR-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-W/IrW-20Hua.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IR-W.html) · [Markdown](https://data.orchid-project.org/systems/IR-W.md)
 
 ## Calculated phase diagrams
 

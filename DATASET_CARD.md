@@ -50,6 +50,14 @@ configs:
   data_files:
   - split: full
     path: parquet/hull_vertices.parquet
+- config_name: phases
+  data_files:
+  - split: full
+    path: phases/registry.parquet
+- config_name: structure_types
+  data_files:
+  - split: full
+    path: phases/structure_types.parquet
 dataset_info:
 - config_name: literature_values
   features:
@@ -647,24 +655,122 @@ dataset_info:
   - name: full
     num_examples: 28143
   download_size: 679954
+- config_name: phases
+  features:
+  - name: id
+    dtype: string
+  - name: system
+    dtype: string
+  - name: preferred_name
+    dtype: string
+  - name: status
+    dtype: string
+  - name: structure_basis
+    dtype: string
+  - name: confidence
+    dtype: string
+  - name: structure_type
+    dtype: string
+  - name: prototype
+    dtype: string
+  - name: strukturbericht
+    dtype: string
+  - name: pearson
+    dtype: string
+  - name: space_group_number
+    dtype: int32
+  - name: space_group_symbol
+    dtype: string
+  - name: label
+    dtype: string
+  - name: tdb_names
+    dtype: string
+  - name: n_models
+    dtype: int32
+  - name: n_names
+    dtype: int32
+  - name: stoichiometry
+    dtype: string
+  - name: stable_T_min_K
+    dtype: float64
+  - name: stable_T_max_K
+    dtype: float64
+  - name: literature_values
+    dtype: int32
+  - name: literature_accepted_values
+    dtype: int32
+  - name: n_candidates
+    dtype: int32
+  - name: review_reasons
+    dtype: string
+  - name: references_first5
+    dtype: string
+  - name: total_papers
+    dtype: int32
+  - name: tdb_first_model
+    dtype: string
+  - name: tdb_phase_line
+    dtype: string
+  - name: tdb_constituent_line
+    dtype: string
+  splits:
+  - name: full
+    num_examples: 10496
+  download_size: 451681
+- config_name: structure_types
+  features:
+  - name: id
+    dtype: string
+  - name: prototype
+    dtype: string
+  - name: prototype_spellings
+    dtype: string
+  - name: strukturbericht
+    dtype: string
+  - name: pearson
+    dtype: string
+  - name: space_group_number
+    dtype: int32
+  - name: space_group_symbol
+    dtype: string
+  - name: stoichiometry
+    dtype: string
+  - name: verification
+    dtype: string
+  - name: registry_phases
+    dtype: int32
+  - name: n_sources
+    dtype: int32
+  - name: source_citations
+    dtype: string
+  - name: source_dois
+    dtype: string
+  splits:
+  - name: full
+    num_examples: 1563
+  download_size: 53094
 ---
 
 # ORCHID data: analysis-ready tables
 
 **ORCHID** (Open Repository for CALPHAD Hypotheses, Intelligence, and Discovery) publishes thermodynamic and
 phase-equilibrium values read from published papers, binary phase diagrams calculated from assessed CALPHAD
-databases, and binary convex hulls from two DFT databases. This card describes the Parquet tables in `parquet/`.
-They are derived from the JSON files in `literature/`, `phase-diagrams/` and `hulls/` of the same release and add
-nothing to them; the JSON stays the reference format.
+databases, binary convex hulls from two DFT databases, and a registry of the phases of every binary system. This card
+describes the Parquet tables in `parquet/` and `phases/`. They are derived from the JSON files in `literature/`,
+`phase-diagrams/`, `hulls/` and `phases/` of the same release and add nothing to them; the JSON stays the reference
+format.
 
 - Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`)
 - Status: **Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.**
-- Zenodo: four citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
+- Zenodo: five citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
   calculated binary phase diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), binary convex hulls (doi:10.5281/zenodo.PENDING-hulls), DFT-vs-experiment formation-enthalpy
-  benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark)
+  benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark), phase registry (binary systems)
+  (doi:10.5281/zenodo.PENDING-phase-registry)
 - Homepage: <https://orchid-project.org> · data: <https://data.orchid-project.org>
 - Field reference: `literature/SCHEMA.md`, hull format: `hulls/` (interval schema v1)
-- Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`)
+- Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`); the
+  `phases` and `structure_types` tables: `tools/build_phase_registry.py` (deterministic, `--check`; field reference
+  `phases/SCHEMA.md`)
 
 ## Tables
 
@@ -677,6 +783,38 @@ nothing to them; the JSON stays the reference format.
 | `phase_diagram_invariants` | 24,828 | invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
+| `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
+| `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
+
+### Phase registry tables (`phases`, `structure_types`)
+
+A structure type is given only when certain:
+
+- **Tier A** (`structure_basis = standard_name`): the TDB phase name encodes one structure (FCC_A1, BCC_B2, L12_FCC,
+  SIGMA, ...), and the model's stoichiometry and sublattices and the DFT ground state do not contradict it.
+- **Tier B** (`dft_unique_match`, "DFT-supported"): a stoichiometric compound whose composition matches exactly one
+  on-hull entry in both Materials Project and OQMD, with the same space group, one structure type for that space group
+  and stoichiometry, and no other phase of the system at that composition.
+- **Tier C** (`assessment_declared`, confidence `assessor-stated`): the Hallstedt 2025 crystallographic table of the
+  SGTE collection (CC BY 4.0) gives exactly one structure for this phase name and system, tiers A/B do not contradict
+  it, and every model's composition or site ratio equals the listed compound.
+- `liquid`, `gas`: no prototype. Everything else has `status = needs_review` with candidates (in the JSON), or
+  `unresolved_no_candidates`.
+
+`phases` columns: `id` (`phase:<sorted lower-case elements>:<slug>`), `system`, `preferred_name` (TDB name used by most
+assessments), `status`, `structure_basis` (tier, above), `confidence`, `structure_type` (id in `structure_types`),
+`prototype`, `strukturbericht`, `pearson`, `space_group_number`, `space_group_symbol`, `label`, `tdb_names`
+(`;`-joined TDB phase names), `n_models` (TDB phase declarations), `n_names` (names in all namespaces: TDB, paper
+labels, corpus ids, MP, OQMD), `stoichiometry` (`EL:x;...` when every model is stoichiometric and they agree),
+`stable_T_min_K` / `stable_T_max_K` (range over the calculated diagrams where the phase is stable), `literature_values`,
+`literature_accepted_values`, `n_candidates`, `review_reasons` (`;`-joined), `references_first5` (DOIs, assessments
+first), `total_papers`, `tdb_first_model`, `tdb_phase_line`, `tdb_constituent_line` (file and verbatim PHASE /
+CONSTITUENT statements of the first model). The complete records (every name, every model with its verbatim TDB
+definition, stability per diagram, references) are in `phases/systems/<SYS>.json`.
+
+`structure_types` columns: `id`, `prototype`, `prototype_spellings` (`;`), `strukturbericht`, `pearson`,
+`space_group_number`, `space_group_symbol`, `stoichiometry`, `verification` (which source confirms the row),
+`registry_phases` (phases assigned this type), `n_sources`, `source_citations` (` | `-joined), `source_dois` (`;`).
 
 `parquet/MANIFEST.json` records for each table the row count, the Arrow schema, a content hash (SHA-256 of the
 rows as canonical JSON, independent of the Parquet encoder) and the SHA-256 of every input file. All files are

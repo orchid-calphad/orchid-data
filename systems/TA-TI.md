@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TA-TI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-TI/TaTi-98Sau-LB.json) · [Markdown](https://data.orchid-project.org/systems/TA-TI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-TI/TaTi-98Sau-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TA-TI.html) · [Markdown](https://data.orchid-project.org/systems/TA-TI.md)
 
 ## Calculated phase diagrams
 

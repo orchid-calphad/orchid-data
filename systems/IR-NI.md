@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IR-NI.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IR-NI.json) · [CSV](https://data.orchid-project.org/systems/IR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-NI/IrNi-04Kor-LB.json) · [Markdown](https://data.orchid-project.org/systems/IR-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IR-NI.json) · [CSV](https://data.orchid-project.org/systems/IR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-NI/IrNi-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/IR-NI.html) · [Markdown](https://data.orchid-project.org/systems/IR-NI.md)
 
 Table: Accepted values by evidence class
 

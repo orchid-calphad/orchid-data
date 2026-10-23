@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-PR.html · Markdown: https://da
 
 38 accepted literature values from 1 paper(s) (experimental 26, model 12); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-PR.json) · [CSV](https://data.orchid-project.org/systems/CO-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-PR/CoPr-99Du.json) · [Markdown](https://data.orchid-project.org/systems/CO-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-PR.json) · [CSV](https://data.orchid-project.org/systems/CO-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-PR/CoPr-99Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-PR.html) · [Markdown](https://data.orchid-project.org/systems/CO-PR.md)
 
 Table: Accepted values by evidence class
 

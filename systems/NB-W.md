@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-W/NbW-22Zha.json) · [Markdown](https://data.orchid-project.org/systems/NB-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-W/NbW-22Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/NB-W.html) · [Markdown](https://data.orchid-project.org/systems/NB-W.md)
 
 ## Calculated phase diagrams
 

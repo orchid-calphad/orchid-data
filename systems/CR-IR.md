@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-IR.html · Markdown: https://da
 
 6 accepted literature values from 1 paper(s) (experimental 3, model 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-IR.json) · [CSV](https://data.orchid-project.org/systems/CR-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-IR/CrIr-09Zha.json) · [Markdown](https://data.orchid-project.org/systems/CR-IR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-IR.json) · [CSV](https://data.orchid-project.org/systems/CR-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-IR/CrIr-09Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CR-IR.html) · [Markdown](https://data.orchid-project.org/systems/CR-IR.md)
 
 Table: Accepted values by evidence class
 

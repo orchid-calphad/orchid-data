@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-DY.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-DY/CoDy-96Su.json) · [Markdown](https://data.orchid-project.org/systems/CO-DY.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-DY/CoDy-96Su.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-DY.html) · [Markdown](https://data.orchid-project.org/systems/CO-DY.md)
 
 ## Calculated phase diagrams
 

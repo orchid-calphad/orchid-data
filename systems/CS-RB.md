@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CS-RB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-RB/CsRb-11Ren.json) · [Markdown](https://data.orchid-project.org/systems/CS-RB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-RB/CsRb-11Ren.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CS-RB.html) · [Markdown](https://data.orchid-project.org/systems/CS-RB.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-SI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-SI/BeSi-05Pan.json) · [Markdown](https://data.orchid-project.org/systems/BE-SI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-SI/BeSi-05Pan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BE-SI.html) · [Markdown](https://data.orchid-project.org/systems/BE-SI.md)
 
 ## Calculated phase diagrams
 

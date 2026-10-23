@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-SE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SE/CuSe-08Du.json) · [Markdown](https://data.orchid-project.org/systems/CU-SE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SE/CuSe-08Du.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-SE.html) · [Markdown](https://data.orchid-project.org/systems/CU-SE.md)
 
 ## Calculated phase diagrams
 

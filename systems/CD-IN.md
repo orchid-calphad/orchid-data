@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-IN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-IN/CdIn-19Fis.json) · [Markdown](https://data.orchid-project.org/systems/CD-IN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-IN/CdIn-19Fis.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-IN.html) · [Markdown](https://data.orchid-project.org/systems/CD-IN.md)
 
 ## Calculated phase diagrams
 

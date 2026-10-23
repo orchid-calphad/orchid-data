@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-PT.html · Markdown: https://da
 
 74 accepted literature values from 1 paper(s) (experimental 33, model 41); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PT.json) · [CSV](https://data.orchid-project.org/systems/AG-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PT/AgPt-87Kar.json) · [Markdown](https://data.orchid-project.org/systems/AG-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PT.json) · [CSV](https://data.orchid-project.org/systems/AG-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PT/AgPt-87Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-PT.html) · [Markdown](https://data.orchid-project.org/systems/AG-PT.md)
 
 Table: Accepted values by evidence class
 

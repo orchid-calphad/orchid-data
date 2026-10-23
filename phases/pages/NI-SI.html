@@ -1,0 +1,985 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ni–Si phases — ORCHID phase registry</title>
+<meta name="description" content="Ni–Si system: 19 phases (tier A 8, tier C 5, liquid 1, needs_review 5); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/NI-SI.html">
+<link rel="alternate" type="text/markdown" href="NI-SI.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Ni–Si system: 19 phases (tier A 8, tier C 5, liquid 1, needs_review 5); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/NI-SI.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/NI-SI.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:a4-diamond","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:a4-diamond","corpus:phase:ni-si:diamond-a4","paper:10.1007/s11661-999-0249-8:(Si)","paper:10.1016/s0364-5916(03)00049-x:Si","tdb:NiSi-01Tok.tdb:DIAMOND_A4","tdb:NiSi-03Tok.tdb:DIAMOND_A4","tdb:NiSi-04Tok.tdb:DIAMOND_A4","tdb:NiSi-05Mie.tdb:DIAMOND_A4","tdb:NiSi-12Yua-condensed.tdb:DIAMOND_A4","tdb:NiSi-12Yua.tdb:DIAMOND_A4","tdb:NiSi-19Tan.tdb:DIAMOND_A4","tdb:NiSi-23Wit.tdb:DIAMOND_A4","tdb:NiSi-96Lin-LB.tdb:DIAMOND_A4","tdb:NiSi-99Du.tdb:DIAMOND_A4"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DIAMOND_A4","pearsonSymbol":"cF8","prototype":"C (diamond)","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a4-c-diamond-cf8","strukturbericht":"A4","termCode":"phase:ni-si:a4-diamond","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-a4-diamond"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:bcc-a2","tdb:NiSi-01Tok.tdb:BCC_A2","tdb:NiSi-03Tok.tdb:BCC_A2","tdb:NiSi-04Tok.tdb:BCC_A2","tdb:NiSi-05Mie.tdb:BCC_A2","tdb:NiSi-12Yua-condensed.tdb:BCC_A2","tdb:NiSi-12Yua.tdb:BCC_A2","tdb:NiSi-19Tan.tdb:BCC_A2","tdb:NiSi-23Wit.tdb:BCC_A2","tdb:NiSi-96Lin-LB.tdb:BCC_A2","tdb:NiSi-99Du.tdb:BCC_A2"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.1016/j.matchemphys.2012.04.028","@type":"ScholarlyArticle","name":"Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:ni-si:bcc-a2","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:fcc-4sl","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:fcc-4sl","paper:10.1016/j.matchemphys.2012.04.028:Ni3Si–L12","paper:10.1016/j.matchemphys.2012.04.028:NiSi3–L12","paper:10.1016/j.matchemphys.2012.04.028:NiSi–L10","tdb:NiSi-12Yua-condensed.tdb:FCC_4SL","tdb:NiSi-12Yua.tdb:FCC_4SL"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1016/j.matchemphys.2012.04.028","@type":"ScholarlyArticle","name":"Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012)."},{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.jallcom.2010.10.118","@type":"ScholarlyArticle","name":"Damien Connétable, Olivier Thomas, First-principles study of nickel-silicides ordered phases, Journal of Alloys and Compounds 509, 2639-2644 (2011)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_4SL","reviewStatus":"needs_review","termCode":"phase:ni-si:fcc-4sl","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-fcc-4sl"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:fcc-a1","paper:10.1007/s11661-999-0249-8:(Ni)","paper:10.1016/j.calphad.2005.08.001:fcc","paper:10.1016/s0364-5916(03)00049-x:(Ni)","tdb:NiSi-01Tok.tdb:FCC_A1","tdb:NiSi-03Tok.tdb:A1_FCC","tdb:NiSi-03Tok.tdb:FCC_A1","tdb:NiSi-04Tok.tdb:FCC_A1","tdb:NiSi-05Mie.tdb:FCC_A1","tdb:NiSi-12Yua-condensed.tdb:A1_FCC","tdb:NiSi-12Yua-condensed.tdb:FCC_A1","tdb:NiSi-12Yua.tdb:A1_FCC","tdb:NiSi-12Yua.tdb:FCC_A1","tdb:NiSi-19Tan.tdb:A1_FCC","tdb:NiSi-19Tan.tdb:FCC_A1","tdb:NiSi-23Wit.tdb:FCC_A1","tdb:NiSi-96Lin-LB.tdb:A1_FCC","tdb:NiSi-96Lin-LB.tdb:FCC_A1","tdb:NiSi-99Du.tdb:A1_FCC","tdb:NiSi-99Du.tdb:FCC_A1"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:ni-si:fcc-a1","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:fcc-l12","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:fcc-l12","corpus:phase:ni-si:l12-fcc","paper:10.1007/s11661-999-0249-8:β1","paper:10.1016/s0364-5916(03)00049-x:β1","tdb:NiSi-03Tok.tdb:L12_FCC","tdb:NiSi-19Tan.tdb:L12_FCC","tdb:NiSi-96Lin-LB.tdb:L12_FCC","tdb:NiSi-99Du.tdb:L12_FCC"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1007/bf02663838","@type":"ScholarlyArticle","name":"Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996)."},{"@id":"https://doi.org/10.1515/ijmr-1983-740105","@type":"ScholarlyArticle","name":"Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"L12_FCC","pearsonSymbol":"cP4","prototype":"AuCu3","reviewStatus":"assigned","spaceGroupNumber":221,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:l1-2-aucu3-cp4","strukturbericht":"L1_2","termCode":"phase:ni-si:fcc-l12","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-fcc-l12"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:hcp-a3","tdb:NiSi-01Tok.tdb:HCP_A3","tdb:NiSi-03Tok.tdb:HCP_A3","tdb:NiSi-04Tok.tdb:HCP_A3","tdb:NiSi-05Mie.tdb:HCP_A3","tdb:NiSi-12Yua-condensed.tdb:HCP_A3","tdb:NiSi-12Yua.tdb:HCP_A3","tdb:NiSi-19Tan.tdb:HCP_A3","tdb:NiSi-23Wit.tdb:HCP_A3","tdb:NiSi-96Lin-LB.tdb:HCP_A3","tdb:NiSi-99Du.tdb:HCP_A3"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.1016/j.matchemphys.2012.04.028","@type":"ScholarlyArticle","name":"Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:ni-si:hcp-a3","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:liquid","paper:10.1007/s11661-999-0249-8:L","paper:10.1016/j.calphad.2005.08.001:L","paper:10.1016/s0364-5916(03)00049-x:Liquid","tdb:NiSi-01Tok.tdb:LIQUID","tdb:NiSi-03Tok.tdb:LIQUID","tdb:NiSi-04Tok.tdb:LIQUID","tdb:NiSi-05Mie.tdb:LIQUID","tdb:NiSi-12Yua-condensed.tdb:LIQUID","tdb:NiSi-12Yua.tdb:LIQUID","tdb:NiSi-19Tan.tdb:LIQUID","tdb:NiSi-23Wit.tdb:LIQUID","tdb:NiSi-96Lin-LB.tdb:LIQUID","tdb:NiSi-99Du.tdb:LIQUID"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ni-si:liquid","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni2si-c37","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni2si-c37","mp:mp-aaaaabra","oqmd:oqmd-4675","paper:10.1007/bf02663838:δ","paper:10.1007/s11661-999-0249-8:δ","paper:10.1016/j.calphad.2005.08.001:δ","paper:10.1016/s0364-5916(03)00049-x:Ni2Si(δ)","paper:10.1016/s0364-5916(03)00049-x:δ","tdb:NiSi-01Tok.tdb:NI2SI_C37","tdb:NiSi-03Tok.tdb:NI2SI_C37","tdb:NiSi-04Tok.tdb:NI2SI_C37","tdb:NiSi-05Mie.tdb:NI2SI_C37","tdb:NiSi-12Yua-condensed.tdb:NI2SI_C37","tdb:NiSi-12Yua.tdb:NI2SI_C37","tdb:NiSi-19Tan.tdb:NI2SI_C37","tdb:NiSi-23Wit.tdb:NI2SI_C37","tdb:NiSi-96Lin-LB.tdb:NI2SI_C37","tdb:NiSi-99Du.tdb:NI2SI_C37"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI2SI_C37","pearsonSymbol":"oP12","prototype":"Co2Si","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c37-co2si-op12","strukturbericht":"C37","termCode":"phase:ni-si:ni2si-c37","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni2si-c37"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni2si-theta","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni2si-theta","paper:10.1007/bf02663838:θ","paper:10.1007/s11661-999-0249-8:θ","paper:10.1016/j.calphad.2005.08.001:θ","paper:10.1016/s0364-5916(03)00049-x:θ","tdb:NiSi-01Tok.tdb:NI2SI_THETA","tdb:NiSi-03Tok.tdb:NI2SI_THETA","tdb:NiSi-04Tok.tdb:NI2SI_THETA","tdb:NiSi-05Mie.tdb:NI2SI_THETA","tdb:NiSi-12Yua-condensed.tdb:NI2SI_THETA","tdb:NiSi-12Yua.tdb:NI2SI_THETA","tdb:NiSi-19Tan.tdb:NI2SI_THETA","tdb:NiSi-23Wit.tdb:NI2SI_THETA","tdb:NiSi-96Lin-LB.tdb:NI2SI_THETA","tdb:NiSi-99Du.tdb:NI2SI_THETA"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI2SI_THETA","pearsonSymbol":"hP6","prototype":"Ni2Si","reviewStatus":"assigned","spaceGroupNumber":182,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni2si-hp6","termCode":"phase:ni-si:ni2si-theta","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni2si-theta"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si-h","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si-h","paper:10.1007/s11661-999-0249-8:β3","paper:10.1016/j.calphad.2005.08.001:β3","paper:10.1016/s0364-5916(03)00049-x:β3","tdb:NiSi-01Tok.tdb:NI3SI_H","tdb:NiSi-03Tok.tdb:NI3SI_H","tdb:NiSi-04Tok.tdb:NI3SI_H","tdb:NiSi-05Mie.tdb:NI3SI_H","tdb:NiSi-12Yua-condensed.tdb:NI3SI_H","tdb:NiSi-12Yua.tdb:NI3SI_H","tdb:NiSi-19Tan.tdb:NI3SI_H","tdb:NiSi-23Wit.tdb:NI3SI_H","tdb:NiSi-96Lin-LB.tdb:NI3SI_H","tdb:NiSi-99Du.tdb:NI3SI_H"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI_H","reviewStatus":"needs_review","termCode":"phase:ni-si:ni3si-h","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si-h"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si-l12","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si-l12","paper:10.1016/j.calphad.2005.08.001:β1","tdb:NiSi-01Tok.tdb:NI3SI_L12","tdb:NiSi-04Tok.tdb:NI3SI_L12","tdb:NiSi-05Mie.tdb:NI3SI_L12","tdb:NiSi-23Wit.tdb:NI3SI_L12"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.1361/105497101770338798","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001)."},{"@id":"https://doi.org/10.2320/matertrans.45.1507","@type":"ScholarlyArticle","name":"Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004)."},{"@id":"https://doi.org/10.1007/bf02663838","@type":"ScholarlyArticle","name":"Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI_L12","reviewStatus":"needs_review","termCode":"phase:ni-si:ni3si-l12","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si-l12"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si-m","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si-m","paper:10.1007/s11661-999-0249-8:β2","paper:10.1016/j.calphad.2005.08.001:β2","paper:10.1016/s0364-5916(03)00049-x:β2","tdb:NiSi-01Tok.tdb:NI3SI_M","tdb:NiSi-03Tok.tdb:NI3SI_M","tdb:NiSi-04Tok.tdb:NI3SI_M","tdb:NiSi-05Mie.tdb:NI3SI_M","tdb:NiSi-12Yua-condensed.tdb:NI3SI_M","tdb:NiSi-12Yua.tdb:NI3SI_M","tdb:NiSi-19Tan.tdb:NI3SI_M","tdb:NiSi-23Wit.tdb:NI3SI_M","tdb:NiSi-96Lin-LB.tdb:NI3SI_M","tdb:NiSi-99Du.tdb:NI3SI_M"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI_M","pearsonSymbol":"hP34","prototype":"Ge9Pd25","reviewStatus":"assigned","spaceGroupNumber":147,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ge9pd25-hp34","termCode":"phase:ni-si:ni3si-m","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si-m"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si2","paper:10.1007/s11661-999-0249-8:ε","paper:10.1016/s0364-5916(03)00049-x:Ni3Si2(ε)","paper:10.1016/s0364-5916(03)00049-x:ε","tdb:NiSi-01Tok.tdb:NI3SI2","tdb:NiSi-03Tok.tdb:NI3SI2","tdb:NiSi-04Tok.tdb:NI3SI2","tdb:NiSi-05Mie.tdb:NI3SI2","tdb:NiSi-12Yua-condensed.tdb:NI3SI2","tdb:NiSi-12Yua.tdb:NI3SI2","tdb:NiSi-19Tan.tdb:NI3SI2","tdb:NiSi-96Lin-LB.tdb:NI3SI2","tdb:NiSi-99Du.tdb:NI3SI2"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.matchemphys.2012.04.028","@type":"ScholarlyArticle","name":"Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI2","pearsonSymbol":"oP80","prototype":"Ni3Si2","reviewStatus":"assigned","spaceGroupNumber":36,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni3si2-op80","termCode":"phase:ni-si:ni3si2","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si2-h","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si2-h","tdb:NiSi-23Wit.tdb:NI3SI2_H"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI2_H","reviewStatus":"needs_review","termCode":"phase:ni-si:ni3si2-h","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si2-h"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni3si2-l","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni3si2-l","tdb:NiSi-23Wit.tdb:NI3SI2_L"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3SI2_L","pearsonSymbol":"oP80","prototype":"Ni3Si2","reviewStatus":"assigned","spaceGroupNumber":36,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni3si2-op80","termCode":"phase:ni-si:ni3si2-l","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni3si2-l"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:ni5si2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:ni5si2","paper:10.1007/bf02663838:γ","paper:10.1007/s11661-999-0249-8:γ","paper:10.1016/j.calphad.2005.08.001:γ","paper:10.1016/s0364-5916(03)00049-x:Ni5Si2(γ)","paper:10.1016/s0364-5916(03)00049-x:γ","tdb:NiSi-01Tok.tdb:NI5SI2","tdb:NiSi-03Tok.tdb:NI5SI2","tdb:NiSi-04Tok.tdb:NI5SI2","tdb:NiSi-05Mie.tdb:NI5SI2","tdb:NiSi-12Yua-condensed.tdb:NI5SI2","tdb:NiSi-12Yua.tdb:NI5SI2","tdb:NiSi-19Tan.tdb:NI5SI2","tdb:NiSi-23Wit.tdb:NI5SI2","tdb:NiSi-96Lin-LB.tdb:NI5SI2","tdb:NiSi-99Du.tdb:NI5SI2"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI5SI2","pearsonSymbol":"hP43","prototype":"Ni31Si12","reviewStatus":"assigned","spaceGroupNumber":150,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni31si12-hp43","termCode":"phase:ni-si:ni5si2","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-ni5si2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:nisi-b31","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:nisi-b31","mp:mp-aaaaaann","oqmd:oqmd-5883","paper:10.1007/bf02663838:NiSi","paper:10.1007/bf02663838:αNiSi_2","paper:10.1007/s11661-999-0249-8:NiSi","paper:10.1016/s0364-5916(03)00049-x:NiSi","tdb:NiSi-01Tok.tdb:NISI_B31","tdb:NiSi-03Tok.tdb:NISI_B31","tdb:NiSi-04Tok.tdb:NISI_B31","tdb:NiSi-05Mie.tdb:NISI_B31","tdb:NiSi-12Yua-condensed.tdb:NISI_B31","tdb:NiSi-12Yua.tdb:NISI_B31","tdb:NiSi-19Tan.tdb:NISI_B31","tdb:NiSi-23Wit.tdb:NISI_B31","tdb:NiSi-96Lin-LB.tdb:NISI_B31","tdb:NiSi-99Du.tdb:NISI_B31"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NISI_B31","pearsonSymbol":"oP8","prototype":"MnP","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b31-mnp-op8","strukturbericht":"B31","termCode":"phase:ni-si:nisi-b31","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-nisi-b31"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:nisi2-c1","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:nisi2-c1","paper:10.1007/s11661-999-0249-8:NiSi2","paper:10.1016/s0364-5916(03)00049-x:NiSi2","tdb:NiSi-01Tok.tdb:NISI2_C1","tdb:NiSi-03Tok.tdb:NISI2_C1","tdb:NiSi-04Tok.tdb:NISI2_C1","tdb:NiSi-05Mie.tdb:NISI2_C1","tdb:NiSi-12Yua-condensed.tdb:NISI2_C1","tdb:NiSi-12Yua.tdb:NISI2_C1","tdb:NiSi-19Tan.tdb:NISI2_C1","tdb:NiSi-23Wit.tdb:NISI2_C1","tdb:NiSi-96Lin-LB.tdb:NISI2_C1","tdb:NiSi-99Du.tdb:NISI2_C1"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1007/s11661-999-0249-8","@type":"ScholarlyArticle","name":"Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00049-X","@type":"ScholarlyArticle","name":"T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.08.001","@type":"ScholarlyArticle","name":"Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2019.04.007","@type":"ScholarlyArticle","name":"Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NISI2_C1","pearsonSymbol":"cF12","prototype":"CaF2","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c1-caf2-cf12","strukturbericht":"C1","termCode":"phase:ni-si:nisi2-c1","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-nisi2-c1"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-si:nisi2-h","@type":"DefinedTerm","alternateName":["corpus:phase:ni-si:nisi2-h","tdb:NiSi-23Wit.tdb:NISI2_H"],"chemicalSystem":"NI-SI","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NISI2_H","reviewStatus":"needs_review","termCode":"phase:ni-si:nisi2-h","url":"https://data.orchid-project.org/phases/pages/NI-SI.html#phase-ni-si-nisi2-h"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Ni–Si"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Ni–Si phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/NI-SI.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Ni–Si phases</h1>
+<p>19 phases (tier A 8, tier C 5, liquid 1, needs_review 5); 17 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=NI-SI">interactive registry</a> · <a href="../systems/NI-SI.json">full JSON</a> · <a href="../../systems/NI-SI.html">Ni–Si system page</a> · <a href="NI-SI.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Ni–Si system (19)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-ni-si-a4-diamond">DIAMOND_A4</a><br><small>phase:ni-si:a4-diamond</small></th><td>C (diamond) · A4 · cF8 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 10 of 10 calculated diagram(s): 300–2499.34 K, x(Si) 0.99999–1</td><td class="n">7</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-bcc-a2">BCC_A2</a><br><small>phase:ni-si:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>not stable in 10 calculated diagram(s)</td><td class="n">0</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-fcc-4sl">FCC_4SL</a><br><small>phase:ni-si:fcc-4sl</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 300–1730.22 K, x(Si) 0–0.25</td><td class="n">10</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-fcc-a1">FCC_A1</a><br><small>phase:ni-si:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 10 of 16 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029</td><td class="n">36</td><td class="n">16</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-fcc-l12">L12_FCC</a><br><small>phase:ni-si:fcc-l12</small></th><td>AuCu3 · L1_2 · cP4 · Pm-3m (221)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–1735.13 K, x(Si) 0–0.25273</td><td class="n">19</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-hcp-a3">HCP_A3</a><br><small>phase:ni-si:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 10 calculated diagram(s)</td><td class="n">0</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-liquid">LIQUID</a><br><small>phase:ni-si:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1</td><td class="n">104</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni2si-c37">NI2SI_C37</a><br><small>phase:ni-si:ni2si-c37</small></th><td>Co2Si · C37 · oP12 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333</td><td class="n">35</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni2si-theta">NI2SI_THETA</a><br><small>phase:ni-si:ni2si-theta</small></th><td>Ni2Si · hP6 · P6_322 (182)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793</td><td class="n">40</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si-h">NI3SI_H</a><br><small>phase:ni-si:ni3si-h</small></th><td></td><td>needs_review</td><td>stable in 10 of 10 calculated diagram(s): 1387.74–1472.58 K, x(Si) 0.2412–0.25</td><td class="n">44</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si-l12">NI3SI_L12</a><br><small>phase:ni-si:ni3si-l12</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–1440 K, x(Si) 0.22478–0.71</td><td class="n">9</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si-m">NI3SI_M</a><br><small>phase:ni-si:ni3si-m</small></th><td>Ge9Pd25 · hP34 · P-3 (147)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 10 of 10 calculated diagram(s): 1260–1401.56 K, x(Si) 0.23926–0.25</td><td class="n">42</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si2">NI3SI2</a><br><small>phase:ni-si:ni3si2</small></th><td>Ni3Si2 · oP80 · Cmc2_1 (36)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 9 of 9 calculated diagram(s): 300–1150.12 K, x(Si) 0.4–0.4</td><td class="n">17</td><td class="n">9</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si2-h">NI3SI2_H</a><br><small>phase:ni-si:ni3si2-h</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 1074.56–1118.33 K, x(Si) 0.39564–0.399</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni3si2-l">NI3SI2_L</a><br><small>phase:ni-si:ni3si2-l</small></th><td>Ni3Si2 · oP80 · Cmc2_1 (36)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1091.87 K, x(Si) 0.38126–0.3911</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-ni5si2">NI5SI2</a><br><small>phase:ni-si:ni5si2</small></th><td>Ni31Si12 · hP43 · P321 (150)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 10 of 10 calculated diagram(s): 300–1519.07 K, x(Si) 0.28187–0.28571</td><td class="n">68</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-nisi-b31">NISI_B31</a><br><small>phase:ni-si:nisi-b31</small></th><td>MnP · B31 · oP8 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 10 of 10 calculated diagram(s): 300–1264.52 K, x(Si) 0.5–0.5</td><td class="n">36</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-nisi2-c1">NISI2_C1</a><br><small>phase:ni-si:nisi2-c1</small></th><td>CaF2 · C1 · cF12 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 10 of 10 calculated diagram(s): 300–1271.84 K, x(Si) 0.66667–0.66667</td><td class="n">17</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-ni-si-nisi2-h">NISI2_H</a><br><small>phase:ni-si:nisi2-h</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 1254.16–1265.93 K, x(Si) 0.66667–0.66667</td><td class="n">0</td><td class="n">1</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-ni-si-a4-diamond">DIAMOND_A4 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:a4-diamond</code>; status <code>assigned</code></li>
+<li>Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type <code>st:a4-c-diamond-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 300–2499.34 K, x(Si) 0.99999–1</li>
+<li>Literature: 7 values (7 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:a4-diamond">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:ni-si:a4-diamond, corpus:phase:ni-si:diamond-a4<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:(Si), paper:10.1016/s0364-5916(03)00049-x:Si<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:DIAMOND_A4, tdb:NiSi-03Tok.tdb:DIAMOND_A4, tdb:NiSi-04Tok.tdb:DIAMOND_A4, tdb:NiSi-05Mie.tdb:DIAMOND_A4, tdb:NiSi-12Yua-condensed.tdb:DIAMOND_A4, tdb:NiSi-12Yua.tdb:DIAMOND_A4, tdb:NiSi-19Tan.tdb:DIAMOND_A4, tdb:NiSi-23Wit.tdb:DIAMOND_A4, tdb:NiSi-96Lin-LB.tdb:DIAMOND_A4, tdb:NiSi-99Du.tdb:DIAMOND_A4<br></p>
+<h3>TDB models of DIAMOND_A4 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: DIAMOND_A4, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>45: PHASE DIAMOND_A4 % 1 1 !
+46: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: DIAMOND_A4, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>56: PHASE DIAMOND_A4 % 1 1 !
+57: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: DIAMOND_A4, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>45: PHASE DIAMOND_A4 % 1 1 !
+46: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: DIAMOND_A4, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>45: PHASE DIAMOND_A4 % 1 1 !
+46: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: DIAMOND_A4, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>59: PHASE DIAMOND_A4 % 1 1 !
+60: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: DIAMOND_A4, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>59: PHASE DIAMOND_A4 % 1 1 !
+60: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: DIAMOND_A4, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>65: PHASE DIAMOND_A4 % 1 1 !
+66: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: DIAMOND_A4, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>49: PHASE DIAMOND_A4 % 1 1 !
+50: CONST DIAMOND_A4 : NI SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: DIAMOND_A4, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>63: PHASE DIAMOND_A4 % 1 1 !
+64: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: DIAMOND_A4, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>72: PHASE DIAMOND_A4 % 1 1 !
+73: CONST DIAMOND_A4 : SI : !</pre>
+<p>Example references (9 of 9; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-bcc-a2">BCC_A2 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 10 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:ni-si:bcc-a2<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:BCC_A2, tdb:NiSi-03Tok.tdb:BCC_A2, tdb:NiSi-04Tok.tdb:BCC_A2, tdb:NiSi-05Mie.tdb:BCC_A2, tdb:NiSi-12Yua-condensed.tdb:BCC_A2, tdb:NiSi-12Yua.tdb:BCC_A2, tdb:NiSi-19Tan.tdb:BCC_A2, tdb:NiSi-23Wit.tdb:BCC_A2, tdb:NiSi-96Lin-LB.tdb:BCC_A2, tdb:NiSi-99Du.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: BCC_A2, type code %B, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: BCC_A2, type code %B, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>46: PHASE BCC_A2 %B 2 1 3 !
+47: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: BCC_A2, type code %B, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: BCC_A2, type code %B, sha256 <code>9648c90351118a83…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: BCC_A2, type code %B, sha256 <code>e633542474820818…</code></p>
+<pre>49: PHASE BCC_A2 %B 2 1 3 !
+50: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: BCC_A2, type code %B, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>49: PHASE BCC_A2 %B 2 1 3 !
+50: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: BCC_A2, type code %B, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>55: PHASE BCC_A2 %B 2 1 3 !
+56: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: BCC_A2, type code %B, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>39: PHASE BCC_A2 %B 2 1 3 !
+40: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>53: PHASE BCC_A2 %B 2 1 3 !
+54: CONST BCC_A2 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: BCC_A2, type code %B, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>62: PHASE BCC_A2 %B 2 1 3 !
+63: CONST BCC_A2 : NI SI : VA : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-fcc-4sl">FCC_4SL (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:fcc-4sl</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:order_disorder_ambiguity; order_disorder_ambiguity:NiSi-12Yua-condensed.tdb_model_is_partitioned; order_disorder_ambiguity:NiSi-12Yua.tdb_model_is_partitioned; sgte_mmc2_row_disagrees_with_name:FCC_4SL; unrecognised_name_tokens:4SL</li>
+<li>Candidate (dft_mp): Pm-3m (221) — on-hull MP SiNi3 at x(SI)=0.2500</li>
+<li>Candidate (dft_oqmd): Pm-3m (221) — on-hull OQMD Ni3 Si1 at x(SI)=0.2500</li>
+<li>Candidate (name_token): Cu · A1 · cF4 · Fm-3m (225) — Strukturbericht/word &#x27;A1&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): AuCu3 · L1_2 · cP4 · Pm-3m (221) — Hallstedt 2025 mmc2 row for FCC_4SL: Ag3Mg, Al3Li, AlNi3, AlPt3, Au3Cu, AuCu3, Co3Pt, CoPt3, Cr3Pt, CrPt3, Cu3Pt, FeNi3, Fe3Pt, FePt3, MnNi3, Ni3Pt, NiPt3, Ni3Si (beta-1)</li>
+<li>Candidate (tdb_comment): AuCu3 · cP4 · Pm-3m — NiSi-12Yua-condensed.tdb: &#x27;Prototype AuCu3 (cP4, Pm-3m) and AuCu (tP4, P4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): AuCu3 · cP4 · Pm-3m — NiSi-12Yua.tdb: &#x27;Prototype AuCu3 (cP4, Pm-3m) and AuCu (tP4, P4/mmm)&#x27;</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1730.22 K, x(Si) 0–0.25</li>
+<li>Literature: 10 values (10 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:fcc-4sl">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-si:fcc-4sl<br><small>paper: </small>paper:10.1016/j.matchemphys.2012.04.028:Ni3Si–L12, paper:10.1016/j.matchemphys.2012.04.028:NiSi3–L12, paper:10.1016/j.matchemphys.2012.04.028:NiSi–L10<br><small>tdb: </small>tdb:NiSi-12Yua-condensed.tdb:FCC_4SL, tdb:NiSi-12Yua.tdb:FCC_4SL<br></p>
+<h3>TDB models of FCC_4SL (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: FCC_4SL, type code %AY, sha256 <code>e633542474820818…</code></p>
+<pre>44: PHASE FCC_4SL:F %AY 5 0.25 0.25 0.25 0.25 1 !
+45: CONST FCC_4SL:F : NI% SI : NI% SI : NI% SI : NI SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: FCC_4SL, type code %AY, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>44: PHASE FCC_4SL %AY 5 0.25 0.25 0.25 0.25 1 !
+45: CONST FCC_4SL : NI% SI : NI% SI : NI% SI : NI SI% : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2010.10.118">doi:10.1016/j.jallcom.2010.10.118</a> Damien Connétable, Olivier Thomas, First-principles study of nickel-silicides ordered phases, Journal of Alloys and Compounds 509, 2639-2644 (2011).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-fcc-a1">FCC_A1 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 10 of 16 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029</li>
+<li>Literature: 36 values (36 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (20): <small>corpus: </small>corpus:phase:ni-si:fcc-a1<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:(Ni), paper:10.1016/j.calphad.2005.08.001:fcc, paper:10.1016/s0364-5916(03)00049-x:(Ni)<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:FCC_A1, tdb:NiSi-03Tok.tdb:A1_FCC, tdb:NiSi-03Tok.tdb:FCC_A1, tdb:NiSi-04Tok.tdb:FCC_A1, tdb:NiSi-05Mie.tdb:FCC_A1, tdb:NiSi-12Yua-condensed.tdb:A1_FCC, tdb:NiSi-12Yua-condensed.tdb:FCC_A1, tdb:NiSi-12Yua.tdb:A1_FCC, tdb:NiSi-12Yua.tdb:FCC_A1, tdb:NiSi-19Tan.tdb:A1_FCC, tdb:NiSi-19Tan.tdb:FCC_A1, tdb:NiSi-23Wit.tdb:FCC_A1, tdb:NiSi-96Lin-LB.tdb:A1_FCC, tdb:NiSi-96Lin-LB.tdb:FCC_A1, tdb:NiSi-99Du.tdb:A1_FCC, tdb:NiSi-99Du.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (16): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: FCC_A1, type code %A, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: A1_FCC, type code %A, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>36: PHASE A1_FCC %A 2 1 1 !
+37: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: FCC_A1, type code %A, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: FCC_A1, type code %A, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: FCC_A1, type code %A, sha256 <code>9648c90351118a83…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: A1_FCC, type code %A, sha256 <code>e633542474820818…</code></p>
+<pre>39: PHASE A1_FCC %A 2 1 1 !
+40: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: FCC_A1, type code %A, sha256 <code>e633542474820818…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: A1_FCC, type code %A, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>39: PHASE A1_FCC %A 2 1 1 !
+40: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: FCC_A1, type code %A, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: A1_FCC, type code %A, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>45: PHASE A1_FCC %A 2 1 1 !
+46: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: FCC_A1, type code %A, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>40: PHASE FCC_A1 %A 2 1 1 !
+41: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: FCC_A1, type code %A, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: A1_FCC, type code %A, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>43: PHASE A1_FCC %A 2 1 1 !
+44: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>38: PHASE FCC_A1 %A 2 1 1 !
+39: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: A1_FCC, type code %A, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>47: PHASE A1_FCC %A 2 1 1 !
+48: CONST A1_FCC : NI% SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: FCC_A1, type code %A, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>42: PHASE FCC_A1 %A 2 1 1 !
+43: CONST FCC_A1 : NI% SI : VA : !</pre>
+<p>Example references (10 of 11; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-fcc-l12">L12_FCC (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:fcc-l12</code>; status <code>assigned</code></li>
+<li>Structure: AuCu3 · L1_2 · cP4 · Pm-3m (221); type <code>st:l1-2-aucu3-cp4</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: NiSi-03Tok.tdb: ordered phase with disordered part A1_FCC (order/disorder model)</li>
+<li>Caveat: NiSi-19Tan.tdb: ordered phase with disordered part A1_FCC (order/disorder model)</li>
+<li>Caveat: NiSi-96Lin-LB.tdb: ordered phase with disordered part A1_FCC (order/disorder model)</li>
+<li>Caveat: NiSi-99Du.tdb: ordered phase with disordered part A1_FCC (order/disorder model)</li>
+<li>Caveat: partitioned order/disorder model in NiSi-03Tok.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in NiSi-19Tan.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in NiSi-96Lin-LB.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in NiSi-99Du.tdb also describes the disordered state</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1735.13 K, x(Si) 0–0.25273</li>
+<li>Literature: 19 values (19 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:fcc-l12">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:ni-si:fcc-l12, corpus:phase:ni-si:l12-fcc<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:β1, paper:10.1016/s0364-5916(03)00049-x:β1<br><small>tdb: </small>tdb:NiSi-03Tok.tdb:L12_FCC, tdb:NiSi-19Tan.tdb:L12_FCC, tdb:NiSi-96Lin-LB.tdb:L12_FCC, tdb:NiSi-99Du.tdb:L12_FCC<br></p>
+<h3>TDB models of L12_FCC (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: L12_FCC, type code %AY, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>41: PHASE L12_FCC %AY 3 0.75 0.25 1 !
+42: CONST L12_FCC : NI% SI : NI SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: L12_FCC, type code %AY, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>50: PHASE L12_FCC %AY 3 0.75 0.25 1 !
+51: CONST L12_FCC : NI% SI : NI SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: L12_FCC, type code %AY, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>48: PHASE L12_FCC %AY 3 0.75 0.25 1 !
+49: CONST L12_FCC : NI% SI : NI SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: L12_FCC, type code %AY, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>52: PHASE L12_FCC %AY 3 0.75 0.25 1 !
+53: CONST L12_FCC : NI% SI : NI SI% : VA : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-751005">doi:10.1515/ijmr-1984-751005</a> S. Lebaili, S.H. Thibault, Z. Metallkd. 75 (1984) 764–770.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-hcp-a3">HCP_A3 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 10 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:ni-si:hcp-a3<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:HCP_A3, tdb:NiSi-03Tok.tdb:HCP_A3, tdb:NiSi-04Tok.tdb:HCP_A3, tdb:NiSi-05Mie.tdb:HCP_A3, tdb:NiSi-12Yua-condensed.tdb:HCP_A3, tdb:NiSi-12Yua.tdb:HCP_A3, tdb:NiSi-19Tan.tdb:HCP_A3, tdb:NiSi-23Wit.tdb:HCP_A3, tdb:NiSi-96Lin-LB.tdb:HCP_A3, tdb:NiSi-99Du.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: HCP_A3, type code %A, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: HCP_A3, type code %A, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>51: PHASE HCP_A3 %A 2 1 0.5 !
+52: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: HCP_A3, type code %A, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: HCP_A3, type code %A, sha256 <code>9648c90351118a83…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: HCP_A3, type code %A, sha256 <code>e633542474820818…</code></p>
+<pre>54: PHASE HCP_A3 %A 2 1 0.5 !
+55: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: HCP_A3, type code %A, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>54: PHASE HCP_A3 %A 2 1 0.5 !
+55: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: HCP_A3, type code %A, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>60: PHASE HCP_A3 %A 2 1 0.5 !
+61: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: HCP_A3, type code %A, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>44: PHASE HCP_A3 %A 2 1 0.5 !
+45: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>58: PHASE HCP_A3 %A 2 1 0.5 !
+59: CONST HCP_A3 : NI SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: HCP_A3, type code %A, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>67: PHASE HCP_A3 %A 2 1 0.5 !
+68: CONST HCP_A3 : NI SI : VA : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-liquid">LIQUID (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1</li>
+<li>Literature: 104 values (104 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:ni-si:liquid<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:L, paper:10.1016/j.calphad.2005.08.001:L, paper:10.1016/s0364-5916(03)00049-x:Liquid<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:LIQUID, tdb:NiSi-03Tok.tdb:LIQUID, tdb:NiSi-04Tok.tdb:LIQUID, tdb:NiSi-05Mie.tdb:LIQUID, tdb:NiSi-12Yua-condensed.tdb:LIQUID, tdb:NiSi-12Yua.tdb:LIQUID, tdb:NiSi-19Tan.tdb:LIQUID, tdb:NiSi-23Wit.tdb:LIQUID, tdb:NiSi-96Lin-LB.tdb:LIQUID, tdb:NiSi-99Du.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: LIQUID, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: LIQUID, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: LIQUID, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: LIQUID, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: LIQUID, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: LIQUID, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: LIQUID, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>35: PHASE LIQUID:L % 1 1 !
+36: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: LIQUID, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: LIQUID, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>33: PHASE LIQUID:L % 1 1 !
+34: CONST LIQUID:L : NI SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: LIQUID, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>37: PHASE LIQUID:L % 1 1 !
+38: CONST LIQUID:L : NI SI : !</pre>
+<p>Example references (10 of 12; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni2si-c37">NI2SI_C37 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni2si-c37</code>; status <code>assigned</code></li>
+<li>Structure: Co2Si · C37 · oP12 · Pnma (62); type <code>st:c37-co2si-op12</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaabra and oqmd-4675, space group 62</li>
+<li>Stoichiometry: Ni 0.6667, Si 0.3333</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333</li>
+<li>Literature: 35 values (35 accepted) from 4 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni2si-c37">phase registry entry</a></li>
+</ul>
+<p>Names (18): <small>corpus: </small>corpus:phase:ni-si:ni2si-c37<br><small>mp: </small>mp:mp-aaaaabra<br><small>oqmd: </small>oqmd:oqmd-4675<br><small>paper: </small>paper:10.1007/bf02663838:δ, paper:10.1007/s11661-999-0249-8:δ, paper:10.1016/j.calphad.2005.08.001:δ, paper:10.1016/s0364-5916(03)00049-x:Ni2Si(δ), paper:10.1016/s0364-5916(03)00049-x:δ<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI2SI_C37, tdb:NiSi-03Tok.tdb:NI2SI_C37, tdb:NiSi-04Tok.tdb:NI2SI_C37, tdb:NiSi-05Mie.tdb:NI2SI_C37, tdb:NiSi-12Yua-condensed.tdb:NI2SI_C37, tdb:NiSi-12Yua.tdb:NI2SI_C37, tdb:NiSi-19Tan.tdb:NI2SI_C37, tdb:NiSi-23Wit.tdb:NI2SI_C37, tdb:NiSi-96Lin-LB.tdb:NI2SI_C37, tdb:NiSi-99Du.tdb:NI2SI_C37<br></p>
+<h3>TDB models of NI2SI_C37 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI2SI_C37, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>70: PHASE NI2SI_C37 % 2 2 1 !
+71: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI2SI_C37, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>76: PHASE NI2SI_C37 % 2 2 1 !
+77: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI2SI_C37, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>70: PHASE NI2SI_C37 % 2 2 1 !
+71: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI2SI_C37, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>70: PHASE NI2SI_C37 % 2 2 1 !
+71: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI2SI_C37, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>79: PHASE NI2SI_C37 % 2 2 1 !
+80: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI2SI_C37, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>79: PHASE NI2SI_C37 % 2 2 1 !
+80: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI2SI_C37, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>85: PHASE NI2SI_C37 % 2 2 1 !
+86: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI2SI_C37, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>74: PHASE NI2SI_C37 % 2 2 1 !
+75: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI2SI_C37, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>83: PHASE NI2SI_C37 % 2 2 1 !
+84: CONST NI2SI_C37 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI2SI_C37, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>92: PHASE NI2SI_C37 % 2 2 1 !
+93: CONST NI2SI_C37 : NI : SI : !</pre>
+<p>Example references (10 of 13; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni2si-theta">NI2SI_THETA (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni2si-theta</code>; status <code>assigned</code></li>
+<li>Structure: Ni2Si · hP6 · P6_322 (182); type <code>st:ni2si-hp6</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793</li>
+<li>Literature: 40 values (40 accepted) from 4 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni2si-theta">phase registry entry</a></li>
+</ul>
+<p>Names (15): <small>corpus: </small>corpus:phase:ni-si:ni2si-theta<br><small>paper: </small>paper:10.1007/bf02663838:θ, paper:10.1007/s11661-999-0249-8:θ, paper:10.1016/j.calphad.2005.08.001:θ, paper:10.1016/s0364-5916(03)00049-x:θ<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI2SI_THETA, tdb:NiSi-03Tok.tdb:NI2SI_THETA, tdb:NiSi-04Tok.tdb:NI2SI_THETA, tdb:NiSi-05Mie.tdb:NI2SI_THETA, tdb:NiSi-12Yua-condensed.tdb:NI2SI_THETA, tdb:NiSi-12Yua.tdb:NI2SI_THETA, tdb:NiSi-19Tan.tdb:NI2SI_THETA, tdb:NiSi-23Wit.tdb:NI2SI_THETA, tdb:NiSi-96Lin-LB.tdb:NI2SI_THETA, tdb:NiSi-99Du.tdb:NI2SI_THETA<br></p>
+<h3>TDB models of NI2SI_THETA (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI2SI_THETA, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>76: PHASE NI2SI_THETA % 3 1 1 1 !
+77: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI2SI_THETA, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>82: PHASE NI2SI_THETA % 3 1 1 1 !
+83: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI2SI_THETA, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>76: PHASE NI2SI_THETA % 3 1 1 1 !
+77: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI2SI_THETA, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>76: PHASE NI2SI_THETA % 3 1 1 1 !
+77: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI2SI_THETA, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>85: PHASE NI2SI_THETA % 3 1 1 1 !
+86: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI2SI_THETA, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>85: PHASE NI2SI_THETA % 3 1 1 1 !
+86: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI2SI_THETA, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>91: PHASE NI2SI_THETA % 3 1 1 1 !
+92: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI2SI_THETA, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>80: PHASE NI2SI_THETA % 3 1 1 1 !
+81: CONST NI2SI_THETA : NI : NI% VA : SI% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI2SI_THETA, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>89: PHASE NI2SI_THETA % 3 1 1 1 !
+90: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI2SI_THETA, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>98: PHASE NI2SI_THETA % 3 1 1 1 !
+99: CONST NI2SI_THETA : NI : NI% VA : SI : !</pre>
+<p>Example references (10 of 10; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02868885">doi:10.1007/bf02868885</a> P. Nash, A. Nash, Bull. Alloy Phase Diagrams 8 (1987) 6–14.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si-h">NI3SI_H (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si-h</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H; no_structure_token; sgte_mmc2_rows_disagree</li>
+<li>Candidate (dft_mp): Pm-3m (221) — on-hull MP SiNi3 at x(SI)=0.2500</li>
+<li>Candidate (dft_oqmd): Pm-3m (221) — on-hull OQMD Ni3 Si1 at x(SI)=0.2500</li>
+<li>Candidate (literature_printed): BiF3 · cF16 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): CsCl · B2 · cP2 · Pm-3m (221) — Hallstedt 2025 mmc2 row for NI3SI_H: Ni3Si (beta-3, NI3SI_H is either B2 or D03)</li>
+<li>Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for NI3SI_H: Ni3Si (beta-3, NI3SI_H is either B2 or D03)</li>
+<li>Candidate (tdb_comment): CsCl · cP2 · Pm-3m, B2 — NiSi-01Tok.tdb: &#x27;Prototype CsCl (cP2, Pm-3m, B2) or BiF3 (cF16, Fm-3m, D0_3), beta-3&#x27;</li>
+<li>Candidate (tdb_comment): CsCl · cP2 · Pm-3m, B2 — NiSi-03Tok.tdb: &#x27;Prototype CsCl (cP2, Pm-3m, B2) or BiF3 (cF16, Fm-3m, D0_3), beta-3&#x27;</li>
+<li>Candidate (tdb_comment): CsCl · cP2 · Pm-3m, B2 — NiSi-04Tok.tdb: &#x27;Prototype CsCl (cP2, Pm-3m, B2) or BiF3 (cF16, Fm-3m, D0_3), beta-3&#x27;</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 1387.74–1472.58 K, x(Si) 0.2412–0.25</li>
+<li>Literature: 44 values (44 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si-h">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:ni-si:ni3si-h<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:β3, paper:10.1016/j.calphad.2005.08.001:β3, paper:10.1016/s0364-5916(03)00049-x:β3<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI3SI_H, tdb:NiSi-03Tok.tdb:NI3SI_H, tdb:NiSi-04Tok.tdb:NI3SI_H, tdb:NiSi-05Mie.tdb:NI3SI_H, tdb:NiSi-12Yua-condensed.tdb:NI3SI_H, tdb:NiSi-12Yua.tdb:NI3SI_H, tdb:NiSi-19Tan.tdb:NI3SI_H, tdb:NiSi-23Wit.tdb:NI3SI_H, tdb:NiSi-96Lin-LB.tdb:NI3SI_H, tdb:NiSi-99Du.tdb:NI3SI_H<br></p>
+<h3>TDB models of NI3SI_H (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI3SI_H, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>60: PHASE NI3SI_H % 2 3 1 !
+61: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI3SI_H, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>66: PHASE NI3SI_H % 2 3 1 !
+67: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI3SI_H, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>60: PHASE NI3SI_H % 2 3 1 !
+61: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI3SI_H, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>60: PHASE NI3SI_H % 2 3 1 !
+61: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI3SI_H, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>69: PHASE NI3SI_H % 2 3 1 !
+70: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI3SI_H, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>69: PHASE NI3SI_H % 2 3 1 !
+70: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI3SI_H, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>75: PHASE NI3SI_H % 2 3 1 !
+76: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI3SI_H, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>64: PHASE NI3SI_H % 2 3 1 !
+65: CONST NI3SI_H : NI : NI SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI3SI_H, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>73: PHASE NI3SI_H % 2 3 1 !
+74: CONST NI3SI_H : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI3SI_H, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>82: PHASE NI3SI_H % 2 3 1 !
+83: CONST NI3SI_H : NI : SI : !</pre>
+<p>Example references (10 of 11; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si-l12">NI3SI_L12 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si-l12</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:models_disagree_on_composition; models_disagree_on_composition; stoichiometry_contradicts_L1_2:NiSi-01Tok.tdb; stoichiometry_contradicts_L1_2:NiSi-05Mie.tdb</li>
+<li>Candidate (dft_mp): P321 (150) — on-hull MP Si12Ni31 at x(SI)=0.2791</li>
+<li>Candidate (dft_mp): Fm-3m (225) — on-hull MP Si2Ni at x(SI)=0.6667</li>
+<li>Candidate (dft_mp): Pnma (62) — on-hull MP SiNi at x(SI)=0.5000</li>
+<li>Candidate (dft_mp): Pnma (62) — on-hull MP SiNi2 at x(SI)=0.3333</li>
+<li>Candidate (dft_mp): Pm-3m (221) — on-hull MP SiNi3 at x(SI)=0.2500</li>
+<li>Candidate (dft_oqmd): Pnma (62) — on-hull OQMD Ni1 Si1 at x(SI)=0.5000</li>
+<li>Candidate (dft_oqmd): Fm-3m (225) — on-hull OQMD Ni1 Si2 at x(SI)=0.6667</li>
+<li>Candidate (dft_oqmd): Pnma (62) — on-hull OQMD Ni2 Si1 at x(SI)=0.3333</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1440 K, x(Si) 0.22478–0.71</li>
+<li>Literature: 9 values (9 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si-l12">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-si:ni3si-l12<br><small>paper: </small>paper:10.1016/j.calphad.2005.08.001:β1<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI3SI_L12, tdb:NiSi-04Tok.tdb:NI3SI_L12, tdb:NiSi-05Mie.tdb:NI3SI_L12, tdb:NiSi-23Wit.tdb:NI3SI_L12<br></p>
+<h3>TDB models of NI3SI_L12 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI3SI_L12, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>50: PHASE NI3SI_L12 % 2 0.763 0.237 !
+51: CONST NI3SI_L12 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI3SI_L12, type code %A, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>50: PHASE NI3SI_L12 %A 2 0.75 0.25 !
+51: CONST NI3SI_L12 : NI% SI : NI SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI3SI_L12, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>50: PHASE NI3SI_L12 % 2 0.76 0.24 !
+51: CONST NI3SI_L12 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI3SI_L12, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>54: PHASE NI3SI_L12 % 2 0.75 0.25 !
+55: CONST NI3SI_L12 : NI% SI : NI SI% : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-751005">doi:10.1515/ijmr-1984-751005</a> S. Lebaili, S.H. Thibault, Z. Metallkd. 75 (1984) 764–770.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si-m">NI3SI_M (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si-m</code>; status <code>assigned</code></li>
+<li>Structure: Ge9Pd25 · hP34 · P-3 (147); type <code>st:ge9pd25-hp34</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:M, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 1260–1401.56 K, x(Si) 0.23926–0.25</li>
+<li>Literature: 42 values (42 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si-m">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:ni-si:ni3si-m<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:β2, paper:10.1016/j.calphad.2005.08.001:β2, paper:10.1016/s0364-5916(03)00049-x:β2<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI3SI_M, tdb:NiSi-03Tok.tdb:NI3SI_M, tdb:NiSi-04Tok.tdb:NI3SI_M, tdb:NiSi-05Mie.tdb:NI3SI_M, tdb:NiSi-12Yua-condensed.tdb:NI3SI_M, tdb:NiSi-12Yua.tdb:NI3SI_M, tdb:NiSi-19Tan.tdb:NI3SI_M, tdb:NiSi-23Wit.tdb:NI3SI_M, tdb:NiSi-96Lin-LB.tdb:NI3SI_M, tdb:NiSi-99Du.tdb:NI3SI_M<br></p>
+<h3>TDB models of NI3SI_M (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI3SI_M, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>55: PHASE NI3SI_M % 2 3 1 !
+56: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI3SI_M, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>61: PHASE NI3SI_M % 2 3 1 !
+62: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI3SI_M, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>55: PHASE NI3SI_M % 2 3 1 !
+56: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI3SI_M, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>55: PHASE NI3SI_M % 2 3 1 !
+56: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI3SI_M, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>64: PHASE NI3SI_M % 2 3 1 !
+65: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI3SI_M, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>64: PHASE NI3SI_M % 2 3 1 !
+65: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI3SI_M, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>70: PHASE NI3SI_M % 2 3 1 !
+71: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI3SI_M, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>59: PHASE NI3SI_M % 2 3 1 !
+60: CONST NI3SI_M : NI : NI SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI3SI_M, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>68: PHASE NI3SI_M % 2 3 1 !
+69: CONST NI3SI_M : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI3SI_M, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>77: PHASE NI3SI_M % 2 3 1 !
+78: CONST NI3SI_M : NI : SI : !</pre>
+<p>Example references (10 of 11; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si2">NI3SI2 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si2</code>; status <code>assigned</code></li>
+<li>Structure: Ni3Si2 · oP80 · Cmc2_1 (36); type <code>st:ni3si2-op80</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.6000, Si 0.4000</li>
+<li>Stability: stable in 9 of 9 calculated diagram(s): 300–1150.12 K, x(Si) 0.4–0.4</li>
+<li>Literature: 17 values (17 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si2">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:ni-si:ni3si2<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:ε, paper:10.1016/s0364-5916(03)00049-x:Ni3Si2(ε), paper:10.1016/s0364-5916(03)00049-x:ε<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI3SI2, tdb:NiSi-03Tok.tdb:NI3SI2, tdb:NiSi-04Tok.tdb:NI3SI2, tdb:NiSi-05Mie.tdb:NI3SI2, tdb:NiSi-12Yua-condensed.tdb:NI3SI2, tdb:NiSi-12Yua.tdb:NI3SI2, tdb:NiSi-19Tan.tdb:NI3SI2, tdb:NiSi-96Lin-LB.tdb:NI3SI2, tdb:NiSi-99Du.tdb:NI3SI2<br></p>
+<h3>TDB models of NI3SI2 (9): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI3SI2, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>81: PHASE NI3SI2 % 2 3 2 !
+82: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI3SI2, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>87: PHASE NI3SI2 % 2 3 2 !
+88: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI3SI2, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>81: PHASE NI3SI2 % 2 3 2 !
+82: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI3SI2, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>81: PHASE NI3SI2 % 2 3 2 !
+82: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI3SI2, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>90: PHASE NI3SI2 % 2 3 2 !
+91: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI3SI2, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>90: PHASE NI3SI2 % 2 3 2 !
+91: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI3SI2, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>96: PHASE NI3SI2 % 2 3 2 !
+97: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI3SI2, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>94: PHASE NI3SI2 % 2 3 2 !
+95: CONST NI3SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI3SI2, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>103: PHASE NI3SI2 % 2 3 2 !
+104: CONST NI3SI2 : NI : SI : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si2-h">NI3SI2_H (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si2-h</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ni3Si2-ht) — Hallstedt 2025 mmc2 row for NI3SI2_H: Ni3Si2 (high T)</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 1074.56–1118.33 K, x(Si) 0.39564–0.399</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si2-h">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:ni-si:ni3si2-h<br><small>tdb: </small>tdb:NiSi-23Wit.tdb:NI3SI2_H<br></p>
+<h3>TDB models of NI3SI2_H (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI3SI2_H, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>90: PHASE NI3SI2_H % 2 0.61 0.39 !
+91: CONST NI3SI2_H : NI% SI : NI SI% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni3si2-l">NI3SI2_L (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni3si2-l</code>; status <code>assigned</code></li>
+<li>Structure: Ni3Si2 · oP80 · Cmc2_1 (36); type <code>st:ni3si2-op80</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:L, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1091.87 K, x(Si) 0.38126–0.3911</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni3si2-l">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:ni-si:ni3si2-l<br><small>tdb: </small>tdb:NiSi-23Wit.tdb:NI3SI2_L<br></p>
+<h3>TDB models of NI3SI2_L (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI3SI2_L, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>85: PHASE NI3SI2_L % 2 0.62 0.38 !
+86: CONST NI3SI2_L : NI% SI : NI SI% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-ni5si2">NI5SI2 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:ni5si2</code>; status <code>assigned</code></li>
+<li>Structure: Ni31Si12 · hP43 · P321 (150); type <code>st:ni31si12-hp43</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 300–1519.07 K, x(Si) 0.28187–0.28571</li>
+<li>Literature: 68 values (68 accepted) from 4 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:ni5si2">phase registry entry</a></li>
+</ul>
+<p>Names (16): <small>corpus: </small>corpus:phase:ni-si:ni5si2<br><small>paper: </small>paper:10.1007/bf02663838:γ, paper:10.1007/s11661-999-0249-8:γ, paper:10.1016/j.calphad.2005.08.001:γ, paper:10.1016/s0364-5916(03)00049-x:Ni5Si2(γ), paper:10.1016/s0364-5916(03)00049-x:γ<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NI5SI2, tdb:NiSi-03Tok.tdb:NI5SI2, tdb:NiSi-04Tok.tdb:NI5SI2, tdb:NiSi-05Mie.tdb:NI5SI2, tdb:NiSi-12Yua-condensed.tdb:NI5SI2, tdb:NiSi-12Yua.tdb:NI5SI2, tdb:NiSi-19Tan.tdb:NI5SI2, tdb:NiSi-23Wit.tdb:NI5SI2, tdb:NiSi-96Lin-LB.tdb:NI5SI2, tdb:NiSi-99Du.tdb:NI5SI2<br></p>
+<h3>TDB models of NI5SI2 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NI5SI2, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>65: PHASE NI5SI2 % 2 5 2 !
+66: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NI5SI2, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>71: PHASE NI5SI2 % 2 5 2 !
+72: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NI5SI2, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>65: PHASE NI5SI2 % 2 5 2 !
+66: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NI5SI2, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>65: PHASE NI5SI2 % 2 5 2 !
+66: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NI5SI2, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>74: PHASE NI5SI2 % 2 5 2 !
+75: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NI5SI2, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>74: PHASE NI5SI2 % 2 5 2 !
+75: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NI5SI2, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>80: PHASE NI5SI2 % 2 5 2 !
+81: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NI5SI2, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>69: PHASE NI5SI2 % 2 5 2 !
+70: CONST NI5SI2 : NI : SI% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NI5SI2, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>78: PHASE NI5SI2 % 2 5 2 !
+79: CONST NI5SI2 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NI5SI2, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>87: PHASE NI5SI2 % 2 5 2 !
+88: CONST NI5SI2 : NI : SI : !</pre>
+<p>Example references (10 of 12; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1983-740105">doi:10.1515/ijmr-1983-740105</a> Y. Oya, T. Suzuki, Z. Metallkd. 74 (1983) 21–24.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-nisi-b31">NISI_B31 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:nisi-b31</code>; status <code>assigned</code></li>
+<li>Structure: MnP · B31 · oP8 · Pnma (62); type <code>st:b31-mnp-op8</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaaann and oqmd-5883, space group 62</li>
+<li>Stoichiometry: Ni 0.5000, Si 0.5000</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 300–1264.52 K, x(Si) 0.5–0.5</li>
+<li>Literature: 36 values (36 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:nisi-b31">phase registry entry</a></li>
+</ul>
+<p>Names (17): <small>corpus: </small>corpus:phase:ni-si:nisi-b31<br><small>mp: </small>mp:mp-aaaaaann<br><small>oqmd: </small>oqmd:oqmd-5883<br><small>paper: </small>paper:10.1007/bf02663838:NiSi, paper:10.1007/bf02663838:αNiSi_2, paper:10.1007/s11661-999-0249-8:NiSi, paper:10.1016/s0364-5916(03)00049-x:NiSi<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NISI_B31, tdb:NiSi-03Tok.tdb:NISI_B31, tdb:NiSi-04Tok.tdb:NISI_B31, tdb:NiSi-05Mie.tdb:NISI_B31, tdb:NiSi-12Yua-condensed.tdb:NISI_B31, tdb:NiSi-12Yua.tdb:NISI_B31, tdb:NiSi-19Tan.tdb:NISI_B31, tdb:NiSi-23Wit.tdb:NISI_B31, tdb:NiSi-96Lin-LB.tdb:NISI_B31, tdb:NiSi-99Du.tdb:NISI_B31<br></p>
+<h3>TDB models of NISI_B31 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NISI_B31, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>86: PHASE NISI_B31 % 2 1 1 !
+87: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NISI_B31, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>92: PHASE NISI_B31 % 2 1 1 !
+93: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NISI_B31, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>86: PHASE NISI_B31 % 2 1 1 !
+87: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NISI_B31, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>86: PHASE NISI_B31 % 2 1 1 !
+87: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NISI_B31, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>95: PHASE NISI_B31 % 2 1 1 !
+96: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NISI_B31, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>95: PHASE NISI_B31 % 2 1 1 !
+96: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NISI_B31, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>101: PHASE NISI_B31 % 2 1 1 !
+102: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NISI_B31, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>95: PHASE NISI_B31 % 2 1 1 !
+96: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NISI_B31, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>99: PHASE NISI_B31 % 2 1 1 !
+100: CONST NISI_B31 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NISI_B31, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>108: PHASE NISI_B31 % 2 1 1 !
+109: CONST NISI_B31 : NI : SI : !</pre>
+<p>Example references (9 of 9; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-nisi2-c1">NISI2_C1 (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:nisi2-c1</code>; status <code>assigned</code></li>
+<li>Structure: CaF2 · C1 · cF12 · Fm-3m (225); type <code>st:c1-caf2-cf12</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Ni 0.3333, Si 0.6667</li>
+<li>Stability: stable in 10 of 10 calculated diagram(s): 300–1271.84 K, x(Si) 0.66667–0.66667</li>
+<li>Literature: 17 values (17 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:nisi2-c1">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:ni-si:nisi2-c1<br><small>paper: </small>paper:10.1007/s11661-999-0249-8:NiSi2, paper:10.1016/s0364-5916(03)00049-x:NiSi2<br><small>tdb: </small>tdb:NiSi-01Tok.tdb:NISI2_C1, tdb:NiSi-03Tok.tdb:NISI2_C1, tdb:NiSi-04Tok.tdb:NISI2_C1, tdb:NiSi-05Mie.tdb:NISI2_C1, tdb:NiSi-12Yua-condensed.tdb:NISI2_C1, tdb:NiSi-12Yua.tdb:NISI2_C1, tdb:NiSi-19Tan.tdb:NISI2_C1, tdb:NiSi-23Wit.tdb:NISI2_C1, tdb:NiSi-96Lin-LB.tdb:NISI2_C1, tdb:NiSi-99Du.tdb:NISI2_C1<br></p>
+<h3>TDB models of NISI2_C1 (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-01Tok.tdb">NiSi-01Tok.tdb</a>: NISI2_C1, type code %, sha256 <code>9ab1c4ee638279e6…</code></p>
+<pre>91: PHASE NISI2_C1 % 2 1 2 !
+92: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-03Tok.tdb">NiSi-03Tok.tdb</a>: NISI2_C1, type code %, sha256 <code>ee5e3bdd5a592a96…</code></p>
+<pre>97: PHASE NISI2_C1 % 2 1 2 !
+98: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-04Tok.tdb">NiSi-04Tok.tdb</a>: NISI2_C1, type code %, sha256 <code>fddb61bcca4568f7…</code></p>
+<pre>91: PHASE NISI2_C1 % 2 1 2 !
+92: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-05Mie.tdb">NiSi-05Mie.tdb</a>: NISI2_C1, type code %, sha256 <code>9648c90351118a83…</code></p>
+<pre>91: PHASE NISI2_C1 % 2 1 2 !
+92: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua-condensed.tdb">NiSi-12Yua-condensed.tdb</a>: NISI2_C1, type code %, sha256 <code>e633542474820818…</code></p>
+<pre>100: PHASE NISI2_C1 % 2 1 2 !
+101: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-12Yua.tdb">NiSi-12Yua.tdb</a>: NISI2_C1, type code %, sha256 <code>8ae79a3ebc52338b…</code></p>
+<pre>100: PHASE NISI2_C1 % 2 1 2 !
+101: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-19Tan.tdb">NiSi-19Tan.tdb</a>: NISI2_C1, type code %, sha256 <code>475fc5ee08a75ffd…</code></p>
+<pre>106: PHASE NISI2_C1 % 2 1 2 !
+107: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NISI2_C1, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>100: PHASE NISI2_C1 % 2 1 2 !
+101: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-96Lin-LB.tdb">NiSi-96Lin-LB.tdb</a>: NISI2_C1, type code %, sha256 <code>5c51324a82a8ab23…</code></p>
+<pre>104: PHASE NISI2_C1 % 2 1 2 !
+105: CONST NISI2_C1 : NI : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-99Du.tdb">NiSi-99Du.tdb</a>: NISI2_C1, type code %, sha256 <code>d88fb63b655b9623…</code></p>
+<pre>113: PHASE NISI2_C1 % 2 1 2 !
+114: CONST NISI2_C1 : NI : SI : !</pre>
+<p>Example references (9 of 9; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11661-999-0249-8">doi:10.1007/s11661-999-0249-8</a> Yong Du, Julius C. Schuster, Experimental investigations and thermodynamic descriptions of the Ni-Si and C-Ni-Si systems, Metall Mater Trans A 30, 2409-2418 (1999).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00049-X">doi:10.1016/S0364-5916(03)00049-X</a> T. Tokunaga, K. Nishio, H. Ohtani, M. Hasebe, Calphad, 27, 161-68(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.08.001">doi:10.1016/j.calphad.2005.08.001</a> Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2019.04.007">doi:10.1016/j.calphad.2019.04.007</a> Y. Tang, J. Wang, L. Zhang, Calphad, 66, 101622(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.matchemphys.2012.04.028">doi:10.1016/j.matchemphys.2012.04.028</a> Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497101770338798">doi:10.1361/105497101770338798</a> T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2320/matertrans.45.1507">doi:10.2320/matertrans.45.1507</a> Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663838">doi:10.1007/bf02663838</a> Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-si-nisi2-h">NISI2_H (Ni–Si)</h2>
+<ul>
+<li>Id: <code>phase:ni-si:nisi2-h</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (dft_mp): Fm-3m (225) — on-hull MP Si2Ni at x(SI)=0.6667</li>
+<li>Candidate (dft_oqmd): Fm-3m (225) — on-hull OQMD Ni1 Si2 at x(SI)=0.6667</li>
+<li>Candidate (sgte_mmc2): (NiSi2-ht) — Hallstedt 2025 mmc2 row for NISI2_H: NiSi2 (high T)</li>
+<li>Stoichiometry: Ni 0.3333, Si 0.6667</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 1254.16–1265.93 K, x(Si) 0.66667–0.66667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-si:nisi2-h">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:ni-si:nisi2-h<br><small>tdb: </small>tdb:NiSi-23Wit.tdb:NISI2_H<br></p>
+<h3>TDB models of NISI2_H (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiSi-23Wit.tdb">NiSi-23Wit.tdb</a>: NISI2_H, type code %, sha256 <code>1e259769eaadd7a6…</code></p>
+<pre>105: PHASE NISI2_H % 2 1 2 !
+106: CONST NISI2_H : NI : SI : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

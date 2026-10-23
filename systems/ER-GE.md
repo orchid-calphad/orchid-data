@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-GE.html · Markdown: https://da
 
 154 accepted literature values from 1 paper(s) (experimental 60, model 94); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-GE.json) · [CSV](https://data.orchid-project.org/systems/ER-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-GE/ErGe-17Ach.json) · [Markdown](https://data.orchid-project.org/systems/ER-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-GE.json) · [CSV](https://data.orchid-project.org/systems/ER-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-GE/ErGe-17Ach.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ER-GE.html) · [Markdown](https://data.orchid-project.org/systems/ER-GE.md)
 
 Table: Accepted values by evidence class
 

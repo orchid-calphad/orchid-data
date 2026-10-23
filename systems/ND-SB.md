@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ND-SB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-SB/NdSb-16Wan.json) · [Markdown](https://data.orchid-project.org/systems/ND-SB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-SB/NdSb-16Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/ND-SB.html) · [Markdown](https://data.orchid-project.org/systems/ND-SB.md)
 
 ## Calculated phase diagrams
 

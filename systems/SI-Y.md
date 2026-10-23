@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-Y.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 4 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-Y/SiY-04Luk-LB.json) · [Markdown](https://data.orchid-project.org/systems/SI-Y.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-Y/SiY-04Luk-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SI-Y.html) · [Markdown](https://data.orchid-project.org/systems/SI-Y.md)
 
 ## Calculated phase diagrams
 

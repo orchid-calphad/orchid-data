@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-SN.html · Markdown: https://da
 
 59 accepted literature values from 2 paper(s) (experimental 31, model 28); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SN.json) · [CSV](https://data.orchid-project.org/systems/CE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SN/CeSn-13Don.json) · [Markdown](https://data.orchid-project.org/systems/CE-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SN.json) · [CSV](https://data.orchid-project.org/systems/CE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SN/CeSn-13Don.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CE-SN.html) · [Markdown](https://data.orchid-project.org/systems/CE-SN.md)
 
 Table: Accepted values by evidence class
 

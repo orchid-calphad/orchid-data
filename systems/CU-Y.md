@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-Y.html · Markdown: https://dat
 
 72 accepted literature values from 2 paper(s) (experimental 51, model 10, unspecified 11); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-Y.json) · [CSV](https://data.orchid-project.org/systems/CU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-Y/CuY-94Fri-LB.json) · [Markdown](https://data.orchid-project.org/systems/CU-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-Y.json) · [CSV](https://data.orchid-project.org/systems/CU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-Y/CuY-94Fri-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-Y.html) · [Markdown](https://data.orchid-project.org/systems/CU-Y.md)
 
 Table: Accepted values by evidence class
 

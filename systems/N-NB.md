@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/N-NB.html · Markdown: https://dat
 
 14 accepted literature values from 2 paper(s) (experimental 7, model 7); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/N-NB.json) · [CSV](https://data.orchid-project.org/systems/N-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-NB) · [Markdown](https://data.orchid-project.org/systems/N-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/N-NB.json) · [CSV](https://data.orchid-project.org/systems/N-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-NB) · [phases (5)](https://data.orchid-project.org/phases/pages/N-NB.html) · [Markdown](https://data.orchid-project.org/systems/N-NB.md)
 
 Table: Accepted values by evidence class
 

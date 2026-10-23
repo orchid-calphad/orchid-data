@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-SR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SR/CdSr-13Zha.json) · [Markdown](https://data.orchid-project.org/systems/CD-SR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SR/CdSr-13Zha.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CD-SR.html) · [Markdown](https://data.orchid-project.org/systems/CD-SR.md)
 
 ## Calculated phase diagrams
 

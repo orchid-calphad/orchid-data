@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TM-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TM-W/TmW-00Kri.json) · [Markdown](https://data.orchid-project.org/systems/TM-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TM-W/TmW-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TM-W.html) · [Markdown](https://data.orchid-project.org/systems/TM-W.md)
 
 ## Calculated phase diagrams
 

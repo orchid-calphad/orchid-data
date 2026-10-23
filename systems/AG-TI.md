@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-TI.html · Markdown: https://da
 
 93 accepted literature values from 2 paper(s) (experimental 31, model 16, unspecified 46); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TI.json) · [CSV](https://data.orchid-project.org/systems/AG-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TI/AgTi-04Arr.json) · [Markdown](https://data.orchid-project.org/systems/AG-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TI.json) · [CSV](https://data.orchid-project.org/systems/AG-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TI/AgTi-04Arr.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AG-TI.html) · [Markdown](https://data.orchid-project.org/systems/AG-TI.md)
 
 Table: Accepted values by evidence class
 

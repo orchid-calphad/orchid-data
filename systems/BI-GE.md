@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-GE.html · Markdown: https://da
 
 2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GE.json) · [CSV](https://data.orchid-project.org/systems/BI-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GE/BiGe-88Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/BI-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GE.json) · [CSV](https://data.orchid-project.org/systems/BI-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GE/BiGe-88Che-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-GE.html) · [Markdown](https://data.orchid-project.org/systems/BI-GE.md)
 
 Table: Accepted values by evidence class
 

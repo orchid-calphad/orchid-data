@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-MG.html · Markdown: https://da
 
 141 accepted literature values from 5 paper(s) (experimental 74, model 45, unspecified 22); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG.json) · [CSV](https://data.orchid-project.org/systems/LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MG/LaMg-04Guo-LB.json) · [Markdown](https://data.orchid-project.org/systems/LA-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG.json) · [CSV](https://data.orchid-project.org/systems/LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MG/LaMg-04Guo-LB.json) · [phases (18)](https://data.orchid-project.org/phases/pages/LA-MG.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PR-Y.html · Markdown: https://dat
 
 3 accepted literature values from 1 paper(s) (experimental 1, model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PR-Y.json) · [CSV](https://data.orchid-project.org/systems/PR-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-Y/PrY-08Guo.json) · [Markdown](https://data.orchid-project.org/systems/PR-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PR-Y.json) · [CSV](https://data.orchid-project.org/systems/PR-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-Y/PrY-08Guo.json) · [phases (7)](https://data.orchid-project.org/phases/pages/PR-Y.html) · [Markdown](https://data.orchid-project.org/systems/PR-Y.md)
 
 Table: Accepted values by evidence class
 

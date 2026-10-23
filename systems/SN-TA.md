@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SN-TA.html · Markdown: https://da
 
 57 accepted literature values from 1 paper(s) (experimental 15, model 3, DFT 39); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TA.json) · [CSV](https://data.orchid-project.org/systems/SN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TA/SnTa-17Mar.json) · [Markdown](https://data.orchid-project.org/systems/SN-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TA.json) · [CSV](https://data.orchid-project.org/systems/SN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TA/SnTa-17Mar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SN-TA.html) · [Markdown](https://data.orchid-project.org/systems/SN-TA.md)
 
 Table: Accepted values by evidence class
 

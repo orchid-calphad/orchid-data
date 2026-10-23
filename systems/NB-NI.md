@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-NI.html · Markdown: https://da
 
 130 accepted literature values from 6 paper(s) (experimental 65, model 51, DFT 14); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI.json) · [CSV](https://data.orchid-project.org/systems/NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-NI/NbNi-04Jou.json) · [Markdown](https://data.orchid-project.org/systems/NB-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI.json) · [CSV](https://data.orchid-project.org/systems/NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-NI/NbNi-04Jou.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NB-NI.html) · [Markdown](https://data.orchid-project.org/systems/NB-NI.md)
 
 Table: Accepted values by evidence class
 

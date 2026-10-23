@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-SN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-SN/HfSn-12Tan.json) · [Markdown](https://data.orchid-project.org/systems/HF-SN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-SN/HfSn-12Tan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-SN.html) · [Markdown](https://data.orchid-project.org/systems/HF-SN.md)
 
 ## Calculated phase diagrams
 

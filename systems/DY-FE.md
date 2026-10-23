@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-FE.html · Markdown: https://da
 
 55 accepted literature values from 1 paper(s) (experimental 9, model 46); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-FE.json) · [CSV](https://data.orchid-project.org/systems/DY-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-FE/DyFe-17Ron.json) · [Markdown](https://data.orchid-project.org/systems/DY-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-FE.json) · [CSV](https://data.orchid-project.org/systems/DY-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-FE/DyFe-17Ron.json) · [phases (8)](https://data.orchid-project.org/phases/pages/DY-FE.html) · [Markdown](https://data.orchid-project.org/systems/DY-FE.md)
 
 Table: Accepted values by evidence class
 

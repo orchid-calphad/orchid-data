@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-FE.html · Markdown: https://da
 
 16 accepted literature values from 2 paper(s) (experimental 13, model 3); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-FE.json) · [CSV](https://data.orchid-project.org/systems/CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-FE/CoFe-02Ohn.json) · [Markdown](https://data.orchid-project.org/systems/CO-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-FE.json) · [CSV](https://data.orchid-project.org/systems/CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-FE/CoFe-02Ohn.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CO-FE.html) · [Markdown](https://data.orchid-project.org/systems/CO-FE.md)
 
 Table: Accepted values by evidence class
 

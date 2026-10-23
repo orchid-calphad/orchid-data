@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-MG.html · Markdown: https://da
 
 18 accepted literature values from 2 paper(s) (experimental 14, model 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-MG.json) · [CSV](https://data.orchid-project.org/systems/CO-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-MG/CoMg-22Yan.json) · [Markdown](https://data.orchid-project.org/systems/CO-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-MG.json) · [CSV](https://data.orchid-project.org/systems/CO-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-MG/CoMg-22Yan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CO-MG.html) · [Markdown](https://data.orchid-project.org/systems/CO-MG.md)
 
 Table: Accepted values by evidence class
 

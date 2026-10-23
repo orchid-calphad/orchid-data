@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TI-ZN.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (model 2, DFT 2); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI-ZN.json) · [CSV](https://data.orchid-project.org/systems/TI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-ZN/TiZn-06Doi.json) · [Markdown](https://data.orchid-project.org/systems/TI-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-ZN.json) · [CSV](https://data.orchid-project.org/systems/TI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-ZN/TiZn-06Doi.json) · [phases (13)](https://data.orchid-project.org/phases/pages/TI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/TI-ZN.md)
 
 Table: Accepted values by evidence class
 

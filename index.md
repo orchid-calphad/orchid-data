@@ -13,6 +13,7 @@ Status: Version 1, machine-extracted: values were read from papers by language-m
 - [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1813 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
 - [Compounds](https://data.orchid-project.org/compounds/index.html) — 1477 formation-enthalpy pages with DFT comparison.
 - [Reporting papers](https://data.orchid-project.org/papers/index.html) — citation, DOI, systems, number of values.
+- [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,496 phases: names, structure (when certain), stability, TDB PHASE/CONSTITUENT statements, example DOIs.
 - Interactive tools: [data explorer](https://orchid-project.org/data-explorer/), [phase diagrams](https://orchid-project.org/phase-diagrams/), [phase registry](https://orchid-project.org/phases/), [DFT vs experiment](https://orchid-project.org/dft-parity/).
 
 ## Folder guide
@@ -24,7 +25,7 @@ Table: Folders of the data site
 | [literature/](https://data.orchid-project.org/literature/SCHEMA.md) | Literature records: index.json, systems/\<SYS>.json, papers.json, contexts.json, dft_parity.json, full CSV/JSONL dumps; fields in SCHEMA.md. |
 | [phase-diagrams/](https://data.orchid-project.org/phase-diagrams/index.json) | Calculated binary phase diagrams (pycalphad, SGTE binary collection): index.json and sgte/\<TDB>.json (phase regions, invariants, grid). |
 | hulls/ | Binary convex hulls: dft-mp/ (Materials Project), dft-oqmd/ (OQMD), calphad-sgte/ (assessed CALPHAD), one JSON per system. |
-| [phases/](https://data.orchid-project.org/phases/SCHEMA.md) | Phase registry (binary systems): registry.json / .csv / .parquet / .jsonld, structure_types.json, review_queue.json, CONFLICTS.md, systems/\<SYS>.json; fields in SCHEMA.md. |
+| [phases/](https://data.orchid-project.org/phases/SCHEMA.md) | Phase registry (binary systems): registry.json (compact index) / .csv / .parquet / .jsonld, structure_types.json / .parquet, review_queue.json, CONFLICTS.md, systems/\<SYS>.json (full records), pages/\<SYS>.html\|.md (static pages); fields in SCHEMA.md. |
 | [systems/](https://data.orchid-project.org/systems/index.html) | Static pages per chemical system: \<SYS>.html, \<SYS>.md, \<SYS>.csv. |
 | [compounds/](https://data.orchid-project.org/compounds/index.html) | Static pages per compound (reduced formula): \<FORMULA>.html, \<FORMULA>.md. |
 | [papers/](https://data.orchid-project.org/papers/index.html) | Index of reporting papers. |

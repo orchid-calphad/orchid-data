@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/U-ZR.html · Markdown: https://dat
 
 77 accepted literature values from 4 paper(s) (experimental 52, model 24, unspecified 1); 9 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/U-ZR.json) · [CSV](https://data.orchid-project.org/systems/U-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-ZR/UZr-04Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/U-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/U-ZR.json) · [CSV](https://data.orchid-project.org/systems/U-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-ZR/UZr-04Che-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/U-ZR.html) · [Markdown](https://data.orchid-project.org/systems/U-ZR.md)
 
 Table: Accepted values by evidence class
 

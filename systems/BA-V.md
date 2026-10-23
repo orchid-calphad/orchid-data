@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-V/BaV-88Smi.json) · [Markdown](https://data.orchid-project.org/systems/BA-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-V/BaV-88Smi.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-V.html) · [Markdown](https://data.orchid-project.org/systems/BA-V.md)
 
 ## Calculated phase diagrams
 

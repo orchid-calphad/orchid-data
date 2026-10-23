@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>O–Zr phases — ORCHID phase registry</title>
+<meta name="description" content="O–Zr system: 15 phases (tier A 4, tier C 4, liquid 2, gas 2, needs_review 3); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/O-ZR.html">
+<link rel="alternate" type="text/markdown" href="O-ZR.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"O–Zr system: 15 phases (tier A 4, tier C 4, liquid 2, gas 2, needs_review 3); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/O-ZR.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/O-ZR.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:bcc-a2","paper:10.1016/j.calphad.2004.09.002:bcc","paper:10.1016/j.calphad.2004.09.002:β","paper:10.1016/j.calphad.2004.09.002:β-ZrO2","paper:10.1016/s0022-3115(98)00450-4:β","paper:10.1016/s0364-5916(02)00027-5:BCC","paper:10.1016/s0364-5916(02)00027-5:β ZrO2-x","tdb:ZrO-01Lia-LB.tdb:BCC_A2","tdb:ZrO-02Arr.tdb:BCC_A2","tdb:ZrO-04Che.tdb:BCC_A2","tdb:ZrO-04Wan.tdb:BCC_A2","tdb:ZrO-06Wan.tdb:BCC_A2","tdb:ZrO-23Jia.tdb:BCC_A2","tdb:ZrO-98Che.tdb:BCC_A2"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:o-zr:bcc-a2","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:c1-fluorite","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:c1-fluorite","paper:10.1016/j.calphad.2004.09.002:γ-ZrO2","tdb:ZrO-04Che.tdb:FLUORITE_C1","tdb:ZrO-04Wan.tdb:FLUORITE_C1","tdb:ZrO-06Wan.tdb:FLUORITE_C1"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1007/bf02881546","@type":"ScholarlyArticle","name":"J.P. Abriata, J. Garces, R. Versaci, Bull. Alloy Phase Diagr. 7 (1986) 116–124."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FLUORITE_C1","reviewStatus":"needs_review","termCode":"phase:o-zr:c1-fluorite","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-c1-fluorite"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:fcc-a1","tdb:ZrO-01Lia-LB.tdb:FCC_A1","tdb:ZrO-02Arr.tdb:FCC_A1","tdb:ZrO-04Che.tdb:FCC_A1","tdb:ZrO-04Wan.tdb:FCC_A1","tdb:ZrO-06Wan.tdb:FCC_A1","tdb:ZrO-23Jia.tdb:FCC_A1","tdb:ZrO-98Che.tdb:FCC_A1"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:o-zr:fcc-a1","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:gas","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:gas","tdb:ZrO-01Lia-LB.tdb:GAS","tdb:ZrO-02Arr.tdb:GAS","tdb:ZrO-04Che.tdb:GAS","tdb:ZrO-04Wan.tdb:GAS","tdb:ZrO-06Wan.tdb:GAS","tdb:ZrO-23Jia.tdb:GAS","tdb:ZrO-98Che.tdb:GAS"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:o-zr:gas","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-gas"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:hcp-3ord","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:hcp-3ord","tdb:ZrO-01Lia-LB.tdb:HCP_3ORD"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1515/ijmr-2001-0140","@type":"ScholarlyArticle","name":"P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_3ORD","reviewStatus":"needs_review","termCode":"phase:o-zr:hcp-3ord","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-hcp-3ord"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:hcp-a3","paper:10.1016/j.calphad.2004.09.002:hcp","paper:10.1016/s0364-5916(02)00027-5:(HCP)","paper:10.1016/s0364-5916(02)00027-5:HCP","tdb:ZrO-02Arr.tdb:HCP_A3","tdb:ZrO-04Che.tdb:HCP_A3","tdb:ZrO-04Wan.tdb:HCP_A3","tdb:ZrO-06Wan.tdb:HCP_A3","tdb:ZrO-23Jia.tdb:HCP_A3","tdb:ZrO-98Che.tdb:HCP_A3"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:o-zr:hcp-a3","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:ion","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:ion","tdb:ZrO-01Lia-LB.tdb:ION","tdb:ZrO-02Arr.tdb:ION","tdb:ZrO-04Che.tdb:ION","tdb:ZrO-04Wan.tdb:ION","tdb:ZrO-06Wan.tdb:ION"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."},{"@id":"https://doi.org/10.1515/ijmr-2001-0140","@type":"ScholarlyArticle","name":"P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ION","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-zr:ion","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-ion"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:liquid","paper:10.1016/j.calphad.2004.09.002:L","paper:10.1016/j.calphad.2004.09.002:liquid","paper:10.1016/s0022-3115(98)00450-4:L","paper:10.1016/s0364-5916(02)00027-5:L","paper:10.1016/s0364-5916(02)00027-5:Liquid","tdb:ZrO-01Lia-LB.tdb:LIQUID","tdb:ZrO-02Arr.tdb:LIQUID","tdb:ZrO-04Che.tdb:LIQUID","tdb:ZrO-04Wan.tdb:LIQUID","tdb:ZrO-06Wan.tdb:LIQUID","tdb:ZrO-23Jia.tdb:LIQUID","tdb:ZrO-98Che.tdb:LIQUID"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-zr:liquid","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:o2gas","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:o2gas","tdb:ZrO-01Lia-LB.tdb:O2GAS","tdb:ZrO-02Arr.tdb:O2GAS","tdb:ZrO-04Che.tdb:O2GAS","tdb:ZrO-04Wan.tdb:O2GAS","tdb:ZrO-06Wan.tdb:O2GAS","tdb:ZrO-23Jia.tdb:O2GAS","tdb:ZrO-98Che.tdb:O2GAS"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"O2GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:o-zr:o2gas","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-o2gas"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zr2o","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zr2o","paper:10.1016/s0364-5916(02)00027-5:Zr2O","tdb:ZrO-02Arr.tdb:ZR2O"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZR2O","pearsonSymbol":"cP6","prototype":"Cu2O","reviewStatus":"assigned","spaceGroupNumber":224,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c3-cu2o-cp6","strukturbericht":"C3","termCode":"phase:o-zr:zr2o","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zr2o"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zr3o","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zr3o","paper:10.1016/s0364-5916(02)00027-5:Zr3O","tdb:ZrO-02Arr.tdb:ZR3O"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZR3O","pearsonSymbol":"hP8","prototype":"Fe3N","reviewStatus":"assigned","spaceGroupNumber":182,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:fe3n-hp8","termCode":"phase:o-zr:zr3o","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zr3o"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zr6o","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zr6o","paper:10.1016/s0364-5916(02)00027-5:Zr6O","tdb:ZrO-02Arr.tdb:ZR6O"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZR6O","reviewStatus":"needs_review","termCode":"phase:o-zr:zr6o","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zr6o"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zro2-c1","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zro2-c1","paper:10.1016/s0364-5916(02)00027-5:γ ZrO2-x","tdb:ZrO-01Lia-LB.tdb:ZRO2_C1","tdb:ZrO-02Arr.tdb:ZRO2_C1","tdb:ZrO-23Jia.tdb:ZRO2_C1","tdb:ZrO-98Che.tdb:ZRO2_C1"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1515/ijmr-2001-0140","@type":"ScholarlyArticle","name":"P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZRO2_C1","pearsonSymbol":"cF12","prototype":"CaF2","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c1-caf2-cf12","strukturbericht":"C1","termCode":"phase:o-zr:zro2-c1","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zro2-c1"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zro2-mono","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zro2-mono","tdb:ZrO-01Lia-LB.tdb:ZRO2_MONO","tdb:ZrO-02Arr.tdb:ZRO2_MONO","tdb:ZrO-04Che.tdb:ZRO2_MONO","tdb:ZrO-04Wan.tdb:ZRO2_MONO","tdb:ZrO-06Wan.tdb:ZRO2_MONO","tdb:ZrO-23Jia.tdb:ZRO2_MONO","tdb:ZrO-98Che.tdb:ZRO2_MONO"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZRO2_MONO","pearsonSymbol":"mP12","prototype":"ZrO2-m","reviewStatus":"assigned","spaceGroupNumber":14,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c43-zro2-m-mp12","strukturbericht":"C43","termCode":"phase:o-zr:zro2-mono","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zro2-mono"},{"@id":"https://data.orchid-project.org/phases/#phase:o-zr:zro2-tetr","@type":"DefinedTerm","alternateName":["corpus:phase:o-zr:zro2-tetr","tdb:ZrO-01Lia-LB.tdb:ZRO2_TETR","tdb:ZrO-02Arr.tdb:ZRO2_TETR","tdb:ZrO-04Che.tdb:ZRO2_TETR","tdb:ZrO-04Wan.tdb:ZRO2_TETR","tdb:ZrO-06Wan.tdb:ZRO2_TETR","tdb:ZrO-23Jia.tdb:ZRO2_TETR","tdb:ZrO-98Che.tdb:ZRO2_TETR"],"chemicalSystem":"O-ZR","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2004.09.002","@type":"ScholarlyArticle","name":"Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004)."},{"@id":"https://doi.org/10.1016/j.jnucmat.2022.154180","@type":"ScholarlyArticle","name":"Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0022-3115(98)00450-4","@type":"ScholarlyArticle","name":"P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00027-5","@type":"ScholarlyArticle","name":"R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ZRO2_TETR","pearsonSymbol":"tP6","prototype":"HgI2","reviewStatus":"assigned","spaceGroupNumber":137,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:hgi2-tp6","termCode":"phase:o-zr:zro2-tetr","url":"https://data.orchid-project.org/phases/pages/O-ZR.html#phase-o-zr-zro2-tetr"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","O–Zr"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"O–Zr phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/O-ZR.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>O–Zr phases</h1>
+<p>15 phases (tier A 4, tier C 4, liquid 2, gas 2, needs_review 3); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=O-ZR">interactive registry</a> · <a href="../systems/O-ZR.json">full JSON</a> · <a href="../../systems/O-ZR.html">O–Zr system page</a> · <a href="O-ZR.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the O–Zr system (15)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-o-zr-bcc-a2">BCC_A2</a><br><small>phase:o-zr:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 6 of 6 calculated diagram(s): 1138–2255.73 K, x(O) 0–0.11818</td><td class="n">49</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-c1-fluorite">FLUORITE_C1</a><br><small>phase:o-zr:c1-fluorite</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 1789.79–3069.93 K, x(O) 0.61667–0.66666</td><td class="n">6</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-fcc-a1">FCC_A1</a><br><small>phase:o-zr:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>not stable in 6 calculated diagram(s)</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-gas">GAS</a><br><small>phase:o-zr:gas</small></th><td>gas</td><td>gas</td><td>stable in 6 of 6 calculated diagram(s): 300.49–4000 K, x(O) 0.9431–1</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-hcp-3ord">HCP_3ORD</a><br><small>phase:o-zr:hcp-3ord</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–2400.6 K, x(O) 0–0.32055</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-hcp-a3">HCP_A3</a><br><small>phase:o-zr:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–2430.73 K, x(O) 0–0.33333</td><td class="n">16</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-ion">ION</a><br><small>phase:o-zr:ion</small></th><td>liquid</td><td>liquid</td><td>stable in 4 of 4 calculated diagram(s): 2127.86–4000 K, x(O) 0–0.66999</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-liquid">LIQUID</a><br><small>phase:o-zr:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 6 calculated diagram(s): 2128.54–4000 K, x(O) 0–0.66941</td><td class="n">42</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-o2gas">O2GAS</a><br><small>phase:o-zr:o2gas</small></th><td>gas</td><td>gas</td><td>stable in 5 of 6 calculated diagram(s): 300–1185 K, x(O) 1–1</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zr2o">ZR2O</a><br><small>phase:o-zr:zr2o</small></th><td>Cu2O · C3 · cP6 · Pn-3m (224)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–646.66 K, x(O) 0.33333–0.33333</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zr3o">ZR3O</a><br><small>phase:o-zr:zr3o</small></th><td>Fe3N · hP8 · P6_322 (182)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–637.14 K, x(O) 0.25–0.25</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zr6o">ZR6O</a><br><small>phase:o-zr:zr6o</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–582.24 K, x(O) 0.14286–0.14286</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zro2-c1">ZRO2_C1</a><br><small>phase:o-zr:zro2-c1</small></th><td>CaF2 · C1 · cF12 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 1692.89–2984.22 K, x(O) 0.60342–0.67026</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zro2-mono">ZRO2_MONO</a><br><small>phase:o-zr:zro2-mono</small></th><td>ZrO2-m · C43 · mP12 · P2_1/c (14)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 6 calculated diagram(s): 300–1503.73 K, x(O) 0.66664–0.66667</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-zr-zro2-tetr">ZRO2_TETR</a><br><small>phase:o-zr:zro2-tetr</small></th><td>HgI2 · tP6 · P4_2/nmc (137)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 6 calculated diagram(s): 1465.32–2650.1 K, x(O) 0.66452–0.66667</td><td class="n">0</td><td class="n">7</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-o-zr-bcc-a2">BCC_A2 (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 1138–2255.73 K, x(O) 0–0.11818</li>
+<li>Literature: 49 values (49 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:o-zr:bcc-a2<br><small>paper: </small>paper:10.1016/j.calphad.2004.09.002:bcc, paper:10.1016/j.calphad.2004.09.002:β, paper:10.1016/j.calphad.2004.09.002:β-ZrO2, paper:10.1016/s0022-3115(98)00450-4:β, paper:10.1016/s0364-5916(02)00027-5:BCC, paper:10.1016/s0364-5916(02)00027-5:β ZrO2-x<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:BCC_A2, tdb:ZrO-02Arr.tdb:BCC_A2, tdb:ZrO-04Che.tdb:BCC_A2, tdb:ZrO-04Wan.tdb:BCC_A2, tdb:ZrO-06Wan.tdb:BCC_A2, tdb:ZrO-23Jia.tdb:BCC_A2, tdb:ZrO-98Che.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>45: PHASE BCC_A2 %B 2 1 3 !
+46: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: BCC_A2, type code %B, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>48: PHASE BCC_A2 %B 2 1 3 !
+49: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: BCC_A2, type code %B, sha256 <code>4011828e6dc89604…</code></p>
+<pre>45: PHASE BCC_A2 %B 2 1 1.5 !
+46: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: BCC_A2, type code %B, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>48: PHASE BCC_A2 %B 2 1 1.5 !
+49: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: BCC_A2, type code %B, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>52: PHASE BCC_A2 %B 2 1 1 !
+53: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: BCC_A2, type code %B, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>46: PHASE BCC_A2 %B 2 1 3 !
+47: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: BCC_A2, type code %B, sha256 <code>96718081b9016929…</code></p>
+<pre>48: PHASE BCC_A2 %B 2 1 3 !
+49: CONST BCC_A2 : ZR : VA% O : !</pre>
+<p>Example references (10 of 12; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3115(61)90075-7">doi:10.1016/0022-3115(61)90075-7</a> Erich Gebhardt, Hans-Dieter Seghezzi, Wolfgang Dürrschnabel, Untersuchungen in system Zirkonium-Sauerstoff teil 2 untersuchungen zur kinetik der reaktion zwischen Zirkonium und sauerstoff, sowie über die konstitution des systems Zirkonium-Sauerstoff, Journal of Nuclear Materials 4, 255-268 (1961).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02881546">doi:10.1007/bf02881546</a> J.P. Abriata, J. Garces, R. Versaci, Bull. Alloy Phase Diagr. 7 (1986) 116–124.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1111/j.1151-2916.1992.tb04384.x">doi:10.1111/j.1151-2916.1992.tb04384.x</a> Yong Du, Zhanpeng Jin, Peiyun Huang, Thermodynamic Calculation of the Zirconia–Calcia System, Journal of the American Ceramic Society 75, 3040-3048 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1021/ja01161a106">doi:10.1021/ja01161a106</a> J. P. Coughlin, E. G. King, High-Temperature Heat Contents of Some Zirconium-containing Substances
+                    &lt;sup&gt;1&lt;/sup&gt;, J. Am. Chem. Soc. 72, 2262-2265 (1950).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-c1-fluorite">FLUORITE_C1 (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:c1-fluorite</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: unrecognised_name_tokens:FLUORITE</li>
+<li>Candidate (literature_printed): CaF2 · cF12 — printed with a label mapped to this phase</li>
+<li>Candidate (name_token): CaF2 · C1 · cF12 · Fm-3m (225) — Strukturbericht/word &#x27;C1&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): CaF2 · C1 · cF12 · Fm-3m (225) — Hallstedt 2025 mmc2 row for FLUORITE_C1: CeO2</li>
+<li>Candidate (tdb_comment): CaF2 · cF12 · Fm-3m — ZrO-04Che.tdb: &#x27;Prototype CaF2 (cF12, Fm-3m)&#x27;</li>
+<li>Candidate (tdb_comment): CaF2 · cF12 · Fm-3m — ZrO-04Wan.tdb: &#x27;Prototype CaF2 (cF12, Fm-3m)&#x27;</li>
+<li>Candidate (tdb_comment): CaF2 · cF12 · Fm-3m — ZrO-06Wan.tdb: &#x27;Prototype CaF2 (cF12, Fm-3m)&#x27;</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1789.79–3069.93 K, x(O) 0.61667–0.66666</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:c1-fluorite">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:o-zr:c1-fluorite<br><small>paper: </small>paper:10.1016/j.calphad.2004.09.002:γ-ZrO2<br><small>tdb: </small>tdb:ZrO-04Che.tdb:FLUORITE_C1, tdb:ZrO-04Wan.tdb:FLUORITE_C1, tdb:ZrO-06Wan.tdb:FLUORITE_C1<br></p>
+<h3>TDB models of FLUORITE_C1 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: FLUORITE_C1, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>55: PHASE FLUORITE_C1:I % 2 1 2 !
+56: CONST FLUORITE_C1:I : ZR ZR+4% : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: FLUORITE_C1, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>58: PHASE FLUORITE_C1:I % 2 1 2 !
+59: CONST FLUORITE_C1:I : ZR+2 ZR+4% : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: FLUORITE_C1, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>62: PHASE FLUORITE_C1:I % 2 1 2 !
+63: CONST FLUORITE_C1:I : ZR+2 ZR+4% : O-2 VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02881546">doi:10.1007/bf02881546</a> J.P. Abriata, J. Garces, R. Versaci, Bull. Alloy Phase Diagr. 7 (1986) 116–124.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-fcc-a1">FCC_A1 (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 6 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-zr:fcc-a1<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:FCC_A1, tdb:ZrO-02Arr.tdb:FCC_A1, tdb:ZrO-04Che.tdb:FCC_A1, tdb:ZrO-04Wan.tdb:FCC_A1, tdb:ZrO-06Wan.tdb:FCC_A1, tdb:ZrO-23Jia.tdb:FCC_A1, tdb:ZrO-98Che.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>40: PHASE FCC_A1 %A 2 1 1 !
+41: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: FCC_A1, type code %A, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>43: PHASE FCC_A1 %A 2 1 1 !
+44: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: FCC_A1, type code %A, sha256 <code>4011828e6dc89604…</code></p>
+<pre>39: PHASE FCC_A1 %A 2 1 1 !
+40: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: FCC_A1, type code %A, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>42: PHASE FCC_A1 %A 2 1 1 !
+43: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: FCC_A1, type code %A, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>46: PHASE FCC_A1 %A 2 1 1 !
+47: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: FCC_A1, type code %A, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>41: PHASE FCC_A1 %A 2 1 1 !
+42: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: FCC_A1, type code %A, sha256 <code>96718081b9016929…</code></p>
+<pre>43: PHASE FCC_A1 %A 2 1 1 !
+44: CONST FCC_A1 : ZR : VA% O : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-gas">GAS (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 300.49–4000 K, x(O) 0.9431–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:gas">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-zr:gas<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:GAS, tdb:ZrO-02Arr.tdb:GAS, tdb:ZrO-04Che.tdb:GAS, tdb:ZrO-04Wan.tdb:GAS, tdb:ZrO-06Wan.tdb:GAS, tdb:ZrO-23Jia.tdb:GAS, tdb:ZrO-98Che.tdb:GAS<br></p>
+<h3>TDB models of GAS (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: GAS, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>72: PHASE GAS:G % 1 1 !
+73: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: GAS, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>89: PHASE GAS:G % 1 1 !
+90: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: GAS, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>71: PHASE GAS:G % 1 1 !
+72: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: GAS, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>74: PHASE GAS:G % 1 1 !
+75: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: GAS, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>78: PHASE GAS:G % 1 1 !
+79: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: GAS, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>72: PHASE GAS:G % 1 1 !
+73: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: GAS, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>74: PHASE GAS:G % 1 1 !
+75: CONST GAS:G : O O2 O3 ZR ZR2 ZRO ZRO2 : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-hcp-3ord">HCP_3ORD (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:hcp-3ord</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_name; sgte_mmc2_row_disagrees_with_name:HCP_3ORD; unrecognised_name_tokens:3ORD</li>
+<li>Candidate (name_token): Mg · A3 · hP2 · P6_3/mmc (194) — Strukturbericht/word &#x27;A3&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): Zr3O · hP8 · P6_322 (182) — Hallstedt 2025 mmc2 row for HCP_3ORD: Zr3O</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2400.6 K, x(O) 0–0.32055</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:hcp-3ord">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:o-zr:hcp-3ord<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:HCP_3ORD<br></p>
+<h3>TDB models of HCP_3ORD (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: HCP_3ORD, type code %A, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>51: PHASE HCP_3ORD %A 4 3 1 1 1 !
+52: CONST HCP_3ORD : ZR : O% VA : O VA% : O VA% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-hcp-a3">HCP_A3 (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–2430.73 K, x(O) 0–0.33333</li>
+<li>Literature: 16 values (16 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:o-zr:hcp-a3<br><small>paper: </small>paper:10.1016/j.calphad.2004.09.002:hcp, paper:10.1016/s0364-5916(02)00027-5:(HCP), paper:10.1016/s0364-5916(02)00027-5:HCP<br><small>tdb: </small>tdb:ZrO-02Arr.tdb:HCP_A3, tdb:ZrO-04Che.tdb:HCP_A3, tdb:ZrO-04Wan.tdb:HCP_A3, tdb:ZrO-06Wan.tdb:HCP_A3, tdb:ZrO-23Jia.tdb:HCP_A3, tdb:ZrO-98Che.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: HCP_A3, type code %A, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>53: PHASE HCP_A3 %A 2 1 0.5 !
+54: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: HCP_A3, type code %A, sha256 <code>4011828e6dc89604…</code></p>
+<pre>50: PHASE HCP_A3 %A 2 1 0.5 !
+51: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: HCP_A3, type code %A, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>53: PHASE HCP_A3 %A 2 1 0.5 !
+54: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: HCP_A3, type code %A, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>57: PHASE HCP_A3 %A 2 1 0.5 !
+58: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: HCP_A3, type code %A, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>51: PHASE HCP_A3 %A 2 1 2 !
+52: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: HCP_A3, type code %A, sha256 <code>96718081b9016929…</code></p>
+<pre>53: PHASE HCP_A3 %A 2 1 2 !
+54: CONST HCP_A3 : ZR : VA% O : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02881546">doi:10.1007/bf02881546</a> J.P. Abriata, J. Garces, R. Versaci, Bull. Alloy Phase Diagr. 7 (1986) 116–124.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-ion">ION (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:ion</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 2127.86–4000 K, x(O) 0–0.66999</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:ion">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:o-zr:ion<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:ION, tdb:ZrO-02Arr.tdb:ION, tdb:ZrO-04Che.tdb:ION, tdb:ZrO-04Wan.tdb:ION, tdb:ZrO-06Wan.tdb:ION<br></p>
+<h3>TDB models of ION (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: ION, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>32: PHASE ION:Y % 2 1 1 !
+33: CONST ION:Y : ZR+4 : O-2 VA O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ION, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>35: PHASE ION:Y % 2 1 1 !
+36: CONST ION:Y : ZR+4 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: ION, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>31: PHASE ION:Y % 2 1 1 !
+32: CONST ION:Y : ZR+4 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: ION, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>34: PHASE ION:Y % 2 1 1 !
+35: CONST ION:Y : ZR+4 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: ION, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>38: PHASE ION:Y % 2 1 1 !
+39: CONST ION:Y : ZR+4 : O-2 VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-liquid">LIQUID (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 6 calculated diagram(s): 2128.54–4000 K, x(O) 0–0.66941</li>
+<li>Literature: 42 values (42 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:o-zr:liquid<br><small>paper: </small>paper:10.1016/j.calphad.2004.09.002:L, paper:10.1016/j.calphad.2004.09.002:liquid, paper:10.1016/s0022-3115(98)00450-4:L, paper:10.1016/s0364-5916(02)00027-5:L, paper:10.1016/s0364-5916(02)00027-5:Liquid<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:LIQUID, tdb:ZrO-02Arr.tdb:LIQUID, tdb:ZrO-04Che.tdb:LIQUID, tdb:ZrO-04Wan.tdb:LIQUID, tdb:ZrO-06Wan.tdb:LIQUID, tdb:ZrO-23Jia.tdb:LIQUID, tdb:ZrO-98Che.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: LIQUID, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>35: PHASE LIQUID:L % 1 1 !
+36: CONST LIQUID:L : ZR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: LIQUID, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>38: PHASE LIQUID:L % 1 1 !
+39: CONST LIQUID:L : ZR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: LIQUID, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>34: PHASE LIQUID:L % 1 1 !
+35: CONST LIQUID:L : ZR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: LIQUID, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>37: PHASE LIQUID:L % 1 1 !
+38: CONST LIQUID:L : ZR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: LIQUID, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>41: PHASE LIQUID:L % 1 1 !
+42: CONST LIQUID:L : ZR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: LIQUID, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>36: PHASE LIQUID:L % 1 1 !
+37: CONST LIQUID:L : O ZR ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: LIQUID, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>38: PHASE LIQUID:L % 1 1 !
+39: CONST LIQUID:L : O ZR ZRO2 : !</pre>
+<p>Example references (10 of 13; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02881546">doi:10.1007/bf02881546</a> J.P. Abriata, J. Garces, R. Versaci, Bull. Alloy Phase Diagr. 7 (1986) 116–124.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0038-092x(66)90014-4">doi:10.1016/0038-092x(66)90014-4</a> Tetsuo Noguchi, Takeshi Kozuka, Heating curves of solids obtained by a solar furnace, Solar Energy 10, 203-206 (1966).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19322040105">doi:10.1002/zaac.19322040105</a> P. Clausing, Über die Schmelzpunkte des Zirkonoxydes und des Hafniumoxydes, Z. Anorg. Allg. Chem. 204, 33-39 (1932).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf01591647">doi:10.1007/bf01591647</a> F. Henning, Der Schmelzpunkt des Hafniumoxydes, Naturwissenschaften 13, 661-661 (1925).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-o2gas">O2GAS (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:o2gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 5 of 6 calculated diagram(s): 300–1185 K, x(O) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:o2gas">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-zr:o2gas<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:O2GAS, tdb:ZrO-02Arr.tdb:O2GAS, tdb:ZrO-04Che.tdb:O2GAS, tdb:ZrO-04Wan.tdb:O2GAS, tdb:ZrO-06Wan.tdb:O2GAS, tdb:ZrO-23Jia.tdb:O2GAS, tdb:ZrO-98Che.tdb:O2GAS<br></p>
+<h3>TDB models of O2GAS (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: O2GAS, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>69: PHASE O2GAS % 1 1 !
+70: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: O2GAS, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>86: PHASE O2GAS % 1 1 !
+87: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: O2GAS, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>68: PHASE O2GAS % 1 1 !
+69: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: O2GAS, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>71: PHASE O2GAS % 1 1 !
+72: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: O2GAS, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>75: PHASE O2GAS % 1 1 !
+76: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: O2GAS, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>69: PHASE O2GAS % 1 1 !
+70: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: O2GAS, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>71: PHASE O2GAS % 1 1 !
+72: CONST O2GAS : O2 :!</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zr2o">ZR2O (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zr2o</code>; status <code>assigned</code></li>
+<li>Structure: Cu2O · C3 · cP6 · Pn-3m (224); type <code>st:c3-cu2o-cp6</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: O 0.3333, Zr 0.6667</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–646.66 K, x(O) 0.33333–0.33333</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zr2o">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-zr:zr2o<br><small>paper: </small>paper:10.1016/s0364-5916(02)00027-5:Zr2O<br><small>tdb: </small>tdb:ZrO-02Arr.tdb:ZR2O<br></p>
+<h3>TDB models of ZR2O (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZR2O, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>68: PHASE ZR2O % 2 2 1 !
+69: CONST ZR2O : ZR : O : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zr3o">ZR3O (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zr3o</code>; status <code>assigned</code></li>
+<li>Structure: Fe3N · hP8 · P6_322 (182); type <code>st:fe3n-hp8</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: O 0.2500, Zr 0.7500</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–637.14 K, x(O) 0.25–0.25</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zr3o">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-zr:zr3o<br><small>paper: </small>paper:10.1016/s0364-5916(02)00027-5:Zr3O<br><small>tdb: </small>tdb:ZrO-02Arr.tdb:ZR3O<br></p>
+<h3>TDB models of ZR3O (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZR3O, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>63: PHASE ZR3O % 2 3 1 !
+64: CONST ZR3O : ZR : O : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zr6o">ZR6O (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zr6o</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_mp; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (dft_oqmd): P-31c (163) — on-hull OQMD O1 Zr6 at x(ZR)=0.8571</li>
+<li>Candidate (sgte_mmc2): (Zr6O) — Hallstedt 2025 mmc2 row for ZR6O: Zr6O</li>
+<li>Stoichiometry: O 0.1429, Zr 0.8571</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–582.24 K, x(O) 0.14286–0.14286</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zr6o">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-zr:zr6o<br><small>paper: </small>paper:10.1016/s0364-5916(02)00027-5:Zr6O<br><small>tdb: </small>tdb:ZrO-02Arr.tdb:ZR6O<br></p>
+<h3>TDB models of ZR6O (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZR6O, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>58: PHASE ZR6O % 2 6 1 !
+59: CONST ZR6O : ZR : O : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zro2-c1">ZRO2_C1 (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zro2-c1</code>; status <code>assigned</code></li>
+<li>Structure: CaF2 · C1 · cF12 · Fm-3m (225); type <code>st:c1-caf2-cf12</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 1692.89–2984.22 K, x(O) 0.60342–0.67026</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zro2-c1">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:o-zr:zro2-c1<br><small>paper: </small>paper:10.1016/s0364-5916(02)00027-5:γ ZrO2-x<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:ZRO2_C1, tdb:ZrO-02Arr.tdb:ZRO2_C1, tdb:ZrO-23Jia.tdb:ZRO2_C1, tdb:ZrO-98Che.tdb:ZRO2_C1<br></p>
+<h3>TDB models of ZRO2_C1 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: ZRO2_C1, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>56: PHASE ZRO2_C1 % 2 1 2 !
+57: CONST ZRO2_C1 : ZR : O% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZRO2_C1, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>73: PHASE ZRO2_C1:I % 2 1 2 !
+74: CONST ZRO2_C1:I : ZR : O% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: ZRO2_C1, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>66: PHASE ZRO2_C1 % 1 1 !
+67: CONST ZRO2_C1 : ZR ZRO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: ZRO2_C1, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>68: PHASE ZRO2_C1 % 2 1 2 !
+69: CONST ZRO2_C1 : VA ZR : O VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zro2-mono">ZRO2_MONO (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zro2-mono</code>; status <code>assigned</code></li>
+<li>Structure: ZrO2-m · C43 · mP12 · P2_1/c (14); type <code>st:c43-zro2-m-mp12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MONO, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 5 of 6 calculated diagram(s): 300–1503.73 K, x(O) 0.66664–0.66667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zro2-mono">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-zr:zro2-mono<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:ZRO2_MONO, tdb:ZrO-02Arr.tdb:ZRO2_MONO, tdb:ZrO-04Che.tdb:ZRO2_MONO, tdb:ZrO-04Wan.tdb:ZRO2_MONO, tdb:ZrO-06Wan.tdb:ZRO2_MONO, tdb:ZrO-23Jia.tdb:ZRO2_MONO, tdb:ZrO-98Che.tdb:ZRO2_MONO<br></p>
+<h3>TDB models of ZRO2_MONO (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: ZRO2_MONO, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>61: PHASE ZRO2_MONO % 2 1 2 !
+62: CONST ZRO2_MONO : ZR : O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZRO2_MONO, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>78: PHASE ZRO2_MONO:I % 2 1 2 !
+79: CONST ZRO2_MONO:I : ZR : O% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: ZRO2_MONO, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>60: PHASE ZRO2_MONO:I % 2 1 2 !
+61: CONST ZRO2_MONO:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: ZRO2_MONO, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>63: PHASE ZRO2_MONO:I % 2 1 2 !
+64: CONST ZRO2_MONO:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: ZRO2_MONO, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>67: PHASE ZRO2_MONO:I % 2 1 2 !
+68: CONST ZRO2_MONO:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: ZRO2_MONO, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>56: PHASE ZRO2_MONO % 2 1 2 !
+57: CONST ZRO2_MONO : ZR : O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: ZRO2_MONO, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>58: PHASE ZRO2_MONO % 2 1 2 !
+59: CONST ZRO2_MONO : ZR : O : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-zr-zro2-tetr">ZRO2_TETR (O–Zr)</h2>
+<ul>
+<li>Id: <code>phase:o-zr:zro2-tetr</code>; status <code>assigned</code></li>
+<li>Structure: HgI2 · tP6 · P4_2/nmc (137); type <code>st:hgi2-tp6</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:TETR, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 4 of 6 calculated diagram(s): 1465.32–2650.1 K, x(O) 0.66452–0.66667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-zr:zro2-tetr">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-zr:zro2-tetr<br><small>tdb: </small>tdb:ZrO-01Lia-LB.tdb:ZRO2_TETR, tdb:ZrO-02Arr.tdb:ZRO2_TETR, tdb:ZrO-04Che.tdb:ZRO2_TETR, tdb:ZrO-04Wan.tdb:ZRO2_TETR, tdb:ZrO-06Wan.tdb:ZRO2_TETR, tdb:ZrO-23Jia.tdb:ZRO2_TETR, tdb:ZrO-98Che.tdb:ZRO2_TETR<br></p>
+<h3>TDB models of ZRO2_TETR (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-01Lia-LB.tdb">ZrO-01Lia-LB.tdb</a>: ZRO2_TETR, type code %, sha256 <code>6186bf8ce3a9c3fe…</code></p>
+<pre>66: PHASE ZRO2_TETR % 2 1 2 !
+67: CONST ZRO2_TETR : ZR : O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-02Arr.tdb">ZrO-02Arr.tdb</a>: ZRO2_TETR, type code %, sha256 <code>7c8790ce3e67d37d…</code></p>
+<pre>83: PHASE ZRO2_TETR:I % 2 1 2 !
+84: CONST ZRO2_TETR:I : ZR : O% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Che.tdb">ZrO-04Che.tdb</a>: ZRO2_TETR, type code %, sha256 <code>4011828e6dc89604…</code></p>
+<pre>65: PHASE ZRO2_TETR:I % 2 1 2 !
+66: CONST ZRO2_TETR:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-04Wan.tdb">ZrO-04Wan.tdb</a>: ZRO2_TETR, type code %, sha256 <code>b2c2da28b0434ca0…</code></p>
+<pre>68: PHASE ZRO2_TETR:I % 2 1 2 !
+69: CONST ZRO2_TETR:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-06Wan.tdb">ZrO-06Wan.tdb</a>: ZRO2_TETR, type code %, sha256 <code>942aa0afdfa355d9…</code></p>
+<pre>72: PHASE ZRO2_TETR:I % 2 1 2 !
+73: CONST ZRO2_TETR:I : ZR+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-23Jia.tdb">ZrO-23Jia.tdb</a>: ZRO2_TETR, type code %, sha256 <code>46c69c633d1f2a3d…</code></p>
+<pre>61: PHASE ZRO2_TETR % 2 1 2 !
+62: CONST ZRO2_TETR : ZR : O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/ZrO-98Che.tdb">ZrO-98Che.tdb</a>: ZRO2_TETR, type code %, sha256 <code>96718081b9016929…</code></p>
+<pre>63: PHASE ZRO2_TETR % 2 1 2 !
+64: CONST ZRO2_TETR : ZR : O : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2004.09.002">doi:10.1016/j.calphad.2004.09.002</a> Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2022.154180">doi:10.1016/j.jnucmat.2022.154180</a> Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0022-3115(98)00450-4">doi:10.1016/S0022-3115(98)00450-4</a> P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 257, 213-55(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00027-5">doi:10.1016/S0364-5916(02)00027-5</a> R. Arroyave, L. Kaufman, T.W. Eagar, Calphad, 26, 95-118(2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-2001-0140">doi:10.1515/ijmr-2001-0140</a> P. Liang, N. Dupin, S.G. Fries, H.J. Seifert, I. Ansara, H.L. Lukas, F. Aldinger, Z. Metallkd., 92, 747-56(2001).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

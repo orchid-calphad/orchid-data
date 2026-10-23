@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-LA.html · Markdown: https://da
 
 28 accepted literature values from 1 paper(s) (experimental 15, model 13); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-LA.json) · [CSV](https://data.orchid-project.org/systems/IN-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-LA/InLa-02Wei-LB.json) · [Markdown](https://data.orchid-project.org/systems/IN-LA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-LA.json) · [CSV](https://data.orchid-project.org/systems/IN-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-LA/InLa-02Wei-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-LA.html) · [Markdown](https://data.orchid-project.org/systems/IN-LA.md)
 
 Table: Accepted values by evidence class
 

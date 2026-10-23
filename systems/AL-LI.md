@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-LI.html · Markdown: https://da
 
 37 accepted literature values from 4 paper(s) (experimental 14, model 18, unspecified 5); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI.json) · [CSV](https://data.orchid-project.org/systems/AL-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LI/AlLi-07Hal-condensed.json) · [Markdown](https://data.orchid-project.org/systems/AL-LI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI.json) · [CSV](https://data.orchid-project.org/systems/AL-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LI/AlLi-07Hal-condensed.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-LI.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI.md)
 
 Table: Accepted values by evidence class
 

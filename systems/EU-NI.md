@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-NI.html · Markdown: https://da
 
 47 accepted literature values from 1 paper(s) (experimental 18, model 29); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/EU-NI.json) · [CSV](https://data.orchid-project.org/systems/EU-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-NI/EuNi-16Kar.json) · [Markdown](https://data.orchid-project.org/systems/EU-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/EU-NI.json) · [CSV](https://data.orchid-project.org/systems/EU-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-NI/EuNi-16Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-NI.html) · [Markdown](https://data.orchid-project.org/systems/EU-NI.md)
 
 Table: Accepted values by evidence class
 

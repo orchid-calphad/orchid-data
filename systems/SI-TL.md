@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-TL.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TL/SiTl-17Mos.json) · [Markdown](https://data.orchid-project.org/systems/SI-TL.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TL/SiTl-17Mos.json) · [phases (5)](https://data.orchid-project.org/phases/pages/SI-TL.html) · [Markdown](https://data.orchid-project.org/systems/SI-TL.md)
 
 ## Calculated phase diagrams
 

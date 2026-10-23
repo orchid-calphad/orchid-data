@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-PD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-PD/NiPd-99Gho-LB.json) · [Markdown](https://data.orchid-project.org/systems/NI-PD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-PD/NiPd-99Gho-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-PD.html) · [Markdown](https://data.orchid-project.org/systems/NI-PD.md)
 
 ## Calculated phase diagrams
 

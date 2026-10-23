@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SB-SE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-SE/SbSe-21Gie.json) · [Markdown](https://data.orchid-project.org/systems/SB-SE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-SE/SbSe-21Gie.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SB-SE.html) · [Markdown](https://data.orchid-project.org/systems/SB-SE.md)
 
 ## Calculated phase diagrams
 

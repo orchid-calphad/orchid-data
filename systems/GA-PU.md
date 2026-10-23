@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-PU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PU/GaPu-04Tur.json) · [Markdown](https://data.orchid-project.org/systems/GA-PU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PU/GaPu-04Tur.json) · [phases (25)](https://data.orchid-project.org/phases/pages/GA-PU.html) · [Markdown](https://data.orchid-project.org/systems/GA-PU.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://da
 
 133 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 60); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-PB.html) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
 
 Table: Accepted values by evidence class
 

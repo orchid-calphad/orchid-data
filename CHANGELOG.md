@@ -20,6 +20,15 @@ of all phases (id, system, names, structure summary with tier and prototype, cou
 including `models[].tdb_definition` and `references`, are in `phases/systems/<SYS>.json` (one per system, largest
 0.37 MB). JSON-LD, CSV and Parquet are unchanged.
 
+AI-ready access: `phases/structure_types.csv` and `phases/structure_types.parquet` (1,563 structure types; row counts
+and content hashes in `phases/parquet.json`); Hugging Face configs `phases` (`phases/registry.parquet`) and
+`structure_types` in `DATASET_CARD.md` / `hf/README.md`, with column descriptions and the tier definitions; static,
+JavaScript-free pages `phases/pages/<SYS>.html|.md` for the 1,241 binary systems (every phase with id, names,
+tier/basis, prototype, Strukturbericht, Pearson symbol, space group, stability summary, verbatim PHASE and
+CONSTITUENT statements, example DOIs; schema.org Dataset / DefinedTerm JSON-LD) and `phases/pages/index.html|.md`,
+linked from the system pages and listed in `sitemap.xml`, `llms.txt`, `llms-full.txt` and `index.md`. The static pages
+are web views and not part of the Zenodo record.
+
 ## v2026.10 — Version 1, machine-extracted (2026-10-22)
 
 First citable release of the ORCHID data, archived on Zenodo as four datasets, each its own record and DOI, plus

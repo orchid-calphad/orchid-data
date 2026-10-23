@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-TI.html · Markdown: https://da
 
 41 accepted literature values from 1 paper(s) (experimental 1, model 2, DFT 38); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BA-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-TI/BaTi-07Sha.json) · [Markdown](https://data.orchid-project.org/systems/BA-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BA-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-TI/BaTi-07Sha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-TI.html) · [Markdown](https://data.orchid-project.org/systems/BA-TI.md)
 
 Table: Accepted values by evidence class
 

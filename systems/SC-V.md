@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SC-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-V/ScV-08GTT.json) · [Markdown](https://data.orchid-project.org/systems/SC-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-V/ScV-08GTT.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-V.html) · [Markdown](https://data.orchid-project.org/systems/SC-V.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TI-V.html · Markdown: https://dat
 
 22 accepted literature values from 3 paper(s) (experimental 1, model 1, DFT 20); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI-V.json) · [CSV](https://data.orchid-project.org/systems/TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [Markdown](https://data.orchid-project.org/systems/TI-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-V.json) · [CSV](https://data.orchid-project.org/systems/TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/TI-V.html) · [Markdown](https://data.orchid-project.org/systems/TI-V.md)
 
 Table: Accepted values by evidence class
 

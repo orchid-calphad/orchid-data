@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-O.html · Markdown: https://dat
 
 29 accepted literature values from 2 paper(s) (experimental 8, model 17, unspecified 4); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-O.json) · [CSV](https://data.orchid-project.org/systems/MG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-O/MgO-18Lia.json) · [Markdown](https://data.orchid-project.org/systems/MG-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-O.json) · [CSV](https://data.orchid-project.org/systems/MG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-O/MgO-18Lia.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-O.html) · [Markdown](https://data.orchid-project.org/systems/MG-O.md)
 
 Table: Accepted values by evidence class
 

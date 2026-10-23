@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-NI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NI/GaNi-15Cao.json) · [Markdown](https://data.orchid-project.org/systems/GA-NI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NI/GaNi-15Cao.json) · [phases (16)](https://data.orchid-project.org/phases/pages/GA-NI.html) · [Markdown](https://data.orchid-project.org/systems/GA-NI.md)
 
 ## Calculated phase diagrams
 

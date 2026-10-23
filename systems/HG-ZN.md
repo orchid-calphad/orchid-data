@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HG-ZN.html · Markdown: https://da
 
 5 accepted literature values from 1 paper(s) (experimental 5); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HG-ZN.json) · [CSV](https://data.orchid-project.org/systems/HG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-ZN/HgZn-98Han-LB.json) · [Markdown](https://data.orchid-project.org/systems/HG-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HG-ZN.json) · [CSV](https://data.orchid-project.org/systems/HG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-ZN/HgZn-98Han-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/HG-ZN.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-GA.html · Markdown: https://da
 
 89 accepted literature values from 2 paper(s) (experimental 29, model 60); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-GA.json) · [CSV](https://data.orchid-project.org/systems/CE-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GA/CeGa-13Idb.json) · [Markdown](https://data.orchid-project.org/systems/CE-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-GA.json) · [CSV](https://data.orchid-project.org/systems/CE-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GA/CeGa-13Idb.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CE-GA.html) · [Markdown](https://data.orchid-project.org/systems/CE-GA.md)
 
 Table: Accepted values by evidence class
 

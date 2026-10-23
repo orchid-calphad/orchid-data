@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-SE.html · Markdown: https://da
 
 145 accepted literature values from 2 paper(s) (experimental 115, model 10, DFT 18, unspecified 2); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-SE.html) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
 
 Table: Accepted values by evidence class
 

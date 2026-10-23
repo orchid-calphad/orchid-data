@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-ZR/LaZr-06Hal.json) · [Markdown](https://data.orchid-project.org/systems/LA-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-ZR/LaZr-06Hal.json) · [phases (5)](https://data.orchid-project.org/phases/pages/LA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/LA-ZR.md)
 
 ## Calculated phase diagrams
 

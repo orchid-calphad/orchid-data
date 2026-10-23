@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-ZR/DyZr-14Bo.json) · [Markdown](https://data.orchid-project.org/systems/DY-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-ZR/DyZr-14Bo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/DY-ZR.html) · [Markdown](https://data.orchid-project.org/systems/DY-ZR.md)
 
 ## Calculated phase diagrams
 

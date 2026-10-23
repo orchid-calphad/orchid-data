@@ -1,0 +1,534 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ce–O phases — ORCHID phase registry</title>
+<meta name="description" content="Ce–O system: 19 phases (tier A 4, tier C 7, liquid 2, gas 2, needs_review 4); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/CE-O.html">
+<link rel="alternate" type="text/markdown" href="CE-O.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Ce–O system: 19 phases (tier A 4, tier C 7, liquid 2, gas 2, needs_review 4); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/CE-O.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/CE-O.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:bcc-a2","paper:10.1016/j.ssi.2008.06.011:bcc","tdb:CeO-06Zin.tdb:BCC_A2","tdb:CeO-08Dju.tdb:BCC_A2"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:ce-o:bcc-a2","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:c1-fluorite","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:c1-fluorite","corpus:phase:ce-o:fluorite-c1","tdb:CeO-06Zin.tdb:FLUORITE_C1","tdb:CeO-08Dju.tdb:FLUORITE_C1"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FLUORITE_C1","pearsonSymbol":"cF12","prototype":"CaF2","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c1-caf2-cf12","strukturbericht":"C1","termCode":"phase:ce-o:c1-fluorite","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-c1-fluorite"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce11o20","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce11o20","paper:10.1016/j.ssi.2006.02.044:Ce11O20","tdb:CeO-06Zin.tdb:CE11O20","tdb:CeO-08Dju.tdb:CE11O20"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE11O20","pearsonSymbol":"aP31","prototype":"Tb11O20","reviewStatus":"assigned","spaceGroupNumber":2,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:tb11o20-ap31","termCode":"phase:ce-o:ce11o20","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce11o20"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce19o34","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce19o34","paper:10.1016/j.ssi.2006.02.044:Ce19O34","tdb:CeO-06Zin.tdb:CE19O34","tdb:CeO-08Dju.tdb:CE19O34"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1006/jssc.2000.8745","@type":"ScholarlyArticle","name":"E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE19O34","reviewStatus":"needs_review","termCode":"phase:ce-o:ce19o34","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce19o34"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce40o72","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce40o72","paper:10.1016/j.ssi.2006.02.044:Ce40O72","tdb:CeO-06Zin.tdb:CE40O72","tdb:CeO-08Dju.tdb:CE40O72"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1006/jssc.2000.8745","@type":"ScholarlyArticle","name":"E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE40O72","reviewStatus":"needs_review","termCode":"phase:ce-o:ce40o72","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce40o72"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce62o112","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce62o112","paper:10.1016/j.ssi.2006.02.044:Ce62O112","tdb:CeO-06Zin.tdb:CE62O112","tdb:CeO-08Dju.tdb:CE62O112"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."},{"@id":"https://doi.org/10.1006/jssc.2000.8745","@type":"ScholarlyArticle","name":"E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE62O112","reviewStatus":"needs_review","termCode":"phase:ce-o:ce62o112","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce62o112"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce7o12","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce7o12","paper:10.1016/j.ssi.2006.02.044:Ce7O12","tdb:CeO-06Zin.tdb:CE7O12","tdb:CeO-08Dju.tdb:CE7O12"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1006/jssc.2000.8745","@type":"ScholarlyArticle","name":"E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218."},{"@id":"https://doi.org/10.1016/0022-1902(64)80038-5","@type":"ScholarlyArticle","name":"D.J.M. Bevan, J. Kordis, Mixed oxides of the type MO2 (fluorite)—M2O3—I oxygen dissociation pressures and phase relationships in the system CeO2Ce2O3 at high temperatures, Journal of Inorganic and Nuclear Chemistry 26, 1509-1523 (1964)."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE7O12","pearsonSymbol":"hR19","prototype":"Pr7O12","reviewStatus":"assigned","spaceGroupNumber":148,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:pr7o12-hr19","termCode":"phase:ce-o:ce7o12","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce7o12"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ce9o16","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ce9o16","paper:10.1016/j.ssi.2006.02.044:Ce9O16","tdb:CeO-06Zin.tdb:CE9O16","tdb:CeO-08Dju.tdb:CE9O16"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1006/jssc.2000.8745","@type":"ScholarlyArticle","name":"E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218."},{"@id":"https://doi.org/10.1016/0022-4596(84)90135-x","@type":"ScholarlyArticle","name":"M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984)."},{"@id":"https://doi.org/10.1016/0022-3697(77)90124-x","@type":"ScholarlyArticle","name":"H.L. Tuller, A.S. Nowick, Small polaron electron transport in reduced CeO2 single crystals, Journal of Physics and Chemistry of Solids 38, 859-867 (1977)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CE9O16","reviewStatus":"needs_review","termCode":"phase:ce-o:ce9o16","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ce9o16"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:d52-a-r2o3","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:d52-a-r2o3","paper:10.1016/j.ssi.2008.06.011:A","tdb:CeO-06Zin.tdb:A_R2O3_D52","tdb:CeO-08Dju.tdb:A_R2O3_D52"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"A_R2O3_D52","pearsonSymbol":"hP5","prototype":"A-La2O3","reviewStatus":"assigned","spaceGroupNumber":164,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d5-2-a-la2o3-hp5","strukturbericht":"D5_2","termCode":"phase:ce-o:d52-a-r2o3","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-d52-a-r2o3"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:d53-c-r2o3","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:d53-c-r2o3","tdb:CeO-06Zin.tdb:C_R2O3_D53","tdb:CeO-08Dju.tdb:C_R2O3_D53"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"C_R2O3_D53","pearsonSymbol":"cI80","prototype":"Mn2O3","reviewStatus":"assigned","spaceGroupNumber":206,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d5-3-mn2o3-ci80","strukturbericht":"D5_3","termCode":"phase:ce-o:d53-c-r2o3","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-d53-c-r2o3"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:dhcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:dhcp-a3","tdb:CeO-06Zin.tdb:DHCP","tdb:CeO-08Dju.tdb:DHCP"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:ce-o:dhcp-a3","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-dhcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:fcc-a1","tdb:CeO-06Zin.tdb:FCC_A1","tdb:CeO-08Dju.tdb:FCC_A1"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:ce-o:fcc-a1","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:gas","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:gas","paper:10.1016/j.ssi.2006.02.044:gas","paper:10.1016/j.ssi.2008.06.011:gas","tdb:CeO-06Zin.tdb:GAS","tdb:CeO-08Dju.tdb:GAS"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:ce-o:gas","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-gas"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:h-r2o3","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:h-r2o3","paper:10.1016/j.ssi.2008.06.011:H","tdb:CeO-06Zin.tdb:H_R2O3","tdb:CeO-08Dju.tdb:H_R2O3"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"H_R2O3","pearsonSymbol":"hP10","prototype":"H-La2O3","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:h-la2o3-hp10","termCode":"phase:ce-o:h-r2o3","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-h-r2o3"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:hcp-a3","tdb:CeO-06Zin.tdb:HCP_A3","tdb:CeO-08Dju.tdb:HCP_A3"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:ce-o:hcp-a3","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:ion","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:ion","tdb:CeO-06Zin.tdb:ION","tdb:CeO-08Dju.tdb:ION"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ION","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ce-o:ion","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-ion"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:liquid","paper:10.1016/j.ssi.2006.02.044:liquid","paper:10.1016/j.ssi.2008.06.011:L","tdb:CeO-06Zin.tdb:LIQUID","tdb:CeO-08Dju.tdb:LIQUID"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ce-o:liquid","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:o2gas","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:o2gas","tdb:CeO-06Zin.tdb:O2GAS","tdb:CeO-08Dju.tdb:O2GAS"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."},{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"O2GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:ce-o:o2gas","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-o2gas"},{"@id":"https://data.orchid-project.org/phases/#phase:ce-o:r2o3-x","@type":"DefinedTerm","alternateName":["corpus:phase:ce-o:r2o3-x","paper:10.1016/j.ssi.2008.06.011:X","tdb:CeO-06Zin.tdb:X_R2O3","tdb:CeO-08Dju.tdb:X_R2O3"],"chemicalSystem":"CE-O","citation":[{"@id":"https://doi.org/10.1016/j.ssi.2008.06.011","@type":"ScholarlyArticle","name":"D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008)."},{"@id":"https://doi.org/10.1016/j.ssi.2006.02.044","@type":"ScholarlyArticle","name":"M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"X_R2O3","pearsonSymbol":"cI26","prototype":"Nd2O3","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:nd2o3-ci26","termCode":"phase:ce-o:r2o3-x","url":"https://data.orchid-project.org/phases/pages/CE-O.html#phase-ce-o-r2o3-x"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Ce–O"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Ce–O phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/CE-O.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Ce–O phases</h1>
+<p>19 phases (tier A 4, tier C 7, liquid 2, gas 2, needs_review 4); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=CE-O">interactive registry</a> · <a href="../systems/CE-O.json">full JSON</a> · <a href="../../systems/CE-O.html">Ce–O system page</a> · <a href="CE-O.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Ce–O system (19)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-ce-o-bcc-a2">BCC_A2</a><br><small>phase:ce-o:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 1000–1081.23 K, x(O) 0–0.00647</td><td class="n">1</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-c1-fluorite">FLUORITE_C1</a><br><small>phase:ce-o:c1-fluorite</small></th><td>CaF2 · C1 · cF12 · Fm-3m (225)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce11o20">CE11O20</a><br><small>phase:ce-o:ce11o20</small></th><td>Tb11O20 · aP31 · P-1 (2)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–2416.14 K, x(O) 0.64516–0.64516</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce19o34">CE19O34</a><br><small>phase:ce-o:ce19o34</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 420.08–2361.24 K, x(O) 0.64151–0.64151</td><td class="n">7</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce40o72">CE40O72</a><br><small>phase:ce-o:ce40o72</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 435.98–2469.6 K, x(O) 0.64286–0.64286</td><td class="n">8</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce62o112">CE62O112</a><br><small>phase:ce-o:ce62o112</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 431.2–2471.49 K, x(O) 0.64368–0.64368</td><td class="n">7</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce7o12">CE7O12</a><br><small>phase:ce-o:ce7o12</small></th><td>Pr7O12 · hR19 · R-3 (148)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–401.92 K, x(O) 0.63158–0.63158</td><td class="n">11</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ce9o16">CE9O16</a><br><small>phase:ce-o:ce9o16</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 398.92–2293.5 K, x(O) 0.64–0.64</td><td class="n">8</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-d52-a-r2o3">A_R2O3_D52</a><br><small>phase:ce-o:d52-a-r2o3</small></th><td>A-La2O3 · D5_2 · hP5 · P-3m1 (164)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>not stable in 2 calculated diagram(s)</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-d53-c-r2o3">C_R2O3_D53</a><br><small>phase:ce-o:d53-c-r2o3</small></th><td>Mn2O3 · D5_3 · cI80 · Ia-3 (206)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-dhcp-a3">DHCP</a><br><small>phase:ce-o:dhcp-a3</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-fcc-a1">FCC_A1</a><br><small>phase:ce-o:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1005.61 K, x(O) 0–0.0055</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-gas">GAS</a><br><small>phase:ce-o:gas</small></th><td>gas</td><td>gas</td><td>stable in 2 of 2 calculated diagram(s): 301.14–2500 K, x(O) 1–1</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-h-r2o3">H_R2O3</a><br><small>phase:ce-o:h-r2o3</small></th><td>H-La2O3 · hP10 · P6_3/mmc (194)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-hcp-a3">HCP_A3</a><br><small>phase:ce-o:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-ion">ION</a><br><small>phase:ce-o:ion</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(O) 0–0.61459</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-liquid">LIQUID</a><br><small>phase:ce-o:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936</td><td class="n">22</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-o2gas">O2GAS</a><br><small>phase:ce-o:o2gas</small></th><td>gas</td><td>gas</td><td>stable in 2 of 2 calculated diagram(s): 300–1185 K, x(O) 1–1</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ce-o-r2o3-x">X_R2O3</a><br><small>phase:ce-o:r2o3-x</small></th><td>Nd2O3 · cI26 · Im-3m (229)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253</td><td class="n">3</td><td class="n">2</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-ce-o-bcc-a2">BCC_A2 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1000–1081.23 K, x(O) 0–0.00647</li>
+<li>Literature: 1 values (1 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:bcc-a2<br><small>paper: </small>paper:10.1016/j.ssi.2008.06.011:bcc<br><small>tdb: </small>tdb:CeO-06Zin.tdb:BCC_A2, tdb:CeO-08Dju.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: BCC_A2, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>57: PHASE BCC_A2 % 2 1 1 !
+58: CONST BCC_A2 : CE : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: BCC_A2, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>53: PHASE BCC_A2 % 2 1 1 !
+54: CONST BCC_A2 : CE : O VA% : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-c1-fluorite">FLUORITE_C1 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:c1-fluorite</code>; status <code>assigned</code></li>
+<li>Structure: CaF2 · C1 · cF12 · Fm-3m (225); type <code>st:c1-caf2-cf12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:FLUORITE); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:c1-fluorite">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:c1-fluorite, corpus:phase:ce-o:fluorite-c1<br><small>tdb: </small>tdb:CeO-06Zin.tdb:FLUORITE_C1, tdb:CeO-08Dju.tdb:FLUORITE_C1<br></p>
+<h3>TDB models of FLUORITE_C1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: FLUORITE_C1, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>72: PHASE FLUORITE_C1:I % 2 2 4 !
+73: CONST FLUORITE_C1:I : CE+3 CE+4% : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: FLUORITE_C1, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>68: PHASE FLUORITE_C1:I % 2 2 4 !
+69: CONST FLUORITE_C1:I : CE+3 CE+4% : O-2% VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce11o20">CE11O20 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce11o20</code>; status <code>assigned</code></li>
+<li>Structure: Tb11O20 · aP31 · P-1 (2); type <code>st:tb11o20-ap31</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–2416.14 K, x(O) 0.64516–0.64516</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce11o20">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce11o20<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce11O20<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE11O20, tdb:CeO-08Dju.tdb:CE11O20<br></p>
+<h3>TDB models of CE11O20 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE11O20, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>122: PHASE CE11O20:I % 3 4 7 20 !
+123: CONST CE11O20:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE11O20, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>118: PHASE CE11O20:I % 3 4 7 20 !
+119: CONST CE11O20:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce19o34">CE19O34 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce19o34</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ce19O34) — Hallstedt 2025 mmc2 row for CE19O34: Ce19O34</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 420.08–2361.24 K, x(O) 0.64151–0.64151</li>
+<li>Literature: 7 values (7 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce19o34">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce19o34<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce19O34<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE19O34, tdb:CeO-08Dju.tdb:CE19O34<br></p>
+<h3>TDB models of CE19O34 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE19O34, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>107: PHASE CE19O34:I % 3 8 11 34 !
+108: CONST CE19O34:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE19O34, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>103: PHASE CE19O34:I % 3 8 11 34 !
+104: CONST CE19O34:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1006/jssc.2000.8745">doi:10.1006/jssc.2000.8745</a> E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce40o72">CE40O72 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce40o72</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ce40O72) — Hallstedt 2025 mmc2 row for CE40O72: Ce40O72</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 435.98–2469.6 K, x(O) 0.64286–0.64286</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce40o72">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce40o72<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce40O72<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE40O72, tdb:CeO-08Dju.tdb:CE40O72<br></p>
+<h3>TDB models of CE40O72 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE40O72, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>112: PHASE CE40O72:I % 3 16 24 72 !
+113: CONST CE40O72:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE40O72, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>108: PHASE CE40O72:I % 3 16 24 72 !
+109: CONST CE40O72:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1006/jssc.2000.8745">doi:10.1006/jssc.2000.8745</a> E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce62o112">CE62O112 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce62o112</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ce62O112) — Hallstedt 2025 mmc2 row for CE62O112: Ce62O112</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 431.2–2471.49 K, x(O) 0.64368–0.64368</li>
+<li>Literature: 7 values (7 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce62o112">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce62o112<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce62O112<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE62O112, tdb:CeO-08Dju.tdb:CE62O112<br></p>
+<h3>TDB models of CE62O112 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE62O112, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>117: PHASE CE62O112:I % 3 24 38 112 !
+118: CONST CE62O112:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE62O112, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>113: PHASE CE62O112:I % 3 24 38 112 !
+114: CONST CE62O112:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1006/jssc.2000.8745">doi:10.1006/jssc.2000.8745</a> E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce7o12">CE7O12 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce7o12</code>; status <code>assigned</code></li>
+<li>Structure: Pr7O12 · hR19 · R-3 (148); type <code>st:pr7o12-hr19</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–401.92 K, x(O) 0.63158–0.63158</li>
+<li>Literature: 11 values (11 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce7o12">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce7o12<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce7O12<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE7O12, tdb:CeO-08Dju.tdb:CE7O12<br></p>
+<h3>TDB models of CE7O12 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE7O12, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>97: PHASE CE7O12:I % 3 4 3 12 !
+98: CONST CE7O12:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE7O12, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>93: PHASE CE7O12:I % 3 4 3 12 !
+94: CONST CE7O12:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1006/jssc.2000.8745">doi:10.1006/jssc.2000.8745</a> E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-1902(64)80038-5">doi:10.1016/0022-1902(64)80038-5</a> D.J.M. Bevan, J. Kordis, Mixed oxides of the type MO2 (fluorite)—M2O3—I oxygen dissociation pressures and phase relationships in the system CeO2Ce2O3 at high temperatures, Journal of Inorganic and Nuclear Chemistry 26, 1509-1523 (1964).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(77)90124-x">doi:10.1016/0022-3697(77)90124-x</a> H.L. Tuller, A.S. Nowick, Small polaron electron transport in reduced CeO2 single crystals, Journal of Physics and Chemistry of Solids 38, 859-867 (1977).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ce9o16">CE9O16 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ce9o16</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ce9O16) — Hallstedt 2025 mmc2 row for CE9O16: Ce9O16</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 398.92–2293.5 K, x(O) 0.64–0.64</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ce9o16">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:ce9o16<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:Ce9O16<br><small>tdb: </small>tdb:CeO-06Zin.tdb:CE9O16, tdb:CeO-08Dju.tdb:CE9O16<br></p>
+<h3>TDB models of CE9O16 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: CE9O16, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>102: PHASE CE9O16:I % 3 4 5 16 !
+103: CONST CE9O16:I : CE+3 : CE+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: CE9O16, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>98: PHASE CE9O16:I % 3 4 5 16 !
+99: CONST CE9O16:I : CE+3 : CE+4 : O-2 : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1006/jssc.2000.8745">doi:10.1006/jssc.2000.8745</a> E.A. Kümmerle, F. Güthoff, W. Schweika, G. Heger, J. Solid State Chem. 153 (2000) 218.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90135-x">doi:10.1016/0022-4596(84)90135-x</a> M. Ricken, J. Nölting, I. Riess, Specific heat and phase diagram of nonstoichiometric ceria (CeO2−x), Journal of Solid State Chemistry 54, 89-99 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(77)90124-x">doi:10.1016/0022-3697(77)90124-x</a> H.L. Tuller, A.S. Nowick, Small polaron electron transport in reduced CeO2 single crystals, Journal of Physics and Chemistry of Solids 38, 859-867 (1977).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-d52-a-r2o3">A_R2O3_D52 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:d52-a-r2o3</code>; status <code>assigned</code></li>
+<li>Structure: A-La2O3 · D5_2 · hP5 · P-3m1 (164); type <code>st:d5-2-a-la2o3-hp5</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:A,R2O3); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:d52-a-r2o3">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:d52-a-r2o3<br><small>paper: </small>paper:10.1016/j.ssi.2008.06.011:A<br><small>tdb: </small>tdb:CeO-06Zin.tdb:A_R2O3_D52, tdb:CeO-08Dju.tdb:A_R2O3_D52<br></p>
+<h3>TDB models of A_R2O3_D52 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: A_R2O3_D52, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>77: PHASE A_R2O3_D52:I % 3 2 2 1 !
+78: CONST A_R2O3_D52:I : CE+2 CE+3% : O-2 : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: A_R2O3_D52, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>73: PHASE A_R2O3_D52:I % 3 2 2 1 !
+74: CONST A_R2O3_D52:I : CE+2 CE+3% : O-2 : O-2% VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-d53-c-r2o3">C_R2O3_D53 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:d53-c-r2o3</code>; status <code>assigned</code></li>
+<li>Structure: Mn2O3 · D5_3 · cI80 · Ia-3 (206); type <code>st:d5-3-mn2o3-ci80</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:C,R2O3); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:d53-c-r2o3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:d53-c-r2o3<br><small>tdb: </small>tdb:CeO-06Zin.tdb:C_R2O3_D53, tdb:CeO-08Dju.tdb:C_R2O3_D53<br></p>
+<h3>TDB models of C_R2O3_D53 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: C_R2O3_D53, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>82: PHASE C_R2O3_D53:I % 3 2 3 1 !
+83: CONST C_R2O3_D53:I : CE+3% CE+4 : O-2% : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: C_R2O3_D53, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>78: PHASE C_R2O3_D53:I % 3 2 3 1 !
+79: CONST C_R2O3_D53:I : CE+3% CE+4 : O-2% VA : O-2 VA% : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-dhcp-a3">DHCP (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:dhcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:dhcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:dhcp-a3<br><small>tdb: </small>tdb:CeO-06Zin.tdb:DHCP, tdb:CeO-08Dju.tdb:DHCP<br></p>
+<h3>TDB models of DHCP (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: DHCP, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>67: PHASE DHCP % 2 1 0.5 !
+68: CONST DHCP : CE : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: DHCP, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>63: PHASE DHCP % 2 1 0.5 !
+64: CONST DHCP : CE : O VA% : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-fcc-a1">FCC_A1 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1005.61 K, x(O) 0–0.0055</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:fcc-a1<br><small>tdb: </small>tdb:CeO-06Zin.tdb:FCC_A1, tdb:CeO-08Dju.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: FCC_A1, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>51: PHASE FCC_A1 % 2 1 1 !
+52: CONST FCC_A1 : CE% : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: FCC_A1, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>47: PHASE FCC_A1 % 2 1 1 !
+48: CONST FCC_A1 : CE% : O VA% : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-gas">GAS (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 301.14–2500 K, x(O) 1–1</li>
+<li>Literature: 6 values (6 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:gas">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ce-o:gas<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:gas, paper:10.1016/j.ssi.2008.06.011:gas<br><small>tdb: </small>tdb:CeO-06Zin.tdb:GAS, tdb:CeO-08Dju.tdb:GAS<br></p>
+<h3>TDB models of GAS (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: GAS, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>128: PHASE GAS:G % 1 1 !
+129: CONST GAS:G : CE CEO O O2 O3 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: GAS, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>124: PHASE GAS:G % 1 1 !
+125: CONST GAS:G : CE CEO O O2 O3 : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-h-r2o3">H_R2O3 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:h-r2o3</code>; status <code>assigned</code></li>
+<li>Structure: H-La2O3 · hP10 · P6_3/mmc (194); type <code>st:h-la2o3-hp10</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:H,R2O3, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:h-r2o3">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:h-r2o3<br><small>paper: </small>paper:10.1016/j.ssi.2008.06.011:H<br><small>tdb: </small>tdb:CeO-06Zin.tdb:H_R2O3, tdb:CeO-08Dju.tdb:H_R2O3<br></p>
+<h3>TDB models of H_R2O3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: H_R2O3, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>87: PHASE H_R2O3:I % 3 2 2 1 !
+88: CONST H_R2O3:I : CE+2 CE+3% : O-2 : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: H_R2O3, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>83: PHASE H_R2O3:I % 3 2 2 1 !
+84: CONST H_R2O3:I : CE+2 CE+3% : O-2 : O-2% VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-hcp-a3">HCP_A3 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:hcp-a3<br><small>tdb: </small>tdb:CeO-06Zin.tdb:HCP_A3, tdb:CeO-08Dju.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: HCP_A3, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>62: PHASE HCP_A3 % 2 1 0.5 !
+63: CONST HCP_A3 : CE : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: HCP_A3, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>58: PHASE HCP_A3 % 2 1 0.5 !
+59: CONST HCP_A3 : CE : O VA% : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-ion">ION (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:ion</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(O) 0–0.61459</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:ion">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:ion<br><small>tdb: </small>tdb:CeO-06Zin.tdb:ION, tdb:CeO-08Dju.tdb:ION<br></p>
+<h3>TDB models of ION (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: ION, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>46: PHASE ION:Y % 2 1 1 !
+47: CONST ION:Y : CE+3 CE+4 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: ION, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>42: PHASE ION:Y % 2 1 1 !
+43: CONST ION:Y : CE+3 CE+4 : O-2 VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-liquid">LIQUID (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936</li>
+<li>Literature: 22 values (22 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ce-o:liquid<br><small>paper: </small>paper:10.1016/j.ssi.2006.02.044:liquid, paper:10.1016/j.ssi.2008.06.011:L<br><small>tdb: </small>tdb:CeO-06Zin.tdb:LIQUID, tdb:CeO-08Dju.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: LIQUID, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>43: PHASE LIQUID:L % 1 1 !
+44: CONST LIQUID:L : CE CEO1.5 CEO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: LIQUID, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>39: PHASE LIQUID:L % 1 1 !
+40: CONST LIQUID:L : CE CEO1.5 CEO2 : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-o2gas">O2GAS (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:o2gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1185 K, x(O) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:o2gas">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ce-o:o2gas<br><small>tdb: </small>tdb:CeO-06Zin.tdb:O2GAS, tdb:CeO-08Dju.tdb:O2GAS<br></p>
+<h3>TDB models of O2GAS (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: O2GAS, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>125: PHASE O2GAS % 1 1 !
+126: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: O2GAS, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>121: PHASE O2GAS % 1 1 !
+122: CONST O2GAS : O2 :!</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ce-o-r2o3-x">X_R2O3 (Ce–O)</h2>
+<ul>
+<li>Id: <code>phase:ce-o:r2o3-x</code>; status <code>assigned</code></li>
+<li>Structure: Nd2O3 · cI26 · Im-3m (229); type <code>st:nd2o3-ci26</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:R2O3,X, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253</li>
+<li>Literature: 3 values (3 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ce-o:r2o3-x">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ce-o:r2o3-x<br><small>paper: </small>paper:10.1016/j.ssi.2008.06.011:X<br><small>tdb: </small>tdb:CeO-06Zin.tdb:X_R2O3, tdb:CeO-08Dju.tdb:X_R2O3<br></p>
+<h3>TDB models of X_R2O3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-06Zin.tdb">CeO-06Zin.tdb</a>: X_R2O3, type code %, sha256 <code>3e9afdf3d632ed92…</code></p>
+<pre>92: PHASE X_R2O3:I % 3 2 2 1 !
+93: CONST X_R2O3:I : CE+2 CE+3% : O-2 : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CeO-08Dju.tdb">CeO-08Dju.tdb</a>: X_R2O3, type code %, sha256 <code>f4f16a6dae7120a8…</code></p>
+<pre>88: PHASE X_R2O3:I % 2 2 3 !
+89: CONST X_R2O3:I : CE+2 CE+3% : O-2% VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ssi.2008.06.011">doi:10.1016/j.ssi.2008.06.011</a> D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2006.02.044">doi:10.1016/j.ssi.2006.02.044</a> M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

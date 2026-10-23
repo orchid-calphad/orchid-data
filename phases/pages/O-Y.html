@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>O–Y phases — ORCHID phase registry</title>
+<meta name="description" content="O–Y system: 10 phases (tier A 3, tier C 1, liquid 2, gas 2, needs_review 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/O-Y.html">
+<link rel="alternate" type="text/markdown" href="O-Y.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"O–Y system: 10 phases (tier A 3, tier C 1, liquid 2, gas 2, needs_review 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/O-Y.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/O-Y.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:o-y:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:bcc-a2","paper:10.1016/j.calphad.2007.01.010:β-Y","paper:10.1016/j.calphad.2007.01.010:β-Y2O3","tdb:YO-04Che.tdb:BCC_A2","tdb:YO-05Che.tdb:BCC_A2","tdb:YO-07Dju.tdb:BCC_A2","tdb:YO-19Xu.tdb:BCC_A2","tdb:YO-96Gro.tdb:BCC_A2","tdb:YO-98Swa-LB.tdb:BCC_A2","tdb:YO-98Swa-orig.tdb:BCC_A2"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:o-y:bcc-a2","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:d53-c-r2o3","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:c-r2o3-d53","corpus:phase:o-y:d53-c-r2o3","paper:10.1016/j.calphad.2007.01.010:gα-Y2O3","paper:10.1016/j.calphad.2007.01.010:α-Y2O3","tdb:YO-04Che.tdb:C_R2O3_D53","tdb:YO-05Che.tdb:C_R2O3_D53","tdb:YO-07Dju.tdb:C_R2O3_D53","tdb:YO-19Xu.tdb:C_R2O3_D53","tdb:YO-96Gro.tdb:C_R2O3_D53","tdb:YO-98Swa-LB.tdb:C_R2O3_D53","tdb:YO-98Swa-orig.tdb:C_R2O3_D53"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"C_R2O3_D53","pearsonSymbol":"cI80","prototype":"Mn2O3","reviewStatus":"assigned","spaceGroupNumber":206,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d5-3-mn2o3-ci80","strukturbericht":"D5_3","termCode":"phase:o-y:d53-c-r2o3","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-d53-c-r2o3"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:fcc-a1","tdb:YO-04Che.tdb:FCC_A1","tdb:YO-05Che.tdb:FCC_A1","tdb:YO-07Dju.tdb:FCC_A1","tdb:YO-19Xu.tdb:FCC_A1","tdb:YO-96Gro.tdb:FCC_A1","tdb:YO-98Swa-LB.tdb:FCC_A1","tdb:YO-98Swa-orig.tdb:FCC_A1"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:o-y:fcc-a1","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:gas","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:gas","paper:10.1016/j.calphad.2007.01.010:gas","tdb:YO-04Che.tdb:GAS","tdb:YO-05Che.tdb:GAS","tdb:YO-07Dju.tdb:GAS","tdb:YO-19Xu.tdb:GAS","tdb:YO-96Gro.tdb:GAS","tdb:YO-98Swa-LB.tdb:GAS","tdb:YO-98Swa-orig.tdb:GAS"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:o-y:gas","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-gas"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:h-r2o3","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:h-r2o3","tdb:YO-05Che.tdb:H_R2O3","tdb:YO-07Dju.tdb:H_R2O3","tdb:YO-96Gro.tdb:H_R2O3","tdb:YO-98Swa-LB.tdb:H_R2O3","tdb:YO-98Swa-orig.tdb:H_R2O3"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."},{"@id":"https://doi.org/10.1515/ijmr-1996-870203","@type":"ScholarlyArticle","name":"Z. Metallkd., 87, 88-91(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"H_R2O3","reviewStatus":"needs_review","termCode":"phase:o-y:h-r2o3","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-h-r2o3"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:hcp-a3","paper:10.1016/j.calphad.2007.01.010:α-Y","tdb:YO-04Che.tdb:HCP_A3","tdb:YO-05Che.tdb:HCP_A3","tdb:YO-07Dju.tdb:HCP_A3","tdb:YO-19Xu.tdb:HCP_A3","tdb:YO-96Gro.tdb:HCP_A3","tdb:YO-98Swa-LB.tdb:HCP_A3","tdb:YO-98Swa-orig.tdb:HCP_A3"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:o-y:hcp-a3","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:ion","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:ion","tdb:YO-04Che.tdb:ION","tdb:YO-05Che.tdb:ION","tdb:YO-07Dju.tdb:ION","tdb:YO-19Xu.tdb:ION","tdb:YO-96Gro.tdb:ION","tdb:YO-98Swa-LB.tdb:ION","tdb:YO-98Swa-orig.tdb:ION"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ION","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-y:ion","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-ion"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:liquid","paper:10.1016/j.calphad.2007.01.010:L","tdb:YO-04Che.tdb:LIQUID","tdb:YO-05Che.tdb:LIQUID","tdb:YO-07Dju.tdb:LIQUID","tdb:YO-19Xu.tdb:LIQUID","tdb:YO-96Gro.tdb:LIQUID","tdb:YO-98Swa-LB.tdb:LIQUID","tdb:YO-98Swa-orig.tdb:LIQUID"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-y:liquid","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:o2gas","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:o2gas","tdb:YO-04Che.tdb:O2GAS","tdb:YO-05Che.tdb:O2GAS","tdb:YO-07Dju.tdb:O2GAS","tdb:YO-19Xu.tdb:O2GAS","tdb:YO-96Gro.tdb:O2GAS","tdb:YO-98Swa-LB.tdb:O2GAS","tdb:YO-98Swa-orig.tdb:O2GAS"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.06.006","@type":"ScholarlyArticle","name":"M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005)."},{"@id":"https://doi.org/10.1016/j.calphad.2007.01.010","@type":"ScholarlyArticle","name":"Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007)."},{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."},{"@id":"https://doi.org/10.1016/S0925-8388(98)00245-X","@type":"ScholarlyArticle","name":"V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"O2GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:o-y:o2gas","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-o2gas"},{"@id":"https://data.orchid-project.org/phases/#phase:o-y:y2o3-h","@type":"DefinedTerm","alternateName":["corpus:phase:o-y:y2o3-h","tdb:YO-04Che.tdb:H_Y2O3","tdb:YO-19Xu.tdb:H_Y2O3"],"chemicalSystem":"O-Y","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2018.10.007","@type":"ScholarlyArticle","name":"H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019)."},{"@id":"https://doi.org/10.1016/j.ssi.2004.02.017","@type":"ScholarlyArticle","name":"M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"H_Y2O3","reviewStatus":"needs_review","termCode":"phase:o-y:y2o3-h","url":"https://data.orchid-project.org/phases/pages/O-Y.html#phase-o-y-y2o3-h"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","O–Y"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"O–Y phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/O-Y.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>O–Y phases</h1>
+<p>10 phases (tier A 3, tier C 1, liquid 2, gas 2, needs_review 2); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=O-Y">interactive registry</a> · <a href="../systems/O-Y.json">full JSON</a> · <a href="../../systems/O-Y.html">O–Y system page</a> · <a href="O-Y.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the O–Y system (10)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-o-y-bcc-a2">BCC_A2</a><br><small>phase:o-y:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 1452.65–1949.34 K, x(O) 0–0.29079</td><td class="n">9</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-d53-c-r2o3">C_R2O3_D53</a><br><small>phase:o-y:d53-c-r2o3</small></th><td>Mn2O3 · D5_3 · cI80 · Ia-3 (206)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.59059–0.6</td><td class="n">5</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-fcc-a1">FCC_A1</a><br><small>phase:o-y:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>not stable in 4 calculated diagram(s)</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-gas">GAS</a><br><small>phase:o-y:gas</small></th><td>gas</td><td>gas</td><td>stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.99968–1</td><td class="n">1</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-h-r2o3">H_R2O3</a><br><small>phase:o-y:h-r2o3</small></th><td></td><td>needs_review</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-hcp-a3">HCP_A3</a><br><small>phase:o-y:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–1786.14 K, x(O) 0–0.15151</td><td class="n">2</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-ion">ION</a><br><small>phase:o-y:ion</small></th><td>liquid</td><td>liquid</td><td>stable in 4 of 4 calculated diagram(s): 1794.84–2500 K, x(O) 0–0.54853</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-liquid">LIQUID</a><br><small>phase:o-y:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 4 calculated diagram(s): 1780.01–2500 K, x(O) 0–0.53939</td><td class="n">8</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-o2gas">O2GAS</a><br><small>phase:o-y:o2gas</small></th><td>gas</td><td>gas</td><td>stable in 4 of 4 calculated diagram(s): 300–1185 K, x(O) 1–1</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-o-y-y2o3-h">H_Y2O3</a><br><small>phase:o-y:y2o3-h</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 2470–2500 K</td><td class="n">0</td><td class="n">2</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-o-y-bcc-a2">BCC_A2 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 1452.65–1949.34 K, x(O) 0–0.29079</li>
+<li>Literature: 9 values (9 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:o-y:bcc-a2<br><small>paper: </small>paper:10.1016/j.calphad.2007.01.010:β-Y, paper:10.1016/j.calphad.2007.01.010:β-Y2O3<br><small>tdb: </small>tdb:YO-04Che.tdb:BCC_A2, tdb:YO-05Che.tdb:BCC_A2, tdb:YO-07Dju.tdb:BCC_A2, tdb:YO-19Xu.tdb:BCC_A2, tdb:YO-96Gro.tdb:BCC_A2, tdb:YO-98Swa-LB.tdb:BCC_A2, tdb:YO-98Swa-orig.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: BCC_A2, type code %B, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>51: PHASE BCC_A2 %B 2 1 1.5 !
+52: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: BCC_A2, type code %B, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>60: PHASE BCC_A2 %B 2 1 1.5 !
+61: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: BCC_A2, type code %B, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>54: PHASE BCC_A2 %B 2 1 1 !
+55: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: BCC_A2, type code %B, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>55: PHASE BCC_A2 %B 2 1 3 !
+56: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: BCC_A2, type code %B, sha256 <code>5a6e383e87834517…</code></p>
+<pre>57: PHASE BCC_A2 %B 2 1 3 !
+58: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>57: PHASE BCC_A2 %B 2 1 3 !
+58: CONST BCC_A2 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: BCC_A2, type code %B, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>57: PHASE BCC_A2 %B 2 1 3 !
+58: CONST BCC_A2 : Y : O VA% : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-d53-c-r2o3">C_R2O3_D53 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:d53-c-r2o3</code>; status <code>assigned</code></li>
+<li>Structure: Mn2O3 · D5_3 · cI80 · Ia-3 (206); type <code>st:d5-3-mn2o3-ci80</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:C,R2O3); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.59059–0.6</li>
+<li>Literature: 5 values (5 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:d53-c-r2o3">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:o-y:d53-c-r2o3, corpus:phase:o-y:c-r2o3-d53<br><small>paper: </small>paper:10.1016/j.calphad.2007.01.010:gα-Y2O3, paper:10.1016/j.calphad.2007.01.010:α-Y2O3<br><small>tdb: </small>tdb:YO-04Che.tdb:C_R2O3_D53, tdb:YO-05Che.tdb:C_R2O3_D53, tdb:YO-07Dju.tdb:C_R2O3_D53, tdb:YO-19Xu.tdb:C_R2O3_D53, tdb:YO-96Gro.tdb:C_R2O3_D53, tdb:YO-98Swa-LB.tdb:C_R2O3_D53, tdb:YO-98Swa-orig.tdb:C_R2O3_D53<br></p>
+<h3>TDB models of C_R2O3_D53 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: C_R2O3_D53, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>62: PHASE C_R2O3_D53:I % 3 2 3 1 !
+63: CONST C_R2O3_D53:I : Y Y+3% : O-2% VA : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: C_R2O3_D53, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>71: PHASE C_R2O3_D53:I % 3 2 3 1 !
+72: CONST C_R2O3_D53:I : Y Y+3% : O-2% VA : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: C_R2O3_D53, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>64: PHASE C_R2O3_D53:I % 3 2 3 1 !
+65: CONST C_R2O3_D53:I : Y+2 Y+3% : O-2% VA : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: C_R2O3_D53, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>66: PHASE C_R2O3_D53:I % 3 2 3 1 !
+67: CONST C_R2O3_D53:I : Y Y+3% : O-2% VA : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: C_R2O3_D53, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>69: PHASE C_R2O3_D53:I % 2 2 3 !
+70: CONST C_R2O3_D53:I : Y+3 : O-2% VA-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: C_R2O3_D53, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>69: PHASE C_R2O3_D53:I % 2 2 3 !
+70: CONST C_R2O3_D53:I : Y+3 : O-2% VA-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: C_R2O3_D53, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>69: PHASE C_R2O3_D53:I % 2 2 3 !
+70: CONST C_R2O3_D53:I : Y+3 : O-2% VA-2 : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-fcc-a1">FCC_A1 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 4 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-y:fcc-a1<br><small>tdb: </small>tdb:YO-04Che.tdb:FCC_A1, tdb:YO-05Che.tdb:FCC_A1, tdb:YO-07Dju.tdb:FCC_A1, tdb:YO-19Xu.tdb:FCC_A1, tdb:YO-96Gro.tdb:FCC_A1, tdb:YO-98Swa-LB.tdb:FCC_A1, tdb:YO-98Swa-orig.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: FCC_A1, type code %A, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>45: PHASE FCC_A1 %A 2 1 1 !
+46: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: FCC_A1, type code %A, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>54: PHASE FCC_A1 %A 2 1 1 !
+55: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: FCC_A1, type code %A, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>48: PHASE FCC_A1 %A 2 1 1 !
+49: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: FCC_A1, type code %A, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>50: PHASE FCC_A1 %A 2 1 1 !
+51: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: FCC_A1, type code %A, sha256 <code>5a6e383e87834517…</code></p>
+<pre>52: PHASE FCC_A1 %A 2 1 1 !
+53: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>52: PHASE FCC_A1 %A 2 1 1 !
+53: CONST FCC_A1 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: FCC_A1, type code %A, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>52: PHASE FCC_A1 %A 2 1 1 !
+53: CONST FCC_A1 : Y : O VA% : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-gas">GAS (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.99968–1</li>
+<li>Literature: 1 values (1 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:gas">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:o-y:gas<br><small>paper: </small>paper:10.1016/j.calphad.2007.01.010:gas<br><small>tdb: </small>tdb:YO-04Che.tdb:GAS, tdb:YO-05Che.tdb:GAS, tdb:YO-07Dju.tdb:GAS, tdb:YO-19Xu.tdb:GAS, tdb:YO-96Gro.tdb:GAS, tdb:YO-98Swa-LB.tdb:GAS, tdb:YO-98Swa-orig.tdb:GAS<br></p>
+<h3>TDB models of GAS (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: GAS, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>73: PHASE GAS:G % 1 1 !
+74: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: GAS, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>80: PHASE GAS:G % 1 1 !
+81: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: GAS, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>75: PHASE GAS:G % 1 1 !
+76: CONST GAS:G : O O2 O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: GAS, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>77: PHASE GAS:G % 1 1 !
+78: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: GAS, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>78: PHASE GAS:G % 1 1 !
+79: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: GAS, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>78: PHASE GAS:G % 1 1 !
+79: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: GAS, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>78: PHASE GAS:G % 1 1 !
+79: CONST GAS:G : O O2% O3 Y Y2O YO Y2O2 YO2 : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-h-r2o3">H_R2O3 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:h-r2o3</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H,R2O3; no_structure_token</li>
+<li>Candidate (sgte_mmc2): H-La2O3 · hP10 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for H_R2O3: Ce2O3, H-Y2O3</li>
+<li>Candidate (sgte_mmc2): H-La2O3 · hP10 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for H_R2O3: Dy2O3, Er2O3, Eu2O3, Gd2O3, Ho2O3, Nd2O3, Pr2O3, Sm2O3, Tb2O3, Tm2O3, Yb2O3</li>
+<li>Candidate (sgte_mmc2): H-La2O3 · hP10 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for H_R2O3: Gd2O3, Nd2O3, Sm2O3</li>
+<li>Candidate (sgte_mmc2): H-La2O3 · hP10 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for H_R2O3: H-La2O3, H-Y2O3</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-05Che.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-96Gro.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-98Swa-LB.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-98Swa-orig.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:h-r2o3">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:o-y:h-r2o3<br><small>tdb: </small>tdb:YO-05Che.tdb:H_R2O3, tdb:YO-07Dju.tdb:H_R2O3, tdb:YO-96Gro.tdb:H_R2O3, tdb:YO-98Swa-LB.tdb:H_R2O3, tdb:YO-98Swa-orig.tdb:H_R2O3<br></p>
+<h3>TDB models of H_R2O3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: H_R2O3, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>77: PHASE H_R2O3:I % 3 2 3 1 !
+78: CONST H_R2O3:I : Y Y+3% : O-2% VA : O-2 VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: H_R2O3, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>69: PHASE H_R2O3:I % 3 2 2 1 !
+70: CONST H_R2O3:I : Y+2 Y+3% : O-2 : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: H_R2O3, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>75: PHASE H_R2O3:I % 2 2 3 !
+76: CONST H_R2O3:I : Y+3 : O-2% VA-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: H_R2O3, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>75: PHASE H_R2O3:I % 2 2 3 !
+76: CONST H_R2O3:I : Y+3 : O-2% VA-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: H_R2O3, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>75: PHASE H_R2O3:I % 2 2 3 !
+76: CONST H_R2O3:I : Y+3 : O-2% VA-2 : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-hcp-a3">HCP_A3 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1786.14 K, x(O) 0–0.15151</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:o-y:hcp-a3<br><small>paper: </small>paper:10.1016/j.calphad.2007.01.010:α-Y<br><small>tdb: </small>tdb:YO-04Che.tdb:HCP_A3, tdb:YO-05Che.tdb:HCP_A3, tdb:YO-07Dju.tdb:HCP_A3, tdb:YO-19Xu.tdb:HCP_A3, tdb:YO-96Gro.tdb:HCP_A3, tdb:YO-98Swa-LB.tdb:HCP_A3, tdb:YO-98Swa-orig.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: HCP_A3, type code %A, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>56: PHASE HCP_A3 %A 2 1 0.5 !
+57: CONST HCP_A3 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: HCP_A3, type code %A, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>65: PHASE HCP_A3 %A 2 1 0.5 !
+66: CONST HCP_A3 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: HCP_A3, type code %A, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>59: PHASE HCP_A3 %A 2 1 0.5 !
+60: CONST HCP_A3 : Y% : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: HCP_A3, type code %A, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>60: PHASE HCP_A3 %A 2 1 0.5 !
+61: CONST HCP_A3 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: HCP_A3, type code %A, sha256 <code>5a6e383e87834517…</code></p>
+<pre>63: PHASE HCP_A3 %A 2 1 1 !
+64: CONST HCP_A3 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>63: PHASE HCP_A3 %A 2 1 1 !
+64: CONST HCP_A3 : Y : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: HCP_A3, type code %A, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>63: PHASE HCP_A3 %A 2 1 1 !
+64: CONST HCP_A3 : Y : O VA% : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-ion">ION (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:ion</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 1794.84–2500 K, x(O) 0–0.54853</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:ion">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-y:ion<br><small>tdb: </small>tdb:YO-04Che.tdb:ION, tdb:YO-05Che.tdb:ION, tdb:YO-07Dju.tdb:ION, tdb:YO-19Xu.tdb:ION, tdb:YO-96Gro.tdb:ION, tdb:YO-98Swa-LB.tdb:ION, tdb:YO-98Swa-orig.tdb:ION<br></p>
+<h3>TDB models of ION (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: ION, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>37: PHASE ION:Y % 2 1 1 !
+38: CONST ION:Y : Y+3 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: ION, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>46: PHASE ION:Y % 2 1 1 !
+47: CONST ION:Y : Y+3 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: ION, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>43: PHASE ION:Y % 2 1 1 !
+44: CONST ION:Y : Y+3 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: ION, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>42: PHASE ION:Y % 2 1 1 !
+43: CONST ION:Y : Y+3 : O-2 VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: ION, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>44: PHASE ION:Y % 2 1 1 !
+45: CONST ION:Y : Y+3 : O-2 VA O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: ION, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>44: PHASE ION:Y % 2 1 1 !
+45: CONST ION:Y : Y+3 : O-2 VA O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: ION, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>44: PHASE ION:Y % 2 1 1 !
+45: CONST ION:Y : Y+3 : O-2 VA O : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-liquid">LIQUID (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 4 calculated diagram(s): 1780.01–2500 K, x(O) 0–0.53939</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:o-y:liquid<br><small>paper: </small>paper:10.1016/j.calphad.2007.01.010:L<br><small>tdb: </small>tdb:YO-04Che.tdb:LIQUID, tdb:YO-05Che.tdb:LIQUID, tdb:YO-07Dju.tdb:LIQUID, tdb:YO-19Xu.tdb:LIQUID, tdb:YO-96Gro.tdb:LIQUID, tdb:YO-98Swa-LB.tdb:LIQUID, tdb:YO-98Swa-orig.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: LIQUID, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>40: PHASE LIQUID:L % 1 1 !
+41: CONST LIQUID:L : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: LIQUID, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>49: PHASE LIQUID:L % 1 1 !
+50: CONST LIQUID:L : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: LIQUID, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>40: PHASE LIQUID:L % 1 1 !
+41: CONST LIQUID:L : Y YO1.5 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: LIQUID, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>45: PHASE LIQUID:L % 1 1 !
+46: CONST LIQUID:L : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: LIQUID, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>47: PHASE LIQUID:L % 1 1 !
+48: CONST LIQUID:L : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: LIQUID, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>47: PHASE LIQUID:L % 1 1 !
+48: CONST LIQUID:L : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: LIQUID, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>47: PHASE LIQUID:L % 1 1 !
+48: CONST LIQUID:L : Y : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-o2gas">O2GAS (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:o2gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1185 K, x(O) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:o2gas">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:o-y:o2gas<br><small>tdb: </small>tdb:YO-04Che.tdb:O2GAS, tdb:YO-05Che.tdb:O2GAS, tdb:YO-07Dju.tdb:O2GAS, tdb:YO-19Xu.tdb:O2GAS, tdb:YO-96Gro.tdb:O2GAS, tdb:YO-98Swa-LB.tdb:O2GAS, tdb:YO-98Swa-orig.tdb:O2GAS<br></p>
+<h3>TDB models of O2GAS (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: O2GAS, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>76: PHASE O2GAS % 1 1 !
+77: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-05Che.tdb">YO-05Che.tdb</a>: O2GAS, type code %, sha256 <code>3d68bece5feb27d6…</code></p>
+<pre>83: PHASE O2GAS % 1 1 !
+84: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-07Dju.tdb">YO-07Dju.tdb</a>: O2GAS, type code %, sha256 <code>c90b7972a3e43f0c…</code></p>
+<pre>72: PHASE O2GAS % 1 1 !
+73: CONST O2GAS : O2 :!</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: O2GAS, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>80: PHASE O2GAS % 1 1 !
+81: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-96Gro.tdb">YO-96Gro.tdb</a>: O2GAS, type code %, sha256 <code>5a6e383e87834517…</code></p>
+<pre>81: PHASE O2GAS % 1 1 !
+82: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-LB.tdb">YO-98Swa-LB.tdb</a>: O2GAS, type code %, sha256 <code>dbfb3a4c9a845450…</code></p>
+<pre>81: PHASE O2GAS % 1 1 !
+82: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-98Swa-orig.tdb">YO-98Swa-orig.tdb</a>: O2GAS, type code %, sha256 <code>008445aaef3a7ed9…</code></p>
+<pre>81: PHASE O2GAS % 1 1 !
+82: CONST O2GAS : O2 : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.06.006">doi:10.1016/j.calphad.2005.06.006</a> M. Chen, B. Hallstedt, L.J. Gauckler, Calphad, 29, 103-13(2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2007.01.010">doi:10.1016/j.calphad.2007.01.010</a> Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(98)00245-X">doi:10.1016/S0925-8388(98)00245-X</a> V. Swamy, H.J. Seifert, F. Aldinger, J. Alloys Compd., 269, 201-7(1998).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1996-870203">doi:10.1515/ijmr-1996-870203</a> Z. Metallkd., 87, 88-91(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-y-y2o3-h">H_Y2O3 (O–Y)</h2>
+<ul>
+<li>Id: <code>phase:o-y:y2o3-h</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H; no_structure_token</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-04Che.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Candidate (tdb_comment): H-La2O3 · hP10 · P6_3/mmc — YO-19Xu.tdb: &#x27;Prototype H-La2O3 (hP10, P6_3/mmc)&#x27;</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 2470–2500 K</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-y:y2o3-h">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-y:y2o3-h<br><small>tdb: </small>tdb:YO-04Che.tdb:H_Y2O3, tdb:YO-19Xu.tdb:H_Y2O3<br></p>
+<h3>TDB models of H_Y2O3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-04Che.tdb">YO-04Che.tdb</a>: H_Y2O3, type code %, sha256 <code>5e7b671c151efa3a…</code></p>
+<pre>70: PHASE H_Y2O3:I % 2 1 2 !
+71: CONST H_Y2O3:I : Y Y+3% : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/YO-19Xu.tdb">YO-19Xu.tdb</a>: H_Y2O3, type code %, sha256 <code>b4f395684596b2ae…</code></p>
+<pre>74: PHASE H_Y2O3:I % 2 1 2 !
+75: CONST H_Y2O3:I : Y Y+3% : O-2% VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2018.10.007">doi:10.1016/j.calphad.2018.10.007</a> H. Xu, M. Chen, K. Cheng, L. Zhang, Y. Du, Calphad, 64, 1-10(2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.ssi.2004.02.017">doi:10.1016/j.ssi.2004.02.017</a> M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

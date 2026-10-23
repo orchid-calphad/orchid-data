@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-TE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-TE/CeTe-21Don.json) · [Markdown](https://data.orchid-project.org/systems/CE-TE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-TE/CeTe-21Don.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CE-TE.html) · [Markdown](https://data.orchid-project.org/systems/CE-TE.md)
 
 ## Calculated phase diagrams
 

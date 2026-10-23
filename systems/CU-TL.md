@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-TL.html · Markdown: https://da
 
 80 accepted literature values from 1 paper(s) (experimental 70, model 10); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TL.json) · [CSV](https://data.orchid-project.org/systems/CU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TL/CuTl-04Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/CU-TL.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TL.json) · [CSV](https://data.orchid-project.org/systems/CU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TL/CuTl-04Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-TL.html) · [Markdown](https://data.orchid-project.org/systems/CU-TL.md)
 
 Table: Accepted values by evidence class
 

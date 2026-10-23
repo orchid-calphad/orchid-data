@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Co–U phases — ORCHID phase registry</title>
+<meta name="description" content="Co–U system: 12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/CO-U.html">
+<link rel="alternate" type="text/markdown" href="CO-U.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Co–U system: 12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/CO-U.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/CO-U.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:co-u:a20-orthorhombic","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:a20-orthorhombic","corpus:phase:co-u:orthorhombic-a20","tdb:CoU-08Wan.tdb:ORTHORHOMBIC_A20"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ORTHORHOMBIC_A20","pearsonSymbol":"oC4","prototype":"alpha-U","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a20-alpha-u-oc4","strukturbericht":"A20","termCode":"phase:co-u:a20-orthorhombic","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-a20-orthorhombic"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:bcc-a2","paper:10.1016/j.jnucmat.2007.06.023:γ (U)","paper:10.1016/j.jnucmat.2007.06.023:γ(U)","tdb:CoU-08Wan.tdb:BCC_A2"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:co-u:bcc-a2","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:co11u2","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:co11u2","paper:10.1016/j.jnucmat.2007.06.023:Co11 U2","tdb:CoU-08Wan.tdb:CO11U2"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CO11U2","pearsonSymbol":"hR18","prototype":"Co5U","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:co5u-hr18","termCode":"phase:co-u:co11u2","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-co11u2"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:co2u-c15","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:co2u-c15","paper:10.1016/j.jnucmat.2007.06.023:Co2 U","paper:10.1016/j.jnucmat.2007.06.023:Co2U","tdb:CoU-08Wan.tdb:CO2U_C15"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CO2U_C15","pearsonSymbol":"cF24","prototype":"Cu2Mg","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c15-cu2mg-cf24","strukturbericht":"C15","termCode":"phase:co-u:co2u-c15","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-co2u-c15"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:co3u","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:co3u","paper:10.1016/j.jnucmat.2007.06.023:Co3U","tdb:CoU-08Wan.tdb:CO3U"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CO3U","pearsonSymbol":"hR12","prototype":"Ni3Pu","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni3pu-hr12","termCode":"phase:co-u:co3u","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-co3u"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:co4u","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:co4u","paper:10.1016/j.jnucmat.2007.06.023:Co4U","tdb:CoU-08Wan.tdb:CO4U"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CO4U","reviewStatus":"needs_review","termCode":"phase:co-u:co4u","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-co4u"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:cou-ba","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:cou-ba","mp:mp-aaacjlup","oqmd:oqmd-17123","paper:10.1016/j.jnucmat.2007.06.023:CoU","tdb:CoU-08Wan.tdb:COU_BA"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"COU_BA","pearsonSymbol":"cI16","prototype":"CoU","reviewStatus":"assigned","spaceGroupNumber":199,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b-a-cou-ci16","strukturbericht":"B_a","termCode":"phase:co-u:cou-ba","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-cou-ba"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:cou6-d2c","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:cou6-d2c","paper:10.1016/j.jnucmat.2007.06.023:CoU 6","paper:10.1016/j.jnucmat.2007.06.023:CoU6","tdb:CoU-08Wan.tdb:COU6_D2C"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"COU6_D2C","pearsonSymbol":"tI28","prototype":"MnU6","reviewStatus":"assigned","spaceGroupNumber":140,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d2-c-mnu6-ti28","strukturbericht":"D2_c","termCode":"phase:co-u:cou6-d2c","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-cou6-d2c"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:fcc-a1","paper:10.1016/j.jnucmat.2007.06.023:fcc (Co)","tdb:CoU-08Wan.tdb:FCC_A1"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:co-u:fcc-a1","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:hcp-a3","tdb:CoU-08Wan.tdb:HCP_A3"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:co-u:hcp-a3","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:liquid","paper:10.1016/j.jnucmat.2007.06.023:L","tdb:CoU-08Wan.tdb:LIQUID"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:co-u:liquid","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:co-u:u-tetragonal","@type":"DefinedTerm","alternateName":["corpus:phase:co-u:u-tetragonal","tdb:CoU-08Wan.tdb:TETRAGONAL_U"],"chemicalSystem":"CO-U","citation":[{"@id":"https://doi.org/10.1016/j.jnucmat.2007.06.023","@type":"ScholarlyArticle","name":"J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TETRAGONAL_U","reviewStatus":"needs_review","termCode":"phase:co-u:u-tetragonal","url":"https://data.orchid-project.org/phases/pages/CO-U.html#phase-co-u-u-tetragonal"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Co–U"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Co–U phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/CO-U.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Co–U phases</h1>
+<p>12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=CO-U">interactive registry</a> · <a href="../systems/CO-U.json">full JSON</a> · <a href="../../systems/CO-U.html">Co–U system page</a> · <a href="CO-U.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Co–U system (12)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-co-u-a20-orthorhombic">ORTHORHOMBIC_A20</a><br><small>phase:co-u:a20-orthorhombic</small></th><td>alpha-U · A20 · oC4 · Cmcm (63)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(U) 1–1</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-bcc-a2">BCC_A2</a><br><small>phase:co-u:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 1031.83–3998.8 K, x(U) 0.96579–1</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-co11u2">CO11U2</a><br><small>phase:co-u:co11u2</small></th><td>Co5U · hR18 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 324.47–1398.96 K, x(U) 0.15385–0.15385</td><td class="n">6</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-co2u-c15">CO2U_C15</a><br><small>phase:co-u:co2u-c15</small></th><td>Cu2Mg · C15 · cF24 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1454.51 K, x(U) 0.2944–0.3336</td><td class="n">8</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-co3u">CO3U</a><br><small>phase:co-u:co3u</small></th><td>Ni3Pu · hR12 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1111.22 K, x(U) 0.25–0.25</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-co4u">CO4U</a><br><small>phase:co-u:co4u</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–1387.89 K, x(U) 0.2–0.2</td><td class="n">8</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-cou-ba">COU_BA</a><br><small>phase:co-u:cou-ba</small></th><td>CoU · B_a · cI16 · I2_13 (199)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1075.63 K, x(U) 0.5–0.5</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-cou6-d2c">COU6_D2C</a><br><small>phase:co-u:cou6-d2c</small></th><td>MnU6 · D2_c · tI28 · I4/mcm (140)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1097.55 K, x(U) 0.85714–0.85714</td><td class="n">6</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-fcc-a1">FCC_A1</a><br><small>phase:co-u:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 694.99–1799.64 K, x(U) 0–5e-05</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-hcp-a3">HCP_A3</a><br><small>phase:co-u:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–694.99 K, x(U) 0–0</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-liquid">LIQUID</a><br><small>phase:co-u:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 1 of 1 calculated diagram(s): 1014.02–4000 K, x(U) 0–1</td><td class="n">18</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-co-u-u-tetragonal">TETRAGONAL_U</a><br><small>phase:co-u:u-tetragonal</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 942.02–1406.83 K, x(U) 1–1</td><td class="n">0</td><td class="n">1</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-co-u-a20-orthorhombic">ORTHORHOMBIC_A20 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:a20-orthorhombic</code>; status <code>assigned</code></li>
+<li>Structure: alpha-U · A20 · oC4 · Cmcm (63); type <code>st:a20-alpha-u-oc4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(U) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:a20-orthorhombic">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:a20-orthorhombic, corpus:phase:co-u:orthorhombic-a20<br><small>tdb: </small>tdb:CoU-08Wan.tdb:ORTHORHOMBIC_A20<br></p>
+<h3>TDB models of ORTHORHOMBIC_A20 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: ORTHORHOMBIC_A20, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>46: PHASE ORTHORHOMBIC_A20 % 1 1 !
+47: CONST ORTHORHOMBIC_A20 : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-co-u-bcc-a2">BCC_A2 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 1031.83–3998.8 K, x(U) 0.96579–1</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:co-u:bcc-a2<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:γ (U), paper:10.1016/j.jnucmat.2007.06.023:γ(U)<br><small>tdb: </small>tdb:CoU-08Wan.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: BCC_A2, type code %B, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : CO U% : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-co11u2">CO11U2 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:co11u2</code>; status <code>assigned</code></li>
+<li>Structure: Co5U · hR18 · R-3m (166); type <code>st:co5u-hr18</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Co 0.8462, U 0.1538</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 324.47–1398.96 K, x(U) 0.15385–0.15385</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:co11u2">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:co11u2<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:Co11 U2<br><small>tdb: </small>tdb:CoU-08Wan.tdb:CO11U2<br></p>
+<h3>TDB models of CO11U2 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: CO11U2, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>56: PHASE CO11U2 % 2 11 2 !
+57: CONST CO11U2 : CO : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-co2u-c15">CO2U_C15 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:co2u-c15</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Mg · C15 · cF24 · Fd-3m (227); type <code>st:c15-cu2mg-cf24</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: partitioned order/disorder model in CoU-08Wan.tdb also describes the disordered state</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1454.51 K, x(U) 0.2944–0.3336</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:co2u-c15">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:co-u:co2u-c15<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:Co2 U, paper:10.1016/j.jnucmat.2007.06.023:Co2U<br><small>tdb: </small>tdb:CoU-08Wan.tdb:CO2U_C15<br></p>
+<h3>TDB models of CO2U_C15 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: CO2U_C15, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>71: PHASE CO2U_C15 % 2 2 1 !
+72: CONST CO2U_C15 : CO% U : CO U% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-co3u">CO3U (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:co3u</code>; status <code>assigned</code></li>
+<li>Structure: Ni3Pu · hR12 · R-3m (166); type <code>st:ni3pu-hr12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Co 0.7500, U 0.2500</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1111.22 K, x(U) 0.25–0.25</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:co3u">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:co3u<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:Co3U<br><small>tdb: </small>tdb:CoU-08Wan.tdb:CO3U<br></p>
+<h3>TDB models of CO3U (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: CO3U, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>66: PHASE CO3U % 2 3 1 !
+67: CONST CO3U : CO : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-co4u">CO4U (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:co4u</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Co4U) · ? — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Co4U) — Hallstedt 2025 mmc2 row for CO4U: Co4U</li>
+<li>Stoichiometry: Co 0.8000, U 0.2000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1387.89 K, x(U) 0.2–0.2</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:co4u">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:co4u<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:Co4U<br><small>tdb: </small>tdb:CoU-08Wan.tdb:CO4U<br></p>
+<h3>TDB models of CO4U (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: CO4U, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>61: PHASE CO4U % 2 4 1 !
+62: CONST CO4U : CO : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-cou-ba">COU_BA (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:cou-ba</code>; status <code>assigned</code></li>
+<li>Structure: CoU · B_a · cI16 · I2_13 (199); type <code>st:b-a-cou-ci16</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaacjlup and oqmd-17123, space group 199</li>
+<li>Stoichiometry: Co 0.5000, U 0.5000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1075.63 K, x(U) 0.5–0.5</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:cou-ba">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:co-u:cou-ba<br><small>mp: </small>mp:mp-aaacjlup<br><small>oqmd: </small>oqmd:oqmd-17123<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:CoU<br><small>tdb: </small>tdb:CoU-08Wan.tdb:COU_BA<br></p>
+<h3>TDB models of COU_BA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: COU_BA, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>76: PHASE COU_BA % 2 1 1 !
+77: CONST COU_BA : CO : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-cou6-d2c">COU6_D2C (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:cou6-d2c</code>; status <code>assigned</code></li>
+<li>Structure: MnU6 · D2_c · tI28 · I4/mcm (140); type <code>st:d2-c-mnu6-ti28</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Co 0.1429, U 0.8571</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1097.55 K, x(U) 0.85714–0.85714</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:cou6-d2c">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:co-u:cou6-d2c<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:CoU 6, paper:10.1016/j.jnucmat.2007.06.023:CoU6<br><small>tdb: </small>tdb:CoU-08Wan.tdb:COU6_D2C<br></p>
+<h3>TDB models of COU6_D2C (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: COU6_D2C, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>81: PHASE COU6_D2C % 2 1 6 !
+82: CONST COU6_D2C : CO : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-fcc-a1">FCC_A1 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 694.99–1799.64 K, x(U) 0–5e-05</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:fcc-a1<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:fcc (Co)<br><small>tdb: </small>tdb:CoU-08Wan.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: FCC_A1, type code %A, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : CO% U : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-hcp-a3">HCP_A3 (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–694.99 K, x(U) 0–0</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:co-u:hcp-a3<br><small>tdb: </small>tdb:CoU-08Wan.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: HCP_A3, type code %A, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : CO% U : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-co-u-liquid">LIQUID (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 1014.02–4000 K, x(U) 0–1</li>
+<li>Literature: 18 values (18 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:co-u:liquid<br><small>paper: </small>paper:10.1016/j.jnucmat.2007.06.023:L<br><small>tdb: </small>tdb:CoU-08Wan.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: LIQUID, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : CO U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-co-u-u-tetragonal">TETRAGONAL_U (Co–U)</h2>
+<ul>
+<li>Id: <code>phase:co-u:u-tetragonal</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token</li>
+<li>Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U</li>
+<li>Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — CoU-08Wan.tdb: &#x27;Prototype beta-U (tP30, P4_2/mnm, SB: A_b)&#x27;</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 942.02–1406.83 K, x(U) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:co-u:u-tetragonal">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:co-u:u-tetragonal<br><small>tdb: </small>tdb:CoU-08Wan.tdb:TETRAGONAL_U<br></p>
+<h3>TDB models of TETRAGONAL_U (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CoU-08Wan.tdb">CoU-08Wan.tdb</a>: TETRAGONAL_U, type code %, sha256 <code>91f49d0dd36e4d3c…</code></p>
+<pre>51: PHASE TETRAGONAL_U % 1 1 !
+52: CONST TETRAGONAL_U : U : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jnucmat.2007.06.023">doi:10.1016/j.jnucmat.2007.06.023</a> J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

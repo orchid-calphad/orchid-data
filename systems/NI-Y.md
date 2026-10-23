@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-Y.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 5 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-Y/NiY-05Du.json) · [Markdown](https://data.orchid-project.org/systems/NI-Y.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-Y/NiY-05Du.json) · [phases (13)](https://data.orchid-project.org/phases/pages/NI-Y.html) · [Markdown](https://data.orchid-project.org/systems/NI-Y.md)
 
 ## Calculated phase diagrams
 

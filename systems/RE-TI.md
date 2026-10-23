@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-TI.html · Markdown: https://da
 
 34 accepted literature values from 1 paper(s) (experimental 12, DFT 22); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TI.json) · [CSV](https://data.orchid-project.org/systems/RE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TI/ReTi-12Zac.json) · [Markdown](https://data.orchid-project.org/systems/RE-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TI.json) · [CSV](https://data.orchid-project.org/systems/RE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TI/ReTi-12Zac.json) · [phases (6)](https://data.orchid-project.org/phases/pages/RE-TI.html) · [Markdown](https://data.orchid-project.org/systems/RE-TI.md)
 
 Table: Accepted values by evidence class
 

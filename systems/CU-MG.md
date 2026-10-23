@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-MG.html · Markdown: https://da
 
 38 accepted literature values from 2 paper(s) (experimental 16, model 15, DFT 2, unspecified 5); 6 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-MG.json) · [CSV](https://data.orchid-project.org/systems/CU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-MG/CuMg-07Zho.json) · [Markdown](https://data.orchid-project.org/systems/CU-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-MG.json) · [CSV](https://data.orchid-project.org/systems/CU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-MG/CuMg-07Zho.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CU-MG.html) · [Markdown](https://data.orchid-project.org/systems/CU-MG.md)
 
 Table: Accepted values by evidence class
 

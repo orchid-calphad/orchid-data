@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-N.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-N/MnN-93Qiu-LB.json) · [Markdown](https://data.orchid-project.org/systems/MN-N.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-N/MnN-93Qiu-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MN-N.html) · [Markdown](https://data.orchid-project.org/systems/MN-N.md)
 
 ## Calculated phase diagrams
 

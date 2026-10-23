@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CS-O.html · Markdown: https://dat
 
 256 accepted literature values from 1 paper(s) (experimental 63, model 67, DFT 102, unspecified 24); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CS-O.json) · [CSV](https://data.orchid-project.org/systems/CS-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-O/CsO-15Gue.json) · [Markdown](https://data.orchid-project.org/systems/CS-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CS-O.json) · [CSV](https://data.orchid-project.org/systems/CS-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-O/CsO-15Gue.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-O.html) · [Markdown](https://data.orchid-project.org/systems/CS-O.md)
 
 Table: Accepted values by evidence class
 

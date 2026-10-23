@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-PR.html · Markdown: https://da
 
 29 accepted literature values from 1 paper(s) (experimental 17, model 12); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PR.json) · [CSV](https://data.orchid-project.org/systems/CD-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PR/CdPr-14Rei.json) · [Markdown](https://data.orchid-project.org/systems/CD-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PR.json) · [CSV](https://data.orchid-project.org/systems/CD-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PR/CdPr-14Rei.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CD-PR.html) · [Markdown](https://data.orchid-project.org/systems/CD-PR.md)
 
 Table: Accepted values by evidence class
 

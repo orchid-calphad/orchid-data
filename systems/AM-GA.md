@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AM-GA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-GA/AmGa-16Per.json) · [Markdown](https://data.orchid-project.org/systems/AM-GA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-GA/AmGa-16Per.json) · [phases (21)](https://data.orchid-project.org/phases/pages/AM-GA.html) · [Markdown](https://data.orchid-project.org/systems/AM-GA.md)
 
 ## Calculated phase diagrams
 

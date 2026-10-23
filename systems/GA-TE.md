@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-TE.html · Markdown: https://da
 
 41 accepted literature values from 2 paper(s) (experimental 17, model 24); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TE.json) · [CSV](https://data.orchid-project.org/systems/GA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TE/GaTe-20Liu.json) · [Markdown](https://data.orchid-project.org/systems/GA-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TE.json) · [CSV](https://data.orchid-project.org/systems/GA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TE/GaTe-20Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GA-TE.html) · [Markdown](https://data.orchid-project.org/systems/GA-TE.md)
 
 Table: Accepted values by evidence class
 

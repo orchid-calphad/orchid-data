@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PT-RH.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-RH/PtRh-02Mam.json) · [Markdown](https://data.orchid-project.org/systems/PT-RH.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-RH/PtRh-02Mam.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PT-RH.html) · [Markdown](https://data.orchid-project.org/systems/PT-RH.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-U.html · Markdown: https://data
 
 1,516 accepted literature values from 1 paper(s) (experimental 878, model 636, unspecified 2); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON part 1](https://data.orchid-project.org/literature/systems/C-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/C-U.part2.json) · [CSV](https://data.orchid-project.org/systems/C-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-U) · [Markdown](https://data.orchid-project.org/systems/C-U.md)
+Data: [JSON part 1](https://data.orchid-project.org/literature/systems/C-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/C-U.part2.json) · [CSV](https://data.orchid-project.org/systems/C-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-U) · [phases (11)](https://data.orchid-project.org/phases/pages/C-U.html) · [Markdown](https://data.orchid-project.org/systems/C-U.md)
 
 Table: Accepted values by evidence class
 

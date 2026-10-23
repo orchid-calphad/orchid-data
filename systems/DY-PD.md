@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-PD.html · Markdown: https://da
 
 34 accepted literature values from 1 paper(s) (experimental 17, model 17); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-PD.json) · [CSV](https://data.orchid-project.org/systems/DY-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-PD/DyPd-00Du.json) · [Markdown](https://data.orchid-project.org/systems/DY-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-PD.json) · [CSV](https://data.orchid-project.org/systems/DY-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-PD/DyPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/DY-PD.html) · [Markdown](https://data.orchid-project.org/systems/DY-PD.md)
 
 Table: Accepted values by evidence class
 

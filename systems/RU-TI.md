@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RU-TI.html · Markdown: https://da
 
 14 accepted literature values from 1 paper(s) (experimental 5, model 9); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RU-TI.json) · [CSV](https://data.orchid-project.org/systems/RU-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-TI/RuTi-09Gao.json) · [Markdown](https://data.orchid-project.org/systems/RU-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RU-TI.json) · [CSV](https://data.orchid-project.org/systems/RU-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-TI/RuTi-09Gao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/RU-TI.html) · [Markdown](https://data.orchid-project.org/systems/RU-TI.md)
 
 Table: Accepted values by evidence class
 

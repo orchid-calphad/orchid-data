@@ -1,0 +1,496 @@
+# Bi–In phases
+
+> Bi–In system: 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+
+HTML: https://data.orchid-project.org/phases/pages/BI-IN.html · Markdown: https://data.orchid-project.org/phases/pages/BI-IN.md
+
+10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+
+Data: [interactive registry](https://orchid-project.org/phases/?q=BI-IN) · [full JSON](https://data.orchid-project.org/phases/systems/BI-IN.json) · [Bi–In system page](https://data.orchid-project.org/systems/BI-IN.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-IN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+
+Table: Phases of the Bi–In system (10)
+
+| Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
+|---|---|---|---|---:|---:|
+| [TETRAGONAL_A6](#phase-bi-in-a6-tetragonal); _phase:bi-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–984.75 K, x(In) 0.91868–1 | 0 | 3 |
+| [RHOMBOHEDRAL_A7](#phase-bi-in-a7-rhombohedral); _phase:bi-in:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(In) 0–0.0001 | 2 | 3 |
+| [BCC_A2](#phase-bi-in-bcc-a2); _phase:bi-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 6 | 3 |
+| [BI3IN5](#phase-bi-in-bi3in5); _phase:bi-in:bi3in5_ | Bi3In5 · tI32 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–362.01 K, x(In) 0.625–0.625 | 4 | 3 |
+| [BIIN](#phase-bi-in-biin); _phase:bi-in:biin_ | BiIn · tP4 · P4/nmm (129) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–382.93 K, x(In) 0.5–0.5 | 0 | 3 |
+| [BIIN2_B82](#phase-bi-in-biin2-b82); _phase:bi-in:biin2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–361.34 K, x(In) 0.66667–0.66667 | 8 | 3 |
+| [FCC_A1](#phase-bi-in-fcc-a1); _phase:bi-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
+| [HCP_A3](#phase-bi-in-hcp-a3); _phase:bi-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
+| [LIQUID](#phase-bi-in-liquid); _phase:bi-in:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 343.65–2500 K, x(In) 0–1 | 14 | 3 |
+| [TET_ALPHA1_A6](#phase-bi-in-tet-a6-alpha1); _phase:bi-in:tet-a6-alpha1_ | In · A6 · tI2 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 318.91–366.73 K, x(In) 0.84619–0.91811 | 6 | 3 |
+
+## TETRAGONAL_A6 (Bi–In)
+
+- Id: `phase:bi-in:a6-tetragonal`; status `assigned`
+- Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
+- Stability: stable in 3 of 3 calculated diagram(s): 300–984.75 K, x(In) 0.91868–1
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:a6-tetragonal)
+
+Names (4): _corpus: _corpus:phase:bi-in:a6-tetragonal  
+_tdb: _tdb:BiIn-02Cui.tdb:TETRAGONAL_A6, tdb:BiIn-88Che-LB.tdb:TETRAGONAL_A6, tdb:BiIn-88Che-SGSOL.tdb:TETRAGONAL_A6  
+
+
+### TDB models of TETRAGONAL_A6 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): TETRAGONAL_A6, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+43: PHASE TETRAGONAL_A6 % 1 1 !
+44: CONST TETRAGONAL_A6 : BI IN% : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): TETRAGONAL_A6, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+48: PHASE TETRAGONAL_A6 % 1 1 !
+49: CONST TETRAGONAL_A6 : BI IN% : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): TETRAGONAL_A6, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+47: PHASE TETRAGONAL_A6 % 1 1 !
+48: CONST TETRAGONAL_A6 : BI IN% : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## RHOMBOHEDRAL_A7 (Bi–In)
+
+- Id: `phase:bi-in:a7-rhombohedral`; status `assigned`
+- Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
+- Stability: stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(In) 0–0.0001
+- Literature: 2 values (2 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:a7-rhombohedral)
+
+Names (5): _corpus: _corpus:phase:bi-in:a7-rhombohedral  
+_paper: _paper:10.1016/0364-5916(88)90040-5:rho  
+_tdb: _tdb:BiIn-02Cui.tdb:RHOMBOHEDRAL_A7, tdb:BiIn-88Che-LB.tdb:RHOMBOHEDRAL_A7, tdb:BiIn-88Che-SGSOL.tdb:RHOMBOHEDRAL_A7  
+
+
+### TDB models of RHOMBOHEDRAL_A7 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): RHOMBOHEDRAL_A7, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+53: PHASE RHOMBOHEDRAL_A7 % 1 1 !
+54: CONST RHOMBOHEDRAL_A7 : BI% IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): RHOMBOHEDRAL_A7, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+58: PHASE RHOMBOHEDRAL_A7 % 1 1 !
+59: CONST RHOMBOHEDRAL_A7 : BI% IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): RHOMBOHEDRAL_A7, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+57: PHASE RHOMBOHEDRAL_A7 % 1 1 !
+58: CONST RHOMBOHEDRAL_A7 : BI% IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## BCC_A2 (Bi–In)
+
+- Id: `phase:bi-in:bcc-a2`; status `assigned`
+- Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stability: not stable in 3 calculated diagram(s)
+- Literature: 6 values (6 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:bcc-a2)
+
+Names (5): _corpus: _corpus:phase:bi-in:bcc-a2  
+_paper: _paper:10.1016/0364-5916(88)90040-5:BiIn(β)  
+_tdb: _tdb:BiIn-02Cui.tdb:BCC_A2, tdb:BiIn-88Che-LB.tdb:BCC_A2, tdb:BiIn-88Che-SGSOL.tdb:BCC_A2  
+
+
+### TDB models of BCC_A2 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): BCC_A2, type code %B, sha256 `887591159496af2f…`
+
+~~~~text
+33: PHASE BCC_A2 %B 2 1 3 !
+34: CONST BCC_A2 : BI IN : VA : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): BCC_A2, type code %B, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+38: PHASE BCC_A2 %B 2 1 3 !
+39: CONST BCC_A2 : BI IN : VA : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): BCC_A2, type code %B, sha256 `83cf71e524093437…`
+
+~~~~text
+37: PHASE BCC_A2 %B 2 1 3 !
+38: CONST BCC_A2 : BI IN : VA : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## BI3IN5 (Bi–In)
+
+- Id: `phase:bi-in:bi3in5`; status `assigned`
+- Structure: Bi3In5 · tI32 · I4/mcm (140); type `st:bi3in5-ti32`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
+- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Bi 0.3750, In 0.6250
+- Stability: stable in 3 of 3 calculated diagram(s): 300–362.01 K, x(In) 0.625–0.625
+- Literature: 4 values (4 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:bi3in5)
+
+Names (5): _corpus: _corpus:phase:bi-in:bi3in5  
+_paper: _paper:10.1016/0364-5916(88)90040-5:Bi3In5(γ)  
+_tdb: _tdb:BiIn-02Cui.tdb:BI3IN5, tdb:BiIn-88Che-LB.tdb:BI3IN5, tdb:BiIn-88Che-SGSOL.tdb:BI3IN5  
+
+
+### TDB models of BI3IN5 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): BI3IN5, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+63: PHASE BI3IN5 % 2 3 5 !
+64: CONST BI3IN5 : BI : IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): BI3IN5, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+68: PHASE BI3IN5 % 2 3 5 !
+69: CONST BI3IN5 : BI : IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): BI3IN5, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+67: PHASE BI3IN5 % 2 3 5 !
+68: CONST BI3IN5 : BI : IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## BIIN (Bi–In)
+
+- Id: `phase:bi-in:biin`; status `assigned`
+- Structure: BiIn · tP4 · P4/nmm (129); type `st:biin-tp4`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: Bi 0.5000, In 0.5000
+- Stability: stable in 3 of 3 calculated diagram(s): 300–382.93 K, x(In) 0.5–0.5
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:biin)
+
+Names (6): _corpus: _corpus:phase:bi-in:biin  
+_mp: _mp:mp-aaaabimr  
+_oqmd: _oqmd:oqmd-1876  
+_tdb: _tdb:BiIn-02Cui.tdb:BIIN, tdb:BiIn-88Che-LB.tdb:BIIN, tdb:BiIn-88Che-SGSOL.tdb:BIIN  
+
+
+### TDB models of BIIN (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): BIIN, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+58: PHASE BIIN % 2 1 1 !
+59: CONST BIIN : BI : IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): BIIN, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+63: PHASE BIIN % 2 1 1 !
+64: CONST BIIN : BI : IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): BIIN, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+62: PHASE BIIN % 2 1 1 !
+63: CONST BIIN : BI : IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## BIIN2_B82 (Bi–In)
+
+- Id: `phase:bi-in:biin2-b82`; status `assigned`
+- Structure: InNi2 · B8_2 · hP6 · P6_3/mmc (194); type `st:b8-2-inni2-hp6`; tier A: standard phase name; confidence high
+- Stoichiometry: Bi 0.3333, In 0.6667
+- Stability: stable in 3 of 3 calculated diagram(s): 300–361.34 K, x(In) 0.66667–0.66667
+- Literature: 8 values (8 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:biin2-b82)
+
+Names (5): _corpus: _corpus:phase:bi-in:biin2-b82  
+_paper: _paper:10.1016/0364-5916(88)90040-5:BiIn2(δ)  
+_tdb: _tdb:BiIn-02Cui.tdb:BIIN2_B82, tdb:BiIn-88Che-LB.tdb:BIIN2_B82, tdb:BiIn-88Che-SGSOL.tdb:BIIN2_B82  
+
+
+### TDB models of BIIN2_B82 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): BIIN2_B82, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+68: PHASE BIIN2_B82 % 2 1 2 !
+69: CONST BIIN2_B82 : BI : IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): BIIN2_B82, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+73: PHASE BIIN2_B82 % 2 1 2 !
+74: CONST BIIN2_B82 : BI : IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): BIIN2_B82, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+72: PHASE BIIN2_B82 % 2 1 2 !
+73: CONST BIIN2_B82 : BI : IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## FCC_A1 (Bi–In)
+
+- Id: `phase:bi-in:fcc-a1`; status `assigned`
+- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stability: not stable in 3 calculated diagram(s)
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:fcc-a1)
+
+Names (4): _corpus: _corpus:phase:bi-in:fcc-a1  
+_tdb: _tdb:BiIn-02Cui.tdb:FCC_A1, tdb:BiIn-88Che-LB.tdb:FCC_A1, tdb:BiIn-88Che-SGSOL.tdb:FCC_A1  
+
+
+### TDB models of FCC_A1 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): FCC_A1, type code %A, sha256 `887591159496af2f…`
+
+~~~~text
+28: PHASE FCC_A1 %A 2 1 1 !
+29: CONST FCC_A1 : BI IN : VA : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): FCC_A1, type code %A, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+33: PHASE FCC_A1 %A 2 1 1 !
+34: CONST FCC_A1 : BI IN : VA : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): FCC_A1, type code %A, sha256 `83cf71e524093437…`
+
+~~~~text
+32: PHASE FCC_A1 %A 2 1 1 !
+33: CONST FCC_A1 : BI IN : VA : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## HCP_A3 (Bi–In)
+
+- Id: `phase:bi-in:hcp-a3`; status `assigned`
+- Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stability: not stable in 3 calculated diagram(s)
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:hcp-a3)
+
+Names (4): _corpus: _corpus:phase:bi-in:hcp-a3  
+_tdb: _tdb:BiIn-02Cui.tdb:HCP_A3, tdb:BiIn-88Che-LB.tdb:HCP_A3, tdb:BiIn-88Che-SGSOL.tdb:HCP_A3  
+
+
+### TDB models of HCP_A3 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): HCP_A3, type code %A, sha256 `887591159496af2f…`
+
+~~~~text
+38: PHASE HCP_A3 %A 2 1 0.5 !
+39: CONST HCP_A3 : BI IN : VA: !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): HCP_A3, type code %A, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+43: PHASE HCP_A3 %A 2 1 0.5 !
+44: CONST HCP_A3 : BI IN : VA: !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): HCP_A3, type code %A, sha256 `83cf71e524093437…`
+
+~~~~text
+42: PHASE HCP_A3 %A 2 1 0.5 !
+43: CONST HCP_A3 : BI IN : VA: !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## LIQUID (Bi–In)
+
+- Id: `phase:bi-in:liquid`; status `assigned`
+- Structure: liquid; type `st:liquid`; liquid; confidence high
+- Stability: stable in 3 of 3 calculated diagram(s): 343.65–2500 K, x(In) 0–1
+- Literature: 14 values (14 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:liquid)
+
+Names (5): _corpus: _corpus:phase:bi-in:liquid  
+_paper: _paper:10.1016/0364-5916(88)90040-5:L  
+_tdb: _tdb:BiIn-02Cui.tdb:LIQUID, tdb:BiIn-88Che-LB.tdb:LIQUID, tdb:BiIn-88Che-SGSOL.tdb:LIQUID  
+
+
+### TDB models of LIQUID (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): LIQUID, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+23: PHASE LIQUID:L % 1 1 !
+24: CONST LIQUID:L : BI IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): LIQUID, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+28: PHASE LIQUID:L % 1 1 !
+29: CONST LIQUID:L : BI IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): LIQUID, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+27: PHASE LIQUID:L % 1 1 !
+28: CONST LIQUID:L : BI IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## TET_ALPHA1_A6 (Bi–In)
+
+- Id: `phase:bi-in:tet-a6-alpha1`; status `assigned`
+- Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
+- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:ALPHA1); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stability: stable in 3 of 3 calculated diagram(s): 318.91–366.73 K, x(In) 0.84619–0.91811
+- Literature: 6 values (6 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:tet-a6-alpha1)
+
+Names (5): _corpus: _corpus:phase:bi-in:tet-a6-alpha1  
+_paper: _paper:10.1016/0364-5916(88)90040-5:α1  
+_tdb: _tdb:BiIn-02Cui.tdb:TET_ALPHA1_A6, tdb:BiIn-88Che-LB.tdb:TET_ALPHA1_A6, tdb:BiIn-88Che-SGSOL.tdb:TET_ALPHA1_A6  
+
+
+### TDB models of TET_ALPHA1_A6 (3): PHASE and CONSTITUENT statements as written
+
+[BiIn-02Cui.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-02Cui.tdb): TET_ALPHA1_A6, type code %, sha256 `887591159496af2f…`
+
+~~~~text
+48: PHASE TET_ALPHA1_A6 % 1 1 !
+49: CONST TET_ALPHA1_A6 : BI IN : !
+~~~~
+
+[BiIn-88Che-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-LB.tdb): TET_ALPHA1_A6, type code %, sha256 `cac488a2c3db9a2b…`
+
+~~~~text
+53: PHASE TET_ALPHA1_A6 % 1 1 !
+54: CONST TET_ALPHA1_A6 : BI IN : !
+~~~~
+
+[BiIn-88Che-SGSOL.tdb](https://orchid-project.org/data/databases/sgte-binary/BiIn-88Che-SGSOL.tdb): TET_ALPHA1_A6, type code %, sha256 `83cf71e524093437…`
+
+~~~~text
+52: PHASE TET_ALPHA1_A6 % 1 1 !
+53: CONST TET_ALPHA1_A6 : BI IN : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
+_assessment that models this phase_
+
+## Please cite
+
+- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+
+Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+
+Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+
+```bibtex
+@misc{orchid_phase_registry_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}
+```
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: [SCHEMA.md](https://data.orchid-project.org/phases/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

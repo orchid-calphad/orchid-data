@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LI-O.html · Markdown: https://dat
 
 24 accepted literature values from 1 paper(s) (experimental 12, model 12); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LI-O.json) · [CSV](https://data.orchid-project.org/systems/LI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-O/LiO-11Cha.json) · [Markdown](https://data.orchid-project.org/systems/LI-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LI-O.json) · [CSV](https://data.orchid-project.org/systems/LI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-O/LiO-11Cha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/LI-O.html) · [Markdown](https://data.orchid-project.org/systems/LI-O.md)
 
 Table: Accepted values by evidence class
 

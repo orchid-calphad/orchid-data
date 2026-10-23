@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-LU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-LU/GeLu-18Ach.json) · [Markdown](https://data.orchid-project.org/systems/GE-LU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-LU/GeLu-18Ach.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GE-LU.html) · [Markdown](https://data.orchid-project.org/systems/GE-LU.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-CU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CU/BaCu-93Kon-LB.json) · [Markdown](https://data.orchid-project.org/systems/BA-CU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CU/BaCu-93Kon-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BA-CU.html) · [Markdown](https://data.orchid-project.org/systems/BA-CU.md)
 
 ## Calculated phase diagrams
 

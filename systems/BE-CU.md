@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-CU.html · Markdown: https://da
 
 37 accepted literature values from 1 paper(s) (experimental 19, model 11, unspecified 7); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BE-CU.json) · [CSV](https://data.orchid-project.org/systems/BE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-CU/BeCu-18Liu.json) · [Markdown](https://data.orchid-project.org/systems/BE-CU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BE-CU.json) · [CSV](https://data.orchid-project.org/systems/BE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-CU/BeCu-18Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BE-CU.html) · [Markdown](https://data.orchid-project.org/systems/BE-CU.md)
 
 Table: Accepted values by evidence class
 

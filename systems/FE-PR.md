@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-PR.html · Markdown: https://da
 
 2 accepted literature values from 1 paper(s) (experimental 2); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PR.json) · [CSV](https://data.orchid-project.org/systems/FE-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PR/FePr-16Che.json) · [Markdown](https://data.orchid-project.org/systems/FE-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PR.json) · [CSV](https://data.orchid-project.org/systems/FE-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PR/FePr-16Che.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-PR.html) · [Markdown](https://data.orchid-project.org/systems/FE-PR.md)
 
 Table: Accepted values by evidence class
 

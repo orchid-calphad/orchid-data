@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-YB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-YB/BaYb-91Oka.json) · [Markdown](https://data.orchid-project.org/systems/BA-YB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-YB/BaYb-91Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-YB.html) · [Markdown](https://data.orchid-project.org/systems/BA-YB.md)
 
 ## Calculated phase diagrams
 

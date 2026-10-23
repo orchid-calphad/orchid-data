@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La–Mg phases — ORCHID phase registry</title>
+<meta name="description" content="La–Mg system: 18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/LA-MG.html">
+<link rel="alternate" type="text/markdown" href="LA-MG.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"La–Mg system: 18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/LA-MG.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/LA-MG.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:bcc-a2","paper:10.1016/j.jallcom.2004.04.105:bcc(La)","paper:10.1016/j.jallcom.2015.12.105:(βLa)","paper:10.1016/j.jallcom.2015.12.105:(γLa)","tdb:LaMg-04Guo-LB.tdb:BCC_A2","tdb:LaMg-10Guo.tdb:BCC_A2","tdb:LaMg-11Ber.tdb:BCC_A2","tdb:LaMg-12Gro.tdb:BCC_A2","tdb:LaMg-16Zha.tdb:BCC_A2","tdb:LaMg-18Zhu.tdb:BCC_A2"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:la-mg:bcc-a2","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:bcc-b2","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:bcc-b2","tdb:LaMg-10Guo.tdb:B2_BCC"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"B2_BCC","pearsonSymbol":"cP2","prototype":"CsCl","reviewStatus":"assigned","spaceGroupNumber":221,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b2-cscl-cp2","strukturbericht":"B2","termCode":"phase:la-mg:bcc-b2","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-bcc-b2"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:c15-mg2m","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:c15-mg2m","corpus:phase:la-mg:mg2m-c15","paper:10.1016/j.jallcom.2004.04.105:LaMg2","paper:10.1016/j.jallcom.2004.04.105:laMg2","paper:10.1016/j.jallcom.2017.10.013:LaMg2","tdb:LaMg-04Guo-LB.tdb:MG2M_C15","tdb:LaMg-10Guo.tdb:MG2M_C15","tdb:LaMg-12Gro.tdb:MG2M_C15","tdb:LaMg-18Zhu.tdb:MG2M_C15"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."},{"@id":"https://doi.org/10.1007/bf02890558","@type":"ScholarlyArticle","name":"A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MG2M_C15","pearsonSymbol":"cF24","prototype":"Cu2Mg","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c15-cu2mg-cf24","strukturbericht":"C15","termCode":"phase:la-mg:c15-mg2m","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-c15-mg2m"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:d03-mg3m","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:d03-mg3m","corpus:phase:la-mg:mg3m-d03","paper:10.1016/j.jallcom.2004.04.105:LaMg3","paper:10.1016/j.jallcom.2017.10.013:LaMg3","tdb:LaMg-04Guo-LB.tdb:MG3M_D03","tdb:LaMg-10Guo.tdb:MG3M_D03","tdb:LaMg-12Gro.tdb:MG3M_D03","tdb:LaMg-18Zhu.tdb:MG3M_D03"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."},{"@id":"https://doi.org/10.1007/bf02890558","@type":"ScholarlyArticle","name":"A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MG3M_D03","pearsonSymbol":"cF16","prototype":"BiF3","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-3-bif3-cf16","strukturbericht":"D0_3","termCode":"phase:la-mg:d03-mg3m","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-d03-mg3m"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:d2b-mg12r","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:d2b-mg12r","tdb:LaMg-10Guo.tdb:MG12R_D2B"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MG12R_D2B","pearsonSymbol":"tI26","prototype":"Mn12Th","reviewStatus":"assigned","spaceGroupNumber":139,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d2-b-mn12th-ti26","strukturbericht":"D2_b","termCode":"phase:la-mg:d2b-mg12r","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-d2b-mg12r"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:dhcp","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:dhcp"],"chemicalSystem":"LA-MG","inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:la-mg:dhcp","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-dhcp"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:dhcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:dhcp-a3","paper:10.1016/j.calphad.2011.10.001:bcc-La","paper:10.1016/j.calphad.2011.10.001:fcc-La","paper:10.1016/j.jallcom.2015.12.105:(αLa)","tdb:LaMg-04Guo-LB.tdb:DHCP","tdb:LaMg-10Guo.tdb:DHCP","tdb:LaMg-11Ber.tdb:DHCP","tdb:LaMg-12Gro.tdb:DHCP","tdb:LaMg-16Zha.tdb:DHCP","tdb:LaMg-18Zhu.tdb:DHCP"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:la-mg:dhcp-a3","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-dhcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:fcc-a1","paper:10.1016/j.jallcom.2004.04.105:fcc(La)","tdb:LaMg-04Guo-LB.tdb:FCC_A1","tdb:LaMg-10Guo.tdb:FCC_A1","tdb:LaMg-11Ber.tdb:FCC_A1","tdb:LaMg-12Gro.tdb:FCC_A1","tdb:LaMg-16Zha.tdb:FCC_A1","tdb:LaMg-18Zhu.tdb:FCC_A1"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:la-mg:fcc-a1","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:hcp-a3","paper:10.1016/j.calphad.2011.10.001:hcp-Mg","paper:10.1016/j.jallcom.2004.04.105:hcp(Mg)","paper:10.1016/j.jallcom.2015.12.105:(Mg)","tdb:LaMg-04Guo-LB.tdb:HCP_A3","tdb:LaMg-10Guo.tdb:HCP_A3","tdb:LaMg-11Ber.tdb:HCP_A3","tdb:LaMg-12Gro.tdb:HCP_A3","tdb:LaMg-16Zha.tdb:HCP_A3","tdb:LaMg-18Zhu.tdb:HCP_A3"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:la-mg:hcp-a3","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:la2mg17","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:la2mg17","paper:10.1016/j.calphad.2011.10.001:La2Mg17","paper:10.1016/j.jallcom.2015.12.105:La2Mg17","tdb:LaMg-11Ber.tdb:LA2MG17","tdb:LaMg-16Zha.tdb:LA2MG17"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1007/bf02669789","@type":"ScholarlyArticle","name":"M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA2MG17","reviewStatus":"needs_review","termCode":"phase:la-mg:la2mg17","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-la2mg17"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:la5mg41","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:la5mg41","paper:10.1016/j.calphad.2011.10.001:La5Mg41","paper:10.1016/j.jallcom.2015.12.105:La5Mg41","tdb:LaMg-11Ber.tdb:LA5MG41","tdb:LaMg-16Zha.tdb:LA5MG41"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1007/bf02669789","@type":"ScholarlyArticle","name":"M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA5MG41","pearsonSymbol":"tI92","prototype":"Ce5Mg41","reviewStatus":"assigned","spaceGroupNumber":87,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ce5mg41-ti92","termCode":"phase:la-mg:la5mg41","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-la5mg41"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:lamg-b2","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:lamg-b2","paper:10.1016/j.calphad.2011.10.001:LaMg","paper:10.1016/j.jallcom.2004.04.105:LaMg","paper:10.1016/j.jallcom.2015.12.105:LaMg","paper:10.1016/j.jallcom.2017.10.013:LaMg","tdb:LaMg-04Guo-LB.tdb:LAMG_B2","tdb:LaMg-11Ber.tdb:LAMG_B2","tdb:LaMg-12Gro.tdb:LAMG_B2","tdb:LaMg-16Zha.tdb:LAMG_B2","tdb:LaMg-18Zhu.tdb:LAMG_B2"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LAMG_B2","pearsonSymbol":"cP2","prototype":"CsCl","reviewStatus":"assigned","spaceGroupNumber":221,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b2-cscl-cp2","strukturbericht":"B2","termCode":"phase:la-mg:lamg-b2","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-lamg-b2"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:lamg12-d2b","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:lamg12-d2b","paper:10.1016/j.calphad.2011.10.001:(LaMg12)","paper:10.1016/j.calphad.2011.10.001:LaMg12","paper:10.1016/j.jallcom.2004.04.105:LaMg12","paper:10.1016/j.jallcom.2015.12.105:LaMg12","tdb:LaMg-04Guo-LB.tdb:LAMG12_D2B","tdb:LaMg-11Ber.tdb:LAMG12_D2B","tdb:LaMg-12Gro.tdb:LAMG12_D2B","tdb:LaMg-16Zha.tdb:LAMG12_D2B","tdb:LaMg-18Zhu.tdb:LAMG12_D2B"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LAMG12_D2B","pearsonSymbol":"tI26","prototype":"Mn12Th","reviewStatus":"assigned","spaceGroupNumber":139,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d2-b-mn12th-ti26","strukturbericht":"D2_b","termCode":"phase:la-mg:lamg12-d2b","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-lamg12-d2b"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:lamg2-c15","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:lamg2-c15","paper:10.1016/j.calphad.2011.10.001:LaMg2","paper:10.1016/j.jallcom.2015.12.105:LaMg2","tdb:LaMg-11Ber.tdb:LAMG2_C15","tdb:LaMg-16Zha.tdb:LAMG2_C15"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/0022-5088(86)90135-9","@type":"ScholarlyArticle","name":"P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LAMG2_C15","pearsonSymbol":"cF24","prototype":"Cu2Mg","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c15-cu2mg-cf24","strukturbericht":"C15","termCode":"phase:la-mg:lamg2-c15","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-lamg2-c15"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:lamg3-d03","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:lamg3-d03","paper:10.1016/j.calphad.2011.10.001:LaMg3","paper:10.1016/j.jallcom.2015.12.105:LaMg3","tdb:LaMg-11Ber.tdb:LAMG3_D03","tdb:LaMg-16Zha.tdb:LAMG3_D03"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1007/bf02669789","@type":"ScholarlyArticle","name":"M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995)."},{"@id":"https://doi.org/10.1016/0022-5088(86)90135-9","@type":"ScholarlyArticle","name":"P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LAMG3_D03","pearsonSymbol":"cF16","prototype":"BiF3","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-3-bif3-cf16","strukturbericht":"D0_3","termCode":"phase:la-mg:lamg3-d03","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-lamg3-d03"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:liquid","paper:10.1016/j.calphad.2011.10.001:Liquid","paper:10.1016/j.jallcom.2004.04.105:liq","paper:10.1016/j.jallcom.2015.12.105:Liq","tdb:LaMg-04Guo-LB.tdb:LIQUID","tdb:LaMg-10Guo.tdb:LIQUID","tdb:LaMg-11Ber.tdb:LIQUID","tdb:LaMg-12Gro.tdb:LIQUID","tdb:LaMg-16Zha.tdb:LIQUID","tdb:LaMg-18Zhu.tdb:LIQUID"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2015.12.105","@type":"ScholarlyArticle","name":"Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016)."},{"@id":"https://doi.org/10.1016/j.calphad.2011.10.001","@type":"ScholarlyArticle","name":"A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:la-mg:liquid","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:mg17r2","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:mg17r2","paper:10.1016/j.jallcom.2004.04.105:La2Mg17","paper:10.1016/j.jallcom.2017.10.013:La2Mg17","tdb:LaMg-04Guo-LB.tdb:MG17R2","tdb:LaMg-10Guo.tdb:MG17R2","tdb:LaMg-12Gro.tdb:MG17R2","tdb:LaMg-18Zhu.tdb:MG17R2"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.04.105","@type":"ScholarlyArticle","name":"Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004)."},{"@id":"https://doi.org/10.1016/j.jallcom.2017.10.013","@type":"ScholarlyArticle","name":"Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018)."},{"@id":"https://doi.org/10.1016/j.intermet.2012.04.012","@type":"ScholarlyArticle","name":"Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012)."},{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."},{"@id":"https://doi.org/10.1007/bf02890558","@type":"ScholarlyArticle","name":"A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MG17R2","pearsonSymbol":"hP44","prototype":"CeMg10","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:cemg10-hp44","termCode":"phase:la-mg:mg17r2","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-mg17r2"},{"@id":"https://data.orchid-project.org/phases/#phase:la-mg:mg41m5","@type":"DefinedTerm","alternateName":["corpus:phase:la-mg:mg41m5","tdb:LaMg-10Guo.tdb:MG41M5"],"chemicalSystem":"LA-MG","citation":[{"@id":"https://doi.org/10.3139/146.110380","@type":"ScholarlyArticle","name":"C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MG41M5","pearsonSymbol":"tI92","prototype":"Ce5Mg41","reviewStatus":"assigned","spaceGroupNumber":87,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ce5mg41-ti92","termCode":"phase:la-mg:mg41m5","url":"https://data.orchid-project.org/phases/pages/LA-MG.html#phase-la-mg-mg41m5"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","La–Mg"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"La–Mg phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/LA-MG.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>La–Mg phases</h1>
+<p>18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=LA-MG">interactive registry</a> · <a href="../systems/LA-MG.json">full JSON</a> · <a href="../../systems/LA-MG.html">La–Mg system page</a> · <a href="LA-MG.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the La–Mg system (18)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-la-mg-bcc-a2">BCC_A2</a><br><small>phase:la-mg:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 5 of 6 calculated diagram(s): 813.02–1198.51 K, x(Mg) 0–0.29651</td><td class="n">12</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-bcc-b2">B2_BCC</a><br><small>phase:la-mg:bcc-b2</small></th><td>CsCl · B2 · cP2 · Pm-3m (221)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1192.53 K, x(Mg) 0–0.50448</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-c15-mg2m">MG2M_C15</a><br><small>phase:la-mg:c15-mg2m</small></th><td>Cu2Mg · C15 · cF24 · Fd-3m (227)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–1076.73 K, x(Mg) 0.66667–0.66667</td><td class="n">10</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-d03-mg3m">MG3M_D03</a><br><small>phase:la-mg:d03-mg3m</small></th><td>BiF3 · D0_3 · cF16 · Fm-3m (225)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–1071.43 K, x(Mg) 0.75–0.80818</td><td class="n">11</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-d2b-mg12r">MG12R_D2B</a><br><small>phase:la-mg:d2b-mg12r</small></th><td>Mn12Th · D2_b · tI26 · I4/mmm (139)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–913.18 K, x(Mg) 0.92308–0.92308</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-dhcp">DHCP</a><br><small>phase:la-mg:dhcp</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">0</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-dhcp-a3">DHCP</a><br><small>phase:la-mg:dhcp-a3</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108</td><td class="n">7</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-fcc-a1">FCC_A1</a><br><small>phase:la-mg:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-hcp-a3">HCP_A3</a><br><small>phase:la-mg:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 6 of 6 calculated diagram(s): 300–2499.25 K, x(Mg) 0.99844–1</td><td class="n">9</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-la2mg17">LA2MG17</a><br><small>phase:la-mg:la2mg17</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474</td><td class="n">22</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-la5mg41">LA5MG41</a><br><small>phase:la-mg:la5mg41</small></th><td>Ce5Mg41 · tI92 · I4/m (87)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913</td><td class="n">16</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-lamg-b2">LAMG_B2</a><br><small>phase:la-mg:lamg-b2</small></th><td>CsCl · B2 · cP2 · Pm-3m (221)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1027.91 K, x(Mg) 0.5–0.5</td><td class="n">45</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-lamg12-d2b">LAMG12_D2B</a><br><small>phase:la-mg:lamg12-d2b</small></th><td>Mn12Th · D2_b · tI26 · I4/mmm (139)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–924.77 K, x(Mg) 0.92308–0.92817</td><td class="n">18</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-lamg2-c15">LAMG2_C15</a><br><small>phase:la-mg:lamg2-c15</small></th><td>Cu2Mg · C15 · cF24 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 660–1057.59 K, x(Mg) 0.66667–0.66667</td><td class="n">26</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-lamg3-d03">LAMG3_D03</a><br><small>phase:la-mg:lamg3-d03</small></th><td>BiF3 · D0_3 · cF16 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1072.9 K, x(Mg) 0.74896–0.83778</td><td class="n">37</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-liquid">LIQUID</a><br><small>phase:la-mg:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 6 of 6 calculated diagram(s): 880.84–2500 K, x(Mg) 0–1</td><td class="n">59</td><td class="n">6</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-mg17r2">MG17R2</a><br><small>phase:la-mg:mg17r2</small></th><td>CeMg10 · hP44 · P6_3/mmc (194)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–945.04 K, x(Mg) 0.89474–0.89474</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-mg-mg41m5">MG41M5</a><br><small>phase:la-mg:mg41m5</small></th><td>Ce5Mg41 · tI92 · I4/m (87)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–942.92 K, x(Mg) 0.8913–0.8913</td><td class="n">0</td><td class="n">1</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-la-mg-bcc-a2">BCC_A2 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 6 calculated diagram(s): 813.02–1198.51 K, x(Mg) 0–0.29651</li>
+<li>Literature: 12 values (12 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:bcc-a2<br><small>paper: </small>paper:10.1016/j.jallcom.2004.04.105:bcc(La), paper:10.1016/j.jallcom.2015.12.105:(βLa), paper:10.1016/j.jallcom.2015.12.105:(γLa)<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:BCC_A2, tdb:LaMg-10Guo.tdb:BCC_A2, tdb:LaMg-11Ber.tdb:BCC_A2, tdb:LaMg-12Gro.tdb:BCC_A2, tdb:LaMg-16Zha.tdb:BCC_A2, tdb:LaMg-18Zhu.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>32: PHASE BCC_A2 %B 2 1 3 !
+33: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: BCC_A2, type code %B, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: BCC_A2, type code %B, sha256 <code>7963606898edbe26…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: BCC_A2, type code %B, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>34: PHASE BCC_A2 %B 2 1 3 !
+35: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: BCC_A2, type code %B, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>31: PHASE BCC_A2 %B 2 1 3 !
+32: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: BCC_A2, type code %B, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>33: PHASE BCC_A2 %B 2 1 3 !
+34: CONST BCC_A2 : LA% MG : VA% : !</pre>
+<p>Example references (9 of 9; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663191">doi:10.1007/bf02663191</a> J. W. Herchenroeder, P. Manfrinetti, K. A. Gschneidner, Physical metallurgy of metastable bcc lanthanide-magnesium alloys for R = La, Gd, and Dy, Metall Trans A 20, 1575-1583 (1989).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-bcc-b2">B2_BCC (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:bcc-b2</code>; status <code>assigned</code></li>
+<li>Structure: CsCl · B2 · cP2 · Pm-3m (221); type <code>st:b2-cscl-cp2</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: LaMg-10Guo.tdb: ordered phase with disordered part BCC_A2 (order/disorder model)</li>
+<li>Caveat: partitioned order/disorder model in LaMg-10Guo.tdb also describes the disordered state</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1192.53 K, x(Mg) 0–0.50448</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:bcc-b2">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:la-mg:bcc-b2<br><small>tdb: </small>tdb:LaMg-10Guo.tdb:B2_BCC<br></p>
+<h3>TDB models of B2_BCC (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: B2_BCC, type code %BO, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>41: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+42: CONST B2_BCC : LA MG% : LA% MG : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-c15-mg2m">MG2M_C15 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:c15-mg2m</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Mg · C15 · cF24 · Fd-3m (227); type <code>st:c15-cu2mg-cf24</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:MG2M); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.3333, Mg 0.6667</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1076.73 K, x(Mg) 0.66667–0.66667</li>
+<li>Literature: 10 values (10 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:c15-mg2m">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:la-mg:c15-mg2m, corpus:phase:la-mg:mg2m-c15<br><small>paper: </small>paper:10.1016/j.jallcom.2004.04.105:LaMg2, paper:10.1016/j.jallcom.2004.04.105:laMg2, paper:10.1016/j.jallcom.2017.10.013:LaMg2<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:MG2M_C15, tdb:LaMg-10Guo.tdb:MG2M_C15, tdb:LaMg-12Gro.tdb:MG2M_C15, tdb:LaMg-18Zhu.tdb:MG2M_C15<br></p>
+<h3>TDB models of MG2M_C15 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: MG2M_C15, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>52: PHASE MG2M_C15 % 2 2 1 !
+53: CONST MG2M_C15 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: MG2M_C15, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>56: PHASE MG2M_C15 % 2 2 1 !
+57: CONST MG2M_C15 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: MG2M_C15, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>54: PHASE MG2M_C15 % 2 2 1 !
+55: CONST MG2M_C15 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: MG2M_C15, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>53: PHASE MG2M_C15 % 2 2 1 !
+54: CONST MG2M_C15 : MG : LA : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-d03-mg3m">MG3M_D03 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:d03-mg3m</code>; status <code>assigned</code></li>
+<li>Structure: BiF3 · D0_3 · cF16 · Fm-3m (225); type <code>st:d0-3-bif3-cf16</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:MG3M); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1071.43 K, x(Mg) 0.75–0.80818</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:d03-mg3m">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-mg:d03-mg3m, corpus:phase:la-mg:mg3m-d03<br><small>paper: </small>paper:10.1016/j.jallcom.2004.04.105:LaMg3, paper:10.1016/j.jallcom.2017.10.013:LaMg3<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:MG3M_D03, tdb:LaMg-10Guo.tdb:MG3M_D03, tdb:LaMg-12Gro.tdb:MG3M_D03, tdb:LaMg-18Zhu.tdb:MG3M_D03<br></p>
+<h3>TDB models of MG3M_D03 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: MG3M_D03, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>57: PHASE MG3M_D03 % 2 3 1 !
+58: CONST MG3M_D03 : MG : LA% MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: MG3M_D03, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>61: PHASE MG3M_D03 % 2 3 1 !
+62: CONST MG3M_D03 : MG : LA% MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: MG3M_D03, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>59: PHASE MG3M_D03 % 2 3 1 !
+60: CONST MG3M_D03 : MG : LA% MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: MG3M_D03, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>58: PHASE MG3M_D03 % 2 3 1 !
+59: CONST MG3M_D03 : MG : LA% MG : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-d2b-mg12r">MG12R_D2B (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:d2b-mg12r</code>; status <code>assigned</code></li>
+<li>Structure: Mn12Th · D2_b · tI26 · I4/mmm (139); type <code>st:d2-b-mn12th-ti26</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:MG12R); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.0769, Mg 0.9231</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–913.18 K, x(Mg) 0.92308–0.92308</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:d2b-mg12r">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:la-mg:d2b-mg12r<br><small>tdb: </small>tdb:LaMg-10Guo.tdb:MG12R_D2B<br></p>
+<h3>TDB models of MG12R_D2B (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: MG12R_D2B, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>71: PHASE MG12R_D2B % 2 12 1 !
+72: CONST MG12R_D2B : MG : LA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-dhcp">DHCP (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:dhcp</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:dhcp">phase registry entry</a></li>
+</ul>
+<p>Names (1): <small>corpus: </small>corpus:phase:la-mg:dhcp<br></p>
+<h2 id="phase-la-mg-dhcp-a3">DHCP (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:dhcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108</li>
+<li>Literature: 7 values (7 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:dhcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:dhcp-a3<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:bcc-La, paper:10.1016/j.calphad.2011.10.001:fcc-La, paper:10.1016/j.jallcom.2015.12.105:(αLa)<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:DHCP, tdb:LaMg-10Guo.tdb:DHCP, tdb:LaMg-11Ber.tdb:DHCP, tdb:LaMg-12Gro.tdb:DHCP, tdb:LaMg-16Zha.tdb:DHCP, tdb:LaMg-18Zhu.tdb:DHCP<br></p>
+<h3>TDB models of DHCP (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: DHCP, type code %A, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>42: PHASE DHCP %A 2 1 0.5 !
+43: CONST DHCP : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: DHCP, type code %A, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>51: PHASE DHCP %A 2 1 0.5 !
+52: CONST DHCP : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: DHCP, type code %A, sha256 <code>7963606898edbe26…</code></p>
+<pre>46: PHASE DHCP %A 2 1 0.5 !
+47: CONST DHCP : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: DHCP, type code %A, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>44: PHASE DHCP %A 2 1 0.5 !
+45: CONST DHCP : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: DHCP, type code %A, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>41: PHASE DHCP %A 2 1 0.5 !
+42: CONST DHCP : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: DHCP, type code %A, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>43: PHASE DHCP %A 2 1 0.5 !
+44: CONST DHCP : LA% MG : VA% : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663191">doi:10.1007/bf02663191</a> J. W. Herchenroeder, P. Manfrinetti, K. A. Gschneidner, Physical metallurgy of metastable bcc lanthanide-magnesium alloys for R = La, Gd, and Dy, Metall Trans A 20, 1575-1583 (1989).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-fcc-a1">FCC_A1 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-mg:fcc-a1<br><small>paper: </small>paper:10.1016/j.jallcom.2004.04.105:fcc(La)<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:FCC_A1, tdb:LaMg-10Guo.tdb:FCC_A1, tdb:LaMg-11Ber.tdb:FCC_A1, tdb:LaMg-12Gro.tdb:FCC_A1, tdb:LaMg-16Zha.tdb:FCC_A1, tdb:LaMg-18Zhu.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>27: PHASE FCC_A1 %A 2 1 1 !
+28: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: FCC_A1, type code %A, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: FCC_A1, type code %A, sha256 <code>7963606898edbe26…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: FCC_A1, type code %A, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>29: PHASE FCC_A1 %A 2 1 1 !
+30: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: FCC_A1, type code %A, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>26: PHASE FCC_A1 %A 2 1 1 !
+27: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: FCC_A1, type code %A, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>28: PHASE FCC_A1 %A 2 1 1 !
+29: CONST FCC_A1 : LA% MG : VA% : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-hcp-a3">HCP_A3 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 300–2499.25 K, x(Mg) 0.99844–1</li>
+<li>Literature: 9 values (9 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:hcp-a3<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:hcp-Mg, paper:10.1016/j.jallcom.2004.04.105:hcp(Mg), paper:10.1016/j.jallcom.2015.12.105:(Mg)<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:HCP_A3, tdb:LaMg-10Guo.tdb:HCP_A3, tdb:LaMg-11Ber.tdb:HCP_A3, tdb:LaMg-12Gro.tdb:HCP_A3, tdb:LaMg-16Zha.tdb:HCP_A3, tdb:LaMg-18Zhu.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>37: PHASE HCP_A3 %A 2 1 0.5 !
+38: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: HCP_A3, type code %A, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>46: PHASE HCP_A3 %A 2 1 0.5 !
+47: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: HCP_A3, type code %A, sha256 <code>7963606898edbe26…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: HCP_A3, type code %A, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>39: PHASE HCP_A3 %A 2 1 0.5 !
+40: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: HCP_A3, type code %A, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>36: PHASE HCP_A3 %A 2 1 0.5 !
+37: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: HCP_A3, type code %A, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>38: PHASE HCP_A3 %A 2 1 0.5 !
+39: CONST HCP_A3 : LA MG% : VA% : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-la2mg17">LA2MG17 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:la2mg17</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition</li>
+<li>Candidate (dft_oqmd): R-3m (166) — on-hull OQMD La2 Mg17 at x(MG)=0.8947</li>
+<li>Candidate (tdb_comment): CeMg10 · hP44 · P6_3/mmc — LaMg-11Ber.tdb: &#x27;Prototype CeMg10 (hP44, P6_3/mmc)&#x27;</li>
+<li>Candidate (tdb_comment): CeMg10 · hP44 · P6_3/mmc — LaMg-16Zha.tdb: &#x27;Prototype CeMg10 (hP44, P6_3/mmc)&#x27;</li>
+<li>Stoichiometry: La 0.1053, Mg 0.8947</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474</li>
+<li>Literature: 22 values (22 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:la2mg17">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-mg:la2mg17<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:La2Mg17, paper:10.1016/j.jallcom.2015.12.105:La2Mg17<br><small>tdb: </small>tdb:LaMg-11Ber.tdb:LA2MG17, tdb:LaMg-16Zha.tdb:LA2MG17<br></p>
+<h3>TDB models of LA2MG17 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LA2MG17, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>71: PHASE LA2MG17 % 2 2 17 !
+72: CONST LA2MG17 : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LA2MG17, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>66: PHASE LA2MG17 % 2 2 17 !
+67: CONST LA2MG17 : LA : MG : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-la5mg41">LA5MG41 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:la5mg41</code>; status <code>assigned</code></li>
+<li>Structure: Ce5Mg41 · tI92 · I4/m (87); type <code>st:ce5mg41-ti92</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.1087, Mg 0.8913</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913</li>
+<li>Literature: 16 values (16 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:la5mg41">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-mg:la5mg41<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:La5Mg41, paper:10.1016/j.jallcom.2015.12.105:La5Mg41<br><small>tdb: </small>tdb:LaMg-11Ber.tdb:LA5MG41, tdb:LaMg-16Zha.tdb:LA5MG41<br></p>
+<h3>TDB models of LA5MG41 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LA5MG41, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>66: PHASE LA5MG41 % 2 5 41 !
+67: CONST LA5MG41 : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LA5MG41, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>61: PHASE LA5MG41 % 2 5 41 !
+62: CONST LA5MG41 : LA : MG : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-lamg-b2">LAMG_B2 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:lamg-b2</code>; status <code>assigned</code></li>
+<li>Structure: CsCl · B2 · cP2 · Pm-3m (221); type <code>st:b2-cscl-cp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: La 0.5000, Mg 0.5000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1027.91 K, x(Mg) 0.5–0.5</li>
+<li>Literature: 45 values (45 accepted) from 4 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:lamg-b2">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:lamg-b2<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:LaMg, paper:10.1016/j.jallcom.2004.04.105:LaMg, paper:10.1016/j.jallcom.2015.12.105:LaMg, paper:10.1016/j.jallcom.2017.10.013:LaMg<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:LAMG_B2, tdb:LaMg-11Ber.tdb:LAMG_B2, tdb:LaMg-12Gro.tdb:LAMG_B2, tdb:LaMg-16Zha.tdb:LAMG_B2, tdb:LaMg-18Zhu.tdb:LAMG_B2<br></p>
+<h3>TDB models of LAMG_B2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: LAMG_B2, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>47: PHASE LAMG_B2 % 2 1 1 !
+48: CONST LAMG_B2 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LAMG_B2, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>51: PHASE LAMG_B2 % 2 1 1 !
+52: CONST LAMG_B2 : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: LAMG_B2, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>49: PHASE LAMG_B2 % 2 1 1 !
+50: CONST LAMG_B2 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LAMG_B2, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>46: PHASE LAMG_B2 % 2 1 1 !
+47: CONST LAMG_B2 : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: LAMG_B2, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>48: PHASE LAMG_B2 % 2 1 1 !
+49: CONST LAMG_B2 : MG : LA : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02663191">doi:10.1007/bf02663191</a> J. W. Herchenroeder, P. Manfrinetti, K. A. Gschneidner, Physical metallurgy of metastable bcc lanthanide-magnesium alloys for R = La, Gd, and Dy, Metall Trans A 20, 1575-1583 (1989).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-lamg12-d2b">LAMG12_D2B (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:lamg12-d2b</code>; status <code>assigned</code></li>
+<li>Structure: Mn12Th · D2_b · tI26 · I4/mmm (139); type <code>st:d2-b-mn12th-ti26</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: partitioned order/disorder model in LaMg-04Guo-LB.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in LaMg-18Zhu.tdb also describes the disordered state</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–924.77 K, x(Mg) 0.92308–0.92817</li>
+<li>Literature: 18 values (18 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:lamg12-d2b">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:lamg12-d2b<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:(LaMg12), paper:10.1016/j.calphad.2011.10.001:LaMg12, paper:10.1016/j.jallcom.2004.04.105:LaMg12, paper:10.1016/j.jallcom.2015.12.105:LaMg12<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:LAMG12_D2B, tdb:LaMg-11Ber.tdb:LAMG12_D2B, tdb:LaMg-12Gro.tdb:LAMG12_D2B, tdb:LaMg-16Zha.tdb:LAMG12_D2B, tdb:LaMg-18Zhu.tdb:LAMG12_D2B<br></p>
+<h3>TDB models of LAMG12_D2B (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: LAMG12_D2B, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>62: PHASE LAMG12_D2B % 2 12 1 !
+63: CONST LAMG12_D2B : LA MG% : LA% MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LAMG12_D2B, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>76: PHASE LAMG12_D2B % 2 1 12 !
+77: CONST LAMG12_D2B : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: LAMG12_D2B, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>64: PHASE LAMG12_D2B % 2 1 12 !
+65: CONST LAMG12_D2B : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LAMG12_D2B, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>71: PHASE LAMG12_D2B % 2 1 12 !
+72: CONST LAMG12_D2B : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: LAMG12_D2B, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>63: PHASE LAMG12_D2B % 2 12 1 !
+64: CONST LAMG12_D2B : LA MG% : LA% MG : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-lamg2-c15">LAMG2_C15 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:lamg2-c15</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Mg · C15 · cF24 · Fd-3m (227); type <code>st:c15-cu2mg-cf24</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: La 0.3333, Mg 0.6667</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 660–1057.59 K, x(Mg) 0.66667–0.66667</li>
+<li>Literature: 26 values (26 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:lamg2-c15">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-mg:lamg2-c15<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:LaMg2, paper:10.1016/j.jallcom.2015.12.105:LaMg2<br><small>tdb: </small>tdb:LaMg-11Ber.tdb:LAMG2_C15, tdb:LaMg-16Zha.tdb:LAMG2_C15<br></p>
+<h3>TDB models of LAMG2_C15 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LAMG2_C15, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>56: PHASE LAMG2_C15 % 2 1 2 !
+57: CONST LAMG2_C15 : LA : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LAMG2_C15, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>51: PHASE LAMG2_C15 % 2 1 2 !
+52: CONST LAMG2_C15 : LA : MG : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-lamg3-d03">LAMG3_D03 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:lamg3-d03</code>; status <code>assigned</code></li>
+<li>Structure: BiF3 · D0_3 · cF16 · Fm-3m (225); type <code>st:d0-3-bif3-cf16</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: partitioned order/disorder model in LaMg-16Zha.tdb also describes the disordered state</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1072.9 K, x(Mg) 0.74896–0.83778</li>
+<li>Literature: 37 values (37 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:lamg3-d03">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-mg:lamg3-d03<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:LaMg3, paper:10.1016/j.jallcom.2015.12.105:LaMg3<br><small>tdb: </small>tdb:LaMg-11Ber.tdb:LAMG3_D03, tdb:LaMg-16Zha.tdb:LAMG3_D03<br></p>
+<h3>TDB models of LAMG3_D03 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LAMG3_D03, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>61: PHASE LAMG3_D03 % 2 1 3 !
+62: CONST LAMG3_D03 : LA% MG : MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LAMG3_D03, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>56: PHASE LAMG3_D03 % 2 1 3 !
+57: CONST LAMG3_D03 : LA% MG : LA MG% : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-liquid">LIQUID (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 6 of 6 calculated diagram(s): 880.84–2500 K, x(Mg) 0–1</li>
+<li>Literature: 59 values (59 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-mg:liquid<br><small>paper: </small>paper:10.1016/j.calphad.2011.10.001:Liquid, paper:10.1016/j.jallcom.2004.04.105:liq, paper:10.1016/j.jallcom.2015.12.105:Liq<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:LIQUID, tdb:LaMg-10Guo.tdb:LIQUID, tdb:LaMg-11Ber.tdb:LIQUID, tdb:LaMg-12Gro.tdb:LIQUID, tdb:LaMg-16Zha.tdb:LIQUID, tdb:LaMg-18Zhu.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (6): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: LIQUID, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>22: PHASE LIQUID:L % 1 1 !
+23: CONST LIQUID:L : LA MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: LIQUID, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : LA MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-11Ber.tdb">LaMg-11Ber.tdb</a>: LIQUID, type code %, sha256 <code>7963606898edbe26…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : LA MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: LIQUID, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>24: PHASE LIQUID:L % 1 1 !
+25: CONST LIQUID:L : LA MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-16Zha.tdb">LaMg-16Zha.tdb</a>: LIQUID, type code %, sha256 <code>c9125de9bd49e1cd…</code></p>
+<pre>21: PHASE LIQUID:L % 1 1 !
+22: CONST LIQUID:L : LA MG : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: LIQUID, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>23: PHASE LIQUID:L % 1 1 !
+24: CONST LIQUID:L : LA MG : !</pre>
+<p>Example references (9 of 9; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2015.12.105">doi:10.1016/j.jallcom.2015.12.105</a> Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2011.10.001">doi:10.1016/j.calphad.2011.10.001</a> A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(86)90135-9">doi:10.1016/0022-5088(86)90135-9</a> P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02669789">doi:10.1007/bf02669789</a> M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-mg17r2">MG17R2 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:mg17r2</code>; status <code>assigned</code></li>
+<li>Structure: CeMg10 · hP44 · P6_3/mmc (194); type <code>st:cemg10-hp44</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MG17R2, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.1053, Mg 0.8947</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–945.04 K, x(Mg) 0.89474–0.89474</li>
+<li>Literature: 6 values (6 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:mg17r2">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:la-mg:mg17r2<br><small>paper: </small>paper:10.1016/j.jallcom.2004.04.105:La2Mg17, paper:10.1016/j.jallcom.2017.10.013:La2Mg17<br><small>tdb: </small>tdb:LaMg-04Guo-LB.tdb:MG17R2, tdb:LaMg-10Guo.tdb:MG17R2, tdb:LaMg-12Gro.tdb:MG17R2, tdb:LaMg-18Zhu.tdb:MG17R2<br></p>
+<h3>TDB models of MG17R2 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-04Guo-LB.tdb">LaMg-04Guo-LB.tdb</a>: MG17R2, type code %, sha256 <code>276952f9636cfa7c…</code></p>
+<pre>67: PHASE MG17R2 % 2 17 2 !
+68: CONST MG17R2 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: MG17R2, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>76: PHASE MG17R2 % 2 17 2 !
+77: CONST MG17R2 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-12Gro.tdb">LaMg-12Gro.tdb</a>: MG17R2, type code %, sha256 <code>58d6bd4d32b4aa6a…</code></p>
+<pre>69: PHASE MG17R2 % 2 17 2 !
+70: CONST MG17R2 : MG : LA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-18Zhu.tdb">LaMg-18Zhu.tdb</a>: MG17R2, type code %, sha256 <code>346cc1614096f1c0…</code></p>
+<pre>68: PHASE MG17R2 % 2 17 2 !
+69: CONST MG17R2 : MG : LA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.04.105">doi:10.1016/j.jallcom.2004.04.105</a> Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2017.10.013">doi:10.1016/j.jallcom.2017.10.013</a> Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.intermet.2012.04.012">doi:10.1016/j.intermet.2012.04.012</a> Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02890558">doi:10.1007/bf02890558</a> A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-mg-mg41m5">MG41M5 (La–Mg)</h2>
+<ul>
+<li>Id: <code>phase:la-mg:mg41m5</code>; status <code>assigned</code></li>
+<li>Structure: Ce5Mg41 · tI92 · I4/m (87); type <code>st:ce5mg41-ti92</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MG41M5, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.1087, Mg 0.8913</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–942.92 K, x(Mg) 0.8913–0.8913</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-mg:mg41m5">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:la-mg:mg41m5<br><small>tdb: </small>tdb:LaMg-10Guo.tdb:MG41M5<br></p>
+<h3>TDB models of MG41M5 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaMg-10Guo.tdb">LaMg-10Guo.tdb</a>: MG41M5, type code %, sha256 <code>29d283a70b4049cb…</code></p>
+<pre>66: PHASE MG41M5 % 2 41 5 !
+67: CONST MG41M5 : MG : LA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.3139/146.110380">doi:10.3139/146.110380</a> C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

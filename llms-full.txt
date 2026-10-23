@@ -3299,3 +3299,1247 @@ Release: orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v
 - [ZrO0.5](https://data.orchid-project.org/compounds/ZrO0.5.md): 2 literature value(s); DFT kJ/mol-atom MP -192.087, OQMD -186.602
 - [ZrO2](https://data.orchid-project.org/compounds/ZrO2.md): 16 literature value(s); DFT kJ/mol-atom MP -367.957, OQMD -350.528
 - [ZrO3](https://data.orchid-project.org/compounds/ZrO3.md): 2 literature value(s); DFT kJ/mol-atom OQMD -239.971
+
+## Phases (binary systems)
+
+- [Ag–Al phases](https://data.orchid-project.org/phases/pages/AG-AL.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Ag–As phases](https://data.orchid-project.org/phases/pages/AG-AS.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ag–Au phases](https://data.orchid-project.org/phases/pages/AG-AU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–B phases](https://data.orchid-project.org/phases/pages/AG-B.md): 6 phases (tier A 3, liquid 1, needs_review 2); 4 stable in a calculated diagram
+- [Ag–Ba phases](https://data.orchid-project.org/phases/pages/AG-BA.md): 8 phases (tier A 4, tier B 1, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Ag–Be phases](https://data.orchid-project.org/phases/pages/AG-BE.md): 5 phases (tier A 3, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Ag–Bi phases](https://data.orchid-project.org/phases/pages/AG-BI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ag–C phases](https://data.orchid-project.org/phases/pages/AG-C.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ag–Ca phases](https://data.orchid-project.org/phases/pages/AG-CA.md): 10 phases (tier A 5, tier B 1, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ag–Cd phases](https://data.orchid-project.org/phases/pages/AG-CD.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ag–Ce phases](https://data.orchid-project.org/phases/pages/AG-CE.md): 8 phases (tier A 3, tier C 1, liquid 1, needs_review 3); 7 stable in a calculated diagram
+- [Ag–Co phases](https://data.orchid-project.org/phases/pages/AG-CO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–Cr phases](https://data.orchid-project.org/phases/pages/AG-CR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–Cu phases](https://data.orchid-project.org/phases/pages/AG-CU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–Dy phases](https://data.orchid-project.org/phases/pages/AG-DY.md): 7 phases (tier A 5, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ag–Er phases](https://data.orchid-project.org/phases/pages/AG-ER.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Ag–Fe phases](https://data.orchid-project.org/phases/pages/AG-FE.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–Ga phases](https://data.orchid-project.org/phases/pages/AG-GA.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ag–Gd phases](https://data.orchid-project.org/phases/pages/AG-GD.md): 7 phases (tier A 5, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ag–Ge phases](https://data.orchid-project.org/phases/pages/AG-GE.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ag–Hg phases](https://data.orchid-project.org/phases/pages/AG-HG.md): 7 phases (tier A 5, tier C 1, liquid 1); 4 stable in a calculated diagram
+- [Ag–Ho phases](https://data.orchid-project.org/phases/pages/AG-HO.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Ag–In phases](https://data.orchid-project.org/phases/pages/AG-IN.md): 9 phases (tier A 7, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ag–Ir phases](https://data.orchid-project.org/phases/pages/AG-IR.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–La phases](https://data.orchid-project.org/phases/pages/AG-LA.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ag–Lu phases](https://data.orchid-project.org/phases/pages/AG-LU.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Ag–Mg phases](https://data.orchid-project.org/phases/pages/AG-MG.md): 14 phases (tier A 6, tier C 3, liquid 1, needs_review 4); 14 stable in a calculated diagram
+- [Ag–Mn phases](https://data.orchid-project.org/phases/pages/AG-MN.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Ag–Mo phases](https://data.orchid-project.org/phases/pages/AG-MO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–Na phases](https://data.orchid-project.org/phases/pages/AG-NA.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ag–Nb phases](https://data.orchid-project.org/phases/pages/AG-NB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–Nd phases](https://data.orchid-project.org/phases/pages/AG-ND.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Ag–Ni phases](https://data.orchid-project.org/phases/pages/AG-NI.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–O phases](https://data.orchid-project.org/phases/pages/AG-O.md): 8 phases (tier A 3, tier C 1, liquid 2, gas 2); 5 stable in a calculated diagram
+- [Ag–Os phases](https://data.orchid-project.org/phases/pages/AG-OS.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–P phases](https://data.orchid-project.org/phases/pages/AG-P.md): 8 phases (tier A 3, tier B 1, tier C 1, liquid 1, needs_review 2); 5 stable in a calculated diagram
+- [Ag–Pb phases](https://data.orchid-project.org/phases/pages/AG-PB.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–Pd phases](https://data.orchid-project.org/phases/pages/AG-PD.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–Pr phases](https://data.orchid-project.org/phases/pages/AG-PR.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ag–Pt phases](https://data.orchid-project.org/phases/pages/AG-PT.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–Pu phases](https://data.orchid-project.org/phases/pages/AG-PU.md): 10 phases (tier A 4, tier C 1, liquid 1, needs_review 4); 9 stable in a calculated diagram
+- [Ag–Rh phases](https://data.orchid-project.org/phases/pages/AG-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ag–Ru phases](https://data.orchid-project.org/phases/pages/AG-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–S phases](https://data.orchid-project.org/phases/pages/AG-S.md): 9 phases (tier A 4, liquid 1, needs_review 4); 6 stable in a calculated diagram
+- [Ag–Sb phases](https://data.orchid-project.org/phases/pages/AG-SB.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Ag–Sc phases](https://data.orchid-project.org/phases/pages/AG-SC.md): 7 phases (tier A 6, liquid 1); 7 stable in a calculated diagram
+- [Ag–Se phases](https://data.orchid-project.org/phases/pages/AG-SE.md): 9 phases (tier A 4, liquid 2, gas 1, needs_review 2); 7 stable in a calculated diagram
+- [Ag–Si phases](https://data.orchid-project.org/phases/pages/AG-SI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ag–Sm phases](https://data.orchid-project.org/phases/pages/AG-SM.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Ag–Sn phases](https://data.orchid-project.org/phases/pages/AG-SN.md): 7 phases (tier A 6, liquid 1); 5 stable in a calculated diagram
+- [Ag–Sr phases](https://data.orchid-project.org/phases/pages/AG-SR.md): 9 phases (tier A 4, tier B 1, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ag–Tb phases](https://data.orchid-project.org/phases/pages/AG-TB.md): 7 phases (tier A 5, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ag–Te phases](https://data.orchid-project.org/phases/pages/AG-TE.md): 16 phases (tier A 4, tier C 3, liquid 1, gas 1, needs_review 5, unresolved_no_candidates 2); 14 stable in a calculated diagram
+- [Ag–Ti phases](https://data.orchid-project.org/phases/pages/AG-TI.md): 6 phases (tier A 4, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Ag–Tl phases](https://data.orchid-project.org/phases/pages/AG-TL.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ag–V phases](https://data.orchid-project.org/phases/pages/AG-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ag–W phases](https://data.orchid-project.org/phases/pages/AG-W.md): 5 phases (tier A 3, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Ag–Y phases](https://data.orchid-project.org/phases/pages/AG-Y.md): 7 phases (tier A 5, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ag–Yb phases](https://data.orchid-project.org/phases/pages/AG-YB.md): 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Ag–Zn phases](https://data.orchid-project.org/phases/pages/AG-ZN.md): 7 phases (tier A 4, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Ag–Zr phases](https://data.orchid-project.org/phases/pages/AG-ZR.md): 6 phases (tier A 4, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Al–Am phases](https://data.orchid-project.org/phases/pages/AL-AM.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Al–As phases](https://data.orchid-project.org/phases/pages/AL-AS.md): 7 phases (tier A 5, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Al–Au phases](https://data.orchid-project.org/phases/pages/AL-AU.md): 15 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 2); 14 stable in a calculated diagram
+- [Al–B phases](https://data.orchid-project.org/phases/pages/AL-B.md): 9 phases (tier A 4, tier C 2, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Al–Ba phases](https://data.orchid-project.org/phases/pages/AL-BA.md): 8 phases (tier A 4, tier B 1, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Al–Be phases](https://data.orchid-project.org/phases/pages/AL-BE.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Al–Bi phases](https://data.orchid-project.org/phases/pages/AL-BI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Al–C phases](https://data.orchid-project.org/phases/pages/AL-C.md): 8 phases (tier A 6, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Al–Ca phases](https://data.orchid-project.org/phases/pages/AL-CA.md): 13 phases (tier A 8, tier C 3, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Al–Cd phases](https://data.orchid-project.org/phases/pages/AL-CD.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Al–Ce phases](https://data.orchid-project.org/phases/pages/AL-CE.md): 17 phases (tier A 9, tier C 3, liquid 1, needs_review 3, unresolved_no_candidates 1); 15 stable in a calculated diagram
+- [Al–Co phases](https://data.orchid-project.org/phases/pages/AL-CO.md): 14 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 5); 13 stable in a calculated diagram
+- [Al–Cr phases](https://data.orchid-project.org/phases/pages/AL-CR.md): 22 phases (tier A 7, tier B 1, tier C 4, liquid 1, needs_review 8, unresolved_no_candidates 1); 20 stable in a calculated diagram
+- [Al–Cu phases](https://data.orchid-project.org/phases/pages/AL-CU.md): 23 phases (tier A 8, tier C 5, liquid 1, needs_review 9); 22 stable in a calculated diagram
+- [Al–Dy phases](https://data.orchid-project.org/phases/pages/AL-DY.md): 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 10 stable in a calculated diagram
+- [Al–Er phases](https://data.orchid-project.org/phases/pages/AL-ER.md): 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Al–Fe phases](https://data.orchid-project.org/phases/pages/AL-FE.md): 13 phases (tier A 5, tier C 3, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [Al–Ga phases](https://data.orchid-project.org/phases/pages/AL-GA.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Al–Gd phases](https://data.orchid-project.org/phases/pages/AL-GD.md): 9 phases (tier A 6, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Al–Ge phases](https://data.orchid-project.org/phases/pages/AL-GE.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Al–H phases](https://data.orchid-project.org/phases/pages/AL-H.md): 6 phases (tier A 3, liquid 1, gas 1, needs_review 1); 3 stable in a calculated diagram
+- [Al–Hf phases](https://data.orchid-project.org/phases/pages/AL-HF.md): 12 phases (tier A 8, tier B 1, tier C 2, liquid 1); 12 stable in a calculated diagram
+- [Al–Hg phases](https://data.orchid-project.org/phases/pages/AL-HG.md): 5 phases (tier A 4, liquid 1); 2 stable in a calculated diagram
+- [Al–Ho phases](https://data.orchid-project.org/phases/pages/AL-HO.md): 9 phases (tier A 5, tier B 1, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Al–In phases](https://data.orchid-project.org/phases/pages/AL-IN.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Al–Ir phases](https://data.orchid-project.org/phases/pages/AL-IR.md): 13 phases (tier A 6, tier B 1, tier C 2, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Al–K phases](https://data.orchid-project.org/phases/pages/AL-K.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Al–La phases](https://data.orchid-project.org/phases/pages/AL-LA.md): 16 phases (tier A 9, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram
+- [Al–Li phases](https://data.orchid-project.org/phases/pages/AL-LI.md): 12 phases (tier A 6, tier C 2, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Al–Mg phases](https://data.orchid-project.org/phases/pages/AL-MG.md): 12 phases (tier A 7, liquid 1, needs_review 4); 8 stable in a calculated diagram
+- [Al–Mn phases](https://data.orchid-project.org/phases/pages/AL-MN.md): 18 phases (tier A 9, tier B 1, tier C 2, liquid 1, needs_review 5); 16 stable in a calculated diagram
+- [Al–Mo phases](https://data.orchid-project.org/phases/pages/AL-MO.md): 15 phases (tier A 6, tier B 1, tier C 4, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Al–N phases](https://data.orchid-project.org/phases/pages/AL-N.md): 9 phases (tier A 5, liquid 2, gas 2); 6 stable in a calculated diagram
+- [Al–Na phases](https://data.orchid-project.org/phases/pages/AL-NA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Al–Nb phases](https://data.orchid-project.org/phases/pages/AL-NB.md): 15 phases (tier A 8, liquid 1, needs_review 4, unresolved_no_candidates 2); 11 stable in a calculated diagram
+- [Al–Nd phases](https://data.orchid-project.org/phases/pages/AL-ND.md): 16 phases (tier A 10, tier C 3, liquid 1, needs_review 2); 15 stable in a calculated diagram
+- [Al–Ni phases](https://data.orchid-project.org/phases/pages/AL-NI.md): 12 phases (tier A 7, tier B 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Al–Np phases](https://data.orchid-project.org/phases/pages/AL-NP.md): 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram
+- [Al–O phases](https://data.orchid-project.org/phases/pages/AL-O.md): 9 phases (tier A 3, tier C 1, liquid 2, gas 2, unresolved_no_candidates 1); 6 stable in a calculated diagram
+- [Al–P phases](https://data.orchid-project.org/phases/pages/AL-P.md): 8 phases (tier A 4, liquid 1, gas 1, needs_review 2); 5 stable in a calculated diagram
+- [Al–Pb phases](https://data.orchid-project.org/phases/pages/AL-PB.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Al–Pd phases](https://data.orchid-project.org/phases/pages/AL-PD.md): 13 phases (tier A 7, tier B 1, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Al–Pr phases](https://data.orchid-project.org/phases/pages/AL-PR.md): 13 phases (tier A 7, tier C 1, liquid 1, needs_review 4); 12 stable in a calculated diagram
+- [Al–Pt phases](https://data.orchid-project.org/phases/pages/AL-PT.md): 14 phases (tier A 8, tier B 2, tier C 1, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Al–Pu phases](https://data.orchid-project.org/phases/pages/AL-PU.md): 17 phases (tier A 8, tier C 1, liquid 1, needs_review 7); 16 stable in a calculated diagram
+- [Al–Re phases](https://data.orchid-project.org/phases/pages/AL-RE.md): 13 phases (tier A 6, tier B 1, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Al–Ru phases](https://data.orchid-project.org/phases/pages/AL-RU.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Al–S phases](https://data.orchid-project.org/phases/pages/AL-S.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Al–Sb phases](https://data.orchid-project.org/phases/pages/AL-SB.md): 7 phases (tier A 5, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Al–Sc phases](https://data.orchid-project.org/phases/pages/AL-SC.md): 8 phases (tier A 7, liquid 1); 8 stable in a calculated diagram
+- [Al–Se phases](https://data.orchid-project.org/phases/pages/AL-SE.md): 6 phases (tier A 4, tier C 1, liquid 1); 4 stable in a calculated diagram
+- [Al–Si phases](https://data.orchid-project.org/phases/pages/AL-SI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Al–Sm phases](https://data.orchid-project.org/phases/pages/AL-SM.md): 13 phases (tier A 9, tier C 2, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Al–Sn phases](https://data.orchid-project.org/phases/pages/AL-SN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Al–Sr phases](https://data.orchid-project.org/phases/pages/AL-SR.md): 8 phases (tier A 4, tier C 3, liquid 1); 7 stable in a calculated diagram
+- [Al–Ta phases](https://data.orchid-project.org/phases/pages/AL-TA.md): 14 phases (tier A 5, tier C 2, liquid 1, needs_review 4, unresolved_no_candidates 2); 13 stable in a calculated diagram
+- [Al–Te phases](https://data.orchid-project.org/phases/pages/AL-TE.md): 11 phases (tier A 4, tier C 3, liquid 2, needs_review 2); 9 stable in a calculated diagram
+- [Al–Th phases](https://data.orchid-project.org/phases/pages/AL-TH.md): 11 phases (tier A 8, tier C 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Al–Ti phases](https://data.orchid-project.org/phases/pages/AL-TI.md): 18 phases (tier A 7, tier C 5, liquid 1, needs_review 5); 18 stable in a calculated diagram
+- [Al–Tl phases](https://data.orchid-project.org/phases/pages/AL-TL.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Al–U phases](https://data.orchid-project.org/phases/pages/AL-U.md): 10 phases (tier A 6, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Al–V phases](https://data.orchid-project.org/phases/pages/AL-V.md): 13 phases (tier A 6, tier C 6, liquid 1); 12 stable in a calculated diagram
+- [Al–W phases](https://data.orchid-project.org/phases/pages/AL-W.md): 10 phases (tier A 4, tier B 2, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Al–Y phases](https://data.orchid-project.org/phases/pages/AL-Y.md): 13 phases (tier A 9, tier C 2, liquid 1, needs_review 1); 13 stable in a calculated diagram
+- [Al–Yb phases](https://data.orchid-project.org/phases/pages/AL-YB.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Al–Zn phases](https://data.orchid-project.org/phases/pages/AL-ZN.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Al–Zr phases](https://data.orchid-project.org/phases/pages/AL-ZR.md): 14 phases (tier A 9, tier B 2, tier C 2, liquid 1); 14 stable in a calculated diagram
+- [Am–Fe phases](https://data.orchid-project.org/phases/pages/AM-FE.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Am–Ga phases](https://data.orchid-project.org/phases/pages/AM-GA.md): 21 phases (tier A 8, tier C 1, liquid 1, needs_review 11); 20 stable in a calculated diagram
+- [Am–Np phases](https://data.orchid-project.org/phases/pages/AM-NP.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Am–O phases](https://data.orchid-project.org/phases/pages/AM-O.md): 10 phases (tier A 5, liquid 2, gas 2, needs_review 1); 6 stable in a calculated diagram
+- [Am–Pu phases](https://data.orchid-project.org/phases/pages/AM-PU.md): 9 phases (tier A 5, liquid 1, needs_review 3); 8 stable in a calculated diagram
+- [Am–U phases](https://data.orchid-project.org/phases/pages/AM-U.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Am–Zr phases](https://data.orchid-project.org/phases/pages/AM-ZR.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [As–Au phases](https://data.orchid-project.org/phases/pages/AS-AU.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [As–Cu phases](https://data.orchid-project.org/phases/pages/AS-CU.md): 12 phases (tier A 6, liquid 2, needs_review 4); 10 stable in a calculated diagram
+- [As–Fe phases](https://data.orchid-project.org/phases/pages/AS-FE.md): 10 phases (tier A 7, liquid 2, needs_review 1); 9 stable in a calculated diagram
+- [As–Ga phases](https://data.orchid-project.org/phases/pages/AS-GA.md): 8 phases (tier A 6, liquid 1, gas 1); 5 stable in a calculated diagram
+- [As–Ge phases](https://data.orchid-project.org/phases/pages/AS-GE.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [As–In phases](https://data.orchid-project.org/phases/pages/AS-IN.md): 8 phases (tier A 6, liquid 1, gas 1); 5 stable in a calculated diagram
+- [As–Ni phases](https://data.orchid-project.org/phases/pages/AS-NI.md): 9 phases (tier A 5, tier B 2, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [As–P phases](https://data.orchid-project.org/phases/pages/AS-P.md): 9 phases (tier A 4, liquid 1, gas 1, needs_review 3); 4 stable in a calculated diagram
+- [As–Pb phases](https://data.orchid-project.org/phases/pages/AS-PB.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [As–Pt phases](https://data.orchid-project.org/phases/pages/AS-PT.md): 7 phases (tier A 5, liquid 1, gas 1); 5 stable in a calculated diagram
+- [As–Sb phases](https://data.orchid-project.org/phases/pages/AS-SB.md): 6 phases (tier A 4, liquid 1, gas 1); 3 stable in a calculated diagram
+- [As–Si phases](https://data.orchid-project.org/phases/pages/AS-SI.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [As–Sn phases](https://data.orchid-project.org/phases/pages/AS-SN.md): 9 phases (tier A 7, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [As–Te phases](https://data.orchid-project.org/phases/pages/AS-TE.md): 8 phases (tier A 5, tier C 1, liquid 1, gas 1); 5 stable in a calculated diagram
+- [As–U phases](https://data.orchid-project.org/phases/pages/AS-U.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [As–Zn phases](https://data.orchid-project.org/phases/pages/AS-ZN.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Au–B phases](https://data.orchid-project.org/phases/pages/AU-B.md): 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Au–Bi phases](https://data.orchid-project.org/phases/pages/AU-BI.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Au–C phases](https://data.orchid-project.org/phases/pages/AU-C.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Au–Ce phases](https://data.orchid-project.org/phases/pages/AU-CE.md): 14 phases (tier A 6, tier B 1, tier C 4, liquid 1, needs_review 2); 13 stable in a calculated diagram
+- [Au–Co phases](https://data.orchid-project.org/phases/pages/AU-CO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Au–Cr phases](https://data.orchid-project.org/phases/pages/AU-CR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Au–Cu phases](https://data.orchid-project.org/phases/pages/AU-CU.md): 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Au–Dy phases](https://data.orchid-project.org/phases/pages/AU-DY.md): 11 phases (tier A 8, tier C 2, liquid 1); 11 stable in a calculated diagram
+- [Au–Er phases](https://data.orchid-project.org/phases/pages/AU-ER.md): 11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Au–Fe phases](https://data.orchid-project.org/phases/pages/AU-FE.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Au–Ga phases](https://data.orchid-project.org/phases/pages/AU-GA.md): 14 phases (tier A 6, tier C 2, liquid 1, needs_review 5); 12 stable in a calculated diagram
+- [Au–Gd phases](https://data.orchid-project.org/phases/pages/AU-GD.md): 13 phases (tier A 8, tier C 4, liquid 1); 13 stable in a calculated diagram
+- [Au–Ge phases](https://data.orchid-project.org/phases/pages/AU-GE.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Au–Hf phases](https://data.orchid-project.org/phases/pages/AU-HF.md): 12 phases (tier A 6, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Au–Ho phases](https://data.orchid-project.org/phases/pages/AU-HO.md): 13 phases (tier A 9, tier C 3, liquid 1); 12 stable in a calculated diagram
+- [Au–In phases](https://data.orchid-project.org/phases/pages/AU-IN.md): 16 phases (tier A 9, liquid 1, needs_review 6); 14 stable in a calculated diagram
+- [Au–La phases](https://data.orchid-project.org/phases/pages/AU-LA.md): 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Au–Lu phases](https://data.orchid-project.org/phases/pages/AU-LU.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Au–Nd phases](https://data.orchid-project.org/phases/pages/AU-ND.md): 14 phases (tier A 9, tier B 1, tier C 3, liquid 1); 12 stable in a calculated diagram
+- [Au–Ni phases](https://data.orchid-project.org/phases/pages/AU-NI.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Au–Pb phases](https://data.orchid-project.org/phases/pages/AU-PB.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Au–Pd phases](https://data.orchid-project.org/phases/pages/AU-PD.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Au–Pr phases](https://data.orchid-project.org/phases/pages/AU-PR.md): 15 phases (tier A 9, tier C 5, liquid 1); 13 stable in a calculated diagram
+- [Au–Pt phases](https://data.orchid-project.org/phases/pages/AU-PT.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Au–Rh phases](https://data.orchid-project.org/phases/pages/AU-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Au–Ru phases](https://data.orchid-project.org/phases/pages/AU-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Au–Sb phases](https://data.orchid-project.org/phases/pages/AU-SB.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Au–Sc phases](https://data.orchid-project.org/phases/pages/AU-SC.md): 10 phases (tier A 8, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Au–Si phases](https://data.orchid-project.org/phases/pages/AU-SI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Au–Sn phases](https://data.orchid-project.org/phases/pages/AU-SN.md): 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Au–Tb phases](https://data.orchid-project.org/phases/pages/AU-TB.md): 13 phases (tier A 8, tier C 4, liquid 1); 13 stable in a calculated diagram
+- [Au–Te phases](https://data.orchid-project.org/phases/pages/AU-TE.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Au–Th phases](https://data.orchid-project.org/phases/pages/AU-TH.md): 10 phases (tier A 5, tier B 1, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Au–Ti phases](https://data.orchid-project.org/phases/pages/AU-TI.md): 8 phases (tier A 6, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Au–Tl phases](https://data.orchid-project.org/phases/pages/AU-TL.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Au–Tm phases](https://data.orchid-project.org/phases/pages/AU-TM.md): 11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Au–Yb phases](https://data.orchid-project.org/phases/pages/AU-YB.md): 13 phases (tier A 11, tier C 1, liquid 1); 12 stable in a calculated diagram
+- [Au–Zn phases](https://data.orchid-project.org/phases/pages/AU-ZN.md): 15 phases (tier A 5, tier B 1, tier C 3, liquid 1, needs_review 5); 14 stable in a calculated diagram
+- [Au–Zr phases](https://data.orchid-project.org/phases/pages/AU-ZR.md): 12 phases (tier A 6, tier C 2, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [B–Ba phases](https://data.orchid-project.org/phases/pages/B-BA.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 5 stable in a calculated diagram
+- [B–C phases](https://data.orchid-project.org/phases/pages/B-C.md): 5 phases (tier A 2, liquid 1, needs_review 2); 4 stable in a calculated diagram
+- [B–Ca phases](https://data.orchid-project.org/phases/pages/B-CA.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram
+- [B–Cd phases](https://data.orchid-project.org/phases/pages/B-CD.md): 6 phases (tier A 3, liquid 1, needs_review 2); 4 stable in a calculated diagram
+- [B–Ce phases](https://data.orchid-project.org/phases/pages/B-CE.md): 8 phases (tier A 5, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [B–Co phases](https://data.orchid-project.org/phases/pages/B-CO.md): 8 phases (tier A 4, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [B–Cr phases](https://data.orchid-project.org/phases/pages/B-CR.md): 12 phases (tier A 6, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [B–Cu phases](https://data.orchid-project.org/phases/pages/B-CU.md): 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [B–Dy phases](https://data.orchid-project.org/phases/pages/B-DY.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [B–Er phases](https://data.orchid-project.org/phases/pages/B-ER.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–Fe phases](https://data.orchid-project.org/phases/pages/B-FE.md): 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [B–Ga phases](https://data.orchid-project.org/phases/pages/B-GA.md): 7 phases (tier A 4, liquid 1, needs_review 2); 4 stable in a calculated diagram
+- [B–Gd phases](https://data.orchid-project.org/phases/pages/B-GD.md): 11 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [B–Hf phases](https://data.orchid-project.org/phases/pages/B-HF.md): 9 phases (tier A 4, tier C 3, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [B–Ho phases](https://data.orchid-project.org/phases/pages/B-HO.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [B–La phases](https://data.orchid-project.org/phases/pages/B-LA.md): 9 phases (tier A 5, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [B–Lu phases](https://data.orchid-project.org/phases/pages/B-LU.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–Mg phases](https://data.orchid-project.org/phases/pages/B-MG.md): 10 phases (tier A 3, tier B 1, tier C 3, liquid 1, gas 1, needs_review 1); 8 stable in a calculated diagram
+- [B–Mn phases](https://data.orchid-project.org/phases/pages/B-MN.md): 13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [B–Mo phases](https://data.orchid-project.org/phases/pages/B-MO.md): 17 phases (tier A 7, tier C 3, liquid 1, needs_review 6); 15 stable in a calculated diagram
+- [B–N phases](https://data.orchid-project.org/phases/pages/B-N.md): 9 phases (tier A 1, liquid 2, gas 2, needs_review 4); 7 stable in a calculated diagram
+- [B–Nb phases](https://data.orchid-project.org/phases/pages/B-NB.md): 11 phases (tier A 4, tier C 2, liquid 1, needs_review 4); 9 stable in a calculated diagram
+- [B–Nd phases](https://data.orchid-project.org/phases/pages/B-ND.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–Ni phases](https://data.orchid-project.org/phases/pages/B-NI.md): 11 phases (tier A 4, tier C 1, liquid 1, needs_review 5); 9 stable in a calculated diagram
+- [B–O phases](https://data.orchid-project.org/phases/pages/B-O.md): 7 phases (tier C 2, liquid 1, gas 2, needs_review 2); 7 stable in a calculated diagram
+- [B–Pr phases](https://data.orchid-project.org/phases/pages/B-PR.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–Re phases](https://data.orchid-project.org/phases/pages/B-RE.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [B–Sc phases](https://data.orchid-project.org/phases/pages/B-SC.md): 7 phases (tier A 4, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [B–Si phases](https://data.orchid-project.org/phases/pages/B-SI.md): 7 phases (tier A 1, liquid 1, needs_review 5); 7 stable in a calculated diagram
+- [B–Sm phases](https://data.orchid-project.org/phases/pages/B-SM.md): 10 phases (tier A 5, tier B 1, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [B–Sr phases](https://data.orchid-project.org/phases/pages/B-SR.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram
+- [B–Ta phases](https://data.orchid-project.org/phases/pages/B-TA.md): 13 phases (tier A 7, tier C 3, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [B–Tb phases](https://data.orchid-project.org/phases/pages/B-TB.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [B–Ti phases](https://data.orchid-project.org/phases/pages/B-TI.md): 10 phases (tier A 5, tier C 3, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [B–Tm phases](https://data.orchid-project.org/phases/pages/B-TM.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–U phases](https://data.orchid-project.org/phases/pages/B-U.md): 10 phases (tier A 7, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [B–V phases](https://data.orchid-project.org/phases/pages/B-V.md): 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [B–W phases](https://data.orchid-project.org/phases/pages/B-W.md): 10 phases (tier A 5, tier C 3, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [B–Zn phases](https://data.orchid-project.org/phases/pages/B-ZN.md): 7 phases (tier A 3, liquid 1, gas 1, needs_review 2); 5 stable in a calculated diagram
+- [B–Zr phases](https://data.orchid-project.org/phases/pages/B-ZR.md): 10 phases (tier A 5, tier C 3, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ba–Bi phases](https://data.orchid-project.org/phases/pages/BA-BI.md): 10 phases (tier A 6, tier C 3, liquid 1); 8 stable in a calculated diagram
+- [Ba–Ca phases](https://data.orchid-project.org/phases/pages/BA-CA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–Co phases](https://data.orchid-project.org/phases/pages/BA-CO.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ba–Cu phases](https://data.orchid-project.org/phases/pages/BA-CU.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Ba–Eu phases](https://data.orchid-project.org/phases/pages/BA-EU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ba–Fe phases](https://data.orchid-project.org/phases/pages/BA-FE.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–Ga phases](https://data.orchid-project.org/phases/pages/BA-GA.md): 10 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ba–Ge phases](https://data.orchid-project.org/phases/pages/BA-GE.md): 13 phases (tier A 6, tier B 1, tier C 3, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Ba–Mg phases](https://data.orchid-project.org/phases/pages/BA-MG.md): 7 phases (tier A 3, liquid 1, needs_review 3); 6 stable in a calculated diagram
+- [Ba–Ni phases](https://data.orchid-project.org/phases/pages/BA-NI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–O phases](https://data.orchid-project.org/phases/pages/BA-O.md): 10 phases (tier A 4, liquid 2, gas 2, needs_review 2); 5 stable in a calculated diagram
+- [Ba–Pb phases](https://data.orchid-project.org/phases/pages/BA-PB.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Ba–Ru phases](https://data.orchid-project.org/phases/pages/BA-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–Sr phases](https://data.orchid-project.org/phases/pages/BA-SR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–Ti phases](https://data.orchid-project.org/phases/pages/BA-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–V phases](https://data.orchid-project.org/phases/pages/BA-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ba–Y phases](https://data.orchid-project.org/phases/pages/BA-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ba–Yb phases](https://data.orchid-project.org/phases/pages/BA-YB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Be–C phases](https://data.orchid-project.org/phases/pages/BE-C.md): 7 phases (tier A 5, tier B 1, liquid 1); 5 stable in a calculated diagram
+- [Be–Cu phases](https://data.orchid-project.org/phases/pages/BE-CU.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Be–Fe phases](https://data.orchid-project.org/phases/pages/BE-FE.md): 7 phases (tier A 5, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Be–Hf phases](https://data.orchid-project.org/phases/pages/BE-HF.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Be–Mo phases](https://data.orchid-project.org/phases/pages/BE-MO.md): 8 phases (tier A 6, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Be–Pu phases](https://data.orchid-project.org/phases/pages/BE-PU.md): 9 phases (tier A 5, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Be–Si phases](https://data.orchid-project.org/phases/pages/BE-SI.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Be–Ti phases](https://data.orchid-project.org/phases/pages/BE-TI.md): 11 phases (tier A 5, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Be–V phases](https://data.orchid-project.org/phases/pages/BE-V.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Be–Zr phases](https://data.orchid-project.org/phases/pages/BE-ZR.md): 10 phases (tier A 7, tier B 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Bi–Ca phases](https://data.orchid-project.org/phases/pages/BI-CA.md): 8 phases (tier A 4, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Bi–Ce phases](https://data.orchid-project.org/phases/pages/BI-CE.md): 11 phases (tier A 8, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Bi–Co phases](https://data.orchid-project.org/phases/pages/BI-CO.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Bi–Cr phases](https://data.orchid-project.org/phases/pages/BI-CR.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Bi–Cs phases](https://data.orchid-project.org/phases/pages/BI-CS.md): 9 phases (tier A 6, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Bi–Cu phases](https://data.orchid-project.org/phases/pages/BI-CU.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Bi–Dy phases](https://data.orchid-project.org/phases/pages/BI-DY.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Bi–Er phases](https://data.orchid-project.org/phases/pages/BI-ER.md): 10 phases (tier A 5, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 7 stable in a calculated diagram
+- [Bi–Fe phases](https://data.orchid-project.org/phases/pages/BI-FE.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Bi–Ga phases](https://data.orchid-project.org/phases/pages/BI-GA.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Bi–Gd phases](https://data.orchid-project.org/phases/pages/BI-GD.md): 9 phases (tier A 6, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Bi–Ge phases](https://data.orchid-project.org/phases/pages/BI-GE.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Bi–Hg phases](https://data.orchid-project.org/phases/pages/BI-HG.md): 6 phases (tier A 5, liquid 1); 2 stable in a calculated diagram
+- [Bi–Ho phases](https://data.orchid-project.org/phases/pages/BI-HO.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Bi–In phases](https://data.orchid-project.org/phases/pages/BI-IN.md): 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Bi–K phases](https://data.orchid-project.org/phases/pages/BI-K.md): 10 phases (tier A 7, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Bi–La phases](https://data.orchid-project.org/phases/pages/BI-LA.md): 11 phases (tier A 8, tier C 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Bi–Li phases](https://data.orchid-project.org/phases/pages/BI-LI.md): 9 phases (tier A 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 6 stable in a calculated diagram
+- [Bi–Lu phases](https://data.orchid-project.org/phases/pages/BI-LU.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Bi–Mg phases](https://data.orchid-project.org/phases/pages/BI-MG.md): 8 phases (tier A 5, tier C 1, liquid 2); 6 stable in a calculated diagram
+- [Bi–Mn phases](https://data.orchid-project.org/phases/pages/BI-MN.md): 9 phases (tier A 7, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Bi–Na phases](https://data.orchid-project.org/phases/pages/BI-NA.md): 7 phases (tier A 6, liquid 1); 5 stable in a calculated diagram
+- [Bi–Nd phases](https://data.orchid-project.org/phases/pages/BI-ND.md): 13 phases (tier A 9, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Bi–Ni phases](https://data.orchid-project.org/phases/pages/BI-NI.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Bi–O phases](https://data.orchid-project.org/phases/pages/BI-O.md): 8 phases (tier A 2, tier C 1, liquid 2, gas 2, unresolved_no_candidates 1); 6 stable in a calculated diagram
+- [Bi–Pb phases](https://data.orchid-project.org/phases/pages/BI-PB.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Bi–Pd phases](https://data.orchid-project.org/phases/pages/BI-PD.md): 9 phases (tier A 4, liquid 1, needs_review 4); 7 stable in a calculated diagram
+- [Bi–Rb phases](https://data.orchid-project.org/phases/pages/BI-RB.md): 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Bi–Rh phases](https://data.orchid-project.org/phases/pages/BI-RH.md): 10 phases (tier A 5, tier B 1, liquid 1, needs_review 3); 8 stable in a calculated diagram
+- [Bi–S phases](https://data.orchid-project.org/phases/pages/BI-S.md): 8 phases (tier A 6, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Bi–Sb phases](https://data.orchid-project.org/phases/pages/BI-SB.md): 6 phases (tier A 5, liquid 1); 2 stable in a calculated diagram
+- [Bi–Se phases](https://data.orchid-project.org/phases/pages/BI-SE.md): 15 phases (tier A 6, tier C 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram
+- [Bi–Si phases](https://data.orchid-project.org/phases/pages/BI-SI.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Bi–Sn phases](https://data.orchid-project.org/phases/pages/BI-SN.md): 7 phases (tier A 6, liquid 1); 3 stable in a calculated diagram
+- [Bi–Sr phases](https://data.orchid-project.org/phases/pages/BI-SR.md): 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Bi–Tb phases](https://data.orchid-project.org/phases/pages/BI-TB.md): 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Bi–Te phases](https://data.orchid-project.org/phases/pages/BI-TE.md): 13 phases (tier A 6, tier C 4, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Bi–Ti phases](https://data.orchid-project.org/phases/pages/BI-TI.md): 11 phases (tier A 4, tier B 1, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Bi–Tl phases](https://data.orchid-project.org/phases/pages/BI-TL.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Bi–Tm phases](https://data.orchid-project.org/phases/pages/BI-TM.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Bi–U phases](https://data.orchid-project.org/phases/pages/BI-U.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Bi–V phases](https://data.orchid-project.org/phases/pages/BI-V.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Bi–Y phases](https://data.orchid-project.org/phases/pages/BI-Y.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Bi–Yb phases](https://data.orchid-project.org/phases/pages/BI-YB.md): 10 phases (tier A 6, tier C 3, liquid 1); 9 stable in a calculated diagram
+- [Bi–Zn phases](https://data.orchid-project.org/phases/pages/BI-ZN.md): 6 phases (tier A 4, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram
+- [Bi–Zr phases](https://data.orchid-project.org/phases/pages/BI-ZR.md): 10 phases (tier A 4, tier B 1, tier C 1, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Br–Ca phases](https://data.orchid-project.org/phases/pages/BR-CA.md): 7 phases (tier A 4, liquid 2, gas 1); 6 stable in a calculated diagram
+- [C–Ce phases](https://data.orchid-project.org/phases/pages/C-CE.md): 10 phases (tier A 8, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [C–Co phases](https://data.orchid-project.org/phases/pages/C-CO.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [C–Cr phases](https://data.orchid-project.org/phases/pages/C-CR.md): 9 phases (tier A 6, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [C–Cu phases](https://data.orchid-project.org/phases/pages/C-CU.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Dy phases](https://data.orchid-project.org/phases/pages/C-DY.md): 9 phases (tier A 7, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [C–Fe phases](https://data.orchid-project.org/phases/pages/C-FE.md): 12 phases (tier A 6, tier C 1, liquid 1, needs_review 2, unresolved_no_candidates 2); 8 stable in a calculated diagram
+- [C–Ge phases](https://data.orchid-project.org/phases/pages/C-GE.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–H phases](https://data.orchid-project.org/phases/pages/C-H.md): 4 phases (tier A 1, liquid 1, gas 2); 2 stable in a calculated diagram
+- [C–Hf phases](https://data.orchid-project.org/phases/pages/C-HF.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [C–Ir phases](https://data.orchid-project.org/phases/pages/C-IR.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–La phases](https://data.orchid-project.org/phases/pages/C-LA.md): 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [C–Li phases](https://data.orchid-project.org/phases/pages/C-LI.md): 10 phases (tier A 5, tier C 3, liquid 1, gas 1); 6 stable in a calculated diagram
+- [C–Mg phases](https://data.orchid-project.org/phases/pages/C-MG.md): 9 phases (tier A 5, tier C 2, liquid 1, gas 1); 6 stable in a calculated diagram
+- [C–Mn phases](https://data.orchid-project.org/phases/pages/C-MN.md): 13 phases (tier A 8, tier C 3, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [C–Mo phases](https://data.orchid-project.org/phases/pages/C-MO.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [C–N phases](https://data.orchid-project.org/phases/pages/C-N.md): 4 phases (tier A 1, liquid 1, gas 2); 3 stable in a calculated diagram
+- [C–Nb phases](https://data.orchid-project.org/phases/pages/C-NB.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [C–Nd phases](https://data.orchid-project.org/phases/pages/C-ND.md): 9 phases (tier A 8, liquid 1); 5 stable in a calculated diagram
+- [C–Ni phases](https://data.orchid-project.org/phases/pages/C-NI.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [C–O phases](https://data.orchid-project.org/phases/pages/C-O.md): 4 phases (tier A 1, liquid 1, gas 2); 2 stable in a calculated diagram
+- [C–Os phases](https://data.orchid-project.org/phases/pages/C-OS.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–P phases](https://data.orchid-project.org/phases/pages/C-P.md): 8 phases (tier A 5, liquid 1, needs_review 2); 3 stable in a calculated diagram
+- [C–Pb phases](https://data.orchid-project.org/phases/pages/C-PB.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Pd phases](https://data.orchid-project.org/phases/pages/C-PD.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Pr phases](https://data.orchid-project.org/phases/pages/C-PR.md): 8 phases (tier A 6, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [C–Pt phases](https://data.orchid-project.org/phases/pages/C-PT.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Pu phases](https://data.orchid-project.org/phases/pages/C-PU.md): 14 phases (tier A 8, liquid 1, needs_review 5); 12 stable in a calculated diagram
+- [C–Rh phases](https://data.orchid-project.org/phases/pages/C-RH.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Ru phases](https://data.orchid-project.org/phases/pages/C-RU.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Si phases](https://data.orchid-project.org/phases/pages/C-SI.md): 8 phases (tier A 6, liquid 1, gas 1); 6 stable in a calculated diagram
+- [C–Ta phases](https://data.orchid-project.org/phases/pages/C-TA.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [C–Ti phases](https://data.orchid-project.org/phases/pages/C-TI.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [C–U phases](https://data.orchid-project.org/phases/pages/C-U.md): 11 phases (tier A 8, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [C–V phases](https://data.orchid-project.org/phases/pages/C-V.md): 11 phases (tier A 5, tier C 4, liquid 1, unresolved_no_candidates 1); 9 stable in a calculated diagram
+- [C–W phases](https://data.orchid-project.org/phases/pages/C-W.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [C–Y phases](https://data.orchid-project.org/phases/pages/C-Y.md): 13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [C–Zn phases](https://data.orchid-project.org/phases/pages/C-ZN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [C–Zr phases](https://data.orchid-project.org/phases/pages/C-ZR.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Ca–Ce phases](https://data.orchid-project.org/phases/pages/CA-CE.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ca–Cl phases](https://data.orchid-project.org/phases/pages/CA-CL.md): 7 phases (tier A 4, liquid 2, gas 1); 5 stable in a calculated diagram
+- [Ca–Cu phases](https://data.orchid-project.org/phases/pages/CA-CU.md): 7 phases (tier A 4, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ca–F phases](https://data.orchid-project.org/phases/pages/CA-F.md): 7 phases (tier A 4, liquid 2, gas 1); 5 stable in a calculated diagram
+- [Ca–Fe phases](https://data.orchid-project.org/phases/pages/CA-FE.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ca–Ga phases](https://data.orchid-project.org/phases/pages/CA-GA.md): 14 phases (tier A 6, tier B 1, tier C 6, liquid 1); 13 stable in a calculated diagram
+- [Ca–Ge phases](https://data.orchid-project.org/phases/pages/CA-GE.md): 10 phases (tier A 8, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Ca–H phases](https://data.orchid-project.org/phases/pages/CA-H.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram
+- [Ca–I phases](https://data.orchid-project.org/phases/pages/CA-I.md): 8 phases (tier A 4, liquid 2, gas 1, needs_review 1); 5 stable in a calculated diagram
+- [Ca–In phases](https://data.orchid-project.org/phases/pages/CA-IN.md): 10 phases (tier A 5, tier C 4, liquid 1); 9 stable in a calculated diagram
+- [Ca–Li phases](https://data.orchid-project.org/phases/pages/CA-LI.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ca–Mg phases](https://data.orchid-project.org/phases/pages/CA-MG.md): 9 phases (tier A 7, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ca–Mn phases](https://data.orchid-project.org/phases/pages/CA-MN.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Ca–Na phases](https://data.orchid-project.org/phases/pages/CA-NA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ca–Ni phases](https://data.orchid-project.org/phases/pages/CA-NI.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ca–O phases](https://data.orchid-project.org/phases/pages/CA-O.md): 9 phases (tier A 4, liquid 2, gas 2, needs_review 1); 7 stable in a calculated diagram
+- [Ca–Pb phases](https://data.orchid-project.org/phases/pages/CA-PB.md): 8 phases (tier A 6, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ca–Ru phases](https://data.orchid-project.org/phases/pages/CA-RU.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ca–S phases](https://data.orchid-project.org/phases/pages/CA-S.md): 8 phases (tier A 4, liquid 2, needs_review 2); 5 stable in a calculated diagram
+- [Ca–Sb phases](https://data.orchid-project.org/phases/pages/CA-SB.md): 9 phases (tier A 5, tier B 2, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Ca–Sc phases](https://data.orchid-project.org/phases/pages/CA-SC.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ca–Si phases](https://data.orchid-project.org/phases/pages/CA-SI.md): 11 phases (tier A 8, tier C 2, liquid 1); 10 stable in a calculated diagram
+- [Ca–Sn phases](https://data.orchid-project.org/phases/pages/CA-SN.md): 13 phases (tier A 9, tier B 1, tier C 2, liquid 1); 11 stable in a calculated diagram
+- [Ca–Sr phases](https://data.orchid-project.org/phases/pages/CA-SR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ca–Ti phases](https://data.orchid-project.org/phases/pages/CA-TI.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ca–V phases](https://data.orchid-project.org/phases/pages/CA-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ca–Yb phases](https://data.orchid-project.org/phases/pages/CA-YB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ca–Zn phases](https://data.orchid-project.org/phases/pages/CA-ZN.md): 12 phases (tier A 8, tier B 1, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Cd–Ce phases](https://data.orchid-project.org/phases/pages/CD-CE.md): 11 phases (tier A 6, tier C 4, liquid 1); 11 stable in a calculated diagram
+- [Cd–Cu phases](https://data.orchid-project.org/phases/pages/CD-CU.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Cd–Fe phases](https://data.orchid-project.org/phases/pages/CD-FE.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Cd–Ga phases](https://data.orchid-project.org/phases/pages/CD-GA.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Cd–Gd phases](https://data.orchid-project.org/phases/pages/CD-GD.md): 13 phases (tier A 6, tier C 3, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Cd–Ge phases](https://data.orchid-project.org/phases/pages/CD-GE.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Cd–Hg phases](https://data.orchid-project.org/phases/pages/CD-HG.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Cd–In phases](https://data.orchid-project.org/phases/pages/CD-IN.md): 6 phases (tier A 4, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Cd–Mg phases](https://data.orchid-project.org/phases/pages/CD-MG.md): 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Cd–Mn phases](https://data.orchid-project.org/phases/pages/CD-MN.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Cd–Na phases](https://data.orchid-project.org/phases/pages/CD-NA.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Cd–Pb phases](https://data.orchid-project.org/phases/pages/CD-PB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cd–Pr phases](https://data.orchid-project.org/phases/pages/CD-PR.md): 13 phases (tier A 8, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Cd–Pu phases](https://data.orchid-project.org/phases/pages/CD-PU.md): 12 phases (tier A 5, liquid 1, needs_review 5, unresolved_no_candidates 1); 12 stable in a calculated diagram
+- [Cd–Sb phases](https://data.orchid-project.org/phases/pages/CD-SB.md): 8 phases (tier A 5, tier C 2, liquid 1); 4 stable in a calculated diagram
+- [Cd–Se phases](https://data.orchid-project.org/phases/pages/CD-SE.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Cd–Sn phases](https://data.orchid-project.org/phases/pages/CD-SN.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [Cd–Sr phases](https://data.orchid-project.org/phases/pages/CD-SR.md): 10 phases (tier A 5, tier B 1, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Cd–Te phases](https://data.orchid-project.org/phases/pages/CD-TE.md): 7 phases (tier A 5, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Cd–Ti phases](https://data.orchid-project.org/phases/pages/CD-TI.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Cd–Tl phases](https://data.orchid-project.org/phases/pages/CD-TL.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cd–V phases](https://data.orchid-project.org/phases/pages/CD-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cd–Y phases](https://data.orchid-project.org/phases/pages/CD-Y.md): 10 phases (tier A 4, tier C 5, liquid 1); 9 stable in a calculated diagram
+- [Cd–Yb phases](https://data.orchid-project.org/phases/pages/CD-YB.md): 12 phases (tier A 5, tier C 1, liquid 1, needs_review 4, unresolved_no_candidates 1); 11 stable in a calculated diagram
+- [Cd–Zn phases](https://data.orchid-project.org/phases/pages/CD-ZN.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ce–Co phases](https://data.orchid-project.org/phases/pages/CE-CO.md): 11 phases (tier A 5, tier C 3, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Ce–Cr phases](https://data.orchid-project.org/phases/pages/CE-CR.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ce–Cu phases](https://data.orchid-project.org/phases/pages/CE-CU.md): 9 phases (tier A 5, tier C 3, liquid 1); 8 stable in a calculated diagram
+- [Ce–Fe phases](https://data.orchid-project.org/phases/pages/CE-FE.md): 6 phases (tier A 4, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Ce–Ga phases](https://data.orchid-project.org/phases/pages/CE-GA.md): 12 phases (tier A 8, tier C 2, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Ce–Gd phases](https://data.orchid-project.org/phases/pages/CE-GD.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ce–H phases](https://data.orchid-project.org/phases/pages/CE-H.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Ce–La phases](https://data.orchid-project.org/phases/pages/CE-LA.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ce–Mg phases](https://data.orchid-project.org/phases/pages/CE-MG.md): 14 phases (tier A 6, tier C 5, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Ce–Mn phases](https://data.orchid-project.org/phases/pages/CE-MN.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Ce–Mo phases](https://data.orchid-project.org/phases/pages/CE-MO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ce–Nd phases](https://data.orchid-project.org/phases/pages/CE-ND.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ce–Ni phases](https://data.orchid-project.org/phases/pages/CE-NI.md): 13 phases (tier A 9, tier C 3, liquid 1); 11 stable in a calculated diagram
+- [Ce–O phases](https://data.orchid-project.org/phases/pages/CE-O.md): 19 phases (tier A 4, tier C 7, liquid 2, gas 2, needs_review 4); 14 stable in a calculated diagram
+- [Ce–Pr phases](https://data.orchid-project.org/phases/pages/CE-PR.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ce–Pt phases](https://data.orchid-project.org/phases/pages/CE-PT.md): 13 phases (tier A 7, tier C 4, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Ce–Rh phases](https://data.orchid-project.org/phases/pages/CE-RH.md): 11 phases (tier A 7, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Ce–Ru phases](https://data.orchid-project.org/phases/pages/CE-RU.md): 9 phases (tier A 6, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ce–Sb phases](https://data.orchid-project.org/phases/pages/CE-SB.md): 12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Ce–Si phases](https://data.orchid-project.org/phases/pages/CE-SI.md): 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Ce–Sn phases](https://data.orchid-project.org/phases/pages/CE-SN.md): 15 phases (tier A 8, tier B 1, tier C 4, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Ce–Te phases](https://data.orchid-project.org/phases/pages/CE-TE.md): 12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Ce–Ti phases](https://data.orchid-project.org/phases/pages/CE-TI.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ce–V phases](https://data.orchid-project.org/phases/pages/CE-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ce–W phases](https://data.orchid-project.org/phases/pages/CE-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ce–Y phases](https://data.orchid-project.org/phases/pages/CE-Y.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Ce–Zn phases](https://data.orchid-project.org/phases/pages/CE-ZN.md): 13 phases (tier A 5, tier B 2, tier C 4, liquid 1, needs_review 1); 13 stable in a calculated diagram
+- [Ce–Zr phases](https://data.orchid-project.org/phases/pages/CE-ZR.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Cl–K phases](https://data.orchid-project.org/phases/pages/CL-K.md): 7 phases (tier A 4, liquid 2, gas 1); 5 stable in a calculated diagram
+- [Cl–Mg phases](https://data.orchid-project.org/phases/pages/CL-MG.md): 7 phases (tier A 4, liquid 2, gas 1); 5 stable in a calculated diagram
+- [Co–Cr phases](https://data.orchid-project.org/phases/pages/CO-CR.md): 9 phases (tier A 5, liquid 1, needs_review 2, unresolved_no_candidates 1); 7 stable in a calculated diagram
+- [Co–Cu phases](https://data.orchid-project.org/phases/pages/CO-CU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Co–Dy phases](https://data.orchid-project.org/phases/pages/CO-DY.md): 11 phases (tier A 6, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Co–Er phases](https://data.orchid-project.org/phases/pages/CO-ER.md): 11 phases (tier A 6, tier C 4, liquid 1); 10 stable in a calculated diagram
+- [Co–Fe phases](https://data.orchid-project.org/phases/pages/CO-FE.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Co–Ga phases](https://data.orchid-project.org/phases/pages/CO-GA.md): 7 phases (tier A 5, tier B 1, liquid 1); 6 stable in a calculated diagram
+- [Co–Gd phases](https://data.orchid-project.org/phases/pages/CO-GD.md): 13 phases (tier A 6, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram
+- [Co–Ge phases](https://data.orchid-project.org/phases/pages/CO-GE.md): 15 phases (tier A 7, tier C 4, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Co–H phases](https://data.orchid-project.org/phases/pages/CO-H.md): 5 phases (tier A 3, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Co–Hf phases](https://data.orchid-project.org/phases/pages/CO-HF.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Co–Ho phases](https://data.orchid-project.org/phases/pages/CO-HO.md): 12 phases (tier A 5, tier C 5, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Co–In phases](https://data.orchid-project.org/phases/pages/CO-IN.md): 7 phases (tier A 5, tier B 1, liquid 1); 6 stable in a calculated diagram
+- [Co–La phases](https://data.orchid-project.org/phases/pages/CO-LA.md): 12 phases (tier A 7, tier C 1, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [Co–Mg phases](https://data.orchid-project.org/phases/pages/CO-MG.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Co–Mn phases](https://data.orchid-project.org/phases/pages/CO-MN.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Co–Mo phases](https://data.orchid-project.org/phases/pages/CO-MO.md): 8 phases (tier A 7, liquid 1); 8 stable in a calculated diagram
+- [Co–N phases](https://data.orchid-project.org/phases/pages/CO-N.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Co–Nb phases](https://data.orchid-project.org/phases/pages/CO-NB.md): 11 phases (tier A 7, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Co–Nd phases](https://data.orchid-project.org/phases/pages/CO-ND.md): 17 phases (tier A 8, tier C 5, liquid 1, needs_review 3); 16 stable in a calculated diagram
+- [Co–Ni phases](https://data.orchid-project.org/phases/pages/CO-NI.md): 6 phases (tier A 4, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram
+- [Co–O phases](https://data.orchid-project.org/phases/pages/CO-O.md): 9 phases (tier A 4, tier C 1, liquid 2, gas 2); 7 stable in a calculated diagram
+- [Co–Pd phases](https://data.orchid-project.org/phases/pages/CO-PD.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Co–Pr phases](https://data.orchid-project.org/phases/pages/CO-PR.md): 15 phases (tier A 8, tier C 3, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Co–Pt phases](https://data.orchid-project.org/phases/pages/CO-PT.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Co–Re phases](https://data.orchid-project.org/phases/pages/CO-RE.md): 6 phases (tier A 4, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram
+- [Co–Ru phases](https://data.orchid-project.org/phases/pages/CO-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Co–Sb phases](https://data.orchid-project.org/phases/pages/CO-SB.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Co–Sc phases](https://data.orchid-project.org/phases/pages/CO-SC.md): 8 phases (tier A 5, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Co–Si phases](https://data.orchid-project.org/phases/pages/CO-SI.md): 10 phases (tier A 8, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Co–Sm phases](https://data.orchid-project.org/phases/pages/CO-SM.md): 14 phases (tier A 6, tier C 4, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Co–Sn phases](https://data.orchid-project.org/phases/pages/CO-SN.md): 13 phases (tier A 7, tier C 4, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Co–Sr phases](https://data.orchid-project.org/phases/pages/CO-SR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Co–Ta phases](https://data.orchid-project.org/phases/pages/CO-TA.md): 19 phases (tier A 12, tier C 2, liquid 1, needs_review 4); 18 stable in a calculated diagram
+- [Co–Te phases](https://data.orchid-project.org/phases/pages/CO-TE.md): 8 phases (tier A 6, liquid 1, gas 1); 7 stable in a calculated diagram
+- [Co–Th phases](https://data.orchid-project.org/phases/pages/CO-TH.md): 10 phases (tier A 6, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Co–Ti phases](https://data.orchid-project.org/phases/pages/CO-TI.md): 9 phases (tier A 7, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Co–U phases](https://data.orchid-project.org/phases/pages/CO-U.md): 12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Co–V phases](https://data.orchid-project.org/phases/pages/CO-V.md): 12 phases (tier A 6, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Co–W phases](https://data.orchid-project.org/phases/pages/CO-W.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Co–Y phases](https://data.orchid-project.org/phases/pages/CO-Y.md): 15 phases (tier A 6, tier C 3, liquid 1, needs_review 5); 15 stable in a calculated diagram
+- [Co–Zn phases](https://data.orchid-project.org/phases/pages/CO-ZN.md): 11 phases (tier A 5, tier B 1, tier C 4, liquid 1); 11 stable in a calculated diagram
+- [Co–Zr phases](https://data.orchid-project.org/phases/pages/CO-ZR.md): 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 13 stable in a calculated diagram
+- [Cr–Cu phases](https://data.orchid-project.org/phases/pages/CR-CU.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Cr–Fe phases](https://data.orchid-project.org/phases/pages/CR-FE.md): 9 phases (tier A 7, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Cr–Ga phases](https://data.orchid-project.org/phases/pages/CR-GA.md): 10 phases (tier A 4, liquid 1, needs_review 5); 8 stable in a calculated diagram
+- [Cr–Ge phases](https://data.orchid-project.org/phases/pages/CR-GE.md): 12 phases (tier A 7, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 9 stable in a calculated diagram
+- [Cr–H phases](https://data.orchid-project.org/phases/pages/CR-H.md): 6 phases (tier A 3, liquid 1, gas 2); 4 stable in a calculated diagram
+- [Cr–Hf phases](https://data.orchid-project.org/phases/pages/CR-HF.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Cr–Ir phases](https://data.orchid-project.org/phases/pages/CR-IR.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Cr–La phases](https://data.orchid-project.org/phases/pages/CR-LA.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Cr–Lu phases](https://data.orchid-project.org/phases/pages/CR-LU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cr–Mg phases](https://data.orchid-project.org/phases/pages/CR-MG.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cr–Mn phases](https://data.orchid-project.org/phases/pages/CR-MN.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Cr–Mo phases](https://data.orchid-project.org/phases/pages/CR-MO.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cr–N phases](https://data.orchid-project.org/phases/pages/CR-N.md): 5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Cr–Na phases](https://data.orchid-project.org/phases/pages/CR-NA.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cr–Nb phases](https://data.orchid-project.org/phases/pages/CR-NB.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [Cr–Ni phases](https://data.orchid-project.org/phases/pages/CR-NI.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 1, unresolved_no_candidates 1); 7 stable in a calculated diagram
+- [Cr–O phases](https://data.orchid-project.org/phases/pages/CR-O.md): 11 phases (tier A 6, tier C 1, liquid 2, gas 2); 6 stable in a calculated diagram
+- [Cr–P phases](https://data.orchid-project.org/phases/pages/CR-P.md): 8 phases (tier A 3, tier C 2, liquid 1, needs_review 2); 5 stable in a calculated diagram
+- [Cr–Pb phases](https://data.orchid-project.org/phases/pages/CR-PB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cr–Pd phases](https://data.orchid-project.org/phases/pages/CR-PD.md): 6 phases (tier A 4, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Cr–Pt phases](https://data.orchid-project.org/phases/pages/CR-PT.md): 7 phases (tier A 4, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Cr–Re phases](https://data.orchid-project.org/phases/pages/CR-RE.md): 8 phases (tier A 5, liquid 1, needs_review 2); 5 stable in a calculated diagram
+- [Cr–Ru phases](https://data.orchid-project.org/phases/pages/CR-RU.md): 7 phases (tier A 4, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Cr–S phases](https://data.orchid-project.org/phases/pages/CR-S.md): 14 phases (tier A 5, tier C 5, liquid 1, gas 1, needs_review 2); 10 stable in a calculated diagram
+- [Cr–Sc phases](https://data.orchid-project.org/phases/pages/CR-SC.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cr–Si phases](https://data.orchid-project.org/phases/pages/CR-SI.md): 12 phases (tier A 7, tier C 4, liquid 1); 10 stable in a calculated diagram
+- [Cr–Sn phases](https://data.orchid-project.org/phases/pages/CR-SN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Cr–Ta phases](https://data.orchid-project.org/phases/pages/CR-TA.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Cr–Ti phases](https://data.orchid-project.org/phases/pages/CR-TI.md): 10 phases (tier A 9, liquid 1); 8 stable in a calculated diagram
+- [Cr–U phases](https://data.orchid-project.org/phases/pages/CR-U.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Cr–V phases](https://data.orchid-project.org/phases/pages/CR-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cr–W phases](https://data.orchid-project.org/phases/pages/CR-W.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cr–Y phases](https://data.orchid-project.org/phases/pages/CR-Y.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Cr–Zn phases](https://data.orchid-project.org/phases/pages/CR-ZN.md): 6 phases (tier A 3, tier C 1, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Cr–Zr phases](https://data.orchid-project.org/phases/pages/CR-ZR.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Cs–In phases](https://data.orchid-project.org/phases/pages/CS-IN.md): 7 phases (tier A 4, tier B 1, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Cs–K phases](https://data.orchid-project.org/phases/pages/CS-K.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cs–Mo phases](https://data.orchid-project.org/phases/pages/CS-MO.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cs–Na phases](https://data.orchid-project.org/phases/pages/CS-NA.md): 5 phases (tier A 4, liquid 1); 2 stable in a calculated diagram
+- [Cs–O phases](https://data.orchid-project.org/phases/pages/CS-O.md): 15 phases (tier A 4, tier B 1, tier C 3, liquid 2, gas 2, needs_review 3); 7 stable in a calculated diagram
+- [Cs–Rb phases](https://data.orchid-project.org/phases/pages/CS-RB.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cs–Te phases](https://data.orchid-project.org/phases/pages/CS-TE.md): 16 phases (tier A 4, tier B 1, tier C 4, liquid 2, gas 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram
+- [Cu–Dy phases](https://data.orchid-project.org/phases/pages/CU-DY.md): 12 phases (tier A 6, tier C 2, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [Cu–Er phases](https://data.orchid-project.org/phases/pages/CU-ER.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Cu–Eu phases](https://data.orchid-project.org/phases/pages/CU-EU.md): 8 phases (tier A 5, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Cu–Fe phases](https://data.orchid-project.org/phases/pages/CU-FE.md): 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Cu–Ga phases](https://data.orchid-project.org/phases/pages/CU-GA.md): 10 phases (tier A 4, tier C 4, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Cu–Gd phases](https://data.orchid-project.org/phases/pages/CU-GD.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Cu–Ge phases](https://data.orchid-project.org/phases/pages/CU-GE.md): 9 phases (tier A 5, liquid 1, needs_review 3); 8 stable in a calculated diagram
+- [Cu–H phases](https://data.orchid-project.org/phases/pages/CU-H.md): 7 phases (tier A 5, liquid 1, gas 1); 3 stable in a calculated diagram
+- [Cu–Hf phases](https://data.orchid-project.org/phases/pages/CU-HF.md): 9 phases (tier A 4, tier B 1, tier C 3, liquid 1); 9 stable in a calculated diagram
+- [Cu–Hg phases](https://data.orchid-project.org/phases/pages/CU-HG.md): 6 phases (tier A 4, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Cu–Ho phases](https://data.orchid-project.org/phases/pages/CU-HO.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Cu–In phases](https://data.orchid-project.org/phases/pages/CU-IN.md): 12 phases (tier A 5, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [Cu–Ir phases](https://data.orchid-project.org/phases/pages/CU-IR.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cu–La phases](https://data.orchid-project.org/phases/pages/CU-LA.md): 13 phases (tier A 7, tier C 1, liquid 1, needs_review 4); 12 stable in a calculated diagram
+- [Cu–Li phases](https://data.orchid-project.org/phases/pages/CU-LI.md): 5 phases (tier A 3, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram
+- [Cu–Mg phases](https://data.orchid-project.org/phases/pages/CU-MG.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Cu–Mn phases](https://data.orchid-project.org/phases/pages/CU-MN.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Cu–Mo phases](https://data.orchid-project.org/phases/pages/CU-MO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–N phases](https://data.orchid-project.org/phases/pages/CU-N.md): 5 phases (tier A 3, liquid 1, gas 1); 3 stable in a calculated diagram
+- [Cu–Na phases](https://data.orchid-project.org/phases/pages/CU-NA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–Nb phases](https://data.orchid-project.org/phases/pages/CU-NB.md): 4 phases (tier A 3, liquid 1); 0 stable in a calculated diagram
+- [Cu–Nd phases](https://data.orchid-project.org/phases/pages/CU-ND.md): 14 phases (tier A 8, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Cu–Ni phases](https://data.orchid-project.org/phases/pages/CU-NI.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cu–O phases](https://data.orchid-project.org/phases/pages/CU-O.md): 10 phases (tier A 3, tier C 3, liquid 2, gas 2); 7 stable in a calculated diagram
+- [Cu–P phases](https://data.orchid-project.org/phases/pages/CU-P.md): 11 phases (tier A 4, tier B 1, tier C 2, liquid 1, gas 1, needs_review 2); 8 stable in a calculated diagram
+- [Cu–Pb phases](https://data.orchid-project.org/phases/pages/CU-PB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–Pd phases](https://data.orchid-project.org/phases/pages/CU-PD.md): 10 phases (tier A 5, tier C 1, liquid 1, needs_review 3); 6 stable in a calculated diagram
+- [Cu–Pr phases](https://data.orchid-project.org/phases/pages/CU-PR.md): 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Cu–Pt phases](https://data.orchid-project.org/phases/pages/CU-PT.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Cu–Pu phases](https://data.orchid-project.org/phases/pages/CU-PU.md): 12 phases (tier A 4, tier C 2, liquid 1, needs_review 5); 11 stable in a calculated diagram
+- [Cu–Rh phases](https://data.orchid-project.org/phases/pages/CU-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Cu–S phases](https://data.orchid-project.org/phases/pages/CU-S.md): 14 phases (tier A 4, tier B 1, liquid 2, gas 1, needs_review 6); 12 stable in a calculated diagram
+- [Cu–Sb phases](https://data.orchid-project.org/phases/pages/CU-SB.md): 11 phases (tier A 6, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Cu–Sc phases](https://data.orchid-project.org/phases/pages/CU-SC.md): 7 phases (tier A 6, liquid 1); 7 stable in a calculated diagram
+- [Cu–Se phases](https://data.orchid-project.org/phases/pages/CU-SE.md): 12 phases (tier A 6, tier B 1, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Cu–Si phases](https://data.orchid-project.org/phases/pages/CU-SI.md): 17 phases (tier A 6, liquid 1, needs_review 10); 16 stable in a calculated diagram
+- [Cu–Sm phases](https://data.orchid-project.org/phases/pages/CU-SM.md): 10 phases (tier A 5, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Cu–Sn phases](https://data.orchid-project.org/phases/pages/CU-SN.md): 16 phases (tier A 7, tier C 1, liquid 1, needs_review 7); 14 stable in a calculated diagram
+- [Cu–Sr phases](https://data.orchid-project.org/phases/pages/CU-SR.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Cu–Ta phases](https://data.orchid-project.org/phases/pages/CU-TA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–Te phases](https://data.orchid-project.org/phases/pages/CU-TE.md): 22 phases (tier A 4, tier C 4, liquid 1, needs_review 13); 20 stable in a calculated diagram
+- [Cu–Th phases](https://data.orchid-project.org/phases/pages/CU-TH.md): 8 phases (tier A 5, tier B 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Cu–Ti phases](https://data.orchid-project.org/phases/pages/CU-TI.md): 11 phases (tier A 5, tier B 1, tier C 4, liquid 1); 11 stable in a calculated diagram
+- [Cu–Tl phases](https://data.orchid-project.org/phases/pages/CU-TL.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Cu–Tm phases](https://data.orchid-project.org/phases/pages/CU-TM.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Cu–U phases](https://data.orchid-project.org/phases/pages/CU-U.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Cu–V phases](https://data.orchid-project.org/phases/pages/CU-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–W phases](https://data.orchid-project.org/phases/pages/CU-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Cu–Y phases](https://data.orchid-project.org/phases/pages/CU-Y.md): 10 phases (tier A 3, tier C 1, liquid 1, needs_review 5); 10 stable in a calculated diagram
+- [Cu–Yb phases](https://data.orchid-project.org/phases/pages/CU-YB.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Cu–Zn phases](https://data.orchid-project.org/phases/pages/CU-ZN.md): 11 phases (tier A 7, tier C 2, liquid 1, gas 1); 11 stable in a calculated diagram
+- [Cu–Zr phases](https://data.orchid-project.org/phases/pages/CU-ZR.md): 22 phases (tier A 7, tier B 1, tier C 3, liquid 1, needs_review 9, unresolved_no_candidates 1); 20 stable in a calculated diagram
+- [Dy–Er phases](https://data.orchid-project.org/phases/pages/DY-ER.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Dy–Fe phases](https://data.orchid-project.org/phases/pages/DY-FE.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Dy–Ge phases](https://data.orchid-project.org/phases/pages/DY-GE.md): 14 phases (tier A 6, tier C 2, liquid 1, needs_review 5); 13 stable in a calculated diagram
+- [Dy–H phases](https://data.orchid-project.org/phases/pages/DY-H.md): 5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 5 stable in a calculated diagram
+- [Dy–Ho phases](https://data.orchid-project.org/phases/pages/DY-HO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Dy–Mg phases](https://data.orchid-project.org/phases/pages/DY-MG.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Dy–Mn phases](https://data.orchid-project.org/phases/pages/DY-MN.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Dy–Ni phases](https://data.orchid-project.org/phases/pages/DY-NI.md): 14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Dy–O phases](https://data.orchid-project.org/phases/pages/DY-O.md): 8 phases (tier A 2, tier C 4, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Dy–Pb phases](https://data.orchid-project.org/phases/pages/DY-PB.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Dy–Pd phases](https://data.orchid-project.org/phases/pages/DY-PD.md): 14 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 4); 14 stable in a calculated diagram
+- [Dy–Ru phases](https://data.orchid-project.org/phases/pages/DY-RU.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Dy–Sb phases](https://data.orchid-project.org/phases/pages/DY-SB.md): 12 phases (tier A 7, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram
+- [Dy–Si phases](https://data.orchid-project.org/phases/pages/DY-SI.md): 13 phases (tier A 7, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Dy–Sn phases](https://data.orchid-project.org/phases/pages/DY-SN.md): 13 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Dy–Tb phases](https://data.orchid-project.org/phases/pages/DY-TB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Dy–Te phases](https://data.orchid-project.org/phases/pages/DY-TE.md): 10 phases (tier A 4, tier C 5, liquid 1); 10 stable in a calculated diagram
+- [Dy–W phases](https://data.orchid-project.org/phases/pages/DY-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Dy–Zn phases](https://data.orchid-project.org/phases/pages/DY-ZN.md): 12 phases (tier A 5, tier C 5, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Dy–Zr phases](https://data.orchid-project.org/phases/pages/DY-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–Fe phases](https://data.orchid-project.org/phases/pages/ER-FE.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Er–Ge phases](https://data.orchid-project.org/phases/pages/ER-GE.md): 17 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram
+- [Er–H phases](https://data.orchid-project.org/phases/pages/ER-H.md): 5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 4 stable in a calculated diagram
+- [Er–Ho phases](https://data.orchid-project.org/phases/pages/ER-HO.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Er–Lu phases](https://data.orchid-project.org/phases/pages/ER-LU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Er–Mg phases](https://data.orchid-project.org/phases/pages/ER-MG.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Er–Mn phases](https://data.orchid-project.org/phases/pages/ER-MN.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Er–Ni phases](https://data.orchid-project.org/phases/pages/ER-NI.md): 15 phases (tier A 7, tier C 5, liquid 1, needs_review 2); 14 stable in a calculated diagram
+- [Er–O phases](https://data.orchid-project.org/phases/pages/ER-O.md): 6 phases (tier A 2, tier C 2, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Er–Pd phases](https://data.orchid-project.org/phases/pages/ER-PD.md): 14 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 4); 13 stable in a calculated diagram
+- [Er–Sb phases](https://data.orchid-project.org/phases/pages/ER-SB.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Er–Sc phases](https://data.orchid-project.org/phases/pages/ER-SC.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–Tb phases](https://data.orchid-project.org/phases/pages/ER-TB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–Te phases](https://data.orchid-project.org/phases/pages/ER-TE.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Er–Ti phases](https://data.orchid-project.org/phases/pages/ER-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–V phases](https://data.orchid-project.org/phases/pages/ER-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–W phases](https://data.orchid-project.org/phases/pages/ER-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–Y phases](https://data.orchid-project.org/phases/pages/ER-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Er–Zn phases](https://data.orchid-project.org/phases/pages/ER-ZN.md): 12 phases (tier A 5, tier C 6, liquid 1); 10 stable in a calculated diagram
+- [Er–Zr phases](https://data.orchid-project.org/phases/pages/ER-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Eu–Ga phases](https://data.orchid-project.org/phases/pages/EU-GA.md): 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Eu–In phases](https://data.orchid-project.org/phases/pages/EU-IN.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Eu–Mg phases](https://data.orchid-project.org/phases/pages/EU-MG.md): 8 phases (tier A 4, tier C 3, liquid 1); 0 stable in a calculated diagram
+- [Eu–Ni phases](https://data.orchid-project.org/phases/pages/EU-NI.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Eu–O phases](https://data.orchid-project.org/phases/pages/EU-O.md): 8 phases (tier A 1, tier C 5, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Eu–Pb phases](https://data.orchid-project.org/phases/pages/EU-PB.md): 10 phases (tier A 7, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Eu–Pd phases](https://data.orchid-project.org/phases/pages/EU-PD.md): 11 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Eu–Sn phases](https://data.orchid-project.org/phases/pages/EU-SN.md): 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Eu–Te phases](https://data.orchid-project.org/phases/pages/EU-TE.md): 6 phases (tier A 3, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Eu–W phases](https://data.orchid-project.org/phases/pages/EU-W.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [F–K phases](https://data.orchid-project.org/phases/pages/F-K.md): 7 phases (tier A 4, liquid 2, gas 1); 4 stable in a calculated diagram
+- [F–Na phases](https://data.orchid-project.org/phases/pages/F-NA.md): 7 phases (tier A 4, liquid 2, gas 1); 5 stable in a calculated diagram
+- [F–Nb phases](https://data.orchid-project.org/phases/pages/F-NB.md): 9 phases (tier A 4, tier B 1, tier C 1, liquid 2, gas 1); 6 stable in a calculated diagram
+- [F–O phases](https://data.orchid-project.org/phases/pages/F-O.md): 2 phases (gas 2); 1 stable in a calculated diagram
+- [Fe–Ga phases](https://data.orchid-project.org/phases/pages/FE-GA.md): 9 phases (tier A 4, tier B 1, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Fe–Gd phases](https://data.orchid-project.org/phases/pages/FE-GD.md): 11 phases (tier A 5, tier C 3, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Fe–H phases](https://data.orchid-project.org/phases/pages/FE-H.md): 6 phases (tier A 3, liquid 1, gas 2); 5 stable in a calculated diagram
+- [Fe–Hf phases](https://data.orchid-project.org/phases/pages/FE-HF.md): 8 phases (tier A 6, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Fe–Ho phases](https://data.orchid-project.org/phases/pages/FE-HO.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Fe–In phases](https://data.orchid-project.org/phases/pages/FE-IN.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Fe–La phases](https://data.orchid-project.org/phases/pages/FE-LA.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Fe–Lu phases](https://data.orchid-project.org/phases/pages/FE-LU.md): 10 phases (tier A 5, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Fe–Mg phases](https://data.orchid-project.org/phases/pages/FE-MG.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Fe–Mn phases](https://data.orchid-project.org/phases/pages/FE-MN.md): 9 phases (tier A 5, liquid 1, needs_review 3); 6 stable in a calculated diagram
+- [Fe–Mo phases](https://data.orchid-project.org/phases/pages/FE-MO.md): 11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Fe–N phases](https://data.orchid-project.org/phases/pages/FE-N.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Fe–Nb phases](https://data.orchid-project.org/phases/pages/FE-NB.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Fe–Nd phases](https://data.orchid-project.org/phases/pages/FE-ND.md): 7 phases (tier A 4, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [Fe–Ni phases](https://data.orchid-project.org/phases/pages/FE-NI.md): 10 phases (tier A 6, liquid 1, needs_review 3); 8 stable in a calculated diagram
+- [Fe–Np phases](https://data.orchid-project.org/phases/pages/FE-NP.md): 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram
+- [Fe–O phases](https://data.orchid-project.org/phases/pages/FE-O.md): 10 phases (tier A 4, tier C 2, liquid 2, gas 2); 9 stable in a calculated diagram
+- [Fe–Os phases](https://data.orchid-project.org/phases/pages/FE-OS.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Fe–P phases](https://data.orchid-project.org/phases/pages/FE-P.md): 11 phases (tier A 5, tier C 2, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Fe–Pb phases](https://data.orchid-project.org/phases/pages/FE-PB.md): 5 phases (tier A 3, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Fe–Pd phases](https://data.orchid-project.org/phases/pages/FE-PD.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Fe–Pr phases](https://data.orchid-project.org/phases/pages/FE-PR.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Fe–Pt phases](https://data.orchid-project.org/phases/pages/FE-PT.md): 5 phases (tier A 3, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Fe–Pu phases](https://data.orchid-project.org/phases/pages/FE-PU.md): 10 phases (tier A 6, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Fe–Rh phases](https://data.orchid-project.org/phases/pages/FE-RH.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Fe–Ru phases](https://data.orchid-project.org/phases/pages/FE-RU.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Fe–S phases](https://data.orchid-project.org/phases/pages/FE-S.md): 9 phases (tier A 3, liquid 2, needs_review 4); 8 stable in a calculated diagram
+- [Fe–Sb phases](https://data.orchid-project.org/phases/pages/FE-SB.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Fe–Sc phases](https://data.orchid-project.org/phases/pages/FE-SC.md): 10 phases (tier A 3, liquid 1, needs_review 6); 10 stable in a calculated diagram
+- [Fe–Si phases](https://data.orchid-project.org/phases/pages/FE-SI.md): 12 phases (tier A 5, tier C 3, liquid 1, needs_review 3); 10 stable in a calculated diagram
+- [Fe–Sm phases](https://data.orchid-project.org/phases/pages/FE-SM.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Fe–Sn phases](https://data.orchid-project.org/phases/pages/FE-SN.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Fe–Sr phases](https://data.orchid-project.org/phases/pages/FE-SR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Fe–Ta phases](https://data.orchid-project.org/phases/pages/FE-TA.md): 7 phases (tier A 5, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Fe–Tb phases](https://data.orchid-project.org/phases/pages/FE-TB.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Fe–Te phases](https://data.orchid-project.org/phases/pages/FE-TE.md): 12 phases (tier A 6, liquid 2, needs_review 3, unresolved_no_candidates 1); 9 stable in a calculated diagram
+- [Fe–Th phases](https://data.orchid-project.org/phases/pages/FE-TH.md): 10 phases (tier A 5, tier C 4, liquid 1); 9 stable in a calculated diagram
+- [Fe–Ti phases](https://data.orchid-project.org/phases/pages/FE-TI.md): 10 phases (tier A 7, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Fe–Tm phases](https://data.orchid-project.org/phases/pages/FE-TM.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Fe–U phases](https://data.orchid-project.org/phases/pages/FE-U.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Fe–V phases](https://data.orchid-project.org/phases/pages/FE-V.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Fe–W phases](https://data.orchid-project.org/phases/pages/FE-W.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Fe–Y phases](https://data.orchid-project.org/phases/pages/FE-Y.md): 10 phases (tier A 5, tier C 1, liquid 1, needs_review 3); 10 stable in a calculated diagram
+- [Fe–Zn phases](https://data.orchid-project.org/phases/pages/FE-ZN.md): 8 phases (tier A 4, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Fe–Zr phases](https://data.orchid-project.org/phases/pages/FE-ZR.md): 12 phases (tier A 10, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Ga–Gd phases](https://data.orchid-project.org/phases/pages/GA-GD.md): 10 phases (tier A 6, tier B 1, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ga–Ge phases](https://data.orchid-project.org/phases/pages/GA-GE.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ga–Hg phases](https://data.orchid-project.org/phases/pages/GA-HG.md): 3 phases (tier A 2, liquid 1); 2 stable in a calculated diagram
+- [Ga–Ho phases](https://data.orchid-project.org/phases/pages/GA-HO.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ga–In phases](https://data.orchid-project.org/phases/pages/GA-IN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ga–La phases](https://data.orchid-project.org/phases/pages/GA-LA.md): 12 phases (tier A 8, tier B 1, tier C 2, liquid 1); 11 stable in a calculated diagram
+- [Ga–Li phases](https://data.orchid-project.org/phases/pages/GA-LI.md): 12 phases (tier A 5, tier C 5, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ga–Lu phases](https://data.orchid-project.org/phases/pages/GA-LU.md): 10 phases (tier A 6, tier C 3, liquid 1); 8 stable in a calculated diagram
+- [Ga–Mg phases](https://data.orchid-project.org/phases/pages/GA-MG.md): 10 phases (tier A 5, tier B 2, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Ga–N phases](https://data.orchid-project.org/phases/pages/GA-N.md): 5 phases (tier A 2, liquid 1, gas 2); 5 stable in a calculated diagram
+- [Ga–Na phases](https://data.orchid-project.org/phases/pages/GA-NA.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Ga–Nb phases](https://data.orchid-project.org/phases/pages/GA-NB.md): 12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Ga–Ni phases](https://data.orchid-project.org/phases/pages/GA-NI.md): 16 phases (tier A 10, tier B 1, tier C 4, liquid 1); 14 stable in a calculated diagram
+- [Ga–O phases](https://data.orchid-project.org/phases/pages/GA-O.md): 11 phases (tier A 5, tier C 2, liquid 1, gas 2, needs_review 1); 5 stable in a calculated diagram
+- [Ga–P phases](https://data.orchid-project.org/phases/pages/GA-P.md): 9 phases (tier A 5, liquid 1, gas 1, needs_review 2); 5 stable in a calculated diagram
+- [Ga–Pb phases](https://data.orchid-project.org/phases/pages/GA-PB.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ga–Pd phases](https://data.orchid-project.org/phases/pages/GA-PD.md): 10 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ga–Pr phases](https://data.orchid-project.org/phases/pages/GA-PR.md): 12 phases (tier A 9, tier B 1, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Ga–Pt phases](https://data.orchid-project.org/phases/pages/GA-PT.md): 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Ga–Pu phases](https://data.orchid-project.org/phases/pages/GA-PU.md): 25 phases (tier A 10, tier C 6, liquid 1, needs_review 8); 24 stable in a calculated diagram
+- [Ga–Sb phases](https://data.orchid-project.org/phases/pages/GA-SB.md): 8 phases (tier A 6, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Ga–Sc phases](https://data.orchid-project.org/phases/pages/GA-SC.md): 10 phases (tier A 6, tier C 3, liquid 1); 9 stable in a calculated diagram
+- [Ga–Se phases](https://data.orchid-project.org/phases/pages/GA-SE.md): 10 phases (tier A 6, tier C 2, liquid 2); 0 stable in a calculated diagram
+- [Ga–Si phases](https://data.orchid-project.org/phases/pages/GA-SI.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ga–Sn phases](https://data.orchid-project.org/phases/pages/GA-SN.md): 7 phases (tier A 6, liquid 1); 3 stable in a calculated diagram
+- [Ga–Sr phases](https://data.orchid-project.org/phases/pages/GA-SR.md): 8 phases (tier A 6, tier B 1, liquid 1); 7 stable in a calculated diagram
+- [Ga–Tb phases](https://data.orchid-project.org/phases/pages/GA-TB.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ga–Te phases](https://data.orchid-project.org/phases/pages/GA-TE.md): 8 phases (tier A 3, tier C 2, liquid 2, needs_review 1); 8 stable in a calculated diagram
+- [Ga–Ti phases](https://data.orchid-project.org/phases/pages/GA-TI.md): 13 phases (tier A 9, tier B 1, tier C 2, liquid 1); 12 stable in a calculated diagram
+- [Ga–Tl phases](https://data.orchid-project.org/phases/pages/GA-TL.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ga–U phases](https://data.orchid-project.org/phases/pages/GA-U.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Ga–V phases](https://data.orchid-project.org/phases/pages/GA-V.md): 10 phases (tier A 6, tier B 2, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Ga–Y phases](https://data.orchid-project.org/phases/pages/GA-Y.md): 10 phases (tier A 7, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ga–Zn phases](https://data.orchid-project.org/phases/pages/GA-ZN.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ga–Zr phases](https://data.orchid-project.org/phases/pages/GA-ZR.md): 15 phases (tier A 9, tier B 2, tier C 2, liquid 1, needs_review 1); 14 stable in a calculated diagram
+- [Gd–Ge phases](https://data.orchid-project.org/phases/pages/GD-GE.md): 14 phases (tier A 6, tier C 1, liquid 1, needs_review 6); 13 stable in a calculated diagram
+- [Gd–H phases](https://data.orchid-project.org/phases/pages/GD-H.md): 5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 5 stable in a calculated diagram
+- [Gd–Li phases](https://data.orchid-project.org/phases/pages/GD-LI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Mg phases](https://data.orchid-project.org/phases/pages/GD-MG.md): 12 phases (tier A 9, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Gd–Mn phases](https://data.orchid-project.org/phases/pages/GD-MN.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Gd–Mo phases](https://data.orchid-project.org/phases/pages/GD-MO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Nb phases](https://data.orchid-project.org/phases/pages/GD-NB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Ni phases](https://data.orchid-project.org/phases/pages/GD-NI.md): 15 phases (tier A 7, tier C 3, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram
+- [Gd–O phases](https://data.orchid-project.org/phases/pages/GD-O.md): 11 phases (tier A 3, tier C 5, liquid 1, gas 2); 7 stable in a calculated diagram
+- [Gd–Pb phases](https://data.orchid-project.org/phases/pages/GD-PB.md): 11 phases (tier A 5, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [Gd–Pd phases](https://data.orchid-project.org/phases/pages/GD-PD.md): 14 phases (tier A 8, tier C 1, liquid 1, needs_review 4); 14 stable in a calculated diagram
+- [Gd–Ru phases](https://data.orchid-project.org/phases/pages/GD-RU.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Gd–Sb phases](https://data.orchid-project.org/phases/pages/GD-SB.md): 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Gd–Sc phases](https://data.orchid-project.org/phases/pages/GD-SC.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Si phases](https://data.orchid-project.org/phases/pages/GD-SI.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Gd–Sm phases](https://data.orchid-project.org/phases/pages/GD-SM.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Gd–Sr phases](https://data.orchid-project.org/phases/pages/GD-SR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Gd–Te phases](https://data.orchid-project.org/phases/pages/GD-TE.md): 11 phases (tier A 5, tier C 5, liquid 1); 10 stable in a calculated diagram
+- [Gd–Ti phases](https://data.orchid-project.org/phases/pages/GD-TI.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Gd–Tl phases](https://data.orchid-project.org/phases/pages/GD-TL.md): 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Gd–W phases](https://data.orchid-project.org/phases/pages/GD-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Y phases](https://data.orchid-project.org/phases/pages/GD-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Gd–Zn phases](https://data.orchid-project.org/phases/pages/GD-ZN.md): 12 phases (tier A 5, tier C 5, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Gd–Zr phases](https://data.orchid-project.org/phases/pages/GD-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ge–Hf phases](https://data.orchid-project.org/phases/pages/GE-HF.md): 11 phases (tier A 8, tier C 2, liquid 1); 10 stable in a calculated diagram
+- [Ge–In phases](https://data.orchid-project.org/phases/pages/GE-IN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ge–K phases](https://data.orchid-project.org/phases/pages/GE-K.md): 8 phases (tier A 4, tier B 1, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Ge–Li phases](https://data.orchid-project.org/phases/pages/GE-LI.md): 16 phases (tier A 5, tier C 9, liquid 1, needs_review 1); 14 stable in a calculated diagram
+- [Ge–Lu phases](https://data.orchid-project.org/phases/pages/GE-LU.md): 12 phases (tier A 5, tier C 2, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Ge–Mg phases](https://data.orchid-project.org/phases/pages/GE-MG.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Ge–Mn phases](https://data.orchid-project.org/phases/pages/GE-MN.md): 14 phases (tier A 9, tier C 1, liquid 1, needs_review 3); 13 stable in a calculated diagram
+- [Ge–Na phases](https://data.orchid-project.org/phases/pages/GE-NA.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 6 stable in a calculated diagram
+- [Ge–Nb phases](https://data.orchid-project.org/phases/pages/GE-NB.md): 9 phases (tier A 8, liquid 1); 7 stable in a calculated diagram
+- [Ge–Ni phases](https://data.orchid-project.org/phases/pages/GE-NI.md): 15 phases (tier A 8, tier C 1, liquid 1, needs_review 5); 13 stable in a calculated diagram
+- [Ge–O phases](https://data.orchid-project.org/phases/pages/GE-O.md): 10 phases (tier A 5, liquid 2, gas 2, needs_review 1); 5 stable in a calculated diagram
+- [Ge–P phases](https://data.orchid-project.org/phases/pages/GE-P.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 4 stable in a calculated diagram
+- [Ge–Pb phases](https://data.orchid-project.org/phases/pages/GE-PB.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ge–Pt phases](https://data.orchid-project.org/phases/pages/GE-PT.md): 11 phases (tier A 7, tier B 1, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ge–Ru phases](https://data.orchid-project.org/phases/pages/GE-RU.md): 8 phases (tier A 4, tier C 2, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ge–S phases](https://data.orchid-project.org/phases/pages/GE-S.md): 10 phases (tier A 6, liquid 1, needs_review 3); 7 stable in a calculated diagram
+- [Ge–Sb phases](https://data.orchid-project.org/phases/pages/GE-SB.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ge–Sc phases](https://data.orchid-project.org/phases/pages/GE-SC.md): 10 phases (tier A 7, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ge–Se phases](https://data.orchid-project.org/phases/pages/GE-SE.md): 11 phases (tier A 7, tier C 3, liquid 1); 8 stable in a calculated diagram
+- [Ge–Si phases](https://data.orchid-project.org/phases/pages/GE-SI.md): 5 phases (tier A 4, liquid 1); 2 stable in a calculated diagram
+- [Ge–Sn phases](https://data.orchid-project.org/phases/pages/GE-SN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Ge–Sr phases](https://data.orchid-project.org/phases/pages/GE-SR.md): 9 phases (tier A 7, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ge–Ta phases](https://data.orchid-project.org/phases/pages/GE-TA.md): 9 phases (tier A 7, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Ge–Te phases](https://data.orchid-project.org/phases/pages/GE-TE.md): 9 phases (tier A 6, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ge–Ti phases](https://data.orchid-project.org/phases/pages/GE-TI.md): 9 phases (tier A 6, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Ge–Tl phases](https://data.orchid-project.org/phases/pages/GE-TL.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ge–Tm phases](https://data.orchid-project.org/phases/pages/GE-TM.md): 14 phases (tier A 6, tier C 3, liquid 1, needs_review 4); 12 stable in a calculated diagram
+- [Ge–V phases](https://data.orchid-project.org/phases/pages/GE-V.md): 9 phases (tier A 6, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Ge–Y phases](https://data.orchid-project.org/phases/pages/GE-Y.md): 15 phases (tier A 6, tier C 4, liquid 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram
+- [Ge–Yb phases](https://data.orchid-project.org/phases/pages/GE-YB.md): 11 phases (tier A 6, tier C 4, liquid 1); 10 stable in a calculated diagram
+- [Ge–Zn phases](https://data.orchid-project.org/phases/pages/GE-ZN.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ge–Zr phases](https://data.orchid-project.org/phases/pages/GE-ZR.md): 10 phases (tier A 7, tier B 1, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [H–La phases](https://data.orchid-project.org/phases/pages/H-LA.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 6 stable in a calculated diagram
+- [H–Li phases](https://data.orchid-project.org/phases/pages/H-LI.md): 6 phases (tier A 4, liquid 1, gas 1); 4 stable in a calculated diagram
+- [H–Mg phases](https://data.orchid-project.org/phases/pages/H-MG.md): 6 phases (tier A 4, liquid 1, gas 1); 4 stable in a calculated diagram
+- [H–Mn phases](https://data.orchid-project.org/phases/pages/H-MN.md): 8 phases (tier A 5, liquid 1, gas 2); 8 stable in a calculated diagram
+- [H–Na phases](https://data.orchid-project.org/phases/pages/H-NA.md): 6 phases (tier A 4, liquid 1, gas 1); 4 stable in a calculated diagram
+- [H–Nb phases](https://data.orchid-project.org/phases/pages/H-NB.md): 8 phases (tier A 4, tier C 1, liquid 1, gas 2); 6 stable in a calculated diagram
+- [H–Nd phases](https://data.orchid-project.org/phases/pages/H-ND.md): 7 phases (tier A 3, tier C 1, liquid 1, gas 1, unresolved_no_candidates 1); 6 stable in a calculated diagram
+- [H–Ni phases](https://data.orchid-project.org/phases/pages/H-NI.md): 5 phases (tier A 3, liquid 1, gas 1); 3 stable in a calculated diagram
+- [H–O phases](https://data.orchid-project.org/phases/pages/H-O.md): 4 phases (liquid 1, gas 3); 2 stable in a calculated diagram
+- [H–Pd phases](https://data.orchid-project.org/phases/pages/H-PD.md): 5 phases (tier A 3, liquid 1, gas 1); 3 stable in a calculated diagram
+- [H–Rh phases](https://data.orchid-project.org/phases/pages/H-RH.md): 6 phases (tier A 3, liquid 1, gas 2); 4 stable in a calculated diagram
+- [H–Sm phases](https://data.orchid-project.org/phases/pages/H-SM.md): 9 phases (tier A 4, tier C 1, liquid 1, gas 2, needs_review 1); 8 stable in a calculated diagram
+- [H–Sr phases](https://data.orchid-project.org/phases/pages/H-SR.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram
+- [H–Ti phases](https://data.orchid-project.org/phases/pages/H-TI.md): 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram
+- [H–V phases](https://data.orchid-project.org/phases/pages/H-V.md): 10 phases (tier A 4, liquid 1, gas 2, needs_review 3); 5 stable in a calculated diagram
+- [H–Y phases](https://data.orchid-project.org/phases/pages/H-Y.md): 6 phases (tier A 2, liquid 1, gas 2, needs_review 1); 6 stable in a calculated diagram
+- [H–Zr phases](https://data.orchid-project.org/phases/pages/H-ZR.md): 9 phases (tier A 5, liquid 1, gas 2, needs_review 1); 9 stable in a calculated diagram
+- [Hf–Ir phases](https://data.orchid-project.org/phases/pages/HF-IR.md): 10 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Hf–Mn phases](https://data.orchid-project.org/phases/pages/HF-MN.md): 9 phases (tier A 7, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Hf–Mo phases](https://data.orchid-project.org/phases/pages/HF-MO.md): 7 phases (tier A 6, liquid 1); 5 stable in a calculated diagram
+- [Hf–N phases](https://data.orchid-project.org/phases/pages/HF-N.md): 8 phases (tier A 3, tier C 2, liquid 1, gas 2); 8 stable in a calculated diagram
+- [Hf–Nb phases](https://data.orchid-project.org/phases/pages/HF-NB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Hf–Ni phases](https://data.orchid-project.org/phases/pages/HF-NI.md): 19 phases (tier A 8, tier C 7, liquid 1, needs_review 2, unresolved_no_candidates 1); 18 stable in a calculated diagram
+- [Hf–O phases](https://data.orchid-project.org/phases/pages/HF-O.md): 9 phases (tier A 4, tier C 2, liquid 1, gas 2); 8 stable in a calculated diagram
+- [Hf–Os phases](https://data.orchid-project.org/phases/pages/HF-OS.md): 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Hf–Pt phases](https://data.orchid-project.org/phases/pages/HF-PT.md): 11 phases (tier A 6, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Hf–Ru phases](https://data.orchid-project.org/phases/pages/HF-RU.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Hf–Si phases](https://data.orchid-project.org/phases/pages/HF-SI.md): 11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Hf–Sn phases](https://data.orchid-project.org/phases/pages/HF-SN.md): 9 phases (tier A 7, tier B 1, liquid 1); 7 stable in a calculated diagram
+- [Hf–Ta phases](https://data.orchid-project.org/phases/pages/HF-TA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Hf–Ti phases](https://data.orchid-project.org/phases/pages/HF-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Hf–V phases](https://data.orchid-project.org/phases/pages/HF-V.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Hf–W phases](https://data.orchid-project.org/phases/pages/HF-W.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Hf–Zr phases](https://data.orchid-project.org/phases/pages/HF-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Hg–In phases](https://data.orchid-project.org/phases/pages/HG-IN.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Hg–Mg phases](https://data.orchid-project.org/phases/pages/HG-MG.md): 11 phases (tier A 8, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Hg–Pb phases](https://data.orchid-project.org/phases/pages/HG-PB.md): 6 phases (tier A 4, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Hg–Sn phases](https://data.orchid-project.org/phases/pages/HG-SN.md): 8 phases (tier A 3, tier C 1, liquid 1, needs_review 3); 5 stable in a calculated diagram
+- [Hg–Te phases](https://data.orchid-project.org/phases/pages/HG-TE.md): 7 phases (tier A 5, liquid 2); 4 stable in a calculated diagram
+- [Hg–Tl phases](https://data.orchid-project.org/phases/pages/HG-TL.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Hg–Zn phases](https://data.orchid-project.org/phases/pages/HG-ZN.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 3 stable in a calculated diagram
+- [Ho–Mg phases](https://data.orchid-project.org/phases/pages/HO-MG.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Ho–Mn phases](https://data.orchid-project.org/phases/pages/HO-MN.md): 9 phases (tier A 6, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Ho–Mo phases](https://data.orchid-project.org/phases/pages/HO-MO.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ho–Ni phases](https://data.orchid-project.org/phases/pages/HO-NI.md): 13 phases (tier A 7, tier B 1, tier C 4, liquid 1); 12 stable in a calculated diagram
+- [Ho–O phases](https://data.orchid-project.org/phases/pages/HO-O.md): 7 phases (tier A 2, tier C 3, liquid 1, gas 1); 5 stable in a calculated diagram
+- [Ho–Pd phases](https://data.orchid-project.org/phases/pages/HO-PD.md): 14 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 4); 14 stable in a calculated diagram
+- [Ho–Sb phases](https://data.orchid-project.org/phases/pages/HO-SB.md): 13 phases (tier A 7, tier C 1, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram
+- [Ho–Sn phases](https://data.orchid-project.org/phases/pages/HO-SN.md): 13 phases (tier A 7, tier B 1, tier C 3, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Ho–Tb phases](https://data.orchid-project.org/phases/pages/HO-TB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ho–Te phases](https://data.orchid-project.org/phases/pages/HO-TE.md): 8 phases (tier A 5, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [Ho–V phases](https://data.orchid-project.org/phases/pages/HO-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ho–W phases](https://data.orchid-project.org/phases/pages/HO-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ho–Zn phases](https://data.orchid-project.org/phases/pages/HO-ZN.md): 12 phases (tier A 5, tier C 6, liquid 1); 10 stable in a calculated diagram
+- [In–Ir phases](https://data.orchid-project.org/phases/pages/IN-IR.md): 9 phases (tier A 6, tier C 1, liquid 1, unresolved_no_candidates 1); 6 stable in a calculated diagram
+- [In–La phases](https://data.orchid-project.org/phases/pages/IN-LA.md): 13 phases (tier A 9, tier C 2, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [In–Li phases](https://data.orchid-project.org/phases/pages/IN-LI.md): 11 phases (tier A 6, tier B 1, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [In–Mn phases](https://data.orchid-project.org/phases/pages/IN-MN.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [In–N phases](https://data.orchid-project.org/phases/pages/IN-N.md): 8 phases (tier A 5, liquid 1, gas 2); 3 stable in a calculated diagram
+- [In–Na phases](https://data.orchid-project.org/phases/pages/IN-NA.md): 8 phases (tier A 5, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [In–Ni phases](https://data.orchid-project.org/phases/pages/IN-NI.md): 13 phases (tier A 11, tier C 1, liquid 1); 11 stable in a calculated diagram
+- [In–O phases](https://data.orchid-project.org/phases/pages/IN-O.md): 8 phases (tier A 5, liquid 1, gas 2); 5 stable in a calculated diagram
+- [In–P phases](https://data.orchid-project.org/phases/pages/IN-P.md): 9 phases (tier A 5, liquid 1, gas 1, needs_review 2); 5 stable in a calculated diagram
+- [In–Pb phases](https://data.orchid-project.org/phases/pages/IN-PB.md): 6 phases (tier A 4, tier C 1, liquid 1); 4 stable in a calculated diagram
+- [In–Pd phases](https://data.orchid-project.org/phases/pages/IN-PD.md): 13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [In–Pt phases](https://data.orchid-project.org/phases/pages/IN-PT.md): 16 phases (tier A 9, tier C 4, liquid 1, needs_review 1, unresolved_no_candidates 1); 13 stable in a calculated diagram
+- [In–S phases](https://data.orchid-project.org/phases/pages/IN-S.md): 13 phases (tier A 6, tier C 4, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [In–Sb phases](https://data.orchid-project.org/phases/pages/IN-SB.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [In–Sc phases](https://data.orchid-project.org/phases/pages/IN-SC.md): 11 phases (tier A 8, tier B 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [In–Se phases](https://data.orchid-project.org/phases/pages/IN-SE.md): 15 phases (tier A 6, tier C 3, liquid 1, needs_review 5); 12 stable in a calculated diagram
+- [In–Si phases](https://data.orchid-project.org/phases/pages/IN-SI.md): 3 phases (tier A 2, liquid 1); 3 stable in a calculated diagram
+- [In–Sn phases](https://data.orchid-project.org/phases/pages/IN-SN.md): 9 phases (tier A 7, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [In–Sr phases](https://data.orchid-project.org/phases/pages/IN-SR.md): 13 phases (tier A 7, tier C 4, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [In–Te phases](https://data.orchid-project.org/phases/pages/IN-TE.md): 13 phases (tier A 7, tier C 3, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [In–V phases](https://data.orchid-project.org/phases/pages/IN-V.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [In–Y phases](https://data.orchid-project.org/phases/pages/IN-Y.md): 10 phases (tier A 8, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [In–Yb phases](https://data.orchid-project.org/phases/pages/IN-YB.md): 10 phases (tier A 7, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [In–Zn phases](https://data.orchid-project.org/phases/pages/IN-ZN.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ir–Mo phases](https://data.orchid-project.org/phases/pages/IR-MO.md): 9 phases (tier A 6, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Ir–Ni phases](https://data.orchid-project.org/phases/pages/IR-NI.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ir–Pd phases](https://data.orchid-project.org/phases/pages/IR-PD.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ir–Pt phases](https://data.orchid-project.org/phases/pages/IR-PT.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ir–Rh phases](https://data.orchid-project.org/phases/pages/IR-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ir–Ru phases](https://data.orchid-project.org/phases/pages/IR-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ir–Ti phases](https://data.orchid-project.org/phases/pages/IR-TI.md): 8 phases (tier A 7, liquid 1); 8 stable in a calculated diagram
+- [Ir–W phases](https://data.orchid-project.org/phases/pages/IR-W.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Ir–Zr phases](https://data.orchid-project.org/phases/pages/IR-ZR.md): 11 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [K–Na phases](https://data.orchid-project.org/phases/pages/K-NA.md): 5 phases (tier A 4, liquid 1); 2 stable in a calculated diagram
+- [K–Rb phases](https://data.orchid-project.org/phases/pages/K-RB.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [K–Sb phases](https://data.orchid-project.org/phases/pages/K-SB.md): 9 phases (tier A 5, tier C 3, liquid 1); 7 stable in a calculated diagram
+- [K–Te phases](https://data.orchid-project.org/phases/pages/K-TE.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [K–V phases](https://data.orchid-project.org/phases/pages/K-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [K–Zr phases](https://data.orchid-project.org/phases/pages/K-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [La–Mg phases](https://data.orchid-project.org/phases/pages/LA-MG.md): 18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram
+- [La–Mn phases](https://data.orchid-project.org/phases/pages/LA-MN.md): 8 phases (tier A 7, liquid 1); 6 stable in a calculated diagram
+- [La–Mo phases](https://data.orchid-project.org/phases/pages/LA-MO.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [La–Nd phases](https://data.orchid-project.org/phases/pages/LA-ND.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [La–Ni phases](https://data.orchid-project.org/phases/pages/LA-NI.md): 17 phases (tier A 8, tier C 3, liquid 1, needs_review 5); 16 stable in a calculated diagram
+- [La–O phases](https://data.orchid-project.org/phases/pages/LA-O.md): 15 phases (tier A 3, tier C 1, liquid 2, gas 2, needs_review 7); 11 stable in a calculated diagram
+- [La–Pb phases](https://data.orchid-project.org/phases/pages/LA-PB.md): 12 phases (tier A 7, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [La–Pr phases](https://data.orchid-project.org/phases/pages/LA-PR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [La–Pt phases](https://data.orchid-project.org/phases/pages/LA-PT.md): 12 phases (tier A 8, tier B 1, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [La–Pu phases](https://data.orchid-project.org/phases/pages/LA-PU.md): 11 phases (tier A 6, liquid 1, needs_review 4); 8 stable in a calculated diagram
+- [La–Sb phases](https://data.orchid-project.org/phases/pages/LA-SB.md): 10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [La–Sc phases](https://data.orchid-project.org/phases/pages/LA-SC.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [La–Si phases](https://data.orchid-project.org/phases/pages/LA-SI.md): 13 phases (tier A 8, tier C 2, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [La–Sn phases](https://data.orchid-project.org/phases/pages/LA-SN.md): 16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram
+- [La–Te phases](https://data.orchid-project.org/phases/pages/LA-TE.md): 9 phases (tier A 6, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [La–Ti phases](https://data.orchid-project.org/phases/pages/LA-TI.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [La–V phases](https://data.orchid-project.org/phases/pages/LA-V.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [La–W phases](https://data.orchid-project.org/phases/pages/LA-W.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [La–Y phases](https://data.orchid-project.org/phases/pages/LA-Y.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [La–Zn phases](https://data.orchid-project.org/phases/pages/LA-ZN.md): 16 phases (tier A 9, tier B 3, tier C 2, liquid 1, needs_review 1); 15 stable in a calculated diagram
+- [La–Zr phases](https://data.orchid-project.org/phases/pages/LA-ZR.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Li–Mg phases](https://data.orchid-project.org/phases/pages/LI-MG.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Li–Mn phases](https://data.orchid-project.org/phases/pages/LI-MN.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Li–N phases](https://data.orchid-project.org/phases/pages/LI-N.md): 7 phases (tier A 3, tier B 1, liquid 1, gas 2); 5 stable in a calculated diagram
+- [Li–Na phases](https://data.orchid-project.org/phases/pages/LI-NA.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Li–Ni phases](https://data.orchid-project.org/phases/pages/LI-NI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Li–O phases](https://data.orchid-project.org/phases/pages/LI-O.md): 9 phases (tier A 4, liquid 2, gas 2, needs_review 1); 6 stable in a calculated diagram
+- [Li–Pb phases](https://data.orchid-project.org/phases/pages/LI-PB.md): 10 phases (tier A 5, tier C 4, liquid 1); 9 stable in a calculated diagram
+- [Li–Sb phases](https://data.orchid-project.org/phases/pages/LI-SB.md): 8 phases (tier A 6, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Li–Sc phases](https://data.orchid-project.org/phases/pages/LI-SC.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Li–Si phases](https://data.orchid-project.org/phases/pages/LI-SI.md): 14 phases (tier A 5, tier C 6, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Li–Sn phases](https://data.orchid-project.org/phases/pages/LI-SN.md): 15 phases (tier A 5, tier C 7, liquid 1, needs_review 2); 13 stable in a calculated diagram
+- [Li–Sr phases](https://data.orchid-project.org/phases/pages/LI-SR.md): 6 phases (tier A 4, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Li–Te phases](https://data.orchid-project.org/phases/pages/LI-TE.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Li–V phases](https://data.orchid-project.org/phases/pages/LI-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Li–Zn phases](https://data.orchid-project.org/phases/pages/LI-ZN.md): 12 phases (tier A 4, tier C 2, liquid 1, needs_review 5); 11 stable in a calculated diagram
+- [Li–Zr phases](https://data.orchid-project.org/phases/pages/LI-ZR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Lu–Mn phases](https://data.orchid-project.org/phases/pages/LU-MN.md): 9 phases (tier A 7, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Lu–O phases](https://data.orchid-project.org/phases/pages/LU-O.md): 4 phases (tier A 1, tier C 1, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Lu–Pb phases](https://data.orchid-project.org/phases/pages/LU-PB.md): 10 phases (tier A 4, tier C 2, liquid 1, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Lu–Sb phases](https://data.orchid-project.org/phases/pages/LU-SB.md): 10 phases (tier A 5, tier C 2, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Lu–W phases](https://data.orchid-project.org/phases/pages/LU-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mg–Mn phases](https://data.orchid-project.org/phases/pages/MG-MN.md): 6 phases (tier A 5, liquid 1); 6 stable in a calculated diagram
+- [Mg–N phases](https://data.orchid-project.org/phases/pages/MG-N.md): 7 phases (tier A 4, liquid 1, gas 2); 5 stable in a calculated diagram
+- [Mg–Na phases](https://data.orchid-project.org/phases/pages/MG-NA.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mg–Nb phases](https://data.orchid-project.org/phases/pages/MG-NB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mg–Nd phases](https://data.orchid-project.org/phases/pages/MG-ND.md): 12 phases (tier A 7, tier C 4, liquid 1); 10 stable in a calculated diagram
+- [Mg–Ni phases](https://data.orchid-project.org/phases/pages/MG-NI.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Mg–O phases](https://data.orchid-project.org/phases/pages/MG-O.md): 8 phases (tier A 4, liquid 2, gas 2); 5 stable in a calculated diagram
+- [Mg–Pb phases](https://data.orchid-project.org/phases/pages/MG-PB.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Mg–Pd phases](https://data.orchid-project.org/phases/pages/MG-PD.md): 14 phases (tier A 9, tier C 1, liquid 1, needs_review 3); 13 stable in a calculated diagram
+- [Mg–Pr phases](https://data.orchid-project.org/phases/pages/MG-PR.md): 12 phases (tier A 10, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Mg–Pu phases](https://data.orchid-project.org/phases/pages/MG-PU.md): 11 phases (tier A 5, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [Mg–Ru phases](https://data.orchid-project.org/phases/pages/MG-RU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Mg–S phases](https://data.orchid-project.org/phases/pages/MG-S.md): 8 phases (tier A 4, liquid 2, needs_review 2); 0 stable in a calculated diagram
+- [Mg–Sb phases](https://data.orchid-project.org/phases/pages/MG-SB.md): 8 phases (tier A 6, liquid 2); 6 stable in a calculated diagram
+- [Mg–Sc phases](https://data.orchid-project.org/phases/pages/MG-SC.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Mg–Si phases](https://data.orchid-project.org/phases/pages/MG-SI.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Mg–Sm phases](https://data.orchid-project.org/phases/pages/MG-SM.md): 11 phases (tier A 8, tier C 2, liquid 1); 10 stable in a calculated diagram
+- [Mg–Sn phases](https://data.orchid-project.org/phases/pages/MG-SN.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [Mg–Sr phases](https://data.orchid-project.org/phases/pages/MG-SR.md): 8 phases (tier A 5, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Mg–Tb phases](https://data.orchid-project.org/phases/pages/MG-TB.md): 9 phases (tier A 6, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Mg–Ti phases](https://data.orchid-project.org/phases/pages/MG-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mg–Tl phases](https://data.orchid-project.org/phases/pages/MG-TL.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Mg–Tm phases](https://data.orchid-project.org/phases/pages/MG-TM.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Mg–V phases](https://data.orchid-project.org/phases/pages/MG-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mg–Y phases](https://data.orchid-project.org/phases/pages/MG-Y.md): 10 phases (tier A 8, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Mg–Yb phases](https://data.orchid-project.org/phases/pages/MG-YB.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Mg–Zn phases](https://data.orchid-project.org/phases/pages/MG-ZN.md): 12 phases (tier A 6, tier C 3, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Mg–Zr phases](https://data.orchid-project.org/phases/pages/MG-ZR.md): 5 phases (tier A 3, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram
+- [Mn–Mo phases](https://data.orchid-project.org/phases/pages/MN-MO.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Mn–N phases](https://data.orchid-project.org/phases/pages/MN-N.md): 11 phases (tier A 5, tier C 3, liquid 1, gas 2); 11 stable in a calculated diagram
+- [Mn–Nb phases](https://data.orchid-project.org/phases/pages/MN-NB.md): 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram
+- [Mn–Nd phases](https://data.orchid-project.org/phases/pages/MN-ND.md): 11 phases (tier A 9, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Mn–Ni phases](https://data.orchid-project.org/phases/pages/MN-NI.md): 13 phases (tier A 7, tier C 1, liquid 1, needs_review 3, unresolved_no_candidates 1); 12 stable in a calculated diagram
+- [Mn–O phases](https://data.orchid-project.org/phases/pages/MN-O.md): 16 phases (tier A 9, tier C 2, liquid 2, gas 2, needs_review 1); 15 stable in a calculated diagram
+- [Mn–P phases](https://data.orchid-project.org/phases/pages/MN-P.md): 13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Mn–Pb phases](https://data.orchid-project.org/phases/pages/MN-PB.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Mn–Pd phases](https://data.orchid-project.org/phases/pages/MN-PD.md): 13 phases (tier A 9, tier B 1, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Mn–Pr phases](https://data.orchid-project.org/phases/pages/MN-PR.md): 9 phases (tier A 8, liquid 1); 7 stable in a calculated diagram
+- [Mn–S phases](https://data.orchid-project.org/phases/pages/MN-S.md): 11 phases (tier A 7, liquid 2, needs_review 2); 9 stable in a calculated diagram
+- [Mn–Sb phases](https://data.orchid-project.org/phases/pages/MN-SB.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Mn–Sc phases](https://data.orchid-project.org/phases/pages/MN-SC.md): 9 phases (tier A 7, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Mn–Si phases](https://data.orchid-project.org/phases/pages/MN-SI.md): 14 phases (tier A 6, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram
+- [Mn–Sm phases](https://data.orchid-project.org/phases/pages/MN-SM.md): 9 phases (tier A 7, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Mn–Sn phases](https://data.orchid-project.org/phases/pages/MN-SN.md): 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Mn–Sr phases](https://data.orchid-project.org/phases/pages/MN-SR.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Mn–Ta phases](https://data.orchid-project.org/phases/pages/MN-TA.md): 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram
+- [Mn–Tb phases](https://data.orchid-project.org/phases/pages/MN-TB.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Mn–Te phases](https://data.orchid-project.org/phases/pages/MN-TE.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Mn–Ti phases](https://data.orchid-project.org/phases/pages/MN-TI.md): 18 phases (tier A 8, tier C 2, liquid 1, needs_review 7); 15 stable in a calculated diagram
+- [Mn–Tm phases](https://data.orchid-project.org/phases/pages/MN-TM.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Mn–U phases](https://data.orchid-project.org/phases/pages/MN-U.md): 10 phases (tier A 8, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Mn–V phases](https://data.orchid-project.org/phases/pages/MN-V.md): 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram
+- [Mn–W phases](https://data.orchid-project.org/phases/pages/MN-W.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Mn–Y phases](https://data.orchid-project.org/phases/pages/MN-Y.md): 9 phases (tier A 8, liquid 1); 9 stable in a calculated diagram
+- [Mn–Zn phases](https://data.orchid-project.org/phases/pages/MN-ZN.md): 14 phases (tier A 8, tier C 3, liquid 1, needs_review 2); 14 stable in a calculated diagram
+- [Mn–Zr phases](https://data.orchid-project.org/phases/pages/MN-ZR.md): 8 phases (tier A 7, liquid 1); 8 stable in a calculated diagram
+- [Mo–N phases](https://data.orchid-project.org/phases/pages/MO-N.md): 8 phases (tier A 3, tier C 1, liquid 1, gas 1, needs_review 2); 6 stable in a calculated diagram
+- [Mo–Nb phases](https://data.orchid-project.org/phases/pages/MO-NB.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Mo–Ni phases](https://data.orchid-project.org/phases/pages/MO-NI.md): 10 phases (tier A 3, tier C 5, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Mo–O phases](https://data.orchid-project.org/phases/pages/MO-O.md): 13 phases (tier A 3, tier C 3, liquid 2, gas 2, needs_review 3); 11 stable in a calculated diagram
+- [Mo–P phases](https://data.orchid-project.org/phases/pages/MO-P.md): 8 phases (tier A 4, tier B 1, liquid 1, needs_review 2); 5 stable in a calculated diagram
+- [Mo–Pd phases](https://data.orchid-project.org/phases/pages/MO-PD.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Mo–Pt phases](https://data.orchid-project.org/phases/pages/MO-PT.md): 8 phases (tier A 6, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Mo–Re phases](https://data.orchid-project.org/phases/pages/MO-RE.md): 11 phases (tier A 6, liquid 1, needs_review 4); 6 stable in a calculated diagram
+- [Mo–Ru phases](https://data.orchid-project.org/phases/pages/MO-RU.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Mo–S phases](https://data.orchid-project.org/phases/pages/MO-S.md): 10 phases (tier A 5, tier C 1, liquid 1, gas 1, needs_review 2); 7 stable in a calculated diagram
+- [Mo–Sc phases](https://data.orchid-project.org/phases/pages/MO-SC.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mo–Si phases](https://data.orchid-project.org/phases/pages/MO-SI.md): 10 phases (tier A 7, tier C 2, liquid 1); 8 stable in a calculated diagram
+- [Mo–Ta phases](https://data.orchid-project.org/phases/pages/MO-TA.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Mo–Th phases](https://data.orchid-project.org/phases/pages/MO-TH.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mo–Ti phases](https://data.orchid-project.org/phases/pages/MO-TI.md): 13 phases (tier A 4, tier C 3, liquid 1, needs_review 5); 11 stable in a calculated diagram
+- [Mo–U phases](https://data.orchid-project.org/phases/pages/MO-U.md): 7 phases (tier A 5, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Mo–V phases](https://data.orchid-project.org/phases/pages/MO-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Mo–W phases](https://data.orchid-project.org/phases/pages/MO-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Mo–Y phases](https://data.orchid-project.org/phases/pages/MO-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Mo–Zr phases](https://data.orchid-project.org/phases/pages/MO-ZR.md): 7 phases (tier A 6, liquid 1); 4 stable in a calculated diagram
+- [N–Nb phases](https://data.orchid-project.org/phases/pages/N-NB.md): 5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram
+- [N–Ni phases](https://data.orchid-project.org/phases/pages/N-NI.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 3 stable in a calculated diagram
+- [N–O phases](https://data.orchid-project.org/phases/pages/N-O.md): 4 phases (liquid 1, gas 3); 1 stable in a calculated diagram
+- [N–Si phases](https://data.orchid-project.org/phases/pages/N-SI.md): 8 phases (tier A 1, tier C 2, liquid 2, gas 2, needs_review 1); 7 stable in a calculated diagram
+- [N–Ta phases](https://data.orchid-project.org/phases/pages/N-TA.md): 6 phases (tier A 3, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram
+- [N–Ti phases](https://data.orchid-project.org/phases/pages/N-TI.md): 10 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 3); 10 stable in a calculated diagram
+- [N–U phases](https://data.orchid-project.org/phases/pages/N-U.md): 11 phases (tier A 5, liquid 1, gas 2, needs_review 3); 9 stable in a calculated diagram
+- [N–V phases](https://data.orchid-project.org/phases/pages/N-V.md): 5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram
+- [N–W phases](https://data.orchid-project.org/phases/pages/N-W.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 4 stable in a calculated diagram
+- [N–Zr phases](https://data.orchid-project.org/phases/pages/N-ZR.md): 6 phases (tier A 3, liquid 1, gas 2); 6 stable in a calculated diagram
+- [Na–O phases](https://data.orchid-project.org/phases/pages/NA-O.md): 12 phases (tier A 5, liquid 1, gas 2, needs_review 4); 6 stable in a calculated diagram
+- [Na–Rb phases](https://data.orchid-project.org/phases/pages/NA-RB.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Na–Sb phases](https://data.orchid-project.org/phases/pages/NA-SB.md): 7 phases (tier A 5, tier B 1, liquid 1); 5 stable in a calculated diagram
+- [Na–Si phases](https://data.orchid-project.org/phases/pages/NA-SI.md): 7 phases (tier A 4, liquid 1, needs_review 2); 5 stable in a calculated diagram
+- [Na–Sn phases](https://data.orchid-project.org/phases/pages/NA-SN.md): 16 phases (tier A 5, tier C 7, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Na–Sr phases](https://data.orchid-project.org/phases/pages/NA-SR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Na–Te phases](https://data.orchid-project.org/phases/pages/NA-TE.md): 8 phases (tier A 5, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [Na–Ti phases](https://data.orchid-project.org/phases/pages/NA-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Na–V phases](https://data.orchid-project.org/phases/pages/NA-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Na–Zn phases](https://data.orchid-project.org/phases/pages/NA-ZN.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Na–Zr phases](https://data.orchid-project.org/phases/pages/NA-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Nb–Ni phases](https://data.orchid-project.org/phases/pages/NB-NI.md): 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Nb–O phases](https://data.orchid-project.org/phases/pages/NB-O.md): 10 phases (tier A 3, tier B 1, tier C 2, liquid 2, gas 2); 7 stable in a calculated diagram
+- [Nb–P phases](https://data.orchid-project.org/phases/pages/NB-P.md): 10 phases (tier A 3, tier B 3, tier C 1, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Nb–Re phases](https://data.orchid-project.org/phases/pages/NB-RE.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Nb–Sb phases](https://data.orchid-project.org/phases/pages/NB-SB.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Nb–Si phases](https://data.orchid-project.org/phases/pages/NB-SI.md): 12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Nb–Sn phases](https://data.orchid-project.org/phases/pages/NB-SN.md): 9 phases (tier A 7, tier C 1, liquid 1); 6 stable in a calculated diagram
+- [Nb–Ta phases](https://data.orchid-project.org/phases/pages/NB-TA.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Nb–Ti phases](https://data.orchid-project.org/phases/pages/NB-TI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Nb–U phases](https://data.orchid-project.org/phases/pages/NB-U.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Nb–V phases](https://data.orchid-project.org/phases/pages/NB-V.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Nb–W phases](https://data.orchid-project.org/phases/pages/NB-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Nb–Y phases](https://data.orchid-project.org/phases/pages/NB-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Nb–Zn phases](https://data.orchid-project.org/phases/pages/NB-ZN.md): 10 phases (tier A 5, tier C 1, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Nb–Zr phases](https://data.orchid-project.org/phases/pages/NB-ZR.md): 7 phases (tier A 6, liquid 1); 3 stable in a calculated diagram
+- [Nd–Ni phases](https://data.orchid-project.org/phases/pages/ND-NI.md): 16 phases (tier A 10, tier C 4, liquid 1, needs_review 1); 14 stable in a calculated diagram
+- [Nd–O phases](https://data.orchid-project.org/phases/pages/ND-O.md): 10 phases (tier A 4, tier C 3, liquid 1, gas 2); 7 stable in a calculated diagram
+- [Nd–Pr phases](https://data.orchid-project.org/phases/pages/ND-PR.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Nd–Sb phases](https://data.orchid-project.org/phases/pages/ND-SB.md): 11 phases (tier A 8, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Nd–Sc phases](https://data.orchid-project.org/phases/pages/ND-SC.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Nd–Sn phases](https://data.orchid-project.org/phases/pages/ND-SN.md): 20 phases (tier A 9, tier B 3, tier C 2, liquid 1, needs_review 5); 17 stable in a calculated diagram
+- [Nd–Sr phases](https://data.orchid-project.org/phases/pages/ND-SR.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Nd–Ti phases](https://data.orchid-project.org/phases/pages/ND-TI.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Nd–U phases](https://data.orchid-project.org/phases/pages/ND-U.md): 7 phases (tier A 5, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [Nd–W phases](https://data.orchid-project.org/phases/pages/ND-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Nd–Y phases](https://data.orchid-project.org/phases/pages/ND-Y.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Nd–Zn phases](https://data.orchid-project.org/phases/pages/ND-ZN.md): 17 phases (tier A 7, tier B 1, tier C 5, liquid 1, needs_review 3); 15 stable in a calculated diagram
+- [Nd–Zr phases](https://data.orchid-project.org/phases/pages/ND-ZR.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Ni–O phases](https://data.orchid-project.org/phases/pages/NI-O.md): 8 phases (tier A 4, liquid 2, gas 2); 6 stable in a calculated diagram
+- [Ni–Os phases](https://data.orchid-project.org/phases/pages/NI-OS.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ni–P phases](https://data.orchid-project.org/phases/pages/NI-P.md): 14 phases (tier A 3, tier C 2, liquid 1, needs_review 8); 11 stable in a calculated diagram
+- [Ni–Pb phases](https://data.orchid-project.org/phases/pages/NI-PB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ni–Pd phases](https://data.orchid-project.org/phases/pages/NI-PD.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ni–Pr phases](https://data.orchid-project.org/phases/pages/NI-PR.md): 13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Ni–Pt phases](https://data.orchid-project.org/phases/pages/NI-PT.md): 6 phases (tier A 4, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Ni–Re phases](https://data.orchid-project.org/phases/pages/NI-RE.md): 6 phases (tier A 4, liquid 1, needs_review 1); 3 stable in a calculated diagram
+- [Ni–Rh phases](https://data.orchid-project.org/phases/pages/NI-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Ni–Ru phases](https://data.orchid-project.org/phases/pages/NI-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ni–Sb phases](https://data.orchid-project.org/phases/pages/NI-SB.md): 11 phases (tier A 7, liquid 1, needs_review 2, unresolved_no_candidates 1); 9 stable in a calculated diagram
+- [Ni–Sc phases](https://data.orchid-project.org/phases/pages/NI-SC.md): 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Ni–Se phases](https://data.orchid-project.org/phases/pages/NI-SE.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Ni–Si phases](https://data.orchid-project.org/phases/pages/NI-SI.md): 19 phases (tier A 8, tier C 5, liquid 1, needs_review 5); 17 stable in a calculated diagram
+- [Ni–Sm phases](https://data.orchid-project.org/phases/pages/NI-SM.md): 15 phases (tier A 9, tier C 2, liquid 1, needs_review 3); 14 stable in a calculated diagram
+- [Ni–Sn phases](https://data.orchid-project.org/phases/pages/NI-SN.md): 12 phases (tier A 7, tier C 1, liquid 1, needs_review 3); 10 stable in a calculated diagram
+- [Ni–Sr phases](https://data.orchid-project.org/phases/pages/NI-SR.md): 5 phases (tier A 3, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Ni–Ta phases](https://data.orchid-project.org/phases/pages/NI-TA.md): 14 phases (tier A 6, tier C 3, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [Ni–Tb phases](https://data.orchid-project.org/phases/pages/NI-TB.md): 12 phases (tier A 6, tier C 4, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Ni–Te phases](https://data.orchid-project.org/phases/pages/NI-TE.md): 12 phases (tier A 6, tier C 1, liquid 2, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Ni–Th phases](https://data.orchid-project.org/phases/pages/NI-TH.md): 12 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Ni–Ti phases](https://data.orchid-project.org/phases/pages/NI-TI.md): 14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [Ni–U phases](https://data.orchid-project.org/phases/pages/NI-U.md): 13 phases (tier A 7, tier C 2, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [Ni–V phases](https://data.orchid-project.org/phases/pages/NI-V.md): 12 phases (tier A 6, tier C 2, liquid 1, needs_review 3); 10 stable in a calculated diagram
+- [Ni–W phases](https://data.orchid-project.org/phases/pages/NI-W.md): 9 phases (tier A 4, tier C 2, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Ni–Y phases](https://data.orchid-project.org/phases/pages/NI-Y.md): 13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram
+- [Ni–Yb phases](https://data.orchid-project.org/phases/pages/NI-YB.md): 10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Ni–Zn phases](https://data.orchid-project.org/phases/pages/NI-ZN.md): 12 phases (tier A 9, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Ni–Zr phases](https://data.orchid-project.org/phases/pages/NI-ZR.md): 12 phases (tier A 5, tier C 1, liquid 1, needs_review 5); 12 stable in a calculated diagram
+- [Np–O phases](https://data.orchid-project.org/phases/pages/NP-O.md): 9 phases (tier A 4, tier C 1, liquid 2, gas 2); 8 stable in a calculated diagram
+- [Np–Pu phases](https://data.orchid-project.org/phases/pages/NP-PU.md): 11 phases (tier A 6, liquid 1, needs_review 4); 10 stable in a calculated diagram
+- [Np–U phases](https://data.orchid-project.org/phases/pages/NP-U.md): 9 phases (tier A 6, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Np–Zr phases](https://data.orchid-project.org/phases/pages/NP-ZR.md): 8 phases (tier A 5, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [O–Pb phases](https://data.orchid-project.org/phases/pages/O-PB.md): 13 phases (tier A 5, tier C 3, liquid 2, gas 2, needs_review 1); 9 stable in a calculated diagram
+- [O–Pd phases](https://data.orchid-project.org/phases/pages/O-PD.md): 7 phases (tier A 4, liquid 1, gas 2); 0 stable in a calculated diagram
+- [O–Pr phases](https://data.orchid-project.org/phases/pages/O-PR.md): 15 phases (tier A 3, tier C 9, liquid 1, gas 2); 13 stable in a calculated diagram
+- [O–Pu phases](https://data.orchid-project.org/phases/pages/O-PU.md): 14 phases (tier A 6, liquid 2, gas 2, needs_review 4); 10 stable in a calculated diagram
+- [O–Rh phases](https://data.orchid-project.org/phases/pages/O-RH.md): 8 phases (tier A 5, liquid 1, gas 2); 6 stable in a calculated diagram
+- [O–Ru phases](https://data.orchid-project.org/phases/pages/O-RU.md): 7 phases (tier A 4, liquid 1, gas 2); 5 stable in a calculated diagram
+- [O–Sc phases](https://data.orchid-project.org/phases/pages/O-SC.md): 6 phases (tier A 3, tier C 1, liquid 1, gas 1); 0 stable in a calculated diagram
+- [O–Si phases](https://data.orchid-project.org/phases/pages/O-SI.md): 17 phases (tier A 4, liquid 2, gas 2, needs_review 7, unresolved_no_candidates 2); 9 stable in a calculated diagram
+- [O–Sm phases](https://data.orchid-project.org/phases/pages/O-SM.md): 11 phases (tier A 4, tier C 5, liquid 1, gas 1); 6 stable in a calculated diagram
+- [O–Sn phases](https://data.orchid-project.org/phases/pages/O-SN.md): 11 phases (tier A 7, liquid 2, gas 2); 5 stable in a calculated diagram
+- [O–Sr phases](https://data.orchid-project.org/phases/pages/O-SR.md): 8 phases (tier A 4, liquid 1, gas 2, needs_review 1); 7 stable in a calculated diagram
+- [O–Ta phases](https://data.orchid-project.org/phases/pages/O-TA.md): 8 phases (tier A 3, tier C 2, liquid 2, gas 1); 6 stable in a calculated diagram
+- [O–Tb phases](https://data.orchid-project.org/phases/pages/O-TB.md): 8 phases (tier A 2, tier C 4, liquid 1, gas 1); 6 stable in a calculated diagram
+- [O–Th phases](https://data.orchid-project.org/phases/pages/O-TH.md): 6 phases (tier A 3, liquid 2, gas 1); 5 stable in a calculated diagram
+- [O–Ti phases](https://data.orchid-project.org/phases/pages/O-TI.md): 22 phases (tier A 5, tier C 9, liquid 2, gas 2, needs_review 4); 20 stable in a calculated diagram
+- [O–Tm phases](https://data.orchid-project.org/phases/pages/O-TM.md): 5 phases (tier A 1, tier C 2, liquid 1, gas 1); 4 stable in a calculated diagram
+- [O–U phases](https://data.orchid-project.org/phases/pages/O-U.md): 21 phases (tier A 5, tier C 1, liquid 2, gas 2, needs_review 7, unresolved_no_candidates 4); 19 stable in a calculated diagram
+- [O–V phases](https://data.orchid-project.org/phases/pages/O-V.md): 23 phases (tier A 4, tier C 8, liquid 2, gas 1, needs_review 8); 0 stable in a calculated diagram
+- [O–Y phases](https://data.orchid-project.org/phases/pages/O-Y.md): 10 phases (tier A 3, tier C 1, liquid 2, gas 2, needs_review 2); 8 stable in a calculated diagram
+- [O–Yb phases](https://data.orchid-project.org/phases/pages/O-YB.md): 7 phases (tier A 3, tier C 2, liquid 1, gas 1); 4 stable in a calculated diagram
+- [O–Zr phases](https://data.orchid-project.org/phases/pages/O-ZR.md): 15 phases (tier A 4, tier C 4, liquid 2, gas 2, needs_review 3); 14 stable in a calculated diagram
+- [Os–Pt phases](https://data.orchid-project.org/phases/pages/OS-PT.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Os–Si phases](https://data.orchid-project.org/phases/pages/OS-SI.md): 8 phases (tier A 4, tier B 1, tier C 2, liquid 1); 6 stable in a calculated diagram
+- [P–Sb phases](https://data.orchid-project.org/phases/pages/P-SB.md): 8 phases (tier A 4, liquid 1, gas 1, needs_review 2); 4 stable in a calculated diagram
+- [P–Si phases](https://data.orchid-project.org/phases/pages/P-SI.md): 10 phases (tier A 4, tier C 2, liquid 1, gas 1, needs_review 2); 6 stable in a calculated diagram
+- [P–Sn phases](https://data.orchid-project.org/phases/pages/P-SN.md): 12 phases (tier A 5, tier C 3, liquid 1, gas 1, needs_review 2); 7 stable in a calculated diagram
+- [P–Ti phases](https://data.orchid-project.org/phases/pages/P-TI.md): 13 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram
+- [P–Zn phases](https://data.orchid-project.org/phases/pages/P-ZN.md): 13 phases (tier A 3, liquid 1, gas 1, needs_review 8); 10 stable in a calculated diagram
+- [Pb–Pd phases](https://data.orchid-project.org/phases/pages/PB-PD.md): 11 phases (tier A 6, tier C 1, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Pb–Pt phases](https://data.orchid-project.org/phases/pages/PB-PT.md): 7 phases (tier A 5, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Pb–Pu phases](https://data.orchid-project.org/phases/pages/PB-PU.md): 15 phases (tier A 7, tier C 2, liquid 1, needs_review 5); 14 stable in a calculated diagram
+- [Pb–S phases](https://data.orchid-project.org/phases/pages/PB-S.md): 7 phases (tier A 5, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [Pb–Sb phases](https://data.orchid-project.org/phases/pages/PB-SB.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Pb–Sc phases](https://data.orchid-project.org/phases/pages/PB-SC.md): 6 phases (tier A 4, tier B 1, liquid 1); 6 stable in a calculated diagram
+- [Pb–Se phases](https://data.orchid-project.org/phases/pages/PB-SE.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Pb–Si phases](https://data.orchid-project.org/phases/pages/PB-SI.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Pb–Sn phases](https://data.orchid-project.org/phases/pages/PB-SN.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Pb–Te phases](https://data.orchid-project.org/phases/pages/PB-TE.md): 7 phases (tier A 5, liquid 2); 5 stable in a calculated diagram
+- [Pb–Tl phases](https://data.orchid-project.org/phases/pages/PB-TL.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Pb–U phases](https://data.orchid-project.org/phases/pages/PB-U.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Pb–Y phases](https://data.orchid-project.org/phases/pages/PB-Y.md): 8 phases (tier A 6, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Pb–Yb phases](https://data.orchid-project.org/phases/pages/PB-YB.md): 9 phases (tier A 8, liquid 1); 8 stable in a calculated diagram
+- [Pb–Zn phases](https://data.orchid-project.org/phases/pages/PB-ZN.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Pb–Zr phases](https://data.orchid-project.org/phases/pages/PB-ZR.md): 7 phases (tier A 4, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Pd–Pt phases](https://data.orchid-project.org/phases/pages/PD-PT.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Pd–Rh phases](https://data.orchid-project.org/phases/pages/PD-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Pd–Ru phases](https://data.orchid-project.org/phases/pages/PD-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Pd–S phases](https://data.orchid-project.org/phases/pages/PD-S.md): 10 phases (tier A 5, tier B 2, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Pd–Sb phases](https://data.orchid-project.org/phases/pages/PD-SB.md): 13 phases (tier A 6, tier B 1, tier C 3, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Pd–Sc phases](https://data.orchid-project.org/phases/pages/PD-SC.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Pd–Se phases](https://data.orchid-project.org/phases/pages/PD-SE.md): 14 phases (tier A 4, tier B 1, tier C 5, liquid 1, needs_review 3); 12 stable in a calculated diagram
+- [Pd–Si phases](https://data.orchid-project.org/phases/pages/PD-SI.md): 16 phases (tier A 7, tier C 2, liquid 1, needs_review 6); 14 stable in a calculated diagram
+- [Pd–Sm phases](https://data.orchid-project.org/phases/pages/PD-SM.md): 14 phases (tier A 7, tier B 1, tier C 1, liquid 1, needs_review 4); 14 stable in a calculated diagram
+- [Pd–Sn phases](https://data.orchid-project.org/phases/pages/PD-SN.md): 18 phases (tier A 9, tier C 3, liquid 1, needs_review 5); 15 stable in a calculated diagram
+- [Pd–Tb phases](https://data.orchid-project.org/phases/pages/PD-TB.md): 14 phases (tier A 7, tier B 1, tier C 2, liquid 1, needs_review 3); 13 stable in a calculated diagram
+- [Pd–Te phases](https://data.orchid-project.org/phases/pages/PD-TE.md): 13 phases (tier A 5, tier B 1, tier C 3, liquid 1, needs_review 3); 11 stable in a calculated diagram
+- [Pd–Ti phases](https://data.orchid-project.org/phases/pages/PD-TI.md): 10 phases (tier A 8, tier C 1, liquid 1); 10 stable in a calculated diagram
+- [Pd–Y phases](https://data.orchid-project.org/phases/pages/PD-Y.md): 15 phases (tier A 7, tier B 1, tier C 2, liquid 1, needs_review 4); 15 stable in a calculated diagram
+- [Pd–Yb phases](https://data.orchid-project.org/phases/pages/PD-YB.md): 17 phases (tier A 7, tier C 4, liquid 1, needs_review 5); 16 stable in a calculated diagram
+- [Pd–Zn phases](https://data.orchid-project.org/phases/pages/PD-ZN.md): 11 phases (tier A 8, tier C 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Pd–Zr phases](https://data.orchid-project.org/phases/pages/PD-ZR.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Pr–Sb phases](https://data.orchid-project.org/phases/pages/PR-SB.md): 11 phases (tier A 8, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Pr–Si phases](https://data.orchid-project.org/phases/pages/PR-SI.md): 12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Pr–W phases](https://data.orchid-project.org/phases/pages/PR-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Pr–Y phases](https://data.orchid-project.org/phases/pages/PR-Y.md): 7 phases (tier A 6, liquid 1); 5 stable in a calculated diagram
+- [Pr–Zn phases](https://data.orchid-project.org/phases/pages/PR-ZN.md): 17 phases (tier A 6, tier B 2, tier C 6, liquid 1, needs_review 2); 15 stable in a calculated diagram
+- [Pt–Rh phases](https://data.orchid-project.org/phases/pages/PT-RH.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Pt–Ru phases](https://data.orchid-project.org/phases/pages/PT-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Pt–Sb phases](https://data.orchid-project.org/phases/pages/PT-SB.md): 11 phases (tier A 8, tier B 1, tier C 1, liquid 1); 9 stable in a calculated diagram
+- [Pt–Si phases](https://data.orchid-project.org/phases/pages/PT-SI.md): 15 phases (tier A 7, tier B 1, tier C 4, liquid 1, needs_review 2); 13 stable in a calculated diagram
+- [Pt–Sn phases](https://data.orchid-project.org/phases/pages/PT-SN.md): 11 phases (tier A 9, tier B 1, liquid 1); 8 stable in a calculated diagram
+- [Pt–Ta phases](https://data.orchid-project.org/phases/pages/PT-TA.md): 9 phases (tier A 4, tier C 2, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Pt–Te phases](https://data.orchid-project.org/phases/pages/PT-TE.md): 9 phases (tier A 5, tier C 3, liquid 1); 7 stable in a calculated diagram
+- [Pt–Ti phases](https://data.orchid-project.org/phases/pages/PT-TI.md): 10 phases (tier A 7, tier B 1, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [Pt–V phases](https://data.orchid-project.org/phases/pages/PT-V.md): 8 phases (tier A 6, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Pt–Zr phases](https://data.orchid-project.org/phases/pages/PT-ZR.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram
+- [Pu–Th phases](https://data.orchid-project.org/phases/pages/PU-TH.md): 9 phases (tier A 4, liquid 1, needs_review 4); 9 stable in a calculated diagram
+- [Pu–U phases](https://data.orchid-project.org/phases/pages/PU-U.md): 12 phases (tier A 5, liquid 1, needs_review 6); 11 stable in a calculated diagram
+- [Pu–Zn phases](https://data.orchid-project.org/phases/pages/PU-ZN.md): 15 phases (tier A 5, tier C 3, liquid 1, needs_review 6); 15 stable in a calculated diagram
+- [Pu–Zr phases](https://data.orchid-project.org/phases/pages/PU-ZR.md): 9 phases (tier A 4, tier C 1, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Re–Ru phases](https://data.orchid-project.org/phases/pages/RE-RU.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [Re–Si phases](https://data.orchid-project.org/phases/pages/RE-SI.md): 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Re–Ta phases](https://data.orchid-project.org/phases/pages/RE-TA.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Re–Ti phases](https://data.orchid-project.org/phases/pages/RE-TI.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Re–U phases](https://data.orchid-project.org/phases/pages/RE-U.md): 8 phases (tier A 4, liquid 1, needs_review 3); 7 stable in a calculated diagram
+- [Re–W phases](https://data.orchid-project.org/phases/pages/RE-W.md): 8 phases (tier A 6, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Re–Y phases](https://data.orchid-project.org/phases/pages/RE-Y.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Re–Zr phases](https://data.orchid-project.org/phases/pages/RE-ZR.md): 8 phases (tier A 5, tier C 2, liquid 1); 7 stable in a calculated diagram
+- [Rh–Ru phases](https://data.orchid-project.org/phases/pages/RH-RU.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Rh–Ti phases](https://data.orchid-project.org/phases/pages/RH-TI.md): 8 phases (tier A 5, tier B 1, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Rh–Zr phases](https://data.orchid-project.org/phases/pages/RH-ZR.md): 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Ru–Sc phases](https://data.orchid-project.org/phases/pages/RU-SC.md): 11 phases (tier A 6, tier B 1, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Ru–Si phases](https://data.orchid-project.org/phases/pages/RU-SI.md): 10 phases (tier A 5, tier C 1, liquid 1, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram
+- [Ru–Sm phases](https://data.orchid-project.org/phases/pages/RU-SM.md): 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Ru–Sn phases](https://data.orchid-project.org/phases/pages/RU-SN.md): 8 phases (tier A 6, tier C 1, liquid 1); 5 stable in a calculated diagram
+- [Ru–Ti phases](https://data.orchid-project.org/phases/pages/RU-TI.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ru–U phases](https://data.orchid-project.org/phases/pages/RU-U.md): 12 phases (tier A 5, tier C 1, liquid 1, needs_review 5); 11 stable in a calculated diagram
+- [Ru–W phases](https://data.orchid-project.org/phases/pages/RU-W.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Ru–Y phases](https://data.orchid-project.org/phases/pages/RU-Y.md): 9 phases (tier A 5, tier C 3, liquid 1); 8 stable in a calculated diagram
+- [Ru–Zr phases](https://data.orchid-project.org/phases/pages/RU-ZR.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [S–Sb phases](https://data.orchid-project.org/phases/pages/S-SB.md): 8 phases (tier A 6, liquid 1, needs_review 1); 5 stable in a calculated diagram
+- [S–Se phases](https://data.orchid-project.org/phases/pages/S-SE.md): 6 phases (tier A 2, liquid 1, gas 1, needs_review 2); 5 stable in a calculated diagram
+- [S–Sn phases](https://data.orchid-project.org/phases/pages/S-SN.md): 13 phases (tier A 9, tier C 1, liquid 1, gas 1, needs_review 1); 8 stable in a calculated diagram
+- [S–Ti phases](https://data.orchid-project.org/phases/pages/S-TI.md): 13 phases (tier A 6, tier C 5, liquid 1, needs_review 1); 10 stable in a calculated diagram
+- [S–Zn phases](https://data.orchid-project.org/phases/pages/S-ZN.md): 9 phases (tier A 6, liquid 1, gas 1, needs_review 1); 0 stable in a calculated diagram
+- [Sb–Se phases](https://data.orchid-project.org/phases/pages/SB-SE.md): 8 phases (tier A 6, liquid 2); 5 stable in a calculated diagram
+- [Sb–Si phases](https://data.orchid-project.org/phases/pages/SB-SI.md): 3 phases (tier A 2, liquid 1); 3 stable in a calculated diagram
+- [Sb–Sm phases](https://data.orchid-project.org/phases/pages/SB-SM.md): 13 phases (tier A 8, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram
+- [Sb–Sn phases](https://data.orchid-project.org/phases/pages/SB-SN.md): 10 phases (tier A 6, liquid 1, needs_review 3); 6 stable in a calculated diagram
+- [Sb–Tb phases](https://data.orchid-project.org/phases/pages/SB-TB.md): 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Sb–Te phases](https://data.orchid-project.org/phases/pages/SB-TE.md): 14 phases (tier A 8, tier C 2, liquid 2, needs_review 2); 9 stable in a calculated diagram
+- [Sb–Tm phases](https://data.orchid-project.org/phases/pages/SB-TM.md): 10 phases (tier A 5, tier C 1, liquid 1, needs_review 3); 8 stable in a calculated diagram
+- [Sb–Y phases](https://data.orchid-project.org/phases/pages/SB-Y.md): 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram
+- [Sb–Yb phases](https://data.orchid-project.org/phases/pages/SB-YB.md): 13 phases (tier A 8, tier C 3, liquid 1, unresolved_no_candidates 1); 11 stable in a calculated diagram
+- [Sb–Zn phases](https://data.orchid-project.org/phases/pages/SB-ZN.md): 24 phases (tier A 5, tier C 5, liquid 1, needs_review 11, unresolved_no_candidates 2); 20 stable in a calculated diagram
+- [Sc–Si phases](https://data.orchid-project.org/phases/pages/SC-SI.md): 10 phases (tier A 6, liquid 1, needs_review 3); 9 stable in a calculated diagram
+- [Sc–Sn phases](https://data.orchid-project.org/phases/pages/SC-SN.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 9 stable in a calculated diagram
+- [Sc–Sr phases](https://data.orchid-project.org/phases/pages/SC-SR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Sc–Th phases](https://data.orchid-project.org/phases/pages/SC-TH.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Sc–V phases](https://data.orchid-project.org/phases/pages/SC-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Sc–W phases](https://data.orchid-project.org/phases/pages/SC-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Sc–Y phases](https://data.orchid-project.org/phases/pages/SC-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Sc–Zn phases](https://data.orchid-project.org/phases/pages/SC-ZN.md): 9 phases (tier A 5, tier C 3, liquid 1); 7 stable in a calculated diagram
+- [Sc–Zr phases](https://data.orchid-project.org/phases/pages/SC-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Se–Sn phases](https://data.orchid-project.org/phases/pages/SE-SN.md): 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram
+- [Se–Te phases](https://data.orchid-project.org/phases/pages/SE-TE.md): 3 phases (tier A 1, liquid 1, gas 1); 3 stable in a calculated diagram
+- [Se–Tl phases](https://data.orchid-project.org/phases/pages/SE-TL.md): 9 phases (tier A 5, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Se–Zn phases](https://data.orchid-project.org/phases/pages/SE-ZN.md): 5 phases (tier A 3, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Si–Sn phases](https://data.orchid-project.org/phases/pages/SI-SN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Si–Sr phases](https://data.orchid-project.org/phases/pages/SI-SR.md): 10 phases (tier A 8, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Si–Ta phases](https://data.orchid-project.org/phases/pages/SI-TA.md): 11 phases (tier A 8, tier B 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Si–Te phases](https://data.orchid-project.org/phases/pages/SI-TE.md): 11 phases (tier A 6, liquid 1, gas 1, needs_review 3); 8 stable in a calculated diagram
+- [Si–Ti phases](https://data.orchid-project.org/phases/pages/SI-TI.md): 10 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 1); 9 stable in a calculated diagram
+- [Si–Tl phases](https://data.orchid-project.org/phases/pages/SI-TL.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Si–U phases](https://data.orchid-project.org/phases/pages/SI-U.md): 15 phases (tier A 9, liquid 1, needs_review 5); 13 stable in a calculated diagram
+- [Si–V phases](https://data.orchid-project.org/phases/pages/SI-V.md): 9 phases (tier A 7, tier C 1, liquid 1); 7 stable in a calculated diagram
+- [Si–W phases](https://data.orchid-project.org/phases/pages/SI-W.md): 7 phases (tier A 6, liquid 1); 5 stable in a calculated diagram
+- [Si–Y phases](https://data.orchid-project.org/phases/pages/SI-Y.md): 12 phases (tier A 8, tier C 2, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Si–Yb phases](https://data.orchid-project.org/phases/pages/SI-YB.md): 11 phases (tier A 6, tier C 2, liquid 1, needs_review 2); 10 stable in a calculated diagram
+- [Si–Zn phases](https://data.orchid-project.org/phases/pages/SI-ZN.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Si–Zr phases](https://data.orchid-project.org/phases/pages/SI-ZR.md): 16 phases (tier A 10, tier C 1, liquid 1, needs_review 4); 15 stable in a calculated diagram
+- [Sm–Sn phases](https://data.orchid-project.org/phases/pages/SM-SN.md): 14 phases (tier A 9, tier C 3, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Sm–Ti phases](https://data.orchid-project.org/phases/pages/SM-TI.md): 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram
+- [Sm–W phases](https://data.orchid-project.org/phases/pages/SM-W.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Sm–Zn phases](https://data.orchid-project.org/phases/pages/SM-ZN.md): 13 phases (tier A 5, tier B 1, tier C 4, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Sn–Sr phases](https://data.orchid-project.org/phases/pages/SN-SR.md): 12 phases (tier A 8, tier B 1, tier C 2, liquid 1); 10 stable in a calculated diagram
+- [Sn–Ta phases](https://data.orchid-project.org/phases/pages/SN-TA.md): 8 phases (tier A 7, liquid 1); 5 stable in a calculated diagram
+- [Sn–Tb phases](https://data.orchid-project.org/phases/pages/SN-TB.md): 13 phases (tier A 7, tier C 4, liquid 1, needs_review 1); 11 stable in a calculated diagram
+- [Sn–Te phases](https://data.orchid-project.org/phases/pages/SN-TE.md): 8 phases (tier A 7, liquid 1); 4 stable in a calculated diagram
+- [Sn–Ti phases](https://data.orchid-project.org/phases/pages/SN-TI.md): 13 phases (tier A 8, tier C 4, liquid 1); 11 stable in a calculated diagram
+- [Sn–U phases](https://data.orchid-project.org/phases/pages/SN-U.md): 15 phases (tier A 7, tier C 6, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Sn–V phases](https://data.orchid-project.org/phases/pages/SN-V.md): 9 phases (tier A 5, liquid 1, needs_review 3); 6 stable in a calculated diagram
+- [Sn–Y phases](https://data.orchid-project.org/phases/pages/SN-Y.md): 12 phases (tier A 7, tier B 1, tier C 3, liquid 1); 10 stable in a calculated diagram
+- [Sn–Yb phases](https://data.orchid-project.org/phases/pages/SN-YB.md): 13 phases (tier A 10, tier C 2, liquid 1); 11 stable in a calculated diagram
+- [Sn–Zn phases](https://data.orchid-project.org/phases/pages/SN-ZN.md): 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram
+- [Sn–Zr phases](https://data.orchid-project.org/phases/pages/SN-ZR.md): 13 phases (tier A 10, liquid 1, needs_review 2); 8 stable in a calculated diagram
+- [Sr–Te phases](https://data.orchid-project.org/phases/pages/SR-TE.md): 8 phases (tier A 5, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [Sr–Ti phases](https://data.orchid-project.org/phases/pages/SR-TI.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Sr–V phases](https://data.orchid-project.org/phases/pages/SR-V.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Sr–Yb phases](https://data.orchid-project.org/phases/pages/SR-YB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Sr–Zn phases](https://data.orchid-project.org/phases/pages/SR-ZN.md): 9 phases (tier A 6, tier C 2, liquid 1); 9 stable in a calculated diagram
+- [Ta–Ti phases](https://data.orchid-project.org/phases/pages/TA-TI.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ta–V phases](https://data.orchid-project.org/phases/pages/TA-V.md): 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram
+- [Ta–W phases](https://data.orchid-project.org/phases/pages/TA-W.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ta–Zr phases](https://data.orchid-project.org/phases/pages/TA-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Tb–W phases](https://data.orchid-project.org/phases/pages/TB-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Tb–Zn phases](https://data.orchid-project.org/phases/pages/TB-ZN.md): 12 phases (tier A 5, tier C 6, liquid 1); 11 stable in a calculated diagram
+- [Te–Tl phases](https://data.orchid-project.org/phases/pages/TE-TL.md): 10 phases (tier A 4, tier B 1, tier C 3, liquid 2); 9 stable in a calculated diagram
+- [Te–Yb phases](https://data.orchid-project.org/phases/pages/TE-YB.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [Te–Zn phases](https://data.orchid-project.org/phases/pages/TE-ZN.md): 5 phases (tier A 3, liquid 1, gas 1); 4 stable in a calculated diagram
+- [Te–Zr phases](https://data.orchid-project.org/phases/pages/TE-ZR.md): 11 phases (tier A 7, tier B 3, liquid 1); 10 stable in a calculated diagram
+- [Th–U phases](https://data.orchid-project.org/phases/pages/TH-U.md): 8 phases (tier A 6, liquid 1, needs_review 1); 7 stable in a calculated diagram
+- [Th–Zn phases](https://data.orchid-project.org/phases/pages/TH-ZN.md): 8 phases (tier A 5, tier B 1, liquid 1, needs_review 1); 8 stable in a calculated diagram
+- [Th–Zr phases](https://data.orchid-project.org/phases/pages/TH-ZR.md): 4 phases (tier A 3, liquid 1); 4 stable in a calculated diagram
+- [Ti–Tm phases](https://data.orchid-project.org/phases/pages/TI-TM.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ti–U phases](https://data.orchid-project.org/phases/pages/TI-U.md): 7 phases (tier A 4, tier C 1, liquid 1, needs_review 1); 6 stable in a calculated diagram
+- [Ti–V phases](https://data.orchid-project.org/phases/pages/TI-V.md): 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram
+- [Ti–W phases](https://data.orchid-project.org/phases/pages/TI-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ti–Y phases](https://data.orchid-project.org/phases/pages/TI-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Ti–Zn phases](https://data.orchid-project.org/phases/pages/TI-ZN.md): 13 phases (tier A 6, tier B 1, tier C 4, liquid 1, needs_review 1); 12 stable in a calculated diagram
+- [Ti–Zr phases](https://data.orchid-project.org/phases/pages/TI-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Tl–Zn phases](https://data.orchid-project.org/phases/pages/TL-ZN.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Tm–W phases](https://data.orchid-project.org/phases/pages/TM-W.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [U–V phases](https://data.orchid-project.org/phases/pages/U-V.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [U–W phases](https://data.orchid-project.org/phases/pages/U-W.md): 6 phases (tier A 4, liquid 1, needs_review 1); 4 stable in a calculated diagram
+- [U–Zr phases](https://data.orchid-project.org/phases/pages/U-ZR.md): 8 phases (tier A 4, tier C 1, liquid 1, needs_review 2); 7 stable in a calculated diagram
+- [V–W phases](https://data.orchid-project.org/phases/pages/V-W.md): 4 phases (tier A 3, liquid 1); 2 stable in a calculated diagram
+- [V–Y phases](https://data.orchid-project.org/phases/pages/V-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [V–Zn phases](https://data.orchid-project.org/phases/pages/V-ZN.md): 8 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram
+- [V–Zr phases](https://data.orchid-project.org/phases/pages/V-ZR.md): 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram
+- [W–Y phases](https://data.orchid-project.org/phases/pages/W-Y.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [W–Yb phases](https://data.orchid-project.org/phases/pages/W-YB.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [W–Zr phases](https://data.orchid-project.org/phases/pages/W-ZR.md): 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram
+- [Y–Zn phases](https://data.orchid-project.org/phases/pages/Y-ZN.md): 13 phases (tier A 5, tier C 5, liquid 1, needs_review 2); 12 stable in a calculated diagram
+- [Y–Zr phases](https://data.orchid-project.org/phases/pages/Y-ZR.md): 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram
+- [Zn–Zr phases](https://data.orchid-project.org/phases/pages/ZN-ZR.md): 12 phases (tier A 6, tier B 1, tier C 2, liquid 1, needs_review 2); 11 stable in a calculated diagram

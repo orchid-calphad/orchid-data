@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-RU.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 1, model 3); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-RU.json) · [CSV](https://data.orchid-project.org/systems/CE-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-RU/CeRu-23Kar.json) · [Markdown](https://data.orchid-project.org/systems/CE-RU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-RU.json) · [CSV](https://data.orchid-project.org/systems/CE-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-RU/CeRu-23Kar.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CE-RU.html) · [Markdown](https://data.orchid-project.org/systems/CE-RU.md)
 
 Table: Accepted values by evidence class
 

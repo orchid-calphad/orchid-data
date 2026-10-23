@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-PB.html · Markdown: https://da
 
 2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-PB.json) · [CSV](https://data.orchid-project.org/systems/GE-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-PB/GePb-89Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/GE-PB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-PB.json) · [CSV](https://data.orchid-project.org/systems/GE-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-PB/GePb-89Che-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-PB.html) · [Markdown](https://data.orchid-project.org/systems/GE-PB.md)
 
 Table: Accepted values by evidence class
 

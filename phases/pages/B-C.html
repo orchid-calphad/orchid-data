@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>B–C phases — ORCHID phase registry</title>
+<meta name="description" content="B–C system: 5 phases (tier A 2, liquid 1, needs_review 2); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/B-C.html">
+<link rel="alternate" type="text/markdown" href="B-C.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"B–C system: 5 phases (tier A 2, liquid 1, needs_review 2); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/B-C.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/B-C.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:b-c:a4-diamond","@type":"DefinedTerm","alternateName":["corpus:phase:b-c:a4-diamond","tdb:BC-12Sae.tdb:DIAMOND_A4","tdb:BC-14Rog.tdb:DIAMOND_A4","tdb:BC-24Eno.tdb:DIAMOND_A4","tdb:BC-94Kas.tdb:DIAMOND_A4","tdb:BC-98Kas-LB.tdb:DIAMOND_A4"],"chemicalSystem":"B-C","citation":[{"@id":"https://doi.org/10.1007/s11669-024-01162-3","@type":"ScholarlyArticle","name":"Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024)."},{"@id":"https://doi.org/10.1016/j.actamat.2012.09.029","@type":"ScholarlyArticle","name":"Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.016","@type":"ScholarlyArticle","name":"Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DIAMOND_A4","pearsonSymbol":"cF8","prototype":"C (diamond)","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a4-c-diamond-cf8","strukturbericht":"A4","termCode":"phase:b-c:a4-diamond","url":"https://data.orchid-project.org/phases/pages/B-C.html#phase-b-c-a4-diamond"},{"@id":"https://data.orchid-project.org/phases/#phase:b-c:a9-graphite","@type":"DefinedTerm","alternateName":["corpus:phase:b-c:a9-graphite","corpus:phase:b-c:graphite-a9","paper:10.1016/j.actamat.2012.09.029:Graphite","paper:10.1016/s0364-5916(98)00037-6:graphite","tdb:BC-12Sae.tdb:GRAPHITE_A9","tdb:BC-14Rog.tdb:GRAPHITE_A9","tdb:BC-24Eno.tdb:GRAPHITE_A9","tdb:BC-94Kas.tdb:GRAPHITE_A9","tdb:BC-98Kas-LB.tdb:GRAPHITE_A9"],"chemicalSystem":"B-C","citation":[{"@id":"https://doi.org/10.1016/j.actamat.2012.09.029","@type":"ScholarlyArticle","name":"Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012)."},{"@id":"https://doi.org/10.1007/s11669-024-01162-3","@type":"ScholarlyArticle","name":"Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.016","@type":"ScholarlyArticle","name":"Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014)."},{"@id":"https://doi.org/10.1016/s0364-5916(98)00037-6","@type":"ScholarlyArticle","name":"M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GRAPHITE_A9","pearsonSymbol":"hP4","prototype":"C (graphite)","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a9-c-graphite-hp4","strukturbericht":"A9","termCode":"phase:b-c:a9-graphite","url":"https://data.orchid-project.org/phases/pages/B-C.html#phase-b-c-a9-graphite"},{"@id":"https://data.orchid-project.org/phases/#phase:b-c:b-beta-rhombo","@type":"DefinedTerm","alternateName":["corpus:phase:b-c:b-beta-rhombo","corpus:phase:b-c:beta-rhombo-b","paper:10.1016/j.actamat.2012.09.029:β-boron","paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B","tdb:BC-12Sae.tdb:BETA_RHOMBO_B","tdb:BC-14Rog.tdb:BETA_RHOMBO_B","tdb:BC-24Eno.tdb:BETA_RHOMBO_B","tdb:BC-94Kas.tdb:BETA_RHOMBO_B","tdb:BC-98Kas-LB.tdb:BETA_RHOMBO_B"],"chemicalSystem":"B-C","citation":[{"@id":"https://doi.org/10.1016/j.actamat.2012.09.029","@type":"ScholarlyArticle","name":"Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012)."},{"@id":"https://doi.org/10.1007/s11669-024-01162-3","@type":"ScholarlyArticle","name":"Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.016","@type":"ScholarlyArticle","name":"Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014)."},{"@id":"https://doi.org/10.1016/s0364-5916(98)00037-6","@type":"ScholarlyArticle","name":"M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BETA_RHOMBO_B","reviewStatus":"needs_review","termCode":"phase:b-c:b-beta-rhombo","url":"https://data.orchid-project.org/phases/pages/B-C.html#phase-b-c-b-beta-rhombo"},{"@id":"https://data.orchid-project.org/phases/#phase:b-c:b4c-d1g","@type":"DefinedTerm","alternateName":["corpus:phase:b-c:b4c-d1g","paper:10.1016/j.actamat.2012.09.029:B4+xC","paper:10.1016/s0364-5916(98)00037-6:B4C","tdb:BC-12Sae.tdb:B4C_D1G","tdb:BC-14Rog.tdb:B4C_D1G","tdb:BC-24Eno.tdb:B4C_D1G","tdb:BC-94Kas.tdb:B4C_D1G","tdb:BC-98Kas-LB.tdb:B4C_D1G"],"chemicalSystem":"B-C","citation":[{"@id":"https://doi.org/10.1016/j.actamat.2012.09.029","@type":"ScholarlyArticle","name":"Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012)."},{"@id":"https://doi.org/10.1007/s11669-024-01162-3","@type":"ScholarlyArticle","name":"Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.016","@type":"ScholarlyArticle","name":"Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014)."},{"@id":"https://doi.org/10.1016/s0364-5916(98)00037-6","@type":"ScholarlyArticle","name":"M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998)."},{"@id":"https://doi.org/10.1016/0022-5088(83)90067-x","@type":"ScholarlyArticle","name":"M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"B4C_D1G","reviewStatus":"needs_review","termCode":"phase:b-c:b4c-d1g","url":"https://data.orchid-project.org/phases/pages/B-C.html#phase-b-c-b4c-d1g"},{"@id":"https://data.orchid-project.org/phases/#phase:b-c:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:b-c:liquid","paper:10.1016/j.actamat.2012.09.029:Liquid","paper:10.1016/s0364-5916(98)00037-6:Liquid","tdb:BC-12Sae.tdb:LIQUID","tdb:BC-14Rog.tdb:LIQUID","tdb:BC-24Eno.tdb:LIQUID","tdb:BC-94Kas.tdb:LIQUID","tdb:BC-98Kas-LB.tdb:LIQUID"],"chemicalSystem":"B-C","citation":[{"@id":"https://doi.org/10.1016/j.actamat.2012.09.029","@type":"ScholarlyArticle","name":"Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012)."},{"@id":"https://doi.org/10.1007/s11669-024-01162-3","@type":"ScholarlyArticle","name":"Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.016","@type":"ScholarlyArticle","name":"Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014)."},{"@id":"https://doi.org/10.1016/s0364-5916(98)00037-6","@type":"ScholarlyArticle","name":"M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998)."},{"@id":"https://doi.org/10.1016/0022-5088(83)90067-x","@type":"ScholarlyArticle","name":"M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:b-c:liquid","url":"https://data.orchid-project.org/phases/pages/B-C.html#phase-b-c-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","B–C"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"B–C phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/B-C.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>B–C phases</h1>
+<p>5 phases (tier A 2, liquid 1, needs_review 2); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=B-C">interactive registry</a> · <a href="../systems/B-C.json">full JSON</a> · <a href="../../systems/B-C.html">B–C system page</a> · <a href="B-C.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the B–C system (5)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-b-c-a4-diamond">DIAMOND_A4</a><br><small>phase:b-c:a4-diamond</small></th><td>C (diamond) · A4 · cF8 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>not stable in 5 calculated diagram(s)</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-b-c-a9-graphite">GRAPHITE_A9</a><br><small>phase:b-c:a9-graphite</small></th><td>C (graphite) · A9 · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 0.97686–1</td><td class="n">3</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-b-c-b-beta-rhombo">BETA_RHOMBO_B</a><br><small>phase:b-c:b-beta-rhombo</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–2408.12 K, x(C) 0–0.01428</td><td class="n">3</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-b-c-b4c-d1g">B4C_D1G</a><br><small>phase:b-c:b4c-d1g</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–2742.41 K, x(C) 0.05–0.2</td><td class="n">9</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-b-c-liquid">LIQUID</a><br><small>phase:b-c:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 5 of 5 calculated diagram(s): 2346.16–4000 K, x(C) 0–0.61157</td><td class="n">9</td><td class="n">5</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-b-c-a4-diamond">DIAMOND_A4 (B–C)</h2>
+<ul>
+<li>Id: <code>phase:b-c:a4-diamond</code>; status <code>assigned</code></li>
+<li>Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type <code>st:a4-c-diamond-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 5 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-c:a4-diamond">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:b-c:a4-diamond<br><small>tdb: </small>tdb:BC-12Sae.tdb:DIAMOND_A4, tdb:BC-14Rog.tdb:DIAMOND_A4, tdb:BC-24Eno.tdb:DIAMOND_A4, tdb:BC-94Kas.tdb:DIAMOND_A4, tdb:BC-98Kas-LB.tdb:DIAMOND_A4<br></p>
+<h3>TDB models of DIAMOND_A4 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-12Sae.tdb">BC-12Sae.tdb</a>: DIAMOND_A4, type code %, sha256 <code>290e26418cf735dd…</code></p>
+<pre>40: PHASE DIAMOND_A4 % 1 1 !
+41: CONST DIAMOND_A4 : C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-14Rog.tdb">BC-14Rog.tdb</a>: DIAMOND_A4, type code %, sha256 <code>61f54c7a828b16dd…</code></p>
+<pre>39: PHASE DIAMOND_A4 % 1 1 !
+40: CONST DIAMOND_A4 : C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-24Eno.tdb">BC-24Eno.tdb</a>: DIAMOND_A4, type code %, sha256 <code>2105df9640f51822…</code></p>
+<pre>41: PHASE DIAMOND_A4 % 1 1 !
+42: CONST DIAMOND_A4 : C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-94Kas.tdb">BC-94Kas.tdb</a>: DIAMOND_A4, type code %, sha256 <code>178cb3073b3b2693…</code></p>
+<pre>40: PHASE DIAMOND_A4 % 1 1 !
+41: CONST DIAMOND_A4 : C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-98Kas-LB.tdb">BC-98Kas-LB.tdb</a>: DIAMOND_A4, type code %, sha256 <code>953024537b05421e…</code></p>
+<pre>38: PHASE DIAMOND_A4 % 1 1 !
+39: CONST DIAMOND_A4 : C : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-024-01162-3">doi:10.1007/s11669-024-01162-3</a> Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.actamat.2012.09.029">doi:10.1016/j.actamat.2012.09.029</a> Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.016">doi:10.1016/j.calphad.2013.07.016</a> Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-b-c-a9-graphite">GRAPHITE_A9 (B–C)</h2>
+<ul>
+<li>Id: <code>phase:b-c:a9-graphite</code>; status <code>assigned</code></li>
+<li>Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type <code>st:a9-c-graphite-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 0.97686–1</li>
+<li>Literature: 3 values (3 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-c:a9-graphite">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:b-c:a9-graphite, corpus:phase:b-c:graphite-a9<br><small>paper: </small>paper:10.1016/j.actamat.2012.09.029:Graphite, paper:10.1016/s0364-5916(98)00037-6:graphite<br><small>tdb: </small>tdb:BC-12Sae.tdb:GRAPHITE_A9, tdb:BC-14Rog.tdb:GRAPHITE_A9, tdb:BC-24Eno.tdb:GRAPHITE_A9, tdb:BC-94Kas.tdb:GRAPHITE_A9, tdb:BC-98Kas-LB.tdb:GRAPHITE_A9<br></p>
+<h3>TDB models of GRAPHITE_A9 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-12Sae.tdb">BC-12Sae.tdb</a>: GRAPHITE_A9, type code %, sha256 <code>290e26418cf735dd…</code></p>
+<pre>45: PHASE GRAPHITE_A9 % 1 1 !
+46: CONST GRAPHITE_A9 : B C% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-14Rog.tdb">BC-14Rog.tdb</a>: GRAPHITE_A9, type code %, sha256 <code>61f54c7a828b16dd…</code></p>
+<pre>44: PHASE GRAPHITE_A9 % 1 1 !
+45: CONST GRAPHITE_A9 : B C% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-24Eno.tdb">BC-24Eno.tdb</a>: GRAPHITE_A9, type code %, sha256 <code>2105df9640f51822…</code></p>
+<pre>46: PHASE GRAPHITE_A9 % 1 1 !
+47: CONST GRAPHITE_A9 : B C% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-94Kas.tdb">BC-94Kas.tdb</a>: GRAPHITE_A9, type code %, sha256 <code>178cb3073b3b2693…</code></p>
+<pre>45: PHASE GRAPHITE_A9 % 1 1 !
+46: CONST GRAPHITE_A9 : B C% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-98Kas-LB.tdb">BC-98Kas-LB.tdb</a>: GRAPHITE_A9, type code %, sha256 <code>953024537b05421e…</code></p>
+<pre>43: PHASE GRAPHITE_A9 % 1 1 !
+44: CONST GRAPHITE_A9 : B C% : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.actamat.2012.09.029">doi:10.1016/j.actamat.2012.09.029</a> Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-024-01162-3">doi:10.1007/s11669-024-01162-3</a> Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.016">doi:10.1016/j.calphad.2013.07.016</a> Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-b-c-b-beta-rhombo">BETA_RHOMBO_B (B–C)</h2>
+<ul>
+<li>Id: <code>phase:b-c:b-beta-rhombo</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token</li>
+<li>Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — BC-12Sae.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — BC-14Rog.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — BC-24Eno.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — BC-94Kas.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — BC-98Kas-LB.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–2408.12 K, x(C) 0–0.01428</li>
+<li>Literature: 3 values (3 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-c:b-beta-rhombo">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:b-c:b-beta-rhombo, corpus:phase:b-c:beta-rhombo-b<br><small>paper: </small>paper:10.1016/j.actamat.2012.09.029:β-boron, paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B<br><small>tdb: </small>tdb:BC-12Sae.tdb:BETA_RHOMBO_B, tdb:BC-14Rog.tdb:BETA_RHOMBO_B, tdb:BC-24Eno.tdb:BETA_RHOMBO_B, tdb:BC-94Kas.tdb:BETA_RHOMBO_B, tdb:BC-98Kas-LB.tdb:BETA_RHOMBO_B<br></p>
+<h3>TDB models of BETA_RHOMBO_B (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-12Sae.tdb">BC-12Sae.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>290e26418cf735dd…</code></p>
+<pre>35: PHASE BETA_RHOMBO_B % 2 101 4 !
+36: CONST BETA_RHOMBO_B : B : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-14Rog.tdb">BC-14Rog.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>61f54c7a828b16dd…</code></p>
+<pre>34: PHASE BETA_RHOMBO_B % 2 93 12 !
+35: CONST BETA_RHOMBO_B : B : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-24Eno.tdb">BC-24Eno.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>2105df9640f51822…</code></p>
+<pre>36: PHASE BETA_RHOMBO_B % 2 101 4 !
+37: CONST BETA_RHOMBO_B : B : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-94Kas.tdb">BC-94Kas.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>178cb3073b3b2693…</code></p>
+<pre>35: PHASE BETA_RHOMBO_B % 1 1 !
+36: CONST BETA_RHOMBO_B : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-98Kas-LB.tdb">BC-98Kas-LB.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>953024537b05421e…</code></p>
+<pre>33: PHASE BETA_RHOMBO_B % 2 93 12 !
+34: CONST BETA_RHOMBO_B : B : B C : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.actamat.2012.09.029">doi:10.1016/j.actamat.2012.09.029</a> Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-024-01162-3">doi:10.1007/s11669-024-01162-3</a> Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.016">doi:10.1016/j.calphad.2013.07.016</a> Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-b-c-b4c-d1g">B4C_D1G (B–C)</h2>
+<ul>
+<li>Id: <code>phase:b-c:b4c-d1g</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D1_g; site_ratios_contradict_D1_g:BC-14Rog.tdb; site_ratios_contradict_D1_g:BC-94Kas.tdb; site_ratios_contradict_D1_g:BC-98Kas-LB.tdb</li>
+<li>Candidate (dft_mp): R-3m (166) — on-hull MP B13C2 at x(C)=0.1333</li>
+<li>Candidate (dft_mp): Cm (8) — on-hull MP B4C at x(C)=0.2000</li>
+<li>Candidate (dft_oqmd): R-3m (166) — on-hull OQMD B13 C2 at x(C)=0.1333</li>
+<li>Candidate (dft_oqmd): Cm (8) — on-hull OQMD B4 C1 at x(C)=0.2000</li>
+<li>Candidate (literature_printed): B13C2 · hR15 — printed with a label mapped to this phase</li>
+<li>Candidate (name_token): B13C2 · D1_g · hR15 · R-3m (166) — Strukturbericht/word &#x27;D1G&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): B13C2 · D1_g · hR15 · R-3m (166) — Hallstedt 2025 mmc2 row for B4C_D1G: B4C</li>
+<li>Candidate (tdb_comment): B13C2 · hR15 · R-3m — BC-12Sae.tdb: &#x27;Prototype B13C2 (hR15, R-3m)&#x27;</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–2742.41 K, x(C) 0.05–0.2</li>
+<li>Literature: 9 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-c:b4c-d1g">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:b-c:b4c-d1g<br><small>paper: </small>paper:10.1016/j.actamat.2012.09.029:B4+xC, paper:10.1016/s0364-5916(98)00037-6:B4C<br><small>tdb: </small>tdb:BC-12Sae.tdb:B4C_D1G, tdb:BC-14Rog.tdb:B4C_D1G, tdb:BC-24Eno.tdb:B4C_D1G, tdb:BC-94Kas.tdb:B4C_D1G, tdb:BC-98Kas-LB.tdb:B4C_D1G<br></p>
+<h3>TDB models of B4C_D1G (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-12Sae.tdb">BC-12Sae.tdb</a>: B4C_D1G, type code %, sha256 <code>290e26418cf735dd…</code></p>
+<pre>50: PHASE B4C_D1G % 5 11 1 1 1 1 !
+51: CONST B4C_D1G : B : B C : B C VA : B VA : B C VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-14Rog.tdb">BC-14Rog.tdb</a>: B4C_D1G, type code %, sha256 <code>61f54c7a828b16dd…</code></p>
+<pre>49: PHASE B4C_D1G % 2 1 1 !
+50: CONST B4C_D1G : B12 B11C : B2 B2C BC2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-24Eno.tdb">BC-24Eno.tdb</a>: B4C_D1G, type code %, sha256 <code>2105df9640f51822…</code></p>
+<pre>51: PHASE B4C_D1G % 5 11 1 1 1 1 !
+52: CONST B4C_D1G : B : B C : B C VA : B VA : B C VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-94Kas.tdb">BC-94Kas.tdb</a>: B4C_D1G, type code %, sha256 <code>178cb3073b3b2693…</code></p>
+<pre>50: PHASE B4C_D1G % 2 1 1 !
+51: CONST B4C_D1G : B12 B11C : B2 B2C BC2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-98Kas-LB.tdb">BC-98Kas-LB.tdb</a>: B4C_D1G, type code %, sha256 <code>953024537b05421e…</code></p>
+<pre>48: PHASE B4C_D1G % 2 1 1 !
+49: CONST B4C_D1G : B12 B11C : B2 B2C BC2 : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.actamat.2012.09.029">doi:10.1016/j.actamat.2012.09.029</a> Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-024-01162-3">doi:10.1007/s11669-024-01162-3</a> Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.016">doi:10.1016/j.calphad.2013.07.016</a> Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(83)90067-x">doi:10.1016/0022-5088(83)90067-x</a> M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-c-liquid">LIQUID (B–C)</h2>
+<ul>
+<li>Id: <code>phase:b-c:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 2346.16–4000 K, x(C) 0–0.61157</li>
+<li>Literature: 9 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-c:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:b-c:liquid<br><small>paper: </small>paper:10.1016/j.actamat.2012.09.029:Liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid<br><small>tdb: </small>tdb:BC-12Sae.tdb:LIQUID, tdb:BC-14Rog.tdb:LIQUID, tdb:BC-24Eno.tdb:LIQUID, tdb:BC-94Kas.tdb:LIQUID, tdb:BC-98Kas-LB.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-12Sae.tdb">BC-12Sae.tdb</a>: LIQUID, type code %, sha256 <code>290e26418cf735dd…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-14Rog.tdb">BC-14Rog.tdb</a>: LIQUID, type code %, sha256 <code>61f54c7a828b16dd…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-24Eno.tdb">BC-24Eno.tdb</a>: LIQUID, type code %, sha256 <code>2105df9640f51822…</code></p>
+<pre>31: PHASE LIQUID:L % 1 1 !
+32: CONST LIQUID:L : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-94Kas.tdb">BC-94Kas.tdb</a>: LIQUID, type code %, sha256 <code>178cb3073b3b2693…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : B C : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/BC-98Kas-LB.tdb">BC-98Kas-LB.tdb</a>: LIQUID, type code %, sha256 <code>953024537b05421e…</code></p>
+<pre>28: PHASE LIQUID:L % 1 1 !
+29: CONST LIQUID:L : B C : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.actamat.2012.09.029">doi:10.1016/j.actamat.2012.09.029</a> Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-024-01162-3">doi:10.1007/s11669-024-01162-3</a> Masanori Enoki, Kota Takahashi, Hiroshi Ohtani, Thermodynamic Analysis of the Fe-B-C Ternary System and an Evaluation of the Grain Boundary Segregation Behavior of B and C, J. Phase Equilib. Diffus. 45, 1244-1259 (2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.016">doi:10.1016/j.calphad.2013.07.016</a> Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(83)90067-x">doi:10.1016/0022-5088(83)90067-x</a> M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

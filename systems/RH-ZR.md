@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RH-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-ZR/RhZr-04Du.json) · [Markdown](https://data.orchid-project.org/systems/RH-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-ZR/RhZr-04Du.json) · [phases (11)](https://data.orchid-project.org/phases/pages/RH-ZR.html) · [Markdown](https://data.orchid-project.org/systems/RH-ZR.md)
 
 ## Calculated phase diagrams
 

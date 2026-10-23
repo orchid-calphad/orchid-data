@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://dat
 
 53 accepted literature values from 1 paper(s) (experimental 7, model 26, unspecified 20); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [phases (9)](https://data.orchid-project.org/phases/pages/F-NB.html) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
 Table: Accepted values by evidence class
 

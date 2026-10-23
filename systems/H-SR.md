@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-SR.html · Markdown: https://dat
 
 5 accepted literature values from 1 paper(s) (experimental 5); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-SR.json) · [CSV](https://data.orchid-project.org/systems/H-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-SR) · [Markdown](https://data.orchid-project.org/systems/H-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-SR.json) · [CSV](https://data.orchid-project.org/systems/H-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-SR) · [phases (7)](https://data.orchid-project.org/phases/pages/H-SR.html) · [Markdown](https://data.orchid-project.org/systems/H-SR.md)
 
 Table: Accepted values by evidence class
 

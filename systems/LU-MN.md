@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LU-MN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LU-MN/LuMn-24Ye.json) · [Markdown](https://data.orchid-project.org/systems/LU-MN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LU-MN/LuMn-24Ye.json) · [phases (9)](https://data.orchid-project.org/phases/pages/LU-MN.html) · [Markdown](https://data.orchid-project.org/systems/LU-MN.md)
 
 ## Calculated phase diagrams
 

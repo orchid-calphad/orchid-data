@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ZR/AuZr-00Su-LB.json) · [Markdown](https://data.orchid-project.org/systems/AU-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ZR/AuZr-00Su-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AU-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AU-ZR.md)
 
 ## Calculated phase diagrams
 

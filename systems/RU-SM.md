@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RU-SM.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SM/RuSm-23Kar.json) · [Markdown](https://data.orchid-project.org/systems/RU-SM.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SM/RuSm-23Kar.json) · [phases (9)](https://data.orchid-project.org/phases/pages/RU-SM.html) · [Markdown](https://data.orchid-project.org/systems/RU-SM.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-SI.html · Markdown: https://da
 
 24 accepted literature values from 1 paper(s) (experimental 20, unspecified 4); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SI.json) · [CSV](https://data.orchid-project.org/systems/GA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SI/GaSi-05Fra-LB.json) · [Markdown](https://data.orchid-project.org/systems/GA-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SI.json) · [CSV](https://data.orchid-project.org/systems/GA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SI/GaSi-05Fra-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-SI.html) · [Markdown](https://data.orchid-project.org/systems/GA-SI.md)
 
 Table: Accepted values by evidence class
 

@@ -1,0 +1,625 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Au–In phases — ORCHID phase registry</title>
+<meta name="description" content="Au–In system: 16 phases (tier A 9, liquid 1, needs_review 6); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/AU-IN.html">
+<link rel="alternate" type="text/markdown" href="AU-IN.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Au–In system: 16 phases (tier A 9, liquid 1, needs_review 6); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/AU-IN.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/AU-IN.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:au-in:a6-tetragonal","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:a6-tetragonal","corpus:phase:au-in:tetragonal-a6","paper:10.1007/s11669-021-00910-z:In","paper:10.1007/s11669-021-00910-z:In (Bct)","paper:10.1016/0364-5916(92)90032-s:In","paper:10.1016/s0364-5916(03)00028-2:Tetr(In)","tdb:AuIn-03Liu.tdb:TETRAGONAL_A6","tdb:AuIn-14Gha.tdb:TETRAGONAL_A6","tdb:AuIn-21Pav.tdb:TETRAGONAL_A6","tdb:AuIn-21She.tdb:TETRAGONAL_A6","tdb:AuIn-92Ans-LB.tdb:TETRAGONAL_A6"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TETRAGONAL_A6","pearsonSymbol":"tI2","prototype":"In","reviewStatus":"assigned","spaceGroupNumber":139,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a6-in-ti2","strukturbericht":"A6","termCode":"phase:au-in:a6-tetragonal","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-a6-tetragonal"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au11in3","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au11in3","paper:10.1007/s11669-021-00910-z:Au11In3 (β)","paper:10.1007/s11669-021-00910-z:β","paper:10.1016/s0364-5916(03)00028-2:β","tdb:AuIn-03Liu.tdb:AU11IN3","tdb:AuIn-14Gha.tdb:AU11IN3","tdb:AuIn-21Pav.tdb:AU11IN3","tdb:AuIn-21She.tdb:AU11IN3"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU11IN3","reviewStatus":"needs_review","termCode":"phase:au-in:au11in3","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au11in3"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au3in-d0a","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au3in-d0a","mp:mp-aaabgksx","oqmd:oqmd-28177","paper:10.1007/s11669-021-00910-z:Au3In","paper:10.1016/0364-5916(92)90032-s:Au3In","paper:10.1016/0364-5916(92)90032-s:Au3In*","paper:10.1016/0364-5916(92)90032-s:ε","paper:10.1016/s0364-5916(03)00028-2:Au3In","tdb:AuIn-03Liu.tdb:AU3IN_D0A","tdb:AuIn-14Gha.tdb:AU3IN_D0A","tdb:AuIn-21Pav.tdb:AU3IN_D0A","tdb:AuIn-21She.tdb:AU3IN_D0A","tdb:AuIn-92Ans-LB.tdb:AU3IN_D0A"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU3IN_D0A","pearsonSymbol":"oP8","prototype":"beta-Cu3Ti","reviewStatus":"assigned","spaceGroupNumber":59,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-a-beta-cu3ti-op8","strukturbericht":"D0_a","termCode":"phase:au-in:au3in-d0a","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au3in-d0a"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au3in2-d513","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au3in2-d513","paper:10.1007/s11669-021-00910-z:Au3In2 (Ψ)","paper:10.1007/s11669-021-00910-z:Ψ","paper:10.1016/0364-5916(92)90032-s:Au62In38","paper:10.1016/0364-5916(92)90032-s:ψ","paper:10.1016/s0364-5916(03)00028-2:Ψ","tdb:AuIn-03Liu.tdb:AU3IN2_D513","tdb:AuIn-14Gha.tdb:AU3IN2_D513","tdb:AuIn-21Pav.tdb:AU3IN2_D513","tdb:AuIn-21She.tdb:AU3IN2_D513","tdb:AuIn-92Ans-LB.tdb:AU3IN2_D513"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU3IN2_D513","reviewStatus":"needs_review","termCode":"phase:au-in:au3in2-d513","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au3in2-d513"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au4in","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au4in","tdb:AuIn-92Ans-LB.tdb:AU4IN"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU4IN","reviewStatus":"needs_review","termCode":"phase:au-in:au4in","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au4in"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au7in2","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au7in2","paper:10.1016/s0364-5916(03)00028-2:β'","tdb:AuIn-03Liu.tdb:AU7IN2","tdb:AuIn-14Gha.tdb:AU7IN2","tdb:AuIn-21Pav.tdb:AU7IN2","tdb:AuIn-21She.tdb:AU7IN2"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU7IN2","reviewStatus":"needs_review","termCode":"phase:au-in:au7in2","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au7in2"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au7in3","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au7in3","paper:10.1007/s11669-021-00910-z:Au7In3(γ′)","paper:10.1007/s11669-021-00910-z:γ'","paper:10.1016/0364-5916(92)90032-s:Au7In3","paper:10.1016/0364-5916(92)90032-s:Au7In3*","paper:10.1016/0364-5916(92)90032-s:γ","paper:10.1016/s0364-5916(03)00028-2:γ'","tdb:AuIn-03Liu.tdb:AU7IN3","tdb:AuIn-14Gha.tdb:AU7IN3","tdb:AuIn-21Pav.tdb:AU7IN3","tdb:AuIn-21She.tdb:AU7IN3","tdb:AuIn-92Ans-LB.tdb:AU7IN3"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU7IN3","reviewStatus":"needs_review","termCode":"phase:au-in:au7in3","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au7in3"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:au9in4-d83","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:au9in4-d83","paper:10.1007/s11669-021-00910-z:Au9In4 (γ)","paper:10.1007/s11669-021-00910-z:γ","paper:10.1016/s0364-5916(03)00028-2:γ","tdb:AuIn-03Liu.tdb:AU9IN4_D83","tdb:AuIn-14Gha.tdb:AU9IN4_D83","tdb:AuIn-21Pav.tdb:AU9IN4_D83","tdb:AuIn-21She.tdb:AU9IN4_D83"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."},{"@id":"https://doi.org/10.1016/0022-5088(75)90091-0","@type":"ScholarlyArticle","name":"M. Pus̆elj, K. Schubert, Kristallstrukturen von Au9In4(h) und Au7In3, Journal of the Less Common Metals 41, 33-44 (1975)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AU9IN4_D83","pearsonSymbol":"cP52","prototype":"Al4Cu9","reviewStatus":"assigned","spaceGroupNumber":215,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d8-3-al4cu9-cp52","strukturbericht":"D8_3","termCode":"phase:au-in:au9in4-d83","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-au9in4-d83"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:auin","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:auin","paper:10.1007/s11669-021-00910-z:AuIn","paper:10.1016/0364-5916(92)90032-s:AuIn","paper:10.1016/s0364-5916(03)00028-2:AuIn","tdb:AuIn-03Liu.tdb:AUIN","tdb:AuIn-14Gha.tdb:AUIN","tdb:AuIn-21Pav.tdb:AUIN","tdb:AuIn-21She.tdb:AUIN","tdb:AuIn-92Ans-LB.tdb:AUIN"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AUIN","reviewStatus":"needs_review","termCode":"phase:au-in:auin","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-auin"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:auin2-c1","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:auin2-c1","mp:mp-aaaabguc","oqmd:oqmd-10744","paper:10.1007/s11669-021-00910-z:AuIn2","paper:10.1016/0364-5916(92)90032-s:AuIn2","paper:10.1016/s0364-5916(03)00028-2:AuIn2","tdb:AuIn-03Liu.tdb:AUIN2_C1","tdb:AuIn-14Gha.tdb:AUIN2_C1","tdb:AuIn-21Pav.tdb:AUIN2_C1","tdb:AuIn-21She.tdb:AUIN2_C1","tdb:AuIn-92Ans-LB.tdb:AUIN2_C1"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"AUIN2_C1","pearsonSymbol":"cF12","prototype":"CaF2","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c1-caf2-cf12","strukturbericht":"C1","termCode":"phase:au-in:auin2-c1","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-auin2-c1"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:bcc-a2","paper:10.1007/s11669-021-00910-z:Au10In3(β′)","paper:10.1016/0364-5916(92)90032-s:β","tdb:AuIn-03Liu.tdb:BCC_A2","tdb:AuIn-14Gha.tdb:BCC_A2","tdb:AuIn-21Pav.tdb:BCC_A2","tdb:AuIn-21She.tdb:BCC_A2","tdb:AuIn-92Ans-LB.tdb:BCC_A2"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:au-in:bcc-a2","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:dhcp","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:dhcp"],"chemicalSystem":"AU-IN","inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:au-in:dhcp","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-dhcp"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:dhcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:dhcp-a3","paper:10.1007/s11669-021-00910-z:α1","paper:10.1016/s0364-5916(03)00028-2:α1","tdb:AuIn-03Liu.tdb:DHCP","tdb:AuIn-14Gha.tdb:DHCP","tdb:AuIn-21Pav.tdb:DHCP","tdb:AuIn-21She.tdb:DHCP","tdb:AuIn-92Ans-LB.tdb:DHCP"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:au-in:dhcp-a3","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-dhcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:fcc-a1","paper:10.1007/s11669-021-00910-z:fcc","paper:10.1016/0364-5916(92)90032-s:fcc - A1","paper:10.1016/s0364-5916(03)00028-2:Fcc","tdb:AuIn-03Liu.tdb:FCC_A1","tdb:AuIn-14Gha.tdb:FCC_A1","tdb:AuIn-21Pav.tdb:FCC_A1","tdb:AuIn-21She.tdb:FCC_A1","tdb:AuIn-92Ans-LB.tdb:FCC_A1"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:au-in:fcc-a1","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:hcp-a3","paper:10.1007/s11669-021-00910-z:hcp","paper:10.1016/0364-5916(92)90032-s:hcp - A3","paper:10.1016/s0364-5916(03)00028-2:Hcp","tdb:AuIn-03Liu.tdb:HCP_A3","tdb:AuIn-14Gha.tdb:HCP_A3","tdb:AuIn-21Pav.tdb:HCP_A3","tdb:AuIn-21She.tdb:HCP_A3","tdb:AuIn-92Ans-LB.tdb:HCP_A3"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:au-in:hcp-a3","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:au-in:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:au-in:liquid","paper:10.1007/s11669-021-00910-z:L","paper:10.1016/0364-5916(92)90032-s:liq","paper:10.1016/0364-5916(92)90032-s:liq*","paper:10.1016/s0364-5916(03)00028-2:L","tdb:AuIn-03Liu.tdb:LIQUID","tdb:AuIn-14Gha.tdb:LIQUID","tdb:AuIn-21Pav.tdb:LIQUID","tdb:AuIn-21She.tdb:LIQUID","tdb:AuIn-92Ans-LB.tdb:LIQUID"],"chemicalSystem":"AU-IN","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(03)00028-2","@type":"ScholarlyArticle","name":"H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003)."},{"@id":"https://doi.org/10.1007/s11669-021-00910-z","@type":"ScholarlyArticle","name":"Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021)."},{"@id":"https://doi.org/10.1016/0364-5916(92)90032-S","@type":"ScholarlyArticle","name":"I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102236","@type":"ScholarlyArticle","name":"A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.02.071","@type":"ScholarlyArticle","name":"M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:au-in:liquid","url":"https://data.orchid-project.org/phases/pages/AU-IN.html#phase-au-in-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Au–In"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Au–In phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/AU-IN.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Au–In phases</h1>
+<p>16 phases (tier A 9, liquid 1, needs_review 6); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=AU-IN">interactive registry</a> · <a href="../systems/AU-IN.json">full JSON</a> · <a href="../../systems/AU-IN.html">Au–In system page</a> · <a href="AU-IN.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Au–In system (16)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-au-in-a6-tetragonal">TETRAGONAL_A6</a><br><small>phase:au-in:a6-tetragonal</small></th><td>In · A6 · tI2 · I4/mmm (139)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–429.42 K, x(In) 1–1</td><td class="n">12</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au11in3">AU11IN3</a><br><small>phase:au-in:au11in3</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 547.22–610.41 K, x(In) 0.214–0.215</td><td class="n">14</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au3in-d0a">AU3IN_D0A</a><br><small>phase:au-in:au3in-d0a</small></th><td>beta-Cu3Ti · D0_a · oP8 · Pmmn (59)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–766.53 K, x(In) 0.25–0.25</td><td class="n">40</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au3in2-d513">AU3IN2_D513</a><br><small>phase:au-in:au3in2-d513</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 486.6–733.68 K, x(In) 0.3633–0.39741</td><td class="n">34</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au4in">AU4IN</a><br><small>phase:au-in:au4in</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–591.89 K, x(In) 0.22–0.22</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au7in2">AU7IN2</a><br><small>phase:au-in:au7in2</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–567.46 K, x(In) 0.22222–0.231</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au7in3">AU7IN3</a><br><small>phase:au-in:au7in3</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–759.36 K, x(In) 0.3–0.3</td><td class="n">22</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-au9in4-d83">AU9IN4_D83</a><br><small>phase:au-in:au9in4-d83</small></th><td>Al4Cu9 · D8_3 · cP52 · P-43m (215)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 633.01–760.29 K, x(In) 0.2872–0.31296</td><td class="n">22</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-auin">AUIN</a><br><small>phase:au-in:auin</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–783.25 K, x(In) 0.5–0.5</td><td class="n">30</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-auin2-c1">AUIN2_C1</a><br><small>phase:au-in:auin2-c1</small></th><td>CaF2 · C1 · cF12 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–814.6 K, x(In) 0.66667–0.66667</td><td class="n">29</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-bcc-a2">BCC_A2</a><br><small>phase:au-in:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>not stable in 5 calculated diagram(s)</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-dhcp">DHCP</a><br><small>phase:au-in:dhcp</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">0</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-dhcp-a3">DHCP</a><br><small>phase:au-in:dhcp-a3</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–930.93 K, x(In) 0.0877–0.14726</td><td class="n">14</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-fcc-a1">FCC_A1</a><br><small>phase:au-in:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1340.33 K, x(In) 0–0.13808</td><td class="n">10</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-hcp-a3">HCP_A3</a><br><small>phase:au-in:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–913.63 K, x(In) 0.11488–0.2249</td><td class="n">29</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-au-in-liquid">LIQUID</a><br><small>phase:au-in:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 5 of 5 calculated diagram(s): 429.34–2500 K, x(In) 0–1</td><td class="n">86</td><td class="n">5</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-au-in-a6-tetragonal">TETRAGONAL_A6 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:a6-tetragonal</code>; status <code>assigned</code></li>
+<li>Structure: In · A6 · tI2 · I4/mmm (139); type <code>st:a6-in-ti2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: In 1.0000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–429.42 K, x(In) 1–1</li>
+<li>Literature: 12 values (12 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:a6-tetragonal">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:au-in:a6-tetragonal, corpus:phase:au-in:tetragonal-a6<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:In, paper:10.1007/s11669-021-00910-z:In (Bct), paper:10.1016/0364-5916(92)90032-s:In, paper:10.1016/s0364-5916(03)00028-2:Tetr(In)<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:TETRAGONAL_A6, tdb:AuIn-14Gha.tdb:TETRAGONAL_A6, tdb:AuIn-21Pav.tdb:TETRAGONAL_A6, tdb:AuIn-21She.tdb:TETRAGONAL_A6, tdb:AuIn-92Ans-LB.tdb:TETRAGONAL_A6<br></p>
+<h3>TDB models of TETRAGONAL_A6 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>54: PHASE TETRAGONAL_A6 % 1 1 !
+55: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>55: PHASE TETRAGONAL_A6 % 1 1 !
+56: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>55: PHASE TETRAGONAL_A6 % 1 1 !
+56: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>57: PHASE TETRAGONAL_A6 % 1 1 !
+58: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>59: PHASE TETRAGONAL_A6 % 1 1 !
+60: CONST TETRAGONAL_A6 : IN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au11in3">AU11IN3 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au11in3</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: models_disagree_on_composition; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Au11In3) · ? — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Au11In3) — Hallstedt 2025 mmc2 row for AU11IN3: Au11In3 (beta)</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 547.22–610.41 K, x(In) 0.214–0.215</li>
+<li>Literature: 14 values (14 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au11in3">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:au-in:au11in3<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au11In3 (β), paper:10.1007/s11669-021-00910-z:β, paper:10.1016/s0364-5916(03)00028-2:β<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU11IN3, tdb:AuIn-14Gha.tdb:AU11IN3, tdb:AuIn-21Pav.tdb:AU11IN3, tdb:AuIn-21She.tdb:AU11IN3<br></p>
+<h3>TDB models of AU11IN3 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU11IN3, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>59: PHASE AU11IN3 % 2 0.785 0.215 !
+60: CONST AU11IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU11IN3, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>60: PHASE AU11IN3 % 2 0.785 0.215 !
+61: CONST AU11IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU11IN3, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>60: PHASE AU11IN3 % 2 0.785 0.215 !
+61: CONST AU11IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU11IN3, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>62: PHASE AU11IN3 % 2 0.786 0.214 !
+63: CONST AU11IN3 : AU : IN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au3in-d0a">AU3IN_D0A (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au3in-d0a</code>; status <code>assigned</code></li>
+<li>Structure: beta-Cu3Ti · D0_a · oP8 · Pmmn (59); type <code>st:d0-a-beta-cu3ti-op8</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaabgksx and oqmd-28177, space group 59</li>
+<li>Stoichiometry: Au 0.7500, In 0.2500</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–766.53 K, x(In) 0.25–0.25</li>
+<li>Literature: 40 values (40 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au3in-d0a">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:au-in:au3in-d0a<br><small>mp: </small>mp:mp-aaabgksx<br><small>oqmd: </small>oqmd:oqmd-28177<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au3In, paper:10.1016/0364-5916(92)90032-s:Au3In, paper:10.1016/0364-5916(92)90032-s:Au3In*, paper:10.1016/0364-5916(92)90032-s:ε, paper:10.1016/s0364-5916(03)00028-2:Au3In<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU3IN_D0A, tdb:AuIn-14Gha.tdb:AU3IN_D0A, tdb:AuIn-21Pav.tdb:AU3IN_D0A, tdb:AuIn-21She.tdb:AU3IN_D0A, tdb:AuIn-92Ans-LB.tdb:AU3IN_D0A<br></p>
+<h3>TDB models of AU3IN_D0A (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU3IN_D0A, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>69: PHASE AU3IN_D0A % 2 3 1 !
+70: CONST AU3IN_D0A : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU3IN_D0A, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>70: PHASE AU3IN_D0A % 2 3 1 !
+71: CONST AU3IN_D0A : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU3IN_D0A, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>70: PHASE AU3IN_D0A % 2 3 1 !
+71: CONST AU3IN_D0A : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU3IN_D0A, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>72: PHASE AU3IN_D0A % 2 3 1 !
+73: CONST AU3IN_D0A : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AU3IN_D0A, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>69: PHASE AU3IN_D0A % 2 3 1 !
+70: CONST AU3IN_D0A : AU : IN : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00595784">doi:10.1007/bf00595784</a> K. Schubert, H. Breimer, W. Burkhardt, E. Günzel, R. Haufler, H. L. Lukas et al., Einige strukturelle Ergebnisse an metallischen Phasen II, Naturwissenschaften 44, 229-230 (1957).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1098/rspa.1964.0235">doi:10.1098/rspa.1964.0235</a> S. E. R. Hiscocks, William Hume-Rothery, The equilibrium diagram of the system gold-indium, Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences 282, 318-330 (1964).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au3in2-d513">AU3IN2_D513 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au3in2-d513</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_D5_13; stoichiometry_contradicts_D5_13:AuIn-92Ans-LB.tdb</li>
+<li>Candidate (literature_printed): Al3Ni2 · hP5 — printed with a label mapped to this phase</li>
+<li>Candidate (name_token): Ni2Al3 · D5_13 · hP5 · P-3m1 (164) — Strukturbericht/word &#x27;D513&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): Ni2Al3 · D5_13 · hP5 · P-3m1 (164) — Hallstedt 2025 mmc2 row for AU3IN2_D513: Au3In2</li>
+<li>Candidate (sgte_mmc2): Ni2Al3 · D5_13 · hP5 · P-3m1 (164) — Hallstedt 2025 mmc2 row for AU3IN2_D513: Au3In2 (phi/psi)</li>
+<li>Candidate (tdb_comment): Al3Ni2 · hP5 · P-3m1 — AuIn-03Liu.tdb: &#x27;Prototype Al3Ni2 (hP5, P-3m1), phi/psi&#x27;</li>
+<li>Candidate (tdb_comment): Al3Ni2 · hP5 · P-3m1 — AuIn-14Gha.tdb: &#x27;Prototype Al3Ni2 (hP5, P-3m1), phi/psi&#x27;</li>
+<li>Candidate (tdb_comment): Al3Ni2 · hP5 · P-3m1 — AuIn-21Pav.tdb: &#x27;Prototype Al3Ni2 (hP5, P-3m1), phi/psi&#x27;</li>
+<li>Candidate (tdb_comment): Al3Ni2 · hP5 · P-3m1 — AuIn-21She.tdb: &#x27;Prototype Al3Ni2 (hP5, P-3m1), phi/psi&#x27;</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 486.6–733.68 K, x(In) 0.3633–0.39741</li>
+<li>Literature: 34 values (34 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au3in2-d513">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:au-in:au3in2-d513<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au3In2 (Ψ), paper:10.1007/s11669-021-00910-z:Ψ, paper:10.1016/0364-5916(92)90032-s:Au62In38, paper:10.1016/0364-5916(92)90032-s:ψ, paper:10.1016/s0364-5916(03)00028-2:Ψ<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU3IN2_D513, tdb:AuIn-14Gha.tdb:AU3IN2_D513, tdb:AuIn-21Pav.tdb:AU3IN2_D513, tdb:AuIn-21She.tdb:AU3IN2_D513, tdb:AuIn-92Ans-LB.tdb:AU3IN2_D513<br></p>
+<h3>TDB models of AU3IN2_D513 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU3IN2_D513, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>84: PHASE AU3IN2_D513 % 3 3 2 1 !
+85: CONST AU3IN2_D513 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU3IN2_D513, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>85: PHASE AU3IN2_D513 % 3 3 2 1 !
+86: CONST AU3IN2_D513 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU3IN2_D513, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>85: PHASE AU3IN2_D513 % 3 3 2 1 !
+86: CONST AU3IN2_D513 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU3IN2_D513, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>87: PHASE AU3IN2_D513 % 3 1 3 1 !
+88: CONST AU3IN2_D513 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AU3IN2_D513, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>79: PHASE AU3IN2_D513 % 2 31 19 !
+80: CONST AU3IN2_D513 : AU : IN : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00600681">doi:10.1007/bf00600681</a> K. Schubert, H. Breimer, R. Gohle, H. L. Lukas, H. G. Meissner, E. Stolz, Einige strukturelle Ergebnisse an metallischen Phasen III, Naturwissenschaften 45, 360-361 (1958).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au4in">AU4IN (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au4in</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (sgte_mmc2): Cu10Sb3 · hP26 · P6_3/m (176) — Hallstedt 2025 mmc2 row for AU4IN: Au4In</li>
+<li>Candidate (tdb_comment): Cu10Sb3 · hP26 · P6_3/m — AuIn-92Ans-LB.tdb: &#x27;Prototype Cu10Sb3 (hP26, P6_3/m)&#x27;</li>
+<li>Stoichiometry: Au 0.7800, In 0.2200</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–591.89 K, x(In) 0.22–0.22</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au4in">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:au-in:au4in<br><small>tdb: </small>tdb:AuIn-92Ans-LB.tdb:AU4IN<br></p>
+<h3>TDB models of AU4IN (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AU4IN, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>64: PHASE AU4IN % 2 39 11 !
+65: CONST AU4IN : AU : IN : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au7in2">AU7IN2 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au7in2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:models_disagree_on_composition; models_disagree_on_composition; no_structure_token</li>
+<li>Candidate (literature_printed): Cu10Sb3 · hP26 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Cu10Sb3 · hP26 · P6_3/m (176) — Hallstedt 2025 mmc2 row for AU7IN2: Au7In2 (beta-prime)</li>
+<li>Candidate (tdb_comment): Cu10Sb3 · hP26 · P6_3/m — AuIn-03Liu.tdb: &#x27;Prototype Cu10Sb3 (hP26, P6_3/m), beta-prime&#x27;</li>
+<li>Candidate (tdb_comment): Cu10Sb3 · hP26 · P6_3/m — AuIn-14Gha.tdb: &#x27;Prototype Cu10Sb3 (hP26, P6_3/m), beta-prime&#x27;</li>
+<li>Candidate (tdb_comment): Cu10Sb3 · hP26 · P6_3/m — AuIn-21Pav.tdb: &#x27;Prototype Cu10Sb3 (hP26, P6_3/m), beta-prime&#x27;</li>
+<li>Candidate (tdb_comment): Cu10Sb3 · hP26 · P6_3/m — AuIn-21She.tdb: &#x27;Prototype Cu10Sb3 (hP26, P6_3/m), beta-prime&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–567.46 K, x(In) 0.22222–0.231</li>
+<li>Literature: 3 values (3 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au7in2">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:au-in:au7in2<br><small>paper: </small>paper:10.1016/s0364-5916(03)00028-2:β&#x27;<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU7IN2, tdb:AuIn-14Gha.tdb:AU7IN2, tdb:AuIn-21Pav.tdb:AU7IN2, tdb:AuIn-21She.tdb:AU7IN2<br></p>
+<h3>TDB models of AU7IN2 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU7IN2, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>64: PHASE AU7IN2 % 2 7 2 !
+65: CONST AU7IN2 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU7IN2, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>65: PHASE AU7IN2 % 2 7 2 !
+66: CONST AU7IN2 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU7IN2, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>65: PHASE AU7IN2 % 2 7 2 !
+66: CONST AU7IN2 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU7IN2, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>67: PHASE AU7IN2 % 2 0.769 0.231 !
+68: CONST AU7IN2 : AU : IN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au7in3">AU7IN3 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au7in3</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (sgte_mmc2): Au7In3 · hP60 · P-3 (147) — Hallstedt 2025 mmc2 row for AU7IN3: Au7iIn3 (gamma-prime)</li>
+<li>Candidate (tdb_comment): Au7In3 · hP60 · P-3 — AuIn-03Liu.tdb: &#x27;Prototype Au7In3 (hP60, P-3), gamma-prime&#x27;</li>
+<li>Candidate (tdb_comment): Au7In3 · hP60 · P-3 — AuIn-14Gha.tdb: &#x27;Prototype Au7In3 (hP60, P-3), gamma-prime&#x27;</li>
+<li>Candidate (tdb_comment): Au7In3 · hP60 · P-3 — AuIn-21Pav.tdb: &#x27;Prototype Au7In3 (hP60, P-3), gamma-prime&#x27;</li>
+<li>Candidate (tdb_comment): Au7In3 · hP60 · P-3 — AuIn-21She.tdb: &#x27;Prototype Au7In3 (hP60, P-3), gamma-prime&#x27;</li>
+<li>Candidate (tdb_comment): Au7In3 · hP60 · P-3 — AuIn-92Ans-LB.tdb: &#x27;Prototype Au7In3 (hP60, P-3)&#x27;</li>
+<li>Stoichiometry: Au 0.7000, In 0.3000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–759.36 K, x(In) 0.3–0.3</li>
+<li>Literature: 22 values (22 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au7in3">phase registry entry</a></li>
+</ul>
+<p>Names (12): <small>corpus: </small>corpus:phase:au-in:au7in3<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au7In3(γ′), paper:10.1007/s11669-021-00910-z:γ&#x27;, paper:10.1016/0364-5916(92)90032-s:Au7In3, paper:10.1016/0364-5916(92)90032-s:Au7In3*, paper:10.1016/0364-5916(92)90032-s:γ, paper:10.1016/s0364-5916(03)00028-2:γ&#x27;<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU7IN3, tdb:AuIn-14Gha.tdb:AU7IN3, tdb:AuIn-21Pav.tdb:AU7IN3, tdb:AuIn-21She.tdb:AU7IN3, tdb:AuIn-92Ans-LB.tdb:AU7IN3<br></p>
+<h3>TDB models of AU7IN3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU7IN3, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>74: PHASE AU7IN3 % 2 7 3 !
+75: CONST AU7IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU7IN3, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>75: PHASE AU7IN3 % 2 7 3 !
+76: CONST AU7IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU7IN3, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>75: PHASE AU7IN3 % 2 7 3 !
+76: CONST AU7IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU7IN3, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>77: PHASE AU7IN3 % 2 7 3 !
+78: CONST AU7IN3 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AU7IN3, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>74: PHASE AU7IN3 % 2 7 3 !
+75: CONST AU7IN3 : AU : IN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(75)90091-0">doi:10.1016/0022-5088(75)90091-0</a> M. Pus̆elj, K. Schubert, Kristallstrukturen von Au9In4(h) und Au7In3, Journal of the Less Common Metals 41, 33-44 (1975).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-au9in4-d83">AU9IN4_D83 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:au9in4-d83</code>; status <code>assigned</code></li>
+<li>Structure: Al4Cu9 · D8_3 · cP52 · P-43m (215); type <code>st:d8-3-al4cu9-cp52</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 633.01–760.29 K, x(In) 0.2872–0.31296</li>
+<li>Literature: 22 values (22 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:au9in4-d83">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:au-in:au9in4-d83<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au9In4 (γ), paper:10.1007/s11669-021-00910-z:γ, paper:10.1016/s0364-5916(03)00028-2:γ<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AU9IN4_D83, tdb:AuIn-14Gha.tdb:AU9IN4_D83, tdb:AuIn-21Pav.tdb:AU9IN4_D83, tdb:AuIn-21She.tdb:AU9IN4_D83<br></p>
+<h3>TDB models of AU9IN4_D83 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AU9IN4_D83, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>79: PHASE AU9IN4_D83 % 3 9 3 1 !
+80: CONST AU9IN4_D83 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AU9IN4_D83, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>80: PHASE AU9IN4_D83 % 3 9 3 1 !
+81: CONST AU9IN4_D83 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AU9IN4_D83, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>80: PHASE AU9IN4_D83 % 3 17 3 6 !
+81: CONST AU9IN4_D83 : AU : AU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AU9IN4_D83, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>82: PHASE AU9IN4_D83 % 2 9 4 !
+83: CONST AU9IN4_D83 : AU : IN : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-5088(75)90091-0">doi:10.1016/0022-5088(75)90091-0</a> M. Pus̆elj, K. Schubert, Kristallstrukturen von Au9In4(h) und Au7In3, Journal of the Less Common Metals 41, 33-44 (1975).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-s">doi:10.1016/0364-5916(92)90032-s</a> I. Ansara, J.-Ph. Nabot, A thermodynamic re-assessment of the Au-In system in the Au-rich region, Calphad 16, 13-18 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-auin">AUIN (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:auin</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_mp; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (dft_oqmd): Cmcm (63) — on-hull OQMD Au1 In1 at x(IN)=0.5000</li>
+<li>Candidate (literature_printed): (AuIn) · aP* — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (AuIn) — Hallstedt 2025 mmc2 row for AUIN: AuIn</li>
+<li>Stoichiometry: Au 0.5000, In 0.5000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–783.25 K, x(In) 0.5–0.5</li>
+<li>Literature: 30 values (30 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:auin">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:au-in:auin<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:AuIn, paper:10.1016/0364-5916(92)90032-s:AuIn, paper:10.1016/s0364-5916(03)00028-2:AuIn<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AUIN, tdb:AuIn-14Gha.tdb:AUIN, tdb:AuIn-21Pav.tdb:AUIN, tdb:AuIn-21She.tdb:AUIN, tdb:AuIn-92Ans-LB.tdb:AUIN<br></p>
+<h3>TDB models of AUIN (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AUIN, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>89: PHASE AUIN % 2 1 1 !
+90: CONST AUIN : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AUIN, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>90: PHASE AUIN % 2 1 1 !
+91: CONST AUIN : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AUIN, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>90: PHASE AUIN % 2 1 1 !
+91: CONST AUIN : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AUIN, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>92: PHASE AUIN % 2 1 1 !
+93: CONST AUIN : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AUIN, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>84: PHASE AUIN % 2 1 1 !
+85: CONST AUIN : AU : IN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-auin2-c1">AUIN2_C1 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:auin2-c1</code>; status <code>assigned</code></li>
+<li>Structure: CaF2 · C1 · cF12 · Fm-3m (225); type <code>st:c1-caf2-cf12</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaabguc and oqmd-10744, space group 225</li>
+<li>Stoichiometry: Au 0.3333, In 0.6667</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–814.6 K, x(In) 0.66667–0.66667</li>
+<li>Literature: 29 values (29 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:auin2-c1">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:au-in:auin2-c1<br><small>mp: </small>mp:mp-aaaabguc<br><small>oqmd: </small>oqmd:oqmd-10744<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:AuIn2, paper:10.1016/0364-5916(92)90032-s:AuIn2, paper:10.1016/s0364-5916(03)00028-2:AuIn2<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:AUIN2_C1, tdb:AuIn-14Gha.tdb:AUIN2_C1, tdb:AuIn-21Pav.tdb:AUIN2_C1, tdb:AuIn-21She.tdb:AUIN2_C1, tdb:AuIn-92Ans-LB.tdb:AUIN2_C1<br></p>
+<h3>TDB models of AUIN2_C1 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: AUIN2_C1, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>94: PHASE AUIN2_C1 % 2 1 2 !
+95: CONST AUIN2_C1 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: AUIN2_C1, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>95: PHASE AUIN2_C1 % 2 1 2 !
+96: CONST AUIN2_C1 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: AUIN2_C1, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>95: PHASE AUIN2_C1 % 2 1 2 !
+96: CONST AUIN2_C1 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: AUIN2_C1, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>97: PHASE AUIN2_C1 % 2 1 2 !
+98: CONST AUIN2_C1 : AU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: AUIN2_C1, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>89: PHASE AUIN2_C1 % 2 1 2 !
+90: CONST AUIN2_C1 : AU : IN : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1080/14786436508228675">doi:10.1080/14786436508228675</a> J.-P. Jan, W. B. Pearson, Y. Saito, M. Springford, I. M. Templeton, De Haas-van Alphen effect and fermi surface of the intermetallic compounds AuAl&lt;sub&gt;2&lt;/sub&gt;, AuGa&lt;sub&gt;2&lt;/sub&gt;and AuIn&lt;sub&gt;2&lt;/sub&gt;, Philosophical Magazine 12, 1271-1291 (1965).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/zpch-1937-3528">doi:10.1515/zpch-1937-3528</a> E. Zintl, A. Harder, W. Haucke, Legierungsphasen mit Fluoritstruktur, Zeitschrift für Physikalische Chemie 35B, 354-362 (1937).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-au-in-bcc-a2">BCC_A2 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 5 calculated diagram(s)</li>
+<li>Literature: 6 values (6 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:au-in:bcc-a2<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:Au10In3(β′), paper:10.1016/0364-5916(92)90032-s:β<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:BCC_A2, tdb:AuIn-14Gha.tdb:BCC_A2, tdb:AuIn-21Pav.tdb:BCC_A2, tdb:AuIn-21She.tdb:BCC_A2, tdb:AuIn-92Ans-LB.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: BCC_A2, type code %B, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>39: PHASE BCC_A2 %B 2 1 3 !
+40: CONST BCC_A2 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: BCC_A2, type code %B, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>40: PHASE BCC_A2 %B 2 1 3 !
+41: CONST BCC_A2 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: BCC_A2, type code %B, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>40: PHASE BCC_A2 %B 2 1 3 !
+41: CONST BCC_A2 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: BCC_A2, type code %B, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>42: PHASE BCC_A2 %B 2 1 3 !
+43: CONST BCC_A2 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>44: PHASE BCC_A2 %B 2 1 3 !
+45: CONST BCC_A2 : AU IN : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-dhcp">DHCP (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:dhcp</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:dhcp">phase registry entry</a></li>
+</ul>
+<p>Names (1): <small>corpus: </small>corpus:phase:au-in:dhcp<br></p>
+<h2 id="phase-au-in-dhcp-a3">DHCP (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:dhcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–930.93 K, x(In) 0.0877–0.14726</li>
+<li>Literature: 14 values (14 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:dhcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:au-in:dhcp-a3<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:α1, paper:10.1016/s0364-5916(03)00028-2:α1<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:DHCP, tdb:AuIn-14Gha.tdb:DHCP, tdb:AuIn-21Pav.tdb:DHCP, tdb:AuIn-21She.tdb:DHCP, tdb:AuIn-92Ans-LB.tdb:DHCP<br></p>
+<h3>TDB models of DHCP (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: DHCP, type code %A, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>49: PHASE DHCP %A 1 1 !
+50: CONST DHCP : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: DHCP, type code %A, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>50: PHASE DHCP %A 1 1 !
+51: CONST DHCP : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: DHCP, type code %A, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>50: PHASE DHCP %A 1 1 !
+51: CONST DHCP : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: DHCP, type code %A, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>52: PHASE DHCP %A 1 1 !
+53: CONST DHCP : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: DHCP, type code %A, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>54: PHASE DHCP %A 1 1 !
+55: CONST DHCP : AU IN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-fcc-a1">FCC_A1 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1340.33 K, x(In) 0–0.13808</li>
+<li>Literature: 10 values (10 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:au-in:fcc-a1<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:fcc, paper:10.1016/0364-5916(92)90032-s:fcc - A1, paper:10.1016/s0364-5916(03)00028-2:Fcc<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:FCC_A1, tdb:AuIn-14Gha.tdb:FCC_A1, tdb:AuIn-21Pav.tdb:FCC_A1, tdb:AuIn-21She.tdb:FCC_A1, tdb:AuIn-92Ans-LB.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: FCC_A1, type code %A, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : AU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: FCC_A1, type code %A, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>35: PHASE FCC_A1 %A 2 1 1 !
+36: CONST FCC_A1 : AU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: FCC_A1, type code %A, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>35: PHASE FCC_A1 %A 2 1 1 !
+36: CONST FCC_A1 : AU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: FCC_A1, type code %A, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>37: PHASE FCC_A1 %A 2 1 1 !
+38: CONST FCC_A1 : AU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>39: PHASE FCC_A1 %A 2 1 1 !
+40: CONST FCC_A1 : AU% IN : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-hcp-a3">HCP_A3 (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–913.63 K, x(In) 0.11488–0.2249</li>
+<li>Literature: 29 values (29 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:au-in:hcp-a3<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:hcp, paper:10.1016/0364-5916(92)90032-s:hcp - A3, paper:10.1016/s0364-5916(03)00028-2:Hcp<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:HCP_A3, tdb:AuIn-14Gha.tdb:HCP_A3, tdb:AuIn-21Pav.tdb:HCP_A3, tdb:AuIn-21She.tdb:HCP_A3, tdb:AuIn-92Ans-LB.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: HCP_A3, type code %A, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>44: PHASE HCP_A3 %A 2 1 0.5 !
+45: CONST HCP_A3 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: HCP_A3, type code %A, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>45: PHASE HCP_A3 %A 2 1 0.5 !
+46: CONST HCP_A3 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: HCP_A3, type code %A, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>45: PHASE HCP_A3 %A 2 1 0.5 !
+46: CONST HCP_A3 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: HCP_A3, type code %A, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>47: PHASE HCP_A3 %A 2 1 0.5 !
+48: CONST HCP_A3 : AU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>49: PHASE HCP_A3 %A 2 1 0.5 !
+50: CONST HCP_A3 : AU IN : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-au-in-liquid">LIQUID (Au–In)</h2>
+<ul>
+<li>Id: <code>phase:au-in:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 429.34–2500 K, x(In) 0–1</li>
+<li>Literature: 86 values (86 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:au-in:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:au-in:liquid<br><small>paper: </small>paper:10.1007/s11669-021-00910-z:L, paper:10.1016/0364-5916(92)90032-s:liq, paper:10.1016/0364-5916(92)90032-s:liq*, paper:10.1016/s0364-5916(03)00028-2:L<br><small>tdb: </small>tdb:AuIn-03Liu.tdb:LIQUID, tdb:AuIn-14Gha.tdb:LIQUID, tdb:AuIn-21Pav.tdb:LIQUID, tdb:AuIn-21She.tdb:LIQUID, tdb:AuIn-92Ans-LB.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-03Liu.tdb">AuIn-03Liu.tdb</a>: LIQUID, type code %, sha256 <code>a13cdb8823315e5f…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-14Gha.tdb">AuIn-14Gha.tdb</a>: LIQUID, type code %, sha256 <code>222cdeb2f417601c…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21Pav.tdb">AuIn-21Pav.tdb</a>: LIQUID, type code %, sha256 <code>1ff2a5071266dea5…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-21She.tdb">AuIn-21She.tdb</a>: LIQUID, type code %, sha256 <code>567fcdb39b01ef63…</code></p>
+<pre>32: PHASE LIQUID:L % 1 1 !
+33: CONST LIQUID:L : AU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/AuIn-92Ans-LB.tdb">AuIn-92Ans-LB.tdb</a>: LIQUID, type code %, sha256 <code>e8a71e98427f1968…</code></p>
+<pre>34: PHASE LIQUID:L % 1 1 !
+35: CONST LIQUID:L : AU IN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(03)00028-2">doi:10.1016/S0364-5916(03)00028-2</a> H.S. Liu, Y. Cui, K. Ishida, Z.P. Jin, Calphad, 27, 27-37(2003).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-021-00910-z">doi:10.1007/s11669-021-00910-z</a> Chen Shen, Kun Hu, Ling Fan, Hongbin Zhang, Thermodynamic Reassessment of the Au-In Binary System Supported with First-Principles Calculations, J. Phase Equilib. Diffus. 42, 479-488 (2021).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(92)90032-S">doi:10.1016/0364-5916(92)90032-S</a> I. Ansara, J.-P. Nabot, Calphad, 16, 13-18(1992).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102236">doi:10.1016/j.calphad.2020.102236</a> A.S. Pavlenko, E.A. Ptashkina, G.P. Zhmurko, S.E. Philippova, E.G. Kabanova, V.N. Kuznetsov, Calphad, 72, 102236(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.02.071">doi:10.1016/j.jallcom.2014.02.071</a> M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1984-750910">doi:10.1515/ijmr-1984-750910</a> Johann Mikler, Alfred Janitsch, Kurt L. Komarek, Heat Capacity of Liquid Au-In Alloys, International Journal of Materials Research 75, 719-723 (1984).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

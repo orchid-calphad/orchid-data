@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-LU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-LU/GaLu-22Ait-RK.json) · [Markdown](https://data.orchid-project.org/systems/GA-LU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-LU/GaLu-22Ait-RK.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-LU.html) · [Markdown](https://data.orchid-project.org/systems/GA-LU.md)
 
 ## Calculated phase diagrams
 

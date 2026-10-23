@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-Y.html · Markdown: https://dat
 
 57 accepted literature values from 1 paper(s) (experimental 26, model 31); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-Y.html) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
 
 Table: Accepted values by evidence class
 

@@ -1,0 +1,529 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ni–Y phases — ORCHID phase registry</title>
+<meta name="description" content="Ni–Y system: 13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/NI-Y.html">
+<link rel="alternate" type="text/markdown" href="NI-Y.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Ni–Y system: 13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/NI-Y.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/NI-Y.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:bcc-a2","tdb:NiY-05Du.tdb:BCC_A2","tdb:NiY-15Hua.tdb:BCC_A2","tdb:NiY-21Wan.tdb:BCC_A2","tdb:NiY-96Du-LB.tdb:BCC_A2","tdb:NiY-96Du-orig.tdb:BCC_A2"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:ni-y:bcc-a2","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:fcc-a1","tdb:NiY-05Du.tdb:FCC_A1","tdb:NiY-15Hua.tdb:FCC_A1","tdb:NiY-21Wan.tdb:FCC_A1","tdb:NiY-96Du-LB.tdb:FCC_A1","tdb:NiY-96Du-orig.tdb:FCC_A1"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:ni-y:fcc-a1","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:hcp-a3","tdb:NiY-05Du.tdb:HCP_A3","tdb:NiY-15Hua.tdb:HCP_A3","tdb:NiY-21Wan.tdb:HCP_A3","tdb:NiY-96Du-LB.tdb:HCP_A3","tdb:NiY-96Du-orig.tdb:HCP_A3"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:ni-y:hcp-a3","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:liquid","tdb:NiY-05Du.tdb:LIQUID","tdb:NiY-15Hua.tdb:LIQUID","tdb:NiY-21Wan.tdb:LIQUID","tdb:NiY-96Du-LB.tdb:LIQUID","tdb:NiY-96Du-orig.tdb:LIQUID"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ni-y:liquid","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni17y2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni17y2","tdb:NiY-05Du.tdb:NI17Y2","tdb:NiY-15Hua.tdb:NI17Y2","tdb:NiY-21Wan.tdb:NI17Y2","tdb:NiY-96Du-LB.tdb:NI17Y2","tdb:NiY-96Du-orig.tdb:NI17Y2"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI17Y2","reviewStatus":"needs_review","termCode":"phase:ni-y:ni17y2","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni17y2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni2y","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni2y","tdb:NiY-05Du.tdb:NI2Y","tdb:NiY-15Hua.tdb:NI2Y","tdb:NiY-21Wan.tdb:NI2Y","tdb:NiY-96Du-LB.tdb:NI2Y","tdb:NiY-96Du-orig.tdb:NI2Y"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI2Y","pearsonSymbol":"cF192","prototype":"Ni2Tm","reviewStatus":"assigned","spaceGroupNumber":216,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni2tm-cf192","termCode":"phase:ni-y:ni2y","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni2y"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni2y3","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni2y3","tdb:NiY-05Du.tdb:NI2Y3","tdb:NiY-15Hua.tdb:NI2Y3","tdb:NiY-21Wan.tdb:NI2Y3","tdb:NiY-96Du-LB.tdb:NI2Y3","tdb:NiY-96Du-orig.tdb:NI2Y3"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI2Y3","pearsonSymbol":"tP80","prototype":"Ni2Y3","reviewStatus":"assigned","spaceGroupNumber":92,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni2y3-tp80","termCode":"phase:ni-y:ni2y3","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni2y3"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni3y","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni3y","tdb:NiY-05Du.tdb:NI3Y","tdb:NiY-15Hua.tdb:NI3Y","tdb:NiY-21Wan.tdb:NI3Y","tdb:NiY-96Du-LB.tdb:NI3Y","tdb:NiY-96Du-orig.tdb:NI3Y"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3Y","pearsonSymbol":"hR12","prototype":"Ni3Pu","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni3pu-hr12","termCode":"phase:ni-y:ni3y","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni3y"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni4y","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni4y","tdb:NiY-05Du.tdb:NI4Y","tdb:NiY-15Hua.tdb:NI4Y","tdb:NiY-21Wan.tdb:NI4Y","tdb:NiY-96Du-LB.tdb:NI4Y","tdb:NiY-96Du-orig.tdb:NI4Y"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI4Y","reviewStatus":"needs_review","termCode":"phase:ni-y:ni4y","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni4y"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni5y-d2d","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni5y-d2d","tdb:NiY-15Hua.tdb:NI5Y_D2D","tdb:NiY-21Wan.tdb:NI5Y_D2D","tdb:NiY-96Du-LB.tdb:NI5Y_D2D","tdb:NiY-96Du-orig.tdb:NI5Y_D2D"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI5Y_D2D","reviewStatus":"needs_review","termCode":"phase:ni-y:ni5y-d2d","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni5y-d2d"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:ni7y2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:ni7y2","tdb:NiY-05Du.tdb:NI7Y2","tdb:NiY-15Hua.tdb:NI7Y2","tdb:NiY-21Wan.tdb:NI7Y2","tdb:NiY-96Du-LB.tdb:NI7Y2","tdb:NiY-96Du-orig.tdb:NI7Y2"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI7Y2","pearsonSymbol":"hP36","prototype":"Ce2Ni7","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ce2ni7-hp36","termCode":"phase:ni-y:ni7y2","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-ni7y2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:niy-b27","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:niy-b27","mp:mp-aaaaacam","oqmd:oqmd-17852","tdb:NiY-05Du.tdb:NIY_B27","tdb:NiY-15Hua.tdb:NIY_B27","tdb:NiY-21Wan.tdb:NIY_B27","tdb:NiY-96Du-LB.tdb:NIY_B27","tdb:NiY-96Du-orig.tdb:NIY_B27"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NIY_B27","pearsonSymbol":"oP8","prototype":"FeB","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b27-feb-op8","strukturbericht":"B27","termCode":"phase:ni-y:niy-b27","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-niy-b27"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-y:niy3-d011","@type":"DefinedTerm","alternateName":["corpus:phase:ni-y:niy3-d011","mp:mp-aaackxoj","oqmd:oqmd-31307","tdb:NiY-05Du.tdb:NIY3_D011","tdb:NiY-15Hua.tdb:NIY3_D011","tdb:NiY-21Wan.tdb:NIY3_D011","tdb:NiY-96Du-LB.tdb:NIY3_D011","tdb:NiY-96Du-orig.tdb:NIY3_D011"],"chemicalSystem":"NI-Y","citation":[{"@id":"https://doi.org/10.1007/s11669-015-0390-6","@type":"ScholarlyArticle","name":"Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015)."},{"@id":"https://doi.org/10.1016/j.calphad.2020.102214","@type":"ScholarlyArticle","name":"Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021)."},{"@id":"https://doi.org/10.1016/S0925-8388(96)02436-X","@type":"ScholarlyArticle","name":"Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NIY3_D011","pearsonSymbol":"oP16","prototype":"Fe3C","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-11-fe3c-op16","strukturbericht":"D0_11","termCode":"phase:ni-y:niy3-d011","url":"https://data.orchid-project.org/phases/pages/NI-Y.html#phase-ni-y-niy3-d011"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Ni–Y"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Ni–Y phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/NI-Y.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Ni–Y phases</h1>
+<p>13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=NI-Y">interactive registry</a> · <a href="../systems/NI-Y.json">full JSON</a> · <a href="../../systems/NI-Y.html">Ni–Y system page</a> · <a href="NI-Y.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Ni–Y system (13)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-ni-y-bcc-a2">BCC_A2</a><br><small>phase:ni-y:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 1750.95–2499.9 K, x(Y) 0.99926–1</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-fcc-a1">FCC_A1</a><br><small>phase:ni-y:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1753.83 K, x(Y) 0–0.00309</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-hcp-a3">HCP_A3</a><br><small>phase:ni-y:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1751.15 K, x(Y) 0.99793–1</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-liquid">LIQUID</a><br><small>phase:ni-y:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 5 of 5 calculated diagram(s): 1078.02–2500 K, x(Y) 0–1</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni17y2">NI17Y2</a><br><small>phase:ni-y:ni17y2</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–1702.75 K, x(Y) 0.10526–0.16667</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni2y">NI2Y</a><br><small>phase:ni-y:ni2y</small></th><td>Ni2Tm · cF192 · F-43m (216)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 5 calculated diagram(s): 300–1379.04 K, x(Y) 0.33333–0.33333</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni2y3">NI2Y3</a><br><small>phase:ni-y:ni2y3</small></th><td>Ni2Y3 · tP80 · P4_12_12 (92)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 5 calculated diagram(s): 300–1098.36 K, x(Y) 0.6–0.6</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni3y">NI3Y</a><br><small>phase:ni-y:ni3y</small></th><td>Ni3Pu · hR12 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 5 calculated diagram(s): 300–1509.61 K, x(Y) 0.25–0.25</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni4y">NI4Y</a><br><small>phase:ni-y:ni4y</small></th><td></td><td>needs_review</td><td>stable in 5 of 5 calculated diagram(s): 300–1613.47 K, x(Y) 0.2–0.2</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni5y-d2d">NI5Y_D2D</a><br><small>phase:ni-y:ni5y-d2d</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–1702.76 K, x(Y) 0.16667–0.16667</td><td class="n">0</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-ni7y2">NI7Y2</a><br><small>phase:ni-y:ni7y2</small></th><td>Ce2Ni7 · hP36 · P6_3/mmc (194)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 5 calculated diagram(s): 300–1570.49 K, x(Y) 0.22222–0.22222</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-niy-b27">NIY_B27</a><br><small>phase:ni-y:niy-b27</small></th><td>FeB · B27 · oP8 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1344.05 K, x(Y) 0.5–0.5</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-ni-y-niy3-d011">NIY3_D011</a><br><small>phase:ni-y:niy3-d011</small></th><td>Fe3C · D0_11 · oP16 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1180 K, x(Y) 0.75–0.75</td><td class="n">0</td><td class="n">5</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-ni-y-bcc-a2">BCC_A2 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 1750.95–2499.9 K, x(Y) 0.99926–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:bcc-a2<br><small>tdb: </small>tdb:NiY-05Du.tdb:BCC_A2, tdb:NiY-15Hua.tdb:BCC_A2, tdb:NiY-21Wan.tdb:BCC_A2, tdb:NiY-96Du-LB.tdb:BCC_A2, tdb:NiY-96Du-orig.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: BCC_A2, type code %B, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>38: PHASE BCC_A2 %B 2 1 3 !
+39: CONST BCC_A2 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: BCC_A2, type code %B, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: BCC_A2, type code %B, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>37: PHASE BCC_A2 %B 2 1 3 !
+38: CONST BCC_A2 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>41: PHASE BCC_A2 %B 2 1 3 !
+42: CONST BCC_A2 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: BCC_A2, type code %B, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>42: PHASE BCC_A2 %B 2 1 3 !
+43: CONST BCC_A2 : NI Y% : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-fcc-a1">FCC_A1 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1753.83 K, x(Y) 0–0.00309</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:fcc-a1<br><small>tdb: </small>tdb:NiY-05Du.tdb:FCC_A1, tdb:NiY-15Hua.tdb:FCC_A1, tdb:NiY-21Wan.tdb:FCC_A1, tdb:NiY-96Du-LB.tdb:FCC_A1, tdb:NiY-96Du-orig.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: FCC_A1, type code %A, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>33: PHASE FCC_A1 %A 2 1 1 !
+34: CONST FCC_A1 : NI% Y : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: FCC_A1, type code %A, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : NI% Y : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: FCC_A1, type code %A, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>32: PHASE FCC_A1 %A 2 1 1 !
+33: CONST FCC_A1 : NI% Y : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>36: PHASE FCC_A1 %A 2 1 1 !
+37: CONST FCC_A1 : NI% Y : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: FCC_A1, type code %A, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>37: PHASE FCC_A1 %A 2 1 1 !
+38: CONST FCC_A1 : NI% Y : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-hcp-a3">HCP_A3 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1751.15 K, x(Y) 0.99793–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:hcp-a3<br><small>tdb: </small>tdb:NiY-05Du.tdb:HCP_A3, tdb:NiY-15Hua.tdb:HCP_A3, tdb:NiY-21Wan.tdb:HCP_A3, tdb:NiY-96Du-LB.tdb:HCP_A3, tdb:NiY-96Du-orig.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: HCP_A3, type code %A, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>43: PHASE HCP_A3 %A 2 1 0.5 !
+44: CONST HCP_A3 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: HCP_A3, type code %A, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: HCP_A3, type code %A, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>42: PHASE HCP_A3 %A 2 1 0.5 !
+43: CONST HCP_A3 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>46: PHASE HCP_A3 %A 2 1 0.5 !
+47: CONST HCP_A3 : NI Y% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: HCP_A3, type code %A, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>47: PHASE HCP_A3 %A 2 1 0.5 !
+48: CONST HCP_A3 : NI Y% : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-liquid">LIQUID (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 1078.02–2500 K, x(Y) 0–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:liquid<br><small>tdb: </small>tdb:NiY-05Du.tdb:LIQUID, tdb:NiY-15Hua.tdb:LIQUID, tdb:NiY-21Wan.tdb:LIQUID, tdb:NiY-96Du-LB.tdb:LIQUID, tdb:NiY-96Du-orig.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: LIQUID, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>28: PHASE LIQUID:L % 1 1 !
+29: CONST LIQUID:L : NI Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: LIQUID, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : NI Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: LIQUID, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>27: PHASE LIQUID:L % 1 1 !
+28: CONST LIQUID:L : NI Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: LIQUID, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>31: PHASE LIQUID:L % 1 1 !
+32: CONST LIQUID:L : NI Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: LIQUID, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>32: PHASE LIQUID:L % 1 1 !
+33: CONST LIQUID:L : NI Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni17y2">NI17Y2 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni17y2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_rows_disagree</li>
+<li>Candidate (dft_mp): P6/mmm (191) — on-hull MP YNi5 at x(Y)=0.1667</li>
+<li>Candidate (dft_oqmd): P6/mmm (191) — on-hull OQMD Ni5 Y1 at x(Y)=0.1667</li>
+<li>Candidate (sgte_mmc2): CaCu5 · D2_d · hP6 · P6/mmm (191) — Hallstedt 2025 mmc2 row for NI17Y2: Ni5Y, see also Fe17Lu2</li>
+<li>Candidate (sgte_mmc2): Ni17Th2 · hP38 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for NI17Y2: Ni17Y2</li>
+<li>Candidate (sgte_mmc2): Ni17Th2 · hP38 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for NI17Y2: Ni17Y2 (see also CaCu5)</li>
+<li>Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm, D2_d — NiY-05Du.tdb: &#x27;Prototype CaCu5 (hP6, P6/mmm, D2_d), Ni5Y&#x27;</li>
+<li>Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — NiY-05Du.tdb: &#x27;Prototype Ni17Th2 (hP38, P6_3/mmc), Ni17Y2&#x27;</li>
+<li>Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — NiY-15Hua.tdb: &#x27;Prototype Ni17Th2 (hP38, P6_3/mmc)&#x27;</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1702.75 K, x(Y) 0.10526–0.16667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni17y2">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni17y2<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI17Y2, tdb:NiY-15Hua.tdb:NI17Y2, tdb:NiY-21Wan.tdb:NI17Y2, tdb:NiY-96Du-LB.tdb:NI17Y2, tdb:NiY-96Du-orig.tdb:NI17Y2<br></p>
+<h3>TDB models of NI17Y2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI17Y2, type code %A, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>49: PHASE NI17Y2 %A 3 1 2 15 !
+50: CONST NI17Y2 : NI2 Y : Y : NI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI17Y2, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>46: PHASE NI17Y2 % 2 17 2 !
+47: CONST NI17Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI17Y2, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>47: PHASE NI17Y2 % 3 1 2 15 !
+48: CONST NI17Y2 : NI2 Y : Y : NI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI17Y2, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>51: PHASE NI17Y2 % 2 17 2 !
+52: CONST NI17Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI17Y2, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>52: PHASE NI17Y2 % 2 17 2 !
+53: CONST NI17Y2 : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni2y">NI2Y (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni2y</code>; status <code>assigned</code></li>
+<li>Structure: Ni2Tm · cF192 · F-43m (216); type <code>st:ni2tm-cf192</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.6667, Y 0.3333</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1379.04 K, x(Y) 0.33333–0.33333</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni2y">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni2y<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI2Y, tdb:NiY-15Hua.tdb:NI2Y, tdb:NiY-21Wan.tdb:NI2Y, tdb:NiY-96Du-LB.tdb:NI2Y, tdb:NiY-96Du-orig.tdb:NI2Y<br></p>
+<h3>TDB models of NI2Y (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI2Y, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>69: PHASE NI2Y % 2 2 1 !
+70: CONST NI2Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI2Y, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>71: PHASE NI2Y % 2 2 1 !
+72: CONST NI2Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI2Y, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>72: PHASE NI2Y % 2 2 1 !
+73: CONST NI2Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI2Y, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>76: PHASE NI2Y % 2 2 1 !
+77: CONST NI2Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI2Y, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>77: PHASE NI2Y % 2 2 1 !
+78: CONST NI2Y : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni2y3">NI2Y3 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni2y3</code>; status <code>assigned</code></li>
+<li>Structure: Ni2Y3 · tP80 · P4_12_12 (92); type <code>st:ni2y3-tp80</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.4000, Y 0.6000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1098.36 K, x(Y) 0.6–0.6</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni2y3">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni2y3<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI2Y3, tdb:NiY-15Hua.tdb:NI2Y3, tdb:NiY-21Wan.tdb:NI2Y3, tdb:NiY-96Du-LB.tdb:NI2Y3, tdb:NiY-96Du-orig.tdb:NI2Y3<br></p>
+<h3>TDB models of NI2Y3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI2Y3, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>79: PHASE NI2Y3 % 2 2 3 !
+80: CONST NI2Y3 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI2Y3, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>81: PHASE NI2Y3 % 2 2 3 !
+82: CONST NI2Y3 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI2Y3, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>82: PHASE NI2Y3 % 2 2 3 !
+83: CONST NI2Y3 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI2Y3, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>86: PHASE NI2Y3 % 2 2 3 !
+87: CONST NI2Y3 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI2Y3, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>87: PHASE NI2Y3 % 2 2 3 !
+88: CONST NI2Y3 : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni3y">NI3Y (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni3y</code>; status <code>assigned</code></li>
+<li>Structure: Ni3Pu · hR12 · R-3m (166); type <code>st:ni3pu-hr12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.7500, Y 0.2500</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1509.61 K, x(Y) 0.25–0.25</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni3y">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni3y<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI3Y, tdb:NiY-15Hua.tdb:NI3Y, tdb:NiY-21Wan.tdb:NI3Y, tdb:NiY-96Du-LB.tdb:NI3Y, tdb:NiY-96Du-orig.tdb:NI3Y<br></p>
+<h3>TDB models of NI3Y (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI3Y, type code %A, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>64: PHASE NI3Y %A 2 3 1 !
+65: CONST NI3Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI3Y, type code %A, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>66: PHASE NI3Y %A 2 3 1 !
+67: CONST NI3Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI3Y, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>67: PHASE NI3Y % 2 3 1 !
+68: CONST NI3Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI3Y, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>71: PHASE NI3Y % 2 3 1 !
+72: CONST NI3Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI3Y, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>72: PHASE NI3Y % 2 3 1 !
+73: CONST NI3Y : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni4y">NI4Y (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni4y</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Ni4Y) — Hallstedt 2025 mmc2 row for NI4Y: Ni4Y</li>
+<li>Stoichiometry: Ni 0.8000, Y 0.2000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1613.47 K, x(Y) 0.2–0.2</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni4y">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni4y<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI4Y, tdb:NiY-15Hua.tdb:NI4Y, tdb:NiY-21Wan.tdb:NI4Y, tdb:NiY-96Du-LB.tdb:NI4Y, tdb:NiY-96Du-orig.tdb:NI4Y<br></p>
+<h3>TDB models of NI4Y (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI4Y, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>54: PHASE NI4Y % 2 4 1 !
+55: CONST NI4Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI4Y, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>56: PHASE NI4Y % 2 4 1 !
+57: CONST NI4Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI4Y, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>57: PHASE NI4Y % 2 4 1 !
+58: CONST NI4Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI4Y, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>61: PHASE NI4Y % 2 4 1 !
+62: CONST NI4Y : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI4Y, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>62: PHASE NI4Y % 2 4 1 !
+63: CONST NI4Y : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni5y-d2d">NI5Y_D2D (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni5y-d2d</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D2_d; site_ratios_contradict_D2_d:NiY-21Wan.tdb</li>
+<li>Candidate (name_token): CaCu5 · D2_d · hP6 · P6/mmm (191) — Strukturbericht/word &#x27;D2D&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): CaCu5 · D2_d · hP6 · P6/mmm (191) — Hallstedt 2025 mmc2 row for NI5Y_D2D: Ni5Y</li>
+<li>Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-15Hua.tdb: &#x27;Prototype CaCu5 (hP6, P6/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-21Wan.tdb: &#x27;Prototype CaCu5 (hP6, P6/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-96Du-LB.tdb: &#x27;Prototype CaCu5 (hP6, P6/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-96Du-orig.tdb: &#x27;Prototype CaCu5 (hP6, P6/mmm)&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1702.76 K, x(Y) 0.16667–0.16667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni5y-d2d">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ni-y:ni5y-d2d<br><small>tdb: </small>tdb:NiY-15Hua.tdb:NI5Y_D2D, tdb:NiY-21Wan.tdb:NI5Y_D2D, tdb:NiY-96Du-LB.tdb:NI5Y_D2D, tdb:NiY-96Du-orig.tdb:NI5Y_D2D<br></p>
+<h3>TDB models of NI5Y_D2D (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI5Y_D2D, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>51: PHASE NI5Y_D2D % 2 5 1 !
+52: CONST NI5Y_D2D : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI5Y_D2D, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>52: PHASE NI5Y_D2D % 3 1 4 1 !
+53: CONST NI5Y_D2D : Y : NI : NI VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI5Y_D2D, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>56: PHASE NI5Y_D2D % 2 5 1 !
+57: CONST NI5Y_D2D : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI5Y_D2D, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>57: PHASE NI5Y_D2D % 2 5 1 !
+58: CONST NI5Y_D2D : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-ni7y2">NI7Y2 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:ni7y2</code>; status <code>assigned</code></li>
+<li>Structure: Ce2Ni7 · hP36 · P6_3/mmc (194); type <code>st:ce2ni7-hp36</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.7778, Y 0.2222</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1570.49 K, x(Y) 0.22222–0.22222</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:ni7y2">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-y:ni7y2<br><small>tdb: </small>tdb:NiY-05Du.tdb:NI7Y2, tdb:NiY-15Hua.tdb:NI7Y2, tdb:NiY-21Wan.tdb:NI7Y2, tdb:NiY-96Du-LB.tdb:NI7Y2, tdb:NiY-96Du-orig.tdb:NI7Y2<br></p>
+<h3>TDB models of NI7Y2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NI7Y2, type code %A, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>59: PHASE NI7Y2 %A 2 7 2 !
+60: CONST NI7Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NI7Y2, type code %A, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>61: PHASE NI7Y2 %A 2 7 2 !
+62: CONST NI7Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NI7Y2, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>62: PHASE NI7Y2 % 2 7 2 !
+63: CONST NI7Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NI7Y2, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>66: PHASE NI7Y2 % 2 7 2 !
+67: CONST NI7Y2 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NI7Y2, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>67: PHASE NI7Y2 % 2 7 2 !
+68: CONST NI7Y2 : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-niy-b27">NIY_B27 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:niy-b27</code>; status <code>assigned</code></li>
+<li>Structure: FeB · B27 · oP8 · Pnma (62); type <code>st:b27-feb-op8</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaacam and oqmd-17852, space group 62</li>
+<li>Stoichiometry: Ni 0.5000, Y 0.5000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1344.05 K, x(Y) 0.5–0.5</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:niy-b27">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:ni-y:niy-b27<br><small>mp: </small>mp:mp-aaaaacam<br><small>oqmd: </small>oqmd:oqmd-17852<br><small>tdb: </small>tdb:NiY-05Du.tdb:NIY_B27, tdb:NiY-15Hua.tdb:NIY_B27, tdb:NiY-21Wan.tdb:NIY_B27, tdb:NiY-96Du-LB.tdb:NIY_B27, tdb:NiY-96Du-orig.tdb:NIY_B27<br></p>
+<h3>TDB models of NIY_B27 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NIY_B27, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>74: PHASE NIY_B27 % 2 1 1 !
+75: CONST NIY_B27 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NIY_B27, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>76: PHASE NIY_B27 % 2 1 1 !
+77: CONST NIY_B27 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NIY_B27, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>77: PHASE NIY_B27 % 2 1 1 !
+78: CONST NIY_B27 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NIY_B27, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>81: PHASE NIY_B27 % 2 1 1 !
+82: CONST NIY_B27 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NIY_B27, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>82: PHASE NIY_B27 % 2 1 1 !
+83: CONST NIY_B27 : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-y-niy3-d011">NIY3_D011 (Ni–Y)</h2>
+<ul>
+<li>Id: <code>phase:ni-y:niy3-d011</code>; status <code>assigned</code></li>
+<li>Structure: Fe3C · D0_11 · oP16 · Pnma (62); type <code>st:d0-11-fe3c-op16</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaackxoj and oqmd-31307, space group 62</li>
+<li>Stoichiometry: Ni 0.2500, Y 0.7500</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1180 K, x(Y) 0.75–0.75</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-y:niy3-d011">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:ni-y:niy3-d011<br><small>mp: </small>mp:mp-aaackxoj<br><small>oqmd: </small>oqmd:oqmd-31307<br><small>tdb: </small>tdb:NiY-05Du.tdb:NIY3_D011, tdb:NiY-15Hua.tdb:NIY3_D011, tdb:NiY-21Wan.tdb:NIY3_D011, tdb:NiY-96Du-LB.tdb:NIY3_D011, tdb:NiY-96Du-orig.tdb:NIY3_D011<br></p>
+<h3>TDB models of NIY3_D011 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-05Du.tdb">NiY-05Du.tdb</a>: NIY3_D011, type code %, sha256 <code>bbdd62ff4a5e36e0…</code></p>
+<pre>84: PHASE NIY3_D011 % 2 1 3 !
+85: CONST NIY3_D011 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-15Hua.tdb">NiY-15Hua.tdb</a>: NIY3_D011, type code %, sha256 <code>dc9a8bc028e96db6…</code></p>
+<pre>86: PHASE NIY3_D011 % 2 1 3 !
+87: CONST NIY3_D011 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-21Wan.tdb">NiY-21Wan.tdb</a>: NIY3_D011, type code %, sha256 <code>e22ecaca9278345e…</code></p>
+<pre>87: PHASE NIY3_D011 % 2 1 3 !
+88: CONST NIY3_D011 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-LB.tdb">NiY-96Du-LB.tdb</a>: NIY3_D011, type code %, sha256 <code>72e391ce92b82a89…</code></p>
+<pre>91: PHASE NIY3_D011 % 2 1 3 !
+92: CONST NIY3_D011 : NI : Y : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiY-96Du-orig.tdb">NiY-96Du-orig.tdb</a>: NIY3_D011, type code %, sha256 <code>60a9de8a7a15712d…</code></p>
+<pre>92: PHASE NIY3_D011 % 2 1 3 !
+93: CONST NIY3_D011 : NI : Y : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-015-0390-6">doi:10.1007/s11669-015-0390-6</a> Jiapeng Huang, Bin Yang, Huiming Chen, Hang Wang, Thermodynamic Optimisation of the Ni-Al-Y Ternary System, J. Phase Equilib. Diffus. 36, 357-365 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2020.102214">doi:10.1016/j.calphad.2020.102214</a> Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(96)02436-X">doi:10.1016/S0925-8388(96)02436-X</a> Z. Du, W. Zhang, J. Alloys Compd., 245, 164-67(1996).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

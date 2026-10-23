@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-NI.html · Markdown: https://da
 
 28 accepted literature values from 1 paper(s) (experimental 14, model 14); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-NI.json) · [CSV](https://data.orchid-project.org/systems/ER-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-NI/ErNi-99Du.json) · [Markdown](https://data.orchid-project.org/systems/ER-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-NI.json) · [CSV](https://data.orchid-project.org/systems/ER-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-NI/ErNi-99Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/ER-NI.html) · [Markdown](https://data.orchid-project.org/systems/ER-NI.md)
 
 Table: Accepted values by evidence class
 

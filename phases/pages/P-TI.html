@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>P–Ti phases — ORCHID phase registry</title>
+<meta name="description" content="P–Ti system: 13 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/P-TI.html">
+<link rel="alternate" type="text/markdown" href="P-TI.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"P–Ti system: 13 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/P-TI.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/P-TI.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:bcc-a2","tdb:TiP-06Oht.tdb:BCC_A2"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:p-ti:bcc-a2","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:c22-m2p","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:c22-m2p","tdb:TiP-06Oht.tdb:M2P_C22"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"M2P_C22","pearsonSymbol":"hP9","prototype":"Fe2P","reviewStatus":"assigned","spaceGroupNumber":189,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c22-fe2p-hp9","strukturbericht":"C22","termCode":"phase:p-ti:c22-m2p","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-c22-m2p"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:fcc-a1","tdb:TiP-06Oht.tdb:FCC_A1"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:p-ti:fcc-a1","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:hcp-a3","tdb:TiP-06Oht.tdb:HCP_A3"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:p-ti:hcp-a3","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:liquid","tdb:TiP-06Oht.tdb:LIQUID"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:p-ti:liquid","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:p-red","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:p-red","tdb:TiP-06Oht.tdb:RED_P"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"RED_P","reviewStatus":"needs_review","termCode":"phase:p-ti:p-red","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-p-red"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:p-white","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:p-white","tdb:TiP-06Oht.tdb:WHITE_P"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"WHITE_P","reviewStatus":"needs_review","termCode":"phase:p-ti:p-white","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-p-white"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:ti3p","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:ti3p","mp:mp-aaaabueo","oqmd:oqmd-7984","tdb:TiP-06Oht.tdb:TI3P"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TI3P","pearsonSymbol":"tP32","prototype":"Ti3P","reviewStatus":"assigned","spaceGroupNumber":86,"structureBasis":"dft_unique_match","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ti3p-tp32","termCode":"phase:p-ti:ti3p","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-ti3p"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:ti4p3-d73","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:ti4p3-d73","tdb:TiP-06Oht.tdb:TI4P3_D73"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TI4P3_D73","pearsonSymbol":"cI28","prototype":"Th3P4","reviewStatus":"assigned","spaceGroupNumber":220,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d7-3-th3p4-ci28","strukturbericht":"D7_3","termCode":"phase:p-ti:ti4p3-d73","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-ti4p3-d73"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:ti5p3-alpha","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:ti5p3-alpha","tdb:TiP-06Oht.tdb:TI5P3_ALPHA"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TI5P3_ALPHA","reviewStatus":"needs_review","termCode":"phase:p-ti:ti5p3-alpha","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-ti5p3-alpha"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:ti5p3-d88","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:ti5p3-d88","tdb:TiP-06Oht.tdb:TI5P3_D88"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TI5P3_D88","reviewStatus":"needs_review","termCode":"phase:p-ti:ti5p3-d88","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-ti5p3-d88"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:tip-bi","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:tip-bi","tdb:TiP-06Oht.tdb:TIP_BI"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TIP_BI","pearsonSymbol":"hP8","prototype":"TiAs","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b-i-tias-hp8","strukturbericht":"B_i","termCode":"phase:p-ti:tip-bi","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-tip-bi"},{"@id":"https://data.orchid-project.org/phases/#phase:p-ti:tip2-c37","@type":"DefinedTerm","alternateName":["corpus:phase:p-ti:tip2-c37","mp:mp-aaaabebv","oqmd:oqmd-4606","tdb:TiP-06Oht.tdb:TIP2_C37"],"chemicalSystem":"P-TI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2005.09.006","@type":"ScholarlyArticle","name":"H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TIP2_C37","pearsonSymbol":"oP12","prototype":"Co2Si","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c37-co2si-op12","strukturbericht":"C37","termCode":"phase:p-ti:tip2-c37","url":"https://data.orchid-project.org/phases/pages/P-TI.html#phase-p-ti-tip2-c37"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","P–Ti"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"P–Ti phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/P-TI.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>P–Ti phases</h1>
+<p>13 phases (tier A 6, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=P-TI">interactive registry</a> · <a href="../systems/P-TI.json">full JSON</a> · <a href="P-TI.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the P–Ti system (13)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-p-ti-bcc-a2">BCC_A2</a><br><small>phase:p-ti:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 1154.99–2499.94 K, x(P) 0–0.00321</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-c22-m2p">M2P_C22</a><br><small>phase:p-ti:c22-m2p</small></th><td>Fe2P · C22 · hP9 · P-62m (189)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–2192.61 K, x(P) 0.33333–0.33333</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-fcc-a1">FCC_A1</a><br><small>phase:p-ti:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>not stable in 1 calculated diagram(s)</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-hcp-a3">HCP_A3</a><br><small>phase:p-ti:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1939.99 K, x(P) 0–0</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-liquid">LIQUID</a><br><small>phase:p-ti:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 1 of 1 calculated diagram(s): 852.3–2500 K, x(P) 0–1</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-p-red">RED_P</a><br><small>phase:p-ti:p-red</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–852.3 K, x(P) 1–1</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-p-white">WHITE_P</a><br><small>phase:p-ti:p-white</small></th><td></td><td>needs_review</td><td>not stable in 1 calculated diagram(s)</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-ti3p">TI3P</a><br><small>phase:p-ti:ti3p</small></th><td>Ti3P · tP32 · P4_2/n (86)</td><td>tier B: DFT-supported (unique MP + OQMD match)</td><td>stable in 1 of 1 calculated diagram(s): 300–2036.93 K, x(P) 0.25–0.25</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-ti4p3-d73">TI4P3_D73</a><br><small>phase:p-ti:ti4p3-d73</small></th><td>Th3P4 · D7_3 · cI28 · I-43d (220)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 600.91–2333.53 K, x(P) 0.42857–0.42857</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-ti5p3-alpha">TI5P3_ALPHA</a><br><small>phase:p-ti:ti5p3-alpha</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–2105.93 K, x(P) 0.37–0.37</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-ti5p3-d88">TI5P3_D88</a><br><small>phase:p-ti:ti5p3-d88</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–2360.75 K, x(P) 0.36129–0.39</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-tip-bi">TIP_BI</a><br><small>phase:p-ti:tip-bi</small></th><td>TiAs · B_i · hP8 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–2268.81 K, x(P) 0.48437–0.5</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-p-ti-tip2-c37">TIP2_C37</a><br><small>phase:p-ti:tip2-c37</small></th><td>Co2Si · C37 · oP12 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 300–1856.49 K, x(P) 0.66667–0.66667</td><td class="n">0</td><td class="n">1</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-p-ti-bcc-a2">BCC_A2 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 1154.99–2499.94 K, x(P) 0–0.00321</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:bcc-a2<br><small>tdb: </small>tdb:TiP-06Oht.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: BCC_A2, type code %B, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : P TI% : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-c22-m2p">M2P_C22 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:c22-m2p</code>; status <code>assigned</code></li>
+<li>Structure: Fe2P · C22 · hP9 · P-62m (189); type <code>st:c22-fe2p-hp9</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M2P); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: P 0.3333, Ti 0.6667</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2192.61 K, x(P) 0.33333–0.33333</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:c22-m2p">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:c22-m2p<br><small>tdb: </small>tdb:TiP-06Oht.tdb:M2P_C22<br></p>
+<h3>TDB models of M2P_C22 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: M2P_C22, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>60: PHASE M2P_C22 % 2 2 1 !
+61: CONST M2P_C22 : TI : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-fcc-a1">FCC_A1 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 1 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:fcc-a1<br><small>tdb: </small>tdb:TiP-06Oht.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: FCC_A1, type code %A, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : P TI : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-hcp-a3">HCP_A3 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Ti 1.0000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1939.99 K, x(P) 0–0</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:hcp-a3<br><small>tdb: </small>tdb:TiP-06Oht.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: HCP_A3, type code %A, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : TI : VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-liquid">LIQUID (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 852.3–2500 K, x(P) 0–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:liquid<br><small>tdb: </small>tdb:TiP-06Oht.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: LIQUID, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : P TI : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-p-red">RED_P (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:p-red</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token</li>
+<li>Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–852.3 K, x(P) 1–1</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:p-red">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:p-red<br><small>tdb: </small>tdb:TiP-06Oht.tdb:RED_P<br></p>
+<h3>TDB models of RED_P (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: RED_P, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>50: PHASE RED_P % 1 1 !
+51: CONST RED_P : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-p-white">WHITE_P (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:p-white</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token</li>
+<li>Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P</li>
+<li>Stability: not stable in 1 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:p-white">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:p-white<br><small>tdb: </small>tdb:TiP-06Oht.tdb:WHITE_P<br></p>
+<h3>TDB models of WHITE_P (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: WHITE_P, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>45: PHASE WHITE_P % 1 1 !
+46: CONST WHITE_P : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-ti3p">TI3P (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:ti3p</code>; status <code>assigned</code></li>
+<li>Structure: Ti3P · tP32 · P4_2/n (86); type <code>st:ti3p-tp32</code>; tier B: DFT-supported (unique MP + OQMD match); confidence high</li>
+<li>Stoichiometry: P 0.2500, Ti 0.7500</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2036.93 K, x(P) 0.25–0.25</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:ti3p">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:p-ti:ti3p<br><small>mp: </small>mp:mp-aaaabueo<br><small>oqmd: </small>oqmd:oqmd-7984<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TI3P<br></p>
+<h3>TDB models of TI3P (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TI3P, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>55: PHASE TI3P % 2 3 1 !
+56: CONST TI3P : TI : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-ti4p3-d73">TI4P3_D73 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:ti4p3-d73</code>; status <code>assigned</code></li>
+<li>Structure: Th3P4 · D7_3 · cI28 · I-43d (220); type <code>st:d7-3-th3p4-ci28</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: P 0.4286, Ti 0.5714</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 600.91–2333.53 K, x(P) 0.42857–0.42857</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:ti4p3-d73">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:ti4p3-d73<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TI4P3_D73<br></p>
+<h3>TDB models of TI4P3_D73 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TI4P3_D73, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>75: PHASE TI4P3_D73 % 2 4 3 !
+76: CONST TI4P3_D73 : TI : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-ti5p3-alpha">TI5P3_ALPHA (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:ti5p3-alpha</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (sgte_mmc2): Sb3Yb5 · oP32 · Pnma (62) — Hallstedt 2025 mmc2 row for TI5P3_ALPHA: Ti5P3 (Ti1.7P)</li>
+<li>Candidate (tdb_comment): Sb3Yb5 · oP32 · Pnma — TiP-06Oht.tdb: &#x27;Prototype Sb3Yb5 (oP32, Pnma), Ti1.7P&#x27;</li>
+<li>Stoichiometry: P 0.3700, Ti 0.6300</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2105.93 K, x(P) 0.37–0.37</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:ti5p3-alpha">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:ti5p3-alpha<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TI5P3_ALPHA<br></p>
+<h3>TDB models of TI5P3_ALPHA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TI5P3_ALPHA, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>65: PHASE TI5P3_ALPHA % 2 0.63 0.37 !
+66: CONST TI5P3_ALPHA : TI : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-ti5p3-d88">TI5P3_D88 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:ti5p3-d88</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D8_8; site_ratios_contradict_D8_8:TiP-06Oht.tdb</li>
+<li>Candidate (name_token): Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) — Strukturbericht/word &#x27;D88&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) — Hallstedt 2025 mmc2 row for TI5P3_D88: Ti5P3</li>
+<li>Candidate (tdb_comment): Mn5Si3 · hP16 · P6_3/mcm — TiP-06Oht.tdb: &#x27;Prototype Mn5Si3 (hP16, P6_3/mcm)&#x27;</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2360.75 K, x(P) 0.36129–0.39</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:ti5p3-d88">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:ti5p3-d88<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TI5P3_D88<br></p>
+<h3>TDB models of TI5P3_D88 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TI5P3_D88, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>70: PHASE TI5P3_D88 % 2 0.61 0.39 !
+71: CONST TI5P3_D88 : TI : P% TI : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-tip-bi">TIP_BI (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:tip-bi</code>; status <code>assigned</code></li>
+<li>Structure: TiAs · B_i · hP8 · P6_3/mmc (194); type <code>st:b-i-tias-hp8</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–2268.81 K, x(P) 0.48437–0.5</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:tip-bi">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:p-ti:tip-bi<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TIP_BI<br></p>
+<h3>TDB models of TIP_BI (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TIP_BI, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>80: PHASE TIP_BI % 2 1 1 !
+81: CONST TIP_BI : TI : P% TI : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-p-ti-tip2-c37">TIP2_C37 (P–Ti)</h2>
+<ul>
+<li>Id: <code>phase:p-ti:tip2-c37</code>; status <code>assigned</code></li>
+<li>Structure: Co2Si · C37 · oP12 · Pnma (62); type <code>st:c37-co2si-op12</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaabebv and oqmd-4606, space group 62</li>
+<li>Stoichiometry: P 0.6667, Ti 0.3333</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1856.49 K, x(P) 0.66667–0.66667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:p-ti:tip2-c37">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:p-ti:tip2-c37<br><small>mp: </small>mp:mp-aaaabebv<br><small>oqmd: </small>oqmd:oqmd-4606<br><small>tdb: </small>tdb:TiP-06Oht.tdb:TIP2_C37<br></p>
+<h3>TDB models of TIP2_C37 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb">TiP-06Oht.tdb</a>: TIP2_C37, type code %, sha256 <code>e79ac2694bb46a76…</code></p>
+<pre>85: PHASE TIP2_C37 % 2 1 2 !
+86: CONST TIP2_C37 : TI : P : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2005.09.006">doi:10.1016/j.calphad.2005.09.006</a> H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

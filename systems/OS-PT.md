@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/OS-PT.html · Markdown: https://da
 
 3 accepted literature values from 1 paper(s) (experimental 1, model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/OS-PT.json) · [CSV](https://data.orchid-project.org/systems/OS-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-PT/OsPt-21Jou.json) · [Markdown](https://data.orchid-project.org/systems/OS-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/OS-PT.json) · [CSV](https://data.orchid-project.org/systems/OS-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-PT/OsPt-21Jou.json) · [phases (4)](https://data.orchid-project.org/phases/pages/OS-PT.html) · [Markdown](https://data.orchid-project.org/systems/OS-PT.md)
 
 Table: Accepted values by evidence class
 

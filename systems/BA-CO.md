@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-CO.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CO/BaCo-19Hal.json) · [Markdown](https://data.orchid-project.org/systems/BA-CO.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CO/BaCo-19Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-CO.html) · [Markdown](https://data.orchid-project.org/systems/BA-CO.md)
 
 ## Calculated phase diagrams
 

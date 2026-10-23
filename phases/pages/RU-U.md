@@ -1,0 +1,448 @@
+# Ru–U phases
+
+> Ru–U system: 12 phases (tier A 5, tier C 1, liquid 1, needs_review 5); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+
+HTML: https://data.orchid-project.org/phases/pages/RU-U.html · Markdown: https://data.orchid-project.org/phases/pages/RU-U.md
+
+12 phases (tier A 5, tier C 1, liquid 1, needs_review 5); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+
+Data: [interactive registry](https://orchid-project.org/phases/?q=RU-U) · [full JSON](https://data.orchid-project.org/phases/systems/RU-U.json) · [Ru–U system page](https://data.orchid-project.org/systems/RU-U.html) · [Markdown](https://data.orchid-project.org/phases/pages/RU-U.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+
+Table: Phases of the Ru–U system (12)
+
+| Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
+|---|---|---|---|---:|---:|
+| [ORTHORHOMBIC_A20](#phase-ru-u-a20-orthorhombic); _phase:ru-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1 | 0 | 1 |
+| [BCC_A2](#phase-ru-u-bcc-a2); _phase:ru-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 962.06–3999.24 K, x(U) 0.92248–1 | 14 | 1 |
+| [FCC_A1](#phase-ru-u-fcc-a1); _phase:ru-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
+| [HCP_A3](#phase-ru-u-hcp-a3); _phase:ru-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2676.37 K, x(U) 0–3e-05 | 6 | 1 |
+| [LIQUID](#phase-ru-u-liquid); _phase:ru-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1149.14–4000 K, x(U) 0–1 | 40 | 1 |
+| [RU3U_L12](#phase-ru-u-ru3u-l12); _phase:ru-u:ru3u-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1998.76 K, x(U) 0.25–0.25 | 16 | 1 |
+| [RU4U3](#phase-ru-u-ru4u3); _phase:ru-u:ru4u3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1451.77 K, x(U) 0.42857–0.42857 | 10 | 1 |
+| [RU5U3](#phase-ru-u-ru5u3); _phase:ru-u:ru5u3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1466.23 K, x(U) 0.375–0.375 | 12 | 1 |
+| [RUU_HT](#phase-ru-u-ruu-ht); _phase:ru-u:ruu-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1060–1413.54 K, x(U) 0.52–0.52 | 18 | 1 |
+| [RUU_LT](#phase-ru-u-ruu-lt); _phase:ru-u:ruu-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1405 K, x(U) 0.52–0.52 | 4 | 1 |
+| [RUU2](#phase-ru-u-ruu2); _phase:ru-u:ruu2_ | RuU2 · mC12 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1218.09 K, x(U) 0.66667–0.66667 | 30 | 1 |
+| [TETRAGONAL_U](#phase-ru-u-u-tetragonal); _phase:ru-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 900.42–1047.02 K, x(U) 0.97921–1 | 20 | 1 |
+
+## ORTHORHOMBIC_A20 (Ru–U)
+
+- Id: `phase:ru-u:a20-orthorhombic`; status `assigned`
+- Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:a20-orthorhombic)
+
+Names (2): _corpus: _corpus:phase:ru-u:a20-orthorhombic  
+_tdb: _tdb:RuU-11Ber.tdb:ORTHORHOMBIC_A20  
+
+
+### TDB models of ORTHORHOMBIC_A20 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): ORTHORHOMBIC_A20, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+45: PHASE ORTHORHOMBIC_A20 % 1 1 !
+46: CONST ORTHORHOMBIC_A20 : U : !
+~~~~
+
+Example references (1 of 1; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase_
+
+## BCC_A2 (Ru–U)
+
+- Id: `phase:ru-u:bcc-a2`; status `assigned`
+- Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stability: stable in 1 of 1 calculated diagram(s): 962.06–3999.24 K, x(U) 0.92248–1
+- Literature: 14 values (14 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:bcc-a2)
+
+Names (3): _corpus: _corpus:phase:ru-u:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:bcc  
+_tdb: _tdb:RuU-11Ber.tdb:BCC_A2  
+
+
+### TDB models of BCC_A2 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): BCC_A2, type code %B, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : RU U : VA : !
+~~~~
+
+Example references (4 of 4; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-3115(65)90044-9](https://doi.org/10.1016/0022-3115%2865%2990044-9) R.F. Hills, B.W. Howlett, B.R. Butcher, D. Stewart, The effect of cooling rate and composition on the transformation of the gamma-phase in uranium ruthenium alloys (with an appendix on ruthenium as a grain-refining element), Journal of Nuclear Materials 16, 109-128 (1965).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(76)90244-7](https://doi.org/10.1016/0022-5088%2876%2990244-7) A.A. Abou-Zahra, F.H. Hammad, The uranium-rich region of the uranium-ruthenium binary system, Journal of the Less Common Metals 48, 177-181 (1976).  
+_cited as the source of values for this phase_
+
+## FCC_A1 (Ru–U)
+
+- Id: `phase:ru-u:fcc-a1`; status `assigned`
+- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stability: not stable in 1 calculated diagram(s)
+- Literature: 0 values (0 accepted) from 0 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:fcc-a1)
+
+Names (2): _corpus: _corpus:phase:ru-u:fcc-a1  
+_tdb: _tdb:RuU-11Ber.tdb:FCC_A1  
+
+
+### TDB models of FCC_A1 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): FCC_A1, type code %A, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : RU U : VA : !
+~~~~
+
+Example references (1 of 1; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase_
+
+## HCP_A3 (Ru–U)
+
+- Id: `phase:ru-u:hcp-a3`; status `assigned`
+- Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stability: stable in 1 of 1 calculated diagram(s): 300–2676.37 K, x(U) 0–3e-05
+- Literature: 6 values (6 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:hcp-a3)
+
+Names (3): _corpus: _corpus:phase:ru-u:hcp-a3  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:hcp  
+_tdb: _tdb:RuU-11Ber.tdb:HCP_A3  
+
+
+### TDB models of HCP_A3 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): HCP_A3, type code %A, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : RU% U : VA : !
+~~~~
+
+Example references (3 of 3; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-3115(94)90381-6](https://doi.org/10.1016/0022-3115%2894%2990381-6) Richard E. Mason, Mohamed S. El-Genk, Experimental investigation of the ruthenium-uranium and rhenium-uranium binary systems, Journal of Nuclear Materials 217, 304-321 (1994).  
+_cited as the source of values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## LIQUID (Ru–U)
+
+- Id: `phase:ru-u:liquid`; status `assigned`
+- Structure: liquid; type `st:liquid`; liquid; confidence high
+- Stability: stable in 1 of 1 calculated diagram(s): 1149.14–4000 K, x(U) 0–1
+- Literature: 40 values (40 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:liquid)
+
+Names (4): _corpus: _corpus:phase:ru-u:liquid  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:L, paper:10.1016/j.jnucmat.2011.01.043:Liquid  
+_tdb: _tdb:RuU-11Ber.tdb:LIQUID  
+
+
+### TDB models of LIQUID (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): LIQUID, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : RU U : !
+~~~~
+
+Example references (3 of 3; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-3115(94)90381-6](https://doi.org/10.1016/0022-3115%2894%2990381-6) Richard E. Mason, Mohamed S. El-Genk, Experimental investigation of the ruthenium-uranium and rhenium-uranium binary systems, Journal of Nuclear Materials 217, 304-321 (1994).  
+_cited as the source of values for this phase_
+
+## RU3U_L12 (Ru–U)
+
+- Id: `phase:ru-u:ru3u-l12`; status `assigned`
+- Structure: AuCu3 · L1_2 · cP4 · Pm-3m (221); type `st:l1-2-aucu3-cp4`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaabwp and oqmd-18098, space group 221
+- Stoichiometry: Ru 0.7500, U 0.2500
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1998.76 K, x(U) 0.25–0.25
+- Literature: 16 values (16 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ru3u-l12)
+
+Names (5): _corpus: _corpus:phase:ru-u:ru3u-l12  
+_mp: _mp:mp-aaaaabwp  
+_oqmd: _oqmd:oqmd-18098  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:Ru3U  
+_tdb: _tdb:RuU-11Ber.tdb:RU3U_L12  
+
+
+### TDB models of RU3U_L12 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RU3U_L12, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+55: PHASE RU3U_L12 % 2 3 1 !
+56: CONST RU3U_L12 : RU : U : !
+~~~~
+
+Example references (3 of 3; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-3115(94)90381-6](https://doi.org/10.1016/0022-3115%2894%2990381-6) Richard E. Mason, Mohamed S. El-Genk, Experimental investigation of the ruthenium-uranium and rhenium-uranium binary systems, Journal of Nuclear Materials 217, 304-321 (1994).  
+_cited as the source of values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## RU4U3 (Ru–U)
+
+- Id: `phase:ru-u:ru4u3`; status `needs_review`
+- No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete
+- Candidate (literature_printed): (Ru4U3) · ? — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): (Ru4U3) — Hallstedt 2025 mmc2 row for RU4U3: Ru4U3
+- Stoichiometry: Ru 0.5714, U 0.4286
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1451.77 K, x(U) 0.42857–0.42857
+- Literature: 10 values (10 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ru4u3)
+
+Names (3): _corpus: _corpus:phase:ru-u:ru4u3  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:Ru4U3  
+_tdb: _tdb:RuU-11Ber.tdb:RU4U3  
+
+
+### TDB models of RU4U3 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RU4U3, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+65: PHASE RU4U3 % 2 4 3 !
+66: CONST RU4U3 : RU : U : !
+~~~~
+
+Example references (3 of 3; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-3115(94)90381-6](https://doi.org/10.1016/0022-3115%2894%2990381-6) Richard E. Mason, Mohamed S. El-Genk, Experimental investigation of the ruthenium-uranium and rhenium-uranium binary systems, Journal of Nuclear Materials 217, 304-321 (1994).  
+_cited as the source of values for this phase_
+
+## RU5U3 (Ru–U)
+
+- Id: `phase:ru-u:ru5u3`; status `needs_review`
+- No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete
+- Candidate (literature_printed): (Ru5U3) · ? — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): (Ru5U3) — Hallstedt 2025 mmc2 row for RU5U3: Ru5U3
+- Stoichiometry: Ru 0.6250, U 0.3750
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1466.23 K, x(U) 0.375–0.375
+- Literature: 12 values (12 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ru5u3)
+
+Names (3): _corpus: _corpus:phase:ru-u:ru5u3  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:Ru5U3  
+_tdb: _tdb:RuU-11Ber.tdb:RU5U3  
+
+
+### TDB models of RU5U3 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RU5U3, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+60: PHASE RU5U3 % 2 5 3 !
+61: CONST RU5U3 : RU : U : !
+~~~~
+
+Example references (3 of 3; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-3115(94)90381-6](https://doi.org/10.1016/0022-3115%2894%2990381-6) Richard E. Mason, Mohamed S. El-Genk, Experimental investigation of the ruthenium-uranium and rhenium-uranium binary systems, Journal of Nuclear Materials 217, 304-321 (1994).  
+_cited as the source of values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## RUU_HT (Ru–U)
+
+- Id: `phase:ru-u:ruu-ht`; status `needs_review`
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete
+- Candidate (literature_printed): (RuU-HT) · ? — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): (RuU-HT) — Hallstedt 2025 mmc2 row for RUU_HT: RuU (high T)
+- Stoichiometry: Ru 0.4800, U 0.5200
+- Stability: stable in 1 of 1 calculated diagram(s): 1060–1413.54 K, x(U) 0.52–0.52
+- Literature: 18 values (18 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ruu-ht)
+
+Names (3): _corpus: _corpus:phase:ru-u:ruu-ht  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:RuU-H  
+_tdb: _tdb:RuU-11Ber.tdb:RUU_HT  
+
+
+### TDB models of RUU_HT (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RUU_HT, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+75: PHASE RUU_HT % 2 0.48 0.52 !
+76: CONST RUU_HT : RU : U : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## RUU_LT (Ru–U)
+
+- Id: `phase:ru-u:ruu-lt`; status `needs_review`
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete
+- Candidate (literature_printed): (RuU-LT) · ? — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): (RuU-LT) — Hallstedt 2025 mmc2 row for RUU_LT: RuU (low T)
+- Stoichiometry: Ru 0.4800, U 0.5200
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1405 K, x(U) 0.52–0.52
+- Literature: 4 values (4 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ruu-lt)
+
+Names (3): _corpus: _corpus:phase:ru-u:ruu-lt  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:RuU-L  
+_tdb: _tdb:RuU-11Ber.tdb:RUU_LT  
+
+
+### TDB models of RUU_LT (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RUU_LT, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+70: PHASE RUU_LT % 2 0.48 0.52 !
+71: CONST RUU_LT : RU : U : !
+~~~~
+
+Example references (2 of 2; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## RUU2 (Ru–U)
+
+- Id: `phase:ru-u:ruu2`; status `assigned`
+- Structure: RuU2 · mC12 · C2/m (12); type `st:ruu2-mc12`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
+- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Ru 0.3333, U 0.6667
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1218.09 K, x(U) 0.66667–0.66667
+- Literature: 30 values (30 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:ruu2)
+
+Names (3): _corpus: _corpus:phase:ru-u:ruu2  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:RuU2  
+_tdb: _tdb:RuU-11Ber.tdb:RUU2  
+
+
+### TDB models of RUU2 (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): RUU2, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+80: PHASE RUU2 % 2 1 2 !
+81: CONST RUU2 : RU : U : !
+~~~~
+
+Example references (4 of 4; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-3115(65)90044-9](https://doi.org/10.1016/0022-3115%2865%2990044-9) R.F. Hills, B.W. Howlett, B.R. Butcher, D. Stewart, The effect of cooling rate and composition on the transformation of the gamma-phase in uranium ruthenium alloys (with an appendix on ruthenium as a grain-refining element), Journal of Nuclear Materials 16, 109-128 (1965).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(76)90244-7](https://doi.org/10.1016/0022-5088%2876%2990244-7) A.A. Abou-Zahra, F.H. Hammad, The uranium-rich region of the uranium-ruthenium binary system, Journal of the Less Common Metals 48, 177-181 (1976).  
+_cited as the source of values for this phase_
+
+## TETRAGONAL_U (Ru–U)
+
+- Id: `phase:ru-u:u-tetragonal`; status `needs_review`
+- No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token
+- Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
+- Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — RuU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stability: stable in 1 of 1 calculated diagram(s): 900.42–1047.02 K, x(U) 0.97921–1
+- Literature: 20 values (20 accepted) from 1 papers
+- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-u:u-tetragonal)
+
+Names (3): _corpus: _corpus:phase:ru-u:u-tetragonal  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:β-U  
+_tdb: _tdb:RuU-11Ber.tdb:TETRAGONAL_U  
+
+
+### TDB models of TETRAGONAL_U (1): PHASE and CONSTITUENT statements as written
+
+[RuU-11Ber.tdb](https://orchid-project.org/data/databases/sgte-binary/RuU-11Ber.tdb): TETRAGONAL_U, type code %, sha256 `10085bc2e845e4f3…`
+
+~~~~text
+50: PHASE TETRAGONAL_U % 1 1 !
+51: CONST TETRAGONAL_U : RU U% : !
+~~~~
+
+Example references (4 of 4; assessments first): 
+
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-3115(65)90044-9](https://doi.org/10.1016/0022-3115%2865%2990044-9) R.F. Hills, B.W. Howlett, B.R. Butcher, D. Stewart, The effect of cooling rate and composition on the transformation of the gamma-phase in uranium ruthenium alloys (with an appendix on ruthenium as a grain-refining element), Journal of Nuclear Materials 16, 109-128 (1965).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(76)90244-7](https://doi.org/10.1016/0022-5088%2876%2990244-7) A.A. Abou-Zahra, F.H. Hammad, The uranium-rich region of the uranium-ruthenium binary system, Journal of the Less Common Metals 48, 177-181 (1976).  
+_cited as the source of values for this phase_
+- [doi:10.6028/jres.072a.001](https://doi.org/10.6028/jres.072a.001) John J. Park, Reactions of uranium with the platinide elements. I. The uranium-ruthenium system, J. RES. NATL. BUR. STAN. SECT. A. 72A, 1 (1968).  
+_cited as the source of values for this phase_
+
+## Please cite
+
+- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+
+Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+
+Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+
+```bibtex
+@misc{orchid_phase_registry_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}
+```
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: [SCHEMA.md](https://data.orchid-project.org/phases/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

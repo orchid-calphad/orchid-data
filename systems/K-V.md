@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/K-V.html · Markdown: https://data
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-V/KV-15Hu.json) · [Markdown](https://data.orchid-project.org/systems/K-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-V/KV-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/K-V.html) · [Markdown](https://data.orchid-project.org/systems/K-V.md)
 
 ## Calculated phase diagrams
 

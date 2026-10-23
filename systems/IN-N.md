@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-N.html · Markdown: https://dat
 
 33 accepted literature values from 2 paper(s) (experimental 28, model 5); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-N.json) · [CSV](https://data.orchid-project.org/systems/IN-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-N/InN-02Ond.json) · [Markdown](https://data.orchid-project.org/systems/IN-N.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-N.json) · [CSV](https://data.orchid-project.org/systems/IN-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-N/InN-02Ond.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-N.html) · [Markdown](https://data.orchid-project.org/systems/IN-N.md)
 
 Table: Accepted values by evidence class
 

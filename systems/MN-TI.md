@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-TI.html · Markdown: https://da
 
 142 accepted literature values from 4 paper(s) (experimental 63, model 29, DFT 2, unspecified 48); 4 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TI.json) · [CSV](https://data.orchid-project.org/systems/MN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TI/MnTi-09Che.json) · [Markdown](https://data.orchid-project.org/systems/MN-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TI.json) · [CSV](https://data.orchid-project.org/systems/MN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TI/MnTi-09Che.json) · [phases (18)](https://data.orchid-project.org/phases/pages/MN-TI.html) · [Markdown](https://data.orchid-project.org/systems/MN-TI.md)
 
 Table: Accepted values by evidence class
 

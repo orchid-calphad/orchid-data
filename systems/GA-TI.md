@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-TI.html · Markdown: https://da
 
 186 accepted literature values from 2 paper(s) (experimental 93, model 74, unspecified 19); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TI.json) · [CSV](https://data.orchid-project.org/systems/GA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TI/GaTi-03Li-LB.json) · [Markdown](https://data.orchid-project.org/systems/GA-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TI.json) · [CSV](https://data.orchid-project.org/systems/GA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TI/GaTi-03Li-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/GA-TI.html) · [Markdown](https://data.orchid-project.org/systems/GA-TI.md)
 
 Table: Accepted values by evidence class
 

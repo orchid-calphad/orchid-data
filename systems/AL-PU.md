@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-PU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-PU.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
 
 ## Calculated phase diagrams
 

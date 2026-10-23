@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-SI.html · Markdown: https://da
 
 151 accepted literature values from 3 paper(s) (experimental 102, model 1, unspecified 48); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
 
 Table: Accepted values by evidence class
 

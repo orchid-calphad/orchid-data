@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-SB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SB/MnSb-14Uem.json) · [Markdown](https://data.orchid-project.org/systems/MN-SB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SB/MnSb-14Uem.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-SB.html) · [Markdown](https://data.orchid-project.org/systems/MN-SB.md)
 
 ## Calculated phase diagrams
 

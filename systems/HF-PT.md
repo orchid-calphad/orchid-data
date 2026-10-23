@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-PT.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-PT/HfPt-18Yan.json) · [Markdown](https://data.orchid-project.org/systems/HF-PT.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-PT/HfPt-18Yan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HF-PT.html) · [Markdown](https://data.orchid-project.org/systems/HF-PT.md)
 
 ## Calculated phase diagrams
 

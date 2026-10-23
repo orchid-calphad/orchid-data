@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-ZR.html · Markdown: https://da
 
 33 accepted literature values from 2 paper(s) (experimental 3, model 17, DFT 13); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZR/MgZr-05Arr.json) · [Markdown](https://data.orchid-project.org/systems/MG-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZR/MgZr-05Arr.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ZR.md)
 
 Table: Accepted values by evidence class
 

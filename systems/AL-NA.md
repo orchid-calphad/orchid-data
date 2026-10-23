@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-NA.html · Markdown: https://da
 
 8 accepted literature values from 1 paper(s) (experimental 4, model 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NA.json) · [CSV](https://data.orchid-project.org/systems/AL-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NA/AlNa-06Zha.json) · [Markdown](https://data.orchid-project.org/systems/AL-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NA.json) · [CSV](https://data.orchid-project.org/systems/AL-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NA/AlNa-06Zha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-NA.html) · [Markdown](https://data.orchid-project.org/systems/AL-NA.md)
 
 Table: Accepted values by evidence class
 

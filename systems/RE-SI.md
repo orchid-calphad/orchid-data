@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-SI.html · Markdown: https://da
 
 29 accepted literature values from 2 paper(s) (experimental 10, model 19); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-SI.json) · [CSV](https://data.orchid-project.org/systems/RE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-SI/ReSi-01Sha.json) · [Markdown](https://data.orchid-project.org/systems/RE-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-SI.json) · [CSV](https://data.orchid-project.org/systems/RE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-SI/ReSi-01Sha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-SI.html) · [Markdown](https://data.orchid-project.org/systems/RE-SI.md)
 
 Table: Accepted values by evidence class
 

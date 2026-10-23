@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-GD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GD/AuGd-16Wan.json) · [Markdown](https://data.orchid-project.org/systems/AU-GD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GD/AuGd-16Wan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-GD.html) · [Markdown](https://data.orchid-project.org/systems/AU-GD.md)
 
 ## Calculated phase diagrams
 

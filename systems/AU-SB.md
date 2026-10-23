@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-SB.html · Markdown: https://da
 
 57 accepted literature values from 5 paper(s) (experimental 37, model 20); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SB.json) · [CSV](https://data.orchid-project.org/systems/AU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SB/AuSb-02Kim.json) · [Markdown](https://data.orchid-project.org/systems/AU-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SB.json) · [CSV](https://data.orchid-project.org/systems/AU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SB/AuSb-02Kim.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-SB.html) · [Markdown](https://data.orchid-project.org/systems/AU-SB.md)
 
 Table: Accepted values by evidence class
 

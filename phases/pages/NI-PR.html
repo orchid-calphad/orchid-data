@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ni–Pr phases — ORCHID phase registry</title>
+<meta name="description" content="Ni–Pr system: 13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/NI-PR.html">
+<link rel="alternate" type="text/markdown" href="NI-PR.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Ni–Pr system: 13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/NI-PR.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/NI-PR.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:bcc-a2","paper:10.1016/j.jallcom.2004.11.039:bcc (Pr)","tdb:NiPr-05Hua.tdb:BCC_A2","tdb:NiPr-15Rah.tdb:BCC_A2"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:ni-pr:bcc-a2","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:dhcp","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:dhcp"],"chemicalSystem":"NI-PR","inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:ni-pr:dhcp","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-dhcp"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:dhcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:dhcp-a3","paper:10.1016/j.jallcom.2004.11.039:dhcp (Pr)","paper:10.1016/j.jallcom.2014.09.116:dhcp (Pr)","tdb:NiPr-05Hua.tdb:DHCP","tdb:NiPr-15Rah.tdb:DHCP"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1007/s11669-005-0107-3","@type":"ScholarlyArticle","name":"M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:ni-pr:dhcp-a3","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-dhcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:fcc-a1","paper:10.1016/j.jallcom.2004.11.039:fcc (Ni)","paper:10.1016/j.jallcom.2014.09.116:fcc (Ni)","tdb:NiPr-05Hua.tdb:FCC_A1","tdb:NiPr-15Rah.tdb:FCC_A1"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1016/s0925-8388(00)01382-7","@type":"ScholarlyArticle","name":"G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:ni-pr:fcc-a1","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:hcp-a3","tdb:NiPr-05Hua.tdb:HCP_A3","tdb:NiPr-15Rah.tdb:HCP_A3"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:ni-pr:hcp-a3","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:liquid","paper:10.1016/j.jallcom.2004.11.039:Liquid","paper:10.1016/j.jallcom.2014.09.116:Liquid","paper:10.1016/s0925-8388(98)00928-1:L","tdb:NiPr-05Hua.tdb:LIQUID","tdb:NiPr-15Rah.tdb:LIQUID"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1016/s0925-8388(00)01382-7","@type":"ScholarlyArticle","name":"G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ni-pr:liquid","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:ni2pr-c15","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:ni2pr-c15","paper:10.1016/j.jallcom.2004.11.039:Ni2Pr","paper:10.1016/j.jallcom.2014.09.116:Ni2Pr","tdb:NiPr-05Hua.tdb:NI2PR_C15","tdb:NiPr-15Rah.tdb:NI2PR_C15"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1016/s0925-8388(00)01382-7","@type":"ScholarlyArticle","name":"G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI2PR_C15","pearsonSymbol":"cF24","prototype":"Cu2Mg","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c15-cu2mg-cf24","strukturbericht":"C15","termCode":"phase:ni-pr:ni2pr-c15","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-ni2pr-c15"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:ni3pr","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:ni3pr","paper:10.1016/j.jallcom.2004.11.039:Ni3Pr","paper:10.1016/j.jallcom.2014.09.116:Ni3Pr","paper:10.1016/s0925-8388(98)00928-1:Ni3Pr","tdb:NiPr-05Hua.tdb:NI3PR","tdb:NiPr-15Rah.tdb:NI3PR"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1016/s0925-8388(98)00928-1","@type":"ScholarlyArticle","name":"Zhenmin Du, Donghui Wang, Weijing Zhang, Thermodynamic assessment of the Co–Pr, Er–Ni and Ni–Pr systems, Journal of Alloys and Compounds 284, 206-212 (1999)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3PR","pearsonSymbol":"hR12","prototype":"Ni3Pu","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ni3pu-hr12","termCode":"phase:ni-pr:ni3pr","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-ni3pr"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:ni3pr7-d102","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:ni3pr7-d102","paper:10.1016/j.jallcom.2004.11.039:Ni3Pr7","paper:10.1016/j.jallcom.2014.09.116:Ni3Pr7","tdb:NiPr-05Hua.tdb:NI3PR7_D102","tdb:NiPr-15Rah.tdb:NI3PR7_D102"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/s11669-005-0107-3","@type":"ScholarlyArticle","name":"M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI3PR7_D102","pearsonSymbol":"hP20","prototype":"Fe3Th7","reviewStatus":"assigned","spaceGroupNumber":186,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d10-2-fe3th7-hp20","strukturbericht":"D10_2","termCode":"phase:ni-pr:ni3pr7-d102","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-ni3pr7-d102"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:ni5pr-d2d","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:ni5pr-d2d","mp:mp-aaaaadne","oqmd:oqmd-17787","paper:10.1016/j.jallcom.2004.11.039:Ni5Pr","paper:10.1016/j.jallcom.2014.09.116:Ni5Pr","tdb:NiPr-05Hua.tdb:NI5PR_D2D","tdb:NiPr-15Rah.tdb:NI5PR_D2D"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1016/s0925-8388(00)01382-7","@type":"ScholarlyArticle","name":"G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI5PR_D2D","pearsonSymbol":"hP6","prototype":"CaCu5","reviewStatus":"assigned","spaceGroupNumber":191,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d2-d-cacu5-hp6","strukturbericht":"D2_d","termCode":"phase:ni-pr:ni5pr-d2d","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-ni5pr-d2d"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:ni7pr2","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:ni7pr2","paper:10.1016/j.jallcom.2004.11.039:Ni7Pr2","paper:10.1016/j.jallcom.2014.09.116:Ni7Pr2","paper:10.1016/s0925-8388(98)00928-1:Ni7Pr2","tdb:NiPr-05Hua.tdb:NI7PR2","tdb:NiPr-15Rah.tdb:NI7PR2"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."},{"@id":"https://doi.org/10.1016/s0925-8388(98)00928-1","@type":"ScholarlyArticle","name":"Zhenmin Du, Donghui Wang, Weijing Zhang, Thermodynamic assessment of the Co–Pr, Er–Ni and Ni–Pr systems, Journal of Alloys and Compounds 284, 206-212 (1999)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NI7PR2","reviewStatus":"needs_review","termCode":"phase:ni-pr:ni7pr2","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-ni7pr2"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:nipr-b33","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:nipr-b33","mp:mp-aaaaarlv","oqmd:oqmd-30838","paper:10.1016/j.jallcom.2004.11.039:NiPr","paper:10.1016/j.jallcom.2014.09.116:NiPr","tdb:NiPr-05Hua.tdb:NIPR_B33","tdb:NiPr-15Rah.tdb:NIPR_B33"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/s11669-005-0107-3","@type":"ScholarlyArticle","name":"M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005)."},{"@id":"https://doi.org/10.1016/s0925-8388(00)01382-7","@type":"ScholarlyArticle","name":"G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NIPR_B33","pearsonSymbol":"oC8","prototype":"CrB","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b33-crb-oc8","strukturbericht":"B33","termCode":"phase:ni-pr:nipr-b33","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-nipr-b33"},{"@id":"https://data.orchid-project.org/phases/#phase:ni-pr:nipr3-d011","@type":"DefinedTerm","alternateName":["corpus:phase:ni-pr:nipr3-d011","mp:mp-aaackyhe","oqmd:oqmd-30835","paper:10.1016/j.jallcom.2004.11.039:NiPr3","paper:10.1016/j.jallcom.2014.09.116:NiPr3","tdb:NiPr-05Hua.tdb:NIPR3_D011","tdb:NiPr-15Rah.tdb:NIPR3_D011"],"chemicalSystem":"NI-PR","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2014.09.116","@type":"ScholarlyArticle","name":"Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015)."},{"@id":"https://doi.org/10.1016/j.jallcom.2004.11.039","@type":"ScholarlyArticle","name":"Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005)."},{"@id":"https://doi.org/10.1007/bf02643852","@type":"ScholarlyArticle","name":"C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986)."},{"@id":"https://doi.org/10.1007/s11669-005-0107-3","@type":"ScholarlyArticle","name":"M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005)."},{"@id":"https://doi.org/10.1007/bf02877506","@type":"ScholarlyArticle","name":"Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"NIPR3_D011","pearsonSymbol":"oP16","prototype":"Fe3C","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-11-fe3c-op16","strukturbericht":"D0_11","termCode":"phase:ni-pr:nipr3-d011","url":"https://data.orchid-project.org/phases/pages/NI-PR.html#phase-ni-pr-nipr3-d011"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Ni–Pr"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Ni–Pr phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/NI-PR.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Ni–Pr phases</h1>
+<p>13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=NI-PR">interactive registry</a> · <a href="../systems/NI-PR.json">full JSON</a> · <a href="../../systems/NI-PR.html">Ni–Pr system page</a> · <a href="NI-PR.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Ni–Pr system (13)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-ni-pr-bcc-a2">BCC_A2</a><br><small>phase:ni-pr:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 1053.04–2499 K, x(Pr) 0.99503–1</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-dhcp">DHCP</a><br><small>phase:ni-pr:dhcp</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">0</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-dhcp-a3">DHCP</a><br><small>phase:ni-pr:dhcp-a3</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1203 K, x(Pr) 0.99997–1</td><td class="n">11</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-fcc-a1">FCC_A1</a><br><small>phase:ni-pr:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1770.6 K, x(Pr) 0–3e-05</td><td class="n">9</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-hcp-a3">HCP_A3</a><br><small>phase:ni-pr:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-liquid">LIQUID</a><br><small>phase:ni-pr:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 2 calculated diagram(s): 821.52–2500 K, x(Pr) 0–1</td><td class="n">126</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-ni2pr-c15">NI2PR_C15</a><br><small>phase:ni-pr:ni2pr-c15</small></th><td>Cu2Mg · C15 · cF24 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1193.9 K, x(Pr) 0.33333–0.33333</td><td class="n">19</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-ni3pr">NI3PR</a><br><small>phase:ni-pr:ni3pr</small></th><td>Ni3Pu · hR12 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–1302.41 K, x(Pr) 0.25–0.25</td><td class="n">22</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-ni3pr7-d102">NI3PR7_D102</a><br><small>phase:ni-pr:ni3pr7-d102</small></th><td>Fe3Th7 · D10_2 · hP20 · P6_3mc (186)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–838.82 K, x(Pr) 0.7–0.7</td><td class="n">25</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-ni5pr-d2d">NI5PR_D2D</a><br><small>phase:ni-pr:ni5pr-d2d</small></th><td>CaCu5 · D2_d · hP6 · P6/mmm (191)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1658.31 K, x(Pr) 0.16667–0.16667</td><td class="n">28</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-ni7pr2">NI7PR2</a><br><small>phase:ni-pr:ni7pr2</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 300–1435.38 K, x(Pr) 0.22222–0.22222</td><td class="n">22</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-nipr-b33">NIPR_B33</a><br><small>phase:ni-pr:nipr-b33</small></th><td>CrB · B33 · oC8 · Cmcm (63)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1038.99 K, x(Pr) 0.5–0.5</td><td class="n">30</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ni-pr-nipr3-d011">NIPR3_D011</a><br><small>phase:ni-pr:nipr3-d011</small></th><td>Fe3C · D0_11 · oP16 · Pnma (62)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–835 K, x(Pr) 0.75–0.75</td><td class="n">30</td><td class="n">2</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-ni-pr-bcc-a2">BCC_A2 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1053.04–2499 K, x(Pr) 0.99503–1</li>
+<li>Literature: 3 values (3 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:ni-pr:bcc-a2<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:bcc (Pr)<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:BCC_A2, tdb:NiPr-15Rah.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: BCC_A2, type code %B, sha256 <code>cc5105330c14229b…</code></p>
+<pre>32: PHASE BCC_A2 %B 2 1 3 !
+33: CONST BCC_A2 : NI PR% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: BCC_A2, type code %B, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>33: PHASE BCC_A2 %B 2 1 3 !
+34: CONST BCC_A2 : NI PR% : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-dhcp">DHCP (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:dhcp</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:dhcp">phase registry entry</a></li>
+</ul>
+<p>Names (1): <small>corpus: </small>corpus:phase:ni-pr:dhcp<br></p>
+<h2 id="phase-ni-pr-dhcp-a3">DHCP (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:dhcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1203 K, x(Pr) 0.99997–1</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:dhcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ni-pr:dhcp-a3<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:dhcp (Pr), paper:10.1016/j.jallcom.2014.09.116:dhcp (Pr)<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:DHCP, tdb:NiPr-15Rah.tdb:DHCP<br></p>
+<h3>TDB models of DHCP (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: DHCP, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>42: PHASE DHCP % 1 1 !
+43: CONST DHCP : NI PR% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: DHCP, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>43: PHASE DHCP % 1 1 !
+44: CONST DHCP : NI PR% : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-fcc-a1">FCC_A1 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1770.6 K, x(Pr) 0–3e-05</li>
+<li>Literature: 9 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ni-pr:fcc-a1<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:fcc (Ni), paper:10.1016/j.jallcom.2014.09.116:fcc (Ni)<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:FCC_A1, tdb:NiPr-15Rah.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: FCC_A1, type code %A, sha256 <code>cc5105330c14229b…</code></p>
+<pre>27: PHASE FCC_A1 %A 2 1 1 !
+28: CONST FCC_A1 : NI% PR : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: FCC_A1, type code %A, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>28: PHASE FCC_A1 %A 2 1 1 !
+29: CONST FCC_A1 : NI% PR : VA : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-hcp-a3">HCP_A3 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ni-pr:hcp-a3<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:HCP_A3, tdb:NiPr-15Rah.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: HCP_A3, type code %A, sha256 <code>cc5105330c14229b…</code></p>
+<pre>37: PHASE HCP_A3 %A 2 1 0.5 !
+38: CONST HCP_A3 : NI PR : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: HCP_A3, type code %A, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>38: PHASE HCP_A3 %A 2 1 0.5 !
+39: CONST HCP_A3 : NI PR : VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-liquid">LIQUID (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 821.52–2500 K, x(Pr) 0–1</li>
+<li>Literature: 126 values (121 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-pr:liquid<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Liquid, paper:10.1016/j.jallcom.2014.09.116:Liquid, paper:10.1016/s0925-8388(98)00928-1:L<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:LIQUID, tdb:NiPr-15Rah.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: LIQUID, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>22: PHASE LIQUID:L % 1 1 !
+23: CONST LIQUID:L : NI PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: LIQUID, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>23: PHASE LIQUID:L % 1 1 !
+24: CONST LIQUID:L : NI PR : !</pre>
+<p>Example references (8 of 8; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(98)00928-1">doi:10.1016/s0925-8388(98)00928-1</a> Zhenmin Du, Donghui Wang, Weijing Zhang, Thermodynamic assessment of the Co–Pr, Er–Ni and Ni–Pr systems, Journal of Alloys and Compounds 284, 206-212 (1999).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-ni2pr-c15">NI2PR_C15 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:ni2pr-c15</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Mg · C15 · cF24 · Fd-3m (227); type <code>st:c15-cu2mg-cf24</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Ni 0.6667, Pr 0.3333</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1193.9 K, x(Pr) 0.33333–0.33333</li>
+<li>Literature: 19 values (19 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:ni2pr-c15">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ni-pr:ni2pr-c15<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Ni2Pr, paper:10.1016/j.jallcom.2014.09.116:Ni2Pr<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NI2PR_C15, tdb:NiPr-15Rah.tdb:NI2PR_C15<br></p>
+<h3>TDB models of NI2PR_C15 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NI2PR_C15, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>62: PHASE NI2PR_C15 % 2 2 1 !
+63: CONST NI2PR_C15 : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NI2PR_C15, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>63: PHASE NI2PR_C15 % 2 2 1 !
+64: CONST NI2PR_C15 : NI : PR : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-ni3pr">NI3PR (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:ni3pr</code>; status <code>assigned</code></li>
+<li>Structure: Ni3Pu · hR12 · R-3m (166); type <code>st:ni3pu-hr12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ni 0.7500, Pr 0.2500</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1302.41 K, x(Pr) 0.25–0.25</li>
+<li>Literature: 22 values (22 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:ni3pr">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-pr:ni3pr<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Ni3Pr, paper:10.1016/j.jallcom.2014.09.116:Ni3Pr, paper:10.1016/s0925-8388(98)00928-1:Ni3Pr<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NI3PR, tdb:NiPr-15Rah.tdb:NI3PR<br></p>
+<h3>TDB models of NI3PR (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NI3PR, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>57: PHASE NI3PR % 2 3 1 !
+58: CONST NI3PR : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NI3PR, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>58: PHASE NI3PR % 2 3 1 !
+59: CONST NI3PR : NI : PR : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(98)00928-1">doi:10.1016/s0925-8388(98)00928-1</a> Zhenmin Du, Donghui Wang, Weijing Zhang, Thermodynamic assessment of the Co–Pr, Er–Ni and Ni–Pr systems, Journal of Alloys and Compounds 284, 206-212 (1999).<br><small>reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-ni3pr7-d102">NI3PR7_D102 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:ni3pr7-d102</code>; status <code>assigned</code></li>
+<li>Structure: Fe3Th7 · D10_2 · hP20 · P6_3mc (186); type <code>st:d10-2-fe3th7-hp20</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Ni 0.3000, Pr 0.7000</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–838.82 K, x(Pr) 0.7–0.7</li>
+<li>Literature: 25 values (24 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:ni3pr7-d102">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ni-pr:ni3pr7-d102<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Ni3Pr7, paper:10.1016/j.jallcom.2014.09.116:Ni3Pr7<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NI3PR7_D102, tdb:NiPr-15Rah.tdb:NI3PR7_D102<br></p>
+<h3>TDB models of NI3PR7_D102 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NI3PR7_D102, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>72: PHASE NI3PR7_D102 % 2 3 7 !
+73: CONST NI3PR7_D102 : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NI3PR7_D102, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>73: PHASE NI3PR7_D102 % 2 3 7 !
+74: CONST NI3PR7_D102 : NI : PR : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-ni5pr-d2d">NI5PR_D2D (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:ni5pr-d2d</code>; status <code>assigned</code></li>
+<li>Structure: CaCu5 · D2_d · hP6 · P6/mmm (191); type <code>st:d2-d-cacu5-hp6</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaadne and oqmd-17787, space group 191</li>
+<li>Stoichiometry: Ni 0.8333, Pr 0.1667</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1658.31 K, x(Pr) 0.16667–0.16667</li>
+<li>Literature: 28 values (27 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:ni5pr-d2d">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:ni-pr:ni5pr-d2d<br><small>mp: </small>mp:mp-aaaaadne<br><small>oqmd: </small>oqmd:oqmd-17787<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Ni5Pr, paper:10.1016/j.jallcom.2014.09.116:Ni5Pr<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NI5PR_D2D, tdb:NiPr-15Rah.tdb:NI5PR_D2D<br></p>
+<h3>TDB models of NI5PR_D2D (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NI5PR_D2D, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>47: PHASE NI5PR_D2D % 2 5 1 !
+48: CONST NI5PR_D2D : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NI5PR_D2D, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>48: PHASE NI5PR_D2D % 2 5 1 !
+49: CONST NI5PR_D2D : NI : PR : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-ni7pr2">NI7PR2 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:ni7pr2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; sgte_mmc2_row_disagrees_with_dft; sgte_mmc2_rows_disagree</li>
+<li>Candidate (dft_mp): P6_3/mmc (194) — on-hull MP Pr2Ni7 at x(PR)=0.2222</li>
+<li>Candidate (dft_oqmd): P63/mmc (194) — on-hull OQMD Ni7 Pr2 at x(PR)=0.2222</li>
+<li>Candidate (literature_printed): Ce2Ni7 · hP36 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Ce2Ni7 · hP36 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for NI7PR2: Ni7Pr2 (high T), see also Co7Gd2</li>
+<li>Candidate (sgte_mmc2): Co7Gd2 · hR18 · R-3m (166) — Hallstedt 2025 mmc2 row for NI7PR2: Ni7Pr2 (low T), see also Ce2Ni7</li>
+<li>Candidate (tdb_comment): Ce2Ni7 · hP36 · P6_3/mmc, ht — NiPr-05Hua.tdb: &#x27;Prototype Ce2Ni7 (hP36, P6_3/mmc, ht) and Co7Gd2 (hR18, R-3m, lt)&#x27;</li>
+<li>Candidate (tdb_comment): Ce2Ni7 · hP36 · P6_3/mmc, ht — NiPr-15Rah.tdb: &#x27;Prototype Ce2Ni7 (hP36, P6_3/mmc, ht) and Co7Gd2 (hR18, R-3m, lt)&#x27;</li>
+<li>Stoichiometry: Ni 0.7778, Pr 0.2222</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1435.38 K, x(Pr) 0.22222–0.22222</li>
+<li>Literature: 22 values (22 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:ni7pr2">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ni-pr:ni7pr2<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:Ni7Pr2, paper:10.1016/j.jallcom.2014.09.116:Ni7Pr2, paper:10.1016/s0925-8388(98)00928-1:Ni7Pr2<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NI7PR2, tdb:NiPr-15Rah.tdb:NI7PR2<br></p>
+<h3>TDB models of NI7PR2 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NI7PR2, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>52: PHASE NI7PR2 % 2 7 2 !
+53: CONST NI7PR2 : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NI7PR2, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>53: PHASE NI7PR2 % 2 7 2 !
+54: CONST NI7PR2 : NI : PR : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(98)00928-1">doi:10.1016/s0925-8388(98)00928-1</a> Zhenmin Du, Donghui Wang, Weijing Zhang, Thermodynamic assessment of the Co–Pr, Er–Ni and Ni–Pr systems, Journal of Alloys and Compounds 284, 206-212 (1999).<br><small>reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-nipr-b33">NIPR_B33 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:nipr-b33</code>; status <code>assigned</code></li>
+<li>Structure: CrB · B33 · oC8 · Cmcm (63); type <code>st:b33-crb-oc8</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaarlv and oqmd-30838, space group 63</li>
+<li>Stoichiometry: Ni 0.5000, Pr 0.5000</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1038.99 K, x(Pr) 0.5–0.5</li>
+<li>Literature: 30 values (28 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:nipr-b33">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:ni-pr:nipr-b33<br><small>mp: </small>mp:mp-aaaaarlv<br><small>oqmd: </small>oqmd:oqmd-30838<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:NiPr, paper:10.1016/j.jallcom.2014.09.116:NiPr<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NIPR_B33, tdb:NiPr-15Rah.tdb:NIPR_B33<br></p>
+<h3>TDB models of NIPR_B33 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NIPR_B33, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>67: PHASE NIPR_B33 % 2 1 1 !
+68: CONST NIPR_B33 : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NIPR_B33, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>68: PHASE NIPR_B33 % 2 1 1 !
+69: CONST NIPR_B33 : NI : PR : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ni-pr-nipr3-d011">NIPR3_D011 (Ni–Pr)</h2>
+<ul>
+<li>Id: <code>phase:ni-pr:nipr3-d011</code>; status <code>assigned</code></li>
+<li>Structure: Fe3C · D0_11 · oP16 · Pnma (62); type <code>st:d0-11-fe3c-op16</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaackyhe and oqmd-30835, space group 62</li>
+<li>Stoichiometry: Ni 0.2500, Pr 0.7500</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–835 K, x(Pr) 0.75–0.75</li>
+<li>Literature: 30 values (29 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ni-pr:nipr3-d011">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:ni-pr:nipr3-d011<br><small>mp: </small>mp:mp-aaackyhe<br><small>oqmd: </small>oqmd:oqmd-30835<br><small>paper: </small>paper:10.1016/j.jallcom.2004.11.039:NiPr3, paper:10.1016/j.jallcom.2014.09.116:NiPr3<br><small>tdb: </small>tdb:NiPr-05Hua.tdb:NIPR3_D011, tdb:NiPr-15Rah.tdb:NIPR3_D011<br></p>
+<h3>TDB models of NIPR3_D011 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-05Hua.tdb">NiPr-05Hua.tdb</a>: NIPR3_D011, type code %, sha256 <code>cc5105330c14229b…</code></p>
+<pre>77: PHASE NIPR3_D011 % 2 1 3 !
+78: CONST NIPR3_D011 : NI : PR : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/NiPr-15Rah.tdb">NiPr-15Rah.tdb</a>: NIPR3_D011, type code %, sha256 <code>a55bd7afc9e01e38…</code></p>
+<pre>78: PHASE NIPR3_D011 % 2 1 3 !
+79: CONST NIPR3_D011 : NI : PR : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2014.09.116">doi:10.1016/j.jallcom.2014.09.116</a> Z. Rahou, K. Mahdouk, D. Moustain, S. Otmani, S. Kardellass, A. Iddaoudi et al., Thermodynamic reassessment of Ni-Pr binary system, Journal of Alloys and Compounds 620, 204-209 (2015).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2004.11.039">doi:10.1016/j.jallcom.2004.11.039</a> Mianliang Huang, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Ni–Pr system, Journal of Alloys and Compounds 395, 75-79 (2005).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02643852">doi:10.1007/bf02643852</a> C. Colinet, A. Pasturel, K. H. J. Buschow, Study of the enthalpies of formation in the Gd-Ni system, Metall Trans A 17, 777-780 (1986).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-005-0107-3">doi:10.1007/s11669-005-0107-3</a> M. Huang, D. Wu, K. W. Dennis, J. W. Anderegg, R. W. McCallum, T. A. Lograsso, The Pr-rich portion of the Ni-Pr system, J Phs Eqil and Diff 26, 209-214 (2005).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02877506">doi:10.1007/bf02877506</a> Y. Y. Pan, P. Nash, The Ni-Pr (Nickel-Praesodymium) system, Bulletin of Alloy Phase Diagrams 10, 253-257 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(00)01382-7">doi:10.1016/s0925-8388(00)01382-7</a> G. Borzone, N. Parodi, R. Raggio, R. Ferro, Thermodynamic investigation of samarium–nickel alloys, Journal of Alloys and Compounds 317-318, 532-536 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1947-380401">doi:10.1515/ijmr-1947-380401</a> Vogel R, Iandelli A, Rolla L. Z Metallkd 1947;38:97–103.<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

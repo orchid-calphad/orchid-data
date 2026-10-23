@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-HO.html · Markdown: https://da
 
 109 accepted literature values from 1 paper(s) (experimental 17, model 92); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HO.json) · [CSV](https://data.orchid-project.org/systems/GA-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HO/GaHo-20Ait.json) · [Markdown](https://data.orchid-project.org/systems/GA-HO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HO.json) · [CSV](https://data.orchid-project.org/systems/GA-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HO/GaHo-20Ait.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-HO.html) · [Markdown](https://data.orchid-project.org/systems/GA-HO.md)
 
 Table: Accepted values by evidence class
 

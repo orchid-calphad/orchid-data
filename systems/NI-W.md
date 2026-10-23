@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-W.html · Markdown: https://dat
 
 30 accepted literature values from 2 paper(s) (experimental 14, model 16); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-W.json) · [CSV](https://data.orchid-project.org/systems/NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-W/NiW-08Pop.json) · [Markdown](https://data.orchid-project.org/systems/NI-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-W.json) · [CSV](https://data.orchid-project.org/systems/NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-W/NiW-08Pop.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NI-W.html) · [Markdown](https://data.orchid-project.org/systems/NI-W.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-SR.html · Markdown: https://da
 
 3 accepted literature values from 1 paper(s) (experimental 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SR.json) · [CSV](https://data.orchid-project.org/systems/CU-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SR/CuSr-96Ris-LB.json) · [Markdown](https://data.orchid-project.org/systems/CU-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SR.json) · [CSV](https://data.orchid-project.org/systems/CU-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SR/CuSr-96Ris-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CU-SR.html) · [Markdown](https://data.orchid-project.org/systems/CU-SR.md)
 
 Table: Accepted values by evidence class
 

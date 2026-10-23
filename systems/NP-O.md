@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NP-O.html · Markdown: https://dat
 
 47 accepted literature values from 1 paper(s) (experimental 3, model 25, unspecified 19); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NP-O.json) · [CSV](https://data.orchid-project.org/systems/NP-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-O/NpO-16Smi.json) · [Markdown](https://data.orchid-project.org/systems/NP-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NP-O.json) · [CSV](https://data.orchid-project.org/systems/NP-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-O/NpO-16Smi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NP-O.html) · [Markdown](https://data.orchid-project.org/systems/NP-O.md)
 
 Table: Accepted values by evidence class
 

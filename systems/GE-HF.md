@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-HF.html · Markdown: https://da
 
 135 accepted literature values from 1 paper(s) (experimental 73, model 28, DFT 14, unspecified 20); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-HF.html) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
 
 Table: Accepted values by evidence class
 

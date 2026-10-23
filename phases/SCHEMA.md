@@ -18,6 +18,9 @@ a review candidate. Paper labels come from the machine-extracted literature valu
 | `registry.jsonld`, `context.jsonld` | the phases as a schema.org `DefinedTermSet` of `DefinedTerm`s (`citation`, `isBasedOn`; `additionalProperty`: one `PropertyValue` `orchid:tdbPhaseDefinition` per model with the verbatim statements) |
 | `registry.csv` | one flat row per phase (`references_first5`: first five reference DOIs, `;`-joined; `tdb_first_model`, `tdb_phase_line`, `tdb_constituent_line`: file and verbatim PHASE / CONSTITUENT statements of the first model, models sorted by file and phase name) |
 | `registry.parquet` | the CSV columns as a typed Parquet table (when built with pyarrow) |
+| `structure_types.csv`, `structure_types.parquet` | one row per structure type: `id, prototype, prototype_spellings (;), strukturbericht, pearson, space_group_number, space_group_symbol, stoichiometry, verification, registry_phases, n_sources, source_citations (" \| "), source_dois (;)` |
+| `parquet.json` | row counts, CSV SHA-256 and content SHA-256 (canonical JSON rows) of the Parquet tables |
+| `pages/<SYS>.html`, `pages/<SYS>.md`, `pages/index.*` | static, JavaScript-free page per binary system (written by `tools/build_static_pages.py`): names, structure, stability, verbatim PHASE/CONSTITUENT statements, example DOIs, DefinedTerm JSON-LD |
 | `review_queue.json` | phases with candidates but no assigned structure (`status: needs_review`) |
 | `CONFLICTS.md` | same name -> different structures, name vs DFT, MP vs OQMD, model compositions, polymorph families |
 | `index.json` | website search index (column arrays) |

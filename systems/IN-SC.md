@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-SC.html · Markdown: https://da
 
 11 accepted literature values from 1 paper(s) (experimental 6, model 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SC.json) · [CSV](https://data.orchid-project.org/systems/IN-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SC/InSc-18Hu.json) · [Markdown](https://data.orchid-project.org/systems/IN-SC.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SC.json) · [CSV](https://data.orchid-project.org/systems/IN-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SC/InSc-18Hu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/IN-SC.html) · [Markdown](https://data.orchid-project.org/systems/IN-SC.md)
 
 Table: Accepted values by evidence class
 

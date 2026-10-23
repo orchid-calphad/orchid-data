@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-SE.html · Markdown: https://da
 
 43 accepted literature values from 1 paper(s) (experimental 22, model 12, unspecified 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SE.json) · [CSV](https://data.orchid-project.org/systems/NI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SE/NiSe-21Zob.json) · [Markdown](https://data.orchid-project.org/systems/NI-SE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SE.json) · [CSV](https://data.orchid-project.org/systems/NI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SE/NiSe-21Zob.json) · [phases (11)](https://data.orchid-project.org/phases/pages/NI-SE.html) · [Markdown](https://data.orchid-project.org/systems/NI-SE.md)
 
 Table: Accepted values by evidence class
 

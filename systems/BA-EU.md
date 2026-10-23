@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-EU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-EU/BaEu-91Oka-LB.json) · [Markdown](https://data.orchid-project.org/systems/BA-EU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-EU/BaEu-91Oka-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-EU.html) · [Markdown](https://data.orchid-project.org/systems/BA-EU.md)
 
 ## Calculated phase diagrams
 

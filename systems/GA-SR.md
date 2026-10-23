@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-SR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SR/GaSr-13Li.json) · [Markdown](https://data.orchid-project.org/systems/GA-SR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SR/GaSr-13Li.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GA-SR.html) · [Markdown](https://data.orchid-project.org/systems/GA-SR.md)
 
 ## Calculated phase diagrams
 

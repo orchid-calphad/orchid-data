@@ -1,0 +1,575 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La–Sn phases — ORCHID phase registry</title>
+<meta name="description" content="La–Sn system: 16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/LA-SN.html">
+<link rel="alternate" type="text/markdown" href="LA-SN.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"La–Sn system: 16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/LA-SN.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/LA-SN.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:a4-diamond","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:a4-diamond","tdb:LaSn-00Hua.tdb:DIAMOND_A4","tdb:LaSn-09Idb.tdb:DIAMOND_A4","tdb:LaSn-19Li-ass.tdb:DIAMOND_A4","tdb:LaSn-19Li-sub.tdb:DIAMOND_A4"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DIAMOND_A4","pearsonSymbol":"cF8","prototype":"C (diamond)","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a4-c-diamond-cf8","strukturbericht":"A4","termCode":"phase:la-sn:a4-diamond","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-a4-diamond"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:a5-bct","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:a5-bct","corpus:phase:la-sn:bct-a5","paper:10.1007/s11669-019-00751-x:(βSn)","paper:10.1016/j.calphad.2008.12.003:(βSn)","paper:10.1016/s0925-8388(00)01077-x:βSn (bct)","tdb:LaSn-00Hua.tdb:BCT_A5","tdb:LaSn-09Idb.tdb:BCT_A5","tdb:LaSn-19Li-ass.tdb:BCT_A5","tdb:LaSn-19Li-sub.tdb:BCT_A5"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.08.004","@type":"ScholarlyArticle","name":"J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133"}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCT_A5","pearsonSymbol":"tI4","prototype":"beta-Sn","reviewStatus":"assigned","spaceGroupNumber":141,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a5-beta-sn-ti4","strukturbericht":"A5","termCode":"phase:la-sn:a5-bct","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-a5-bct"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:bcc-a2","paper:10.1016/j.calphad.2008.12.003:βLa","paper:10.1016/s0925-8388(00)01077-x:βLa","paper:10.1016/s0925-8388(00)01077-x:βLa (fcc)","tdb:LaSn-00Hua.tdb:BCC_A2","tdb:LaSn-09Idb.tdb:BCC_A2","tdb:LaSn-19Li-ass.tdb:BCC_A2","tdb:LaSn-19Li-sub.tdb:BCC_A2"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/0364-5916(91)90030-n","@type":"ScholarlyArticle","name":"A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:la-sn:bcc-a2","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:dhcp","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:dhcp"],"chemicalSystem":"LA-SN","inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:la-sn:dhcp","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-dhcp"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:dhcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:dhcp-a3","paper:10.1016/j.calphad.2008.12.003:γLa","paper:10.1016/s0925-8388(00)01077-x:αLa (dhcp)","paper:10.1016/s0925-8388(00)01077-x:γLa","paper:10.1016/s0925-8388(00)01077-x:γLa (bcc)","tdb:LaSn-00Hua.tdb:DHCP","tdb:LaSn-09Idb.tdb:DHCP","tdb:LaSn-19Li-ass.tdb:DHCP","tdb:LaSn-19Li-sub.tdb:DHCP"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/0364-5916(91)90030-n","@type":"ScholarlyArticle","name":"A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DHCP","pearsonSymbol":"hP4","prototype":"alpha-La","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-alpha-la-hp4","strukturbericht":"A3'","termCode":"phase:la-sn:dhcp-a3","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-dhcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:fcc-a1","tdb:LaSn-00Hua.tdb:FCC_A1","tdb:LaSn-09Idb.tdb:FCC_A1","tdb:LaSn-19Li-ass.tdb:FCC_A1","tdb:LaSn-19Li-sub.tdb:FCC_A1"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:la-sn:fcc-a1","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:hcp-a3","tdb:LaSn-00Hua.tdb:HCP_A3","tdb:LaSn-09Idb.tdb:HCP_A3","tdb:LaSn-19Li-ass.tdb:HCP_A3","tdb:LaSn-19Li-sub.tdb:HCP_A3"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:la-sn:hcp-a3","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la11sn10","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la11sn10","paper:10.1007/s11669-019-00751-x:La11Sn10","paper:10.1016/j.calphad.2008.12.003:La11Sn10","paper:10.1016/s0925-8388(00)01077-x:La11Sn10","tdb:LaSn-00Hua.tdb:LA11SN10","tdb:LaSn-09Idb.tdb:LA11SN10","tdb:LaSn-19Li-ass.tdb:LA11SN10","tdb:LaSn-19Li-sub.tdb:LA11SN10"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.jssc.2011.06.035","@type":"ScholarlyArticle","name":"Ines Dürr, Michael Schwarz, Caroline Röhr, The binary tin-rich lanthanum stannides La2Sn5 and La3Sn7—A structural and bond theoretical study, Journal of Solid State Chemistry 184, 2220-2230 (2011)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA11SN10","reviewStatus":"needs_review","termCode":"phase:la-sn:la11sn10","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la11sn10"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la2sn3","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la2sn3","paper:10.1007/s11669-019-00751-x:La2Sn3","paper:10.1016/j.calphad.2008.12.003:La2Sn3","paper:10.1016/s0925-8388(00)01077-x:La2Sn3","tdb:LaSn-00Hua.tdb:LA2SN3","tdb:LaSn-09Idb.tdb:LA2SN3","tdb:LaSn-19Li-ass.tdb:LA2SN3","tdb:LaSn-19Li-sub.tdb:LA2SN3"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1515/znb-2003-0606","@type":"ScholarlyArticle","name":"Maria L. Fornasini, Pietro Manfrinettib, Andrea Palenzonab, Sudesh K. Dharc, R\u003csub\u003e2\u003c/sub\u003eSn\u003csub\u003e3\u003c/sub\u003e (R = La – Nd, Sm): A Family of Intermetallic Compounds with their Own Triclinic Structure, Zeitschrift für Naturforschung B 58, 521-527 (2003)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA2SN3","pearsonSymbol":"aP20","prototype":"Nd2Sn3","reviewStatus":"assigned","spaceGroupNumber":2,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:nd2sn3-ap20","termCode":"phase:la-sn:la2sn3","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la2sn3"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la3sn5","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la3sn5","paper:10.1007/s11669-019-00751-x:La3Sn5","paper:10.1016/j.calphad.2008.12.003:La3Sn5","paper:10.1016/s0925-8388(00)01077-x:La3Sn5","tdb:LaSn-00Hua.tdb:LA3SN5","tdb:LaSn-09Idb.tdb:LA3SN5","tdb:LaSn-19Li-ass.tdb:LA3SN5","tdb:LaSn-19Li-sub.tdb:LA3SN5"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.08.004","@type":"ScholarlyArticle","name":"J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133"}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA3SN5","pearsonSymbol":"oC32","prototype":"Pd5Pu3","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:pd5pu3-oc32","termCode":"phase:la-sn:la3sn5","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la3sn5"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la5sn3-d88","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la5sn3-d88","paper:10.1016/j.calphad.2008.12.003:βLa5Sn3","tdb:LaSn-09Idb.tdb:LA5SN3_D88"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA5SN3_D88","pearsonSymbol":"hP16","prototype":"Mn5Si3","reviewStatus":"assigned","spaceGroupNumber":193,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d8-8-mn5si3-hp16","strukturbericht":"D8_8","termCode":"phase:la-sn:la5sn3-d88","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la5sn3-d88"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la5sn3-d8m","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la5sn3-d8m","paper:10.1016/j.calphad.2008.12.003:αLa5Sn3","paper:10.1016/s0925-8388(00)01077-x:La5Sn3","tdb:LaSn-00Hua.tdb:LA5SN3_D8M","tdb:LaSn-09Idb.tdb:LA5SN3_D8M","tdb:LaSn-19Li-ass.tdb:LA5SN3_D8M","tdb:LaSn-19Li-sub.tdb:LA5SN3_D8M"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA5SN3_D8M","pearsonSymbol":"tI32","prototype":"W5Si3","reviewStatus":"assigned","spaceGroupNumber":140,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d8-m-w5si3-ti32","strukturbericht":"D8_m","termCode":"phase:la-sn:la5sn3-d8m","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la5sn3-d8m"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:la5sn4","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:la5sn4","paper:10.1007/s11669-019-00751-x:La5Sn4","paper:10.1016/j.calphad.2008.12.003:La5Sn4","paper:10.1016/s0925-8388(00)01077-x:La5Sn4","tdb:LaSn-00Hua.tdb:LA5SN4","tdb:LaSn-09Idb.tdb:LA5SN4","tdb:LaSn-19Li-ass.tdb:LA5SN4","tdb:LaSn-19Li-sub.tdb:LA5SN4"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1002/zaac.19835010624","@type":"ScholarlyArticle","name":"G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LA5SN4","reviewStatus":"needs_review","termCode":"phase:la-sn:la5sn4","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-la5sn4"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:lasn-b33","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:lasn-b33","mp:mp-aaacfxzr","oqmd:oqmd-30671","paper:10.1007/s11669-019-00751-x:LaSn","paper:10.1016/j.calphad.2008.12.003:LaSn","paper:10.1016/s0925-8388(00)01077-x:LaSn","tdb:LaSn-00Hua.tdb:LASN_B33","tdb:LaSn-09Idb.tdb:LASN_B33","tdb:LaSn-19Li-ass.tdb:LASN_B33","tdb:LaSn-19Li-sub.tdb:LASN_B33"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.08.004","@type":"ScholarlyArticle","name":"J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133"}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LASN_B33","pearsonSymbol":"oC8","prototype":"CrB","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b33-crb-oc8","strukturbericht":"B33","termCode":"phase:la-sn:lasn-b33","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-lasn-b33"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:lasn3-l12","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:lasn3-l12","mp:mp-aaaaaayj","oqmd:oqmd-643082","paper:10.1007/s11669-019-00751-x:LaSn3","paper:10.1016/j.calphad.2008.12.003:LaSn3","paper:10.1016/s0925-8388(00)01077-x:LaSn3","tdb:LaSn-00Hua.tdb:LASN3_L12","tdb:LaSn-09Idb.tdb:LASN3_L12","tdb:LaSn-19Li-ass.tdb:LASN3_L12","tdb:LaSn-19Li-sub.tdb:LASN3_L12"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.08.004","@type":"ScholarlyArticle","name":"J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133"}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LASN3_L12","pearsonSymbol":"cP4","prototype":"AuCu3","reviewStatus":"assigned","spaceGroupNumber":221,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:l1-2-aucu3-cp4","strukturbericht":"L1_2","termCode":"phase:la-sn:lasn3-l12","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-lasn3-l12"},{"@id":"https://data.orchid-project.org/phases/#phase:la-sn:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:la-sn:liquid","paper:10.1007/s11669-019-00751-x:L","paper:10.1007/s11669-019-00751-x:liquid","paper:10.1016/j.calphad.2008.12.003:Liq","paper:10.1016/j.calphad.2008.12.003:liquid","paper:10.1016/s0925-8388(00)01077-x:L","paper:10.1016/s0925-8388(00)01077-x:Liq.","tdb:LaSn-00Hua.tdb:LIQUID","tdb:LaSn-09Idb.tdb:LIQUID","tdb:LaSn-19Li-ass.tdb:LIQUID","tdb:LaSn-19Li-sub.tdb:LIQUID"],"chemicalSystem":"LA-SN","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2008.12.003","@type":"ScholarlyArticle","name":"M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009)."},{"@id":"https://doi.org/10.1007/s11669-019-00751-x","@type":"ScholarlyArticle","name":"Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019)."},{"@id":"https://doi.org/10.1016/S0925-8388(00)01077-X","@type":"ScholarlyArticle","name":"M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000)."},{"@id":"https://doi.org/10.1007/bf02645375","@type":"ScholarlyArticle","name":"A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.08.004","@type":"ScholarlyArticle","name":"J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133"}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:la-sn:liquid","url":"https://data.orchid-project.org/phases/pages/LA-SN.html#phase-la-sn-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","La–Sn"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"La–Sn phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/LA-SN.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>La–Sn phases</h1>
+<p>16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=LA-SN">interactive registry</a> · <a href="../systems/LA-SN.json">full JSON</a> · <a href="../../systems/LA-SN.html">La–Sn system page</a> · <a href="LA-SN.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the La–Sn system (16)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-la-sn-a4-diamond">DIAMOND_A4</a><br><small>phase:la-sn:a4-diamond</small></th><td>C (diamond) · A4 · cF8 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>not stable in 4 calculated diagram(s)</td><td class="n">0</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-a5-bct">BCT_A5</a><br><small>phase:la-sn:a5-bct</small></th><td>beta-Sn · A5 · tI4 · I4_1/amd (141)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1</td><td class="n">10</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-bcc-a2">BCC_A2</a><br><small>phase:la-sn:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0</td><td class="n">14</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-dhcp">DHCP</a><br><small>phase:la-sn:dhcp</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">0</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-dhcp-a3">DHCP</a><br><small>phase:la-sn:dhcp-a3</small></th><td>alpha-La · A3&#x27; · hP4 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0</td><td class="n">11</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-fcc-a1">FCC_A1</a><br><small>phase:la-sn:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0</td><td class="n">0</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-hcp-a3">HCP_A3</a><br><small>phase:la-sn:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 4 calculated diagram(s)</td><td class="n">0</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la11sn10">LA11SN10</a><br><small>phase:la-sn:la11sn10</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–1718.8 K, x(Sn) 0.476–0.47619</td><td class="n">19</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la2sn3">LA2SN3</a><br><small>phase:la-sn:la2sn3</small></th><td>Nd2Sn3 · aP20 · P-1 (2)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6</td><td class="n">15</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la3sn5">LA3SN5</a><br><small>phase:la-sn:la3sn5</small></th><td>Pd5Pu3 · oC32 · Cmcm (63)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 4 of 4 calculated diagram(s): 300–1510.49 K, x(Sn) 0.625–0.625</td><td class="n">53</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la5sn3-d88">LA5SN3_D88</a><br><small>phase:la-sn:la5sn3-d88</small></th><td>Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193)</td><td>tier A: standard phase name</td><td>stable in 1 of 1 calculated diagram(s): 674.91–1767.01 K, x(Sn) 0.375–0.375</td><td class="n">8</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la5sn3-d8m">LA5SN3_D8M</a><br><small>phase:la-sn:la5sn3-d8m</small></th><td>W5Si3 · D8_m · tI32 · I4/mcm (140)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–1771.16 K, x(Sn) 0.375–0.375</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-la5sn4">LA5SN4</a><br><small>phase:la-sn:la5sn4</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–1847.93 K, x(Sn) 0.44444–0.445</td><td class="n">26</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-lasn-b33">LASN_B33</a><br><small>phase:la-sn:lasn-b33</small></th><td>CrB · B33 · oC8 · Cmcm (63)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–1580 K, x(Sn) 0.5–0.5</td><td class="n">32</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-lasn3-l12">LASN3_L12</a><br><small>phase:la-sn:lasn3-l12</small></th><td>AuCu3 · L1_2 · cP4 · Pm-3m (221)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 300–1432.18 K, x(Sn) 0.75–0.75</td><td class="n">36</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-la-sn-liquid">LIQUID</a><br><small>phase:la-sn:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 4 of 4 calculated diagram(s): 504.95–2500 K, x(Sn) 0–1</td><td class="n">108</td><td class="n">4</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-la-sn-a4-diamond">DIAMOND_A4 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:a4-diamond</code>; status <code>assigned</code></li>
+<li>Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type <code>st:a4-c-diamond-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Sn 1.0000</li>
+<li>Stability: not stable in 4 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:a4-diamond">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-sn:a4-diamond<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:DIAMOND_A4, tdb:LaSn-09Idb.tdb:DIAMOND_A4, tdb:LaSn-19Li-ass.tdb:DIAMOND_A4, tdb:LaSn-19Li-sub.tdb:DIAMOND_A4<br></p>
+<h3>TDB models of DIAMOND_A4 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: DIAMOND_A4, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>49: PHASE DIAMOND_A4 % 1 1 !
+50: CONST DIAMOND_A4 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: DIAMOND_A4, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>54: PHASE DIAMOND_A4 % 1 1 !
+55: CONST DIAMOND_A4 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: DIAMOND_A4, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>55: PHASE DIAMOND_A4 % 1 1 !
+56: CONST DIAMOND_A4 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: DIAMOND_A4, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>51: PHASE DIAMOND_A4 % 1 1 !
+52: CONST DIAMOND_A4 : SN : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-a5-bct">BCT_A5 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:a5-bct</code>; status <code>assigned</code></li>
+<li>Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type <code>st:a5-beta-sn-ti4</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Sn 1.0000</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1</li>
+<li>Literature: 10 values (10 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:a5-bct">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:la-sn:a5-bct, corpus:phase:la-sn:bct-a5<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:(βSn), paper:10.1016/j.calphad.2008.12.003:(βSn), paper:10.1016/s0925-8388(00)01077-x:βSn (bct)<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:BCT_A5, tdb:LaSn-09Idb.tdb:BCT_A5, tdb:LaSn-19Li-ass.tdb:BCT_A5, tdb:LaSn-19Li-sub.tdb:BCT_A5<br></p>
+<h3>TDB models of BCT_A5 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: BCT_A5, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>54: PHASE BCT_A5 % 1 1 !
+55: CONST BCT_A5 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: BCT_A5, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>59: PHASE BCT_A5 % 1 1 !
+60: CONST BCT_A5 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: BCT_A5, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>60: PHASE BCT_A5 % 1 1 !
+61: CONST BCT_A5 : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: BCT_A5, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>56: PHASE BCT_A5 % 1 1 !
+57: CONST BCT_A5 : SN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-bcc-a2">BCC_A2 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0</li>
+<li>Literature: 14 values (14 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-sn:bcc-a2<br><small>paper: </small>paper:10.1016/j.calphad.2008.12.003:βLa, paper:10.1016/s0925-8388(00)01077-x:βLa, paper:10.1016/s0925-8388(00)01077-x:βLa (fcc)<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:BCC_A2, tdb:LaSn-09Idb.tdb:BCC_A2, tdb:LaSn-19Li-ass.tdb:BCC_A2, tdb:LaSn-19Li-sub.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: BCC_A2, type code %B, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>34: PHASE BCC_A2 %B 2 1 3 !
+35: CONST BCC_A2 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: BCC_A2, type code %B, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>39: PHASE BCC_A2 %B 2 1 3 !
+40: CONST BCC_A2 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: BCC_A2, type code %B, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>40: PHASE BCC_A2 %B 2 1 3 !
+41: CONST BCC_A2 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: BCC_A2, type code %B, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : LA% SN : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(91)90030-n">doi:10.1016/0364-5916(91)90030-n</a> A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-dhcp">DHCP (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:dhcp</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:dhcp">phase registry entry</a></li>
+</ul>
+<p>Names (1): <small>corpus: </small>corpus:phase:la-sn:dhcp<br></p>
+<h2 id="phase-la-sn-dhcp-a3">DHCP (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:dhcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: alpha-La · A3&#x27; · hP4 · P6_3/mmc (194); type <code>st:a3-alpha-la-hp4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:dhcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:la-sn:dhcp-a3<br><small>paper: </small>paper:10.1016/j.calphad.2008.12.003:γLa, paper:10.1016/s0925-8388(00)01077-x:αLa (dhcp), paper:10.1016/s0925-8388(00)01077-x:γLa, paper:10.1016/s0925-8388(00)01077-x:γLa (bcc)<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:DHCP, tdb:LaSn-09Idb.tdb:DHCP, tdb:LaSn-19Li-ass.tdb:DHCP, tdb:LaSn-19Li-sub.tdb:DHCP<br></p>
+<h3>TDB models of DHCP (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: DHCP, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>44: PHASE DHCP % 1 1 !
+45: CONST DHCP : LA% SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: DHCP, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>49: PHASE DHCP % 1 1 !
+50: CONST DHCP : LA% SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: DHCP, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>50: PHASE DHCP % 1 1 !
+51: CONST DHCP : LA% SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: DHCP, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>46: PHASE DHCP % 1 1 !
+47: CONST DHCP : LA% SN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(91)90030-n">doi:10.1016/0364-5916(91)90030-n</a> A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-fcc-a1">FCC_A1 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-sn:fcc-a1<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:FCC_A1, tdb:LaSn-09Idb.tdb:FCC_A1, tdb:LaSn-19Li-ass.tdb:FCC_A1, tdb:LaSn-19Li-sub.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: FCC_A1, type code %A, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>29: PHASE FCC_A1 %A 2 1 1 !
+30: CONST FCC_A1 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: FCC_A1, type code %A, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: FCC_A1, type code %A, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>35: PHASE FCC_A1 %A 2 1 1 !
+36: CONST FCC_A1 : LA% SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: FCC_A1, type code %A, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : LA% SN : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-hcp-a3">HCP_A3 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Sn 1.0000</li>
+<li>Stability: not stable in 4 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:la-sn:hcp-a3<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:HCP_A3, tdb:LaSn-09Idb.tdb:HCP_A3, tdb:LaSn-19Li-ass.tdb:HCP_A3, tdb:LaSn-19Li-sub.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: HCP_A3, type code %A, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>39: PHASE HCP_A3 %A 2 1 0.5 !
+40: CONST HCP_A3 : SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: HCP_A3, type code %A, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>44: PHASE HCP_A3 %A 2 1 0.5 !
+45: CONST HCP_A3 : SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: HCP_A3, type code %A, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>45: PHASE HCP_A3 %A 2 1 0.5 !
+46: CONST HCP_A3 : SN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: HCP_A3, type code %A, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : SN : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la11sn10">LA11SN10 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la11sn10</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:models_disagree_on_composition; models_disagree_on_composition; no_structure_token</li>
+<li>Candidate (literature_printed): Ge10Ho11 · tI84 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Ge10Ho11 · tI84 · I4/mmm (139) — Hallstedt 2025 mmc2 row for LA11SN10: La11Sn10</li>
+<li>Candidate (tdb_comment): Ge10Ho11 · tI84 · I4/mmm — LaSn-00Hua.tdb: &#x27;Prototype Ge10Ho11 (tI84, I4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): Ge10Ho11 · tI84 · I4/mmm — LaSn-09Idb.tdb: &#x27;Prototype Ge10Ho11 (tI84, I4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): Ge10Ho11 · tI84 · I4/mmm — LaSn-19Li-ass.tdb: &#x27;Prototype Ge10Ho11 (tI84, I4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): Ge10Ho11 · tI84 · I4/mmm — LaSn-19Li-sub.tdb: &#x27;Prototype Ge10Ho11 (tI84, I4/mmm)&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1718.8 K, x(Sn) 0.476–0.47619</li>
+<li>Literature: 19 values (19 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la11sn10">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-sn:la11sn10<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:La11Sn10, paper:10.1016/j.calphad.2008.12.003:La11Sn10, paper:10.1016/s0925-8388(00)01077-x:La11Sn10<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LA11SN10, tdb:LaSn-09Idb.tdb:LA11SN10, tdb:LaSn-19Li-ass.tdb:LA11SN10, tdb:LaSn-19Li-sub.tdb:LA11SN10<br></p>
+<h3>TDB models of LA11SN10 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LA11SN10, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>70: PHASE LA11SN10 % 2 11 10 !
+71: CONST LA11SN10 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA11SN10, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>79: PHASE LA11SN10 % 2 0.524 0.476 !
+80: CONST LA11SN10 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LA11SN10, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>76: PHASE LA11SN10 % 2 11 10 !
+77: CONST LA11SN10 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LA11SN10, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>72: PHASE LA11SN10 % 2 11 10 !
+73: CONST LA11SN10 : LA : SN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jssc.2011.06.035">doi:10.1016/j.jssc.2011.06.035</a> Ines Dürr, Michael Schwarz, Caroline Röhr, The binary tin-rich lanthanum stannides La2Sn5 and La3Sn7—A structural and bond theoretical study, Journal of Solid State Chemistry 184, 2220-2230 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la2sn3">LA2SN3 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la2sn3</code>; status <code>assigned</code></li>
+<li>Structure: Nd2Sn3 · aP20 · P-1 (2); type <code>st:nd2sn3-ap20</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.4000, Sn 0.6000</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6</li>
+<li>Literature: 15 values (15 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la2sn3">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-sn:la2sn3<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:La2Sn3, paper:10.1016/j.calphad.2008.12.003:La2Sn3, paper:10.1016/s0925-8388(00)01077-x:La2Sn3<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LA2SN3, tdb:LaSn-09Idb.tdb:LA2SN3, tdb:LaSn-19Li-ass.tdb:LA2SN3, tdb:LaSn-19Li-sub.tdb:LA2SN3<br></p>
+<h3>TDB models of LA2SN3 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LA2SN3, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>80: PHASE LA2SN3 % 2 2 3 !
+81: CONST LA2SN3 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA2SN3, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>89: PHASE LA2SN3 % 2 0.4 0.6 !
+90: CONST LA2SN3 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LA2SN3, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>86: PHASE LA2SN3 % 2 2 3 !
+87: CONST LA2SN3 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LA2SN3, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>82: PHASE LA2SN3 % 2 2 3 !
+83: CONST LA2SN3 : LA : SN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/znb-2003-0606">doi:10.1515/znb-2003-0606</a> Maria L. Fornasini, Pietro Manfrinettib, Andrea Palenzonab, Sudesh K. Dharc, R&lt;sub&gt;2&lt;/sub&gt;Sn&lt;sub&gt;3&lt;/sub&gt; (R = La – Nd, Sm): A Family of Intermetallic Compounds with their Own Triclinic Structure, Zeitschrift für Naturforschung B 58, 521-527 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la3sn5">LA3SN5 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la3sn5</code>; status <code>assigned</code></li>
+<li>Structure: Pd5Pu3 · oC32 · Cmcm (63); type <code>st:pd5pu3-oc32</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: La 0.3750, Sn 0.6250</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1510.49 K, x(Sn) 0.625–0.625</li>
+<li>Literature: 53 values (53 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la3sn5">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-sn:la3sn5<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:La3Sn5, paper:10.1016/j.calphad.2008.12.003:La3Sn5, paper:10.1016/s0925-8388(00)01077-x:La3Sn5<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LA3SN5, tdb:LaSn-09Idb.tdb:LA3SN5, tdb:LaSn-19Li-ass.tdb:LA3SN5, tdb:LaSn-19Li-sub.tdb:LA3SN5<br></p>
+<h3>TDB models of LA3SN5 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LA3SN5, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>85: PHASE LA3SN5 % 2 3 5 !
+86: CONST LA3SN5 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA3SN5, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>94: PHASE LA3SN5 % 2 0.375 0.625 !
+95: CONST LA3SN5 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LA3SN5, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>91: PHASE LA3SN5 % 2 3 5 !
+92: CONST LA3SN5 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LA3SN5, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>87: PHASE LA3SN5 % 2 3 5 !
+88: CONST LA3SN5 : LA : SN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19835010624">doi:10.1002/zaac.19835010624</a> G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la5sn3-d88">LA5SN3_D88 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la5sn3-d88</code>; status <code>assigned</code></li>
+<li>Structure: Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193); type <code>st:d8-8-mn5si3-hp16</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: La 0.6250, Sn 0.3750</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 674.91–1767.01 K, x(Sn) 0.375–0.375</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la5sn3-d88">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:la-sn:la5sn3-d88<br><small>paper: </small>paper:10.1016/j.calphad.2008.12.003:βLa5Sn3<br><small>tdb: </small>tdb:LaSn-09Idb.tdb:LA5SN3_D88<br></p>
+<h3>TDB models of LA5SN3_D88 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA5SN3_D88, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>69: PHASE LA5SN3_D88 % 2 0.625 0.375 !
+70: CONST LA5SN3_D88 : LA : SN : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la5sn3-d8m">LA5SN3_D8M (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la5sn3-d8m</code>; status <code>assigned</code></li>
+<li>Structure: W5Si3 · D8_m · tI32 · I4/mcm (140); type <code>st:d8-m-w5si3-ti32</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: La 0.6250, Sn 0.3750</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1771.16 K, x(Sn) 0.375–0.375</li>
+<li>Literature: 6 values (6 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la5sn3-d8m">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:la-sn:la5sn3-d8m<br><small>paper: </small>paper:10.1016/j.calphad.2008.12.003:αLa5Sn3, paper:10.1016/s0925-8388(00)01077-x:La5Sn3<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LA5SN3_D8M, tdb:LaSn-09Idb.tdb:LA5SN3_D8M, tdb:LaSn-19Li-ass.tdb:LA5SN3_D8M, tdb:LaSn-19Li-sub.tdb:LA5SN3_D8M<br></p>
+<h3>TDB models of LA5SN3_D8M (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LA5SN3_D8M, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>60: PHASE LA5SN3_D8M % 2 5 3 !
+61: CONST LA5SN3_D8M : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA5SN3_D8M, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>64: PHASE LA5SN3_D8M % 2 0.625 0.375 !
+65: CONST LA5SN3_D8M : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LA5SN3_D8M, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>66: PHASE LA5SN3_D8M % 2 5 3 !
+67: CONST LA5SN3_D8M : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LA5SN3_D8M, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>62: PHASE LA5SN3_D8M % 2 5 3 !
+63: CONST LA5SN3_D8M : LA : SN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-la5sn4">LA5SN4 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:la5sn4</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:models_disagree_on_composition; models_disagree_on_composition; no_structure_token</li>
+<li>Candidate (dft_mp): Pnma (62) — on-hull MP La5Sn4 at x(SN)=0.4444</li>
+<li>Candidate (dft_oqmd): Pnma (62) — on-hull OQMD La5 Sn4 at x(SN)=0.4444</li>
+<li>Candidate (literature_printed): Ge4Sm5 · oP36 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Ge4Sm5 · oP36 · Pnma (62) — Hallstedt 2025 mmc2 row for LA5SN4: La5Sn4</li>
+<li>Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-00Hua.tdb: &#x27;Prototype Ge4Sm5 (oP36, Pnma)&#x27;</li>
+<li>Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-09Idb.tdb: &#x27;Prototype Ge4Sm5 (oP36, Pnma)&#x27;</li>
+<li>Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-19Li-ass.tdb: &#x27;Prototype Ge4Sm5 (oP36, Pnma)&#x27;</li>
+<li>Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-19Li-sub.tdb: &#x27;Prototype Ge4Sm5 (oP36, Pnma)&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1847.93 K, x(Sn) 0.44444–0.445</li>
+<li>Literature: 26 values (26 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:la5sn4">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:la-sn:la5sn4<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:La5Sn4, paper:10.1016/j.calphad.2008.12.003:La5Sn4, paper:10.1016/s0925-8388(00)01077-x:La5Sn4<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LA5SN4, tdb:LaSn-09Idb.tdb:LA5SN4, tdb:LaSn-19Li-ass.tdb:LA5SN4, tdb:LaSn-19Li-sub.tdb:LA5SN4<br></p>
+<h3>TDB models of LA5SN4 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LA5SN4, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>65: PHASE LA5SN4 % 2 5 4 !
+66: CONST LA5SN4 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LA5SN4, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>74: PHASE LA5SN4 % 2 0.555 0.445 !
+75: CONST LA5SN4 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LA5SN4, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>71: PHASE LA5SN4 % 2 5 4 !
+72: CONST LA5SN4 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LA5SN4, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>67: PHASE LA5SN4 % 2 5 4 !
+68: CONST LA5SN4 : LA : SN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19835010624">doi:10.1002/zaac.19835010624</a> G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-lasn-b33">LASN_B33 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:lasn-b33</code>; status <code>assigned</code></li>
+<li>Structure: CrB · B33 · oC8 · Cmcm (63); type <code>st:b33-crb-oc8</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaacfxzr and oqmd-30671, space group 63</li>
+<li>Stoichiometry: La 0.5000, Sn 0.5000</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1580 K, x(Sn) 0.5–0.5</li>
+<li>Literature: 32 values (32 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:lasn-b33">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-sn:lasn-b33<br><small>mp: </small>mp:mp-aaacfxzr<br><small>oqmd: </small>oqmd:oqmd-30671<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:LaSn, paper:10.1016/j.calphad.2008.12.003:LaSn, paper:10.1016/s0925-8388(00)01077-x:LaSn<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LASN_B33, tdb:LaSn-09Idb.tdb:LASN_B33, tdb:LaSn-19Li-ass.tdb:LASN_B33, tdb:LaSn-19Li-sub.tdb:LASN_B33<br></p>
+<h3>TDB models of LASN_B33 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LASN_B33, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>75: PHASE LASN_B33 % 2 1 1 !
+76: CONST LASN_B33 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LASN_B33, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>84: PHASE LASN_B33 % 2 0.5 0.5 !
+85: CONST LASN_B33 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LASN_B33, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>81: PHASE LASN_B33 % 2 1 1 !
+82: CONST LASN_B33 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LASN_B33, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>77: PHASE LASN_B33 % 2 1 1 !
+78: CONST LASN_B33 : LA : SN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-lasn3-l12">LASN3_L12 (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:lasn3-l12</code>; status <code>assigned</code></li>
+<li>Structure: AuCu3 · L1_2 · cP4 · Pm-3m (221); type <code>st:l1-2-aucu3-cp4</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaaayj and oqmd-643082, space group 221</li>
+<li>Stoichiometry: La 0.2500, Sn 0.7500</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–1432.18 K, x(Sn) 0.75–0.75</li>
+<li>Literature: 36 values (36 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:lasn3-l12">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:la-sn:lasn3-l12<br><small>mp: </small>mp:mp-aaaaaayj<br><small>oqmd: </small>oqmd:oqmd-643082<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:LaSn3, paper:10.1016/j.calphad.2008.12.003:LaSn3, paper:10.1016/s0925-8388(00)01077-x:LaSn3<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LASN3_L12, tdb:LaSn-09Idb.tdb:LASN3_L12, tdb:LaSn-19Li-ass.tdb:LASN3_L12, tdb:LaSn-19Li-sub.tdb:LASN3_L12<br></p>
+<h3>TDB models of LASN3_L12 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LASN3_L12, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>90: PHASE LASN3_L12 % 2 1 3 !
+91: CONST LASN3_L12 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LASN3_L12, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>99: PHASE LASN3_L12 % 2 0.25 0.75 !
+100: CONST LASN3_L12 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LASN3_L12, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>96: PHASE LASN3_L12 % 2 1 3 !
+97: CONST LASN3_L12 : LA : SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LASN3_L12, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>92: PHASE LASN3_L12 % 2 1 3 !
+93: CONST LASN3_L12 : LA : SN : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0040-6031(73)80026-7">doi:10.1016/0040-6031(73)80026-7</a> A. Palenzona, Dynamic differential calorimetry of intermetallic compounds I. Heat of formation, heat and entropy of fusion of rare earth—tin compounds, Thermochimica Acta 5, 473-480 (1973).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-la-sn-liquid">LIQUID (La–Sn)</h2>
+<ul>
+<li>Id: <code>phase:la-sn:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 504.95–2500 K, x(Sn) 0–1</li>
+<li>Literature: 108 values (108 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:la-sn:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:la-sn:liquid<br><small>paper: </small>paper:10.1007/s11669-019-00751-x:L, paper:10.1007/s11669-019-00751-x:liquid, paper:10.1016/j.calphad.2008.12.003:Liq, paper:10.1016/j.calphad.2008.12.003:liquid, paper:10.1016/s0925-8388(00)01077-x:L, paper:10.1016/s0925-8388(00)01077-x:Liq.<br><small>tdb: </small>tdb:LaSn-00Hua.tdb:LIQUID, tdb:LaSn-09Idb.tdb:LIQUID, tdb:LaSn-19Li-ass.tdb:LIQUID, tdb:LaSn-19Li-sub.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-00Hua.tdb">LaSn-00Hua.tdb</a>: LIQUID, type code %, sha256 <code>6d19dc319f4242fc…</code></p>
+<pre>24: PHASE LIQUID:L % 1 1 !
+25: CONST LIQUID:L : LA SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-09Idb.tdb">LaSn-09Idb.tdb</a>: LIQUID, type code %, sha256 <code>c160ccb92eeed473…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : LA LASN SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-ass.tdb">LaSn-19Li-ass.tdb</a>: LIQUID, type code %, sha256 <code>69d495c9f2d45735…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : LA LASN SN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/LaSn-19Li-sub.tdb">LaSn-19Li-sub.tdb</a>: LIQUID, type code %, sha256 <code>fc06c1ddd8fbb979…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : LA SN : !</pre>
+<p>Example references (7 of 7; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2008.12.003">doi:10.1016/j.calphad.2008.12.003</a> M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-019-00751-x">doi:10.1007/s11669-019-00751-x</a> Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0925-8388(00)01077-X">doi:10.1016/S0925-8388(00)01077-X</a> M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02645375">doi:10.1007/bf02645375</a> A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.08.004">doi:10.1016/j.calphad.2016.08.004</a> J. Kim, E. Thibodeau, K. Tetley-Gerard, and I.-H. Jung, Critical Evaluation and Thermodynamic Optimization of the Sn–RE Systems: Part I. Sn-RE System (RE=La, Ce, Pr, Nd and Sm), Calphad, 2016, 55, p 113-133<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0040-6031(73)80026-7">doi:10.1016/0040-6031(73)80026-7</a> A. Palenzona, Dynamic differential calorimetry of intermetallic compounds I. Heat of formation, heat and entropy of fusion of rare earth—tin compounds, Thermochimica Acta 5, 473-480 (1973).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0364-5916(91)90030-n">doi:10.1016/0364-5916(91)90030-n</a> A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

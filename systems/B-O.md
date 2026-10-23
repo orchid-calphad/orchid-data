@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/B-O.html · Markdown: https://data
 
 6 accepted literature values from 1 paper(s) (model 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-O.json) · [CSV](https://data.orchid-project.org/systems/B-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-O/BO-23Pha.json) · [Markdown](https://data.orchid-project.org/systems/B-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-O.json) · [CSV](https://data.orchid-project.org/systems/B-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-O/BO-23Pha.json) · [phases (7)](https://data.orchid-project.org/phases/pages/B-O.html) · [Markdown](https://data.orchid-project.org/systems/B-O.md)
 
 Table: Accepted values by evidence class
 

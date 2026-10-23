@@ -18,12 +18,12 @@
  ],
  "exclude": [],
  "n_files": 16,
- "total_bytes": 141850,
+ "total_bytes": 147993,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 8241,
-   "sha256": "e7c5cb2c38eb246d877986e9c518ccdf60f0d9d50d04300255a59226a428e5f4"
+   "bytes": 9084,
+   "sha256": "4432f5a55ea7210b7e0659cc24fc00b967be1bdd3fe37e65e3acc472a678364a"
   },
   {
    "path": "CITATION.cff",
@@ -32,8 +32,8 @@
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 36003,
-   "sha256": "51f828eb99030bb12c12817fe43c0f99491808d41be58087bff819db26d2ba4c"
+   "bytes": 41228,
+   "sha256": "dd100eb38eb791d5b0f1c5428605d2483e0b40523d976d2aa6ad608255d620cb"
   },
   {
    "path": "LICENSE",
@@ -97,8 +97,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 8573,
-   "sha256": "31b82abfc1d950140bcb588ca7cb3e33c89a181b9c71b29bcf68611439e53c1d"
+   "bytes": 8648,
+   "sha256": "fe117ab2e513ac8838425d5b19c156e7b0a8ec614c77dee55ae5438aefaa2fbf"
   }
  ]
 }

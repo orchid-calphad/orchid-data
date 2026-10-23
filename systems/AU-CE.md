@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-CE.html · Markdown: https://da
 
 205 accepted literature values from 2 paper(s) (experimental 79, model 97, DFT 5, unspecified 24); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE.json) · [CSV](https://data.orchid-project.org/systems/AU-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CE/AuCe-13Don.json) · [Markdown](https://data.orchid-project.org/systems/AU-CE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE.json) · [CSV](https://data.orchid-project.org/systems/AU-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CE/AuCe-13Don.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-CE.html) · [Markdown](https://data.orchid-project.org/systems/AU-CE.md)
 
 Table: Accepted values by evidence class
 

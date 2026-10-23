@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/Y-ZN.html · Markdown: https://dat
 
 135 accepted literature values from 2 paper(s) (experimental 79, model 56); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/Y-ZN.json) · [CSV](https://data.orchid-project.org/systems/Y-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#Y-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#Y-ZN/YZn-06Sha.json) · [Markdown](https://data.orchid-project.org/systems/Y-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/Y-ZN.json) · [CSV](https://data.orchid-project.org/systems/Y-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#Y-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#Y-ZN/YZn-06Sha.json) · [phases (13)](https://data.orchid-project.org/phases/pages/Y-ZN.html) · [Markdown](https://data.orchid-project.org/systems/Y-ZN.md)
 
 Table: Accepted values by evidence class
 

@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cu–In phases — ORCHID phase registry</title>
+<meta name="description" content="Cu–In system: 12 phases (tier A 5, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/CU-IN.html">
+<link rel="alternate" type="text/markdown" href="CU-IN.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Cu–In system: 12 phases (tier A 5, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/CU-IN.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/CU-IN.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:a6-tetragonal","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:a6-tetragonal","corpus:phase:cu-in:tetragonal-a6","paper:10.1007/bf02652158:(In)","paper:10.1007/bf02652158:δ","paper:10.1007/bf02652158:δ2","paper:10.1361/105497102770331163:δ","paper:10.1361/105497102770331352:δ","tdb:CuIn-02Her.tdb:TETRAGONAL_A6","tdb:CuIn-02Liu-LB.tdb:TETRAGONAL_A6","tdb:CuIn-02Liu-orig.tdb:TETRAGONAL_A6","tdb:CuIn-24Cha.tdb:TETRAGONAL_A6","tdb:CuIn-93Kao.tdb:TETRAGONAL_A6"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1021/j150541a005","@type":"ScholarlyArticle","name":"O. J. Kleppa, Heat of Formation of Solid and Liquid Binary Alloys of Copper with Cadmium, Indium, Tin and Antimony at 450°, J. Phys. Chem. 60, 852-858 (1956)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"TETRAGONAL_A6","pearsonSymbol":"tI2","prototype":"In","reviewStatus":"assigned","spaceGroupNumber":139,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a6-in-ti2","strukturbericht":"A6","termCode":"phase:cu-in:a6-tetragonal","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-a6-tetragonal"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:bcc-a2","paper:10.1007/bf02652158:β","paper:10.1361/105497102770331163:β","paper:10.1361/105497102770331352:β","tdb:CuIn-02Her.tdb:BCC_A2","tdb:CuIn-02Liu-LB.tdb:BCC_A2","tdb:CuIn-02Liu-orig.tdb:BCC_A2","tdb:CuIn-24Cha.tdb:BCC_A2","tdb:CuIn-93Kao.tdb:BCC_A2"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:cu-in:bcc-a2","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu11in9","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu11in9","paper:10.1007/bf02652158:Cu11In9","tdb:CuIn-02Her.tdb:CU11IN9","tdb:CuIn-02Liu-LB.tdb:CU11IN9","tdb:CuIn-02Liu-orig.tdb:CU11IN9","tdb:CuIn-24Cha.tdb:CU11IN9","tdb:CuIn-93Kao.tdb:CU11IN9"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU11IN9","pearsonSymbol":"mC20","prototype":"AlCu(r)","reviewStatus":"assigned","spaceGroupNumber":12,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:alcu-r-mc20","termCode":"phase:cu-in:cu11in9","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu11in9"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu2in","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu2in","paper:10.1007/bf02652158:η","paper:10.1007/bf02652158:ηCu2In","tdb:CuIn-02Liu-LB.tdb:CU2IN_LT","tdb:CuIn-02Liu-orig.tdb:CU2IN_LT","tdb:CuIn-24Cha.tdb:CU2IN_LT","tdb:CuIn-93Kao.tdb:CU2IN"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2IN_LT","reviewStatus":"needs_review","termCode":"phase:cu-in:cu2in","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu2in"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu2in-b82","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu2in-b82","tdb:CuIn-02Her.tdb:CU2IN_B82","tdb:CuIn-02Liu-LB.tdb:CU2IN_B82","tdb:CuIn-02Liu-orig.tdb:CU2IN_B82","tdb:CuIn-24Cha.tdb:CU2IN_B82"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2IN_B82","pearsonSymbol":"hP6","prototype":"InNi2","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b8-2-inni2-hp6","strukturbericht":"B8_2","termCode":"phase:cu-in:cu2in-b82","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu2in-b82"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu4in","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu4in","tdb:CuIn-93Kao.tdb:CU4IN"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU4IN","reviewStatus":"needs_review","termCode":"phase:cu-in:cu4in","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu4in"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu7in3","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu7in3","mp:mp-aaaabgnp","oqmd:oqmd-2051515","paper:10.1007/bf02652158:γ","paper:10.1007/bf02652158:δCu7In3","tdb:CuIn-02Her.tdb:CU7IN3","tdb:CuIn-02Liu-LB.tdb:CU7IN3","tdb:CuIn-02Liu-orig.tdb:CU7IN3","tdb:CuIn-24Cha.tdb:CU7IN3","tdb:CuIn-93Kao.tdb:CU7IN3"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU7IN3","pearsonSymbol":"aP40","prototype":"Cu7In3","reviewStatus":"assigned","spaceGroupNumber":2,"structureBasis":"dft_unique_match","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:cu7in3-ap40","termCode":"phase:cu-in:cu7in3","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu7in3"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cu9in4-d83","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cu9in4-d83","paper:10.1361/105497102770331163:γ","paper:10.1361/105497102770331352:γ","tdb:CuIn-02Her.tdb:CU9IN4_D83","tdb:CuIn-02Liu-LB.tdb:CU9IN4_D83","tdb:CuIn-02Liu-orig.tdb:CU9IN4_D83","tdb:CuIn-24Cha.tdb:CU9IN4_D83"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU9IN4_D83","reviewStatus":"needs_review","termCode":"phase:cu-in:cu9in4-d83","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cu9in4-d83"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:cuin2","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:cuin2","tdb:CuIn-24Cha.tdb:CUIN2"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CUIN2","reviewStatus":"needs_review","termCode":"phase:cu-in:cuin2","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-cuin2"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:fcc-a1","paper:10.1007/bf02652158:α","tdb:CuIn-02Her.tdb:FCC_A1","tdb:CuIn-02Liu-LB.tdb:FCC_A1","tdb:CuIn-02Liu-orig.tdb:FCC_A1","tdb:CuIn-24Cha.tdb:FCC_A1","tdb:CuIn-93Kao.tdb:FCC_A1"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:cu-in:fcc-a1","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:hcp-a3","tdb:CuIn-02Her.tdb:HCP_A3","tdb:CuIn-02Liu-LB.tdb:HCP_A3","tdb:CuIn-02Liu-orig.tdb:HCP_A3","tdb:CuIn-24Cha.tdb:HCP_A3","tdb:CuIn-93Kao.tdb:HCP_A3"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:cu-in:hcp-a3","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-in:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:cu-in:liquid","paper:10.1007/bf02652158:L","tdb:CuIn-02Her.tdb:LIQUID","tdb:CuIn-02Liu-LB.tdb:LIQUID","tdb:CuIn-02Liu-orig.tdb:LIQUID","tdb:CuIn-24Cha.tdb:LIQUID","tdb:CuIn-93Kao.tdb:LIQUID"],"chemicalSystem":"CU-IN","citation":[{"@id":"https://doi.org/10.1007/BF02652158","@type":"ScholarlyArticle","name":"C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993)."},{"@id":"https://doi.org/10.1016/j.calphad.2024.102700","@type":"ScholarlyArticle","name":"F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024)."},{"@id":"https://doi.org/10.1361/105497102770331163","@type":"ScholarlyArticle","name":"Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002)."},{"@id":"https://doi.org/10.1361/105497102770331352","@type":"ScholarlyArticle","name":"H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:cu-in:liquid","url":"https://data.orchid-project.org/phases/pages/CU-IN.html#phase-cu-in-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Cu–In"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Cu–In phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/CU-IN.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Cu–In phases</h1>
+<p>12 phases (tier A 5, tier B 1, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=CU-IN">interactive registry</a> · <a href="../systems/CU-IN.json">full JSON</a> · <a href="../../systems/CU-IN.html">Cu–In system page</a> · <a href="CU-IN.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Cu–In system (12)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-cu-in-a6-tetragonal">TETRAGONAL_A6</a><br><small>phase:cu-in:a6-tetragonal</small></th><td>In · A6 · tI2 · I4/mmm (139)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–429.75 K, x(In) 1–1</td><td class="n">20</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-bcc-a2">BCC_A2</a><br><small>phase:cu-in:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 4 of 5 calculated diagram(s): 840.77–984.32 K, x(In) 0.18704–0.24672</td><td class="n">18</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu11in9">CU11IN9</a><br><small>phase:cu-in:cu11in9</small></th><td>AlCu(r) · mC20 · C2/m (12)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 5 of 5 calculated diagram(s): 300–610 K, x(In) 0.45–0.45</td><td class="n">7</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu2in">CU2IN_LT</a><br><small>phase:cu-in:cu2in</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 300–939.33 K, x(In) 0.33333–0.36</td><td class="n">7</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu2in-b82">CU2IN_B82</a><br><small>phase:cu-in:cu2in-b82</small></th><td>InNi2 · B8_2 · hP6 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>stable in 4 of 4 calculated diagram(s): 334.9–942.76 K, x(In) 0.3266–0.40007</td><td class="n">0</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu4in">CU4IN</a><br><small>phase:cu-in:cu4in</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 864.81–983.67 K, x(In) 0.2–0.2</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu7in3">CU7IN3</a><br><small>phase:cu-in:cu7in3</small></th><td>Cu7In3 · aP40 · P-1 (2)</td><td>tier B: DFT-supported (unique MP + OQMD match)</td><td>stable in 5 of 5 calculated diagram(s): 300–955.77 K, x(In) 0.3–0.3</td><td class="n">9</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cu9in4-d83">CU9IN4_D83</a><br><small>phase:cu-in:cu9in4-d83</small></th><td></td><td>needs_review</td><td>stable in 4 of 4 calculated diagram(s): 886.25–961.64 K, x(In) 0.27969–0.33886</td><td class="n">10</td><td class="n">4</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-cuin2">CUIN2</a><br><small>phase:cu-in:cuin2</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–380.76 K, x(In) 0.667–0.667</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-fcc-a1">FCC_A1</a><br><small>phase:cu-in:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 5 of 5 calculated diagram(s): 300–1359.77 K, x(In) 0–0.10397</td><td class="n">4</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-hcp-a3">HCP_A3</a><br><small>phase:cu-in:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 5 calculated diagram(s)</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-cu-in-liquid">LIQUID</a><br><small>phase:cu-in:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 5 of 5 calculated diagram(s): 425.92–2500 K, x(In) 0–1</td><td class="n">12</td><td class="n">5</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-cu-in-a6-tetragonal">TETRAGONAL_A6 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:a6-tetragonal</code>; status <code>assigned</code></li>
+<li>Structure: In · A6 · tI2 · I4/mmm (139); type <code>st:a6-in-ti2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: In 1.0000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–429.75 K, x(In) 1–1</li>
+<li>Literature: 20 values (20 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:a6-tetragonal">phase registry entry</a></li>
+</ul>
+<p>Names (12): <small>corpus: </small>corpus:phase:cu-in:a6-tetragonal, corpus:phase:cu-in:tetragonal-a6<br><small>paper: </small>paper:10.1007/bf02652158:(In), paper:10.1007/bf02652158:δ, paper:10.1007/bf02652158:δ2, paper:10.1361/105497102770331163:δ, paper:10.1361/105497102770331352:δ<br><small>tdb: </small>tdb:CuIn-02Her.tdb:TETRAGONAL_A6, tdb:CuIn-02Liu-LB.tdb:TETRAGONAL_A6, tdb:CuIn-02Liu-orig.tdb:TETRAGONAL_A6, tdb:CuIn-24Cha.tdb:TETRAGONAL_A6, tdb:CuIn-93Kao.tdb:TETRAGONAL_A6<br></p>
+<h3>TDB models of TETRAGONAL_A6 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>45: PHASE TETRAGONAL_A6 % 1 1 !
+46: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>58: PHASE TETRAGONAL_A6 % 1 1 !
+59: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>48: PHASE TETRAGONAL_A6 % 1 1 !
+49: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>45: PHASE TETRAGONAL_A6 % 1 1 !
+46: CONST TETRAGONAL_A6 : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: TETRAGONAL_A6, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>60: PHASE TETRAGONAL_A6 % 1 1 !
+61: CONST TETRAGONAL_A6 : IN : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1021/j150541a005">doi:10.1021/j150541a005</a> O. J. Kleppa, Heat of Formation of Solid and Liquid Binary Alloys of Copper with Cadmium, Indium, Tin and Antimony at 450°, J. Phys. Chem. 60, 852-858 (1956).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-bcc-a2">BCC_A2 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 4 of 5 calculated diagram(s): 840.77–984.32 K, x(In) 0.18704–0.24672</li>
+<li>Literature: 18 values (18 accepted) from 3 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:cu-in:bcc-a2<br><small>paper: </small>paper:10.1007/bf02652158:β, paper:10.1361/105497102770331163:β, paper:10.1361/105497102770331352:β<br><small>tdb: </small>tdb:CuIn-02Her.tdb:BCC_A2, tdb:CuIn-02Liu-LB.tdb:BCC_A2, tdb:CuIn-02Liu-orig.tdb:BCC_A2, tdb:CuIn-24Cha.tdb:BCC_A2, tdb:CuIn-93Kao.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: BCC_A2, type code %B, sha256 <code>939f507801d25dfe…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>bfea037b638c1645…</code></p>
+<pre>48: PHASE BCC_A2 %B 2 1 3 !
+49: CONST BCC_A2 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: BCC_A2, type code %B, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>38: PHASE BCC_A2 %B 2 1 3 !
+39: CONST BCC_A2 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: BCC_A2, type code %B, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: BCC_A2, type code %B, sha256 <code>d051d27676496f92…</code></p>
+<pre>50: PHASE BCC_A2 %B 2 1 3 !
+51: CONST BCC_A2 : CU IN : VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu11in9">CU11IN9 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu11in9</code>; status <code>assigned</code></li>
+<li>Structure: AlCu(r) · mC20 · C2/m (12); type <code>st:alcu-r-mc20</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Cu 0.5500, In 0.4500</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–610 K, x(In) 0.45–0.45</li>
+<li>Literature: 7 values (7 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu11in9">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-in:cu11in9<br><small>paper: </small>paper:10.1007/bf02652158:Cu11In9<br><small>tdb: </small>tdb:CuIn-02Her.tdb:CU11IN9, tdb:CuIn-02Liu-LB.tdb:CU11IN9, tdb:CuIn-02Liu-orig.tdb:CU11IN9, tdb:CuIn-24Cha.tdb:CU11IN9, tdb:CuIn-93Kao.tdb:CU11IN9<br></p>
+<h3>TDB models of CU11IN9 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: CU11IN9, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>66: PHASE CU11IN9 % 2 11 9 !
+67: CONST CU11IN9 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: CU11IN9, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>89: PHASE CU11IN9 % 2 0.55 0.45 !
+90: CONST CU11IN9 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: CU11IN9, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>74: PHASE CU11IN9 % 2 0.55 0.45 !
+75: CONST CU11IN9 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CU11IN9, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>71: PHASE CU11IN9 % 2 0.55 0.45 !
+72: CONST CU11IN9 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: CU11IN9, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>82: PHASE CU11IN9 % 2 11 9 !
+83: CONST CU11IN9 : CU : IN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu2in">CU2IN_LT (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu2in</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: models_disagree_on_composition; no_structure_token</li>
+<li>Candidate (sgte_mmc2): (Cu2In) — Hallstedt 2025 mmc2 row for CU2IN_LT: Cu2In-lt</li>
+<li>Candidate (tdb_comment): InNi2 · hP6 · P6_3/mmc — CuIn-93Kao.tdb: &#x27;Prototype InNi2 (hP6, P6_3/mmc), NiAs-type suggested in LB binary, Cu2In-ht&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 300–939.33 K, x(In) 0.33333–0.36</li>
+<li>Literature: 7 values (7 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu2in">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-in:cu2in<br><small>paper: </small>paper:10.1007/bf02652158:η, paper:10.1007/bf02652158:ηCu2In<br><small>tdb: </small>tdb:CuIn-02Liu-LB.tdb:CU2IN_LT, tdb:CuIn-02Liu-orig.tdb:CU2IN_LT, tdb:CuIn-24Cha.tdb:CU2IN_LT, tdb:CuIn-93Kao.tdb:CU2IN<br></p>
+<h3>TDB models of CU2IN_LT (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: CU2IN_LT, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>84: PHASE CU2IN_LT % 2 0.64 0.36 !
+85: CONST CU2IN_LT : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: CU2IN_LT, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>69: PHASE CU2IN_LT % 2 0.64 0.36 !
+70: CONST CU2IN_LT : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CU2IN_LT, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>66: PHASE CU2IN_LT % 2 0.64 0.36 !
+67: CONST CU2IN_LT : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: CU2IN, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>77: PHASE CU2IN % 2 2 1 !
+78: CONST CU2IN : CU : IN : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu2in-b82">CU2IN_B82 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu2in-b82</code>; status <code>assigned</code></li>
+<li>Structure: InNi2 · B8_2 · hP6 · P6_3/mmc (194); type <code>st:b8-2-inni2-hp6</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: partitioned order/disorder model in CuIn-02Her.tdb also describes the disordered state</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 334.9–942.76 K, x(In) 0.3266–0.40007</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu2in-b82">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:cu-in:cu2in-b82<br><small>tdb: </small>tdb:CuIn-02Her.tdb:CU2IN_B82, tdb:CuIn-02Liu-LB.tdb:CU2IN_B82, tdb:CuIn-02Liu-orig.tdb:CU2IN_B82, tdb:CuIn-24Cha.tdb:CU2IN_B82<br></p>
+<h3>TDB models of CU2IN_B82 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: CU2IN_B82, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>61: PHASE CU2IN_B82 % 2 6 4 !
+62: CONST CU2IN_B82 : CU IN : CU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: CU2IN_B82, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>74: PHASE CU2IN_B82 % 3 1 1 1 !
+75: CONST CU2IN_B82 : CU : CU VA : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: CU2IN_B82, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>64: PHASE CU2IN_B82 % 3 0.545 0.122 0.333 !
+65: CONST CU2IN_B82 : CU : CU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CU2IN_B82, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>61: PHASE CU2IN_B82 % 3 0.545 0.122 0.333 !
+62: CONST CU2IN_B82 : CU : CU IN : IN : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu4in">CU4IN (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu4in</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (tdb_comment): W · cI2 · Im-3m — CuIn-93Kao.tdb: &#x27;Prototype W (cI2, Im-3m), bcc!!, beta&#x27;</li>
+<li>Stoichiometry: Cu 0.8000, In 0.2000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 864.81–983.67 K, x(In) 0.2–0.2</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu4in">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:cu-in:cu4in<br><small>tdb: </small>tdb:CuIn-93Kao.tdb:CU4IN<br></p>
+<h3>TDB models of CU4IN (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: CU4IN, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>65: PHASE CU4IN % 2 4 1 !
+66: CONST CU4IN : CU : IN : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu7in3">CU7IN3 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu7in3</code>; status <code>assigned</code></li>
+<li>Structure: Cu7In3 · aP40 · P-1 (2); type <code>st:cu7in3-ap40</code>; tier B: DFT-supported (unique MP + OQMD match); confidence high</li>
+<li>Stoichiometry: Cu 0.7000, In 0.3000</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–955.77 K, x(In) 0.3–0.3</li>
+<li>Literature: 9 values (9 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu7in3">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:cu-in:cu7in3<br><small>mp: </small>mp:mp-aaaabgnp<br><small>oqmd: </small>oqmd:oqmd-2051515<br><small>paper: </small>paper:10.1007/bf02652158:γ, paper:10.1007/bf02652158:δCu7In3<br><small>tdb: </small>tdb:CuIn-02Her.tdb:CU7IN3, tdb:CuIn-02Liu-LB.tdb:CU7IN3, tdb:CuIn-02Liu-orig.tdb:CU7IN3, tdb:CuIn-24Cha.tdb:CU7IN3, tdb:CuIn-93Kao.tdb:CU7IN3<br></p>
+<h3>TDB models of CU7IN3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: CU7IN3, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>55: PHASE CU7IN3 % 2 7 3 !
+56: CONST CU7IN3 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: CU7IN3, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>68: PHASE CU7IN3 % 2 0.7 0.3 !
+69: CONST CU7IN3 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: CU7IN3, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>58: PHASE CU7IN3 % 2 0.7 0.3 !
+59: CONST CU7IN3 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CU7IN3, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>55: PHASE CU7IN3 % 2 0.7 0.3 !
+56: CONST CU7IN3 : CU : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: CU7IN3, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>70: PHASE CU7IN3 % 2 7 3 !
+71: CONST CU7IN3 : CU : IN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cu9in4-d83">CU9IN4_D83 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cu9in4-d83</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D8_3; site_ratios_contradict_D8_3:CuIn-02Her.tdb</li>
+<li>Candidate (dft_mp): P-1 (2) — on-hull MP In3Cu7 at x(IN)=0.3000</li>
+<li>Candidate (dft_oqmd): P-1 (2) — on-hull OQMD Cu7 In3 at x(IN)=0.3000</li>
+<li>Candidate (name_token): Al4Cu9 · D8_3 · cP52 · P-43m (215) — Strukturbericht/word &#x27;D83&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): Al4Cu9 · D8_3 · cP52 · P-43m (215) — Hallstedt 2025 mmc2 row for CU9IN4_D83: Cu9In4 (gamma)</li>
+<li>Candidate (sgte_mmc2): Al4Cu9 · D8_3 · cP52 · P-43m (215) — Hallstedt 2025 mmc2 row for CU9IN4_D83: Cu9In4 (gamma) (= 17:3:6)</li>
+<li>Candidate (tdb_comment): Al4Cu9 · cP52 · P-43m — CuIn-02Her.tdb: &#x27;Prototype Al4Cu9 (cP52, P-43m), gamma-CuIn&#x27;</li>
+<li>Candidate (tdb_comment): Al4Cu9 · cP52 · P-43m — CuIn-02Liu-LB.tdb: &#x27;Prototype Al4Cu9 (cP52, P-43m), gamma-CuIn&#x27;</li>
+<li>Candidate (tdb_comment): Al4Cu9 · cP52 · P-43m — CuIn-02Liu-orig.tdb: &#x27;Prototype Al4Cu9 (cP52, P-43m), gamma-CuIn&#x27;</li>
+<li>Stability: stable in 4 of 4 calculated diagram(s): 886.25–961.64 K, x(In) 0.27969–0.33886</li>
+<li>Literature: 10 values (10 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cu9in4-d83">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-in:cu9in4-d83<br><small>paper: </small>paper:10.1361/105497102770331163:γ, paper:10.1361/105497102770331352:γ<br><small>tdb: </small>tdb:CuIn-02Her.tdb:CU9IN4_D83, tdb:CuIn-02Liu-LB.tdb:CU9IN4_D83, tdb:CuIn-02Liu-orig.tdb:CU9IN4_D83, tdb:CuIn-24Cha.tdb:CU9IN4_D83<br></p>
+<h3>TDB models of CU9IN4_D83 (4): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: CU9IN4_D83, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>50: PHASE CU9IN4_D83 % 2 3 1 !
+51: CONST CU9IN4_D83 : CU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: CU9IN4_D83, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>63: PHASE CU9IN4_D83 % 3 0.654 0.115 0.231 !
+64: CONST CU9IN4_D83 : CU : CU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: CU9IN4_D83, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>53: PHASE CU9IN4_D83 % 3 0.654 0.115 0.231 !
+54: CONST CU9IN4_D83 : CU : CU IN : IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CU9IN4_D83, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>50: PHASE CU9IN4_D83 % 3 0.654 0.115 0.231 !
+51: CONST CU9IN4_D83 : CU : CU IN : IN : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-cuin2">CUIN2 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:cuin2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (CuIn2) — Hallstedt 2025 mmc2 row for CUIN2: CuIn2</li>
+<li>Stoichiometry: Cu 0.3330, In 0.6670</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–380.76 K, x(In) 0.667–0.667</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:cuin2">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:cu-in:cuin2<br><small>tdb: </small>tdb:CuIn-24Cha.tdb:CUIN2<br></p>
+<h3>TDB models of CUIN2 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: CUIN2, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>76: PHASE CUIN2 % 2 0.333 0.667 !
+77: CONST CUIN2 : CU : IN : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-fcc-a1">FCC_A1 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 300–1359.77 K, x(In) 0–0.10397</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-in:fcc-a1<br><small>paper: </small>paper:10.1007/bf02652158:α<br><small>tdb: </small>tdb:CuIn-02Her.tdb:FCC_A1, tdb:CuIn-02Liu-LB.tdb:FCC_A1, tdb:CuIn-02Liu-orig.tdb:FCC_A1, tdb:CuIn-24Cha.tdb:FCC_A1, tdb:CuIn-93Kao.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: FCC_A1, type code %A, sha256 <code>939f507801d25dfe…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : CU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>bfea037b638c1645…</code></p>
+<pre>43: PHASE FCC_A1 %A 2 1 1 !
+44: CONST FCC_A1 : CU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: FCC_A1, type code %A, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>33: PHASE FCC_A1 %A 2 1 1 !
+34: CONST FCC_A1 : CU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: FCC_A1, type code %A, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : CU% IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: FCC_A1, type code %A, sha256 <code>d051d27676496f92…</code></p>
+<pre>45: PHASE FCC_A1 %A 2 1 1 !
+46: CONST FCC_A1 : CU% IN : VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-hcp-a3">HCP_A3 (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 5 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-in:hcp-a3<br><small>tdb: </small>tdb:CuIn-02Her.tdb:HCP_A3, tdb:CuIn-02Liu-LB.tdb:HCP_A3, tdb:CuIn-02Liu-orig.tdb:HCP_A3, tdb:CuIn-24Cha.tdb:HCP_A3, tdb:CuIn-93Kao.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: HCP_A3, type code %A, sha256 <code>939f507801d25dfe…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>bfea037b638c1645…</code></p>
+<pre>53: PHASE HCP_A3 %A 2 1 0.5 !
+54: CONST HCP_A3 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: HCP_A3, type code %A, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>43: PHASE HCP_A3 %A 2 1 0.5 !
+44: CONST HCP_A3 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: HCP_A3, type code %A, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : CU IN : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: HCP_A3, type code %A, sha256 <code>d051d27676496f92…</code></p>
+<pre>55: PHASE HCP_A3 %A 2 1 0.5 !
+56: CONST HCP_A3 : CU IN : VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-in-liquid">LIQUID (Cu–In)</h2>
+<ul>
+<li>Id: <code>phase:cu-in:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 5 of 5 calculated diagram(s): 425.92–2500 K, x(In) 0–1</li>
+<li>Literature: 12 values (12 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-in:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-in:liquid<br><small>paper: </small>paper:10.1007/bf02652158:L<br><small>tdb: </small>tdb:CuIn-02Her.tdb:LIQUID, tdb:CuIn-02Liu-LB.tdb:LIQUID, tdb:CuIn-02Liu-orig.tdb:LIQUID, tdb:CuIn-24Cha.tdb:LIQUID, tdb:CuIn-93Kao.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Her.tdb">CuIn-02Her.tdb</a>: LIQUID, type code %, sha256 <code>939f507801d25dfe…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : CU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-LB.tdb">CuIn-02Liu-LB.tdb</a>: LIQUID, type code %, sha256 <code>bfea037b638c1645…</code></p>
+<pre>38: PHASE LIQUID:L % 1 1 !
+39: CONST LIQUID:L : CU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-02Liu-orig.tdb">CuIn-02Liu-orig.tdb</a>: LIQUID, type code %, sha256 <code>d4b7857edb2a6ed4…</code></p>
+<pre>28: PHASE LIQUID:L % 1 1 !
+29: CONST LIQUID:L : CU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-24Cha.tdb">CuIn-24Cha.tdb</a>: LIQUID, type code %, sha256 <code>afb9d98766f375ca…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : CU IN : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuIn-93Kao.tdb">CuIn-93Kao.tdb</a>: LIQUID, type code %, sha256 <code>d051d27676496f92…</code></p>
+<pre>40: PHASE LIQUID:L % 1 1 !
+41: CONST LIQUID:L : CU IN : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02652158">doi:10.1007/BF02652158</a> C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2024.102700">doi:10.1016/j.calphad.2024.102700</a> F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331163">doi:10.1361/105497102770331163</a> Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1361/105497102770331352">doi:10.1361/105497102770331352</a> H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

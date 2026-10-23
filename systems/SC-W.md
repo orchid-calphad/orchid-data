@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SC-W.html · Markdown: https://dat
 
 2 accepted literature values from 1 paper(s) (experimental 1, model 1); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SC-W.json) · [CSV](https://data.orchid-project.org/systems/SC-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-W/ScW-00Kri.json) · [Markdown](https://data.orchid-project.org/systems/SC-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SC-W.json) · [CSV](https://data.orchid-project.org/systems/SC-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-W/ScW-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-W.html) · [Markdown](https://data.orchid-project.org/systems/SC-W.md)
 
 Table: Accepted values by evidence class
 

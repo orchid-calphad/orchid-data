@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-IR.html · Markdown: https://da
 
 7 accepted literature values from 2 paper(s) (model 1, unspecified 6); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-IR.json) · [CSV](https://data.orchid-project.org/systems/AG-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-IR/AgIr-86Kar-LB.json) · [Markdown](https://data.orchid-project.org/systems/AG-IR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-IR.json) · [CSV](https://data.orchid-project.org/systems/AG-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-IR/AgIr-86Kar-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-IR.html) · [Markdown](https://data.orchid-project.org/systems/AG-IR.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-ZN.html · Markdown: https://da
 
 31 accepted literature values from 1 paper(s) (experimental 16, model 15); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GD-ZN.json) · [CSV](https://data.orchid-project.org/systems/GD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-ZN/GdZn-15Gro.json) · [Markdown](https://data.orchid-project.org/systems/GD-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GD-ZN.json) · [CSV](https://data.orchid-project.org/systems/GD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-ZN/GdZn-15Gro.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GD-ZN.md)
 
 Table: Accepted values by evidence class
 

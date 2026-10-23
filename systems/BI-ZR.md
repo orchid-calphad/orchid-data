@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ZR/BiZr-22Gao.json) · [Markdown](https://data.orchid-project.org/systems/BI-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ZR/BiZr-22Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/BI-ZR.md)
 
 ## Calculated phase diagrams
 

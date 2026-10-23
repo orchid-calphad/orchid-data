@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-ZR.html · Markdown: https://da
 
 289 accepted literature values from 7 paper(s) (experimental 150, model 122, unspecified 17); 12 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ZR/FeZr-01Jia.json) · [Markdown](https://data.orchid-project.org/systems/FE-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ZR/FeZr-01Jia.json) · [phases (12)](https://data.orchid-project.org/phases/pages/FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-ZR.md)
 
 Table: Accepted values by evidence class
 

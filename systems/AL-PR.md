@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-PR.html · Markdown: https://da
 
 28 accepted literature values from 1 paper(s) (experimental 11, model 17); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PR/AlPr-01Yin.json) · [Markdown](https://data.orchid-project.org/systems/AL-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PR/AlPr-01Yin.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-PR.md)
 
 Table: Accepted values by evidence class
 

@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fe–Si phases — ORCHID phase registry</title>
+<meta name="description" content="Fe–Si system: 12 phases (tier A 5, tier C 3, liquid 1, needs_review 3); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/FE-SI.html">
+<link rel="alternate" type="text/markdown" href="FE-SI.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Fe–Si system: 12 phases (tier A 5, tier C 3, liquid 1, needs_review 3); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/FE-SI.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/FE-SI.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:a4-diamond","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:a4-diamond","corpus:phase:fe-si:diamond-a4","paper:10.1016/j.calphad.2013.07.007:(Si)","paper:10.1016/s0364-5916(98)00037-6:(Si)","tdb:FeSi-12Ohn.tdb:DIAMOND_A4","tdb:FeSi-14Yua.tdb:DIAMOND_A4","tdb:FeSi-17Cui.tdb:DIAMOND_A4","tdb:FeSi-23Wit.tdb:DIAMOND_A4","tdb:FeSi-91Lac-LB.tdb:DIAMOND_A4"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DIAMOND_A4","pearsonSymbol":"cF8","prototype":"C (diamond)","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a4-c-diamond-cf8","strukturbericht":"A4","termCode":"phase:fe-si:a4-diamond","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-a4-diamond"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:b20-msi","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:b20-msi","corpus:phase:fe-si:msi-b20","paper:10.1016/j.calphad.2013.07.007:FeSi","paper:10.1016/s0364-5916(98)00037-6:FeSi","tdb:FeSi-12Ohn.tdb:MSI_B20","tdb:FeSi-14Yua.tdb:MSI_B20","tdb:FeSi-17Cui.tdb:MSI_B20","tdb:FeSi-23Wit.tdb:MSI_B20","tdb:FeSi-91Lac-LB.tdb:MSI_B20"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MSI_B20","pearsonSymbol":"cP8","prototype":"FeSi","reviewStatus":"assigned","spaceGroupNumber":198,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b20-fesi-cp8","strukturbericht":"B20","termCode":"phase:fe-si:b20-msi","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-b20-msi"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:bcc-4sl","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:bcc-4sl","tdb:FeSi-12Ohn.tdb:BCC_4SL","tdb:FeSi-17Cui.tdb:BCC_4SL"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_4SL","reviewStatus":"needs_review","termCode":"phase:fe-si:bcc-4sl","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-bcc-4sl"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:bcc-a2","paper:10.1016/j.calphad.2013.07.007:BCC_B2","paper:10.2355/isijinternational.52.540:A2 (B2)","tdb:FeSi-12Ohn.tdb:A2_BCC","tdb:FeSi-12Ohn.tdb:BCC_A2","tdb:FeSi-14Yua.tdb:A2_BCC","tdb:FeSi-14Yua.tdb:BCC_A2","tdb:FeSi-17Cui.tdb:A2_BCC","tdb:FeSi-17Cui.tdb:BCC_A2","tdb:FeSi-23Wit.tdb:A2_BCC","tdb:FeSi-23Wit.tdb:BCC_A2","tdb:FeSi-91Lac-LB.tdb:A2_BCC","tdb:FeSi-91Lac-LB.tdb:BCC_A2"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"A2_BCC","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:fe-si:bcc-a2","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:bcc-b2","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:bcc-b2","paper:10.1016/s0364-5916(98)00037-6:bcc-B2","paper:10.2355/isijinternational.52.540:B2","tdb:FeSi-12Ohn.tdb:B2_BCC","tdb:FeSi-14Yua.tdb:B2_BCC","tdb:FeSi-17Cui.tdb:B2_BCC","tdb:FeSi-23Wit.tdb:B2_BCC","tdb:FeSi-91Lac-LB.tdb:B2_BCC"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"B2_BCC","pearsonSymbol":"cP2","prototype":"CsCl","reviewStatus":"assigned","spaceGroupNumber":221,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b2-cscl-cp2","strukturbericht":"B2","termCode":"phase:fe-si:bcc-b2","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-bcc-b2"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:d88-m5si3","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:d88-m5si3","paper:10.1016/s0364-5916(98)00037-6:Fe5Si3","tdb:FeSi-12Ohn.tdb:M5SI3_D88","tdb:FeSi-14Yua.tdb:M5SI3_D88","tdb:FeSi-17Cui.tdb:M5SI3_D88","tdb:FeSi-23Wit.tdb:M5SI3_D88","tdb:FeSi-91Lac-LB.tdb:M5SI3_D88"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"M5SI3_D88","pearsonSymbol":"hP16","prototype":"Mn5Si3","reviewStatus":"assigned","spaceGroupNumber":193,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d8-8-mn5si3-hp16","strukturbericht":"D8_8","termCode":"phase:fe-si:d88-m5si3","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-d88-m5si3"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:fcc-a1","tdb:FeSi-12Ohn.tdb:FCC_A1","tdb:FeSi-14Yua.tdb:FCC_A1","tdb:FeSi-17Cui.tdb:FCC_A1","tdb:FeSi-23Wit.tdb:FCC_A1","tdb:FeSi-91Lac-LB.tdb:FCC_A1"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:fe-si:fcc-a1","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:fe2si","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:fe2si","paper:10.1016/j.calphad.2013.07.007:Fe2Si","paper:10.1016/s0364-5916(98)00037-6:Fe2Si","tdb:FeSi-12Ohn.tdb:FE2SI","tdb:FeSi-14Yua.tdb:FE2SI","tdb:FeSi-17Cui.tdb:FE2SI","tdb:FeSi-23Wit.tdb:FE2SI","tdb:FeSi-91Lac-LB.tdb:FE2SI"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FE2SI","pearsonSymbol":"hP6","prototype":"AlNi2","reviewStatus":"assigned","spaceGroupNumber":164,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:alni2-hp6","termCode":"phase:fe-si:fe2si","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-fe2si"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:fesi2-h","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:fesi2-h","paper:10.1016/j.calphad.2013.07.007:FeSi2_H","paper:10.1016/s0364-5916(98)00037-6:FeSi2-H","tdb:FeSi-12Ohn.tdb:FESI2_H","tdb:FeSi-14Yua.tdb:FESI2_H","tdb:FeSi-17Cui.tdb:FESI2_H","tdb:FeSi-23Wit.tdb:FESI2_H","tdb:FeSi-91Lac-LB.tdb:FESI2_H"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FESI2_H","reviewStatus":"needs_review","termCode":"phase:fe-si:fesi2-h","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-fesi2-h"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:fesi2-l","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:fesi2-l","paper:10.1016/s0364-5916(98)00037-6:FeSi2-L","tdb:FeSi-12Ohn.tdb:FESI2_L","tdb:FeSi-14Yua.tdb:FESI2_L","tdb:FeSi-17Cui.tdb:FESI2_L","tdb:FeSi-23Wit.tdb:FESI2_L","tdb:FeSi-91Lac-LB.tdb:FESI2_L"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FESI2_L","reviewStatus":"needs_review","termCode":"phase:fe-si:fesi2-l","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-fesi2-l"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:hcp-a3","tdb:FeSi-12Ohn.tdb:HCP_A3","tdb:FeSi-14Yua.tdb:HCP_A3","tdb:FeSi-17Cui.tdb:HCP_A3","tdb:FeSi-23Wit.tdb:HCP_A3","tdb:FeSi-91Lac-LB.tdb:HCP_A3"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:fe-si:hcp-a3","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:fe-si:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:fe-si:liquid","paper:10.1016/j.calphad.2013.07.007:L","paper:10.1016/s0364-5916(98)00037-6:Liquid","tdb:FeSi-12Ohn.tdb:LIQUID","tdb:FeSi-14Yua.tdb:LIQUID","tdb:FeSi-17Cui.tdb:LIQUID","tdb:FeSi-23Wit.tdb:LIQUID","tdb:FeSi-91Lac-LB.tdb:LIQUID"],"chemicalSystem":"FE-SI","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2013.07.007","@type":"ScholarlyArticle","name":"Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014)."},{"@id":"https://doi.org/10.1007/BF02664987","@type":"ScholarlyArticle","name":"J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998."},{"@id":"https://doi.org/10.1016/j.calphad.2016.11.003","@type":"ScholarlyArticle","name":"S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017)."},{"@id":"https://doi.org/10.1016/j.jallcom.2022.168118","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023)."},{"@id":"https://doi.org/10.2355/isijinternational.52.540","@type":"ScholarlyArticle","name":"Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:fe-si:liquid","url":"https://data.orchid-project.org/phases/pages/FE-SI.html#phase-fe-si-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Fe–Si"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Fe–Si phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/FE-SI.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Fe–Si phases</h1>
+<p>12 phases (tier A 5, tier C 3, liquid 1, needs_review 3); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=FE-SI">interactive registry</a> · <a href="../systems/FE-SI.json">full JSON</a> · <a href="../../systems/FE-SI.html">Fe–Si system page</a> · <a href="FE-SI.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Fe–Si system (12)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-fe-si-a4-diamond">DIAMOND_A4</a><br><small>phase:fe-si:a4-diamond</small></th><td>C (diamond) · A4 · cF8 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 3 of 3 calculated diagram(s): 300–2499.97 K, x(Si) 1–1</td><td class="n">4</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-b20-msi">MSI_B20</a><br><small>phase:fe-si:b20-msi</small></th><td>FeSi · B20 · cP8 · P2_13 (198)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 3 of 3 calculated diagram(s): 300–1683.86 K, x(Si) 0.48824–0.5122</td><td class="n">12</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-bcc-4sl">BCC_4SL</a><br><small>phase:fe-si:bcc-4sl</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-bcc-a2">A2_BCC</a><br><small>phase:fe-si:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 3 of 6 calculated diagram(s): 300–1800 K, x(Si) 0–0.19</td><td class="n">4</td><td class="n">10</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-bcc-b2">B2_BCC</a><br><small>phase:fe-si:bcc-b2</small></th><td>CsCl · B2 · cP2 · Pm-3m (221)</td><td>tier A: standard phase name</td><td>stable in 3 of 3 calculated diagram(s): 300–1823.25 K, x(Si) 0–0.31807</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-d88-m5si3">M5SI3_D88</a><br><small>phase:fe-si:d88-m5si3</small></th><td>Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 3 of 3 calculated diagram(s): 1070–1364.45 K, x(Si) 0.375–0.375</td><td class="n">3</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-fcc-a1">FCC_A1</a><br><small>phase:fe-si:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 3 of 3 calculated diagram(s): 1179.97–1696.48 K, x(Si) 0–0.03391</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-fe2si">FE2SI</a><br><small>phase:fe-si:fe2si</small></th><td>AlNi2 · hP6 · P-3m1 (164)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 3 of 3 calculated diagram(s): 1315.83–1487.53 K, x(Si) 0.33333–0.3392</td><td class="n">11</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-fesi2-h">FESI2_H</a><br><small>phase:fe-si:fesi2-h</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 1209.55–1487 K, x(Si) 0.69809–0.71468</td><td class="n">11</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-fesi2-l">FESI2_L</a><br><small>phase:fe-si:fesi2-l</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 300–1275.67 K, x(Si) 0.66667–0.66667</td><td class="n">2</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-hcp-a3">HCP_A3</a><br><small>phase:fe-si:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 3 calculated diagram(s)</td><td class="n">0</td><td class="n">5</td></tr>
+<tr><th scope="row"><a href="#phase-fe-si-liquid">LIQUID</a><br><small>phase:fe-si:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 3 of 3 calculated diagram(s): 1470.59–2500 K, x(Si) 0–1</td><td class="n">21</td><td class="n">5</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-fe-si-a4-diamond">DIAMOND_A4 (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:a4-diamond</code>; status <code>assigned</code></li>
+<li>Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type <code>st:a4-c-diamond-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–2499.97 K, x(Si) 1–1</li>
+<li>Literature: 4 values (4 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:a4-diamond">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:fe-si:a4-diamond, corpus:phase:fe-si:diamond-a4<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:(Si), paper:10.1016/s0364-5916(98)00037-6:(Si)<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:DIAMOND_A4, tdb:FeSi-14Yua.tdb:DIAMOND_A4, tdb:FeSi-17Cui.tdb:DIAMOND_A4, tdb:FeSi-23Wit.tdb:DIAMOND_A4, tdb:FeSi-91Lac-LB.tdb:DIAMOND_A4<br></p>
+<h3>TDB models of DIAMOND_A4 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: DIAMOND_A4, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>62: PHASE DIAMOND_A4 % 1 1 !
+63: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: DIAMOND_A4, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>55: PHASE DIAMOND_A4 % 1 1 !
+56: CONST DIAMOND_A4 : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: DIAMOND_A4, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>64: PHASE DIAMOND_A4 % 1 1 !
+65: CONST DIAMOND_A4 : FE SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: DIAMOND_A4, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>62: PHASE DIAMOND_A4 % 1 1 !
+63: CONST DIAMOND_A4 : FE SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: DIAMOND_A4, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>59: PHASE DIAMOND_A4 % 1 1 !
+60: CONST DIAMOND_A4 : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-b20-msi">MSI_B20 (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:b20-msi</code>; status <code>assigned</code></li>
+<li>Structure: FeSi · B20 · cP8 · P2_13 (198); type <code>st:b20-fesi-cp8</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:MSI); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Caveat: partitioned order/disorder model in FeSi-23Wit.tdb also describes the disordered state</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–1683.86 K, x(Si) 0.48824–0.5122</li>
+<li>Literature: 12 values (12 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:b20-msi">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:fe-si:b20-msi, corpus:phase:fe-si:msi-b20<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:FeSi, paper:10.1016/s0364-5916(98)00037-6:FeSi<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:MSI_B20, tdb:FeSi-14Yua.tdb:MSI_B20, tdb:FeSi-17Cui.tdb:MSI_B20, tdb:FeSi-23Wit.tdb:MSI_B20, tdb:FeSi-91Lac-LB.tdb:MSI_B20<br></p>
+<h3>TDB models of MSI_B20 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: MSI_B20, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>77: PHASE MSI_B20 % 2 1 1 !
+78: CONST MSI_B20 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: MSI_B20, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>70: PHASE MSI_B20 % 2 1 1 !
+71: CONST MSI_B20 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: MSI_B20, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>79: PHASE MSI_B20 % 2 1 1 !
+80: CONST MSI_B20 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: MSI_B20, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>77: PHASE MSI_B20 % 2 1 1 !
+78: CONST MSI_B20 : FE% SI : FE SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: MSI_B20, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>79: PHASE MSI_B20 % 2 1 1 !
+80: CONST MSI_B20 : FE : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-bcc-4sl">BCC_4SL (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:bcc-4sl</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: order_disorder_ambiguity:FeSi-12Ohn.tdb_model_is_partitioned; order_disorder_ambiguity:FeSi-17Cui.tdb_model_is_partitioned; unrecognised_name_tokens:4SL</li>
+<li>Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word &#x27;A2&#x27; in the TDB name</li>
+<li>Candidate (tdb_comment): CsCl · B2 · cP2, Pm-3m — FeSi-12Ohn.tdb: &#x27;Prototype CsCl (B2, cP2, Pm-3m), NaTl (B32, cF16, Fd-3m),&#x27;</li>
+<li>Candidate (tdb_comment): CsCl · B2 · cP2, Pm-3m — FeSi-17Cui.tdb: &#x27;Prototype CsCl (B2, cP2, Pm-3m), NaTl (B32, cF16, Fd-3m),&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:bcc-4sl">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:fe-si:bcc-4sl<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:BCC_4SL, tdb:FeSi-17Cui.tdb:BCC_4SL<br></p>
+<h3>TDB models of BCC_4SL (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: BCC_4SL, type code %BZ, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>52: PHASE BCC_4SL %BZ 5 0.25 0.25 0.25 0.25 1 !
+53: CONST BCC_4SL : FE SI : FE SI : FE SI : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: BCC_4SL, type code %BZ, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>54: PHASE BCC_4SL %BZ 5 0.25 0.25 0.25 0.25 1 !
+55: CONST BCC_4SL : FE SI : FE SI : FE SI : FE SI : VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-bcc-a2">A2_BCC (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 3 of 6 calculated diagram(s): 300–1800 K, x(Si) 0–0.19</li>
+<li>Literature: 4 values (4 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:fe-si:bcc-a2<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:BCC_B2, paper:10.2355/isijinternational.52.540:A2 (B2)<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:A2_BCC, tdb:FeSi-12Ohn.tdb:BCC_A2, tdb:FeSi-14Yua.tdb:A2_BCC, tdb:FeSi-14Yua.tdb:BCC_A2, tdb:FeSi-17Cui.tdb:A2_BCC, tdb:FeSi-17Cui.tdb:BCC_A2, tdb:FeSi-23Wit.tdb:A2_BCC, tdb:FeSi-23Wit.tdb:BCC_A2, tdb:FeSi-91Lac-LB.tdb:A2_BCC, tdb:FeSi-91Lac-LB.tdb:BCC_A2<br></p>
+<h3>TDB models of A2_BCC (10): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: A2_BCC, type code %B, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>41: PHASE A2_BCC %B 2 1 3 !
+42: CONST A2_BCC : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: BCC_A2, type code %B, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: A2_BCC, type code %B, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>40: PHASE A2_BCC %B 2 1 3 !
+41: CONST A2_BCC : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: BCC_A2, type code %B, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: A2_BCC, type code %B, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>43: PHASE A2_BCC %B 2 1 3 !
+44: CONST A2_BCC : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: BCC_A2, type code %B, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>38: PHASE BCC_A2 %B 2 1 3 !
+39: CONST BCC_A2 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: A2_BCC, type code %B, sha256 <code>1860578382796878…</code></p>
+<pre>47: PHASE A2_BCC %B 2 1 3 !
+48: CONST A2_BCC : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: BCC_A2, type code %B, sha256 <code>1860578382796878…</code></p>
+<pre>42: PHASE BCC_A2 %B 2 1 3 !
+43: CONST BCC_A2 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: A2_BCC, type code %B, sha256 <code>b0825ae47e316513…</code></p>
+<pre>44: PHASE A2_BCC %B 2 1 3 !
+45: CONST A2_BCC : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>b0825ae47e316513…</code></p>
+<pre>39: PHASE BCC_A2 %B 2 1 3 !
+40: CONST BCC_A2 : FE SI : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-bcc-b2">B2_BCC (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:bcc-b2</code>; status <code>assigned</code></li>
+<li>Structure: CsCl · B2 · cP2 · Pm-3m (221); type <code>st:b2-cscl-cp2</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: FeSi-12Ohn.tdb: ordered phase with disordered part A2_BCC (order/disorder model)</li>
+<li>Caveat: FeSi-14Yua.tdb: ordered phase with disordered part A2_BCC (order/disorder model)</li>
+<li>Caveat: FeSi-17Cui.tdb: ordered phase with disordered part A2_BCC (order/disorder model)</li>
+<li>Caveat: FeSi-23Wit.tdb: ordered phase with disordered part A2_BCC (order/disorder model)</li>
+<li>Caveat: FeSi-91Lac-LB.tdb: ordered phase with disordered part A2_BCC (order/disorder model)</li>
+<li>Caveat: partitioned order/disorder model in FeSi-12Ohn.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in FeSi-14Yua.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in FeSi-17Cui.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in FeSi-23Wit.tdb also describes the disordered state</li>
+<li>Caveat: partitioned order/disorder model in FeSi-91Lac-LB.tdb also describes the disordered state</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–1823.25 K, x(Si) 0–0.31807</li>
+<li>Literature: 6 values (6 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:bcc-b2">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:fe-si:bcc-b2<br><small>paper: </small>paper:10.1016/s0364-5916(98)00037-6:bcc-B2, paper:10.2355/isijinternational.52.540:B2<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:B2_BCC, tdb:FeSi-14Yua.tdb:B2_BCC, tdb:FeSi-17Cui.tdb:B2_BCC, tdb:FeSi-23Wit.tdb:B2_BCC, tdb:FeSi-91Lac-LB.tdb:B2_BCC<br></p>
+<h3>TDB models of B2_BCC (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: B2_BCC, type code %BO, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>46: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+47: CONST B2_BCC : FE% SI : FE SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: B2_BCC, type code %BO, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>45: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+46: CONST B2_BCC : FE% SI : FE SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: B2_BCC, type code %BO, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>48: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+49: CONST B2_BCC : FE% SI : FE SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: B2_BCC, type code %BO, sha256 <code>1860578382796878…</code></p>
+<pre>52: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+53: CONST B2_BCC : FE% SI : FE SI% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: B2_BCC, type code %BO, sha256 <code>b0825ae47e316513…</code></p>
+<pre>49: PHASE B2_BCC %BO 3 0.5 0.5 3 !
+50: CONST B2_BCC : FE% SI : FE SI% : VA : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-d88-m5si3">M5SI3_D88 (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:d88-m5si3</code>; status <code>assigned</code></li>
+<li>Structure: Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193); type <code>st:d8-8-mn5si3-hp16</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M5SI3); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Fe 0.6250, Si 0.3750</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 1070–1364.45 K, x(Si) 0.375–0.375</li>
+<li>Literature: 3 values (3 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:d88-m5si3">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:fe-si:d88-m5si3<br><small>paper: </small>paper:10.1016/s0364-5916(98)00037-6:Fe5Si3<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:M5SI3_D88, tdb:FeSi-14Yua.tdb:M5SI3_D88, tdb:FeSi-17Cui.tdb:M5SI3_D88, tdb:FeSi-23Wit.tdb:M5SI3_D88, tdb:FeSi-91Lac-LB.tdb:M5SI3_D88<br></p>
+<h3>TDB models of M5SI3_D88 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: M5SI3_D88, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>72: PHASE M5SI3_D88 % 2 5 3 !
+73: CONST M5SI3_D88 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: M5SI3_D88, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>65: PHASE M5SI3_D88 % 2 5 3 !
+66: CONST M5SI3_D88 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: M5SI3_D88, type code %A, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>74: PHASE M5SI3_D88 %A 2 5 3 !
+75: CONST M5SI3_D88 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: M5SI3_D88, type code %A, sha256 <code>1860578382796878…</code></p>
+<pre>72: PHASE M5SI3_D88 %A 2 5 3 !
+73: CONST M5SI3_D88 : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: M5SI3_D88, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>84: PHASE M5SI3_D88 % 2 5 3 !
+85: CONST M5SI3_D88 : FE : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-fcc-a1">FCC_A1 (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 1179.97–1696.48 K, x(Si) 0–0.03391</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:fe-si:fcc-a1<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:FCC_A1, tdb:FeSi-14Yua.tdb:FCC_A1, tdb:FeSi-17Cui.tdb:FCC_A1, tdb:FeSi-23Wit.tdb:FCC_A1, tdb:FeSi-91Lac-LB.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: FCC_A1, type code %A, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: FCC_A1, type code %A, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: FCC_A1, type code %A, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>33: PHASE FCC_A1 %A 2 1 1 !
+34: CONST FCC_A1 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: FCC_A1, type code %A, sha256 <code>1860578382796878…</code></p>
+<pre>37: PHASE FCC_A1 %A 2 1 1 !
+38: CONST FCC_A1 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>b0825ae47e316513…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : FE SI : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-fe2si">FE2SI (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:fe2si</code>; status <code>assigned</code></li>
+<li>Structure: AlNi2 · hP6 · P-3m1 (164); type <code>st:alni2-hp6</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 1315.83–1487.53 K, x(Si) 0.33333–0.3392</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:fe2si">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:fe-si:fe2si<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:Fe2Si, paper:10.1016/s0364-5916(98)00037-6:Fe2Si<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:FE2SI, tdb:FeSi-14Yua.tdb:FE2SI, tdb:FeSi-17Cui.tdb:FE2SI, tdb:FeSi-23Wit.tdb:FE2SI, tdb:FeSi-91Lac-LB.tdb:FE2SI<br></p>
+<h3>TDB models of FE2SI (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: FE2SI, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>67: PHASE FE2SI % 2 2 1 !
+68: CONST FE2SI : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: FE2SI, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>60: PHASE FE2SI % 2 0.666667 0.333333 !
+61: CONST FE2SI : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: FE2SI, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>69: PHASE FE2SI % 2 2 1 !
+70: CONST FE2SI : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: FE2SI, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>67: PHASE FE2SI % 3 1 1 1 !
+68: CONST FE2SI : FE : FE VA : SI VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: FE2SI, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>64: PHASE FE2SI % 2 2 1 !
+65: CONST FE2SI : FE : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-fesi2-h">FESI2_H (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:fesi2-h</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:H; no_structure_token</li>
+<li>Candidate (sgte_mmc2): FeSi2-h · oC48 · Cmce (64) — Hallstedt 2025 mmc2 row for FESI2_H: FeSi2-h</li>
+<li>Candidate (tdb_comment): FeSi2-h · oC48 · Cmca — FeSi-12Ohn.tdb: &#x27;Prototype FeSi2-h (oC48, Cmca)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-h · oC48 · Cmca — FeSi-14Yua.tdb: &#x27;Prototype FeSi2-h (oC48, Cmca)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-h · oC48 · Cmca — FeSi-17Cui.tdb: &#x27;Prototype FeSi2-h (oC48, Cmca)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-h · oC48 · Cmca — FeSi-23Wit.tdb: &#x27;Prototype FeSi2-h (oC48, Cmca)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-h · oC48 · Cmca — FeSi-91Lac-LB.tdb: &#x27;Prototype FeSi2-h (oC48, Cmca)&#x27;</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 1209.55–1487 K, x(Si) 0.69809–0.71468</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:fesi2-h">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:fe-si:fesi2-h<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:FeSi2_H, paper:10.1016/s0364-5916(98)00037-6:FeSi2-H<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:FESI2_H, tdb:FeSi-14Yua.tdb:FESI2_H, tdb:FeSi-17Cui.tdb:FESI2_H, tdb:FeSi-23Wit.tdb:FESI2_H, tdb:FeSi-91Lac-LB.tdb:FESI2_H<br></p>
+<h3>TDB models of FESI2_H (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: FESI2_H, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>87: PHASE FESI2_H % 2 0.3 0.7 !
+88: CONST FESI2_H : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: FESI2_H, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>75: PHASE FESI2_H % 2 0.3 0.7 !
+76: CONST FESI2_H : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: FESI2_H, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>89: PHASE FESI2_H % 2 3 7 !
+90: CONST FESI2_H : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: FESI2_H, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>87: PHASE FESI2_H % 2 3 7 !
+88: CONST FESI2_H : FE% SI : FE SI% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: FESI2_H, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>69: PHASE FESI2_H % 2 0.3 0.7 !
+70: CONST FESI2_H : FE : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-fesi2-l">FESI2_L (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:fesi2-l</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:L; no_structure_token</li>
+<li>Candidate (dft_mp): Cmce (64) — on-hull MP FeSi2 at x(SI)=0.6667</li>
+<li>Candidate (dft_oqmd): Cmca (64) — on-hull OQMD Fe1 Si2 at x(SI)=0.6667</li>
+<li>Candidate (sgte_mmc2): FeSi2-l · tP3 · P4/mmm (123) — Hallstedt 2025 mmc2 row for FESI2_L: FeSi2-l</li>
+<li>Candidate (tdb_comment): FeSi2-l · tP3 · P4/mmm — FeSi-12Ohn.tdb: &#x27;Prototype FeSi2-l (tP3, P4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-l · tP3 · P4/mmm — FeSi-14Yua.tdb: &#x27;Prototype FeSi2-l (tP3, P4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-l · tP3 · P4/mmm — FeSi-17Cui.tdb: &#x27;Prototype FeSi2-l (tP3, P4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-l · tP3 · P4/mmm — FeSi-23Wit.tdb: &#x27;Prototype FeSi2-l (tP3, P4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): FeSi2-l · tP3 · P4/mmm — FeSi-91Lac-LB.tdb: &#x27;Prototype FeSi2-l (tP3, P4/mmm)&#x27;</li>
+<li>Stoichiometry: Fe 0.3333, Si 0.6667</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–1275.67 K, x(Si) 0.66667–0.66667</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:fesi2-l">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:fe-si:fesi2-l<br><small>paper: </small>paper:10.1016/s0364-5916(98)00037-6:FeSi2-L<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:FESI2_L, tdb:FeSi-14Yua.tdb:FESI2_L, tdb:FeSi-17Cui.tdb:FESI2_L, tdb:FeSi-23Wit.tdb:FESI2_L, tdb:FeSi-91Lac-LB.tdb:FESI2_L<br></p>
+<h3>TDB models of FESI2_L (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: FESI2_L, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>82: PHASE FESI2_L % 2 1 2 !
+83: CONST FESI2_L : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: FESI2_L, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>80: PHASE FESI2_L % 2 0.333333 0.666667 !
+81: CONST FESI2_L : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: FESI2_L, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>84: PHASE FESI2_L % 2 1 2 !
+85: CONST FESI2_L : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: FESI2_L, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>82: PHASE FESI2_L % 2 1 2 !
+83: CONST FESI2_L : FE : SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: FESI2_L, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>74: PHASE FESI2_L % 2 1 2 !
+75: CONST FESI2_L : FE : SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-hcp-a3">HCP_A3 (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 3 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:fe-si:hcp-a3<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:HCP_A3, tdb:FeSi-14Yua.tdb:HCP_A3, tdb:FeSi-17Cui.tdb:HCP_A3, tdb:FeSi-23Wit.tdb:HCP_A3, tdb:FeSi-91Lac-LB.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: HCP_A3, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>57: PHASE HCP_A3 % 2 1 0.5 !
+58: CONST HCP_A3 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: HCP_A3, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>50: PHASE HCP_A3 % 2 1 0.5 !
+51: CONST HCP_A3 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: HCP_A3, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>59: PHASE HCP_A3 % 2 1 0.5 !
+60: CONST HCP_A3 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: HCP_A3, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>57: PHASE HCP_A3 % 2 1 0.5 !
+58: CONST HCP_A3 : FE SI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: HCP_A3, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>54: PHASE HCP_A3 % 2 1 0.5 !
+55: CONST HCP_A3 : FE SI : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-fe-si-liquid">LIQUID (Fe–Si)</h2>
+<ul>
+<li>Id: <code>phase:fe-si:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 1470.59–2500 K, x(Si) 0–1</li>
+<li>Literature: 21 values (21 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:fe-si:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:fe-si:liquid<br><small>paper: </small>paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/s0364-5916(98)00037-6:Liquid<br><small>tdb: </small>tdb:FeSi-12Ohn.tdb:LIQUID, tdb:FeSi-14Yua.tdb:LIQUID, tdb:FeSi-17Cui.tdb:LIQUID, tdb:FeSi-23Wit.tdb:LIQUID, tdb:FeSi-91Lac-LB.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (5): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb">FeSi-12Ohn.tdb</a>: LIQUID, type code %, sha256 <code>e67d734746ab4b1c…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : FE SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-14Yua.tdb">FeSi-14Yua.tdb</a>: LIQUID, type code %, sha256 <code>b45ac7c1e94df438…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : FE SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-17Cui.tdb">FeSi-17Cui.tdb</a>: LIQUID, type code %, sha256 <code>93d3ce80d5ece2c2…</code></p>
+<pre>28: PHASE LIQUID:L % 1 1 !
+29: CONST LIQUID:L : FE SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-23Wit.tdb">FeSi-23Wit.tdb</a>: LIQUID, type code %, sha256 <code>1860578382796878…</code></p>
+<pre>32: PHASE LIQUID:L % 1 1 !
+33: CONST LIQUID:L : FE SI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeSi-91Lac-LB.tdb">FeSi-91Lac-LB.tdb</a>: LIQUID, type code %, sha256 <code>b0825ae47e316513…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : FE SI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.07.007">doi:10.1016/j.calphad.2013.07.007</a> Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/BF02664987">doi:10.1007/BF02664987</a> J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2016.11.003">doi:10.1016/j.calphad.2016.11.003</a> S. Cui, I.-H. Jung, Calphad, 56, 108-25(2017).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2022.168118">doi:10.1016/j.jallcom.2022.168118</a> V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.52.540">doi:10.2355/isijinternational.52.540</a> Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(98)00037-6">doi:10.1016/s0364-5916(98)00037-6</a> M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).<br><small>reports values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-SM.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SM/GdSm-10Guo.json) · [Markdown](https://data.orchid-project.org/systems/GD-SM.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SM/GdSm-10Guo.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GD-SM.html) · [Markdown](https://data.orchid-project.org/systems/GD-SM.md)
 
 ## Calculated phase diagrams
 

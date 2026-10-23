@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TA-W.html · Markdown: https://dat
 
 1 accepted literature values from 1 paper(s) (model 1); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TA-W.json) · [CSV](https://data.orchid-project.org/systems/TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-W/TaW-01Kau-LB.json) · [Markdown](https://data.orchid-project.org/systems/TA-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TA-W.json) · [CSV](https://data.orchid-project.org/systems/TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-W/TaW-01Kau-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/TA-W.html) · [Markdown](https://data.orchid-project.org/systems/TA-W.md)
 
 Table: Accepted values by evidence class
 

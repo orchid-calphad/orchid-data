@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-V/MgV-08GTT.json) · [Markdown](https://data.orchid-project.org/systems/MG-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-V/MgV-08GTT.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-V.html) · [Markdown](https://data.orchid-project.org/systems/MG-V.md)
 
 ## Calculated phase diagrams
 

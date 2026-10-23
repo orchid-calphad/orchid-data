@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-IN.html · Markdown: https://da
 
 10 accepted literature values from 1 paper(s) (experimental 5, model 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-IN.json) · [CSV](https://data.orchid-project.org/systems/CO-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-IN/CoIn-01Boa-LB.json) · [Markdown](https://data.orchid-project.org/systems/CO-IN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-IN.json) · [CSV](https://data.orchid-project.org/systems/CO-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-IN/CoIn-01Boa-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-IN.html) · [Markdown](https://data.orchid-project.org/systems/CO-IN.md)
 
 Table: Accepted values by evidence class
 

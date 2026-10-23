@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TI-W.html · Markdown: https://dat
 
 14 accepted literature values from 2 paper(s) (experimental 8, model 6); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI-W.json) · [CSV](https://data.orchid-project.org/systems/TI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-W/TiW-93Jin.json) · [Markdown](https://data.orchid-project.org/systems/TI-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-W.json) · [CSV](https://data.orchid-project.org/systems/TI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-W/TiW-93Jin.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TI-W.html) · [Markdown](https://data.orchid-project.org/systems/TI-W.md)
 
 Table: Accepted values by evidence class
 

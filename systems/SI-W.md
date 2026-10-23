@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-W.html · Markdown: https://dat
 
 79 accepted literature values from 3 paper(s) (experimental 63, model 16); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-W.json) · [CSV](https://data.orchid-project.org/systems/SI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-W/SiW-03Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/SI-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-W.json) · [CSV](https://data.orchid-project.org/systems/SI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-W/SiW-03Che-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/SI-W.html) · [Markdown](https://data.orchid-project.org/systems/SI-W.md)
 
 Table: Accepted values by evidence class
 

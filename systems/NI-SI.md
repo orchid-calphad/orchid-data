@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-SI.html · Markdown: https://da
 
 224 accepted literature values from 5 paper(s) (experimental 118, model 71, DFT 1, unspecified 34); 10 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [phases (19)](https://data.orchid-project.org/phases/pages/NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
 
 Table: Accepted values by evidence class
 

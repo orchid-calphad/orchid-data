@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-SI.html · Markdown: https://da
 
 13 accepted literature values from 3 paper(s) (experimental 4, model 9); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SI/AlSi-12Tan.json) · [Markdown](https://data.orchid-project.org/systems/AL-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SI/AlSi-12Tan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-SI.md)
 
 Table: Accepted values by evidence class
 

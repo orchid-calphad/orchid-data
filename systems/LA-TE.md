@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-TE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-TE/LaTe-18Hu.json) · [Markdown](https://data.orchid-project.org/systems/LA-TE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-TE/LaTe-18Hu.json) · [phases (9)](https://data.orchid-project.org/phases/pages/LA-TE.html) · [Markdown](https://data.orchid-project.org/systems/LA-TE.md)
 
 ## Calculated phase diagrams
 

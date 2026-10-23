@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CD.html · Markdown: https://da
 
 81 accepted literature values from 2 paper(s) (experimental 74, model 3, unspecified 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CD.json) · [CSV](https://data.orchid-project.org/systems/AL-CD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CD/AlCd-82McA.json) · [Markdown](https://data.orchid-project.org/systems/AL-CD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CD.json) · [CSV](https://data.orchid-project.org/systems/AL-CD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CD/AlCd-82McA.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-CD.html) · [Markdown](https://data.orchid-project.org/systems/AL-CD.md)
 
 Table: Accepted values by evidence class
 

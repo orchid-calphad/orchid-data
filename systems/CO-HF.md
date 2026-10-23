@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-HF.html · Markdown: https://da
 
 62 accepted literature values from 1 paper(s) (experimental 50, model 12); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-HF.json) · [CSV](https://data.orchid-project.org/systems/CO-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-HF/CoHf-06Bra.json) · [Markdown](https://data.orchid-project.org/systems/CO-HF.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-HF.json) · [CSV](https://data.orchid-project.org/systems/CO-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-HF/CoHf-06Bra.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-HF.html) · [Markdown](https://data.orchid-project.org/systems/CO-HF.md)
 
 Table: Accepted values by evidence class
 

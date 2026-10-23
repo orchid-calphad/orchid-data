@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SN.html · Markdown: https://da
 
 50 accepted literature values from 1 paper(s) (experimental 13, model 24, DFT 13); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SN/CaSn-05Car.json) · [Markdown](https://data.orchid-project.org/systems/CA-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SN/CaSn-05Car.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CA-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-SN.md)
 
 Table: Accepted values by evidence class
 

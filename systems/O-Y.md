@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-Y.html · Markdown: https://data
 
 20 accepted literature values from 2 paper(s) (experimental 10, model 10); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-Y.json) · [CSV](https://data.orchid-project.org/systems/O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-Y) · [Markdown](https://data.orchid-project.org/systems/O-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/O-Y.json) · [CSV](https://data.orchid-project.org/systems/O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-Y) · [phases (10)](https://data.orchid-project.org/phases/pages/O-Y.html) · [Markdown](https://data.orchid-project.org/systems/O-Y.md)
 
 Table: Accepted values by evidence class
 

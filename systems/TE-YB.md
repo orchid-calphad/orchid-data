@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TE-YB.html · Markdown: https://da
 
 15 accepted literature values from 1 paper(s) (experimental 9, model 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TE-YB.json) · [CSV](https://data.orchid-project.org/systems/TE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-YB) · [Markdown](https://data.orchid-project.org/systems/TE-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TE-YB.json) · [CSV](https://data.orchid-project.org/systems/TE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-YB) · [phases (6)](https://data.orchid-project.org/phases/pages/TE-YB.html) · [Markdown](https://data.orchid-project.org/systems/TE-YB.md)
 
 Table: Accepted values by evidence class
 

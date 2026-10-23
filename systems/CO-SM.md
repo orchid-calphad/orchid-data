@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-SM.html · Markdown: https://da
 
 83 accepted literature values from 2 paper(s) (experimental 54, model 29); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SM.json) · [CSV](https://data.orchid-project.org/systems/CO-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SM/CoSm-11Yua.json) · [Markdown](https://data.orchid-project.org/systems/CO-SM.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SM.json) · [CSV](https://data.orchid-project.org/systems/CO-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SM/CoSm-11Yua.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CO-SM.html) · [Markdown](https://data.orchid-project.org/systems/CO-SM.md)
 
 Table: Accepted values by evidence class
 

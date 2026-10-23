@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SC-SR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-SR/ScSr-12Che.json) · [Markdown](https://data.orchid-project.org/systems/SC-SR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-SR/ScSr-12Che.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-SR.html) · [Markdown](https://data.orchid-project.org/systems/SC-SR.md)
 
 ## Calculated phase diagrams
 

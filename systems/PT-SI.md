@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PT-SI.html · Markdown: https://da
 
 39 accepted literature values from 1 paper(s) (experimental 24, model 15); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PT-SI.json) · [CSV](https://data.orchid-project.org/systems/PT-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-SI/PtSi-08Xu.json) · [Markdown](https://data.orchid-project.org/systems/PT-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PT-SI.json) · [CSV](https://data.orchid-project.org/systems/PT-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-SI/PtSi-08Xu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/PT-SI.html) · [Markdown](https://data.orchid-project.org/systems/PT-SI.md)
 
 Table: Accepted values by evidence class
 

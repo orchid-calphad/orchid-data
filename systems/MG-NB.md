@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-NB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NB/MgNb-15Hal.json) · [Markdown](https://data.orchid-project.org/systems/MG-NB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NB/MgNb-15Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-NB.html) · [Markdown](https://data.orchid-project.org/systems/MG-NB.md)
 
 ## Calculated phase diagrams
 

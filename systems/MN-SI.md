@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-SI.html · Markdown: https://da
 
 150 accepted literature values from 4 paper(s) (experimental 101, model 37, unspecified 12); 5 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-SI.json) · [CSV](https://data.orchid-project.org/systems/MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-14Ber.json) · [Markdown](https://data.orchid-project.org/systems/MN-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-SI.json) · [CSV](https://data.orchid-project.org/systems/MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-14Ber.json) · [phases (14)](https://data.orchid-project.org/phases/pages/MN-SI.html) · [Markdown](https://data.orchid-project.org/systems/MN-SI.md)
 
 Table: Accepted values by evidence class
 

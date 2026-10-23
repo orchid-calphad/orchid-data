@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PD-ZN.html · Markdown: https://da
 
 77 accepted literature values from 2 paper(s) (experimental 41, model 6, DFT 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
 
 Table: Accepted values by evidence class
 

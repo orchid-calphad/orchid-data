@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-ND.html · Markdown: https://da
 
 39 accepted literature values from 1 paper(s) (experimental 22, model 16, unspecified 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ND.json) · [CSV](https://data.orchid-project.org/systems/CO-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ND/CoNd-07Liu.json) · [Markdown](https://data.orchid-project.org/systems/CO-ND.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ND.json) · [CSV](https://data.orchid-project.org/systems/CO-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ND/CoNd-07Liu.json) · [phases (17)](https://data.orchid-project.org/phases/pages/CO-ND.html) · [Markdown](https://data.orchid-project.org/systems/CO-ND.md)
 
 Table: Accepted values by evidence class
 

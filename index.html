@@ -29,7 +29,8 @@ q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
 .b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
 .b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
 .b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
-code{font-size:.85em;overflow-wrap:anywhere}ol.src li{margin:3px 0}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
 .cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
 .cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
 .cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
@@ -47,6 +48,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <li><a href="systems/index.html">Chemical systems</a> — 1813 pages (also <a href="systems/index.md">Markdown</a>): literature values, invariants, formation enthalpies, calculated phase diagrams.</li>
 <li><a href="compounds/index.html">Compounds</a> — 1477 formation-enthalpy pages with DFT comparison.</li>
 <li><a href="papers/index.html">Reporting papers</a> — citation, DOI, systems, number of values.</li>
+<li><a href="phases/pages/index.html">Phase registry</a> — 1241 binary-system pages, 10,496 phases: names, structure (when certain), stability, TDB PHASE/CONSTITUENT statements, example DOIs.</li>
 <li>Interactive tools: <a href="https://orchid-project.org/data-explorer/">data explorer</a>, <a href="https://orchid-project.org/phase-diagrams/">phase diagrams</a>, <a href="https://orchid-project.org/phases/">phase registry</a>, <a href="https://orchid-project.org/dft-parity/">DFT vs experiment</a>.</li>
 </ul>
 <h2 id="folders">Folder guide</h2>
@@ -57,7 +59,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row"><a href="literature/SCHEMA.md">literature/</a></th><td>Literature records: index.json, systems/&lt;SYS&gt;.json, papers.json, contexts.json, dft_parity.json, full CSV/JSONL dumps; fields in SCHEMA.md.</td></tr>
 <tr><th scope="row"><a href="phase-diagrams/index.json">phase-diagrams/</a></th><td>Calculated binary phase diagrams (pycalphad, SGTE binary collection): index.json and sgte/&lt;TDB&gt;.json (phase regions, invariants, grid).</td></tr>
 <tr><th scope="row">hulls/</th><td>Binary convex hulls: dft-mp/ (Materials Project), dft-oqmd/ (OQMD), calphad-sgte/ (assessed CALPHAD), one JSON per system.</td></tr>
-<tr><th scope="row"><a href="phases/SCHEMA.md">phases/</a></th><td>Phase registry (binary systems): registry.json / .csv / .parquet / .jsonld, structure_types.json, review_queue.json, CONFLICTS.md, systems/&lt;SYS&gt;.json; fields in SCHEMA.md.</td></tr>
+<tr><th scope="row"><a href="phases/SCHEMA.md">phases/</a></th><td>Phase registry (binary systems): registry.json (compact index) / .csv / .parquet / .jsonld, structure_types.json / .parquet, review_queue.json, CONFLICTS.md, systems/&lt;SYS&gt;.json (full records), pages/&lt;SYS&gt;.html|.md (static pages); fields in SCHEMA.md.</td></tr>
 <tr><th scope="row"><a href="systems/index.html">systems/</a></th><td>Static pages per chemical system: &lt;SYS&gt;.html, &lt;SYS&gt;.md, &lt;SYS&gt;.csv.</td></tr>
 <tr><th scope="row"><a href="compounds/index.html">compounds/</a></th><td>Static pages per compound (reduced formula): &lt;FORMULA&gt;.html, &lt;FORMULA&gt;.md.</td></tr>
 <tr><th scope="row"><a href="papers/index.html">papers/</a></th><td>Index of reporting papers.</td></tr>

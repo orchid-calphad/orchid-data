@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/N-NI.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/N-NI.json) · [CSV](https://data.orchid-project.org/systems/N-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-NI) · [Markdown](https://data.orchid-project.org/systems/N-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/N-NI.json) · [CSV](https://data.orchid-project.org/systems/N-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-NI) · [phases (6)](https://data.orchid-project.org/phases/pages/N-NI.html) · [Markdown](https://data.orchid-project.org/systems/N-NI.md)
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/N/N-NI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/N/N-NI.json)
 

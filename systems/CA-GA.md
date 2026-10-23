@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-GA.html · Markdown: https://da
 
 54 accepted literature values from 2 paper(s) (experimental 29, model 25); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GA.json) · [CSV](https://data.orchid-project.org/systems/CA-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GA/CaGa-07Wan.json) · [Markdown](https://data.orchid-project.org/systems/CA-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GA.json) · [CSV](https://data.orchid-project.org/systems/CA-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GA/CaGa-07Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CA-GA.html) · [Markdown](https://data.orchid-project.org/systems/CA-GA.md)
 
 Table: Accepted values by evidence class
 

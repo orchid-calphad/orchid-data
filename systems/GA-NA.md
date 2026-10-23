@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-NA.html · Markdown: https://da
 
 14 accepted literature values from 1 paper(s) (experimental 8, model 6); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-NA.json) · [CSV](https://data.orchid-project.org/systems/GA-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NA/GaNa-07Wan.json) · [Markdown](https://data.orchid-project.org/systems/GA-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-NA.json) · [CSV](https://data.orchid-project.org/systems/GA-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NA/GaNa-07Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/GA-NA.html) · [Markdown](https://data.orchid-project.org/systems/GA-NA.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-SI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-SI/DySi-20Xu.json) · [Markdown](https://data.orchid-project.org/systems/DY-SI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-SI/DySi-20Xu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/DY-SI.html) · [Markdown](https://data.orchid-project.org/systems/DY-SI.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-TA.html · Markdown: https://dat
 
 51 accepted literature values from 2 paper(s) (experimental 29, model 10, DFT 12); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-TA.json) · [CSV](https://data.orchid-project.org/systems/O-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TA) · [Markdown](https://data.orchid-project.org/systems/O-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/O-TA.json) · [CSV](https://data.orchid-project.org/systems/O-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TA) · [phases (8)](https://data.orchid-project.org/phases/pages/O-TA.html) · [Markdown](https://data.orchid-project.org/systems/O-TA.md)
 
 Table: Accepted values by evidence class
 

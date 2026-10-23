@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-CR.html · Markdown: https://da
 
 15 accepted literature values from 4 paper(s) (experimental 9, model 6); 10 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR.json) · [CSV](https://data.orchid-project.org/systems/CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CR/CoCr-01Oik.json) · [Markdown](https://data.orchid-project.org/systems/CO-CR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR.json) · [CSV](https://data.orchid-project.org/systems/CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CR/CoCr-01Oik.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-CR.html) · [Markdown](https://data.orchid-project.org/systems/CO-CR.md)
 
 Table: Accepted values by evidence class
 

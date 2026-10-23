@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-S.html · Markdown: https://dat
 
 24 accepted literature values from 1 paper(s) (experimental 11, model 13); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S.json) · [CSV](https://data.orchid-project.org/systems/AL-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-S/AlS-19Shi.json) · [Markdown](https://data.orchid-project.org/systems/AL-S.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S.json) · [CSV](https://data.orchid-project.org/systems/AL-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-S/AlS-19Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-S.html) · [Markdown](https://data.orchid-project.org/systems/AL-S.md)
 
 Table: Accepted values by evidence class
 

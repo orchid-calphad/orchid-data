@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-NI.html · Markdown: https://da
 
 113 accepted literature values from 2 paper(s) (experimental 62, model 44, DFT 7); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NI.json) · [CSV](https://data.orchid-project.org/systems/GE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NI/GeNi-10Liu.json) · [Markdown](https://data.orchid-project.org/systems/GE-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NI.json) · [CSV](https://data.orchid-project.org/systems/GE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NI/GeNi-10Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-NI.html) · [Markdown](https://data.orchid-project.org/systems/GE-NI.md)
 
 Table: Accepted values by evidence class
 

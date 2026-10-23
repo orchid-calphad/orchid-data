@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-O.html · Markdown: https://dat
 
 43 accepted literature values from 1 paper(s) (experimental 28, model 12, unspecified 3); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-O.json) · [CSV](https://data.orchid-project.org/systems/GE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-O/GeO-15Din.json) · [Markdown](https://data.orchid-project.org/systems/GE-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-O.json) · [CSV](https://data.orchid-project.org/systems/GE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-O/GeO-15Din.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-O.html) · [Markdown](https://data.orchid-project.org/systems/GE-O.md)
 
 Table: Accepted values by evidence class
 

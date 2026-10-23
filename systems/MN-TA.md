@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-TA.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 4); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TA.json) · [CSV](https://data.orchid-project.org/systems/MN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TA/MnTa-14Wan.json) · [Markdown](https://data.orchid-project.org/systems/MN-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TA.json) · [CSV](https://data.orchid-project.org/systems/MN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TA/MnTa-14Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-TA.html) · [Markdown](https://data.orchid-project.org/systems/MN-TA.md)
 
 Table: Accepted values by evidence class
 

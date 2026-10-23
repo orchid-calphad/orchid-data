@@ -3,5 +3,11 @@
  "rows": 10496,
  "csv_sha256": "9d0c4d47bfeb48154ba16c660243801c42087a4ea89ac72ef5ec5313421b8604",
  "content_sha256": "b5a484f041d169769d86070ce90e63ebd1d3fb070cf91662762608a3b33f3a33",
- "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
+ "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
+ "structure_types": {
+  "table": "structure_types.parquet",
+  "rows": 1563,
+  "csv_sha256": "6188ea383f9444fc24dccc418d7f86fe9b9524f0619fe19653d72060deb5759b",
+  "content_sha256": "f1ab03c68e9bb2b33b11eef025d410e1394356c031c307e1d77d978ead7e5992"
+ }
 }

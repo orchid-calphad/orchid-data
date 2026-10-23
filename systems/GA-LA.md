@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-LA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-LA/GaLa-11Idb.json) · [Markdown](https://data.orchid-project.org/systems/GA-LA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-LA/GaLa-11Idb.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GA-LA.html) · [Markdown](https://data.orchid-project.org/systems/GA-LA.md)
 
 ## Calculated phase diagrams
 

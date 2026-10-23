@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-TI.html · Markdown: https://da
 
 56 accepted literature values from 2 paper(s) (experimental 33, model 11, unspecified 12); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TI.json) · [CSV](https://data.orchid-project.org/systems/GE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TI/GeTi-11Liu.json) · [Markdown](https://data.orchid-project.org/systems/GE-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TI.json) · [CSV](https://data.orchid-project.org/systems/GE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TI/GeTi-11Liu.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-TI.html) · [Markdown](https://data.orchid-project.org/systems/GE-TI.md)
 
 Table: Accepted values by evidence class
 

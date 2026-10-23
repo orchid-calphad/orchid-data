@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-TA.html · Markdown: https://da
 
 116 accepted literature values from 3 paper(s) (experimental 56, model 54, DFT 1, unspecified 5); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TA.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
 
 Table: Accepted values by evidence class
 

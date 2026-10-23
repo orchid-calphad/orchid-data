@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-LU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-LU/CrLu-92Oka.json) · [Markdown](https://data.orchid-project.org/systems/CR-LU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-LU/CrLu-92Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-LU.html) · [Markdown](https://data.orchid-project.org/systems/CR-LU.md)
 
 ## Calculated phase diagrams
 

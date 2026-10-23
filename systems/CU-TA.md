@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-TA.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 1, model 1, unspecified 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TA.json) · [CSV](https://data.orchid-project.org/systems/CU-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TA/CuTa-15Liu.json) · [Markdown](https://data.orchid-project.org/systems/CU-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TA.json) · [CSV](https://data.orchid-project.org/systems/CU-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TA/CuTa-15Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-TA.html) · [Markdown](https://data.orchid-project.org/systems/CU-TA.md)
 
 Table: Accepted values by evidence class
 

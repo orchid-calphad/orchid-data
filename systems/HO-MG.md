@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-MG.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-MG/HoMg-03Cac-LB.json) · [Markdown](https://data.orchid-project.org/systems/HO-MG.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-MG/HoMg-03Cac-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HO-MG.html) · [Markdown](https://data.orchid-project.org/systems/HO-MG.md)
 
 ## Calculated phase diagrams
 

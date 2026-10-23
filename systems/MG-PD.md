@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-PD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PD/MgPd-24Gie.json) · [Markdown](https://data.orchid-project.org/systems/MG-PD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PD/MgPd-24Gie.json) · [phases (14)](https://data.orchid-project.org/phases/pages/MG-PD.html) · [Markdown](https://data.orchid-project.org/systems/MG-PD.md)
 
 ## Calculated phase diagrams
 

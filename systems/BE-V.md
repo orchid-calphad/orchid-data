@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-V.html · Markdown: https://dat
 
 4 accepted literature values from 1 paper(s) (model 2, DFT 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BE-V.json) · [CSV](https://data.orchid-project.org/systems/BE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-V/BeV-06Nis.json) · [Markdown](https://data.orchid-project.org/systems/BE-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BE-V.json) · [CSV](https://data.orchid-project.org/systems/BE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-V/BeV-06Nis.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BE-V.html) · [Markdown](https://data.orchid-project.org/systems/BE-V.md)
 
 Table: Accepted values by evidence class
 

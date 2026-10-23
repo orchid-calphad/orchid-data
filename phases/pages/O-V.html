@@ -1,0 +1,607 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>O–V phases — ORCHID phase registry</title>
+<meta name="description" content="O–V system: 23 phases (tier A 4, tier C 8, liquid 2, gas 1, needs_review 8); 0 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/O-V.html">
+<link rel="alternate" type="text/markdown" href="O-V.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"O–V system: 23 phases (tier A 4, tier C 8, liquid 2, gas 1, needs_review 8); 0 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/O-V.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/O-V.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:o-v:b1-halite","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:b1-halite","tdb:VO-15Yan-ver1.tdb:HALITE_B1","tdb:VO-15Yan-ver2.tdb:HALITE_B1"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HALITE_B1","pearsonSymbol":"cF8","prototype":"NaCl","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b1-nacl-cf8","strukturbericht":"B1","termCode":"phase:o-v:b1-halite","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-b1-halite"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:bcc-a2","tdb:VO-15Yan-ver1.tdb:BCC_A2","tdb:VO-15Yan-ver2.tdb:BCC_A2"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:o-v:bcc-a2","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:c4-rutile","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:c4-rutile","tdb:VO-15Yan-ver1.tdb:RUTILE_C4","tdb:VO-15Yan-ver2.tdb:RUTILE_C4"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"RUTILE_C4","reviewStatus":"needs_review","termCode":"phase:o-v:c4-rutile","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-c4-rutile"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:d51-corundum","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:d51-corundum","tdb:VO-15Yan-ver1.tdb:CORUNDUM_D51","tdb:VO-15Yan-ver2.tdb:CORUNDUM_D51"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CORUNDUM_D51","pearsonSymbol":"hR10","prototype":"alpha-Al2O3","reviewStatus":"assigned","spaceGroupNumber":167,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d5-1-alpha-al2o3-hr10","strukturbericht":"D5_1","termCode":"phase:o-v:d51-corundum","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-d51-corundum"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:fcc-a1","tdb:VO-15Yan-ver1.tdb:FCC_A1","tdb:VO-15Yan-ver2.tdb:FCC_A1"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:o-v:fcc-a1","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:hcp-a3","tdb:VO-15Yan-ver1.tdb:HCP_A3","tdb:VO-15Yan-ver2.tdb:HCP_A3"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:o-v:hcp-a3","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:ion","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:ion","tdb:VO-15Yan-ver1.tdb:ION","tdb:VO-15Yan-ver2.tdb:ION"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"ION","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-v:ion","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-ion"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:liquid","tdb:VO-15Yan-ver1.tdb:LIQUID","tdb:VO-15Yan-ver2.tdb:LIQUID"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:o-v:liquid","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-liquid"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:o2gas","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:o2gas","tdb:VO-15Yan-ver1.tdb:O2GAS","tdb:VO-15Yan-ver2.tdb:O2GAS"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"O2GAS","reviewStatus":"assigned","structureBasis":"gas","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:gas","termCode":"phase:o-v:o2gas","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-o2gas"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v2o","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v2o","tdb:VO-15Yan-ver1.tdb:V2O","tdb:VO-15Yan-ver2.tdb:V2O"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V2O","pearsonSymbol":"mC20","prototype":"V7O3","reviewStatus":"assigned","spaceGroupNumber":12,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:v7o3-mc20","termCode":"phase:o-v:v2o","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v2o"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v2o5","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v2o5","tdb:VO-15Yan-ver1.tdb:V2O5","tdb:VO-15Yan-ver2.tdb:V2O5"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V2O5","pearsonSymbol":"oP14","prototype":"V2O5","reviewStatus":"assigned","spaceGroupNumber":59,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:v2o5-op14","termCode":"phase:o-v:v2o5","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v2o5"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v3o5-ht","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v3o5-ht","tdb:VO-15Yan-ver1.tdb:V3O5_HT","tdb:VO-15Yan-ver2.tdb:V3O5_HT"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V3O5_HT","reviewStatus":"needs_review","termCode":"phase:o-v:v3o5-ht","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v3o5-ht"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v3o5-lt","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v3o5-lt","tdb:VO-15Yan-ver1.tdb:V3O5_LT","tdb:VO-15Yan-ver2.tdb:V3O5_LT"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V3O5_LT","reviewStatus":"needs_review","termCode":"phase:o-v:v3o5-lt","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v3o5-lt"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v3o7","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v3o7","tdb:VO-15Yan-ver1.tdb:V3O7","tdb:VO-15Yan-ver2.tdb:V3O7"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V3O7","pearsonSymbol":"mC120","prototype":"V3O7","reviewStatus":"assigned","spaceGroupNumber":15,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:v3o7-mc120","termCode":"phase:o-v:v3o7","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v3o7"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v4o7","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v4o7","tdb:VO-15Yan-ver1.tdb:V4O7","tdb:VO-15Yan-ver2.tdb:V4O7"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V4O7","reviewStatus":"needs_review","termCode":"phase:o-v:v4o7","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v4o7"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v52o64","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v52o64","tdb:VO-15Yan-ver1.tdb:V52O64","tdb:VO-15Yan-ver2.tdb:V52O64"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V52O64","pearsonSymbol":"tI116","prototype":"V13O16","reviewStatus":"assigned","spaceGroupNumber":141,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:v13o16-ti116","termCode":"phase:o-v:v52o64","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v52o64"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v5o9","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v5o9","tdb:VO-15Yan-ver1.tdb:V5O9","tdb:VO-15Yan-ver2.tdb:V5O9"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V5O9","pearsonSymbol":"aP28","prototype":"Ti5O9","reviewStatus":"assigned","spaceGroupNumber":2,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ti5o9-ap28","termCode":"phase:o-v:v5o9","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v5o9"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v6o11","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v6o11","tdb:VO-15Yan-ver1.tdb:V6O11","tdb:VO-15Yan-ver2.tdb:V6O11"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V6O11","reviewStatus":"needs_review","termCode":"phase:o-v:v6o11","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v6o11"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v6o13","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v6o13","tdb:VO-15Yan-ver1.tdb:V6O13","tdb:VO-15Yan-ver2.tdb:V6O13"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V6O13","pearsonSymbol":"mC38","prototype":"V6O13","reviewStatus":"assigned","spaceGroupNumber":12,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:v6o13-mc38","termCode":"phase:o-v:v6o13","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v6o13"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v7o13","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v7o13","tdb:VO-15Yan-ver1.tdb:V7O13","tdb:VO-15Yan-ver2.tdb:V7O13"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V7O13","pearsonSymbol":"aP40","prototype":"Ti7O13","reviewStatus":"assigned","spaceGroupNumber":2,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ti7o13-ap40","termCode":"phase:o-v:v7o13","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v7o13"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:v8o15","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:v8o15","tdb:VO-15Yan-ver1.tdb:V8O15","tdb:VO-15Yan-ver2.tdb:V8O15"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"V8O15","reviewStatus":"needs_review","termCode":"phase:o-v:v8o15","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-v8o15"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:vo-beta","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:vo-beta","tdb:VO-15Yan-ver1.tdb:VO_BETA","tdb:VO-15Yan-ver2.tdb:VO_BETA"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"VO_BETA","reviewStatus":"needs_review","termCode":"phase:o-v:vo-beta","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-vo-beta"},{"@id":"https://data.orchid-project.org/phases/#phase:o-v:vo2","@type":"DefinedTerm","alternateName":["corpus:phase:o-v:vo2","tdb:VO-15Yan-ver1.tdb:VO2_LT","tdb:VO-15Yan-ver2.tdb:VO2_LT"],"chemicalSystem":"O-V","citation":[{"@id":"https://doi.org/10.1016/j.calphad.2015.08.003","@type":"ScholarlyArticle","name":"Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"VO2_LT","reviewStatus":"needs_review","termCode":"phase:o-v:vo2","url":"https://data.orchid-project.org/phases/pages/O-V.html#phase-o-v-vo2"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","O–V"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"O–V phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/O-V.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>O–V phases</h1>
+<p>23 phases (tier A 4, tier C 8, liquid 2, gas 1, needs_review 8); 0 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=O-V">interactive registry</a> · <a href="../systems/O-V.json">full JSON</a> · <a href="O-V.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the O–V system (23)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-o-v-b1-halite">HALITE_B1</a><br><small>phase:o-v:b1-halite</small></th><td>NaCl · B1 · cF8 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-bcc-a2">BCC_A2</a><br><small>phase:o-v:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-c4-rutile">RUTILE_C4</a><br><small>phase:o-v:c4-rutile</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-d51-corundum">CORUNDUM_D51</a><br><small>phase:o-v:d51-corundum</small></th><td>alpha-Al2O3 · D5_1 · hR10 · R-3c (167)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-fcc-a1">FCC_A1</a><br><small>phase:o-v:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-hcp-a3">HCP_A3</a><br><small>phase:o-v:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-ion">ION</a><br><small>phase:o-v:ion</small></th><td>liquid</td><td>liquid</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-liquid">LIQUID</a><br><small>phase:o-v:liquid</small></th><td>liquid</td><td>liquid</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-o2gas">O2GAS</a><br><small>phase:o-v:o2gas</small></th><td>gas</td><td>gas</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v2o">V2O</a><br><small>phase:o-v:v2o</small></th><td>V7O3 · mC20 · C2/m (12)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v2o5">V2O5</a><br><small>phase:o-v:v2o5</small></th><td>V2O5 · oP14 · Pmmn (59)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v3o5-ht">V3O5_HT</a><br><small>phase:o-v:v3o5-ht</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v3o5-lt">V3O5_LT</a><br><small>phase:o-v:v3o5-lt</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v3o7">V3O7</a><br><small>phase:o-v:v3o7</small></th><td>V3O7 · mC120 · C2/c (15)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v4o7">V4O7</a><br><small>phase:o-v:v4o7</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v52o64">V52O64</a><br><small>phase:o-v:v52o64</small></th><td>V13O16 · tI116 · I4_1/amd (141)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v5o9">V5O9</a><br><small>phase:o-v:v5o9</small></th><td>Ti5O9 · aP28 · P-1 (2)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v6o11">V6O11</a><br><small>phase:o-v:v6o11</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v6o13">V6O13</a><br><small>phase:o-v:v6o13</small></th><td>V6O13 · mC38 · C2/m (12)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v7o13">V7O13</a><br><small>phase:o-v:v7o13</small></th><td>Ti7O13 · aP40 · P-1 (2)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-v8o15">V8O15</a><br><small>phase:o-v:v8o15</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-vo-beta">VO_BETA</a><br><small>phase:o-v:vo-beta</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-o-v-vo2">VO2_LT</a><br><small>phase:o-v:vo2</small></th><td></td><td>needs_review</td><td>no calculated diagram</td><td class="n">0</td><td class="n">2</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-o-v-b1-halite">HALITE_B1 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:b1-halite</code>; status <code>assigned</code></li>
+<li>Structure: NaCl · B1 · cF8 · Fm-3m (225); type <code>st:b1-nacl-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:b1-halite">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:b1-halite<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:HALITE_B1, tdb:VO-15Yan-ver2.tdb:HALITE_B1<br></p>
+<h3>TDB models of HALITE_B1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: HALITE_B1, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>74: PHASE HALITE_B1:I % 2 1 1 !
+75: CONST HALITE_B1:I : V V+2% V+3 VA : O-2% VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: HALITE_B1, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>74: PHASE HALITE_B1:I % 2 1 1 !
+75: CONST HALITE_B1:I : V V+2% V+3 VA : O-2% VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-bcc-a2">BCC_A2 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:bcc-a2<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:BCC_A2, tdb:VO-15Yan-ver2.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: BCC_A2, type code %B, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>54: PHASE BCC_A2 %B 2 1 3 !
+55: CONST BCC_A2 : V : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: BCC_A2, type code %B, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>54: PHASE BCC_A2 %B 2 1 3 !
+55: CONST BCC_A2 : V : O VA% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-c4-rutile">RUTILE_C4 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:c4-rutile</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: unrecognised_name_tokens:RUTILE</li>
+<li>Candidate (name_token): TiO2 · C4 · tP6 · P4_2/mnm (136) — Strukturbericht/word &#x27;C4&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): TiO2 · C4 · tP6 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for RUTILE_C4: TiO2 (rutile)</li>
+<li>Candidate (sgte_mmc2): TiO2 · C4 · tP6 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for RUTILE_C4: TiO2 (rutile), VO2-ht</li>
+<li>Candidate (tdb_comment): TiO2 · tP6 · P4_2/mnm — VO-15Yan-ver1.tdb: &#x27;Prototype TiO2 (tP6, P4_2/mnm)&#x27;</li>
+<li>Candidate (tdb_comment): TiO2 · tP6 · P4_2/mnm — VO-15Yan-ver2.tdb: &#x27;Prototype TiO2 (tP6, P4_2/mnm)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:c4-rutile">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:c4-rutile<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:RUTILE_C4, tdb:VO-15Yan-ver2.tdb:RUTILE_C4<br></p>
+<h3>TDB models of RUTILE_C4 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: RUTILE_C4, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>129: PHASE RUTILE_C4:I % 2 1 2 !
+130: CONST RUTILE_C4:I : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: RUTILE_C4, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>129: PHASE RUTILE_C4:I % 2 1 2 !
+130: CONST RUTILE_C4:I : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-d51-corundum">CORUNDUM_D51 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:d51-corundum</code>; status <code>assigned</code></li>
+<li>Structure: alpha-Al2O3 · D5_1 · hR10 · R-3c (167); type <code>st:d5-1-alpha-al2o3-hr10</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:CORUNDUM); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:d51-corundum">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:d51-corundum<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:CORUNDUM_D51, tdb:VO-15Yan-ver2.tdb:CORUNDUM_D51<br></p>
+<h3>TDB models of CORUNDUM_D51 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: CORUNDUM_D51, type code %A, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>84: PHASE CORUNDUM_D51:I %A 2 2 3 !
+85: CONST CORUNDUM_D51:I : V+3% V+4 VA : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: CORUNDUM_D51, type code %A, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>84: PHASE CORUNDUM_D51:I %A 3 2 3 1 !
+85: CONST CORUNDUM_D51:I : V+2 V+3% V+4 VA : O-2 : VA% O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-fcc-a1">FCC_A1 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:fcc-a1<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:FCC_A1, tdb:VO-15Yan-ver2.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: FCC_A1, type code %A, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>49: PHASE FCC_A1 %A 2 1 1 !
+50: CONST FCC_A1 : V : O VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: FCC_A1, type code %A, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>49: PHASE FCC_A1 %A 2 1 1 !
+50: CONST FCC_A1 : V : O VA% : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-hcp-a3">HCP_A3 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:hcp-a3<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:HCP_A3, tdb:VO-15Yan-ver2.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: HCP_A3, type code %A, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>59: PHASE HCP_A3 %A 2 1 0.5 !
+60: CONST HCP_A3 : V : O VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: HCP_A3, type code %A, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>59: PHASE HCP_A3 %A 2 1 0.5 !
+60: CONST HCP_A3 : V : O VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-ion">ION (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:ion</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:ion">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:ion<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:ION, tdb:VO-15Yan-ver2.tdb:ION<br></p>
+<h3>TDB models of ION (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: ION, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>41: PHASE ION:Y % 2 1 1 !
+42: CONST ION:Y : V+2 : O-2 VA VO1.5 VO2 VO2.5 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: ION, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>41: PHASE ION:Y % 2 1 1 !
+42: CONST ION:Y : V+2 : O-2 VA VO1.5 VO2 VO2.5 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-liquid">LIQUID (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stoichiometry: V 1.0000</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:liquid<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:LIQUID, tdb:VO-15Yan-ver2.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: LIQUID, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>44: PHASE LIQUID:L % 1 1 !
+45: CONST LIQUID:L : V : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: LIQUID, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>44: PHASE LIQUID:L % 1 1 !
+45: CONST LIQUID:L : V : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-o2gas">O2GAS (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:o2gas</code>; status <code>assigned</code></li>
+<li>Structure: gas; type <code>st:gas</code>; gas; confidence high</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:o2gas">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:o2gas<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:O2GAS, tdb:VO-15Yan-ver2.tdb:O2GAS<br></p>
+<h3>TDB models of O2GAS (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: O2GAS, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>147: PHASE O2GAS % 1 1 !
+148: CONST O2GAS : O2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: O2GAS, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>147: PHASE O2GAS % 1 1 !
+148: CONST O2GAS : O2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v2o">V2O (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v2o</code>; status <code>assigned</code></li>
+<li>Structure: V7O3 · mC20 · C2/m (12); type <code>st:v7o3-mc20</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v2o">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v2o<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V2O, tdb:VO-15Yan-ver2.tdb:V2O<br></p>
+<h3>TDB models of V2O (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V2O, type code %A, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>69: PHASE V2O %A 2 1 0.5 !
+70: CONST V2O : V : O VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V2O, type code %A, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>69: PHASE V2O %A 2 1 0.5 !
+70: CONST V2O : V : O VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v2o5">V2O5 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v2o5</code>; status <code>assigned</code></li>
+<li>Structure: V2O5 · oP14 · Pmmn (59); type <code>st:v2o5-op14</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v2o5">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v2o5<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V2O5, tdb:VO-15Yan-ver2.tdb:V2O5<br></p>
+<h3>TDB models of V2O5 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V2O5, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>144: PHASE V2O5:I % 2 2 5 !
+145: CONST V2O5:I : V+5 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V2O5, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>144: PHASE V2O5:I % 2 2 5 !
+145: CONST V2O5:I : V+5 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v3o5-ht">V3O5_HT (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v3o5-ht</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (sgte_mmc2): V3O5-ht · mC32 · C2/c (15) — Hallstedt 2025 mmc2 row for V3O5_HT: V3O5-ht</li>
+<li>Candidate (tdb_comment): V3O5-ht · mC32 · C2/c — VO-15Yan-ver1.tdb: &#x27;Prototype V3O5-ht (mC32, C2/c)&#x27;</li>
+<li>Candidate (tdb_comment): V3O5-ht · mC32 · C2/c — VO-15Yan-ver2.tdb: &#x27;Prototype V3O5-ht (mC32, C2/c)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v3o5-ht">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v3o5-ht<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V3O5_HT, tdb:VO-15Yan-ver2.tdb:V3O5_HT<br></p>
+<h3>TDB models of V3O5_HT (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V3O5_HT, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>94: PHASE V3O5_HT:I % 3 2 1 5 !
+95: CONST V3O5_HT:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V3O5_HT, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>94: PHASE V3O5_HT:I % 3 2 1 5 !
+95: CONST V3O5_HT:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v3o5-lt">V3O5_LT (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v3o5-lt</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (sgte_mmc2): V3O5-lt · mP32 · P2/c (13) — Hallstedt 2025 mmc2 row for V3O5_LT: V3O5-lt</li>
+<li>Candidate (tdb_comment): V3O5-lt · mP32 · P2/c — VO-15Yan-ver1.tdb: &#x27;Prototype V3O5-lt (mP32, P2/c)&#x27;</li>
+<li>Candidate (tdb_comment): V3O5-lt · mP32 · P2/c — VO-15Yan-ver2.tdb: &#x27;Prototype V3O5-lt (mP32, P2/c)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v3o5-lt">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v3o5-lt<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V3O5_LT, tdb:VO-15Yan-ver2.tdb:V3O5_LT<br></p>
+<h3>TDB models of V3O5_LT (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V3O5_LT, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>89: PHASE V3O5_LT:I % 3 2 1 5 !
+90: CONST V3O5_LT:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V3O5_LT, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>89: PHASE V3O5_LT:I % 3 2 1 5 !
+90: CONST V3O5_LT:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v3o7">V3O7 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v3o7</code>; status <code>assigned</code></li>
+<li>Structure: V3O7 · mC120 · C2/c (15); type <code>st:v3o7-mc120</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v3o7">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v3o7<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V3O7, tdb:VO-15Yan-ver2.tdb:V3O7<br></p>
+<h3>TDB models of V3O7 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V3O7, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>134: PHASE V3O7:I % 3 2 1 7 !
+135: CONST V3O7:I : V+5 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V3O7, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>134: PHASE V3O7:I % 3 2 1 7 !
+135: CONST V3O7:I : V+5 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v4o7">V4O7 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v4o7</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (tdb_comment): Ti4O7 · aP22 · P-1 — VO-15Yan-ver1.tdb: &#x27;Prototype Ti4O7 (aP22, P-1)&#x27;</li>
+<li>Candidate (tdb_comment): Ti4O7 · aP22 · P-1 — VO-15Yan-ver2.tdb: &#x27;Prototype Ti4O7 (aP22, P-1)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v4o7">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v4o7<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V4O7, tdb:VO-15Yan-ver2.tdb:V4O7<br></p>
+<h3>TDB models of V4O7 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V4O7, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>99: PHASE V4O7:I % 3 2 2 7 !
+100: CONST V4O7:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V4O7, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>99: PHASE V4O7:I % 3 2 2 7 !
+100: CONST V4O7:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v52o64">V52O64 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v52o64</code>; status <code>assigned</code></li>
+<li>Structure: V13O16 · tI116 · I4_1/amd (141); type <code>st:v13o16-ti116</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v52o64">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v52o64<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V52O64, tdb:VO-15Yan-ver2.tdb:V52O64<br></p>
+<h3>TDB models of V52O64 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V52O64, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>79: PHASE V52O64 % 2 52 64 !
+80: CONST V52O64 : V : O : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V52O64, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>79: PHASE V52O64 % 2 52 64 !
+80: CONST V52O64 : V : O : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v5o9">V5O9 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v5o9</code>; status <code>assigned</code></li>
+<li>Structure: Ti5O9 · aP28 · P-1 (2); type <code>st:ti5o9-ap28</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v5o9">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v5o9<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V5O9, tdb:VO-15Yan-ver2.tdb:V5O9<br></p>
+<h3>TDB models of V5O9 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V5O9, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>104: PHASE V5O9:I % 3 2 3 9 !
+105: CONST V5O9:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V5O9, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>104: PHASE V5O9:I % 3 2 3 9 !
+105: CONST V5O9:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v6o11">V6O11 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v6o11</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (tdb_comment): Ti6O11 · aP34 · P-1 — VO-15Yan-ver1.tdb: &#x27;Prototype Ti6O11 (aP34, P-1)&#x27;</li>
+<li>Candidate (tdb_comment): Ti6O11 · aP34 · P-1 — VO-15Yan-ver2.tdb: &#x27;Prototype Ti6O11 (aP34, P-1)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v6o11">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v6o11<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V6O11, tdb:VO-15Yan-ver2.tdb:V6O11<br></p>
+<h3>TDB models of V6O11 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V6O11, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>109: PHASE V6O11:I % 3 2 4 11 !
+110: CONST V6O11:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V6O11, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>109: PHASE V6O11:I % 3 2 4 11 !
+110: CONST V6O11:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v6o13">V6O13 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v6o13</code>; status <code>assigned</code></li>
+<li>Structure: V6O13 · mC38 · C2/m (12); type <code>st:v6o13-mc38</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v6o13">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v6o13<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V6O13, tdb:VO-15Yan-ver2.tdb:V6O13<br></p>
+<h3>TDB models of V6O13 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V6O13, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>139: PHASE V6O13:I % 3 2 4 13 !
+140: CONST V6O13:I : V+5 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V6O13, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>139: PHASE V6O13:I % 3 2 4 13 !
+140: CONST V6O13:I : V+5 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v7o13">V7O13 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v7o13</code>; status <code>assigned</code></li>
+<li>Structure: Ti7O13 · aP40 · P-1 (2); type <code>st:ti7o13-ap40</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v7o13">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v7o13<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V7O13, tdb:VO-15Yan-ver2.tdb:V7O13<br></p>
+<h3>TDB models of V7O13 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V7O13, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>114: PHASE V7O13:I % 3 2 5 13 !
+115: CONST V7O13:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V7O13, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>114: PHASE V7O13:I % 3 2 5 13 !
+115: CONST V7O13:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-v8o15">V8O15 (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:v8o15</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (tdb_comment): Ti8O15 · aP46 · P-1 — VO-15Yan-ver1.tdb: &#x27;Prototype Ti8O15 (aP46, P-1)&#x27;</li>
+<li>Candidate (tdb_comment): Ti8O15 · aP46 · P-1 — VO-15Yan-ver2.tdb: &#x27;Prototype Ti8O15 (aP46, P-1)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:v8o15">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:v8o15<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:V8O15, tdb:VO-15Yan-ver2.tdb:V8O15<br></p>
+<h3>TDB models of V8O15 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: V8O15, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>119: PHASE V8O15:I % 3 2 6 15 !
+120: CONST V8O15:I : V+3 : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: V8O15, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>119: PHASE V8O15:I % 3 2 6 15 !
+120: CONST V8O15:I : V+3 : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-vo-beta">VO_BETA (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:vo-beta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (sgte_mmc2): CoO · tI4 · I4/mmm (139) — Hallstedt 2025 mmc2 row for VO_BETA: VO-beta</li>
+<li>Candidate (tdb_comment): CoO · tI4 · I4/mmm — VO-15Yan-ver1.tdb: &#x27;Prototype CoO (tI4, I4/mmm)&#x27;</li>
+<li>Candidate (tdb_comment): CoO · tI4 · I4/mmm — VO-15Yan-ver2.tdb: &#x27;Prototype CoO (tI4, I4/mmm)&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:vo-beta">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:vo-beta<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:VO_BETA, tdb:VO-15Yan-ver2.tdb:VO_BETA<br></p>
+<h3>TDB models of VO_BETA (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: VO_BETA, type code %A, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>64: PHASE VO_BETA %A 2 1 1 !
+65: CONST VO_BETA : V : O VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: VO_BETA, type code %A, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>64: PHASE VO_BETA %A 2 1 1 !
+65: CONST VO_BETA : V : O VA : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-o-v-vo2">VO2_LT (O–V)</h2>
+<ul>
+<li>Id: <code>phase:o-v:vo2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model</li>
+<li>Candidate (sgte_mmc2): VO2 · mP12 · P2_1/c (14) — Hallstedt 2025 mmc2 row for VO2_LT: VO2-lt</li>
+<li>Candidate (tdb_comment):  — VO-15Yan-ver1.tdb: &#x27;Prototype VO2 (mP12, P2_1/c&#x27;</li>
+<li>Candidate (tdb_comment):  — VO-15Yan-ver2.tdb: &#x27;Prototype VO2 (mP12, P2_1/c&#x27;</li>
+<li>Stability: no calculated diagram</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:o-v:vo2">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:o-v:vo2<br><small>tdb: </small>tdb:VO-15Yan-ver1.tdb:VO2_LT, tdb:VO-15Yan-ver2.tdb:VO2_LT<br></p>
+<h3>TDB models of VO2_LT (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver1.tdb">VO-15Yan-ver1.tdb</a>: VO2_LT, type code %, sha256 <code>e26d540d6bb84d67…</code></p>
+<pre>124: PHASE VO2_LT:I % 2 1 2 !
+125: CONST VO2_LT:I : V+4 : O-2 : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/VO-15Yan-ver2.tdb">VO-15Yan-ver2.tdb</a>: VO2_LT, type code %, sha256 <code>a7dd3bc52b4ee650…</code></p>
+<pre>124: PHASE VO2_LT:I % 2 1 2 !
+125: CONST VO2_LT:I : V+4 : O-2 : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.calphad.2015.08.003">doi:10.1016/j.calphad.2015.08.003</a> Y. Yang, H. Mao, M. Selleby, Calphad, 51, 144-60(2015).<br><small>assessment that models this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

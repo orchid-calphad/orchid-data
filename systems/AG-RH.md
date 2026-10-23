@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-RH.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 2, unspecified 2); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RH.json) · [CSV](https://data.orchid-project.org/systems/AG-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RH/AgRh-86Kar.json) · [Markdown](https://data.orchid-project.org/systems/AG-RH.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RH.json) · [CSV](https://data.orchid-project.org/systems/AG-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RH/AgRh-86Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-RH.html) · [Markdown](https://data.orchid-project.org/systems/AG-RH.md)
 
 Table: Accepted values by evidence class
 

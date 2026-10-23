@@ -1,0 +1,526 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ge–Li phases — ORCHID phase registry</title>
+<meta name="description" content="Ge–Li system: 16 phases (tier A 5, tier C 9, liquid 1, needs_review 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/GE-LI.html">
+<link rel="alternate" type="text/markdown" href="GE-LI.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Ge–Li system: 16 phases (tier A 5, tier C 9, liquid 1, needs_review 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/GE-LI.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/GE-LI.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:a4-diamond","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:a4-diamond","corpus:phase:ge-li:diamond-a4","paper:10.1007/s11669-018-0632-5:(Ge)","paper:10.1016/j.jct.2022.106883:Diamond_A4","tdb:GeLi-18Wan.tdb:DIAMOND_A4","tdb:GeLi-22Gie.tdb:DIAMOND_A4"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"DIAMOND_A4","pearsonSymbol":"cF8","prototype":"C (diamond)","reviewStatus":"assigned","spaceGroupNumber":227,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a4-c-diamond-cf8","strukturbericht":"A4","termCode":"phase:ge-li:a4-diamond","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-a4-diamond"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:bcc-a2","paper:10.1007/s11669-018-0632-5:(Li)","paper:10.1016/j.jct.2022.106883:BCC_A2","tdb:GeLi-18Wan.tdb:BCC_A2","tdb:GeLi-22Gie.tdb:BCC_A2"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:ge-li:bcc-a2","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:fcc-a1","tdb:GeLi-18Wan.tdb:FCC_A1","tdb:GeLi-22Gie.tdb:FCC_A1"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:ge-li:fcc-a1","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge12li7","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge12li7","paper:10.1007/s11669-018-0632-5:Li7Ge12","paper:10.1016/j.jct.2022.106883:Ge12Li7","tdb:GeLi-18Wan.tdb:GE12LI7","tdb:GeLi-22Gie.tdb:GE12LI7"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE12LI7","pearsonSymbol":"mP78","prototype":"Na7Sn12","reviewStatus":"assigned","spaceGroupNumber":13,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:na7sn12-mp78","termCode":"phase:ge-li:ge12li7","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge12li7"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge2li7","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge2li7","paper:10.1016/j.jct.2022.106883:Ge2Li7","tdb:GeLi-22Gie.tdb:GE2LI7"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE2LI7","pearsonSymbol":"oC36","prototype":"Ge2Li7","reviewStatus":"assigned","spaceGroupNumber":65,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ge2li7-oc36","termCode":"phase:ge-li:ge2li7","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge2li7"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge3li7","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge3li7","paper:10.1016/j.jct.2022.106883:Ge3Li7","tdb:GeLi-22Gie.tdb:GE3LI7"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1016/0022-3697(57)90050-1","@type":"ScholarlyArticle","name":"E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE3LI7","pearsonSymbol":"hR7","prototype":"Li5Sn2","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:li5sn2-hr7","termCode":"phase:ge-li:ge3li7","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge3li7"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge4li13","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge4li13","paper:10.1007/s11669-018-0632-5:Li13Ge4","tdb:GeLi-18Wan.tdb:GE4LI13"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE4LI13","pearsonSymbol":"oC36","prototype":"Ge2Li7","reviewStatus":"assigned","spaceGroupNumber":65,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ge2li7-oc36","termCode":"phase:ge-li:ge4li13","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge4li13"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge4li15-d86","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge4li15-d86","mp:mp-aaaaacqj","oqmd:oqmd-8013","paper:10.1007/s11669-018-0632-5:Li15Ge4","paper:10.1016/j.jct.2022.106883:Ge4Li15","tdb:GeLi-18Wan.tdb:GE4LI15_D86","tdb:GeLi-22Gie.tdb:GE4LI15_D86"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."},{"@id":"https://doi.org/10.1039/c4dt00743c","@type":"ScholarlyArticle","name":"Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li\n                    \u003csub\u003e17\u003c/sub\u003e\n                    Si\n                    \u003csub\u003e4.0−x\u003c/sub\u003e\n                    Ge\n                    \u003csub\u003ex\u003c/sub\u003e\n                    for\n                    \u003ci\u003ex\u003c/i\u003e\n                    = 2.3, 3.1, 3.5, and 4 as well as Li\n                    \u003csub\u003e4.1\u003c/sub\u003e\n                    Ge, Dalton Trans. 43, 14959-14970 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE4LI15_D86","pearsonSymbol":"cI76","prototype":"Cu15Si4","reviewStatus":"assigned","spaceGroupNumber":220,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d8-6-cu15si4-ci76","strukturbericht":"D8_6","termCode":"phase:ge-li:ge4li15-d86","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge4li15-d86"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge4li17","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge4li17","paper:10.1007/s11669-018-0632-5:Li17Ge4","paper:10.1016/j.jct.2022.106883:Ge4Li17","tdb:GeLi-18Wan.tdb:GE4LI17","tdb:GeLi-22Gie.tdb:GE4LI17"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."},{"@id":"https://doi.org/10.1039/c4dt00743c","@type":"ScholarlyArticle","name":"Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li\n                    \u003csub\u003e17\u003c/sub\u003e\n                    Si\n                    \u003csub\u003e4.0−x\u003c/sub\u003e\n                    Ge\n                    \u003csub\u003ex\u003c/sub\u003e\n                    for\n                    \u003ci\u003ex\u003c/i\u003e\n                    = 2.3, 3.1, 3.5, and 4 as well as Li\n                    \u003csub\u003e4.1\u003c/sub\u003e\n                    Ge, Dalton Trans. 43, 14959-14970 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE4LI17","pearsonSymbol":"cF436","prototype":"Ge4Li17","reviewStatus":"assigned","spaceGroupNumber":216,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ge4li17-cf436","termCode":"phase:ge-li:ge4li17","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge4li17"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge4li9","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge4li9","paper:10.1007/s11669-018-0632-5:Li9Ge4","paper:10.1016/j.jct.2022.106883:Ge4Li9","tdb:GeLi-18Wan.tdb:GE4LI9","tdb:GeLi-22Gie.tdb:GE4LI9"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/0022-3697(57)90050-1","@type":"ScholarlyArticle","name":"E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE4LI9","pearsonSymbol":"oC52","prototype":"Ge4Li9","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ge4li9-oc52","termCode":"phase:ge-li:ge4li9","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge4li9"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge6li14","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge6li14","paper:10.1007/s11669-018-0632-5:Li14Ge6","tdb:GeLi-18Wan.tdb:GE6LI14"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE6LI14","pearsonSymbol":"hR7","prototype":"Li5Sn2","reviewStatus":"assigned","spaceGroupNumber":166,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:li5sn2-hr7","termCode":"phase:ge-li:ge6li14","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge6li14"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:ge7li12","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:ge7li12","paper:10.1007/s11669-018-0632-5:Li12Ge7","paper:10.1016/j.jct.2022.106883:Ge7Li12","tdb:GeLi-18Wan.tdb:GE7LI12","tdb:GeLi-22Gie.tdb:GE7LI12"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."},{"@id":"https://doi.org/10.1016/0022-3697(57)90050-1","@type":"ScholarlyArticle","name":"E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GE7LI12","pearsonSymbol":"oP152","prototype":"Li12Si7","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:li12si7-op152","termCode":"phase:ge-li:ge7li12","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-ge7li12"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:geli","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:geli","paper:10.1007/s11669-018-0632-5:LiGe","paper:10.1016/j.jct.2022.106883:GeLi","tdb:GeLi-18Wan.tdb:GELI","tdb:GeLi-22Gie.tdb:GELI"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GELI","pearsonSymbol":"tI32","prototype":"GeLi","reviewStatus":"assigned","spaceGroupNumber":88,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:geli-ti32","termCode":"phase:ge-li:geli","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-geli"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:geli4","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:geli4","paper:10.1007/s11669-018-0632-5:Li4.1Ge","paper:10.1007/s11669-018-0632-5:Li4Ge","paper:10.1007/s11669-018-0632-5:Li4Ge(rt)","paper:10.1016/j.jct.2022.106883:GeLi4.096","tdb:GeLi-18Wan.tdb:GELI4","tdb:GeLi-22Gie.tdb:GELI4"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1039/c4dt00743c","@type":"ScholarlyArticle","name":"Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li\n                    \u003csub\u003e17\u003c/sub\u003e\n                    Si\n                    \u003csub\u003e4.0−x\u003c/sub\u003e\n                    Ge\n                    \u003csub\u003ex\u003c/sub\u003e\n                    for\n                    \u003ci\u003ex\u003c/i\u003e\n                    = 2.3, 3.1, 3.5, and 4 as well as Li\n                    \u003csub\u003e4.1\u003c/sub\u003e\n                    Ge, Dalton Trans. 43, 14959-14970 (2014)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"GELI4","reviewStatus":"needs_review","termCode":"phase:ge-li:geli4","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-geli4"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:hcp-a3","tdb:GeLi-18Wan.tdb:HCP_A3","tdb:GeLi-22Gie.tdb:HCP_A3"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:ge-li:hcp-a3","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:ge-li:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:ge-li:liquid","paper:10.1007/s11669-018-0632-5:L","paper:10.1016/j.jct.2022.106883:L","tdb:GeLi-18Wan.tdb:LIQUID","tdb:GeLi-22Gie.tdb:LIQUID"],"chemicalSystem":"GE-LI","citation":[{"@id":"https://doi.org/10.1016/j.jct.2022.106883","@type":"ScholarlyArticle","name":"W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022)."},{"@id":"https://doi.org/10.1007/s11669-018-0632-5","@type":"ScholarlyArticle","name":"Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018)."},{"@id":"https://doi.org/10.1016/j.jpowsour.2010.07.020","@type":"ScholarlyArticle","name":"Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011)."},{"@id":"https://doi.org/10.1149/1.1652421","@type":"ScholarlyArticle","name":"M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004)."},{"@id":"https://doi.org/10.1039/c4dt00743c","@type":"ScholarlyArticle","name":"Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li\n                    \u003csub\u003e17\u003c/sub\u003e\n                    Si\n                    \u003csub\u003e4.0−x\u003c/sub\u003e\n                    Ge\n                    \u003csub\u003ex\u003c/sub\u003e\n                    for\n                    \u003ci\u003ex\u003c/i\u003e\n                    = 2.3, 3.1, 3.5, and 4 as well as Li\n                    \u003csub\u003e4.1\u003c/sub\u003e\n                    Ge, Dalton Trans. 43, 14959-14970 (2014)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:ge-li:liquid","url":"https://data.orchid-project.org/phases/pages/GE-LI.html#phase-ge-li-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Ge–Li"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Ge–Li phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/GE-LI.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Ge–Li phases</h1>
+<p>16 phases (tier A 5, tier C 9, liquid 1, needs_review 1); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=GE-LI">interactive registry</a> · <a href="../systems/GE-LI.json">full JSON</a> · <a href="../../systems/GE-LI.html">Ge–Li system page</a> · <a href="GE-LI.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Ge–Li system (16)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-ge-li-a4-diamond">DIAMOND_A4</a><br><small>phase:ge-li:a4-diamond</small></th><td>C (diamond) · A4 · cF8 · Fd-3m (227)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Li) 0–0</td><td class="n">13</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-bcc-a2">BCC_A2</a><br><small>phase:ge-li:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–2499.75 K, x(Li) 1–1</td><td class="n">11</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-fcc-a1">FCC_A1</a><br><small>phase:ge-li:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge12li7">GE12LI7</a><br><small>phase:ge-li:ge12li7</small></th><td>Na7Sn12 · mP78 · P2/c (13)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–784.69 K, x(Li) 0.36842–0.36842</td><td class="n">48</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge2li7">GE2LI7</a><br><small>phase:ge-li:ge2li7</small></th><td>Ge2Li7 · oC36 · Cmmm (65)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1046.75 K, x(Li) 0.77778–0.77778</td><td class="n">29</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge3li7">GE3LI7</a><br><small>phase:ge-li:ge3li7</small></th><td>Li5Sn2 · hR7 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1051.76 K, x(Li) 0.7–0.7</td><td class="n">34</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge4li13">GE4LI13</a><br><small>phase:ge-li:ge4li13</small></th><td>Ge2Li7 · oC36 · Cmmm (65)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1057.24 K, x(Li) 0.76471–0.76471</td><td class="n">10</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge4li15-d86">GE4LI15_D86</a><br><small>phase:ge-li:ge4li15-d86</small></th><td>Cu15Si4 · D8_6 · cI76 · I-43d (220)</td><td>tier A: standard phase name</td><td>stable in 2 of 2 calculated diagram(s): 300–990.13 K, x(Li) 0.78947–0.78947</td><td class="n">24</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge4li17">GE4LI17</a><br><small>phase:ge-li:ge4li17</small></th><td>Ge4Li17 · cF436 · F-43m (216)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–795.07 K, x(Li) 0.80952–0.80952</td><td class="n">36</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge4li9">GE4LI9</a><br><small>phase:ge-li:ge4li9</small></th><td>Ge4Li9 · oC52 · Cmcm (63)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–1018.15 K, x(Li) 0.69231–0.69231</td><td class="n">30</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge6li14">GE6LI14</a><br><small>phase:ge-li:ge6li14</small></th><td>Li5Sn2 · hR7 · R-3m (166)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1020.04 K, x(Li) 0.7–0.7</td><td class="n">10</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-ge7li12">GE7LI12</a><br><small>phase:ge-li:ge7li12</small></th><td>Li12Si7 · oP152 · Pnma (62)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–808.16 K, x(Li) 0.63158–0.63158</td><td class="n">51</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-geli">GELI</a><br><small>phase:ge-li:geli</small></th><td>GeLi · tI32 · I4_1/a (88)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 300–812.96 K, x(Li) 0.5–0.5</td><td class="n">44</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-geli4">GELI4</a><br><small>phase:ge-li:geli4</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 670.84–900.21 K, x(Li) 0.80377–0.80392</td><td class="n">27</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-hcp-a3">HCP_A3</a><br><small>phase:ge-li:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 2 calculated diagram(s)</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-ge-li-liquid">LIQUID</a><br><small>phase:ge-li:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 2 of 2 calculated diagram(s): 453.33–2500 K, x(Li) 0–1</td><td class="n">153</td><td class="n">2</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-ge-li-a4-diamond">DIAMOND_A4 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:a4-diamond</code>; status <code>assigned</code></li>
+<li>Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type <code>st:a4-c-diamond-cf8</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Ge 1.0000</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Li) 0–0</li>
+<li>Literature: 13 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:a4-diamond">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:ge-li:a4-diamond, corpus:phase:ge-li:diamond-a4<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:(Ge), paper:10.1016/j.jct.2022.106883:Diamond_A4<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:DIAMOND_A4, tdb:GeLi-22Gie.tdb:DIAMOND_A4<br></p>
+<h3>TDB models of DIAMOND_A4 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: DIAMOND_A4, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>46: PHASE DIAMOND_A4 % 1 1 !
+47: CONST DIAMOND_A4 : GE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: DIAMOND_A4, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>52: PHASE DIAMOND_A4 % 1 1 !
+53: CONST DIAMOND_A4 : GE : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-bcc-a2">BCC_A2 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–2499.75 K, x(Li) 1–1</li>
+<li>Literature: 11 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:bcc-a2<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:(Li), paper:10.1016/j.jct.2022.106883:BCC_A2<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:BCC_A2, tdb:GeLi-22Gie.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: BCC_A2, type code %B, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : GE LI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: BCC_A2, type code %B, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>42: PHASE BCC_A2 %B 2 1 3 !
+43: CONST BCC_A2 : GE LI : VA : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-fcc-a1">FCC_A1 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:fcc-a1<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:FCC_A1, tdb:GeLi-22Gie.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: FCC_A1, type code %A, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : GE LI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: FCC_A1, type code %A, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>37: PHASE FCC_A1 %A 2 1 1 !
+38: CONST FCC_A1 : GE LI : VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge12li7">GE12LI7 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge12li7</code>; status <code>assigned</code></li>
+<li>Structure: Na7Sn12 · mP78 · P2/c (13); type <code>st:na7sn12-mp78</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.6316, Li 0.3684</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–784.69 K, x(Li) 0.36842–0.36842</li>
+<li>Literature: 48 values (46 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge12li7">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:ge12li7<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li7Ge12, paper:10.1016/j.jct.2022.106883:Ge12Li7<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE12LI7, tdb:GeLi-22Gie.tdb:GE12LI7<br></p>
+<h3>TDB models of GE12LI7 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE12LI7, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>51: PHASE GE12LI7 % 2 12 7 !
+52: CONST GE12LI7 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE12LI7, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>57: PHASE GE12LI7 % 2 12 7 !
+58: CONST GE12LI7 : GE : LI : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge2li7">GE2LI7 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge2li7</code>; status <code>assigned</code></li>
+<li>Structure: Ge2Li7 · oC36 · Cmmm (65); type <code>st:ge2li7-oc36</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.2222, Li 0.7778</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1046.75 K, x(Li) 0.77778–0.77778</li>
+<li>Literature: 29 values (29 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge2li7">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:ge2li7<br><small>paper: </small>paper:10.1016/j.jct.2022.106883:Ge2Li7<br><small>tdb: </small>tdb:GeLi-22Gie.tdb:GE2LI7<br></p>
+<h3>TDB models of GE2LI7 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE2LI7, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>82: PHASE GE2LI7 % 2 2 7 !
+83: CONST GE2LI7 : GE : LI : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge3li7">GE3LI7 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge3li7</code>; status <code>assigned</code></li>
+<li>Structure: Li5Sn2 · hR7 · R-3m (166); type <code>st:li5sn2-hr7</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.3000, Li 0.7000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1051.76 K, x(Li) 0.7–0.7</li>
+<li>Literature: 34 values (34 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge3li7">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:ge3li7<br><small>paper: </small>paper:10.1016/j.jct.2022.106883:Ge3Li7<br><small>tdb: </small>tdb:GeLi-22Gie.tdb:GE3LI7<br></p>
+<h3>TDB models of GE3LI7 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE3LI7, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>77: PHASE GE3LI7 % 2 3 7 !
+78: CONST GE3LI7 : GE : LI : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(57)90050-1">doi:10.1016/0022-3697(57)90050-1</a> E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge4li13">GE4LI13 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge4li13</code>; status <code>assigned</code></li>
+<li>Structure: Ge2Li7 · oC36 · Cmmm (65); type <code>st:ge2li7-oc36</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.2353, Li 0.7647</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1057.24 K, x(Li) 0.76471–0.76471</li>
+<li>Literature: 10 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge4li13">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:ge4li13<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li13Ge4<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE4LI13<br></p>
+<h3>TDB models of GE4LI13 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE4LI13, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>76: PHASE GE4LI13 % 2 4 13 !
+77: CONST GE4LI13 : GE : LI : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge4li15-d86">GE4LI15_D86 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge4li15-d86</code>; status <code>assigned</code></li>
+<li>Structure: Cu15Si4 · D8_6 · cI76 · I-43d (220); type <code>st:d8-6-cu15si4-ci76</code>; tier A: standard phase name; confidence high</li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaacqj and oqmd-8013, space group 220</li>
+<li>Stoichiometry: Ge 0.2105, Li 0.7895</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–990.13 K, x(Li) 0.78947–0.78947</li>
+<li>Literature: 24 values (18 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge4li15-d86">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:ge-li:ge4li15-d86<br><small>mp: </small>mp:mp-aaaaacqj<br><small>oqmd: </small>oqmd:oqmd-8013<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li15Ge4, paper:10.1016/j.jct.2022.106883:Ge4Li15<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE4LI15_D86, tdb:GeLi-22Gie.tdb:GE4LI15_D86<br></p>
+<h3>TDB models of GE4LI15_D86 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE4LI15_D86, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>81: PHASE GE4LI15_D86 % 2 4 15 !
+82: CONST GE4LI15_D86 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE4LI15_D86, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>87: PHASE GE4LI15_D86 % 2 4 15 !
+88: CONST GE4LI15_D86 : GE : LI : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/c4dt00743c">doi:10.1039/c4dt00743c</a> Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li
+                    &lt;sub&gt;17&lt;/sub&gt;
+                    Si
+                    &lt;sub&gt;4.0−x&lt;/sub&gt;
+                    Ge
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    for
+                    &lt;i&gt;x&lt;/i&gt;
+                    = 2.3, 3.1, 3.5, and 4 as well as Li
+                    &lt;sub&gt;4.1&lt;/sub&gt;
+                    Ge, Dalton Trans. 43, 14959-14970 (2014).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge4li17">GE4LI17 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge4li17</code>; status <code>assigned</code></li>
+<li>Structure: Ge4Li17 · cF436 · F-43m (216); type <code>st:ge4li17-cf436</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.1905, Li 0.8095</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–795.07 K, x(Li) 0.80952–0.80952</li>
+<li>Literature: 36 values (30 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge4li17">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:ge4li17<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li17Ge4, paper:10.1016/j.jct.2022.106883:Ge4Li17<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE4LI17, tdb:GeLi-22Gie.tdb:GE4LI17<br></p>
+<h3>TDB models of GE4LI17 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE4LI17, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>92: PHASE GE4LI17 % 2 4 17 !
+93: CONST GE4LI17 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE4LI17, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>98: PHASE GE4LI17 % 2 4 17 !
+99: CONST GE4LI17 : GE : LI : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/c4dt00743c">doi:10.1039/c4dt00743c</a> Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li
+                    &lt;sub&gt;17&lt;/sub&gt;
+                    Si
+                    &lt;sub&gt;4.0−x&lt;/sub&gt;
+                    Ge
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    for
+                    &lt;i&gt;x&lt;/i&gt;
+                    = 2.3, 3.1, 3.5, and 4 as well as Li
+                    &lt;sub&gt;4.1&lt;/sub&gt;
+                    Ge, Dalton Trans. 43, 14959-14970 (2014).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge4li9">GE4LI9 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge4li9</code>; status <code>assigned</code></li>
+<li>Structure: Ge4Li9 · oC52 · Cmcm (63); type <code>st:ge4li9-oc52</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.3077, Li 0.6923</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–1018.15 K, x(Li) 0.69231–0.69231</li>
+<li>Literature: 30 values (26 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge4li9">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:ge4li9<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li9Ge4, paper:10.1016/j.jct.2022.106883:Ge4Li9<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE4LI9, tdb:GeLi-22Gie.tdb:GE4LI9<br></p>
+<h3>TDB models of GE4LI9 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE4LI9, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>66: PHASE GE4LI9 % 2 4 9 !
+67: CONST GE4LI9 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE4LI9, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>72: PHASE GE4LI9 % 2 4 9 !
+73: CONST GE4LI9 : GE : LI : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(57)90050-1">doi:10.1016/0022-3697(57)90050-1</a> E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge6li14">GE6LI14 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge6li14</code>; status <code>assigned</code></li>
+<li>Structure: Li5Sn2 · hR7 · R-3m (166); type <code>st:li5sn2-hr7</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.3000, Li 0.7000</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1020.04 K, x(Li) 0.7–0.7</li>
+<li>Literature: 10 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge6li14">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:ge6li14<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li14Ge6<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE6LI14<br></p>
+<h3>TDB models of GE6LI14 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE6LI14, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>71: PHASE GE6LI14 % 2 6 14 !
+72: CONST GE6LI14 : GE : LI : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-ge7li12">GE7LI12 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:ge7li12</code>; status <code>assigned</code></li>
+<li>Structure: Li12Si7 · oP152 · Pnma (62); type <code>st:li12si7-op152</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.3684, Li 0.6316</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–808.16 K, x(Li) 0.63158–0.63158</li>
+<li>Literature: 51 values (47 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:ge7li12">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:ge7li12<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li12Ge7, paper:10.1016/j.jct.2022.106883:Ge7Li12<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GE7LI12, tdb:GeLi-22Gie.tdb:GE7LI12<br></p>
+<h3>TDB models of GE7LI12 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GE7LI12, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>61: PHASE GE7LI12 % 2 7 12 !
+62: CONST GE7LI12 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GE7LI12, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>67: PHASE GE7LI12 % 2 7 12 !
+68: CONST GE7LI12 : GE : LI : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(57)90050-1">doi:10.1016/0022-3697(57)90050-1</a> E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-geli">GELI (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:geli</code>; status <code>assigned</code></li>
+<li>Structure: GeLi · tI32 · I4_1/a (88); type <code>st:geli-ti32</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (dft_space_group_88_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Ge 0.5000, Li 0.5000</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 300–812.96 K, x(Li) 0.5–0.5</li>
+<li>Literature: 44 values (38 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:geli">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:geli<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:LiGe, paper:10.1016/j.jct.2022.106883:GeLi<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GELI, tdb:GeLi-22Gie.tdb:GELI<br></p>
+<h3>TDB models of GELI (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GELI, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>56: PHASE GELI % 2 1 1 !
+57: CONST GELI : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GELI, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>62: PHASE GELI % 2 1 1 !
+63: CONST GELI : GE : LI : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-geli4">GELI4 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:geli4</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:models_disagree_on_composition; models_disagree_on_composition; no_structure_token</li>
+<li>Candidate (literature_printed): Li4Si · oC96 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Li4Si · oC96 · Cmcm (63) — Hallstedt 2025 mmc2 row for GELI4: GeLi4</li>
+<li>Candidate (tdb_comment): Li4Si · oC96 · Cmcm — GeLi-18Wan.tdb: &#x27;Prototype Li4Si (oC96, Cmcm)&#x27;</li>
+<li>Candidate (tdb_comment): Li4Si · oC96 · Cmcm — GeLi-22Gie.tdb: &#x27;Prototype Li4Si (oC96, Cmcm)&#x27;</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 670.84–900.21 K, x(Li) 0.80377–0.80392</li>
+<li>Literature: 27 values (21 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:geli4">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:ge-li:geli4<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:Li4.1Ge, paper:10.1007/s11669-018-0632-5:Li4Ge, paper:10.1007/s11669-018-0632-5:Li4Ge(rt), paper:10.1016/j.jct.2022.106883:GeLi4.096<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:GELI4, tdb:GeLi-22Gie.tdb:GELI4<br></p>
+<h3>TDB models of GELI4 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: GELI4, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>86: PHASE GELI4 % 2 1 4.1 !
+87: CONST GELI4 : GE : LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: GELI4, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>92: PHASE GELI4 % 2 1 4.096 !
+93: CONST GELI4 : GE : LI : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/c4dt00743c">doi:10.1039/c4dt00743c</a> Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li
+                    &lt;sub&gt;17&lt;/sub&gt;
+                    Si
+                    &lt;sub&gt;4.0−x&lt;/sub&gt;
+                    Ge
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    for
+                    &lt;i&gt;x&lt;/i&gt;
+                    = 2.3, 3.1, 3.5, and 4 as well as Li
+                    &lt;sub&gt;4.1&lt;/sub&gt;
+                    Ge, Dalton Trans. 43, 14959-14970 (2014).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-hcp-a3">HCP_A3 (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 2 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:ge-li:hcp-a3<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:HCP_A3, tdb:GeLi-22Gie.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: HCP_A3, type code %A, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : GE LI : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: HCP_A3, type code %A, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>47: PHASE HCP_A3 %A 2 1 0.5 !
+48: CONST HCP_A3 : GE LI : VA : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-ge-li-liquid">LIQUID (Ge–Li)</h2>
+<ul>
+<li>Id: <code>phase:ge-li:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 453.33–2500 K, x(Li) 0–1</li>
+<li>Literature: 153 values (135 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:ge-li:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:ge-li:liquid<br><small>paper: </small>paper:10.1007/s11669-018-0632-5:L, paper:10.1016/j.jct.2022.106883:L<br><small>tdb: </small>tdb:GeLi-18Wan.tdb:LIQUID, tdb:GeLi-22Gie.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-18Wan.tdb">GeLi-18Wan.tdb</a>: LIQUID, type code %, sha256 <code>5eb8811b38c848da…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : GE LI : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/GeLi-22Gie.tdb">GeLi-22Gie.tdb</a>: LIQUID, type code %, sha256 <code>ce9879aaebef3c3c…</code></p>
+<pre>32: PHASE LIQUID:L % 1 1 !
+33: CONST LIQUID:L : GE LI : !</pre>
+<p>Example references (6 of 6; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jct.2022.106883">doi:10.1016/j.jct.2022.106883</a> W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-018-0632-5">doi:10.1007/s11669-018-0632-5</a> Shimin Wang, Yong Du, Yingbiao Peng, Peng Zhou, Xiaoming Yuan, Shuhong Liu, A Thermodynamic Assessment of the Li-Ge System, J. Phase Equilib. Diffus. 39, 315-323 (2018).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jpowsour.2010.07.020">doi:10.1016/j.jpowsour.2010.07.020</a> Wei-Jun Zhang, A review of the electrochemical performance of alloy anodes for lithium-ion batteries, Journal of Power Sources 196, 13-24 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1149/1.1652421">doi:10.1149/1.1652421</a> M. N. Obrovac, Leif Christensen, Structural Changes in Silicon Anodes during Lithium Insertion/Extraction, Electrochem. Solid-State Lett. 7, A93 (2004).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/c4dt00743c">doi:10.1039/c4dt00743c</a> Michael Zeilinger, Thomas F. Fässler, Structural and thermodynamic similarities of phases in the Li–Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li–Ge phase diagram and crystal structures of Li
+                    &lt;sub&gt;17&lt;/sub&gt;
+                    Si
+                    &lt;sub&gt;4.0−x&lt;/sub&gt;
+                    Ge
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    for
+                    &lt;i&gt;x&lt;/i&gt;
+                    = 2.3, 3.1, 3.5, and 4 as well as Li
+                    &lt;sub&gt;4.1&lt;/sub&gt;
+                    Ge, Dalton Trans. 43, 14959-14970 (2014).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-3697(57)90050-1">doi:10.1016/0022-3697(57)90050-1</a> E.M. Pell, Solubility of Lithium in germanium, Journal of Physics and Chemistry of Solids 3, 74-76 (1957).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

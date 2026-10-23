@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AS-FE.html · Markdown: https://da
 
 36 accepted literature values from 1 paper(s) (experimental 15, DFT 21); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE.json) · [CSV](https://data.orchid-project.org/systems/AS-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE) · [Markdown](https://data.orchid-project.org/systems/AS-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE.json) · [CSV](https://data.orchid-project.org/systems/AS-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE) · [phases (10)](https://data.orchid-project.org/phases/pages/AS-FE.html) · [Markdown](https://data.orchid-project.org/systems/AS-FE.md)
 
 Table: Accepted values by evidence class
 

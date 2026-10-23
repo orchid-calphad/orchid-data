@@ -1,0 +1,667 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cu–Te phases — ORCHID phase registry</title>
+<meta name="description" content="Cu–Te system: 22 phases (tier A 4, tier C 4, liquid 1, needs_review 13); 20 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/CU-TE.html">
+<link rel="alternate" type="text/markdown" href="CU-TE.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"Cu–Te system: 22 phases (tier A 4, tier C 4, liquid 1, needs_review 13); 20 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/CU-TE.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/CU-TE.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:a8-hexagonal","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:a8-hexagonal","corpus:phase:cu-te:hexagonal-a8","paper:10.1007/s11669-022-00950-z:HEX","paper:10.1016/j.jallcom.2020.157373:(Te)","tdb:CuTe-21Hua.tdb:HEXAGONAL_A8","tdb:CuTe-22Yu.tdb:HEXAGONAL_A8","tdb:CuTe-23Hut.tdb:HEXAGONAL_A8"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HEXAGONAL_A8","pearsonSymbol":"hP3","prototype":"gamma-Se","reviewStatus":"assigned","spaceGroupNumber":152,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a8-gamma-se-hp3","strukturbericht":"A8","termCode":"phase:cu-te:a8-hexagonal","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-a8-hexagonal"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:bcc-a2","tdb:CuTe-21Hua.tdb:BCC_A2","tdb:CuTe-22Yu.tdb:BCC_A2","tdb:CuTe-23Hut.tdb:BCC_A2"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:cu-te:bcc-a2","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-alpha","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-alpha","tdb:CuTe-21Hua.tdb:CU2TE_ALPHA","tdb:CuTe-22Yu.tdb:CU2TE_ALPHA","tdb:CuTe-23Hut.tdb:CU2TE_ALPHA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_ALPHA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-alpha","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-alpha"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-beta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-beta","tdb:CuTe-21Hua.tdb:CU2TE_BETA","tdb:CuTe-22Yu.tdb:CU2TE_BETA","tdb:CuTe-23Hut.tdb:CU2TE_BETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_BETA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-beta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-beta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-delta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-delta","tdb:CuTe-21Hua.tdb:CU2TE_DELTA","tdb:CuTe-22Yu.tdb:CU2TE_DELTA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_DELTA","pearsonSymbol":"hP6","prototype":"Cu2Te","reviewStatus":"assigned","spaceGroupNumber":191,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c-h-cu2te-hp6","strukturbericht":"C_h","termCode":"phase:cu-te:cu2te-delta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-delta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-epsilon","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-epsilon","paper:10.1007/s11669-022-00950-z:εCu2Te","paper:10.1016/j.jallcom.2020.157373:ε-Cu2Te","tdb:CuTe-21Hua.tdb:CU2TE_EPSILON","tdb:CuTe-22Yu.tdb:CU2TE_EPSILON"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_EPSILON","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-epsilon","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-epsilon"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-eta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-eta","paper:10.1007/s11669-022-00950-z:ηCu2Te","tdb:CuTe-22Yu.tdb:CU2TE_ETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_ETA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-eta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-eta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-gamma","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-gamma","paper:10.1007/s11669-022-00950-z:γCu2Te","tdb:CuTe-21Hua.tdb:CU2TE_GAMMA","tdb:CuTe-22Yu.tdb:CU2TE_GAMMA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_GAMMA","pearsonSymbol":"hP72","prototype":"Cu2Te","reviewStatus":"assigned","spaceGroupNumber":156,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:cu2te-hp72","termCode":"phase:cu-te:cu2te-gamma","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-gamma"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-iota","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-iota","paper:10.1007/s11669-022-00950-z:ιCu2Te","tdb:CuTe-22Yu.tdb:CU2TE_IOTA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_IOTA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-iota","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-iota"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-kappa","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-kappa","paper:10.1007/s11669-022-00950-z:κCu2Te","tdb:CuTe-22Yu.tdb:CU2TE_KAPPA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_KAPPA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-kappa","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-kappa"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-lambda","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-lambda","paper:10.1007/s11669-022-00950-z:λCu2Te","tdb:CuTe-22Yu.tdb:CU2TE_LAMBDA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_LAMBDA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-lambda","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-lambda"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-theta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-theta","paper:10.1007/s11669-022-00950-z:θCu2Te","tdb:CuTe-22Yu.tdb:CU2TE_THETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_THETA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-theta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-theta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu2te-zeta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu2te-zeta","paper:10.1007/s11669-022-00950-z:ζCu2Te","paper:10.1016/j.jallcom.2020.157373:ζ-Cu2Te","tdb:CuTe-21Hua.tdb:CU2TE_ZETA","tdb:CuTe-22Yu.tdb:CU2TE_ZETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU2TE_ZETA","reviewStatus":"needs_review","termCode":"phase:cu-te:cu2te-zeta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu2te-zeta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu3te2","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu3te2","tdb:CuTe-22Yu.tdb:CU3TE2"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU3TE2","reviewStatus":"needs_review","termCode":"phase:cu-te:cu3te2","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu3te2"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu4te3-beta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu4te3-beta","paper:10.1007/s11669-022-00950-z:βCu4Te3","paper:10.1016/j.jallcom.2020.157373:H-Cu4Te3","tdb:CuTe-21Hua.tdb:CU4TE3_BETA","tdb:CuTe-22Yu.tdb:CU4TE3_BETA","tdb:CuTe-23Hut.tdb:CU4TE3_BETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU4TE3_BETA","pearsonSymbol":"cF28","prototype":"Cu3Te2","reviewStatus":"assigned","spaceGroupNumber":216,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:cu3te2-cf28","termCode":"phase:cu-te:cu4te3-beta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu4te3-beta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu4te3-c38","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu4te3-c38","paper:10.1007/s11669-022-00950-z:αCu4Te3","paper:10.1016/j.jallcom.2020.157373:L-Cu4Te3","tdb:CuTe-21Hua.tdb:CU4TE3_C38","tdb:CuTe-22Yu.tdb:CU4TE3_C38","tdb:CuTe-23Hut.tdb:CU4TE3_C38"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU4TE3_C38","reviewStatus":"needs_review","termCode":"phase:cu-te:cu4te3-c38","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu4te3-c38"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cu7te4","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cu7te4","paper:10.1007/s11669-022-00950-z:Cu0.63Te0.37","tdb:CuTe-22Yu.tdb:CU7TE4"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CU7TE4","reviewStatus":"needs_review","termCode":"phase:cu-te:cu7te4","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cu7te4"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cute-alpha","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cute-alpha","paper:10.1007/s11669-022-00950-z:αCuTe","paper:10.1016/j.jallcom.2020.157373:L-CuTe","tdb:CuTe-21Hua.tdb:CUTE_ALPHA","tdb:CuTe-22Yu.tdb:CUTE_ALPHA","tdb:CuTe-23Hut.tdb:CUTE_ALPHA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CUTE_ALPHA","pearsonSymbol":"oP4","prototype":"CuTe","reviewStatus":"assigned","spaceGroupNumber":59,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:cute-op4","termCode":"phase:cu-te:cute-alpha","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cute-alpha"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:cute-beta","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:cute-beta","paper:10.1007/s11669-022-00950-z:βCuTe","paper:10.1016/j.jallcom.2020.157373:H-CuTe","tdb:CuTe-21Hua.tdb:CUTE_BETA","tdb:CuTe-22Yu.tdb:CUTE_BETA","tdb:CuTe-23Hut.tdb:CUTE_BETA"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CUTE_BETA","reviewStatus":"needs_review","termCode":"phase:cu-te:cute-beta","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-cute-beta"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:fcc-a1","paper:10.1007/s11669-022-00950-z:FCC","paper:10.1016/j.jallcom.2020.157373:(Cu)","tdb:CuTe-21Hua.tdb:FCC_A1","tdb:CuTe-22Yu.tdb:FCC_A1","tdb:CuTe-23Hut.tdb:FCC_A1"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:cu-te:fcc-a1","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:hcp-a3","tdb:CuTe-21Hua.tdb:HCP_A3","tdb:CuTe-22Yu.tdb:HCP_A3","tdb:CuTe-23Hut.tdb:HCP_A3"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:cu-te:hcp-a3","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:cu-te:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:cu-te:liquid","paper:10.1007/s11669-022-00950-z:L1","paper:10.1007/s11669-022-00950-z:L2","paper:10.1016/j.jallcom.2020.157373:L","paper:10.1016/j.jallcom.2020.157373:L1","paper:10.1016/j.jallcom.2020.157373:L2","tdb:CuTe-21Hua.tdb:LIQUID","tdb:CuTe-22Yu.tdb:LIQUID","tdb:CuTe-23Hut.tdb:LIQUID"],"chemicalSystem":"CU-TE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2020.157373","@type":"ScholarlyArticle","name":"Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021)."},{"@id":"https://doi.org/10.1007/s11669-022-00950-z","@type":"ScholarlyArticle","name":"Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022)."},{"@id":"https://doi.org/10.1007/s11669-023-01032-4","@type":"ScholarlyArticle","name":"Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023)."},{"@id":"https://doi.org/10.1023/a:1024003932461","@type":"ScholarlyArticle","name":"A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003)."},{"@id":"https://doi.org/10.1002/zaac.19070540106","@type":"ScholarlyArticle","name":"Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:cu-te:liquid","url":"https://data.orchid-project.org/phases/pages/CU-TE.html#phase-cu-te-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","Cu–Te"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"Cu–Te phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/CU-TE.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>Cu–Te phases</h1>
+<p>22 phases (tier A 4, tier C 4, liquid 1, needs_review 13); 20 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=CU-TE">interactive registry</a> · <a href="../systems/CU-TE.json">full JSON</a> · <a href="../../systems/CU-TE.html">Cu–Te system page</a> · <a href="CU-TE.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the Cu–Te system (22)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-cu-te-a8-hexagonal">HEXAGONAL_A8</a><br><small>phase:cu-te:a8-hexagonal</small></th><td>gamma-Se · A8 · hP3 · P3_121 (152)</td><td>tier A: standard phase name</td><td>stable in 3 of 3 calculated diagram(s): 300–722.63 K, x(Te) 1–1</td><td class="n">9</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-bcc-a2">BCC_A2</a><br><small>phase:cu-te:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>not stable in 3 calculated diagram(s)</td><td class="n">0</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-alpha">CU2TE_ALPHA</a><br><small>phase:cu-te:cu2te-alpha</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 300–684.29 K, x(Te) 0.33333–0.36072</td><td class="n">0</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-beta">CU2TE_BETA</a><br><small>phase:cu-te:cu2te-beta</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 459.12–1373.58 K, x(Te) 0.33333–0.3551</td><td class="n">0</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-delta">CU2TE_DELTA</a><br><small>phase:cu-te:cu2te-delta</small></th><td>Cu2Te · C_h · hP6 · P6/mmm (191)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 624.76–874.73 K, x(Te) 0.33333–0.33333</td><td class="n">0</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-epsilon">CU2TE_EPSILON</a><br><small>phase:cu-te:cu2te-epsilon</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 874.55–1185.37 K, x(Te) 0.33333–0.33333</td><td class="n">11</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-eta">CU2TE_ETA</a><br><small>phase:cu-te:cu2te-eta</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 450–593.05 K, x(Te) 0.345–0.345</td><td class="n">6</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-gamma">CU2TE_GAMMA</a><br><small>phase:cu-te:cu2te-gamma</small></th><td>Cu2Te · hP72 · P3m1 (156)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 2 of 2 calculated diagram(s): 581.65–625.95 K, x(Te) 0.33333–0.33333</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-iota">CU2TE_IOTA</a><br><small>phase:cu-te:cu2te-iota</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 520–617.98 K, x(Te) 0.357–0.357</td><td class="n">8</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-kappa">CU2TE_KAPPA</a><br><small>phase:cu-te:cu2te-kappa</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 492.8–520 K, x(Te) 0.357–0.357</td><td class="n">6</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-lambda">CU2TE_LAMBDA</a><br><small>phase:cu-te:cu2te-lambda</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–517.99 K, x(Te) 0.354–0.354</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-theta">CU2TE_THETA</a><br><small>phase:cu-te:cu2te-theta</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–450 K, x(Te) 0.345–0.345</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu2te-zeta">CU2TE_ZETA</a><br><small>phase:cu-te:cu2te-zeta</small></th><td></td><td>needs_review</td><td>stable in 2 of 2 calculated diagram(s): 1148.37–1387.12 K, x(Te) 0.33333–0.33333</td><td class="n">19</td><td class="n">2</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu3te2">CU3TE2</a><br><small>phase:cu-te:cu3te2</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 917.99–1080 K, x(Te) 0.37–0.37</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu4te3-beta">CU4TE3_BETA</a><br><small>phase:cu-te:cu4te3-beta</small></th><td>Cu3Te2 · cF28 · F-43m (216)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 3 of 3 calculated diagram(s): 588.49–1058.31 K, x(Te) 0.3893–0.42857</td><td class="n">27</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu4te3-c38">CU4TE3_C38</a><br><small>phase:cu-te:cu4te3-c38</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 300–650.03 K, x(Te) 0.42857–0.42857</td><td class="n">12</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cu7te4">CU7TE4</a><br><small>phase:cu-te:cu7te4</small></th><td></td><td>needs_review</td><td>stable in 1 of 1 calculated diagram(s): 300–542.88 K, x(Te) 0.36–0.36</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cute-alpha">CUTE_ALPHA</a><br><small>phase:cu-te:cute-alpha</small></th><td>CuTe · oP4 · Pmmn (59)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 3 of 3 calculated diagram(s): 300–619.84 K, x(Te) 0.5–0.5</td><td class="n">7</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-cute-beta">CUTE_BETA</a><br><small>phase:cu-te:cute-beta</small></th><td></td><td>needs_review</td><td>stable in 3 of 3 calculated diagram(s): 619.19–697 K, x(Te) 0.5–0.5</td><td class="n">24</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-fcc-a1">FCC_A1</a><br><small>phase:cu-te:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 3 of 3 calculated diagram(s): 300–1357.77 K, x(Te) 0–0</td><td class="n">8</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-hcp-a3">HCP_A3</a><br><small>phase:cu-te:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 3 calculated diagram(s)</td><td class="n">0</td><td class="n">3</td></tr>
+<tr><th scope="row"><a href="#phase-cu-te-liquid">LIQUID</a><br><small>phase:cu-te:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 3 of 3 calculated diagram(s): 621.79–2500 K, x(Te) 0–1</td><td class="n">49</td><td class="n">3</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-cu-te-a8-hexagonal">HEXAGONAL_A8 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:a8-hexagonal</code>; status <code>assigned</code></li>
+<li>Structure: gamma-Se · A8 · hP3 · P3_121 (152); type <code>st:a8-gamma-se-hp3</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Te 1.0000</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–722.63 K, x(Te) 1–1</li>
+<li>Literature: 9 values (9 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:a8-hexagonal">phase registry entry</a></li>
+</ul>
+<p>Names (7): <small>corpus: </small>corpus:phase:cu-te:a8-hexagonal, corpus:phase:cu-te:hexagonal-a8<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:HEX, paper:10.1016/j.jallcom.2020.157373:(Te)<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:HEXAGONAL_A8, tdb:CuTe-22Yu.tdb:HEXAGONAL_A8, tdb:CuTe-23Hut.tdb:HEXAGONAL_A8<br></p>
+<h3>TDB models of HEXAGONAL_A8 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: HEXAGONAL_A8, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>54: PHASE HEXAGONAL_A8 % 1 1 !
+55: CONST HEXAGONAL_A8 : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: HEXAGONAL_A8, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>54: PHASE HEXAGONAL_A8 % 1 1 !
+55: CONST HEXAGONAL_A8 : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: HEXAGONAL_A8, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>53: PHASE HEXAGONAL_A8 % 1 1 !
+54: CONST HEXAGONAL_A8 : TE : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-bcc-a2">BCC_A2 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Cu 1.0000</li>
+<li>Stability: not stable in 3 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:cu-te:bcc-a2<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:BCC_A2, tdb:CuTe-22Yu.tdb:BCC_A2, tdb:CuTe-23Hut.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: BCC_A2, type code %B, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>44: PHASE BCC_A2 %B 2 1 3 !
+45: CONST BCC_A2 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: BCC_A2, type code %B, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>44: PHASE BCC_A2 %B 2 1 3 !
+45: CONST BCC_A2 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: BCC_A2, type code %B, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>43: PHASE BCC_A2 %B 2 1 3 !
+44: CONST BCC_A2 : CU : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-alpha">CU2TE_ALPHA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-alpha</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_ALPHA: Cu2Te</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–684.29 K, x(Te) 0.33333–0.36072</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-alpha">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:cu-te:cu2te-alpha<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_ALPHA, tdb:CuTe-22Yu.tdb:CU2TE_ALPHA, tdb:CuTe-23Hut.tdb:CU2TE_ALPHA<br></p>
+<h3>TDB models of CU2TE_ALPHA (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_ALPHA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>59: PHASE CU2TE_ALPHA % 2 2 1 !
+60: CONST CU2TE_ALPHA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_ALPHA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>59: PHASE CU2TE_ALPHA % 2 2 1 !
+60: CONST CU2TE_ALPHA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CU2TE_ALPHA, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>58: PHASE CU2TE_ALPHA % 2 2 1 !
+59: CONST CU2TE_ALPHA : CU% TE : TE : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-beta">CU2TE_BETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-beta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_rows_disagree</li>
+<li>Candidate (sgte_mmc2): Cu2Te · C_h · hP6 · P6/mmm (191) — Hallstedt 2025 mmc2 row for CU2TE_BETA: Cu2Te (weissite)</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_BETA: Cu2Te</li>
+<li>Candidate (tdb_comment): Cu2Te · hP6 · P6/mmm, SB: C_h — CuTe-23Hut.tdb: &#x27;Prototype Cu2Te (hP6, P6/mmm, SB: C_h), weissite, delta&#x27;</li>
+<li>Candidate (tdb_comment): Cu2Te · hP72 · P3m1 — CuTe-23Hut.tdb: &#x27;Prototype Cu2Te (hP72, P3m1), gamma&#x27;</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 459.12–1373.58 K, x(Te) 0.33333–0.3551</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-beta">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:cu-te:cu2te-beta<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_BETA, tdb:CuTe-22Yu.tdb:CU2TE_BETA, tdb:CuTe-23Hut.tdb:CU2TE_BETA<br></p>
+<h3>TDB models of CU2TE_BETA (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_BETA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>64: PHASE CU2TE_BETA % 2 2 1 !
+65: CONST CU2TE_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_BETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>64: PHASE CU2TE_BETA % 2 2 1 !
+65: CONST CU2TE_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CU2TE_BETA, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>66: PHASE CU2TE_BETA % 2 2 1 !
+67: CONST CU2TE_BETA : CU% TE : TE : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-delta">CU2TE_DELTA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-delta</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Te · C_h · hP6 · P6/mmm (191); type <code>st:c-h-cu2te-hp6</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Cu 0.6667, Te 0.3333</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 624.76–874.73 K, x(Te) 0.33333–0.33333</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-delta">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-delta<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_DELTA, tdb:CuTe-22Yu.tdb:CU2TE_DELTA<br></p>
+<h3>TDB models of CU2TE_DELTA (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_DELTA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>74: PHASE CU2TE_DELTA % 2 2 1 !
+75: CONST CU2TE_DELTA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_DELTA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>74: PHASE CU2TE_DELTA % 2 2 1 !
+75: CONST CU2TE_DELTA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-epsilon">CU2TE_EPSILON (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-epsilon</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · cF* — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) · Fd-3m (227) — Hallstedt 2025 mmc2 row for CU2TE_EPSILON: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6667, Te 0.3333</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 874.55–1185.37 K, x(Te) 0.33333–0.33333</li>
+<li>Literature: 11 values (11 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-epsilon">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:cu-te:cu2te-epsilon<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:εCu2Te, paper:10.1016/j.jallcom.2020.157373:ε-Cu2Te<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_EPSILON, tdb:CuTe-22Yu.tdb:CU2TE_EPSILON<br></p>
+<h3>TDB models of CU2TE_EPSILON (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_EPSILON, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>79: PHASE CU2TE_EPSILON % 2 2 1 !
+80: CONST CU2TE_EPSILON : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_EPSILON, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>79: PHASE CU2TE_EPSILON % 2 2 1 !
+80: CONST CU2TE_EPSILON : CU : TE : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-eta">CU2TE_ETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-eta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · ? — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_ETA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6550, Te 0.3450</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 450–593.05 K, x(Te) 0.345–0.345</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-eta">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-eta<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:ηCu2Te<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU2TE_ETA<br></p>
+<h3>TDB models of CU2TE_ETA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_ETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>94: PHASE CU2TE_ETA % 2 0.655 0.345 !
+95: CONST CU2TE_ETA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-gamma">CU2TE_GAMMA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-gamma</code>; status <code>assigned</code></li>
+<li>Structure: Cu2Te · hP72 · P3m1 (156); type <code>st:cu2te-hp72</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Cu 0.6667, Te 0.3333</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 581.65–625.95 K, x(Te) 0.33333–0.33333</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-gamma">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:cu-te:cu2te-gamma<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:γCu2Te<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_GAMMA, tdb:CuTe-22Yu.tdb:CU2TE_GAMMA<br></p>
+<h3>TDB models of CU2TE_GAMMA (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_GAMMA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>69: PHASE CU2TE_GAMMA % 2 2 1 !
+70: CONST CU2TE_GAMMA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_GAMMA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>69: PHASE CU2TE_GAMMA % 2 2 1 !
+70: CONST CU2TE_GAMMA : CU : TE : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-iota">CU2TE_IOTA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-iota</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:IOTA; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · hR* — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) · P3m1 (156) — Hallstedt 2025 mmc2 row for CU2TE_IOTA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6430, Te 0.3570</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 520–617.98 K, x(Te) 0.357–0.357</li>
+<li>Literature: 8 values (8 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-iota">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-iota<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:ιCu2Te<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU2TE_IOTA<br></p>
+<h3>TDB models of CU2TE_IOTA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_IOTA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>109: PHASE CU2TE_IOTA % 2 0.643 0.357 !
+110: CONST CU2TE_IOTA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-kappa">CU2TE_KAPPA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-kappa</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · m** — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_KAPPA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6430, Te 0.3570</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 492.8–520 K, x(Te) 0.357–0.357</li>
+<li>Literature: 6 values (6 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-kappa">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-kappa<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:κCu2Te<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU2TE_KAPPA<br></p>
+<h3>TDB models of CU2TE_KAPPA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_KAPPA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>104: PHASE CU2TE_KAPPA % 2 0.643 0.357 !
+105: CONST CU2TE_KAPPA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-lambda">CU2TE_LAMBDA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-lambda</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · hP* — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_LAMBDA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6460, Te 0.3540</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–517.99 K, x(Te) 0.354–0.354</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-lambda">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-lambda<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:λCu2Te<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU2TE_LAMBDA<br></p>
+<h3>TDB models of CU2TE_LAMBDA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_LAMBDA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>99: PHASE CU2TE_LAMBDA % 2 0.646 0.354 !
+100: CONST CU2TE_LAMBDA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-theta">CU2TE_THETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-theta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · o** — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_THETA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6550, Te 0.3450</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–450 K, x(Te) 0.345–0.345</li>
+<li>Literature: 2 values (2 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-theta">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu2te-theta<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:θCu2Te<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU2TE_THETA<br></p>
+<h3>TDB models of CU2TE_THETA (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_THETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>89: PHASE CU2TE_THETA % 2 0.655 0.345 !
+90: CONST CU2TE_THETA : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu2te-zeta">CU2TE_ZETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu2te-zeta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (literature_printed): (Cu2Te) · ? — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (Cu2Te) — Hallstedt 2025 mmc2 row for CU2TE_ZETA: Cu2Te</li>
+<li>Stoichiometry: Cu 0.6667, Te 0.3333</li>
+<li>Stability: stable in 2 of 2 calculated diagram(s): 1148.37–1387.12 K, x(Te) 0.33333–0.33333</li>
+<li>Literature: 19 values (19 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu2te-zeta">phase registry entry</a></li>
+</ul>
+<p>Names (5): <small>corpus: </small>corpus:phase:cu-te:cu2te-zeta<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:ζCu2Te, paper:10.1016/j.jallcom.2020.157373:ζ-Cu2Te<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU2TE_ZETA, tdb:CuTe-22Yu.tdb:CU2TE_ZETA<br></p>
+<h3>TDB models of CU2TE_ZETA (2): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU2TE_ZETA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>84: PHASE CU2TE_ZETA % 2 2 1 !
+85: CONST CU2TE_ZETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU2TE_ZETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>84: PHASE CU2TE_ZETA % 2 2 1 !
+85: CONST CU2TE_ZETA : CU : TE : !</pre>
+<p>Example references (4 of 4; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu3te2">CU3TE2 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu3te2</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (sgte_mmc2): Cu3Te2 · oP6 · Pmmn (59) — Hallstedt 2025 mmc2 row for CU3TE2: Cu3Te2</li>
+<li>Candidate (tdb_comment): Cu3Te2 · oP6 · Pmmn — CuTe-22Yu.tdb: &#x27;Prototype Cu3Te2 (oP6, Pmmn)&#x27;</li>
+<li>Stoichiometry: Cu 0.6300, Te 0.3700</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 917.99–1080 K, x(Te) 0.37–0.37</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu3te2">phase registry entry</a></li>
+</ul>
+<p>Names (2): <small>corpus: </small>corpus:phase:cu-te:cu3te2<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU3TE2<br></p>
+<h3>TDB models of CU3TE2 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU3TE2, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>119: PHASE CU3TE2 % 2 0.63 0.37 !
+120: CONST CU3TE2 : CU : TE : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu4te3-beta">CU4TE3_BETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu4te3-beta</code>; status <code>assigned</code></li>
+<li>Structure: Cu3Te2 · cF28 · F-43m (216); type <code>st:cu3te2-cf28</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 588.49–1058.31 K, x(Te) 0.3893–0.42857</li>
+<li>Literature: 27 values (27 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu4te3-beta">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-te:cu4te3-beta<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:βCu4Te3, paper:10.1016/j.jallcom.2020.157373:H-Cu4Te3<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU4TE3_BETA, tdb:CuTe-22Yu.tdb:CU4TE3_BETA, tdb:CuTe-23Hut.tdb:CU4TE3_BETA<br></p>
+<h3>TDB models of CU4TE3_BETA (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU4TE3_BETA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>95: PHASE CU4TE3_BETA % 2 4 3 !
+96: CONST CU4TE3_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU4TE3_BETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>130: PHASE CU4TE3_BETA % 2 4 3 !
+131: CONST CU4TE3_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CU4TE3_BETA, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>77: PHASE CU4TE3_BETA % 2 4 3 !
+78: CONST CU4TE3_BETA : CU : CU TE% : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu4te3-c38">CU4TE3_C38 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu4te3-c38</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_C38; stoichiometry_contradicts_C38:CuTe-21Hua.tdb; stoichiometry_contradicts_C38:CuTe-22Yu.tdb; stoichiometry_contradicts_C38:CuTe-23Hut.tdb</li>
+<li>Candidate (literature_printed): Cu2Sb · tP6 — printed with a label mapped to this phase</li>
+<li>Candidate (name_token): Cu2Sb · C38 · tP6 · P4/nmm (129) — Strukturbericht/word &#x27;C38&#x27; in the TDB name</li>
+<li>Candidate (sgte_mmc2): Cu2Sb · C38 · tP6 · P4/nmm (129) — Hallstedt 2025 mmc2 row for CU4TE3_C38: Cu4Te3 (low T, ricardite)</li>
+<li>Candidate (tdb_comment): Cu2Sb · tP6 · P4/nmm — CuTe-21Hua.tdb: &#x27;Prototype Cu2Sb (tP6, P4/nmm), ricardite&#x27;</li>
+<li>Candidate (tdb_comment): Cu2Sb · tP6 · P4/nmm — CuTe-22Yu.tdb: &#x27;Prototype Cu2Sb (tP6, P4/nmm), ricardite&#x27;</li>
+<li>Candidate (tdb_comment): Cu2Sb · tP6 · P4/nmm — CuTe-23Hut.tdb: &#x27;Prototype Cu2Sb (tP6, P4/nmm), ricardite&#x27;</li>
+<li>Stoichiometry: Cu 0.5714, Te 0.4286</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–650.03 K, x(Te) 0.42857–0.42857</li>
+<li>Literature: 12 values (12 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu4te3-c38">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-te:cu4te3-c38<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:αCu4Te3, paper:10.1016/j.jallcom.2020.157373:L-Cu4Te3<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CU4TE3_C38, tdb:CuTe-22Yu.tdb:CU4TE3_C38, tdb:CuTe-23Hut.tdb:CU4TE3_C38<br></p>
+<h3>TDB models of CU4TE3_C38 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CU4TE3_C38, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>90: PHASE CU4TE3_C38 % 2 4 3 !
+91: CONST CU4TE3_C38 : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU4TE3_C38, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>125: PHASE CU4TE3_C38 % 2 4 3 !
+126: CONST CU4TE3_C38 : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CU4TE3_C38, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>72: PHASE CU4TE3_C38 % 2 4 3 !
+73: CONST CU4TE3_C38 : CU : TE : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cu7te4">CU7TE4 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cu7te4</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token</li>
+<li>Candidate (literature_printed): Cu7Te4 · hP22 — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): Cu7Te4 · hP22 · P-3m1 (164) — Hallstedt 2025 mmc2 row for CU7TE4: Cu7Te4</li>
+<li>Candidate (tdb_comment): Cu7Te4 · hP22 · P-3m1 — CuTe-22Yu.tdb: &#x27;Prototype Cu7Te4 (hP22, P-3m1), Cu2Te-mu&#x27;</li>
+<li>Stoichiometry: Cu 0.6400, Te 0.3600</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–542.88 K, x(Te) 0.36–0.36</li>
+<li>Literature: 4 values (4 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cu7te4">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:cu-te:cu7te4<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:Cu0.63Te0.37<br><small>tdb: </small>tdb:CuTe-22Yu.tdb:CU7TE4<br></p>
+<h3>TDB models of CU7TE4 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CU7TE4, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>114: PHASE CU7TE4 % 2 0.64 0.36 !
+115: CONST CU7TE4 : CU : TE : !</pre>
+<p>Example references (2 of 2; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cute-alpha">CUTE_ALPHA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cute-alpha</code>; status <code>assigned</code></li>
+<li>Structure: CuTe · oP4 · Pmmn (59); type <code>st:cute-op4</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: Cu 0.5000, Te 0.5000</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–619.84 K, x(Te) 0.5–0.5</li>
+<li>Literature: 7 values (7 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cute-alpha">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-te:cute-alpha<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:αCuTe, paper:10.1016/j.jallcom.2020.157373:L-CuTe<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CUTE_ALPHA, tdb:CuTe-22Yu.tdb:CUTE_ALPHA, tdb:CuTe-23Hut.tdb:CUTE_ALPHA<br></p>
+<h3>TDB models of CUTE_ALPHA (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CUTE_ALPHA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>100: PHASE CUTE_ALPHA % 2 1 1 !
+101: CONST CUTE_ALPHA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CUTE_ALPHA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>135: PHASE CUTE_ALPHA % 2 1 1 !
+136: CONST CUTE_ALPHA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CUTE_ALPHA, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>82: PHASE CUTE_ALPHA % 2 1 1 !
+83: CONST CUTE_ALPHA : CU : TE : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-cute-beta">CUTE_BETA (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:cute-beta</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; sgte_mmc2_row_incomplete</li>
+<li>Candidate (dft_mp): Pmmn (59) — on-hull MP CuTe at x(TE)=0.5000</li>
+<li>Candidate (dft_oqmd): Pmmn (59) — on-hull OQMD Cu1 Te1 at x(TE)=0.5000</li>
+<li>Candidate (literature_printed): (CuTe) · ? — printed with a label mapped to this phase</li>
+<li>Candidate (sgte_mmc2): (CuTe) — Hallstedt 2025 mmc2 row for CUTE_BETA: CuTe (high T)</li>
+<li>Stoichiometry: Cu 0.5000, Te 0.5000</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 619.19–697 K, x(Te) 0.5–0.5</li>
+<li>Literature: 24 values (24 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:cute-beta">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-te:cute-beta<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:βCuTe, paper:10.1016/j.jallcom.2020.157373:H-CuTe<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:CUTE_BETA, tdb:CuTe-22Yu.tdb:CUTE_BETA, tdb:CuTe-23Hut.tdb:CUTE_BETA<br></p>
+<h3>TDB models of CUTE_BETA (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: CUTE_BETA, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>105: PHASE CUTE_BETA % 2 1 1 !
+106: CONST CUTE_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: CUTE_BETA, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>140: PHASE CUTE_BETA % 2 1 1 !
+141: CONST CUTE_BETA : CU : TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: CUTE_BETA, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>87: PHASE CUTE_BETA % 2 1 1 !
+88: CONST CUTE_BETA : CU : TE : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-fcc-a1">FCC_A1 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Cu 1.0000</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 300–1357.77 K, x(Te) 0–0</li>
+<li>Literature: 8 values (8 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (6): <small>corpus: </small>corpus:phase:cu-te:fcc-a1<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:FCC, paper:10.1016/j.jallcom.2020.157373:(Cu)<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:FCC_A1, tdb:CuTe-22Yu.tdb:FCC_A1, tdb:CuTe-23Hut.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: FCC_A1, type code %A, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>39: PHASE FCC_A1 %A 2 1 1 !
+40: CONST FCC_A1 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: FCC_A1, type code %A, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>39: PHASE FCC_A1 %A 2 1 1 !
+40: CONST FCC_A1 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: FCC_A1, type code %A, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>38: PHASE FCC_A1 %A 2 1 1 !
+39: CONST FCC_A1 : CU : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-hcp-a3">HCP_A3 (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: Cu 1.0000</li>
+<li>Stability: not stable in 3 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (4): <small>corpus: </small>corpus:phase:cu-te:hcp-a3<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:HCP_A3, tdb:CuTe-22Yu.tdb:HCP_A3, tdb:CuTe-23Hut.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: HCP_A3, type code %A, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>49: PHASE HCP_A3 %A 2 1 0.5 !
+50: CONST HCP_A3 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: HCP_A3, type code %A, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>49: PHASE HCP_A3 %A 2 1 0.5 !
+50: CONST HCP_A3 : CU : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: HCP_A3, type code %A, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>48: PHASE HCP_A3 %A 2 1 0.5 !
+49: CONST HCP_A3 : CU : VA : !</pre>
+<p>Example references (3 of 3; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-cu-te-liquid">LIQUID (Cu–Te)</h2>
+<ul>
+<li>Id: <code>phase:cu-te:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 3 of 3 calculated diagram(s): 621.79–2500 K, x(Te) 0–1</li>
+<li>Literature: 49 values (49 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:cu-te:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (9): <small>corpus: </small>corpus:phase:cu-te:liquid<br><small>paper: </small>paper:10.1007/s11669-022-00950-z:L1, paper:10.1007/s11669-022-00950-z:L2, paper:10.1016/j.jallcom.2020.157373:L, paper:10.1016/j.jallcom.2020.157373:L1, paper:10.1016/j.jallcom.2020.157373:L2<br><small>tdb: </small>tdb:CuTe-21Hua.tdb:LIQUID, tdb:CuTe-22Yu.tdb:LIQUID, tdb:CuTe-23Hut.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (3): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-21Hua.tdb">CuTe-21Hua.tdb</a>: LIQUID, type code %, sha256 <code>7d81feae126f40f4…</code></p>
+<pre>34: PHASE LIQUID:L % 1 1 !
+35: CONST LIQUID:L : CU CU2TE TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-22Yu.tdb">CuTe-22Yu.tdb</a>: LIQUID, type code %, sha256 <code>1478a3ddfca00a47…</code></p>
+<pre>34: PHASE LIQUID:L % 1 1 !
+35: CONST LIQUID:L : CU CU2TE TE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/CuTe-23Hut.tdb">CuTe-23Hut.tdb</a>: LIQUID, type code %, sha256 <code>849aa90ae59ba1b7…</code></p>
+<pre>33: PHASE LIQUID:L % 1 1 !
+34: CONST LIQUID:L : CU CU2TE TE : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2020.157373">doi:10.1016/j.jallcom.2020.157373</a> Dandan Huang, Rumo Han, Yao Wang, Tianfan Ye, The Cu–Te system: Phase relations determination and thermodynamic assessment, Journal of Alloys and Compounds 855, 157373 (2021).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-022-00950-z">doi:10.1007/s11669-022-00950-z</a> Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11669-023-01032-4">doi:10.1007/s11669-023-01032-4</a> Yohanes Hutabalian, Sinn-wen Chen, Wojciech Gierlotka, Phase Equilibria of the Cu-Se-Te Ternary System, J. Phase Equilib. Diffus. 44, 181-199 (2023).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1023/a:1024003932461">doi:10.1023/a:1024003932461</a> A. S. Pashinkin, V. A. Fedorov, Phase Equilibria in the Cu–Te System, Inorganic Materials 39, 539-554 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/zaac.19070540106">doi:10.1002/zaac.19070540106</a> Masumi Chikashige, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XLV. Über Kupfer‐Tellur, Z. Anorg. Chem. 54, 50-57 (1907).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

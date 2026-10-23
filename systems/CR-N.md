@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-N.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-N/CrN-91Fri-LB.json) · [Markdown](https://data.orchid-project.org/systems/CR-N.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-N/CrN-91Fri-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CR-N.html) · [Markdown](https://data.orchid-project.org/systems/CR-N.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-V/CdV-13Zha.json) · [Markdown](https://data.orchid-project.org/systems/CD-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-V/CdV-13Zha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-V.html) · [Markdown](https://data.orchid-project.org/systems/CD-V.md)
 
 ## Calculated phase diagrams
 

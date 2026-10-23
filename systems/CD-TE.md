@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-TE.html · Markdown: https://da
 
 20 accepted literature values from 2 paper(s) (experimental 13, model 7); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TE/CdTe-00Yam-LB.json) · [Markdown](https://data.orchid-project.org/systems/CD-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TE/CdTe-00Yam-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CD-TE.html) · [Markdown](https://data.orchid-project.org/systems/CD-TE.md)
 
 Table: Accepted values by evidence class
 

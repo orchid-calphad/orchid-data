@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HG-SN.html · Markdown: https://da
 
 73 accepted literature values from 1 paper(s) (experimental 43, model 30); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HG-SN.json) · [CSV](https://data.orchid-project.org/systems/HG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-SN/HgSn-03Yen-LB.json) · [Markdown](https://data.orchid-project.org/systems/HG-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HG-SN.json) · [CSV](https://data.orchid-project.org/systems/HG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-SN/HgSn-03Yen-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HG-SN.html) · [Markdown](https://data.orchid-project.org/systems/HG-SN.md)
 
 Table: Accepted values by evidence class
 

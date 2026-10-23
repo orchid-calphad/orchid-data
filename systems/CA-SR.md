@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SR.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SR.json) · [CSV](https://data.orchid-project.org/systems/CA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SR/CaSr-03Zho.json) · [Markdown](https://data.orchid-project.org/systems/CA-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SR.json) · [CSV](https://data.orchid-project.org/systems/CA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SR/CaSr-03Zho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-SR.html) · [Markdown](https://data.orchid-project.org/systems/CA-SR.md)
 
 Table: Accepted values by evidence class
 

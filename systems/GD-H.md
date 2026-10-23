@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-H.html · Markdown: https://dat
 
 2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GD-H.json) · [CSV](https://data.orchid-project.org/systems/GD-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-H/GdH-16Fu.json) · [Markdown](https://data.orchid-project.org/systems/GD-H.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GD-H.json) · [CSV](https://data.orchid-project.org/systems/GD-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-H/GdH-16Fu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GD-H.html) · [Markdown](https://data.orchid-project.org/systems/GD-H.md)
 
 Table: Accepted values by evidence class
 

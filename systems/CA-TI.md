@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-TI.html · Markdown: https://da
 
 11 accepted literature values from 1 paper(s) (experimental 1, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-TI.json) · [CSV](https://data.orchid-project.org/systems/CA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-TI/CaTi-15Ham.json) · [Markdown](https://data.orchid-project.org/systems/CA-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-TI.json) · [CSV](https://data.orchid-project.org/systems/CA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-TI/CaTi-15Ham.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-TI.html) · [Markdown](https://data.orchid-project.org/systems/CA-TI.md)
 
 Table: Accepted values by evidence class
 

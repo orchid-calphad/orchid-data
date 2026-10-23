@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-SC.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SC/AuSc-16Xu.json) · [Markdown](https://data.orchid-project.org/systems/AU-SC.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SC/AuSc-16Xu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AU-SC.html) · [Markdown](https://data.orchid-project.org/systems/AU-SC.md)
 
 ## Calculated phase diagrams
 

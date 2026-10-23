@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-RE.html · Markdown: https://da
 
 48 accepted literature values from 2 paper(s) (experimental 28, model 20); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RE/AlRe-18Guo.json) · [Markdown](https://data.orchid-project.org/systems/AL-RE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RE/AlRe-18Guo.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-RE.html) · [Markdown](https://data.orchid-project.org/systems/AL-RE.md)
 
 Table: Accepted values by evidence class
 

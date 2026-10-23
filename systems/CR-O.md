@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-O.html · Markdown: https://dat
 
 9 accepted literature values from 1 paper(s) (experimental 3, model 6); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-O.json) · [CSV](https://data.orchid-project.org/systems/CR-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-O/CrO-06Pov.json) · [Markdown](https://data.orchid-project.org/systems/CR-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-O.json) · [CSV](https://data.orchid-project.org/systems/CR-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-O/CrO-06Pov.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CR-O.html) · [Markdown](https://data.orchid-project.org/systems/CR-O.md)
 
 Table: Accepted values by evidence class
 

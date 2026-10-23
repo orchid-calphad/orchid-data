@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CS-NA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-NA/CsNa-11Ren.json) · [Markdown](https://data.orchid-project.org/systems/CS-NA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-NA/CsNa-11Ren.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CS-NA.html) · [Markdown](https://data.orchid-project.org/systems/CS-NA.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-O.html · Markdown: https://dat
 
 256 accepted literature values from 1 paper(s) (experimental 49, model 10, DFT 197); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-O.json) · [CSV](https://data.orchid-project.org/systems/MO-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-O/MoO-14Zha.json) · [Markdown](https://data.orchid-project.org/systems/MO-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-O.json) · [CSV](https://data.orchid-project.org/systems/MO-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-O/MoO-14Zha.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MO-O.html) · [Markdown](https://data.orchid-project.org/systems/MO-O.md)
 
 Table: Accepted values by evidence class
 

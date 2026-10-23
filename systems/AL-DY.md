@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-DY.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-03Cac-LB.json) · [Markdown](https://data.orchid-project.org/systems/AL-DY.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-03Cac-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-DY.html) · [Markdown](https://data.orchid-project.org/systems/AL-DY.md)
 
 ## Calculated phase diagrams
 

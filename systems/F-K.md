@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/F-K.html · Markdown: https://data
 
 7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/F-K.json) · [CSV](https://data.orchid-project.org/systems/F-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K) · [Markdown](https://data.orchid-project.org/systems/F-K.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/F-K.json) · [CSV](https://data.orchid-project.org/systems/F-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K) · [phases (7)](https://data.orchid-project.org/phases/pages/F-K.html) · [Markdown](https://data.orchid-project.org/systems/F-K.md)
 
 Table: Accepted values by evidence class
 

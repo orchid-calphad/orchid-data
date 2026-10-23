@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-U.html · Markdown: https://dat
 
 18 accepted literature values from 1 paper(s) (experimental 12, model 6); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-U.json) · [CSV](https://data.orchid-project.org/systems/RE-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-U/ReU-11Ber.json) · [Markdown](https://data.orchid-project.org/systems/RE-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-U.json) · [CSV](https://data.orchid-project.org/systems/RE-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-U/ReU-11Ber.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-U.html) · [Markdown](https://data.orchid-project.org/systems/RE-U.md)
 
 Table: Accepted values by evidence class
 

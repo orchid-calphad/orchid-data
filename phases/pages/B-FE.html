@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>B–Fe phases — ORCHID phase registry</title>
+<meta name="description" content="B–Fe system: 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.">
+<link rel="canonical" href="https://data.orchid-project.org/phases/pages/B-FE.html">
+<link rel="alternate" type="text/markdown" href="B-FE.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}main p,main li{overflow-wrap:break-word}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}ol.src li{margin:3px 0}
+.cite{border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);border-radius:8px;padding:4px 16px 10px;margin:28px 0 0}
+.cite h2{margin:10px 0 6px}.cite ul{padding-left:20px;margin:6px 0}.cite li{margin:4px 0;overflow-wrap:anywhere}
+.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem;background:var(--row);border-radius:6px;padding:8px 10px;margin:6px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":{"@vocab":"https://schema.org/","chemicalSystem":"orchid:chemicalSystem","orchid":"https://orchid-project.org/ns/phase#","pearsonSymbol":"orchid:pearsonSymbol","prototype":"orchid:prototype","reviewStatus":"orchid:reviewStatus","spaceGroupNumber":"orchid:spaceGroupNumber","structureBasis":"orchid:structureBasis","structureType":{"@id":"orchid:structureType","@type":"@id"},"strukturbericht":"orchid:strukturbericht"},"@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"B–Fe system: 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/systems/B-FE.json","encodingFormat":"application/json"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/phases/pages/B-FE.md","encodingFormat":"text/markdown"}],"hasPart":{"@id":"https://data.orchid-project.org/phases/","@type":"DefinedTermSet","hasDefinedTerm":[{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:b-beta-rhombo","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:b-beta-rhombo","corpus:phase:b-fe:beta-rhombo-b","paper:10.1016/j.jallcom.2019.05.341:βB","paper:10.1016/s0364-5916(02)00012-3:β","tdb:FeB-01Pal.tdb:BETA_RHOMBO_B","tdb:FeB-02Rom.tdb:BETA_RHOMBO_B","tdb:FeB-08Yos.tdb:BETA_RHOMBO_B","tdb:FeB-19Wit.tdb:BETA_RHOMBO_B","tdb:FeB-20Tak.tdb:BETA_RHOMBO_B","tdb:FeB-91Pan.tdb:BETA_RHOMBO_B","tdb:FeB-94Hal-LB.tdb:BETA_RHOMBO_B"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BETA_RHOMBO_B","reviewStatus":"needs_review","termCode":"phase:b-fe:b-beta-rhombo","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-b-beta-rhombo"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:b27-mb","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:b27-mb","corpus:phase:b-fe:mb-b27","paper:10.1016/j.jallcom.2019.05.341:B27","paper:10.1016/s0364-5916(02)00012-3:FeB","tdb:FeB-01Pal.tdb:MB_B27","tdb:FeB-02Rom.tdb:MB_B27","tdb:FeB-08Yos.tdb:MB_B27","tdb:FeB-19Wit.tdb:MB_B27","tdb:FeB-20Tak.tdb:MB_B27","tdb:FeB-91Pan.tdb:MB_B27","tdb:FeB-94Hal-LB.tdb:MB_B27"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MB_B27","pearsonSymbol":"oP8","prototype":"FeB","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b27-feb-op8","strukturbericht":"B27","termCode":"phase:b-fe:b27-mb","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-b27-mb"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:b33-mb","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:b33-mb","paper:10.1016/j.jallcom.2019.05.341:B33","tdb:FeB-19Wit.tdb:MB_B33"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1088/0305-4608/5/4/021","@type":"ScholarlyArticle","name":"L Takacs, M C Cadeville, I Vincze, Mossbauer study of the intermetallic compounds (Fe\n                    \u003csub\u003e1-x\u003c/sub\u003e\n                    Co\n                    \u003csub\u003ex\u003c/sub\u003e\n                    )\n                    \u003csub\u003e2\u003c/sub\u003e\n                    B and (Fe\n                    \u003csub\u003e1-x\u003c/sub\u003e\n                    Co\n                    \u003csub\u003ex\u003c/sub\u003e\n                    )B, J. Phys. F: Met. Phys. 5, 800-811 (1975)."},{"@id":"https://doi.org/10.1103/physrevb.20.283","@type":"ScholarlyArticle","name":"C. L. Chien, D. Musser, E. M. Gyorgy, R. C. Sherwood, H. S. Chen, F. E. Luborsky et al., Magnetic properties of amorphous\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eFe\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eB\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e1\u003c/mml:mn\u003e\u003cmml:mn\u003e0\u003c/mml:mn\u003e\u003cmml:mn\u003e0\u003c/mml:mn\u003e\u003cmml:mo\u003e−\u003c/mml:mo\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003cmml:mo\u003e(\u003c/mml:mo\u003e\u003cmml:mn\u003e72\u003c/mml:mn\u003e\u003cmml:mn/\u003e\u003cmml:mo\u003e\u0026lt;~\u003c/mml:mo\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003cmml:mo\u003e\u0026lt;~\u003c/mml:mo\u003e\u003cmml:mn\u003e8\u003c/mml:mn\u003e\u003cmml:mn\u003e6\u003c/mml:mn\u003e\u003cmml:mo\u003e)\u003c/mml:mo\u003e\u003c/mml:math\u003eand crystalline\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eFe\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e3\u003c/mml:mn\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003c/mml:math\u003eB, Phys. Rev. B 20, 283-295 (1979)."},{"@id":"https://doi.org/10.1103/physrevb.7.23","@type":"ScholarlyArticle","name":"Kenneth A. Murphy, N. Hershkowitz, Temperature-Dependent Hyperfine Interactions in\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eFe\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e2\u003c/mml:mn\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003c/mml:math\u003eB, Phys. Rev. B 7, 23-31 (1973)."},{"@id":"https://doi.org/10.1002/cphc.201001072","@type":"ScholarlyArticle","name":"Steffi Rades, Andreas Kornowski, Horst Weller, Barbara Albert, Wet‐Chemical Synthesis of Nanoscale Iron Boride, XAFS Analysis and Crystallisation to α‐FeB, ChemPhysChem 12, 1756-1760 (2011)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"MB_B33","pearsonSymbol":"oC8","prototype":"CrB","reviewStatus":"assigned","spaceGroupNumber":63,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:b33-crb-oc8","strukturbericht":"B33","termCode":"phase:b-fe:b33-mb","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-b33-mb"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:bcc-a2","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:bcc-a2","paper:10.1016/j.jallcom.2019.05.341:A2","paper:10.1016/j.jallcom.2019.05.341:A2f","paper:10.1016/s0364-5916(02)00012-3:α","paper:10.1016/s0364-5916(02)00012-3:δ","tdb:FeB-01Pal.tdb:BCC_A2","tdb:FeB-02Rom.tdb:BCC_A2","tdb:FeB-08Yos.tdb:BCC_A2","tdb:FeB-19Wit.tdb:BCC_A2","tdb:FeB-20Tak.tdb:BCC_A2","tdb:FeB-91Pan.tdb:BCC_A2","tdb:FeB-94Hal-LB.tdb:BCC_A2"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"BCC_A2","pearsonSymbol":"cI2","prototype":"W","reviewStatus":"assigned","spaceGroupNumber":229,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a2-w-ci2","strukturbericht":"A2","termCode":"phase:b-fe:bcc-a2","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-bcc-a2"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:c16-m2b","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:c16-m2b","corpus:phase:b-fe:m2b-c16","mp:mp-aaaaacvr","oqmd:oqmd-7798","paper:10.1016/j.jallcom.2019.05.341:Fe2B","paper:10.1016/j.jallcom.2019.05.341:Fe2Bf","paper:10.1016/s0364-5916(02)00012-3:Fe2B","tdb:FeB-01Pal.tdb:M2B_C16","tdb:FeB-02Rom.tdb:M2B_C16","tdb:FeB-08Yos.tdb:M2B_C16","tdb:FeB-19Wit.tdb:M2B_C16","tdb:FeB-20Tak.tdb:M2B_C16","tdb:FeB-91Pan.tdb:M2B_C16","tdb:FeB-94Hal-LB.tdb:M2B_C16"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"M2B_C16","pearsonSymbol":"tI12","prototype":"Al2Cu","reviewStatus":"assigned","spaceGroupNumber":140,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:c16-al2cu-ti12","strukturbericht":"C16","termCode":"phase:b-fe:c16-m2b","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-c16-m2b"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:cementite-d011","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:cementite-d011","paper:10.1016/s0364-5916(02)00012-3:Fe3B","tdb:FeB-01Pal.tdb:CEMENTITE_D011"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"CEMENTITE_D011","pearsonSymbol":"oP16","prototype":"Fe3C","reviewStatus":"assigned","spaceGroupNumber":62,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-11-fe3c-op16","strukturbericht":"D0_11","termCode":"phase:b-fe:cementite-d011","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-cementite-d011"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:fcc-a1","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:fcc-a1","paper:10.1016/j.jallcom.2019.05.341:A1","paper:10.1016/s0364-5916(02)00012-3:γ","tdb:FeB-01Pal.tdb:FCC_A1","tdb:FeB-02Rom.tdb:FCC_A1","tdb:FeB-08Yos.tdb:FCC_A1","tdb:FeB-19Wit.tdb:FCC_A1","tdb:FeB-20Tak.tdb:FCC_A1","tdb:FeB-91Pan.tdb:FCC_A1","tdb:FeB-94Hal-LB.tdb:FCC_A1"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FCC_A1","pearsonSymbol":"cF4","prototype":"Cu","reviewStatus":"assigned","spaceGroupNumber":225,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a1-cu-cf4","strukturbericht":"A1","termCode":"phase:b-fe:fcc-a1","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-fcc-a1"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:fe3b","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:fe3b","paper:10.1016/j.jallcom.2019.05.341:tp-Fe3B","tdb:FeB-19Wit.tdb:FE3B_HT"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/j.calphad.2013.08.001","@type":"ScholarlyArticle","name":"M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. \u0002, M. Leonowicz, Thermodynamic assessment of"},{"@id":"https://doi.org/10.1016/s0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Thermodynamic analysis of glass formation in Fe-B system, Calphad 25, 625-637 (2001)."},{"@id":"https://doi.org/10.1007/s11664-015-4112-y","@type":"ScholarlyArticle","name":"G. J. Zhou, Y. Luo, Y. Zhou, Thermodynamic Reassessment of the Nd-Fe-B Ternary System, Journal of Elec Materi 45, 418-425 (2016)."},{"@id":"https://doi.org/10.1016/s0925-8388(96)02570-4","@type":"ScholarlyArticle","name":"Livio Battezzati, Carlo Antonione, Marcello Baricco, Undercooling of Ni-B and Fe-B alloys and their metastable phase diagrams, Journal of Alloys and Compounds 247, 164-171 (1997)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FE3B_HT","pearsonSymbol":"tP32","prototype":"Ti3P","reviewStatus":"assigned","spaceGroupNumber":86,"structureBasis":"assessment_declared","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:ti3p-tp32","termCode":"phase:b-fe:fe3b","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-fe3b"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:fe3b-d0e","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:fe3b-d0e","paper:10.1016/j.jallcom.2019.05.341:bct-Fe3B","tdb:FeB-19Wit.tdb:FE3B_D0E"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/0022-4596(84)90340-2","@type":"ScholarlyArticle","name":"D. Fruchart, P. Chaudouet, R. Fruchart, A. Rouault, J.P. Senateur, Etudes structurales de compose´s de type ce´mentite: Effet de l'hydroge`ne sur Fe3C suivi par diffraction neutronique. Spectrome´trie Mo¨ssbauer sur FeCo2B et Co3B dope´s au57Fe, Journal of Solid State Chemistry 51, 246-252 (1984)."},{"@id":"https://doi.org/10.1016/0304-8853(89)90333-8","@type":"ScholarlyArticle","name":"R. Coehoorn, D.B. de Mooij, C. de Waard, Meltspun permanent magnet materials containing Fe3B as the main phase, Journal of Magnetism and Magnetic Materials 80, 101-104 (1989)."},{"@id":"https://doi.org/10.1103/physrevb.20.283","@type":"ScholarlyArticle","name":"C. L. Chien, D. Musser, E. M. Gyorgy, R. C. Sherwood, H. S. Chen, F. E. Luborsky et al., Magnetic properties of amorphous\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eFe\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eB\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e1\u003c/mml:mn\u003e\u003cmml:mn\u003e0\u003c/mml:mn\u003e\u003cmml:mn\u003e0\u003c/mml:mn\u003e\u003cmml:mo\u003e−\u003c/mml:mo\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003cmml:mo\u003e(\u003c/mml:mo\u003e\u003cmml:mn\u003e72\u003c/mml:mn\u003e\u003cmml:mn/\u003e\u003cmml:mo\u003e\u0026lt;~\u003c/mml:mo\u003e\u003cmml:mi\u003ex\u003c/mml:mi\u003e\u003cmml:mo\u003e\u0026lt;~\u003c/mml:mo\u003e\u003cmml:mn\u003e8\u003c/mml:mn\u003e\u003cmml:mn\u003e6\u003c/mml:mn\u003e\u003cmml:mo\u003e)\u003c/mml:mo\u003e\u003c/mml:math\u003eand crystalline\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow\u003e\u003cmml:mi mathvariant=\"normal\"\u003eFe\u003c/mml:mi\u003e\u003c/mml:mrow\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e3\u003c/mml:mn\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003c/mml:math\u003eB, Phys. Rev. B 20, 283-295 (1979)."},{"@id":"https://doi.org/10.1103/physrevb.56.3153","@type":"ScholarlyArticle","name":"Yong Kong, Fashen Li, Cohesive energy, local magnetic properties, and Curie temperature of Fe\u003cmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"\u003e\u003cmml:mrow\u003e\u003cmml:msub\u003e\u003cmml:mrow/\u003e\u003cmml:mrow\u003e\u003cmml:mn\u003e3\u003c/mml:mn\u003e\u003c/mml:mrow\u003e\u003c/mml:msub\u003e\u003c/mml:mrow\u003e\u003c/mml:math\u003eB studied using the self-consistent LMTO method, Phys. Rev. B 56, 3153-3158 (1997)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"FE3B_D0E","pearsonSymbol":"tI32","prototype":"Ni3P","reviewStatus":"assigned","spaceGroupNumber":82,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:d0-e-ni3p-ti32","strukturbericht":"D0_e","termCode":"phase:b-fe:fe3b-d0e","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-fe3b-d0e"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:hcp-a3","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:hcp-a3","tdb:FeB-01Pal.tdb:HCP_A3","tdb:FeB-02Rom.tdb:HCP_A3","tdb:FeB-08Yos.tdb:HCP_A3","tdb:FeB-19Wit.tdb:HCP_A3","tdb:FeB-20Tak.tdb:HCP_A3","tdb:FeB-91Pan.tdb:HCP_A3","tdb:FeB-94Hal-LB.tdb:HCP_A3"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"HCP_A3","pearsonSymbol":"hP2","prototype":"Mg","reviewStatus":"assigned","spaceGroupNumber":194,"structureBasis":"standard_name","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:a3-mg-hp2","strukturbericht":"A3","termCode":"phase:b-fe:hcp-a3","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-hcp-a3"},{"@id":"https://data.orchid-project.org/phases/#phase:b-fe:liquid","@type":"DefinedTerm","alternateName":["corpus:phase:b-fe:liquid","paper:10.1007/s11664-015-4112-y:liquid","paper:10.1016/j.jallcom.2019.05.341:L","paper:10.1016/s0364-5916(02)00012-3:L","paper:10.1016/s0364-5916(02)00012-3:liquid","paper:10.1016/s0925-8388(01)01777-7:L","tdb:FeB-01Pal.tdb:LIQUID","tdb:FeB-02Rom.tdb:LIQUID","tdb:FeB-08Yos.tdb:LIQUID","tdb:FeB-19Wit.tdb:LIQUID","tdb:FeB-20Tak.tdb:LIQUID","tdb:FeB-91Pan.tdb:LIQUID","tdb:FeB-94Hal-LB.tdb:LIQUID"],"chemicalSystem":"B-FE","citation":[{"@id":"https://doi.org/10.1016/j.jallcom.2019.05.341","@type":"ScholarlyArticle","name":"V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019)."},{"@id":"https://doi.org/10.1016/S0364-5916(02)00012-3","@type":"ScholarlyArticle","name":"M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001)."},{"@id":"https://doi.org/10.1515/ijmr-1994-851002","@type":"ScholarlyArticle","name":"B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682."},{"@id":"https://doi.org/10.2355/isijinternational.48.835","@type":"ScholarlyArticle","name":"K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008)."},{"@id":"https://doi.org/10.2355/tetsutohagane.TETSU-2019-097","@type":"ScholarlyArticle","name":"K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020)."}],"inDefinedTermSet":"https://data.orchid-project.org/phases/","name":"LIQUID","reviewStatus":"assigned","structureBasis":"liquid","structureType":"https://data.orchid-project.org/phases/structure_types.json#st:liquid","termCode":"phase:b-fe:liquid","url":"https://data.orchid-project.org/phases/pages/B-FE.html#phase-b-fe-liquid"}],"name":"ORCHID phase registry (binary systems)"},"isAccessibleForFree":true,"isPartOf":{"@type":"Dataset","identifier":"https://doi.org/10.5281/zenodo.PENDING-phase-registry","name":"ORCHID phase registry (binary systems)","url":"https://data.orchid-project.org/phases/"},"keywords":["CALPHAD","phase","crystal structure","TDB","B–Fe"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"B–Fe phases — ORCHID phase registry","url":"https://data.orchid-project.org/phases/pages/B-FE.html"}</script>
+</head>
+<body>
+<header><nav><a href="../../index.html">ORCHID data</a><a href="../../systems/index.html">Systems</a><a href="../../compounds/index.html">Compounds</a><a href="../../papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>B–Fe phases</h1>
+<p>11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment&#x27;s crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).</p>
+<p>Data: <a href="https://orchid-project.org/phases/?q=B-FE">interactive registry</a> · <a href="../systems/B-FE.json">full JSON</a> · <a href="../../systems/B-FE.html">B–Fe system page</a> · <a href="B-FE.md">Markdown</a> · <a href="../SCHEMA.md">field reference</a></p>
+<div class="tw"><table>
+<caption>Phases of the B–Fe system (11)</caption>
+<thead><tr><th scope="col">Phase</th><th scope="col">Structure</th><th scope="col">Basis</th><th scope="col">Stability (calculated)</th><th scope="col">Literature values</th><th scope="col">TDB models</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="#phase-b-fe-b-beta-rhombo">BETA_RHOMBO_B</a><br><small>phase:b-fe:b-beta-rhombo</small></th><td></td><td>needs_review</td><td>stable in 7 of 7 calculated diagram(s): 300–3999.42 K, x(B) 0.9382–1</td><td class="n">29</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-b27-mb">MB_B27</a><br><small>phase:b-fe:b27-mb</small></th><td>FeB · B27 · oP8 · Pnma (62)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 7 of 7 calculated diagram(s): 300–1935.8 K, x(B) 0.48749–0.50573</td><td class="n">54</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-b33-mb">MB_B33</a><br><small>phase:b-fe:b33-mb</small></th><td>CrB · B33 · oC8 · Cmcm (63)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 1 of 1 calculated diagram(s): 300–1485.05 K, x(B) 0.49124–0.50254</td><td class="n">28</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-bcc-a2">BCC_A2</a><br><small>phase:b-fe:bcc-a2</small></th><td>W · A2 · cI2 · Im-3m (229)</td><td>tier A: standard phase name</td><td>stable in 7 of 7 calculated diagram(s): 300–3999.7 K, x(B) 0–0.00235</td><td class="n">45</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-c16-m2b">M2B_C16</a><br><small>phase:b-fe:c16-m2b</small></th><td>Al2Cu · C16 · tI12 · I4/mcm (140)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>stable in 7 of 7 calculated diagram(s): 300–1683.9 K, x(B) 0.33333–0.33333</td><td class="n">76</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-cementite-d011">CEMENTITE_D011</a><br><small>phase:b-fe:cementite-d011</small></th><td>Fe3C · D0_11 · oP16 · Pnma (62)</td><td>tier A: standard phase name</td><td>not stable in 1 calculated diagram(s)</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-fcc-a1">FCC_A1</a><br><small>phase:b-fe:fcc-a1</small></th><td>Cu · A1 · cF4 · Fm-3m (225)</td><td>tier A: standard phase name</td><td>stable in 7 of 7 calculated diagram(s): 301.08–1802.45 K, x(B) 0–0.00114</td><td class="n">54</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-fe3b">FE3B_HT</a><br><small>phase:b-fe:fe3b</small></th><td>Ti3P · tP32 · P4_2/n (86)</td><td>tier C: assessor-stated (Hallstedt 2025 crystallographic table)</td><td>not stable in 1 calculated diagram(s)</td><td class="n">15</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-fe3b-d0e">FE3B_D0E</a><br><small>phase:b-fe:fe3b-d0e</small></th><td>Ni3P · D0_e · tI32 · I-4 (82)</td><td>tier A: standard phase name</td><td>not stable in 1 calculated diagram(s)</td><td class="n">12</td><td class="n">1</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-hcp-a3">HCP_A3</a><br><small>phase:b-fe:hcp-a3</small></th><td>Mg · A3 · hP2 · P6_3/mmc (194)</td><td>tier A: standard phase name</td><td>not stable in 7 calculated diagram(s)</td><td class="n">0</td><td class="n">7</td></tr>
+<tr><th scope="row"><a href="#phase-b-fe-liquid">LIQUID</a><br><small>phase:b-fe:liquid</small></th><td>liquid</td><td>liquid</td><td>stable in 7 of 7 calculated diagram(s): 1430.82–4000 K, x(B) 0–1</td><td class="n">123</td><td class="n">7</td></tr>
+</tbody>
+</table></div>
+<h2 id="phase-b-fe-b-beta-rhombo">BETA_RHOMBO_B (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:b-beta-rhombo</code>; status <code>needs_review</code></li>
+<li>No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token</li>
+<li>Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-01Pal.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-02Rom.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-08Yos.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-19Wit.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-20Tak.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-91Pan.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Candidate (tdb_comment): beta-B · hR105 · R-3m — FeB-94Hal-LB.tdb: &#x27;Prototype beta-B (hR105, R-3m)&#x27;</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 300–3999.42 K, x(B) 0.9382–1</li>
+<li>Literature: 29 values (27 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:b-beta-rhombo">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:b-fe:b-beta-rhombo, corpus:phase:b-fe:beta-rhombo-b<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:βB, paper:10.1016/s0364-5916(02)00012-3:β<br><small>tdb: </small>tdb:FeB-01Pal.tdb:BETA_RHOMBO_B, tdb:FeB-02Rom.tdb:BETA_RHOMBO_B, tdb:FeB-08Yos.tdb:BETA_RHOMBO_B, tdb:FeB-19Wit.tdb:BETA_RHOMBO_B, tdb:FeB-20Tak.tdb:BETA_RHOMBO_B, tdb:FeB-91Pan.tdb:BETA_RHOMBO_B, tdb:FeB-94Hal-LB.tdb:BETA_RHOMBO_B<br></p>
+<h3>TDB models of BETA_RHOMBO_B (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>d868b8575842d60b…</code></p>
+<pre>46: PHASE BETA_RHOMBO_B % 1 1 !
+47: CONST BETA_RHOMBO_B : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>62: PHASE BETA_RHOMBO_B % 1 1 !
+63: CONST BETA_RHOMBO_B : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>44: PHASE BETA_RHOMBO_B % 1 1 !
+45: CONST BETA_RHOMBO_B : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>50: PHASE BETA_RHOMBO_B % 1 1 !
+51: CONST BETA_RHOMBO_B : FE B% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>49: PHASE BETA_RHOMBO_B % 2 101 4 !
+50: CONST BETA_RHOMBO_B : FE B% : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>45: PHASE BETA_RHOMBO_B % 1 1 !
+46: CONST BETA_RHOMBO_B : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: BETA_RHOMBO_B, type code %, sha256 <code>724a628400ef810c…</code></p>
+<pre>45: PHASE BETA_RHOMBO_B % 1 1 !
+46: CONST BETA_RHOMBO_B : B : !</pre>
+<p>Example references (10 of 16; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1002/cphc.201001072">doi:10.1002/cphc.201001072</a> Steffi Rades, Andreas Kornowski, Horst Weller, Barbara Albert, Wet‐Chemical Synthesis of Nanoscale Iron Boride, XAFS Analysis and Crystallisation to α‐FeB, ChemPhysChem 12, 1756-1760 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/pssa.2211230217">doi:10.1002/pssa.2211230217</a> V. A. Barinov, G. A. Dorofeev, L. V. Ovechkin, E. P. Elsukov, A. E. Ermakov, Structure and magnetic properties of the α-FeB phase obtained by mechanical working, Phys. Stat. Sol. (a) 123, 527-534 (1991).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00775428">doi:10.1007/bf00775428</a> K. I. Portnoi, M. Kh. Levinskaya, V. M. Romashov, Constitution diagram of the system iron-boron, Powder Metall Met Ceram 8, 657-659 (1969).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0375-9601(69)90927-x">doi:10.1016/0375-9601(69)90927-x</a> J.B. Jeffries, N. Hershkowitz, Temperature dependence of the hyperfine interactions of FeB, Physics Letters A 30, 187-188 (1969).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-b27-mb">MB_B27 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:b27-mb</code>; status <code>assigned</code></li>
+<li>Structure: FeB · B27 · oP8 · Pnma (62); type <code>st:b27-feb-op8</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MB, no_structure_token, structure_token_is_also_a_formula); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 300–1935.8 K, x(B) 0.48749–0.50573</li>
+<li>Literature: 54 values (52 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:b27-mb">phase registry entry</a></li>
+</ul>
+<p>Names (11): <small>corpus: </small>corpus:phase:b-fe:b27-mb, corpus:phase:b-fe:mb-b27<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:B27, paper:10.1016/s0364-5916(02)00012-3:FeB<br><small>tdb: </small>tdb:FeB-01Pal.tdb:MB_B27, tdb:FeB-02Rom.tdb:MB_B27, tdb:FeB-08Yos.tdb:MB_B27, tdb:FeB-19Wit.tdb:MB_B27, tdb:FeB-20Tak.tdb:MB_B27, tdb:FeB-91Pan.tdb:MB_B27, tdb:FeB-94Hal-LB.tdb:MB_B27<br></p>
+<h3>TDB models of MB_B27 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: MB_B27, type code %, sha256 <code>d868b8575842d60b…</code></p>
+<pre>56: PHASE MB_B27 % 2 1 1 !
+57: CONST MB_B27 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: MB_B27, type code %A, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>72: PHASE MB_B27 %A 2 1 1 !
+73: CONST MB_B27 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: MB_B27, type code %A, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>54: PHASE MB_B27 %A 2 1 1 !
+55: CONST MB_B27 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: MB_B27, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>75: PHASE MB_B27 %A 2 1 1 !
+76: CONST MB_B27 : B FE% : B% FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: MB_B27, type code %A, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>59: PHASE MB_B27 %A 2 1 1 !
+60: CONST MB_B27 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: MB_B27, type code %A, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>55: PHASE MB_B27 %A 2 0.5 0.5 !
+56: CONST MB_B27 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: MB_B27, type code %, sha256 <code>724a628400ef810c…</code></p>
+<pre>55: PHASE MB_B27 % 2 1 1 !
+56: CONST MB_B27 : FE : B : !</pre>
+<p>Example references (10 of 13; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00775428">doi:10.1007/bf00775428</a> K. I. Portnoi, M. Kh. Levinskaya, V. M. Romashov, Constitution diagram of the system iron-boron, Powder Metall Met Ceram 8, 657-659 (1969).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2012.08.127">doi:10.1016/j.jallcom.2012.08.127</a> M.-A. Van Ende, I.-H. Jung, Critical thermodynamic evaluation and optimization of the FeeB, FeeNd, BeNd and NdeFeeB systems, J. Alloys Compd. 548 (2013) 133e154.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/b208548h">doi:10.1039/b208548h</a> Alexander Zaitsev, Natal&#x27;ya Zaitseva, Alexander Kodentsov, Thermodynamic properties and phase equilibria in the iron–boron system. Transition of the Fe–B melt into the amorphous stateElectronic supplementary information (ESI) available: Fig. S1–S4 and Tables S1 and S2. See http://www.rsc.org/suppdata/jm/b2/b208548h/, J. Mater. Chem. 13, 943-950 (2003).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.08.001">doi:10.1016/j.calphad.2013.08.001</a> M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-b33-mb">MB_B33 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:b33-mb</code>; status <code>assigned</code></li>
+<li>Structure: CrB · B33 · oC8 · Cmcm (63); type <code>st:b33-crb-oc8</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MB, no_structure_token, structure_token_is_also_a_formula); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stability: stable in 1 of 1 calculated diagram(s): 300–1485.05 K, x(B) 0.49124–0.50254</li>
+<li>Literature: 28 values (28 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:b33-mb">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:b-fe:b33-mb<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:B33<br><small>tdb: </small>tdb:FeB-19Wit.tdb:MB_B33<br></p>
+<h3>TDB models of MB_B33 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: MB_B33, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>70: PHASE MB_B33 %A 2 1 1 !
+71: CONST MB_B33 : B FE% : B% FE : !</pre>
+<p>Example references (10 of 12; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1088/0305-4608/5/4/021">doi:10.1088/0305-4608/5/4/021</a> L Takacs, M C Cadeville, I Vincze, Mossbauer study of the intermetallic compounds (Fe
+                    &lt;sub&gt;1-x&lt;/sub&gt;
+                    Co
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    )
+                    &lt;sub&gt;2&lt;/sub&gt;
+                    B and (Fe
+                    &lt;sub&gt;1-x&lt;/sub&gt;
+                    Co
+                    &lt;sub&gt;x&lt;/sub&gt;
+                    )B, J. Phys. F: Met. Phys. 5, 800-811 (1975).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.20.283">doi:10.1103/physrevb.20.283</a> C. L. Chien, D. Musser, E. M. Gyorgy, R. C. Sherwood, H. S. Chen, F. E. Luborsky et al., Magnetic properties of amorphous&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;B&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;1&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mo&gt;−&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mn&gt;72&lt;/mml:mn&gt;&lt;mml:mn/&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mn&gt;8&lt;/mml:mn&gt;&lt;mml:mn&gt;6&lt;/mml:mn&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:math&gt;and crystalline&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B, Phys. Rev. B 20, 283-295 (1979).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.7.23">doi:10.1103/physrevb.7.23</a> Kenneth A. Murphy, N. Hershkowitz, Temperature-Dependent Hyperfine Interactions in&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B, Phys. Rev. B 7, 23-31 (1973).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/cphc.201001072">doi:10.1002/cphc.201001072</a> Steffi Rades, Andreas Kornowski, Horst Weller, Barbara Albert, Wet‐Chemical Synthesis of Nanoscale Iron Boride, XAFS Analysis and Crystallisation to α‐FeB, ChemPhysChem 12, 1756-1760 (2011).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1002/pssa.2211230217">doi:10.1002/pssa.2211230217</a> V. A. Barinov, G. A. Dorofeev, L. V. Ovechkin, E. P. Elsukov, A. E. Ermakov, Structure and magnetic properties of the α-FeB phase obtained by mechanical working, Phys. Stat. Sol. (a) 123, 527-534 (1991).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90340-2">doi:10.1016/0022-4596(84)90340-2</a> D. Fruchart, P. Chaudouet, R. Fruchart, A. Rouault, J.P. Senateur, Etudes structurales de compose´s de type ce´mentite: Effet de l&#x27;hydroge`ne sur Fe3C suivi par diffraction neutronique. Spectrome´trie Mo¨ssbauer sur FeCo2B et Co3B dope´s au57Fe, Journal of Solid State Chemistry 51, 246-252 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0304-8853(89)90333-8">doi:10.1016/0304-8853(89)90333-8</a> R. Coehoorn, D.B. de Mooij, C. de Waard, Meltspun permanent magnet materials containing Fe3B as the main phase, Journal of Magnetism and Magnetic Materials 80, 101-104 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0375-9601(69)90927-x">doi:10.1016/0375-9601(69)90927-x</a> J.B. Jeffries, N. Hershkowitz, Temperature dependence of the hyperfine interactions of FeB, Physics Letters A 30, 187-188 (1969).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1063/1.430698">doi:10.1063/1.430698</a> D. B. DeYoung, R. G. Barnes, A Mössbauer effect study of 57Fe in transition metal monoborides, The Journal of Chemical Physics 62, 1726-1738 (1975).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-bcc-a2">BCC_A2 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:bcc-a2</code>; status <code>assigned</code></li>
+<li>Structure: W · A2 · cI2 · Im-3m (229); type <code>st:a2-w-ci2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 300–3999.7 K, x(B) 0–0.00235</li>
+<li>Literature: 45 values (45 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:bcc-a2">phase registry entry</a></li>
+</ul>
+<p>Names (12): <small>corpus: </small>corpus:phase:b-fe:bcc-a2<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:A2, paper:10.1016/j.jallcom.2019.05.341:A2f, paper:10.1016/s0364-5916(02)00012-3:α, paper:10.1016/s0364-5916(02)00012-3:δ<br><small>tdb: </small>tdb:FeB-01Pal.tdb:BCC_A2, tdb:FeB-02Rom.tdb:BCC_A2, tdb:FeB-08Yos.tdb:BCC_A2, tdb:FeB-19Wit.tdb:BCC_A2, tdb:FeB-20Tak.tdb:BCC_A2, tdb:FeB-91Pan.tdb:BCC_A2, tdb:FeB-94Hal-LB.tdb:BCC_A2<br></p>
+<h3>TDB models of BCC_A2 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: BCC_A2, type code %B, sha256 <code>d868b8575842d60b…</code></p>
+<pre>36: PHASE BCC_A2 %B 2 1 3 !
+37: CONST BCC_A2 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: BCC_A2, type code %B, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>52: PHASE BCC_A2 %B 2 1 3 !
+53: CONST BCC_A2 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: BCC_A2, type code %B, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>34: PHASE BCC_A2 %B 2 1 3 !
+35: CONST BCC_A2 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: BCC_A2, type code %B, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>40: PHASE BCC_A2 %B 2 1 3 !
+41: CONST BCC_A2 : FE : B VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: BCC_A2, type code %B, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>39: PHASE BCC_A2 %B 2 1 3 !
+40: CONST BCC_A2 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: BCC_A2, type code %B, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: BCC_A2, type code %B, sha256 <code>724a628400ef810c…</code></p>
+<pre>35: PHASE BCC_A2 %B 2 1 3 !
+36: CONST BCC_A2 : B FE% : VA : !</pre>
+<p>Example references (10 of 16; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2012.08.127">doi:10.1016/j.jallcom.2012.08.127</a> M.-A. Van Ende, I.-H. Jung, Critical thermodynamic evaluation and optimization of the FeeB, FeeNd, BeNd and NdeFeeB systems, J. Alloys Compd. 548 (2013) 133e154.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.20.283">doi:10.1103/physrevb.20.283</a> C. L. Chien, D. Musser, E. M. Gyorgy, R. C. Sherwood, H. S. Chen, F. E. Luborsky et al., Magnetic properties of amorphous&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;B&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;1&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mo&gt;−&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mn&gt;72&lt;/mml:mn&gt;&lt;mml:mn/&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mn&gt;8&lt;/mml:mn&gt;&lt;mml:mn&gt;6&lt;/mml:mn&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:math&gt;and crystalline&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B, Phys. Rev. B 20, 283-295 (1979).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.7.23">doi:10.1103/physrevb.7.23</a> Kenneth A. Murphy, N. Hershkowitz, Temperature-Dependent Hyperfine Interactions in&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B, Phys. Rev. B 7, 23-31 (1973).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf02650132">doi:10.1007/bf02650132</a> T. B. Cameron, J. E. Morral, The solubility of boron in iron, Metall Trans A 17, 1481-1483 (1986).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-c16-m2b">M2B_C16 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:c16-m2b</code>; status <code>assigned</code></li>
+<li>Structure: Al2Cu · C16 · tI12 · I4/mcm (140); type <code>st:c16-al2cu-ti12</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: DFT agrees: on-hull mp-aaaaacvr and oqmd-7798, space group 140</li>
+<li>Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M2B); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: B 0.3333, Fe 0.6667</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 300–1683.9 K, x(B) 0.33333–0.33333</li>
+<li>Literature: 76 values (76 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:c16-m2b">phase registry entry</a></li>
+</ul>
+<p>Names (14): <small>corpus: </small>corpus:phase:b-fe:c16-m2b, corpus:phase:b-fe:m2b-c16<br><small>mp: </small>mp:mp-aaaaacvr<br><small>oqmd: </small>oqmd:oqmd-7798<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:Fe2B, paper:10.1016/j.jallcom.2019.05.341:Fe2Bf, paper:10.1016/s0364-5916(02)00012-3:Fe2B<br><small>tdb: </small>tdb:FeB-01Pal.tdb:M2B_C16, tdb:FeB-02Rom.tdb:M2B_C16, tdb:FeB-08Yos.tdb:M2B_C16, tdb:FeB-19Wit.tdb:M2B_C16, tdb:FeB-20Tak.tdb:M2B_C16, tdb:FeB-91Pan.tdb:M2B_C16, tdb:FeB-94Hal-LB.tdb:M2B_C16<br></p>
+<h3>TDB models of M2B_C16 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: M2B_C16, type code %, sha256 <code>d868b8575842d60b…</code></p>
+<pre>51: PHASE M2B_C16 % 2 2 1 !
+52: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: M2B_C16, type code %A, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>67: PHASE M2B_C16 %A 2 2 1 !
+68: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: M2B_C16, type code %A, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>49: PHASE M2B_C16 %A 2 2 1 !
+50: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: M2B_C16, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>65: PHASE M2B_C16 %A 2 2 1 !
+66: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: M2B_C16, type code %A, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>54: PHASE M2B_C16 %A 2 2 1 !
+55: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: M2B_C16, type code %A, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>50: PHASE M2B_C16 %A 2 0.666667 0.333333 !
+51: CONST M2B_C16 : FE : B : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: M2B_C16, type code %, sha256 <code>724a628400ef810c…</code></p>
+<pre>50: PHASE M2B_C16 % 2 2 1 !
+51: CONST M2B_C16 : FE : B : !</pre>
+<p>Example references (10 of 21; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2012.08.127">doi:10.1016/j.jallcom.2012.08.127</a> M.-A. Van Ende, I.-H. Jung, Critical thermodynamic evaluation and optimization of the FeeB, FeeNd, BeNd and NdeFeeB systems, J. Alloys Compd. 548 (2013) 133e154.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.08.001">doi:10.1016/j.calphad.2013.08.001</a> M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00775428">doi:10.1007/bf00775428</a> K. I. Portnoi, M. Kh. Levinskaya, V. M. Romashov, Constitution diagram of the system iron-boron, Powder Metall Met Ceram 8, 657-659 (1969).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/b208548h">doi:10.1039/b208548h</a> Alexander Zaitsev, Natal&#x27;ya Zaitseva, Alexander Kodentsov, Thermodynamic properties and phase equilibria in the iron–boron system. Transition of the Fe–B melt into the amorphous stateElectronic supplementary information (ESI) available: Fig. S1–S4 and Tables S1 and S2. See http://www.rsc.org/suppdata/jm/b2/b208548h/, J. Mater. Chem. 13, 943-950 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-cementite-d011">CEMENTITE_D011 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:cementite-d011</code>; status <code>assigned</code></li>
+<li>Structure: Fe3C · D0_11 · oP16 · Pnma (62); type <code>st:d0-11-fe3c-op16</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: B 0.2500, Fe 0.7500</li>
+<li>Stability: not stable in 1 calculated diagram(s)</li>
+<li>Literature: 3 values (3 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:cementite-d011">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:b-fe:cementite-d011<br><small>paper: </small>paper:10.1016/s0364-5916(02)00012-3:Fe3B<br><small>tdb: </small>tdb:FeB-01Pal.tdb:CEMENTITE_D011<br></p>
+<h3>TDB models of CEMENTITE_D011 (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: CEMENTITE_D011, type code %, sha256 <code>d868b8575842d60b…</code></p>
+<pre>61: PHASE CEMENTITE_D011 % 2 3 1 !
+62: CONST CEMENTITE_D011 : FE : B : !</pre>
+<p>Example references (1 of 1; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; reports values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-fcc-a1">FCC_A1 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:fcc-a1</code>; status <code>assigned</code></li>
+<li>Structure: Cu · A1 · cF4 · Fm-3m (225); type <code>st:a1-cu-cf4</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 301.08–1802.45 K, x(B) 0–0.00114</li>
+<li>Literature: 54 values (54 accepted) from 2 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:fcc-a1">phase registry entry</a></li>
+</ul>
+<p>Names (10): <small>corpus: </small>corpus:phase:b-fe:fcc-a1<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:A1, paper:10.1016/s0364-5916(02)00012-3:γ<br><small>tdb: </small>tdb:FeB-01Pal.tdb:FCC_A1, tdb:FeB-02Rom.tdb:FCC_A1, tdb:FeB-08Yos.tdb:FCC_A1, tdb:FeB-19Wit.tdb:FCC_A1, tdb:FeB-20Tak.tdb:FCC_A1, tdb:FeB-91Pan.tdb:FCC_A1, tdb:FeB-94Hal-LB.tdb:FCC_A1<br></p>
+<h3>TDB models of FCC_A1 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: FCC_A1, type code %A, sha256 <code>d868b8575842d60b…</code></p>
+<pre>31: PHASE FCC_A1 %A 2 1 1 !
+32: CONST FCC_A1 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: FCC_A1, type code %A, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>47: PHASE FCC_A1 %A 2 1 1 !
+48: CONST FCC_A1 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: FCC_A1, type code %A, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>29: PHASE FCC_A1 %A 2 1 1 !
+30: CONST FCC_A1 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: FCC_A1, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>35: PHASE FCC_A1 %A 2 1 1 !
+36: CONST FCC_A1 : FE : B VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: FCC_A1, type code %A, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>34: PHASE FCC_A1 %A 2 1 1 !
+35: CONST FCC_A1 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: FCC_A1, type code %A, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: FCC_A1, type code %A, sha256 <code>724a628400ef810c…</code></p>
+<pre>30: PHASE FCC_A1 %A 2 1 1 !
+31: CONST FCC_A1 : B FE% : VA : !</pre>
+<p>Example references (10 of 13; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2012.08.127">doi:10.1016/j.jallcom.2012.08.127</a> M.-A. Van Ende, I.-H. Jung, Critical thermodynamic evaluation and optimization of the FeeB, FeeNd, BeNd and NdeFeeB systems, J. Alloys Compd. 548 (2013) 133e154.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.08.001">doi:10.1016/j.calphad.2013.08.001</a> M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(96)02570-4">doi:10.1016/s0925-8388(96)02570-4</a> Livio Battezzati, Carlo Antonione, Marcello Baricco, Undercooling of Ni-B and Fe-B alloys and their metastable phase diagrams, Journal of Alloys and Compounds 247, 164-171 (1997).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1039/b208548h">doi:10.1039/b208548h</a> Alexander Zaitsev, Natal&#x27;ya Zaitseva, Alexander Kodentsov, Thermodynamic properties and phase equilibria in the iron–boron system. Transition of the Fe–B melt into the amorphous stateElectronic supplementary information (ESI) available: Fig. S1–S4 and Tables S1 and S2. See http://www.rsc.org/suppdata/jm/b2/b208548h/, J. Mater. Chem. 13, 943-950 (2003).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-fe3b">FE3B_HT (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:fe3b</code>; status <code>assigned</code></li>
+<li>Structure: Ti3P · tP32 · P4_2/n (86); type <code>st:ti3p-tp32</code>; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated</li>
+<li>Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) <a href="https://doi.org/10.1016/j.calphad.2025.102833">doi:10.1016/j.calphad.2025.102833</a></li>
+<li>Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system</li>
+<li>Stoichiometry: B 0.2500, Fe 0.7500</li>
+<li>Stability: not stable in 1 calculated diagram(s)</li>
+<li>Literature: 15 values (15 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:fe3b">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:b-fe:fe3b<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:tp-Fe3B<br><small>tdb: </small>tdb:FeB-19Wit.tdb:FE3B_HT<br></p>
+<h3>TDB models of FE3B_HT (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: FE3B_HT, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>60: PHASE FE3B_HT %A 2 3 1 !
+61: CONST FE3B_HT : FE : B : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.08.001">doi:10.1016/j.calphad.2013.08.001</a> M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0364-5916(02)00012-3">doi:10.1016/s0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Thermodynamic analysis of glass formation in Fe-B system, Calphad 25, 625-637 (2001).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11664-015-4112-y">doi:10.1007/s11664-015-4112-y</a> G. J. Zhou, Y. Luo, Y. Zhou, Thermodynamic Reassessment of the Nd-Fe-B Ternary System, Journal of Elec Materi 45, 418-425 (2016).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(96)02570-4">doi:10.1016/s0925-8388(96)02570-4</a> Livio Battezzati, Carlo Antonione, Marcello Baricco, Undercooling of Ni-B and Fe-B alloys and their metastable phase diagrams, Journal of Alloys and Compounds 247, 164-171 (1997).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-fe3b-d0e">FE3B_D0E (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:fe3b-d0e</code>; status <code>assigned</code></li>
+<li>Structure: Ni3P · D0_e · tI32 · I-4 (82); type <code>st:d0-e-ni3p-ti32</code>; tier A: standard phase name; confidence high</li>
+<li>Stoichiometry: B 0.2500, Fe 0.7500</li>
+<li>Stability: not stable in 1 calculated diagram(s)</li>
+<li>Literature: 12 values (12 accepted) from 1 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:fe3b-d0e">phase registry entry</a></li>
+</ul>
+<p>Names (3): <small>corpus: </small>corpus:phase:b-fe:fe3b-d0e<br><small>paper: </small>paper:10.1016/j.jallcom.2019.05.341:bct-Fe3B<br><small>tdb: </small>tdb:FeB-19Wit.tdb:FE3B_D0E<br></p>
+<h3>TDB models of FE3B_D0E (1): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: FE3B_D0E, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>55: PHASE FE3B_D0E %A 2 3 1 !
+56: CONST FE3B_D0E : FE : B : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0022-4596(84)90340-2">doi:10.1016/0022-4596(84)90340-2</a> D. Fruchart, P. Chaudouet, R. Fruchart, A. Rouault, J.P. Senateur, Etudes structurales de compose´s de type ce´mentite: Effet de l&#x27;hydroge`ne sur Fe3C suivi par diffraction neutronique. Spectrome´trie Mo¨ssbauer sur FeCo2B et Co3B dope´s au57Fe, Journal of Solid State Chemistry 51, 246-252 (1984).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/0304-8853(89)90333-8">doi:10.1016/0304-8853(89)90333-8</a> R. Coehoorn, D.B. de Mooij, C. de Waard, Meltspun permanent magnet materials containing Fe3B as the main phase, Journal of Magnetism and Magnetic Materials 80, 101-104 (1989).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.20.283">doi:10.1103/physrevb.20.283</a> C. L. Chien, D. Musser, E. M. Gyorgy, R. C. Sherwood, H. S. Chen, F. E. Luborsky et al., Magnetic properties of amorphous&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;B&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;1&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mn&gt;0&lt;/mml:mn&gt;&lt;mml:mo&gt;−&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mn&gt;72&lt;/mml:mn&gt;&lt;mml:mn/&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;mml:mo&gt;&amp;lt;~&lt;/mml:mo&gt;&lt;mml:mn&gt;8&lt;/mml:mn&gt;&lt;mml:mn&gt;6&lt;/mml:mn&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:math&gt;and crystalline&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant=&quot;normal&quot;&gt;Fe&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B, Phys. Rev. B 20, 283-295 (1979).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1103/physrevb.56.3153">doi:10.1103/physrevb.56.3153</a> Yong Kong, Fashen Li, Cohesive energy, local magnetic properties, and Curie temperature of Fe&lt;mml:math xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;inline&quot;&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;B studied using the self-consistent LMTO method, Phys. Rev. B 56, 3153-3158 (1997).<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-hcp-a3">HCP_A3 (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:hcp-a3</code>; status <code>assigned</code></li>
+<li>Structure: Mg · A3 · hP2 · P6_3/mmc (194); type <code>st:a3-mg-hp2</code>; tier A: standard phase name; confidence high</li>
+<li>Stability: not stable in 7 calculated diagram(s)</li>
+<li>Literature: 0 values (0 accepted) from 0 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:hcp-a3">phase registry entry</a></li>
+</ul>
+<p>Names (8): <small>corpus: </small>corpus:phase:b-fe:hcp-a3<br><small>tdb: </small>tdb:FeB-01Pal.tdb:HCP_A3, tdb:FeB-02Rom.tdb:HCP_A3, tdb:FeB-08Yos.tdb:HCP_A3, tdb:FeB-19Wit.tdb:HCP_A3, tdb:FeB-20Tak.tdb:HCP_A3, tdb:FeB-91Pan.tdb:HCP_A3, tdb:FeB-94Hal-LB.tdb:HCP_A3<br></p>
+<h3>TDB models of HCP_A3 (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: HCP_A3, type code %A, sha256 <code>d868b8575842d60b…</code></p>
+<pre>41: PHASE HCP_A3 %A 2 1 0.5 !
+42: CONST HCP_A3 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: HCP_A3, type code %A, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>57: PHASE HCP_A3 %A 2 1 0.5 !
+58: CONST HCP_A3 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: HCP_A3, type code %A, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>39: PHASE HCP_A3 %A 2 1 0.5 !
+40: CONST HCP_A3 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: HCP_A3, type code %A, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>45: PHASE HCP_A3 %A 2 1 0.5 !
+46: CONST HCP_A3 : FE : B VA% : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: HCP_A3, type code %A, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>44: PHASE HCP_A3 %A 2 1 0.5 !
+45: CONST HCP_A3 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: HCP_A3, type code %A, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : B FE% : VA : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: HCP_A3, type code %A, sha256 <code>724a628400ef810c…</code></p>
+<pre>40: PHASE HCP_A3 %A 2 1 0.5 !
+41: CONST HCP_A3 : B FE% : VA : !</pre>
+<p>Example references (5 of 5; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+</ul>
+<h2 id="phase-b-fe-liquid">LIQUID (B–Fe)</h2>
+<ul>
+<li>Id: <code>phase:b-fe:liquid</code>; status <code>assigned</code></li>
+<li>Structure: liquid; type <code>st:liquid</code>; liquid; confidence high</li>
+<li>Stability: stable in 7 of 7 calculated diagram(s): 1430.82–4000 K, x(B) 0–1</li>
+<li>Literature: 123 values (121 accepted) from 4 papers</li>
+<li>Interactive: <a href="https://orchid-project.org/phases/#phase:b-fe:liquid">phase registry entry</a></li>
+</ul>
+<p>Names (13): <small>corpus: </small>corpus:phase:b-fe:liquid<br><small>paper: </small>paper:10.1007/s11664-015-4112-y:liquid, paper:10.1016/j.jallcom.2019.05.341:L, paper:10.1016/s0364-5916(02)00012-3:L, paper:10.1016/s0364-5916(02)00012-3:liquid, paper:10.1016/s0925-8388(01)01777-7:L<br><small>tdb: </small>tdb:FeB-01Pal.tdb:LIQUID, tdb:FeB-02Rom.tdb:LIQUID, tdb:FeB-08Yos.tdb:LIQUID, tdb:FeB-19Wit.tdb:LIQUID, tdb:FeB-20Tak.tdb:LIQUID, tdb:FeB-91Pan.tdb:LIQUID, tdb:FeB-94Hal-LB.tdb:LIQUID<br></p>
+<h3>TDB models of LIQUID (7): PHASE and CONSTITUENT statements as written</h3>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-01Pal.tdb">FeB-01Pal.tdb</a>: LIQUID, type code %, sha256 <code>d868b8575842d60b…</code></p>
+<pre>26: PHASE LIQUID:L % 1 1 !
+27: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-02Rom.tdb">FeB-02Rom.tdb</a>: LIQUID, type code %, sha256 <code>76003da4f9d7a948…</code></p>
+<pre>42: PHASE LIQUID:L % 1 1 !
+43: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-08Yos.tdb">FeB-08Yos.tdb</a>: LIQUID, type code %, sha256 <code>bca7bc67b25d3e8b…</code></p>
+<pre>24: PHASE LIQUID:L % 1 1 !
+25: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-19Wit.tdb">FeB-19Wit.tdb</a>: LIQUID, type code %, sha256 <code>a20e39e4c8231b9e…</code></p>
+<pre>30: PHASE LIQUID:L % 1 1 !
+31: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-20Tak.tdb">FeB-20Tak.tdb</a>: LIQUID, type code %, sha256 <code>17fba6129d08f63e…</code></p>
+<pre>29: PHASE LIQUID:L % 1 1 !
+30: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-91Pan.tdb">FeB-91Pan.tdb</a>: LIQUID, type code %, sha256 <code>9f52784aa22c8ff3…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : B FE : !</pre>
+<p><a href="https://orchid-project.org/data/databases/sgte-binary/FeB-94Hal-LB.tdb">FeB-94Hal-LB.tdb</a>: LIQUID, type code %, sha256 <code>724a628400ef810c…</code></p>
+<pre>25: PHASE LIQUID:L % 1 1 !
+26: CONST LIQUID:L : B FE : !</pre>
+<p>Example references (10 of 13; assessments first): </p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jallcom.2019.05.341">doi:10.1016/j.jallcom.2019.05.341</a> V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).<br><small>assessment that models this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/S0364-5916(02)00012-3">doi:10.1016/S0364-5916(02)00012-3</a> M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).<br><small>assessment that models this phase; cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1515/ijmr-1994-851002">doi:10.1515/ijmr-1994-851002</a> B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.<br><small>assessment that models this phase; cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.2355/isijinternational.48.835">doi:10.2355/isijinternational.48.835</a> K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.2355/tetsutohagane.TETSU-2019-097">doi:10.2355/tetsutohagane.TETSU-2019-097</a> K. Takahashi, K. Ishikawa, M. Fujioka, M. Enoki, H. Ohtani, Tetsu-to-Hagane, 106, 310-20(2020).<br><small>assessment that models this phase</small></li>
+<li><a href="https://doi.org/10.1007/s11664-015-4112-y">doi:10.1007/s11664-015-4112-y</a> G. J. Zhou, Y. Luo, Y. Zhou, Thermodynamic Reassessment of the Nd-Fe-B Ternary System, Journal of Elec Materi 45, 418-425 (2016).<br><small>cited as the source of values for this phase; reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/s0925-8388(01)01777-7">doi:10.1016/s0925-8388(01)01777-7</a> T Van Rompaey, K.C Hari Kumar, P Wollants, Thermodynamic optimization of the B–Fe system, Journal of Alloys and Compounds 334, 173-181 (2002).<br><small>reports values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.jallcom.2012.08.127">doi:10.1016/j.jallcom.2012.08.127</a> M.-A. Van Ende, I.-H. Jung, Critical thermodynamic evaluation and optimization of the FeeB, FeeNd, BeNd and NdeFeeB systems, J. Alloys Compd. 548 (2013) 133e154.<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1007/bf00652720">doi:10.1007/bf00652720</a> L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).<br><small>cited as the source of values for this phase</small></li>
+<li><a href="https://doi.org/10.1016/j.calphad.2013.08.001">doi:10.1016/j.calphad.2013.08.001</a> M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of<br><small>cited as the source of values for this phase</small></li>
+</ul>
+<aside class="cite" id="cite" aria-labelledby="cite-h">
+<h2 id="cite-h">Please cite</h2>
+<ul>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-phase-registry">doi:10.5281/zenodo.PENDING-phase-registry</a></li>
+<li>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). <a href="https://doi.org/10.5281/zenodo.PENDING-orchid-data">doi:10.5281/zenodo.PENDING-orchid-data</a></li>
+</ul>
+<p><small>Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</small></p>
+<pre>@misc{orchid_phase_registry_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID phase registry (binary systems)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-registry},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}</pre>
+</aside>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite the ORCHID phase registry and the sources named on the page (TDB assessments, Hallstedt 2025, Materials Project, OQMD). TDB statements are quoted as written; parameter expressions are not reproduced. Field reference: <a href="../SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="../../llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

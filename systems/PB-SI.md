@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PB-SI.html · Markdown: https://da
 
 11 accepted literature values from 1 paper(s) (experimental 7, model 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SI.json) · [CSV](https://data.orchid-project.org/systems/PB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SI/PbSi-84Ole-LB.json) · [Markdown](https://data.orchid-project.org/systems/PB-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SI.json) · [CSV](https://data.orchid-project.org/systems/PB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SI/PbSi-84Ole-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/PB-SI.html) · [Markdown](https://data.orchid-project.org/systems/PB-SI.md)
 
 Table: Accepted values by evidence class
 

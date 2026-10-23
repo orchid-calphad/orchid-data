@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LU-SB.html · Markdown: https://da
 
 38 accepted literature values from 1 paper(s) (experimental 19, model 19); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LU-SB.json) · [CSV](https://data.orchid-project.org/systems/LU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LU-SB/LuSb-11Wan.json) · [Markdown](https://data.orchid-project.org/systems/LU-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LU-SB.json) · [CSV](https://data.orchid-project.org/systems/LU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LU-SB/LuSb-11Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LU-SB.html) · [Markdown](https://data.orchid-project.org/systems/LU-SB.md)
 
 Table: Accepted values by evidence class
 

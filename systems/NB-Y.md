@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-Y.html · Markdown: https://dat
 
 3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-Y.json) · [CSV](https://data.orchid-project.org/systems/NB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-Y/NbY-08Mat.json) · [Markdown](https://data.orchid-project.org/systems/NB-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-Y.json) · [CSV](https://data.orchid-project.org/systems/NB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-Y/NbY-08Mat.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NB-Y.html) · [Markdown](https://data.orchid-project.org/systems/NB-Y.md)
 
 Table: Accepted values by evidence class
 

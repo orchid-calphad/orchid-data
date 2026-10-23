@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-CR.html · Markdown: https://dat
 
 132 accepted literature values from 5 paper(s) (experimental 84, model 48); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-CR.json) · [CSV](https://data.orchid-project.org/systems/C-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CR) · [Markdown](https://data.orchid-project.org/systems/C-CR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-CR.json) · [CSV](https://data.orchid-project.org/systems/C-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CR) · [phases (9)](https://data.orchid-project.org/phases/pages/C-CR.html) · [Markdown](https://data.orchid-project.org/systems/C-CR.md)
 
 Table: Accepted values by evidence class
 

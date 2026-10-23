@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-NI.html · Markdown: https://da
 
 15 accepted literature values from 1 paper(s) (experimental 6, model 9); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-NI.json) · [CSV](https://data.orchid-project.org/systems/CA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-NI/CaNi-05Isl.json) · [Markdown](https://data.orchid-project.org/systems/CA-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-NI.json) · [CSV](https://data.orchid-project.org/systems/CA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-NI/CaNi-05Isl.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CA-NI.html) · [Markdown](https://data.orchid-project.org/systems/CA-NI.md)
 
 Table: Accepted values by evidence class
 

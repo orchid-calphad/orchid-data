@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-GA.html · Markdown: https://da
 
 53 accepted literature values from 1 paper(s) (experimental 26, model 27); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GA.json) · [CSV](https://data.orchid-project.org/systems/CR-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GA/CrGa-05Bel.json) · [Markdown](https://data.orchid-project.org/systems/CR-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GA.json) · [CSV](https://data.orchid-project.org/systems/CR-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GA/CrGa-05Bel.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-GA.html) · [Markdown](https://data.orchid-project.org/systems/CR-GA.md)
 
 Table: Accepted values by evidence class
 

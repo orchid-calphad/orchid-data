@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LI-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-V/LiV-15Hu.json) · [Markdown](https://data.orchid-project.org/systems/LI-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-V/LiV-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/LI-V.html) · [Markdown](https://data.orchid-project.org/systems/LI-V.md)
 
 ## Calculated phase diagrams
 

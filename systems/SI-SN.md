@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-SN.html · Markdown: https://da
 
 4 accepted literature values from 3 paper(s) (experimental 2, model 2); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SN.json) · [CSV](https://data.orchid-project.org/systems/SI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SN/SiSn-07Men.json) · [Markdown](https://data.orchid-project.org/systems/SI-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SN.json) · [CSV](https://data.orchid-project.org/systems/SI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SN/SiSn-07Men.json) · [phases (6)](https://data.orchid-project.org/phases/pages/SI-SN.html) · [Markdown](https://data.orchid-project.org/systems/SI-SN.md)
 
 Table: Accepted values by evidence class
 

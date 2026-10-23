@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SR-TI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SR-TI/SrTi-11Pen.json) · [Markdown](https://data.orchid-project.org/systems/SR-TI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SR-TI/SrTi-11Pen.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SR-TI.html) · [Markdown](https://data.orchid-project.org/systems/SR-TI.md)
 
 ## Calculated phase diagrams
 
