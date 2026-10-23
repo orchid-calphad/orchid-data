@@ -12,31 +12,34 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 
 | | papers | with DOI |
 |---|---:|---:|
-| all | 9560 | 7825 |
-| `corpus_assessment_read` | 1422 | 1412 |
-| `cited_original_source` | 3572 | 3015 |
-| `tdb_source_assessment` | 1883 | 1688 |
+| all | 9569 | 7813 |
+| `corpus_assessment_read` | 1426 | 1411 |
+| `cited_original_source` | 3576 | 3013 |
+| `tdb_source_assessment` | 1888 | 1688 |
 | `tdb_compilation` | 1 | 1 |
-| `handbook_diagram_source` | 2283 | 1300 |
+| `handbook_diagram_source` | 2283 | 1290 |
 | `discovery_lead` | 2806 | 2806 |
 | `context_source` | 0 | 0 |
 | `espei_reference` | 1 | 1 |
 
-Papers without a DOI: 1735 (ids derived from first author, year and title, flagged `no_doi`).
-Crossref records: 7796 found, 29 DOIs unknown to Crossref (404),
+Papers without a DOI: 1756 (ids derived from first author, year and title, flagged `no_doi`).
+Crossref records: 7784 found, 29 DOIs unknown to Crossref (404),
 0 not fetched; retrieved 2026-10-23 to 2026-10-23.
-DOI consistency check against the printed reference: 3045 consistent,
-21 mismatch suspects (flagged, not removed).
-Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4125.
+DOIs matched from a printed reference, checked against Crossref (first author, year +-1, title, journal):
+5385 verified, 104 weak (kept, flagged),
+23 unverifiable (no Crossref record); 19 mismatched
+DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
+printed reference (`DOI_MISMATCHES.md`).
+Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
 
 | edge type | edges |
 |---|---:|
-| `cites` | 3784 |
-| `used_in_assessment` | 3784 |
+| `cites` | 3793 |
+| `used_in_assessment` | 3793 |
 | `models_system_in_tdb` | 3760 |
-| `reassesses` | 1538 |
+| `reassesses` | 1537 |
 | `handbook_reproduces` | 2466 |
-| `cited_by_crossref` | 44907 |
+| `cited_by_crossref` | 44888 |
 
 ## Files
 
@@ -75,7 +78,8 @@ One record: `https://data.orchid-project.org/bibliography/papers/<key>.json` wit
 ## What is and is not here
 
 - Bibliographic metadata only (no abstracts, no full text, no PDFs, no local paths). Crossref metadata is used as
-  deposited; `doi_check` flags DOIs whose Crossref record disagrees with the reference ORCHID's source printed.
+  deposited. A DOI that an upstream matcher found for a printed reference is kept only when its Crossref record agrees
+  with the printed reference (`doi_match`: verified or weak); mismatches are dropped and listed in `DOI_MISMATCHES.md`.
 - Roles and evidence counts are derived from the ORCHID release files (literature values, ESPEI bundle, phase
   registry, assessed phase assemblages) and from the SGTE-corpus link tables; see `provenance` in each record.
 - Edges are never inferred: `cites` / `used_in_assessment` come from the citation printed for each value ORCHID

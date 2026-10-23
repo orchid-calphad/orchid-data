@@ -4,10 +4,10 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 1641 | 5435 | 246 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 754 | 2304 | 126 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| experimental | 1679 | 5549 | 246 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| model | 758 | 2310 | 126 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
 | invariants | 2143 | 7888 | 537 | ZPF datasets from experimental invariant-reaction tables |
-| dft/literature | 473 | 1080 | 48 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
+| dft/literature | 479 | 1092 | 49 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1290 | 1290 | 399 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
 | dft/oqmd | 1290 | 1290 | 399 | OQMD on-hull formation energies, HM_FORM endmember datasets |
 
@@ -65,7 +65,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 ## Caveats
 
 - **Machine-extracted (Version 1).** Literature values were read by language-model readers and accepted on reader agreement plus deterministic checks; a hand-checked precision sample is in progress. Check a value against its paper (DOI) before relying on it.
-- **Single reader.** Values read by one visual reader carry `reader_agreement: single_reader` in `orchid.observations` and the tag `single_reader`. Reader agreement is taken from the record store (the published literature release predates the field).
+- **Single reader.** Values read by one visual reader carry `reader_agreement: single_reader` in `orchid.observations` and the tag `single_reader`. Reader agreement is taken from the literature release.
 - **Weights are your choice.** The weights written follow the rules above; tags and `orchid_uncertainty` let you set your own.
 - **DFT.** 0 K energies used as 298.15 K enthalpies; one DFT source per fit; a value is written only where the compound maps to exactly one TDB phase (phase registry: DFT entry id or paper label) and exactly one endmember of that TDB model at the compound's composition (one dataset per system, TDB file and phase; `solver` site ratios and configurations as in the TDB). Excluded compounds are listed in validation.json with reasons. ESPEI 0.9.1 evaluates HM_FORM against each element's SER phase named on the TDB's ELEMENT line, which must exist as a phase in the TDB; in some binary TDB files it does not (e.g. GRAPHITE, ORTHORHOMBIC_GA, 1/2_MOLE_O2(G)), and ESPEI then stops with a KeyError: add the element phase to your working TDB or fit those datasets with another.
 - **Energy basis.** ESPEI reads energies per mole of atoms. Literature values whose per-atom basis was not printed carry the caveat `energy_basis_unstated`.

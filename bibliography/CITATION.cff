@@ -20,7 +20,7 @@ doi: "10.5281/zenodo.PENDING-bibliography"
 license: CC-BY-4.0
 url: "https://data.orchid-project.org/bibliography/"
 repository-code: "https://github.com/orchid-calphad/orchid-data"
-abstract: "Every paper the ORCHID CALPHAD data project knows about (9560 works, 7825 with DOI): Crossref bibliographic metadata (CC0), the role each paper plays in ORCHID (read, cited original source, assessment behind a TDB file, original evaluation behind an assessed diagram, discovery lead), counts of the evidence ORCHID released from it, and 60239 typed relations with provenance (citations of values, TDB files, reassessments, handbook diagrams, Crossref reference lists). Version 1, machine-extracted."
+abstract: "Every paper the ORCHID CALPHAD data project knows about (9569 works, 7813 with DOI): Crossref bibliographic metadata (CC0), the role each paper plays in ORCHID (read, cited original source, assessment behind a TDB file, original evaluation behind an assessed diagram, discovery lead), counts of the evidence ORCHID released from it, and 60237 typed relations with provenance (citations of values, TDB files, reassessments, handbook diagrams, Crossref reference lists). Version 1, machine-extracted."
 identifiers:
   - type: doi
     value: "10.5281/zenodo.PENDING-orchid-data"

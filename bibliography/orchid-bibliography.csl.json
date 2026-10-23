@@ -1,29 +1,5 @@
 [
  {
-  "id": "doi:10.1001/jama.1964.03060380116096",
-  "type": "article-journal",
-  "DOI": "10.1001/jama.1964.03060380116096",
-  "URL": "https://doi.org/10.1001/jama.1964.03060380116096",
-  "title": "Toko-Ginecologia Practica, Madrid",
-  "container-title": "JAMA",
-  "container-title-short": "JAMA",
-  "volume": "188",
-  "issue": "12",
-  "page": "182",
-  "publisher": "American Medical Association (AMA)",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1964,
-     6,
-     22
-    ]
-   ]
-  },
-  "ISSN": "0098-7484"
- },
- {
   "id": "doi:10.1002/(sici)1521-3749(199912)625:12<2050::aid-zaac2050>3.0.co;2-r",
   "type": "article-journal",
   "DOI": "10.1002/(sici)1521-3749(199912)625:12<2050::aid-zaac2050>3.0.co;2-r",
@@ -12879,6 +12855,43 @@
   "ISSN": "0026-9247"
  },
  {
+  "id": "doi:10.1007/bf00901624",
+  "type": "article-journal",
+  "DOI": "10.1007/bf00901624",
+  "URL": "https://doi.org/10.1007/bf00901624",
+  "author": [
+   {
+    "family": "Nowotny",
+    "given": "H."
+   },
+   {
+    "family": "Dimakopoulou",
+    "given": "E."
+   },
+   {
+    "family": "Kudielka",
+    "given": "H."
+   }
+  ],
+  "title": "Untersuchungen in den Dreistoffsystemen: Molybdän-Silizium-Bor, Wolfram-Silizium-Bor und in dem System: VSi2−TaSi2",
+  "container-title": "Monatshefte für Chemie",
+  "container-title-short": "Monatsh Chem",
+  "volume": "88",
+  "issue": "2",
+  "page": "180-192",
+  "publisher": "Springer Science and Business Media LLC",
+  "language": "de",
+  "issued": {
+   "date-parts": [
+    [
+     1957,
+     3
+    ]
+   ]
+  },
+  "ISSN": "0343-7329"
+ },
+ {
   "id": "doi:10.1007/bf00901700",
   "type": "article-journal",
   "DOI": "10.1007/bf00901700",
@@ -14179,72 +14192,6 @@
    ]
   },
   "ISSN": "0022-2461"
- },
- {
-  "id": "doi:10.1007/bf02418464",
-  "type": "article-journal",
-  "DOI": "10.1007/bf02418464",
-  "URL": "https://doi.org/10.1007/bf02418464",
-  "author": [
-   {
-    "family": "Kolesov",
-    "given": "Yu. B."
-   }
-  ],
-  "title": "Die forging of bottoms with controllable corrugation and coning",
-  "container-title": "Chemical and Petroleum Engineering",
-  "container-title-short": "Chem Petrol Eng",
-  "volume": "34",
-  "issue": "3",
-  "page": "220-221",
-  "publisher": "Springer Science and Business Media LLC",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1998,
-     3
-    ]
-   ]
-  },
-  "ISSN": "0009-2355"
- },
- {
-  "id": "doi:10.1007/bf02593031",
-  "type": "article-journal",
-  "DOI": "10.1007/bf02593031",
-  "URL": "https://doi.org/10.1007/bf02593031",
-  "author": [
-   {
-    "family": "Gaskill",
-    "given": "James R."
-   },
-   {
-    "family": "Magee",
-    "given": "Michael W."
-   },
-   {
-    "family": "Purington",
-    "given": "Robert G."
-   }
-  ],
-  "title": "Technical notes",
-  "container-title": "Fire Technology",
-  "container-title-short": "Fire Technol",
-  "volume": "11",
-  "issue": "4",
-  "page": "306-307",
-  "publisher": "Springer Science and Business Media LLC",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1975,
-     11
-    ]
-   ]
-  },
-  "ISSN": "0015-2684"
  },
  {
   "id": "doi:10.1007/bf02595450",
@@ -86749,39 +86696,6 @@
   "ISSN": "0008-6223"
  },
  {
-  "id": "doi:10.1016/0011-7471(70)90036-7",
-  "type": "article-journal",
-  "DOI": "10.1016/0011-7471(70)90036-7",
-  "URL": "https://doi.org/10.1016/0011-7471(70)90036-7",
-  "author": [
-   {
-    "family": "Caldwell",
-    "given": "Douglas R."
-   },
-   {
-    "family": "Tucker",
-    "given": "Brian E."
-   }
-  ],
-  "title": "Determination of thermal expansion of sea-water by observing onset of convection",
-  "container-title": "Deep Sea Research and Oceanographic Abstracts",
-  "container-title-short": "Deep Sea Research and Oceanographic Abstracts",
-  "volume": "17",
-  "issue": "4",
-  "page": "707-719",
-  "publisher": "Elsevier BV",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1970,
-     8
-    ]
-   ]
-  },
-  "ISSN": "0011-7471"
- },
- {
   "id": "doi:10.1016/0013-4686(66)85009-0",
   "type": "article-journal",
   "DOI": "10.1016/0013-4686(66)85009-0",
@@ -86846,43 +86760,6 @@
    ]
   },
   "ISSN": "0013-4686"
- },
- {
-  "id": "doi:10.1016/0016-7037(78)90267-3",
-  "type": "article-journal",
-  "DOI": "10.1016/0016-7037(78)90267-3",
-  "URL": "https://doi.org/10.1016/0016-7037(78)90267-3",
-  "author": [
-   {
-    "family": "Charlu",
-    "given": "T.V."
-   },
-   {
-    "family": "Newton",
-    "given": "R.C."
-   },
-   {
-    "family": "Kleppa",
-    "given": "O.J."
-   }
-  ],
-  "title": "Enthalpy of formation of some lime silicates by high-temperature solution calorimetry, with discussion of high pressure phase equilibria",
-  "container-title": "Geochimica et Cosmochimica Acta",
-  "container-title-short": "Geochimica et Cosmochimica Acta",
-  "volume": "42",
-  "issue": "4",
-  "page": "367-375",
-  "publisher": "Elsevier BV",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1978,
-     4
-    ]
-   ]
-  },
-  "ISSN": "0016-7037"
  },
  {
   "id": "doi:10.1016/0016-7037(87)90009-3",
@@ -102847,6 +102724,38 @@
   "ISSN": "0022-5088"
  },
  {
+  "id": "doi:10.1016/0022-5088(90)90170-o",
+  "type": "article-journal",
+  "DOI": "10.1016/0022-5088(90)90170-o",
+  "URL": "https://doi.org/10.1016/0022-5088(90)90170-o",
+  "author": [
+   {
+    "family": "Bolmgren",
+    "given": "H."
+   },
+   {
+    "family": "Lundström",
+    "given": "T."
+   }
+  ],
+  "title": "A new binary boride, Nb5B6",
+  "container-title": "Journal of the Less Common Metals",
+  "container-title-short": "Journal of the Less Common Metals",
+  "volume": "159",
+  "page": "L25-L27",
+  "publisher": "Elsevier BV",
+  "language": "en",
+  "issued": {
+   "date-parts": [
+    [
+     1990,
+     4
+    ]
+   ]
+  },
+  "ISSN": "0022-5088"
+ },
+ {
   "id": "doi:10.1016/0022-5088(90)90186-n",
   "type": "article-journal",
   "DOI": "10.1016/0022-5088(90)90186-n",
@@ -110972,29 +110881,6 @@
     [
      1995,
      9
-    ]
-   ]
-  },
-  "ISSN": "0364-5916"
- },
- {
-  "id": "doi:10.1016/0364-5916(96)00003-x",
-  "type": "article-journal",
-  "DOI": "10.1016/0364-5916(96)00003-x",
-  "URL": "https://doi.org/10.1016/0364-5916(96)00003-x",
-  "title": "Workshop on thermodynamic models and data for pure elements and other endmembers of solutions",
-  "container-title": "Calphad",
-  "container-title-short": "Calphad",
-  "volume": "19",
-  "issue": "4",
-  "page": "449-480",
-  "publisher": "Elsevier BV",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1995,
-     12
     ]
    ]
   },
@@ -200212,29 +200098,6 @@
   "ISSN": "0042-207X"
  },
  {
-  "id": "doi:10.1016/s0013-4686(97)90035-9",
-  "type": "article-journal",
-  "DOI": "10.1016/s0013-4686(97)90035-9",
-  "URL": "https://doi.org/10.1016/s0013-4686(97)90035-9",
-  "title": "Electrochemical calendar",
-  "container-title": "Electrochimica Acta",
-  "container-title-short": "Electrochimica Acta",
-  "volume": "42",
-  "issue": "2",
-  "page": "341-344",
-  "publisher": "Elsevier BV",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1997,
-     1
-    ]
-   ]
-  },
-  "ISSN": "0013-4686"
- },
- {
   "id": "doi:10.1016/s0016-7037(97)00209-3",
   "type": "article-journal",
   "DOI": "10.1016/s0016-7037(97)00209-3",
@@ -218170,39 +218033,6 @@
   "ISSN": "0022-3654"
  },
  {
-  "id": "doi:10.1021/j150552a016",
-  "type": "article-journal",
-  "DOI": "10.1021/j150552a016",
-  "URL": "https://doi.org/10.1021/j150552a016",
-  "author": [
-   {
-    "family": "Coughlin",
-    "given": "J. P."
-   },
-   {
-    "family": "O'Brien",
-    "given": "C. J."
-   }
-  ],
-  "title": "High Temperature Heat Contents of Calcium Orthosilicate",
-  "container-title": "The Journal of Physical Chemistry",
-  "container-title-short": "J. Phys. Chem.",
-  "volume": "61",
-  "issue": "6",
-  "page": "767-769",
-  "publisher": "American Chemical Society (ACS)",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1957,
-     6
-    ]
-   ]
-  },
-  "ISSN": "0022-3654"
- },
- {
   "id": "doi:10.1021/j150556a034",
   "type": "article-journal",
   "DOI": "10.1021/j150556a034",
@@ -218602,6 +218432,35 @@
     [
      1977,
      11
+    ]
+   ]
+  },
+  "ISSN": "0002-7863"
+ },
+ {
+  "id": "doi:10.1021/ja01084a052",
+  "type": "article-journal",
+  "DOI": "10.1021/ja01084a052",
+  "URL": "https://doi.org/10.1021/ja01084a052",
+  "author": [
+   {
+    "family": "Sands",
+    "given": "Donald E."
+   }
+  ],
+  "title": "The Crystal Structure of Monoclinic (β) Sulfur",
+  "container-title": "Journal of the American Chemical Society",
+  "container-title-short": "J. Am. Chem. Soc.",
+  "volume": "87",
+  "issue": "6",
+  "page": "1395-1396",
+  "publisher": "American Chemical Society (ACS)",
+  "language": "en",
+  "issued": {
+   "date-parts": [
+    [
+     1965,
+     3
     ]
    ]
   },
@@ -219237,39 +219096,6 @@
     [
      1948,
      5
-    ]
-   ]
-  },
-  "ISSN": "0002-7863"
- },
- {
-  "id": "doi:10.1021/ja01186a048",
-  "type": "article-journal",
-  "DOI": "10.1021/ja01186a048",
-  "URL": "https://doi.org/10.1021/ja01186a048",
-  "author": [
-   {
-    "family": "Torgeson",
-    "given": "D. R."
-   },
-   {
-    "family": "Sahama",
-    "given": "Th. G."
-   }
-  ],
-  "title": "A Hydrofluoric Acid Solution Calorimeter and the Determination of the Heats of Formation of Mg<sub>2</sub>SiO<sub>4</sub>, MgSiO<sub>3</sub>, and CaSiO<sub>3</sub><sup>1</sup>",
-  "container-title": "Journal of the American Chemical Society",
-  "container-title-short": "J. Am. Chem. Soc.",
-  "volume": "70",
-  "issue": "6",
-  "page": "2156-2160",
-  "publisher": "American Chemical Society (ACS)",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1948,
-     6
     ]
    ]
   },
@@ -221867,33 +221693,6 @@
    ]
   },
   "ISSN": "0371-0459"
- },
- {
-  "id": "doi:10.1037/013887",
-  "type": "article-journal",
-  "DOI": "10.1037/013887",
-  "URL": "https://doi.org/10.1037/013887",
-  "author": [
-   {
-    "family": "ELKIND",
-    "given": "DAVID"
-   }
-  ],
-  "title": "Review of Cybernetique et Epistemologie (Cybernetics and Epistemology).",
-  "container-title": "Contemporary Psychology: A Journal of Reviews",
-  "volume": "15",
-  "issue": "9",
-  "page": "584-585",
-  "publisher": "Portico",
-  "issued": {
-   "date-parts": [
-    [
-     1970,
-     9
-    ]
-   ]
-  },
-  "ISSN": "0010-7549"
  },
  {
   "id": "doi:10.1038/205065a0",
@@ -226620,43 +226419,6 @@
   "ISSN": "0021-9606"
  },
  {
-  "id": "doi:10.1063/1.440209",
-  "type": "article-journal",
-  "DOI": "10.1063/1.440209",
-  "URL": "https://doi.org/10.1063/1.440209",
-  "author": [
-   {
-    "family": "Edwards",
-    "given": "J. G."
-   },
-   {
-    "family": "Starzynski",
-    "given": "J. S."
-   },
-   {
-    "family": "Peterson",
-    "given": "D. E."
-   }
-  ],
-  "title": "Sublimation thermodynamics of the URu3 compound",
-  "container-title": "The Journal of Chemical Physics",
-  "volume": "73",
-  "issue": "2",
-  "page": "908-912",
-  "publisher": "AIP Publishing",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1980,
-     7,
-     15
-    ]
-   ]
-  },
-  "ISSN": "0021-9606"
- },
- {
   "id": "doi:10.1063/1.441691",
   "type": "article-journal",
   "DOI": "10.1063/1.441691",
@@ -227488,29 +227250,6 @@
   "ISSN": "0021-8979"
  },
  {
-  "id": "doi:10.1071/mu960074",
-  "type": "article-journal",
-  "DOI": "10.1071/mu960074",
-  "URL": "https://doi.org/10.1071/mu960074",
-  "title": "Review",
-  "container-title": "Emu - Austral Ornithology",
-  "container-title-short": "Emu - Austral Ornithology",
-  "volume": "60",
-  "issue": "1",
-  "page": "74-74",
-  "publisher": "Informa UK Limited",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1960,
-     3
-    ]
-   ]
-  },
-  "ISSN": "0158-4197"
- },
- {
   "id": "doi:10.1080/00084433.2022.2060602",
   "type": "article-journal",
   "DOI": "10.1080/00084433.2022.2060602",
@@ -227614,43 +227353,6 @@
    ]
   },
   "ISSN": "0368-1947"
- },
- {
-  "id": "doi:10.1080/00222347408219416",
-  "type": "article-journal",
-  "DOI": "10.1080/00222347408219416",
-  "URL": "https://doi.org/10.1080/00222347408219416",
-  "author": [
-   {
-    "family": "Miyata",
-    "given": "Seizo"
-   },
-   {
-    "family": "Kidokoro",
-    "given": "Hiroshi"
-   },
-   {
-    "family": "Sakaoku",
-    "given": "Kiichiro"
-   }
-  ],
-  "title": "Isolation of extended-chain crystals from high-pressure crystallized polyethylene by selective dissolution",
-  "container-title": "Journal of Macromolecular Science, Part B",
-  "container-title-short": "Journal of Macromolecular Science, Part B",
-  "volume": "10",
-  "issue": "4",
-  "page": "719-722",
-  "publisher": "Informa UK Limited",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1974,
-     12
-    ]
-   ]
-  },
-  "ISSN": "0022-2348"
  },
  {
   "id": "doi:10.1080/00295450.2018.1435137",
@@ -228836,35 +228538,6 @@
   "ISSN": "2766-0400"
  },
  {
-  "id": "doi:10.1086/626378",
-  "type": "article-journal",
-  "DOI": "10.1086/626378",
-  "URL": "https://doi.org/10.1086/626378",
-  "author": [
-   {
-    "family": "Weeks",
-    "given": "Wilford F."
-   }
-  ],
-  "title": "Heats of Formation of Metamorphic Minerals in the System $$Cao-Mgo-Sio_{2}-H_{2}O$$ and Their Petrological Significance",
-  "container-title": "The Journal of Geology",
-  "container-title-short": "The Journal of Geology",
-  "volume": "64",
-  "issue": "5",
-  "page": "456-472",
-  "publisher": "University of Chicago Press",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1956,
-     9
-    ]
-   ]
-  },
-  "ISSN": "0022-1376"
- },
- {
   "id": "doi:10.1088/0022-3719/12/5/016",
   "type": "article-journal",
   "DOI": "10.1088/0022-3719/12/5/016",
@@ -229085,34 +228758,6 @@
    ]
   },
   "ISSN": "0026-1394"
- },
- {
-  "id": "doi:10.1088/0031-8949/11/6/003",
-  "type": "article-journal",
-  "DOI": "10.1088/0031-8949/11/6/003",
-  "URL": "https://doi.org/10.1088/0031-8949/11/6/003",
-  "author": [
-   {
-    "family": "I Uschersohn"
-   }
-  ],
-  "title": "Generalized Rapidity for Space-like Particles",
-  "container-title": "Physica Scripta",
-  "container-title-short": "Phys. Scr.",
-  "volume": "11",
-  "issue": "6",
-  "page": "361-362",
-  "publisher": "IOP Publishing",
-  "issued": {
-   "date-parts": [
-    [
-     1975,
-     6,
-     1
-    ]
-   ]
-  },
-  "ISSN": "0031-8949"
  },
  {
   "id": "doi:10.1088/0031-8949/11/6/008",
@@ -230229,6 +229874,47 @@
    ]
   },
   "ISSN": "1757-899X"
+ },
+ {
+  "id": "doi:10.1088/2053-1591/2/1/016505",
+  "type": "article-journal",
+  "DOI": "10.1088/2053-1591/2/1/016505",
+  "URL": "https://doi.org/10.1088/2053-1591/2/1/016505",
+  "author": [
+   {
+    "family": "Argaman",
+    "given": "Uri"
+   },
+   {
+    "family": "Eidelstein",
+    "given": "Eitan"
+   },
+   {
+    "family": "Levy",
+    "given": "Ohad"
+   },
+   {
+    "family": "Makov",
+    "given": "Guy"
+   }
+  ],
+  "title": "Thermodynamic properties of titanium from<i>ab initio</i>calculations",
+  "container-title": "Materials Research Express",
+  "container-title-short": "Mater. Res. Express",
+  "volume": "2",
+  "issue": "1",
+  "page": "016505",
+  "publisher": "IOP Publishing",
+  "issued": {
+   "date-parts": [
+    [
+     2015,
+     1,
+     2
+    ]
+   ]
+  },
+  "ISSN": "2053-1591"
  },
  {
   "id": "doi:10.1088/2053-1591/ab19fa",
@@ -232190,6 +231876,48 @@
   "ISSN": "0163-1829"
  },
  {
+  "id": "doi:10.1103/physrevb.47.15276",
+  "type": "article-journal",
+  "DOI": "10.1103/physrevb.47.15276",
+  "URL": "https://doi.org/10.1103/physrevb.47.15276",
+  "author": [
+   {
+    "family": "Amador",
+    "given": "C."
+   },
+   {
+    "family": "Lambrecht",
+    "given": "W. R. L."
+   },
+   {
+    "family": "van Schilfgaarde",
+    "given": "M."
+   },
+   {
+    "family": "Segall",
+    "given": "B."
+   }
+  ],
+  "title": "Internal strain effects on the phase diagram of Ni-Pt alloys",
+  "container-title": "Physical Review B",
+  "container-title-short": "Phys. Rev. B",
+  "volume": "47",
+  "issue": "22",
+  "page": "15276-15279",
+  "publisher": "American Physical Society (APS)",
+  "language": "en",
+  "issued": {
+   "date-parts": [
+    [
+     1993,
+     6,
+     1
+    ]
+   ]
+  },
+  "ISSN": "0163-1829"
+ },
+ {
   "id": "doi:10.1103/physrevb.47.3255",
   "type": "article-journal",
   "DOI": "10.1103/physrevb.47.3255",
@@ -232394,6 +232122,44 @@
      1994,
      10,
      1
+    ]
+   ]
+  },
+  "ISSN": "0163-1829"
+ },
+ {
+  "id": "doi:10.1103/physrevb.51.12958",
+  "type": "article-journal",
+  "DOI": "10.1103/physrevb.51.12958",
+  "URL": "https://doi.org/10.1103/physrevb.51.12958",
+  "author": [
+   {
+    "family": "Ruban",
+    "given": "A. V."
+   },
+   {
+    "family": "Abrikosov",
+    "given": "I. A."
+   },
+   {
+    "family": "Skriver",
+    "given": "H. L."
+   }
+  ],
+  "title": "Ground-state properties of ordered, partially ordered, and random Cu-Au and Ni-Pt alloys",
+  "container-title": "Physical Review B",
+  "container-title-short": "Phys. Rev. B",
+  "volume": "51",
+  "issue": "19",
+  "page": "12958-12968",
+  "publisher": "American Physical Society (APS)",
+  "language": "en",
+  "issued": {
+   "date-parts": [
+    [
+     1995,
+     5,
+     15
     ]
    ]
   },
@@ -235395,6 +235161,35 @@
   "ISSN": "0365-110X"
  },
  {
+  "id": "doi:10.1107/s0365110x55000807",
+  "type": "article-journal",
+  "DOI": "10.1107/s0365110x55000807",
+  "URL": "https://doi.org/10.1107/s0365110x55000807",
+  "author": [
+   {
+    "family": "Donnay",
+    "given": "J. D. H."
+   }
+  ],
+  "title": "The lattice of rhombohedral sulfur",
+  "container-title": "Acta Crystallographica",
+  "container-title-short": "Acta Cryst",
+  "volume": "8",
+  "issue": "4",
+  "page": "245-245",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "issued": {
+   "date-parts": [
+    [
+     1955,
+     4,
+     10
+    ]
+   ]
+  },
+  "ISSN": "0365-110X"
+ },
+ {
   "id": "doi:10.1107/s0365110x55001357",
   "type": "article-journal",
   "DOI": "10.1107/s0365110x55001357",
@@ -236875,6 +236670,35 @@
      1972,
      12,
      1
+    ]
+   ]
+  },
+  "ISSN": "0567-7408"
+ },
+ {
+  "id": "doi:10.1107/s0567740874004961",
+  "type": "article-journal",
+  "DOI": "10.1107/s0567740874004961",
+  "URL": "https://doi.org/10.1107/s0567740874004961",
+  "author": [
+   {
+    "family": "Watanabe",
+    "given": "Y."
+   }
+  ],
+  "title": "The crystal structure of monoclinic γ-sulphur",
+  "container-title": "Acta Crystallographica Section B Structural Crystallography and Crystal Chemistry",
+  "container-title-short": "Acta Crystallogr B Struct Crystallogr Cryst Chem",
+  "volume": "30",
+  "issue": "6",
+  "page": "1396-1401",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "issued": {
+   "date-parts": [
+    [
+     1974,
+     6,
+     15
     ]
    ]
   },
@@ -238546,35 +238370,6 @@
    ]
   },
   "ISSN": "0002-7820"
- },
- {
-  "id": "doi:10.1111/j.1465-5922.1990.00343.x",
-  "type": "article-journal",
-  "DOI": "10.1111/j.1465-5922.1990.00343.x",
-  "URL": "https://doi.org/10.1111/j.1465-5922.1990.00343.x",
-  "author": [
-   {
-    "family": "CLARK",
-    "given": "GILES"
-   }
-  ],
-  "title": "Correspondence",
-  "container-title": "Journal of Analytical Psychology",
-  "container-title-short": "J Analytical Psychology",
-  "volume": "35",
-  "issue": "3",
-  "page": "343-344",
-  "publisher": "Wiley",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1990,
-     7
-    ]
-   ]
-  },
-  "ISSN": "0021-8774"
  },
  {
   "id": "doi:10.1111/j.1551-2916.2004.00683.x",
@@ -243234,28 +243029,6 @@
   "ISSN": "0161-0457"
  },
  {
-  "id": "doi:10.1159/000464841",
-  "type": "article-journal",
-  "DOI": "10.1159/000464841",
-  "URL": "https://doi.org/10.1159/000464841",
-  "title": "Index nominum ad Vol. 7",
-  "container-title": "Vox Sanguinis",
-  "container-title-short": "Vox Sanguinis",
-  "volume": "7",
-  "issue": "6",
-  "page": "755-756",
-  "publisher": "Wiley",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1962
-    ]
-   ]
-  },
-  "ISSN": "0042-9007"
- },
- {
   "id": "doi:10.11606/d.97.2019.tde-12072019-112740",
   "type": "thesis",
   "DOI": "10.11606/d.97.2019.tde-12072019-112740",
@@ -243401,47 +243174,6 @@
     ]
    ]
   }
- },
- {
-  "id": "doi:10.1177/194336548102600605",
-  "type": "article-journal",
-  "DOI": "10.1177/194336548102600605",
-  "URL": "https://doi.org/10.1177/194336548102600605",
-  "author": [
-   {
-    "family": "Cohen",
-    "given": "Aaron"
-   },
-   {
-    "family": "Frantz",
-    "given": "Ivan"
-   },
-   {
-    "family": "Epstein",
-    "given": "Michael F"
-   },
-   {
-    "family": "Slavin",
-    "given": "Richard E"
-   }
-  ],
-  "title": "A Calibration Procedure for the Radiometer Heated Transcutaneous CO2 Electrode: Measurements in the Sick Newborn",
-  "container-title": "Respiratory Care",
-  "container-title-short": "Respiratory Care",
-  "volume": "26",
-  "issue": "6",
-  "page": "553-556",
-  "publisher": "SAGE Publications",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1981,
-     6
-    ]
-   ]
-  },
-  "ISSN": "0020-1324"
  },
  {
   "id": "doi:10.1179/000844305794409229",
@@ -260913,29 +260645,6 @@
   "ISSN": "0932-0784"
  },
  {
-  "id": "doi:10.1515/zna-1974-0813",
-  "type": "article-journal",
-  "DOI": "10.1515/zna-1974-0813",
-  "URL": "https://doi.org/10.1515/zna-1974-0813",
-  "title": "Thermodynamische Eigenschaften von Zinnchalcogeniden / Thermodynamic Properties of tin II chalcogenides",
-  "container-title": "Zeitschrift für Naturforschung A",
-  "volume": "29",
-  "issue": "8",
-  "page": "1198-1201",
-  "publisher": "Walter de Gruyter GmbH",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1974,
-     8,
-     1
-    ]
-   ]
-  },
-  "ISSN": "0932-0784"
- },
- {
   "id": "doi:10.1515/zna-1982-0612",
   "type": "article-journal",
   "DOI": "10.1515/zna-1982-0612",
@@ -261500,6 +261209,51 @@
    "date-parts": [
     [
      1977,
+     11,
+     1
+    ]
+   ]
+  },
+  "ISSN": "0932-0776"
+ },
+ {
+  "id": "doi:10.1515/znb-1980-1111",
+  "type": "article-journal",
+  "DOI": "10.1515/znb-1980-1111",
+  "URL": "https://doi.org/10.1515/znb-1980-1111",
+  "author": [
+   {
+    "family": "Steudel",
+    "given": "Ralf"
+   },
+   {
+    "family": "Steidel",
+    "given": "Jürgen"
+   },
+   {
+    "family": "Pickardt",
+    "given": "Joachim"
+   },
+   {
+    "family": "Schuster",
+    "given": "Fritz"
+   },
+   {
+    "family": "Reinhardt",
+    "given": "Richard"
+   }
+  ],
+  "title": "X-ray Structural Analyses of Two Allotropes of Cycloheptasulfur ( γ and δ-S<sub>7</sub> ) [1]",
+  "container-title": "Zeitschrift für Naturforschung B",
+  "volume": "35",
+  "issue": "11",
+  "page": "1378-1383",
+  "publisher": "Walter de Gruyter GmbH",
+  "language": "en",
+  "issued": {
+   "date-parts": [
+    [
+     1980,
      11,
      1
     ]
@@ -279325,49 +279079,6 @@
   "ISSN": "0904-213X"
  },
  {
-  "id": "doi:10.3891/acta.chem.scand.26-3101",
-  "type": "article-journal",
-  "DOI": "10.3891/acta.chem.scand.26-3101",
-  "URL": "https://doi.org/10.3891/acta.chem.scand.26-3101",
-  "author": [
-   {
-    "family": "Selte",
-    "given": "Kari"
-   },
-   {
-    "family": "Kjekshus",
-    "given": "Arne"
-   },
-   {
-    "family": "Andresen",
-    "given": "Arne F."
-   },
-   {
-    "family": "Tricker",
-    "given": "M. J."
-   },
-   {
-    "family": "Svensson",
-    "given": "Sigfrid"
-   }
-  ],
-  "title": "Magnetic Structure and Properties of FeAs.",
-  "container-title": "Acta Chemica Scandinavica",
-  "container-title-short": "Acta Chem. Scand.",
-  "volume": "26",
-  "page": "3101-3113",
-  "publisher": "Danish Chemical Society",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     1972
-    ]
-   ]
-  },
-  "ISSN": "0904-213X"
- },
- {
   "id": "doi:10.3891/acta.chem.scand.31a-0517",
   "type": "article-journal",
   "DOI": "10.3891/acta.chem.scand.31a-0517",
@@ -295910,47 +295621,6 @@
      2013,
      12,
      16
-    ]
-   ]
-  },
-  "ISSN": "2702-2412"
- },
- {
-  "id": "doi:10.7121/msi-eureka-20.11366.1.8",
-  "type": "article-journal",
-  "DOI": "10.7121/msi-eureka-20.11366.1.8",
-  "URL": "https://doi.org/10.7121/msi-eureka-20.11366.1.8",
-  "author": [
-   {
-    "family": "Lippmann",
-    "given": "Stephanie"
-   },
-   {
-    "family": "Saenko",
-    "given": "Ivan"
-   },
-   {
-    "family": "Dreval",
-    "given": "Liya"
-   },
-   {
-    "family": "Watson",
-    "given": "Andy"
-   }
-  ],
-  "title": "Li-Sn Binary Phase Diagram Evaluation",
-  "container-title": "MSI Eureka",
-  "container-title-short": "MSI Eureka",
-  "volume": "66",
-  "page": "20.11366.1.8",
-  "publisher": "Materials Science International Services GmBH",
-  "language": "en",
-  "issued": {
-   "date-parts": [
-    [
-     2016,
-     4,
-     28
     ]
    ]
   },

@@ -44,7 +44,7 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PZXIZHHAIP ORC-ILMCJPVOPV ORC-HUZOQZP35I ORC-L7TUNTS4KT ORC-UIE5XKBFQ6.412bc7 ORC-E5ZJYXRIYZ ORC-X5KUH5UEST ORC-KCBJNMJPT2 ORC-UOZTPI3A4H",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PZXIZHHAIP.347b73 ORC-ILMCJPVOPV.4ee1b4 ORC-HUZOQZP35I.3492f0 ORC-L7TUNTS4KT.7e6217 ORC-UIE5XKBFQ6.412bc7 ORC-E5ZJYXRIYZ.89cb1f ORC-X5KUH5UEST.38eb99 ORC-KCBJNMJPT2.2cbac6 ORC-UOZTPI3A4H.ab6135",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -61,22 +61,22 @@
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-PZXIZHHAIP",
+    "id": "ORC-PZXIZHHAIP.347b73",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-ILMCJPVOPV",
+    "id": "ORC-ILMCJPVOPV.4ee1b4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-HUZOQZP35I",
+    "id": "ORC-HUZOQZP35I.3492f0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-L7TUNTS4KT",
+    "id": "ORC-L7TUNTS4KT.7e6217",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
@@ -86,22 +86,22 @@
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-E5ZJYXRIYZ",
+    "id": "ORC-E5ZJYXRIYZ.89cb1f",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-X5KUH5UEST",
+    "id": "ORC-X5KUH5UEST.38eb99",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-KCBJNMJPT2",
+    "id": "ORC-KCBJNMJPT2.2cbac6",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    },
    {
-    "id": "ORC-UOZTPI3A4H",
+    "id": "ORC-UOZTPI3A4H.ab6135",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(89)87205-3"
    }

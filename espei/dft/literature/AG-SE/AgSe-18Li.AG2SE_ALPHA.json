@@ -1,0 +1,149 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "AG2SE_ALPHA"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AG",
+    "SE"
+   ],
+   [
+    "AG",
+    "SE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -9936.0,
+    -5869.0
+   ]
+  ]
+ ],
+ "reference": "Li 2018, doi:10.1007/s11669-018-0683-7",
+ "bibtex": "li2018_12c4c5",
+ "weight": [
+  0.065488,
+  0.065488
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AgSe-18Li.tdb (sha256 5c67cbc09a8493422619e5b430fd6e6113c2a0a1f73714fb5425b52b51531de6), phase AG2SE_ALPHA. Ids, in value order: ORC-BC2LZ73AND.5a2061 ORC-UZUVCSCTEU.6ee1ba. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AgSe-18Li.tdb",
+   "path": "databases/sgte-binary/AgSe-18Li.tdb",
+   "sha256": "5c67cbc09a8493422619e5b430fd6e6113c2a0a1f73714fb5425b52b51531de6",
+   "phase": "AG2SE_ALPHA"
+  },
+  "registry_phase": "phase:ag-se:ag2se-alpha",
+  "mapping": [
+   {
+    "id": "ORC-BC2LZ73AND.5a2061",
+    "compound": "Ag2Se",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-UZUVCSCTEU.6ee1ba",
+    "compound": "Ag2Se",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11669-018-0683-7"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7635.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AG-SE",
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.244,
+      11.298
+     ],
+     "n_full_stratum": 64
+    },
+    "weight_used": 0.065488,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -9.936,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-BC2LZ73AND.5a2061",
+    "compound": "Ag2Se"
+   },
+   {
+    "sigma": 7635.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AG-SE",
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.244,
+      11.298
+     ],
+     "n_full_stratum": 64
+    },
+    "weight_used": 0.065488,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -5.869,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UZUVCSCTEU.6ee1ba",
+    "compound": "Ag2Se"
+   }
+  ]
+ }
+}

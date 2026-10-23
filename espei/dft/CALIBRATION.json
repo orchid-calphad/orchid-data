@@ -21,79 +21,79 @@
    "above_hull": "lowest DFT entry at the composition lies above the hull"
   }
  },
- "pairs_release": "dft_parity.json inputs literature sha256 a4b72c282ebf7ac96a79d7d2107be820e0fe4369a7351759f8706d1a93390599",
+ "pairs_release": "dft_parity.json inputs literature sha256 6f7555f2dedb06177e127f447f61a3a139223b2a629af886a83a497ff832ff6d",
  "sources": {
   "literature": {
    "all": {
-    "n": 254,
-    "bias_mean": 3.565,
-    "bias_median": 1.09,
-    "sigma_robust": 5.46,
-    "q68_abs": 6.09,
-    "q95_abs": 34.771,
-    "rmse": 18.441,
+    "n": 259,
+    "bias_mean": 3.624,
+    "bias_median": 1.131,
+    "sigma_robust": 5.44,
+    "q68_abs": 6.1,
+    "q95_abs": 34.506,
+    "rmse": 18.291,
     "ci95": {
      "bias_median": [
-      0.3,
-      2.05
+      0.55,
+      2.06
      ],
      "q68_abs": [
-      5.158,
-      6.761
+      5.305,
+      7.481
      ],
      "q95_abs": [
-      25.515,
+      25.281,
       49.28
      ],
      "rmse": [
-      13.539,
-      22.934
+      13.052,
+      23.049
      ],
      "sigma_robust": [
-      4.583,
-      6.524
+      4.611,
+      6.541
      ]
     },
     "sigma_exp_median": 1.5,
     "n_with_printed_exp_sigma": 189,
-    "sigma_deconvolved": 5.25,
-    "rmse_over_sigma_robust": 3.38
+    "sigma_deconvolved": 5.229,
+    "rmse_over_sigma_robust": 3.36
    },
    "strata": {
     "magnetic_3d": {
-     "n": 94,
-     "bias_mean": 7.04,
-     "bias_median": 1.415,
-     "sigma_robust": 3.253,
-     "q68_abs": 4.249,
-     "q95_abs": 55.869,
-     "rmse": 25.525,
+     "n": 95,
+     "bias_mean": 6.983,
+     "bias_median": 1.451,
+     "sigma_robust": 3.198,
+     "q68_abs": 4.189,
+     "q95_abs": 55.363,
+     "rmse": 25.391,
      "ci95": {
       "bias_median": [
-       0.611,
-       2.075
+       0.66,
+       2.06
       ],
       "q68_abs": [
-       3.608,
-       4.996
+       3.591,
+       4.9
       ],
       "q95_abs": [
-       22.615,
-       104.388
+       22.609,
+       104.083
       ],
       "rmse": [
-       16.014,
-       34.839
+       15.826,
+       34.296
       ],
       "sigma_robust": [
-       2.466,
-       4.577
+       2.391,
+       4.322
       ]
      },
      "sigma_exp_median": 1.3,
      "n_with_printed_exp_sigma": 82,
-     "sigma_deconvolved": 2.982,
-     "rmse_over_sigma_robust": 7.85
+     "sigma_deconvolved": 2.922,
+     "rmse_over_sigma_robust": 7.94
     },
     "metal": {
      "n": 100,
@@ -131,77 +131,77 @@
      "rmse_over_sigma_robust": 1.81
     },
     "pblock_anion": {
-     "n": 60,
-     "bias_mean": -0.785,
-     "bias_median": 0.989,
-     "sigma_robust": 7.058,
-     "q68_abs": 10.448,
-     "q95_abs": 32.524,
-     "rmse": 13.035,
+     "n": 64,
+     "bias_mean": -0.246,
+     "bias_median": 1.215,
+     "sigma_robust": 6.883,
+     "q68_abs": 10.278,
+     "q95_abs": 31.223,
+     "rmse": 12.789,
      "ci95": {
       "bias_median": [
-       -0.51,
-       3.687
+       -0.5,
+       4.37
       ],
       "q68_abs": [
-       5.82,
-       12.488
+       5.967,
+       11.755
       ],
       "q95_abs": [
-       14.129,
-       39.39
+       13.918,
+       38.767
       ],
       "rmse": [
-       8.83,
-       16.864
+       8.677,
+       16.341
       ],
       "sigma_robust": [
-       5.262,
-       11.505
+       5.244,
+       11.298
       ]
      },
      "sigma_exp_median": 3.6,
      "n_with_printed_exp_sigma": 25,
-     "sigma_deconvolved": 6.071,
-     "rmse_over_sigma_robust": 1.85
+     "sigma_deconvolved": 5.866,
+     "rmse_over_sigma_robust": 1.86
     }
    }
   },
   "mp": {
    "all": {
-    "n": 1231,
-    "bias_mean": 4.201,
+    "n": 1236,
+    "bias_mean": 4.192,
     "bias_median": 2.534,
-    "sigma_robust": 9.143,
-    "q68_abs": 11.463,
-    "q95_abs": 34.013,
-    "rmse": 18.709,
+    "sigma_robust": 9.018,
+    "q68_abs": 11.392,
+    "q95_abs": 33.974,
+    "rmse": 18.672,
     "ci95": {
      "bias_median": [
-      1.78,
-      3.105
+      1.822,
+      3.106
      ],
      "q68_abs": [
-      10.272,
-      11.998
+      10.211,
+      12.002
      ],
      "q95_abs": [
-      31.424,
-      36.408
+      31.412,
+      36.588
      ],
      "rmse": [
-      15.921,
-      21.69
+      15.885,
+      21.715
      ],
      "sigma_robust": [
-      8.2,
-      10.094
+      8.129,
+      10.01
      ]
     },
     "sigma_exp_median": 2.0,
-    "n_with_printed_exp_sigma": 562,
-    "sigma_deconvolved": 8.922,
-    "rmse_over_sigma_robust": 2.05
+    "n_with_printed_exp_sigma": 564,
+    "sigma_deconvolved": 8.793,
+    "rmse_over_sigma_robust": 2.07
    },
    "strata": {
     "above_hull|magnetic_3d": {
@@ -415,39 +415,39 @@
      "rmse_over_sigma_robust": 1.69
     },
     "polymorph_ambiguous|magnetic_3d": {
-     "n": 78,
-     "bias_mean": -2.46,
-     "bias_median": -0.607,
-     "sigma_robust": 5.929,
-     "q68_abs": 5.048,
-     "q95_abs": 20.304,
-     "rmse": 7.807,
+     "n": 83,
+     "bias_mean": -2.2,
+     "bias_median": -0.577,
+     "sigma_robust": 5.827,
+     "q68_abs": 5.011,
+     "q95_abs": 19.943,
+     "rmse": 7.611,
      "ci95": {
       "bias_median": [
-       -2.382,
+       -1.568,
        1.066
       ],
       "q68_abs": [
-       4.097,
-       6.991
+       4.033,
+       5.862
       ],
       "q95_abs": [
-       11.608,
-       21.096
+       11.014,
+       21.018
       ],
       "rmse": [
-       5.783,
-       9.695
+       5.791,
+       9.442
       ],
       "sigma_robust": [
-       3.974,
-       7.447
+       4.005,
+       6.876
       ]
      },
-     "sigma_exp_median": 1.3,
-     "n_with_printed_exp_sigma": 39,
-     "sigma_deconvolved": 5.785,
-     "rmse_over_sigma_robust": 1.32
+     "sigma_exp_median": 1.6,
+     "n_with_printed_exp_sigma": 41,
+     "sigma_deconvolved": 5.603,
+     "rmse_over_sigma_robust": 1.31
     },
     "polymorph_ambiguous|metal": {
      "n": 98,
@@ -520,38 +520,38 @@
      "rmse_over_sigma_robust": 2.33
     },
     "chem:magnetic_3d": {
-     "n": 190,
-     "bias_mean": 1.045,
+     "n": 195,
+     "bias_mean": 1.066,
      "bias_median": 1.748,
-     "sigma_robust": 5.039,
-     "q68_abs": 5.608,
-     "q95_abs": 15.659,
-     "rmse": 7.697,
+     "sigma_robust": 4.993,
+     "q68_abs": 5.515,
+     "q95_abs": 15.085,
+     "rmse": 7.616,
      "ci95": {
       "bias_median": [
-       0.879,
-       2.696
+       0.886,
+       2.776
       ],
       "q68_abs": [
-       4.863,
-       6.746
+       4.911,
+       6.518
       ],
       "q95_abs": [
-       13.003,
-       20.309
+       12.913,
+       20.307
       ],
       "rmse": [
-       6.441,
-       8.988
+       6.47,
+       8.893
       ],
       "sigma_robust": [
-       4.099,
-       6.103
+       4.095,
+       5.972
       ]
      },
      "sigma_exp_median": 1.5,
-     "n_with_printed_exp_sigma": 101,
-     "sigma_deconvolved": 4.811,
+     "n_with_printed_exp_sigma": 103,
+     "sigma_deconvolved": 4.762,
      "rmse_over_sigma_robust": 1.53
     },
     "chem:metal": {
@@ -695,77 +695,77 @@
      "rmse_over_sigma_robust": 1.63
     },
     "match:polymorph_ambiguous": {
-     "n": 508,
-     "bias_mean": 1.186,
-     "bias_median": 0.324,
-     "sigma_robust": 9.028,
-     "q68_abs": 11.738,
-     "q95_abs": 36.453,
-     "rmse": 21.591,
+     "n": 513,
+     "bias_mean": 1.193,
+     "bias_median": 0.457,
+     "sigma_robust": 8.821,
+     "q68_abs": 11.628,
+     "q95_abs": 36.378,
+     "rmse": 21.488,
      "ci95": {
       "bias_median": [
        -0.637,
-       0.793
+       0.772
       ],
       "q68_abs": [
-       10.03,
-       13.128
+       9.991,
+       13.081
       ],
       "q95_abs": [
-       31.508,
-       46.746
+       31.988,
+       45.981
       ],
       "rmse": [
-       16.517,
-       27.058
+       16.766,
+       26.579
       ],
       "sigma_robust": [
-       7.604,
-       11.067
+       7.446,
+       10.971
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 211,
-     "sigma_deconvolved": 8.804,
-     "rmse_over_sigma_robust": 2.39
+     "n_with_printed_exp_sigma": 213,
+     "sigma_deconvolved": 8.591,
+     "rmse_over_sigma_robust": 2.44
     }
    }
   },
   "oqmd": {
    "all": {
-    "n": 1294,
-    "bias_mean": 5.105,
-    "bias_median": 2.361,
-    "sigma_robust": 7.8,
-    "q68_abs": 9.364,
-    "q95_abs": 29.845,
-    "rmse": 17.156,
+    "n": 1299,
+    "bias_mean": 5.092,
+    "bias_median": 2.364,
+    "sigma_robust": 7.708,
+    "q68_abs": 9.329,
+    "q95_abs": 29.804,
+    "rmse": 17.124,
     "ci95": {
      "bias_median": [
-      1.883,
-      2.858
+      1.81,
+      2.823
      ],
      "q68_abs": [
-      8.484,
-      10.246
+      8.452,
+      10.239
      ],
      "q95_abs": [
-      27.468,
-      34.742
+      27.348,
+      34.91
      ],
      "rmse": [
-      14.68,
-      20.292
+      14.635,
+      20.127
      ],
      "sigma_robust": [
-      7.084,
-      8.656
+      7.053,
+      8.61
      ]
     },
     "sigma_exp_median": 2.0,
-    "n_with_printed_exp_sigma": 601,
-    "sigma_deconvolved": 7.539,
-    "rmse_over_sigma_robust": 2.2
+    "n_with_printed_exp_sigma": 603,
+    "sigma_deconvolved": 7.444,
+    "rmse_over_sigma_robust": 2.22
    },
    "strata": {
     "above_hull|magnetic_3d": {
@@ -979,39 +979,39 @@
      "rmse_over_sigma_robust": 1.98
     },
     "polymorph_ambiguous|magnetic_3d": {
-     "n": 103,
-     "bias_mean": -1.007,
-     "bias_median": -0.486,
-     "sigma_robust": 5.392,
-     "q68_abs": 5.776,
-     "q95_abs": 16.028,
-     "rmse": 6.931,
+     "n": 108,
+     "bias_mean": -0.877,
+     "bias_median": -0.401,
+     "sigma_robust": 5.369,
+     "q68_abs": 5.654,
+     "q95_abs": 15.732,
+     "rmse": 6.806,
      "ci95": {
       "bias_median": [
-       -1.78,
-       1.392
+       -1.723,
+       1.408
       ],
       "q68_abs": [
-       4.329,
-       6.462
+       4.235,
+       6.399
       ],
       "q95_abs": [
-       8.269,
+       8.267,
        19.052
       ],
       "rmse": [
-       5.397,
-       8.489
+       5.244,
+       8.493
       ],
       "sigma_robust": [
-       3.929,
-       6.838
+       3.918,
+       6.728
       ]
      },
      "sigma_exp_median": 1.9,
-     "n_with_printed_exp_sigma": 45,
-     "sigma_deconvolved": 5.046,
-     "rmse_over_sigma_robust": 1.29
+     "n_with_printed_exp_sigma": 47,
+     "sigma_deconvolved": 5.022,
+     "rmse_over_sigma_robust": 1.27
     },
     "polymorph_ambiguous|metal": {
      "n": 236,
@@ -1084,39 +1084,39 @@
      "rmse_over_sigma_robust": 2.75
     },
     "chem:magnetic_3d": {
-     "n": 224,
-     "bias_mean": 0.873,
-     "bias_median": 1.415,
-     "sigma_robust": 5.529,
-     "q68_abs": 5.987,
-     "q95_abs": 21.925,
-     "rmse": 8.653,
+     "n": 229,
+     "bias_mean": 0.893,
+     "bias_median": 1.422,
+     "sigma_robust": 5.515,
+     "q68_abs": 5.975,
+     "q95_abs": 21.658,
+     "rmse": 8.572,
      "ci95": {
       "bias_median": [
-       0.68,
-       2.365
+       0.705,
+       2.408
       ],
       "q68_abs": [
-       5.423,
-       6.883
+       5.407,
+       6.579
       ],
       "q95_abs": [
-       16.147,
-       25.584
+       16.238,
+       24.622
       ],
       "rmse": [
-       7.516,
-       9.772
+       7.47,
+       9.645
       ],
       "sigma_robust": [
-       4.499,
-       6.727
+       4.494,
+       6.475
       ]
      },
      "sigma_exp_median": 1.5,
-     "n_with_printed_exp_sigma": 111,
-     "sigma_deconvolved": 5.322,
-     "rmse_over_sigma_robust": 1.57
+     "n_with_printed_exp_sigma": 113,
+     "sigma_deconvolved": 5.307,
+     "rmse_over_sigma_robust": 1.55
     },
     "chem:metal": {
      "n": 495,
@@ -1259,39 +1259,39 @@
      "rmse_over_sigma_robust": 1.64
     },
     "match:polymorph_ambiguous": {
-     "n": 718,
-     "bias_mean": 5.3,
+     "n": 723,
+     "bias_mean": 5.276,
      "bias_median": 1.213,
-     "sigma_robust": 7.672,
+     "sigma_robust": 7.635,
      "q68_abs": 8.426,
-     "q95_abs": 34.667,
-     "rmse": 19.736,
+     "q95_abs": 34.614,
+     "rmse": 19.67,
      "ci95": {
       "bias_median": [
-       0.794,
+       0.779,
        1.98
       ],
       "q68_abs": [
-       7.487,
-       9.926
+       7.521,
+       9.556
       ],
       "q95_abs": [
-       27.82,
+       27.742,
        36.287
       ],
       "rmse": [
-       15.434,
-       24.23
+       15.557,
+       24.0
       ],
       "sigma_robust": [
-       6.956,
-       8.385
+       6.885,
+       8.269
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 314,
-     "sigma_deconvolved": 7.407,
-     "rmse_over_sigma_robust": 2.57
+     "n_with_printed_exp_sigma": 316,
+     "sigma_deconvolved": 7.368,
+     "rmse_over_sigma_robust": 2.58
     }
    }
   }
@@ -1301,107 +1301,107 @@
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "CO-GA",
-   "n": 92,
-   "sigma_robust_kJ": 3.099,
-   "bias_median_kJ": 1.374,
+   "n": 93,
+   "sigma_robust_kJ": 2.998,
+   "bias_median_kJ": 1.378,
    "fallback": null
   },
   "literature|magnetic_3d|CO-V": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "CO-V",
-   "n": 94,
-   "sigma_robust_kJ": 3.253,
-   "bias_median_kJ": 1.415,
+   "n": 95,
+   "sigma_robust_kJ": 3.198,
+   "bias_median_kJ": 1.451,
    "fallback": null
   },
   "literature|magnetic_3d|CO-Y": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "CO-Y",
-   "n": 92,
-   "sigma_robust_kJ": 3.053,
-   "bias_median_kJ": 1.586,
+   "n": 93,
+   "sigma_robust_kJ": 2.946,
+   "bias_median_kJ": 1.63,
    "fallback": null
   },
   "literature|magnetic_3d|FE-MO": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "FE-MO",
-   "n": 94,
-   "sigma_robust_kJ": 3.253,
-   "bias_median_kJ": 1.415,
+   "n": 95,
+   "sigma_robust_kJ": 3.198,
+   "bias_median_kJ": 1.451,
    "fallback": null
   },
   "literature|magnetic_3d|FE-TM": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "FE-TM",
-   "n": 93,
-   "sigma_robust_kJ": 3.198,
-   "bias_median_kJ": 1.451,
+   "n": 94,
+   "sigma_robust_kJ": 3.093,
+   "bias_median_kJ": 1.541,
    "fallback": null
   },
   "literature|magnetic_3d|FE-Y": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "FE-Y",
-   "n": 74,
-   "sigma_robust_kJ": 3.818,
-   "bias_median_kJ": 0.792,
+   "n": 75,
+   "sigma_robust_kJ": 3.89,
+   "bias_median_kJ": 0.924,
    "fallback": null
   },
   "literature|magnetic_3d|GE-NI": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "GE-NI",
-   "n": 90,
-   "sigma_robust_kJ": 3.319,
-   "bias_median_kJ": 1.374,
+   "n": 91,
+   "sigma_robust_kJ": 3.306,
+   "bias_median_kJ": 1.378,
    "fallback": null
   },
   "literature|magnetic_3d|NB-NI": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "NB-NI",
-   "n": 81,
-   "sigma_robust_kJ": 4.248,
-   "bias_median_kJ": 1.131,
+   "n": 82,
+   "sigma_robust_kJ": 4.226,
+   "bias_median_kJ": 1.151,
    "fallback": null
   },
   "literature|magnetic_3d|NI-TB": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "NI-TB",
-   "n": 91,
-   "sigma_robust_kJ": 2.876,
-   "bias_median_kJ": 1.722,
+   "n": 92,
+   "sigma_robust_kJ": 2.871,
+   "bias_median_kJ": 1.676,
    "fallback": null
   },
   "literature|magnetic_3d|NI-TI": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "NI-TI",
-   "n": 78,
-   "sigma_robust_kJ": 2.884,
-   "bias_median_kJ": 1.415,
+   "n": 79,
+   "sigma_robust_kJ": 2.793,
+   "bias_median_kJ": 1.451,
    "fallback": null
   },
   "literature|magnetic_3d|NI-YB": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "NI-YB",
-   "n": 92,
-   "sigma_robust_kJ": 3.259,
-   "bias_median_kJ": 1.415,
+   "n": 93,
+   "sigma_robust_kJ": 3.211,
+   "bias_median_kJ": 1.451,
    "fallback": null
   },
   "literature|magnetic_3d|NI-ZR": {
    "source": "literature",
    "stratum": "magnetic_3d",
    "system": "NI-ZR",
-   "n": 76,
-   "sigma_robust_kJ": 3.054,
+   "n": 77,
+   "sigma_robust_kJ": 3.011,
    "bias_median_kJ": 1.97,
    "fallback": null
   },
@@ -1612,121 +1612,130 @@
    "bias_median_kJ": -0.335,
    "fallback": null
   },
+  "literature|pblock_anion|AG-SE": {
+   "source": "literature",
+   "stratum": "pblock_anion",
+   "system": "AG-SE",
+   "n": 56,
+   "sigma_robust_kJ": 7.635,
+   "bias_median_kJ": 0.15,
+   "fallback": null
+  },
   "literature|pblock_anion|AL-C": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "AL-C",
-   "n": 59,
-   "sigma_robust_kJ": 7.0,
-   "bias_median_kJ": 1.078,
+   "n": 63,
+   "sigma_robust_kJ": 7.124,
+   "bias_median_kJ": 1.35,
    "fallback": null
   },
   "literature|pblock_anion|B-CE": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "B-CE",
-   "n": 56,
-   "sigma_robust_kJ": 6.724,
-   "bias_median_kJ": 1.215,
+   "n": 60,
+   "sigma_robust_kJ": 6.768,
+   "bias_median_kJ": 1.95,
    "fallback": null
   },
   "literature|pblock_anion|C-MN": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "C-MN",
-   "n": 56,
-   "sigma_robust_kJ": 7.443,
-   "bias_median_kJ": 1.079,
+   "n": 60,
+   "sigma_robust_kJ": 8.606,
+   "bias_median_kJ": 1.95,
    "fallback": null
   },
   "literature|pblock_anion|CS-O": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "CS-O",
-   "n": 51,
-   "sigma_robust_kJ": 6.123,
-   "bias_median_kJ": 2.1,
+   "n": 55,
+   "sigma_robust_kJ": 7.561,
+   "bias_median_kJ": 3.6,
    "fallback": null
   },
   "literature|pblock_anion|GE-P": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "GE-P",
-   "n": 52,
-   "sigma_robust_kJ": 7.532,
-   "bias_median_kJ": -0.3,
+   "n": 56,
+   "sigma_robust_kJ": 7.635,
+   "bias_median_kJ": 0.15,
    "fallback": null
   },
   "literature|pblock_anion|H-ZR": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "H-ZR",
-   "n": 60,
-   "sigma_robust_kJ": 7.058,
-   "bias_median_kJ": 0.989,
+   "n": 64,
+   "sigma_robust_kJ": 6.883,
+   "bias_median_kJ": 1.215,
    "fallback": null
   },
   "literature|pblock_anion|HO-TE": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "HO-TE",
-   "n": 60,
-   "sigma_robust_kJ": 7.058,
-   "bias_median_kJ": 0.989,
+   "n": 64,
+   "sigma_robust_kJ": 6.883,
+   "bias_median_kJ": 1.215,
    "fallback": null
   },
   "literature|pblock_anion|MG-SI": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "MG-SI",
-   "n": 55,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 0.0,
+   "n": 59,
+   "sigma_robust_kJ": 6.968,
+   "bias_median_kJ": 0.9,
    "fallback": null
   },
   "literature|pblock_anion|MO-SI": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "MO-SI",
-   "n": 59,
-   "sigma_robust_kJ": 7.0,
-   "bias_median_kJ": 1.078,
+   "n": 63,
+   "sigma_robust_kJ": 7.124,
+   "bias_median_kJ": 1.35,
    "fallback": null
   },
   "literature|pblock_anion|N-ZR": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "N-ZR",
-   "n": 58,
-   "sigma_robust_kJ": 6.91,
-   "bias_median_kJ": 0.989,
+   "n": 62,
+   "sigma_robust_kJ": 6.82,
+   "bias_median_kJ": 1.215,
    "fallback": null
   },
   "literature|pblock_anion|SB-YB": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "SB-YB",
-   "n": 59,
-   "sigma_robust_kJ": 7.0,
-   "bias_median_kJ": 1.078,
+   "n": 63,
+   "sigma_robust_kJ": 7.124,
+   "bias_median_kJ": 1.35,
    "fallback": null
   },
   "literature|pblock_anion|SI-SR": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "SI-SR",
-   "n": 45,
-   "sigma_robust_kJ": 12.899,
-   "bias_median_kJ": 0.0,
+   "n": 49,
+   "sigma_robust_kJ": 11.564,
+   "bias_median_kJ": 0.9,
    "fallback": null
   },
   "literature|pblock_anion|SI-V": {
    "source": "literature",
    "stratum": "pblock_anion",
    "system": "SI-V",
-   "n": 56,
-   "sigma_robust_kJ": 6.999,
-   "bias_median_kJ": 1.079,
+   "n": 60,
+   "sigma_robust_kJ": 8.269,
+   "bias_median_kJ": 1.575,
    "fallback": null
   },
   "mp|on_hull_single|magnetic_3d|AL-CO": {
@@ -4766,90 +4775,90 @@
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-IN",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|CO-MO": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-MO",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|CO-Y": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-Y",
-   "n": 76,
-   "sigma_robust_kJ": 5.669,
-   "bias_median_kJ": -0.581,
+   "n": 81,
+   "sigma_robust_kJ": 5.468,
+   "bias_median_kJ": -0.206,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|ER-FE": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "ER-FE",
-   "n": 77,
-   "sigma_robust_kJ": 6.021,
-   "bias_median_kJ": -0.629,
+   "n": 82,
+   "sigma_robust_kJ": 5.89,
+   "bias_median_kJ": -0.581,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|FE-HO": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-HO",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|FE-LU": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-LU",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|FE-SN": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-SN",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|FE-TM": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-TM",
-   "n": 75,
-   "sigma_robust_kJ": 5.511,
-   "bias_median_kJ": -0.577,
+   "n": 80,
+   "sigma_robust_kJ": 5.362,
+   "bias_median_kJ": -0.137,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|GA-NI": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "GA-NI",
-   "n": 75,
-   "sigma_robust_kJ": 5.904,
-   "bias_median_kJ": -0.629,
+   "n": 80,
+   "sigma_robust_kJ": 5.669,
+   "bias_median_kJ": -0.581,
    "fallback": null
   },
   "mp|polymorph_ambiguous|magnetic_3d|IN-NI": {
    "source": "mp",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "IN-NI",
-   "n": 78,
-   "sigma_robust_kJ": 5.929,
-   "bias_median_kJ": -0.607,
+   "n": 83,
+   "sigma_robust_kJ": 5.827,
+   "bias_median_kJ": -0.577,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-AU": {
@@ -5765,216 +5774,216 @@
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-CO",
-   "n": 1292,
-   "sigma_robust_kJ": 7.847,
-   "bias_median_kJ": 2.386,
+   "n": 1297,
+   "sigma_robust_kJ": 7.773,
+   "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|AL-CR": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-CR",
-   "n": 1280,
-   "sigma_robust_kJ": 7.652,
-   "bias_median_kJ": 2.261,
+   "n": 1285,
+   "sigma_robust_kJ": 7.624,
+   "bias_median_kJ": 2.266,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|AL-MN": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-MN",
-   "n": 1285,
-   "sigma_robust_kJ": 7.859,
-   "bias_median_kJ": 2.408,
+   "n": 1290,
+   "sigma_robust_kJ": 7.813,
+   "bias_median_kJ": 2.415,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|CA-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CA-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|CO-HF": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-HF",
-   "n": 1292,
-   "sigma_robust_kJ": 7.81,
-   "bias_median_kJ": 2.361,
+   "n": 1297,
+   "sigma_robust_kJ": 7.782,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|CO-TH": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-TH",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|CO-ZN": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-ZN",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|DY-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "DY-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|ER-MN": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "ER-MN",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|EU-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "EU-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|FE-TH": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "FE-TH",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|GA-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "GA-NI",
-   "n": 1284,
-   "sigma_robust_kJ": 7.953,
-   "bias_median_kJ": 2.34,
+   "n": 1289,
+   "sigma_robust_kJ": 7.806,
+   "bias_median_kJ": 2.358,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|GD-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "GD-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|HO-MN": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "HO-MN",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|HO-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "HO-NI",
-   "n": 1289,
-   "sigma_robust_kJ": 7.806,
-   "bias_median_kJ": 2.358,
+   "n": 1294,
+   "sigma_robust_kJ": 7.788,
+   "bias_median_kJ": 2.361,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|IN-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "IN-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|MN-PD": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MN-PD",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|MN-TM": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MN-TM",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|MO-NI": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MO-NI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|NI-PR": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-PR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|NI-SM": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-SM",
-   "n": 1288,
-   "sigma_robust_kJ": 7.893,
-   "bias_median_kJ": 2.423,
+   "n": 1293,
+   "sigma_robust_kJ": 7.828,
+   "bias_median_kJ": 2.424,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|NI-TB": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-TB",
-   "n": 1291,
-   "sigma_robust_kJ": 7.753,
-   "bias_median_kJ": 2.322,
+   "n": 1296,
+   "sigma_robust_kJ": 7.672,
+   "bias_median_kJ": 2.34,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|NI-TH": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-TH",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|magnetic_3d|NI-U": {
    "source": "oqmd",
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-U",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|metal|AG-BA": {
@@ -6944,188 +6953,188 @@
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "AG-P",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-BA": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-BA",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-CA": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-CA",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-CE": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-CE",
-   "n": 1289,
-   "sigma_robust_kJ": 7.859,
-   "bias_median_kJ": 2.408,
+   "n": 1294,
+   "sigma_robust_kJ": 7.813,
+   "bias_median_kJ": 2.415,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-DY": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-DY",
-   "n": 1292,
-   "sigma_robust_kJ": 7.837,
-   "bias_median_kJ": 2.386,
+   "n": 1297,
+   "sigma_robust_kJ": 7.773,
+   "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-ER": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-ER",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-GD": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-GD",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-HO": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-HO",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-LA": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-LA",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-LU": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-LU",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-MG": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-MG",
-   "n": 1272,
-   "sigma_robust_kJ": 7.856,
-   "bias_median_kJ": 2.415,
+   "n": 1277,
+   "sigma_robust_kJ": 7.796,
+   "bias_median_kJ": 2.423,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-NB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-NB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-ND": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-ND",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-PR": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-PR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-SM": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-SM",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-SR": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-SR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-TA": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TA",
-   "n": 1291,
-   "sigma_robust_kJ": 7.773,
-   "bias_median_kJ": 2.408,
+   "n": 1296,
+   "sigma_robust_kJ": 7.779,
+   "bias_median_kJ": 2.415,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-TB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-TI": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|B-TM": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TM",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|C-CE": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-CE",
-   "n": 1285,
-   "sigma_robust_kJ": 7.631,
+   "n": 1290,
+   "sigma_robust_kJ": 7.563,
    "bias_median_kJ": 2.266,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7133,585 +7142,585 @@
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-CR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|C-MN": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-MN",
-   "n": 1287,
-   "sigma_robust_kJ": 7.917,
-   "bias_median_kJ": 2.364,
+   "n": 1292,
+   "sigma_robust_kJ": 7.847,
+   "bias_median_kJ": 2.386,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|C-PU": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-PU",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|CA-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "CA-SB",
-   "n": 1291,
-   "sigma_robust_kJ": 7.785,
-   "bias_median_kJ": 2.358,
+   "n": 1296,
+   "sigma_robust_kJ": 7.704,
+   "bias_median_kJ": 2.361,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|CU-P": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-P",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|CU-S": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-S",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|CU-SE": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-SE",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|DY-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "DY-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|HF-SI": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "HF-SI",
-   "n": 1290,
-   "sigma_robust_kJ": 7.837,
-   "bias_median_kJ": 2.386,
+   "n": 1295,
+   "sigma_robust_kJ": 7.773,
+   "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|HO-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "HO-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|NB-P": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "NB-P",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|ND-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "ND-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PD-S": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-S",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PD-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PD-TE": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-TE",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PR-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PR-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PT-SB": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PT-SB",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|PT-SI": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "PT-SI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|SB-Y": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "SB-Y",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|SI-TI": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "SI-TI",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|SI-ZR": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "SI-ZR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|on_hull_single|pblock_anion|TE-ZR": {
    "source": "oqmd",
    "stratum": "on_hull_single|pblock_anion",
    "system": "TE-ZR",
-   "n": 1294,
-   "sigma_robust_kJ": 7.8,
-   "bias_median_kJ": 2.361,
+   "n": 1299,
+   "sigma_robust_kJ": 7.708,
+   "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|AL-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "AL-NI",
-   "n": 86,
-   "sigma_robust_kJ": 5.548,
-   "bias_median_kJ": -0.401,
+   "n": 91,
+   "sigma_robust_kJ": 5.515,
+   "bias_median_kJ": -0.317,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CE-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CE-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-DY": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-DY",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-ER": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-ER",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-GA": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-GA",
-   "n": 99,
-   "sigma_robust_kJ": 5.671,
-   "bias_median_kJ": -1.023,
+   "n": 104,
+   "sigma_robust_kJ": 5.303,
+   "bias_median_kJ": -0.696,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-HO": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-HO",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-IN": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-IN",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-LA": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-LA",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-MG": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-MG",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-MO": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-MO",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-ND": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-ND",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-PR": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-PR",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-SM": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-SM",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-SN": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-SN",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-TH": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-TH",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-U": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-U",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-Y": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-Y",
-   "n": 101,
-   "sigma_robust_kJ": 5.244,
-   "bias_median_kJ": -0.317,
+   "n": 106,
+   "sigma_robust_kJ": 4.81,
+   "bias_median_kJ": -0.012,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|CO-ZR": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "CO-ZR",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|DY-FE": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "DY-FE",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|DY-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "DY-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|ER-FE": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "ER-FE",
-   "n": 101,
-   "sigma_robust_kJ": 5.495,
-   "bias_median_kJ": -0.486,
+   "n": 106,
+   "sigma_robust_kJ": 5.388,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|ER-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "ER-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|FE-GA": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-GA",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|FE-HO": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-HO",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|FE-LU": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-LU",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|FE-SN": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-SN",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|FE-TM": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "FE-TM",
-   "n": 100,
-   "sigma_robust_kJ": 4.81,
-   "bias_median_kJ": -0.012,
+   "n": 105,
+   "sigma_robust_kJ": 4.377,
+   "bias_median_kJ": 0.293,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|GA-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "GA-NI",
-   "n": 99,
-   "sigma_robust_kJ": 5.661,
-   "bias_median_kJ": -0.905,
+   "n": 104,
+   "sigma_robust_kJ": 5.219,
+   "bias_median_kJ": -0.486,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|GD-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "GD-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|GE-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "GE-NI",
-   "n": 101,
-   "sigma_robust_kJ": 5.723,
-   "bias_median_kJ": -0.905,
+   "n": 106,
+   "sigma_robust_kJ": 5.361,
+   "bias_median_kJ": -0.486,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|HO-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "HO-NI",
-   "n": 101,
-   "sigma_robust_kJ": 5.495,
-   "bias_median_kJ": -0.486,
+   "n": 106,
+   "sigma_robust_kJ": 5.388,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|IN-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "IN-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|LA-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "LA-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|LU-MN": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "LU-MN",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|MN-SC": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "MN-SC",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|MN-TA": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "MN-TA",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|ND-NI": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "ND-NI",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-PR": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-PR",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-SM": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-SM",
-   "n": 100,
-   "sigma_robust_kJ": 5.805,
-   "bias_median_kJ": -0.696,
+   "n": 105,
+   "sigma_robust_kJ": 5.495,
+   "bias_median_kJ": -0.486,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-TB": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-TB",
-   "n": 102,
-   "sigma_robust_kJ": 5.416,
-   "bias_median_kJ": -0.696,
+   "n": 107,
+   "sigma_robust_kJ": 5.33,
+   "bias_median_kJ": -0.486,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-TH": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-TH",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-W": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-W",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|magnetic_3d|NI-Y": {
    "source": "oqmd",
    "stratum": "polymorph_ambiguous|magnetic_3d",
    "system": "NI-Y",
-   "n": 103,
-   "sigma_robust_kJ": 5.392,
-   "bias_median_kJ": -0.486,
+   "n": 108,
+   "sigma_robust_kJ": 5.369,
+   "bias_median_kJ": -0.401,
    "fallback": null
   },
   "oqmd|polymorph_ambiguous|metal|AG-BA": {

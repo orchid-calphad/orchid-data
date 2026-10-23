@@ -2,8 +2,8 @@
  "espei_version": "0.9.1",
  "folders": {
   "dft/literature": {
-   "files": 473,
-   "loaded": 473
+   "files": 479,
+   "loaded": 479
   },
   "dft/mp": {
    "files": 1290,
@@ -14,16 +14,16 @@
    "loaded": 1290
   },
   "experimental": {
-   "files": 1641,
-   "loaded": 1641
+   "files": 1679,
+   "loaded": 1679
   },
   "invariants": {
    "files": 2143,
    "loaded": 2143
   },
   "model": {
-   "files": 754,
-   "loaded": 754
+   "files": 758,
+   "loaded": 758
   }
  },
  "invalid_final": {},
@@ -552,14 +552,6 @@
    "values": 2
   },
   {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "reason": [
-    "not_in_release",
-    "value_differs_from_release"
-   ],
-   "values": 9
-  },
-  {
    "source": "general/espei/CuZr-10Zho/hmr-00.json",
    "reason": [
     "dft_superseded"
@@ -726,34 +718,6 @@
     "dft_superseded"
    ],
    "values": null
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-00.json",
-   "reason": [
-    "value_differs_from_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-01.json",
-   "reason": [
-    "value_differs_from_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-02.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-03.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
   },
   {
    "source": "general/espei/GeHf-14Tan/hmr-01.json",
@@ -1078,230 +1042,6 @@
    "values": null
   },
   {
-   "source": "general/espei/UC-01Che/cpm-66.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-68.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-70.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-72.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-74.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-76.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-78.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-80.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-82.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-84.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-86.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-88.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-90.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-92.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-94.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-96.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-67.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-69.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-71.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-73.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-75.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-77.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-79.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-81.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-83.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-85.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-87.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-89.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-91.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-93.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-95.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-97.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
    "source": "general/espei/ZrH-12Zho/hmr-00.json",
    "reason": [
     "dft_superseded"
@@ -1407,13 +1147,6 @@
    "values": null
   },
   {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 5
-  },
-  {
    "source": "general/espei/no-model-DY-GD-LA-ND-RU/hmr-00.json",
    "reason": [
     "dft_superseded"
@@ -1503,35 +1236,6 @@
     "magnitude_implausible"
    ],
    "values": 8
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-08.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-09.json",
-   "reason": [
-    "not_in_release",
-    "value_differs_from_release"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-10.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-11.json",
-   "reason": [
-    "not_in_release"
-   ],
-   "values": 1
   },
   {
    "source": "general/espei-model/GeP-21Don/sm-model-00.json",
@@ -1716,60 +1420,6 @@
    "orchid_id": "ORC-UQ5FDHCSKH"
   },
   {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 0,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-PZXIZHHAIP"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 1,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-ILMCJPVOPV"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 2,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-HUZOQZP35I"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 3,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-L7TUNTS4KT"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 4,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 5,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-E5ZJYXRIYZ"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 6,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-X5KUH5UEST"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 7,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-KCBJNMJPT2"
-  },
-  {
-   "source": "general/espei/CuTl-89Che/acr_tl-03.json",
-   "index": 8,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-UOZTPI3A4H"
-  },
-  {
    "source": "general/espei/FeY-17Sae/smr-01.json",
    "index": 0,
    "reason": "magnitude_implausible",
@@ -1798,36 +1448,6 @@
    "index": 3,
    "reason": "magnitude_implausible",
    "orchid_id": "ORC-GEMURZ4OVE.4307e3"
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-00.json",
-   "index": 0,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-NETNWIDKUE"
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-01.json",
-   "index": 0,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-NETNWIDKUE"
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-02.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-02.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/FeZr-95Ser/hmr-03.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
   },
   {
    "source": "general/espei/GeP-21Don/sm-00.json",
@@ -1864,360 +1484,6 @@
    "index": 0,
    "reason": "magnitude_implausible",
    "orchid_id": "ORC-IHDYFUIRSU"
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-66.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-66.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-68.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-68.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-70.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-70.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-72.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-72.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-74.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-74.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-76.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-76.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-78.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-78.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-80.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-80.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-82.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-82.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-84.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-84.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-86.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-86.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-88.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-88.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-90.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-90.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-92.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-92.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-94.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/cpm-96.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-67.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-67.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-69.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-69.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-71.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-71.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-73.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-73.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-75.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-75.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-77.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-77.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-79.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-79.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-81.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-81.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-83.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-83.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-85.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-85.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-87.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-87.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-89.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-89.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-91.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-91.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-93.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-95.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/UC-01Che/sm-97.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
   },
   {
    "source": "general/espei/no-model-C-SI-Y/smr-02.json",
@@ -2278,252 +1544,6 @@
    "index": 9,
    "reason": "magnitude_implausible",
    "orchid_id": "ORC-6S6FJDBDPS.5c9f32"
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "index": 2,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "index": 3,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-00.json",
-   "index": 4,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 2,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 3,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 4,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 5,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 6,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 7,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 8,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 9,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 11,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 12,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 13,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 14,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 15,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 16,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 17,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 18,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 19,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 21,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 22,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 23,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 24,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 25,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 26,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 27,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 28,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-01.json",
-   "index": 29,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 2,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 3,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 4,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 5,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 6,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 7,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 8,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei/no-model-CD-GA-IN/hmr-02.json",
-   "index": 9,
-   "reason": "not_in_release",
-   "orchid_id": null
   },
   {
    "source": "general/espei-model/CaO-18Lia/hmr-model-03.json",
@@ -2740,42 +1760,6 @@
    "index": 7,
    "reason": "magnitude_implausible",
    "orchid_id": "ORC-5DSPYMO2OC.4756a4"
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-08.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-08.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-09.json",
-   "index": 0,
-   "reason": "value_differs_from_release",
-   "orchid_id": "ORC-WZSOFV53W4"
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-09.json",
-   "index": 1,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-10.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
-  },
-  {
-   "source": "general/espei-model/FeZr-95Ser/hmr-model-11.json",
-   "index": 0,
-   "reason": "not_in_release",
-   "orchid_id": null
   },
   {
    "source": "general/espei-model/GeP-21Don/sm-model-00.json",
@@ -4254,14 +3238,28 @@
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-2IEPTMKRTC",
+   "id": "ORC-2IEPTMKRTC.7da0d9",
    "compound": "Ag12Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-C6A7BK3CRU",
+   "id": "ORC-2IEPTMKRTC.d17026",
+   "compound": "Ag12Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-C6A7BK3CRU.8be91d",
+   "compound": "Ag12Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-C6A7BK3CRU.d000ab",
    "compound": "Ag12Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -4548,28 +3546,28 @@
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-5Y5PRUZMB2",
+   "id": "ORC-5Y5PRUZMB2.c05b32",
    "compound": "Ag2Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-BC2LZ73AND",
+   "id": "ORC-BC2LZ73AND.e8e3fd",
    "compound": "Ag2Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-QDB2TFAHB5",
+   "id": "ORC-QDB2TFAHB5.10dd99",
    "compound": "Ag2Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-UZUVCSCTEU",
+   "id": "ORC-UZUVCSCTEU.c30a3c",
    "compound": "Ag2Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -4765,14 +3763,28 @@
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-F6WUAXESL4",
+   "id": "ORC-F6WUAXESL4.93d4ac",
    "compound": "Ag3Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-FTPU3E5TTQ",
+   "id": "ORC-F6WUAXESL4.a1a014",
+   "compound": "Ag3Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-FTPU3E5TTQ.038558",
+   "compound": "Ag3Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-FTPU3E5TTQ.3cc763",
    "compound": "Ag3Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -4947,14 +3959,28 @@
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-O3K7RVVLMH",
+   "id": "ORC-O3K7RVVLMH.208d9a",
    "compound": "Ag6Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-SO4KQ2RZF6",
+   "id": "ORC-O3K7RVVLMH.3f510e",
+   "compound": "Ag6Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-SO4KQ2RZF6.a6b555",
+   "compound": "Ag6Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-SO4KQ2RZF6.e28110",
    "compound": "Ag6Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -5024,14 +4050,28 @@
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-BMYIGKRGHQ",
+   "id": "ORC-BMYIGKRGHQ.ab4c43",
    "compound": "Ag9Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
    "system": "AG-SE",
-   "id": "ORC-BR3BJ3WAT2",
+   "id": "ORC-BMYIGKRGHQ.ae82ec",
+   "compound": "Ag9Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-BR3BJ3WAT2.012e0d",
+   "compound": "Ag9Se",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "AG-SE",
+   "id": "ORC-BR3BJ3WAT2.987c33",
    "compound": "Ag9Se",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -59220,6 +58260,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "NI-PT",
+   "id": "ORC-X7RIOHTHF6",
+   "compound": "Ni3Pt",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "NI-PT",
    "compound": "Ni3Pt",
@@ -59229,7 +58276,7 @@
   {
    "source": "literature",
    "system": "NI-RU",
-   "id": "ORC-CNKA5EO5TS",
+   "id": "ORC-EEJVYGIGY3",
    "compound": "Ni3Ru",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -59764,6 +58811,13 @@
   {
    "source": "literature",
    "system": "NI-PT",
+   "id": "ORC-EY6RZ5VUHV",
+   "compound": "NiPt",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "NI-PT",
    "id": "ORC-TJTQXRTTEQ",
    "compound": "NiPt",
    "reason": "label_not_mapped_to_registry_phase"
@@ -59776,6 +58830,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "NI-PT",
+   "id": "ORC-YPLN6GXWBG",
+   "compound": "NiPt3",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "NI-PT",
    "compound": "NiPt3",
@@ -59785,14 +58846,7 @@
   {
    "source": "literature",
    "system": "NI-RU",
-   "id": "ORC-EEJVYGIGY3",
-   "compound": "NiRu",
-   "reason": "label_not_mapped_to_registry_phase"
-  },
-  {
-   "source": "literature",
-   "system": "NI-RU",
-   "id": "ORC-ZC5QIC3EQM",
+   "id": "ORC-22FCDAQURR",
    "compound": "NiRu",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -59800,6 +58854,13 @@
    "source": "literature",
    "system": "NI-RU",
    "id": "ORC-UKEBJMLR64",
+   "compound": "NiRu",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "NI-RU",
+   "id": "ORC-ZC5QIC3EQM",
    "compound": "NiRu3",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -88592,17 +87653,17 @@
   }
  ],
  "summary": {
-  "datasets": 7591,
-  "values": 19287,
+  "datasets": 7639,
+  "values": 19419,
   "by_folder": {
    "experimental": {
-    "datasets": 1641,
-    "values": 5435,
+    "datasets": 1679,
+    "values": 5549,
     "systems": 246
    },
    "model": {
-    "datasets": 754,
-    "values": 2304,
+    "datasets": 758,
+    "values": 2310,
     "systems": 126
    },
    "invariants": {
@@ -88611,9 +87672,9 @@
     "systems": 537
    },
    "dft/literature": {
-    "datasets": 473,
-    "values": 1080,
-    "systems": 48
+    "datasets": 479,
+    "values": 1092,
+    "systems": 49
    },
    "dft/mp": {
     "datasets": 1290,
@@ -88627,7 +87688,7 @@
    }
   },
   "by_folder_output": {
-   "dft/literature/HM_FORM": 473,
+   "dft/literature/HM_FORM": 479,
    "dft/mp/HM_FORM": 1290,
    "dft/oqmd/HM_FORM": 1290,
    "experimental/ACR_B": 1,
@@ -88640,13 +87701,13 @@
    "experimental/ACR_PB": 4,
    "experimental/ACR_SI": 1,
    "experimental/ACR_TI": 8,
-   "experimental/ACR_TL": 3,
+   "experimental/ACR_TL": 4,
    "experimental/ACR_YB": 13,
    "experimental/ACR_ZR": 16,
-   "experimental/CPM": 399,
+   "experimental/CPM": 415,
    "experimental/GMR": 78,
-   "experimental/HMR": 728,
-   "experimental/SM": 69,
+   "experimental/HMR": 733,
+   "experimental/SM": 85,
    "experimental/SMR": 64,
    "experimental/ZPF": 224,
    "invariants/ZPF": 2143,
@@ -88657,7 +87718,7 @@
    "model/ACR_ZR": 16,
    "model/CPM": 83,
    "model/GMR": 72,
-   "model/HMR": 359,
+   "model/HMR": 363,
    "model/SM": 115,
    "model/SMR": 61,
    "model/ZPF": 12
@@ -88672,9 +87733,7 @@
    "composition_differs_from_release": 1,
    "dft_superseded": 124,
    "magnitude_implausible": 18,
-   "not_in_release": 38,
-   "not_in_release;value_differs_from_release": 2,
-   "value_differs_from_release": 18
+   "value_differs_from_release": 16
   },
   "datasets_excluded_by_espei": {
    "mole_fractions_sum_above_one": 1,
@@ -88684,37 +87743,35 @@
    "composition_differs_from_release": 6,
    "evidence_class_mismatch": 2,
    "magnitude_implausible": 57,
-   "not_in_release": 109,
-   "value_differs_from_release": 40
+   "value_differs_from_release": 29
   },
   "reader_agreement": {
-   "experimental/multi_reader": 5277,
+   "experimental/multi_reader": 5391,
    "experimental/single_reader": 33,
    "experimental/single_reader_text_layer": 125,
    "invariants/not_classified": 7888,
-   "model/multi_reader": 2206,
-   "model/single_reader": 18,
-   "model/single_reader_text_layer": 80
+   "model/multi_reader": 2212,
+   "model/single_reader": 17,
+   "model/single_reader_text_layer": 81
   },
-  "reader_agreement_source": "record_store",
+  "reader_agreement_source": "release",
   "observation_match": {
-   "id": 15707,
-   "row": 12
+   "id": 15839
   },
   "datasets_with_espei_evaluation": 15,
   "dft_candidates": {
-   "literature": 327,
+   "literature": 331,
    "mp": 658,
    "oqmd": 658
   },
   "dft_values_mapped": {
-   "literature": 1080,
+   "literature": 1092,
    "mp": 1290,
    "oqmd": 1290
   },
   "dft_exclusions": {
    "literature/composition_not_parsed": 434,
-   "literature/label_not_mapped_to_registry_phase": 226,
+   "literature/label_not_mapped_to_registry_phase": 237,
    "literature/no_endmember_at_composition": 96,
    "literature/several_endmembers_at_composition": 91,
    "mp/not_in_phase_registry": 4515,

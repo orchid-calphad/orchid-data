@@ -54,11 +54,11 @@
  "reference": "Fan 2021, doi:10.1007/s11669-021-00887-9; Saenko 2017, doi:10.1007/s11669-017-0574-3",
  "bibtex": "fan2021_67b108 saenko2017_3a66b4",
  "weight": [
-  0.130959,
-  0.130959,
-  0.130959,
-  0.130959,
-  0.130959
+  0.128535,
+  0.128535,
+  0.128535,
+  0.128535,
+  0.128535
  ],
  "tags": [
   "dft_literature",
@@ -132,7 +132,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 3818.0,
+    "sigma": 3890.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -140,16 +140,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "FE-Y",
-     "n": 74,
-     "sigma_robust_kJ": 3.818,
-     "bias_median_kJ_not_applied": 0.792,
+     "n": 75,
+     "sigma_robust_kJ": 3.89,
+     "bias_median_kJ_not_applied": 0.924,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.466,
-      4.577
+      2.391,
+      4.322
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 95
     },
-    "weight_used": 0.130959,
+    "weight_used": 0.128535,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.144,
@@ -159,7 +159,7 @@
     "compound": "Fe3Y"
    },
    {
-    "sigma": 3818.0,
+    "sigma": 3890.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -167,16 +167,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "FE-Y",
-     "n": 74,
-     "sigma_robust_kJ": 3.818,
-     "bias_median_kJ_not_applied": 0.792,
+     "n": 75,
+     "sigma_robust_kJ": 3.89,
+     "bias_median_kJ_not_applied": 0.924,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.466,
-      4.577
+      2.391,
+      4.322
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 95
     },
-    "weight_used": 0.130959,
+    "weight_used": 0.128535,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -7.519,
@@ -186,7 +186,7 @@
     "compound": "Fe3Y"
    },
    {
-    "sigma": 3818.0,
+    "sigma": 3890.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -194,16 +194,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "FE-Y",
-     "n": 74,
-     "sigma_robust_kJ": 3.818,
-     "bias_median_kJ_not_applied": 0.792,
+     "n": 75,
+     "sigma_robust_kJ": 3.89,
+     "bias_median_kJ_not_applied": 0.924,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.466,
-      4.577
+      2.391,
+      4.322
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 95
     },
-    "weight_used": 0.130959,
+    "weight_used": 0.128535,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -7.6,
@@ -213,7 +213,7 @@
     "compound": "Fe3Y"
    },
    {
-    "sigma": 3818.0,
+    "sigma": 3890.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -221,16 +221,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "FE-Y",
-     "n": 74,
-     "sigma_robust_kJ": 3.818,
-     "bias_median_kJ_not_applied": 0.792,
+     "n": 75,
+     "sigma_robust_kJ": 3.89,
+     "bias_median_kJ_not_applied": 0.924,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.466,
-      4.577
+      2.391,
+      4.322
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 95
     },
-    "weight_used": 0.130959,
+    "weight_used": 0.128535,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.144,
@@ -240,7 +240,7 @@
     "compound": "Fe3Y"
    },
    {
-    "sigma": 3818.0,
+    "sigma": 3890.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -248,16 +248,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "FE-Y",
-     "n": 74,
-     "sigma_robust_kJ": 3.818,
-     "bias_median_kJ_not_applied": 0.792,
+     "n": 75,
+     "sigma_robust_kJ": 3.89,
+     "bias_median_kJ_not_applied": 0.924,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.466,
-      4.577
+      2.391,
+      4.322
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 95
     },
-    "weight_used": 0.130959,
+    "weight_used": 0.128535,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.06,

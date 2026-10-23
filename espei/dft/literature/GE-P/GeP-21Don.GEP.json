@@ -69,14 +69,14 @@
  "reference": "Dong 2021, doi:10.1007/s11664-021-08861-4",
  "bibtex": "dong2021_a8a720",
  "weight": [
-  0.066383,
-  0.066383,
-  0.066383,
-  0.066383,
-  0.066383,
-  0.066383,
-  0.066383,
-  0.066383
+  0.065488,
+  0.065488,
+  0.065488,
+  0.065488,
+  0.065488,
+  0.065488,
+  0.065488,
+  0.065488
  ],
  "tags": [
   "dft_literature",
@@ -169,7 +169,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -177,16 +177,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.07236399909,
@@ -196,7 +196,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -204,16 +204,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.072,
@@ -223,7 +223,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -231,16 +231,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -11.48175452,
@@ -250,7 +250,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -258,16 +258,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -11.48,
@@ -277,7 +277,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -285,16 +285,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -3.859413285,
@@ -304,7 +304,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -312,16 +312,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -3.86,
@@ -331,7 +331,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -339,16 +339,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 1.45,
@@ -358,7 +358,7 @@
     "compound": "GeP"
    },
    {
-    "sigma": 7532.0,
+    "sigma": 7635.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -366,16 +366,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-P",
-     "n": 52,
-     "sigma_robust_kJ": 7.532,
-     "bias_median_kJ_not_applied": -0.3,
+     "n": 56,
+     "sigma_robust_kJ": 7.635,
+     "bias_median_kJ_not_applied": 0.15,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.262,
-      11.505
+      5.244,
+      11.298
      ],
-     "n_full_stratum": 60
+     "n_full_stratum": 64
     },
-    "weight_used": 0.066383,
+    "weight_used": 0.065488,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 1.447279982,
