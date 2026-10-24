@@ -160,18 +160,18 @@ Table: Crystal structure, Cu–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4387 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.527 nm | 298.15 | Cu4Nd; _alloy: Nd 0.2_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.511 nm | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.8064 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.7279 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.7059 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
-| Lattice b | 0.5058 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
-| Lattice b | 0.4514 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.742 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
-| Lattice c | 0.4107 nm | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
-| Lattice c | 1.0113 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.5636 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.387 Å | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice a | 5.27 Å | 298.15 | Cu4Nd; _alloy: Nd 0.2_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.11 Å | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
+| Lattice a | 8.064 Å | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice a | 7.279 Å | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+| Lattice b | 7.059 Å | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice b | 5.058 Å | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice b | 4.514 Å | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+| Lattice c | 7.42 Å | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice c | 4.107 Å | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
+| Lattice c | 10.113 Å | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice c | 5.636 Å | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
 
 ## Sources
 
@@ -238,4 +238,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

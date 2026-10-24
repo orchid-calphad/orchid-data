@@ -438,50 +438,50 @@ Table: Crystal structure, Ni–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.348 nm | 0 | (Ni); _alloy: Tb 0_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 21 |  |
-| Lattice a | 0.367 nm | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
-| Lattice a | 0.402 nm |  | (β-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 4 |  |
-| Lattice a | 0.402 nm | 0 | (β-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 3 |  |
-| Lattice a | 0.827 nm | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
-| Lattice a | 0.493 nm | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
-| Lattice a | 0.682 nm | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
-| Lattice a | 0.957 nm | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
-| Lattice a | 0.372 nm | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
-| Lattice a | 0.711 nm | 0 | TbNi2; _alloy: Tb 0.333333_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 11 |  |
-| Lattice a | 0.496 nm | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
-| Lattice a | 0.484 nm | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
-| Lattice a | 0.352 nm | 298.15 | (Ni); _alloy: Tb 0_ | experimental | [3] Rahou 2024; _cites Kittel 1996_ | Table 1, p. 4, row 22 |  |
-| Lattice a | 0.361 nm | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
-| Lattice a | 0.831 nm | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
-| Lattice a | 0.494 nm | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
-| Lattice a | 0.688 nm | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
-| Lattice a | 0.964 nm | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
-| Lattice a | 0.374 nm | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
-| Lattice a | 0.716 nm | 298.15 | TbNi2; _alloy: Tb 0.333333_ | experimental | [3] Rahou 2024; _cites Wernick 1960_ | Table 1, p. 4, row 12 |  |
-| Lattice a | 0.496 nm | 298.15 | TbNi3; _alloy: Tb 0.25_ | experimental | [3] Rahou 2024; _cites Paccard 1967_ | Table 1, p. 4, row 14 |  |
-| Lattice a | 0.489 nm | 298.15 | TbNi5; _alloy: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 4, row 18 |  |
-| Lattice b | 0.972 nm | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
-| Lattice b | 0.366 nm | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
-| Lattice b | 1.013 nm | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
-| Lattice b | 0.961 nm | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
-| Lattice b | 0.371 nm | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
-| Lattice b | 1.026 nm | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
-| Lattice c | 0.56 nm | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
-| Lattice c | 0.801 nm | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
-| Lattice c | 3.599 nm | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
-| Lattice c | 0.632 nm | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
-| Lattice c | 1.323 nm | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
-| Lattice c | 0.42 nm | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
-| Lattice c | 2.434 nm | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
-| Lattice c | 0.391 nm | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
-| Lattice c | 0.569 nm | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
-| Lattice c | 0.804 nm | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
-| Lattice c | 3.623 nm | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
-| Lattice c | 0.629 nm | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
-| Lattice c | 1.338 nm | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
-| Lattice c | 0.422 nm | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
-| Lattice c | 2.446 nm | 298.15 | TbNi3; _alloy: Tb 0.25_ | experimental | [3] Rahou 2024; _cites Paccard 1967_ | Table 1, p. 4, row 14 |  |
-| Lattice c | 0.396 nm | 298.15 | TbNi5; _alloy: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 4, row 18 |  |
+| Lattice a | 3.48 Å | 0 | (Ni); _alloy: Tb 0_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 21 |  |
+| Lattice a | 3.67 Å | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
+| Lattice a | 4.02 Å |  | (β-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 4 |  |
+| Lattice a | 4.02 Å | 0 | (β-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 3 |  |
+| Lattice a | 8.27 Å | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
+| Lattice a | 4.93 Å | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
+| Lattice a | 6.82 Å | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
+| Lattice a | 9.57 Å | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
+| Lattice a | 3.72 Å | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
+| Lattice a | 7.11 Å | 0 | TbNi2; _alloy: Tb 0.333333_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 11 |  |
+| Lattice a | 4.96 Å | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
+| Lattice a | 4.84 Å | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
+| Lattice a | 3.52 Å | 298.15 | (Ni); _alloy: Tb 0_ | experimental | [3] Rahou 2024; _cites Kittel 1996_ | Table 1, p. 4, row 22 |  |
+| Lattice a | 3.61 Å | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 8.31 Å | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
+| Lattice a | 4.94 Å | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
+| Lattice a | 6.88 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
+| Lattice a | 9.64 Å | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
+| Lattice a | 3.74 Å | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
+| Lattice a | 7.16 Å | 298.15 | TbNi2; _alloy: Tb 0.333333_ | experimental | [3] Rahou 2024; _cites Wernick 1960_ | Table 1, p. 4, row 12 |  |
+| Lattice a | 4.96 Å | 298.15 | TbNi3; _alloy: Tb 0.25_ | experimental | [3] Rahou 2024; _cites Paccard 1967_ | Table 1, p. 4, row 14 |  |
+| Lattice a | 4.89 Å | 298.15 | TbNi5; _alloy: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 4, row 18 |  |
+| Lattice b | 9.72 Å | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
+| Lattice b | 3.66 Å | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
+| Lattice b | 10.13 Å | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
+| Lattice b | 9.61 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
+| Lattice b | 3.71 Å | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
+| Lattice b | 10.26 Å | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
+| Lattice c | 5.6 Å | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
+| Lattice c | 8.01 Å | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
+| Lattice c | 35.99 Å | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
+| Lattice c | 6.32 Å | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
+| Lattice c | 13.23 Å | 0 | Tb3Ni2; _alloy: Tb 0.6_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 7 |  |
+| Lattice c | 4.2 Å | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
+| Lattice c | 24.34 Å | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
+| Lattice c | 3.91 Å | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
+| Lattice c | 5.69 Å | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
+| Lattice c | 8.04 Å | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
+| Lattice c | 36.23 Å | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
+| Lattice c | 6.29 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
+| Lattice c | 13.38 Å | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
+| Lattice c | 4.22 Å | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
+| Lattice c | 24.46 Å | 298.15 | TbNi3; _alloy: Tb 0.25_ | experimental | [3] Rahou 2024; _cites Paccard 1967_ | Table 1, p. 4, row 14 |  |
+| Lattice c | 3.96 Å | 298.15 | TbNi5; _alloy: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 4, row 18 |  |
 
 ## Sources
 
@@ -548,4 +548,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

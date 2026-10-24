@@ -143,19 +143,19 @@ Table: Crystal structure, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3005 nm | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
-| Lattice a | 0.64892 nm | 286.2 (\<) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
-| Lattice a | 0.58286 nm | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
-| Lattice a | 0.555104 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
-| Lattice a | 0.32109 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
-| Lattice a | 0.58317 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
-| Lattice a | 0.32415 nm | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
-| Lattice b | 0.31791 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
-| Lattice c | 0.31805 nm | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
-| Lattice c | 0.298311 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
-| Lattice c | 0.29888 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
-| Lattice c | 0.31813 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
-| Lattice c | 0.30065 nm | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
+| Lattice a | 3.005 Å | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
+| Lattice a | 6.4892 Å | 286.2 (\<) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
+| Lattice a | 5.8286 Å | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
+| Lattice a | 5.55104 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice a | 3.2109 Å | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
+| Lattice a | 5.8317 Å | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
+| Lattice a | 3.2415 Å | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
+| Lattice b | 3.1791 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice c | 3.1805 Å | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
+| Lattice c | 2.98311 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice c | 2.9888 Å | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
+| Lattice c | 3.1813 Å | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
+| Lattice c | 3.0065 Å | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
 | lattice alpha | 70.53 ° | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
 
 ### Other property (1)
@@ -229,4 +229,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -77,28 +77,28 @@ Table: Crystal structure, Hf–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.43243 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| Lattice a | 0.43761 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1 |  |
-| Lattice a | 0.48073 nm | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| Lattice a | 0.39047 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| Lattice a | 0.42543 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5 |  |
-| Lattice a | 0.34342 nm | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3 |  |
-| Lattice a | 0.41999 nm | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 9 |  |
-| Lattice a | 0.3193 nm | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
-| Lattice a | 0.31866 nm | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
-| Lattice a | 0.35121 nm | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1 |  |
-| Lattice a | 0.32929 nm | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 7 |  |
-| Lattice a | 0.44454 nm | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4 |  |
-| Lattice a | 0.28453 nm | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
-| Lattice a | 0.33024 nm | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002 | Table 1, p. 6, row 12 |  |
-| Lattice a | 0.33024 nm | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 8 |  |
-| Lattice a | 0.33024 nm | 298.15 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 13 |  |
-| Lattice c | 0.89507 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| Lattice c | 0.33818 nm | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| Lattice c | 0.98884 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| Lattice c | 0.50395 nm | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
-| Lattice c | 0.50296 nm | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
-| Lattice c | 0.52551 nm | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
+| Lattice a | 4.3243 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
+| Lattice a | 4.3761 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1 |  |
+| Lattice a | 4.8073 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
+| Lattice a | 3.9047 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
+| Lattice a | 4.2543 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5 |  |
+| Lattice a | 3.4342 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3 |  |
+| Lattice a | 4.1999 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 9 |  |
+| Lattice a | 3.193 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
+| Lattice a | 3.1866 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
+| Lattice a | 3.5121 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1 |  |
+| Lattice a | 3.2929 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 7 |  |
+| Lattice a | 4.4454 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4 |  |
+| Lattice a | 2.8453 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
+| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002 | Table 1, p. 6, row 12 |  |
+| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 8 |  |
+| Lattice a | 3.3024 Å | 298.15 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 13 |  |
+| Lattice c | 8.9507 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
+| Lattice c | 3.3818 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
+| Lattice c | 9.8884 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
+| Lattice c | 5.0395 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
+| Lattice c | 5.0296 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
+| Lattice c | 5.2551 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

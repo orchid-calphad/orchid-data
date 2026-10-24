@@ -96,7 +96,7 @@ Table: Invariant reactions reported in the literature for the Ag–Gd system (39
 | 1098 | eutectic: L -> Ag2Gd + AgGd | L: Gd 0.375; Ag2Gd: Gd 0.333333; AgGd: Gd 0.5 | experimental | [2] Wang 2008; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 2, p. 3, row 7 |  |
 | 1098 | eutectic: L -> Ag2Gd + AgGd | L: Gd 0.3455; Ag2Gd: Gd 0.333333; AgGd: Gd 0.5 | model | [2] Wang 2008 | Table 2, p. 3, row 8 |  |
 | 1078.15 | eutectic: L ↔ Ag51Gd14 + (Ag) | L: Gd 0.11; Ag51Gd14: Gd 0.215; (Ag): Gd 0.0095 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 23 |  |
-| 1078.15 | eutectic: L ↔ Ag51Gd14 + (Ag) | Ag51Gd14: Gd 0.215; (Ag): Gd 0.0095 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 3, p. 4, row 22 |  |
+| 1078.15 | eutectic: L ↔ Ag51Gd14 + (Ag) | Ag51Gd14: Gd 0.215; (Ag): Gd 0.0095 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 3, p. 4, row 22 |  |
 | 1078.05 | eutectic: L ↔ Ag51Gd14 + (Ag) | L: Gd 0.0899; Ag51Gd14: Gd 0.215; (Ag): Gd 0.0093 | model | [1] Wang 2009 | Table 3, p. 4, row 24 |  |
 | 1066 | eutectic: L -> AgGd + Gd | L: Gd 0.71; AgGd: Gd 0.5 | model | [2] Wang 2008 | Table 2, p. 3, row 12 |  |
 | 1063.15 | eutectic: L ↔ αGd + AgGd | L: Gd 0.775; αGd: Gd 1; AgGd: Gd 0.5 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 6 |  |
@@ -194,4 +194,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

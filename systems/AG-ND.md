@@ -115,8 +115,8 @@ Table: Invariant reactions reported in the literature for the Ag–Nd system (67
 | 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 17 |  |
 | 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.408; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 18 |  |
 | 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 16 |  |
-| 1081.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 5, p. 5, row 42 |  |
-| 1081 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Gschneidner 1961_ | Table 2, p. 3, row 4 |  |
+| 1081.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 5, p. 5, row 42 |  |
+| 1081 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Gschneidner 1970_ | Table 2, p. 3, row 4 |  |
 | 1079.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.105; Ag51Nd14: Ag 0.784615, Nd 0.215385; (Ag): Nd 0.002 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 43 |  |
 | 1079 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.105; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 5 |  |
 | 1078.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.1; Ag51Nd14: Nd 0.25; (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 41 |  |
@@ -237,4 +237,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

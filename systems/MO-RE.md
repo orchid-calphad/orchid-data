@@ -92,13 +92,13 @@ Table: Invariant reactions reported in the literature for the Mo–Re system (82
 | 2843 | peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.6 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 3 |  |
 | 2799 | eutectic: Liquid ⇔ bcc + σ | L: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 2 |  |
 | 2799 | eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.43; liq: Re 0.45 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 13 |  |
-| 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; σ: Re 0.54; BCC: Re 0.43 | model | [5] Yen 2020; _cites Mao 2007_ | Table VI, p. 39, row 3 |  |
+| 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; σ: Re 0.54; BCC: Re 0.43 | model | [5] Yen 2020; _cites Mao 2008_ | Table VI, p. 39, row 3 |  |
 | 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 3 |  |
 | 2793 | peritectic: liquid+hcp -> σ | hcp: Re 0.85; liq: Re 0.72 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 2 |  |
 | 2793 | peritectic: Liquid + (Re) = σ | (Re): Re 0.85; σ: Re 0.72 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 5 |  |
 | 2786 | eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.42; liq: Re 0.44 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 14 |  |
 | 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; bcc: Re 0.42; σ: Re 0.53 | model | [4] Yang 2010 | Table 1, p. 2, row 4 |  |
-| 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; σ: Re 0.53; BCC: Re 0.42 | DFT | [5] Yen 2020; _cites Yang 2009_ | Table VI, p. 39, row 4 |  |
+| 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; σ: Re 0.53; BCC: Re 0.42 | DFT | [5] Yen 2020; _cites Yang 2010_ | Table VI, p. 39, row 4 |  |
 | 2778 | eutectic: Liquid + (Mo) + σ | Liquid: Re 0.489 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 3 |  |
 | 2778 | eutectic: Liquid ⇔ bcc + σ | L: Re 0.49; bcc: Re 0.425; σ: Re 0.53 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 1 |  |
 | 2778 | Liquid -> bcc + σ | bcc: Re 0.43; σ: Re 0.52 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 1 |  |
@@ -368,4 +368,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

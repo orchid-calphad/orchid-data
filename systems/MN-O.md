@@ -285,7 +285,7 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 21 |  |
 | Entropy; _printed: °S298_ | 22.25 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 9 |  |
 | Entropy; _printed: °S298_ | 24.0486 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003 | Table 10, p. 15, row 16 |  |
-| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 11 |  |
+| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 11 |  |
 | Entropy; _printed: °S298_ | 22.1143 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 14 |  |
 | Entropy; _printed: °S298_ | 23.4429 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 12 |  |
 | Entropy; _printed: °S298_ | 22.01 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 15 |  |
@@ -296,14 +296,14 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Todd 1951_ [doi](https://doi.org/10.1021/ja01152a099) | Table 10, p. 15, row 7 |  |
 | Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003 | Table 10, p. 15, row 8 |  |
 | Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Shapiro 1999_ [doi](https://doi.org/10.1006/jcht.1998.0479) | Table 10, p. 15, row 1 |  |
-| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 3 |  |
+| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 3 |  |
 | Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 2 |  |
 | Entropy; _printed: °S298_ | 59.87 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 6 |  |
 | Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 32 |  |
 | Entropy; _printed: °S298_ | 59.87 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 36 |  |
 | Entropy; _printed: °S298_ | 53.17 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 34 |  |
 | Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Todd 1951_ [doi](https://doi.org/10.1021/ja01152a099) | Table 10, p. 15, row 37 |  |
-| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 33 |  |
+| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 33 |  |
 | Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Shapiro 1999_ [doi](https://doi.org/10.1006/jcht.1998.0479) | Table 10, p. 15, row 31 |  |
 | Entropy; _printed: °S298_ | 59.8 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 35 |  |
 | Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003 | Table 10, p. 15, row 38 |  |
@@ -314,7 +314,7 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 22.1 J/mol-atom/K | 298.15 | Mn2O3; _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 50 |  |
 | Entropy; _printed: °S298_ | 22.42 J/mol-atom/K | 298.15 | Mn2O3; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 10, p. 15, row 52 |  |
 | Entropy; _printed: °S298_ | 22.1143 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 44 |  |
-| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | experimental | [2] Kjellqvist 2010; _cites Millar 1883_ | Table 1, p. 5, row 16 |  |
+| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | experimental | [2] Kjellqvist 2010; _cites Millar 1928_ | Table 1, p. 5, row 16 |  |
 | Entropy; _printed: °S298_ | 23.6729 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [2] Kjellqvist 2010 | Table 1, p. 5, row 22 |  |
 | Entropy; _printed: °S298_ | 23.8714 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | experimental | [2] Kjellqvist 2010; _cites Chhor 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990047-9) | Table 1, p. 5, row 18 |  |
 | Entropy; _printed: °S298_ | 22.25 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 39 |  |
@@ -324,7 +324,7 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 23.8714 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Chhor 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990047-9) | Table 10, p. 15, row 43 |  |
 | Entropy; _printed: °S298_ | 23.4429 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 42 |  |
 | Entropy; _printed: °S298_ | 22.01 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | experimental | [2] Kjellqvist 2010; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 1, p. 5, row 20 |  |
-| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 41 |  |
+| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 41 |  |
 | Entropy; _printed: °S298_ | 22.25 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | unspecified | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 14 |  |
 | Entropy; _printed: °S298_ | 24.0486 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | model | [2] Kjellqvist 2010; _cites Grundy 2003_ | Table 1, p. 5, row 21 |  |
 | Entropy; _printed: °S298_ | 22.1143 J/mol-atom/K | 298.15 | Mn3O4; _alloy: O 0.571429_ | unspecified | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | Table 1, p. 5, row 19 |  |
@@ -334,11 +334,11 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 59 |  |
 | Entropy; _printed: °S298_ | 18.0867 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Moore 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 54 |  |
 | Entropy; _printed: °S298_ | 17.9833 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003 | Table 10, p. 15, row 60 |  |
-| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 55 |  |
+| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 55 |  |
 | Entropy; _printed: °S298_ | 17.7233 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 58 |  |
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 53 |  |
 | Entropy; _printed: °S298_ | 17.7 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 57 |  |
-| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 25 |  |
+| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1928_ | Table 10, p. 15, row 25 |  |
 | Entropy; _printed: °S298_ | 17.7 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 27 |  |
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 29 |  |
 | Entropy; _printed: °S298_ | 17.7233 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 28 |  |
@@ -531,4 +531,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

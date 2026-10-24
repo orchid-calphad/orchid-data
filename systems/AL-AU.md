@@ -193,67 +193,67 @@ Table: Crystal structure, Al–Au system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3236 nm |  | β; _β: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 27 |  |
-| Lattice a | 0.5988 nm | 4.2 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | experimental | [1] Murray 1987; _cites ref. 65Jan_ | Table 3, p. 6, row 43 |  |
-| Lattice a | 0.59864 nm | 40 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 47 |  |
-| Lattice a | 0.59867 nm | 60 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 46 |  |
-| Lattice a | 0.59891 nm | 140 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 45 |  |
-| Lattice a | 0.5991 nm | 180 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 44 |  |
-| Lattice a | 0.42906 nm | 298.15 | (Al); _(Al): Al 1, Au 0_ | experimental | [1] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42 |  |
-| Lattice a | 0.40737 nm | 298.15 | (Au); _(Au): Al 0.036, Au 0.964_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 33 |  |
-| Lattice a | 0.40724 nm | 298.15 | (Au); _(Au): Al 0.0457, Au 0.9543_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 38 |  |
-| Lattice a | 0.40781 nm | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40 |  |
-| Lattice a | 0.40624 nm | 298.15 | (Au); _(Au): Al 0.1156, Au 0.8844_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 35 |  |
-| Lattice a | 0.40692 nm | 298.15 | (Au); _(Au): Al 0.069, Au 0.931_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 32 |  |
-| Lattice a | 0.40762 nm | 298.15 | (Au); _(Au): Al 0.0174, Au 0.9826_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 39 |  |
-| Lattice a | 0.40697 nm | 298.15 | (Au); _(Au): Al 0.0678, Au 0.9322_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 37 |  |
-| Lattice a | 0.4066 nm | 298.15 | (Au); _(Au): Al 0.0911, Au 0.9089_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 36 |  |
-| Lattice a | 0.406 nm | 298.15 | (Au); _(Au): Al 0.131, Au 0.869_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 30 |  |
-| Lattice a | 0.40784 nm | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41 |  |
-| Lattice a | 0.40589 nm | 298.15 | (Au); _(Au): Al 0.1402, Au 0.8598_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 34 |  |
-| Lattice a | 0.40644 nm | 298.15 | (Au); _(Au): Al 0.101, Au 0.899_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 31 |  |
-| Lattice a | 0.598 nm | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 7 |  |
-| Lattice a | 0.5991 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 10 |  |
-| Lattice a | 0.59891 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 11 |  |
-| Lattice a | 0.59876 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 12 |  |
-| Lattice a | 0.59864 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 15 |  |
-| Lattice a | 0.599695 nm | 298.15 | Al2Au; _Al2Au: Al 0.6608, Au 0.3392_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 4 |  |
-| Lattice a | 0.599797 nm | 298.15 | Al2Au; _Al2Au: Al 0.6708, Au 0.3292_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 2 |  |
-| Lattice a | 0.59867 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 14 |  |
-| Lattice a | 0.6 nm | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 8 |  |
-| Lattice a | 0.59871 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 13 |  |
-| Lattice a | 0.6 nm | 298.15 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 5 |  |
-| Lattice a | 0.5988 nm | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 6 |  |
-| Lattice a | 0.59973 nm | 298.15 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 9 |  |
-| Lattice a | 0.7719 nm | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 25 |  |
-| Lattice a | 1.468 nm | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 24 |  |
-| Lattice a | 0.875 nm | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 26 |  |
-| Lattice a | 0.6415 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
-| Lattice a | 0.314 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 18 |  |
-| Lattice a | 0.6405 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
-| Lattice a | 0.6916 nm | 298.15 | AlAu4; _AlAu4: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 28 |  |
-| Lattice a | 0.69208 nm | 298.15 | AlAu4; _AlAu4: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 29 |  |
-| Lattice a | 0.6715 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
-| Lattice a | 0.336 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
-| Lattice a | 0.6755 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
-| Lattice a | 0.3236 nm | 298.15 | β; _β: Al 0.198, Au 0.802_ | experimental | [1] Murray 1987; _cites ref. 51Kuz_ | Table 3, p. 6, row 48 |  |
-| Lattice a | 1.6772 nm | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
-| Lattice a | 0.3349 nm | 298.15 | γAlAu2; _γAlAu2: Al 0.332, Au 0.668_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 19 |  |
-| Lattice b | 0.3331 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
-| Lattice b | 0.3333 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
-| Lattice b | 0.8815 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
-| Lattice b | 0.884 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
-| Lattice b | 0.8871 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
-| Lattice b | 0.3219 nm | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
-| Lattice c | 4.196 nm | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 25 |  |
-| Lattice c | 4.23 nm | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 26 |  |
-| Lattice c | 0.6339 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
-| Lattice c | 0.6327 nm | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
-| Lattice c | 0.3219 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
-| Lattice c | 0.321 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
-| Lattice c | 0.3236 nm | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
-| Lattice c | 0.8801 nm | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
-| Lattice c | 0.8893 nm | 298.15 | γAlAu2; _γAlAu2: Al 0.332, Au 0.668_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 19 |  |
+| Lattice a | 3.236 Å |  | β; _β: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 27 |  |
+| Lattice a | 5.988 Å | 4.2 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | experimental | [1] Murray 1987; _cites ref. 65Jan_ | Table 3, p. 6, row 43 |  |
+| Lattice a | 5.9864 Å | 40 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 47 |  |
+| Lattice a | 5.9867 Å | 60 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 46 |  |
+| Lattice a | 5.9891 Å | 140 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 45 |  |
+| Lattice a | 5.991 Å | 180 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 44 |  |
+| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1, Au 0_ | experimental | [1] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42 |  |
+| Lattice a | 4.0737 Å | 298.15 | (Au); _(Au): Al 0.036, Au 0.964_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 33 |  |
+| Lattice a | 4.0724 Å | 298.15 | (Au); _(Au): Al 0.0457, Au 0.9543_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 38 |  |
+| Lattice a | 4.0781 Å | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40 |  |
+| Lattice a | 4.0624 Å | 298.15 | (Au); _(Au): Al 0.1156, Au 0.8844_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 35 |  |
+| Lattice a | 4.0692 Å | 298.15 | (Au); _(Au): Al 0.069, Au 0.931_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 32 |  |
+| Lattice a | 4.0762 Å | 298.15 | (Au); _(Au): Al 0.0174, Au 0.9826_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 39 |  |
+| Lattice a | 4.0697 Å | 298.15 | (Au); _(Au): Al 0.0678, Au 0.9322_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 37 |  |
+| Lattice a | 4.066 Å | 298.15 | (Au); _(Au): Al 0.0911, Au 0.9089_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 36 |  |
+| Lattice a | 4.06 Å | 298.15 | (Au); _(Au): Al 0.131, Au 0.869_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 30 |  |
+| Lattice a | 4.0784 Å | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41 |  |
+| Lattice a | 4.0589 Å | 298.15 | (Au); _(Au): Al 0.1402, Au 0.8598_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 34 |  |
+| Lattice a | 4.0644 Å | 298.15 | (Au); _(Au): Al 0.101, Au 0.899_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 31 |  |
+| Lattice a | 5.98 Å | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 7 |  |
+| Lattice a | 5.991 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 10 |  |
+| Lattice a | 5.9891 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 11 |  |
+| Lattice a | 5.9876 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 12 |  |
+| Lattice a | 5.9864 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 15 |  |
+| Lattice a | 5.99695 Å | 298.15 | Al2Au; _Al2Au: Al 0.6608, Au 0.3392_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 4 |  |
+| Lattice a | 5.99797 Å | 298.15 | Al2Au; _Al2Au: Al 0.6708, Au 0.3292_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 2 |  |
+| Lattice a | 5.9867 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 14 |  |
+| Lattice a | 6 Å | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 8 |  |
+| Lattice a | 5.9871 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 13 |  |
+| Lattice a | 6 Å | 298.15 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 5 |  |
+| Lattice a | 5.988 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 6 |  |
+| Lattice a | 5.9973 Å | 298.15 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 9 |  |
+| Lattice a | 7.719 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 25 |  |
+| Lattice a | 14.68 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 24 |  |
+| Lattice a | 8.75 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 26 |  |
+| Lattice a | 6.415 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
+| Lattice a | 3.14 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 18 |  |
+| Lattice a | 6.405 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
+| Lattice a | 6.916 Å | 298.15 | AlAu4; _AlAu4: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 28 |  |
+| Lattice a | 6.9208 Å | 298.15 | AlAu4; _AlAu4: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 29 |  |
+| Lattice a | 6.715 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
+| Lattice a | 3.36 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
+| Lattice a | 6.755 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
+| Lattice a | 3.236 Å | 298.15 | β; _β: Al 0.198, Au 0.802_ | experimental | [1] Murray 1987; _cites ref. 51Kuz_ | Table 3, p. 6, row 48 |  |
+| Lattice a | 16.772 Å | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
+| Lattice a | 3.349 Å | 298.15 | γAlAu2; _γAlAu2: Al 0.332, Au 0.668_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 19 |  |
+| Lattice b | 3.331 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
+| Lattice b | 3.333 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
+| Lattice b | 8.815 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
+| Lattice b | 8.84 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
+| Lattice b | 8.871 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
+| Lattice b | 3.219 Å | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
+| Lattice c | 41.96 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 25 |  |
+| Lattice c | 42.3 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 26 |  |
+| Lattice c | 6.339 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
+| Lattice c | 6.327 Å | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
+| Lattice c | 3.219 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 23 |  |
+| Lattice c | 3.21 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 21 |  |
+| Lattice c | 3.236 Å | 298.15 | αAlAu2; _αAlAu2: Al 0.333, Au 0.667_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 22 |  |
+| Lattice c | 8.801 Å | 298.15 | βAlAu2; _βAlAu2: Al 0.339, Au 0.661_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 20 |  |
+| Lattice c | 8.893 Å | 298.15 | γAlAu2; _γAlAu2: Al 0.332, Au 0.668_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 19 |  |
 | lattice alpha | 30.5 deg | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 24 |  |
 | lattice beta | 93.04 deg | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 17 |  |
 | lattice beta | 92.99 deg | 298.15 | AlAu; _AlAu: Al 0.5, Au 0.5_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 16 |  |
@@ -322,4 +322,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

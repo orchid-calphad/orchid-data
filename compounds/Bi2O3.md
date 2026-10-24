@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Bi2O3 reported in the literature (11)
 |---:|---|---:|---|---|---|---|---|---|
 | -590.2 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 2nd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8 |  |
 | -587.5 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Mass spectrometry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4 |  |
-| -581.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Cahen 1979_ | Table 6, p. 5, row 7 |  |
+| -581.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Cahen 1978_ | Table 6, p. 5, row 7 |  |
 | -576.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1 |  |
 | -573.9 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Combusion calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3 |  |
 | -569 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mixter 1909_ [doi](https://doi.org/10.2475/ajs.s4-28.164.103) | Table 6, p. 5, row 2 |  |
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

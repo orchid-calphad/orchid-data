@@ -999,22 +999,22 @@ Table: Crystal structure, Cu–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.36152 nm | 298.15 | (Cu); _alloy: Zr 0_ | experimental | [1] Liu 2017; _cites Ellner 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990062-9) | Table 2, p. 4, row 1 |  |
-| Lattice a | 0.3233 nm | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [1] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
-| Lattice a | 0.3551 nm | 298.15 | (βZr); _alloy: Zr 1_ | experimental | [1] Liu 2017; _cites Yasohama 1974_ [doi](https://doi.org/10.1143/jpsj.36.1349) | Table 2, p. 4, row 9 |  |
-| Lattice a | 1.2675 nm | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
-| Lattice a | 0.1124 nm | 298.15 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 3 |  |
-| Lattice a | 0.687 nm | 298.15 | Cu5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Liu 2017; _cites Forey 1980_ | Table 2, p. 4, row 2 |  |
-| Lattice a | 0.7869 nm | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
-| Lattice a | 0.3262 nm | 298.15 | CuZr; _alloy: Zr 0.5_ | experimental | [1] Liu 2017; _cites Carvalho 1980_ [doi](https://doi.org/10.1007/bf00551811) | Table 2, p. 4, row 6 |  |
-| Lattice a | 0.322 nm | 298.15 | CuZr2; _alloy: Zr 0.666667_ | experimental | [1] Liu 2017; _cites Nevitt 1962_ | Table 2, p. 4, row 7 |  |
-| Lattice b | 0.9313 nm | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
-| Lattice b | 0.9985 nm | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
-| Lattice c | 0.5152 nm | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [1] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
-| Lattice c | 0.9347 nm | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
-| Lattice c | 0.8282 nm | 298.15 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 3 |  |
-| Lattice c | 0.8155 nm | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
-| Lattice c | 1.1183 nm | 298.15 | CuZr2; _alloy: Zr 0.666667_ | experimental | [1] Liu 2017; _cites Nevitt 1962_ | Table 2, p. 4, row 7 |  |
+| Lattice a | 3.6152 Å | 298.15 | (Cu); _alloy: Zr 0_ | experimental | [1] Liu 2017; _cites Ellner 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990062-9) | Table 2, p. 4, row 1 |  |
+| Lattice a | 3.233 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [1] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
+| Lattice a | 3.551 Å | 298.15 | (βZr); _alloy: Zr 1_ | experimental | [1] Liu 2017; _cites Yasohama 1974_ [doi](https://doi.org/10.1143/jpsj.36.1349) | Table 2, p. 4, row 9 |  |
+| Lattice a | 12.675 Å | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
+| Lattice a | 1.124 Å | 298.15 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 3 |  |
+| Lattice a | 6.87 Å | 298.15 | Cu5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Liu 2017; _cites Forey 1980_ | Table 2, p. 4, row 2 |  |
+| Lattice a | 7.869 Å | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
+| Lattice a | 3.262 Å | 298.15 | CuZr; _alloy: Zr 0.5_ | experimental | [1] Liu 2017; _cites Carvalho 1980_ [doi](https://doi.org/10.1007/bf00551811) | Table 2, p. 4, row 6 |  |
+| Lattice a | 3.22 Å | 298.15 | CuZr2; _alloy: Zr 0.666667_ | experimental | [1] Liu 2017; _cites Nevitt 1962_ | Table 2, p. 4, row 7 |  |
+| Lattice b | 9.313 Å | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
+| Lattice b | 9.985 Å | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
+| Lattice c | 5.152 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [1] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
+| Lattice c | 9.347 Å | 298.15 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [1] Liu 2017; _cites Glimois 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990112-0) | Table 2, p. 4, row 5 |  |
+| Lattice c | 8.282 Å | 298.15 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 3 |  |
+| Lattice c | 8.155 Å | 298.15 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [1] Liu 2017; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 2, p. 4, row 4 |  |
+| Lattice c | 11.183 Å | 298.15 | CuZr2; _alloy: Zr 0.666667_ | experimental | [1] Liu 2017; _cites Nevitt 1962_ | Table 2, p. 4, row 7 |  |
 
 ## Sources
 
@@ -1086,4 +1086,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

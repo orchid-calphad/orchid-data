@@ -303,74 +303,74 @@ Table: Crystal structure, La–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.945 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 29 |  |
-| Lattice a | 0.9435 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Jeitschko 1967_ [doi](https://doi.org/10.1107/s0365110x67001112) | Table 1, p. 5, row 28 |  |
-| Lattice a | 0.9416 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | model | [3] Li 2019; _cites Palenzona 2019_ | Table 1, p. 5, row 27 |  |
-| Lattice a | 1.20898 nm | 298.15 | La11Sn10; _alloy: Sn 0.47619_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 23 |  |
-| Lattice a | 0.65 nm | 298.15 | La2Sn; _alloy: Sn 0.333333_ | experimental | [3] Li 2019; _cites Spedding 1965_ | Table 1, p. 5, row 33 |  |
-| Lattice a | 0.6518 nm | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
-| Lattice a | 0.46385 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
-| Lattice a | 0.46233 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
-| Lattice a | 0.498 nm | 298.15 | La3Sn; _alloy: Sn 0.25_ | experimental | [3] Li 2019; _cites Larchev 1977_ | Table 1, p. 5, row 34 |  |
-| Lattice a | 1.035 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
-| Lattice a | 1.035 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
-| Lattice a | 0.45783 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
-| Lattice a | 0.45643 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
-| Lattice a | 0.8429 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
-| Lattice a | 0.845 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
-| Lattice a | 0.8448 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
-| Lattice a | 0.4782 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
-| Lattice a | 0.47633 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
-| Lattice a | 0.44267 nm | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
-| Lattice a | 0.473 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Tang 1989_ [doi](https://doi.org/10.1088/0953-8984/1/9/002) | Table 1, p. 5, row 11 |  |
-| Lattice a | 0.477 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 9 |  |
-| Lattice a | 0.4771 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Hawnga 1970_ | Table 1, p. 5, row 5 |  |
-| Lattice a | 0.478 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Larchev 1977_ | Table 1, p. 5, row 7 |  |
-| Lattice a | 0.47737 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Gambino 1968_ [doi](https://doi.org/10.1016/0022-3697%2868%2990074-7) | Table 1, p. 5, row 4 |  |
-| Lattice a | 0.4782 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Iandelli 1958_ | Table 1, p. 5, row 2 |  |
-| Lattice a | 0.472 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Cirafici 1982_ [doi](https://doi.org/10.1016/0038-1098%2882%2990466-5) | Table 1, p. 5, row 8 |  |
-| Lattice a | 0.4769 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 12 |  |
-| Lattice a | 0.4758 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Harris 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990029-9) | Table 1, p. 5, row 3 |  |
-| Lattice a | 0.4781 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Bayanev 1973_ | Table 1, p. 5, row 6 |  |
-| Lattice a | 0.4782 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Rossi 1933_ | Table 1, p. 5, row 1 |  |
-| Lattice a | 0.478 nm | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Kulagina 1985_ | Table 1, p. 5, row 10 |  |
-| Lattice a | 1.2749 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Franceschi 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990227-3) | Table 1, p. 5, row 30 |  |
-| Lattice a | 1.2724 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 32 |  |
-| Lattice a | 1.2748 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 31 |  |
-| Lattice b | 0.8592 nm | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
-| Lattice b | 3.5813 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
-| Lattice b | 3.57425 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
-| Lattice b | 0.829 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
-| Lattice b | 0.829 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
-| Lattice b | 2.6284 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
-| Lattice b | 2.61558 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
-| Lattice b | 1.619 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
-| Lattice b | 1.624 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
-| Lattice b | 1.626 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
-| Lattice b | 1.194 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
-| Lattice b | 1.1911 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
-| Lattice b | 1.58552 nm | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
-| Lattice c | 0.6975 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 29 |  |
-| Lattice c | 0.6961 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Jeitschko 1967_ [doi](https://doi.org/10.1107/s0365110x67001112) | Table 1, p. 5, row 28 |  |
-| Lattice c | 0.6926 nm |  | β–La5Sn3; _alloy: Sn 0.375_ | model | [3] Li 2019; _cites Palenzona 2019_ | Table 1, p. 5, row 27 |  |
-| Lattice c | 1.8166 nm | 298.15 | La11Sn10; _alloy: Sn 0.47619_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 23 |  |
-| Lattice c | 0.636 nm | 298.15 | La2Sn; _alloy: Sn 0.333333_ | experimental | [3] Li 2019; _cites Spedding 1965_ | Table 1, p. 5, row 33 |  |
-| Lattice c | 0.11296 nm | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
-| Lattice c | 0.46983 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
-| Lattice c | 0.46817 nm | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
-| Lattice c | 1.063 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
-| Lattice c | 1.061 nm | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
-| Lattice c | 0.46799 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
-| Lattice c | 0.4671 nm | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
-| Lattice c | 0.8624 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
-| Lattice c | 0.861 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
-| Lattice c | 0.8604 nm | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
-| Lattice c | 0.4422 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
-| Lattice c | 0.44089 nm | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
-| Lattice c | 0.45136 nm | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
-| Lattice c | 0.6343 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Franceschi 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990227-3) | Table 1, p. 5, row 30 |  |
-| Lattice c | 0.629 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 32 |  |
-| Lattice c | 0.6344 nm | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 31 |  |
+| Lattice a | 9.45 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 29 |  |
+| Lattice a | 9.435 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Jeitschko 1967_ [doi](https://doi.org/10.1107/s0365110x67001112) | Table 1, p. 5, row 28 |  |
+| Lattice a | 9.416 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | model | [3] Li 2019; _cites Palenzona 2019_ | Table 1, p. 5, row 27 |  |
+| Lattice a | 12.0898 Å | 298.15 | La11Sn10; _alloy: Sn 0.47619_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 23 |  |
+| Lattice a | 6.5 Å | 298.15 | La2Sn; _alloy: Sn 0.333333_ | experimental | [3] Li 2019; _cites Spedding 1965_ | Table 1, p. 5, row 33 |  |
+| Lattice a | 6.518 Å | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
+| Lattice a | 4.6385 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
+| Lattice a | 4.6233 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
+| Lattice a | 4.98 Å | 298.15 | La3Sn; _alloy: Sn 0.25_ | experimental | [3] Li 2019; _cites Larchev 1977_ | Table 1, p. 5, row 34 |  |
+| Lattice a | 10.35 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
+| Lattice a | 10.35 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
+| Lattice a | 4.5783 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
+| Lattice a | 4.5643 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
+| Lattice a | 8.429 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
+| Lattice a | 8.45 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
+| Lattice a | 8.448 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
+| Lattice a | 4.782 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
+| Lattice a | 4.7633 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
+| Lattice a | 4.4267 Å | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
+| Lattice a | 4.73 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Tang 1989_ [doi](https://doi.org/10.1088/0953-8984/1/9/002) | Table 1, p. 5, row 11 |  |
+| Lattice a | 4.77 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 9 |  |
+| Lattice a | 4.771 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Hawnga 1970_ | Table 1, p. 5, row 5 |  |
+| Lattice a | 4.78 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Larchev 1977_ | Table 1, p. 5, row 7 |  |
+| Lattice a | 4.7737 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Gambino 1968_ [doi](https://doi.org/10.1016/0022-3697%2868%2990074-7) | Table 1, p. 5, row 4 |  |
+| Lattice a | 4.782 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Iandelli 1958_ | Table 1, p. 5, row 2 |  |
+| Lattice a | 4.72 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Cirafici 1982_ [doi](https://doi.org/10.1016/0038-1098%2882%2990466-5) | Table 1, p. 5, row 8 |  |
+| Lattice a | 4.769 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 12 |  |
+| Lattice a | 4.758 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Harris 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990029-9) | Table 1, p. 5, row 3 |  |
+| Lattice a | 4.781 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Bayanev 1973_ | Table 1, p. 5, row 6 |  |
+| Lattice a | 4.782 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Rossi 1933_ | Table 1, p. 5, row 1 |  |
+| Lattice a | 4.78 Å | 298.15 | LaSn3; _alloy: Sn 0.75_ | unspecified | [3] Li 2019; _cites Kulagina 1985_ | Table 1, p. 5, row 10 |  |
+| Lattice a | 12.749 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Franceschi 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990227-3) | Table 1, p. 5, row 30 |  |
+| Lattice a | 12.724 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 32 |  |
+| Lattice a | 12.748 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 31 |  |
+| Lattice b | 8.592 Å | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
+| Lattice b | 35.813 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
+| Lattice b | 35.7425 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
+| Lattice b | 8.29 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
+| Lattice b | 8.29 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
+| Lattice b | 26.284 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
+| Lattice b | 26.1558 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
+| Lattice b | 16.19 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
+| Lattice b | 16.24 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
+| Lattice b | 16.26 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
+| Lattice b | 11.94 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
+| Lattice b | 11.911 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
+| Lattice b | 15.8552 Å | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
+| Lattice c | 6.975 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 29 |  |
+| Lattice c | 6.961 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Jeitschko 1967_ [doi](https://doi.org/10.1107/s0365110x67001112) | Table 1, p. 5, row 28 |  |
+| Lattice c | 6.926 Å |  | β–La5Sn3; _alloy: Sn 0.375_ | model | [3] Li 2019; _cites Palenzona 2019_ | Table 1, p. 5, row 27 |  |
+| Lattice c | 18.166 Å | 298.15 | La11Sn10; _alloy: Sn 0.47619_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 23 |  |
+| Lattice c | 6.36 Å | 298.15 | La2Sn; _alloy: Sn 0.333333_ | experimental | [3] Li 2019; _cites Spedding 1965_ | Table 1, p. 5, row 33 |  |
+| Lattice c | 1.1296 Å | 298.15 | La2Sn3; _alloy: Sn 0.6_ | unspecified | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 1, p. 5, row 20 |  |
+| Lattice c | 4.6983 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 14 |  |
+| Lattice c | 4.6817 Å | 298.15 | La2Sn5; _alloy: Sn 0.714286_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 13 |  |
+| Lattice c | 10.63 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 18 |  |
+| Lattice c | 10.61 Å | 298.15 | La3Sn5; _alloy: Sn 0.625_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 19 |  |
+| Lattice c | 4.6799 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | unspecified | [3] Li 2019; _cites Durr 2012_ | Table 1, p. 5, row 16 |  |
+| Lattice c | 4.671 Å | 298.15 | La3Sn7; _alloy: Sn 0.7_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 15 |  |
+| Lattice c | 8.624 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 26 |  |
+| Lattice c | 8.61 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 25 |  |
+| Lattice c | 8.604 Å | 298.15 | La5Sn4; _alloy: Sn 0.444444_ | experimental | [3] Li 2019; _cites Fornasini 1971_ | Table 1, p. 5, row 24 |  |
+| Lattice c | 4.422 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 21 |  |
+| Lattice c | 4.4089 Å | 298.15 | LaSn; _alloy: Sn 0.5_ | experimental | [3] Li 2019; _cites Durr 2011_ [doi](https://doi.org/10.1016/j.jssc.2011.06.035) | Table 1, p. 5, row 22 |  |
+| Lattice c | 4.5136 Å | 298.15 | LaSn2; _alloy: Sn 0.666667_ | experimental | [3] Li 2019; _cites Weitzer 1992_ [doi](https://doi.org/10.1016/s0022-4596%2805%2980237-3) | Table 1, p. 5, row 17 |  |
+| Lattice c | 6.343 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Franceschi 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990227-3) | Table 1, p. 5, row 30 |  |
+| Lattice c | 6.29 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | unspecified | [3] Li 2019; _cites Eremenko 1989_ | Table 1, p. 5, row 32 |  |
+| Lattice c | 6.344 Å | 298.15 | α–La5Sn3; _alloy: Sn 0.375_ | experimental | [3] Li 2019; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 1, p. 5, row 31 |  |
 
 ## Sources
 
@@ -437,4 +437,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

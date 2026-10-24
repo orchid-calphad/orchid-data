@@ -10,7 +10,7 @@ Also cite the original source of every value you use (paper_citation / paper_doi
 
 Status: Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
-Licence: CC BY 4.0 (derived data; quoted sentences under fair use; source papers not redistributed).
+Licence: CC BY 4.0 (derived data; quotes are short excerpts under the publishers' copyright, not relicensed; source papers not redistributed).
 
 BibTeX:
 

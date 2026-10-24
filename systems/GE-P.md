@@ -107,21 +107,21 @@ Table: Crystal structure, Ge–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 15.5183 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 15.1948 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
-| Lattice a; _printed: a_ | 15.334 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 15.1948 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice a; _printed: a_ | 15.14 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
-| Lattice b; _printed: b_ | 3.68332 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| Lattice b; _printed: b_ | 3.6337 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
-| Lattice b; _printed: b_ | 3.669 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice b; _printed: b_ | 3.6337 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice b; _printed: b_ | 3.638 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
-| Lattice c; _printed: c_ | 9.39563 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| Lattice c; _printed: c_ | 9.1941 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
-| Lattice c; _printed: c_ | 9.095 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice c; _printed: c_ | 9.1941 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice c; _printed: c_ | 9.19 Å per mol-atom | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice a; _printed: a_ | 15.5183 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
+| Lattice a; _printed: a_ | 15.1948 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
+| Lattice a; _printed: a_ | 15.334 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
+| Lattice a; _printed: a_ | 15.1948 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice a; _printed: a_ | 15.14 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice b; _printed: b_ | 3.68332 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
+| Lattice b; _printed: b_ | 3.6337 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
+| Lattice b; _printed: b_ | 3.669 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
+| Lattice b; _printed: b_ | 3.6337 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice b; _printed: b_ | 3.638 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 9.39563 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
+| Lattice c; _printed: c_ | 9.1941 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
+| Lattice c; _printed: c_ | 9.095 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
+| Lattice c; _printed: c_ | 9.1941 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice c; _printed: c_ | 9.19 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

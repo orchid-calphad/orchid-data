@@ -323,54 +323,54 @@ Table: Crystal structure, Al–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 987.07 pm ± 0.01 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
-| Lattice a | 1107.15 pm |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 329.6 pm |  | β, (Ta), bcc_A2; _alloy: Al 0.02, Ta 0.98_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 4 |  |
-| Lattice a | 1486.5 pm ± 0.3 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
-| Lattice a | 404.96 pm | 298.15 | UNKNOWN; _alloy: Ta 0_ | experimental | [1] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 988 pm | 298.15 | UNKNOWN; _alloy: Ta 0.586207_ | experimental | [1] Witusiewicz 2010; _cites Raman 1965_ | Table 1, p. 2, row 19 |  |
-| Lattice a | 1915.7 pm ± 0.2 | 298.15 | UNKNOWN; _alloy: Ta 0.333333_ | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | Table 1, p. 2, row 10 |  |
-| Lattice a | 989.1 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.35, Ta 0.65_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 23 |  |
-| Lattice a | 384.88 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuhmacher 1990_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 994.2 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.276, Ta 0.724_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 24 |  |
-| Lattice a | 1001.4 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.24, Ta 0.76_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 26 |  |
-| Lattice a | 1931.5 pm | 298.15 | UNKNOWN; _alloy: Ta 0.413793_ | experimental | [1] Witusiewicz 2010; _cites Raman 1965_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 982.8 pm | 298.15 | UNKNOWN; _alloy: Ta 0.666667_ | experimental | [1] Witusiewicz 2010; _cites Edshammar 1960_ [doi](https://doi.org/10.3891/acta.chem.scand.14-1219) | Table 1, p. 2, row 20 |  |
-| Lattice a | 1074.8 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
-| Lattice a | 3214 pm ± 2 | 298.15 | UNKNOWN; _alloy: Ta 0.416667_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 16 |  |
-| Lattice a | 405.3 pm | 298.15 | UNKNOWN; _alloy: Al 0.99964, Ta 3.600e-4_ | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 1556.14 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 383.4 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Brauer 1938_ [doi](https://doi.org/10.1007/bf01590179) | Table 1, p. 2, row 5 |  |
-| Lattice a | 984.5 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.39, Ta 0.61_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 22 |  |
-| Lattice a | 1917.2 pm | 298.15 | UNKNOWN; _alloy: Ta 0.361111_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 9 |  |
-| Lattice a | 995.7 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.26, Ta 0.74_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 25 |  |
-| Lattice a | 984.2 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.4, Ta 0.6_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 21 |  |
-| Lattice a | 383.9 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 1277.6 pm ± 0.5 | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Girgis 1970_ [doi](https://doi.org/10.1007/bf01010264) | Table 1, p. 2, row 13 |  |
-| Lattice a | 1915.3 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Ta 0.361111_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990746-3) | Table 1, p. 2, row 8 |  |
-| Lattice a | 330.3 pm | 298.15 | β, (Ta), bcc_A2; _alloy: Ta 1_ | experimental | [1] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 987.66 pm ± 0.01 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
-| Lattice b | 687.17 pm |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 986.3 pm ± 0.2 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
-| Lattice b | 1107.8 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
-| Lattice b | 1394.7 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 1635.39 pm ± 0.02 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
-| Lattice c | 479.45 pm |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 986.2 pm ± 0.2 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
-| Lattice c | 519.8 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.35, Ta 0.65_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 23 |  |
-| Lattice c | 859.82 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuhmacher 1990_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 519.8 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.276, Ta 0.724_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 24 |  |
-| Lattice c | 521.1 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.24, Ta 0.76_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 26 |  |
-| Lattice c | 523.2 pm | 298.15 | UNKNOWN; _alloy: Ta 0.666667_ | experimental | [1] Witusiewicz 2010; _cites Edshammar 1960_ [doi](https://doi.org/10.3891/acta.chem.scand.14-1219) | Table 1, p. 2, row 20 |  |
-| Lattice c | 1043.3 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
-| Lattice c | 1341 pm ± 1 | 298.15 | UNKNOWN; _alloy: Ta 0.416667_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 16 |  |
-| Lattice c | 1266.28 pm | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 853.6 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Brauer 1938_ [doi](https://doi.org/10.1007/bf01590179) | Table 1, p. 2, row 5 |  |
-| Lattice c | 521.7 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.39, Ta 0.61_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 22 |  |
-| Lattice c | 519.9 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.26, Ta 0.74_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 25 |  |
-| Lattice c | 521.7 pm ± 0.1 | 298.15 | UNKNOWN; _alloy: Al 0.4, Ta 0.6_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 21 |  |
-| Lattice c | 853.5 pm | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 2704 pm ± 4 | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Girgis 1970_ [doi](https://doi.org/10.1007/bf01010264) | Table 1, p. 2, row 13 |  |
+| Lattice a | 9.8707 Å ± 1.000e-4 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
+| Lattice a | 11.0715 Å |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 3.296 Å |  | β, (Ta), bcc_A2; _alloy: Al 0.02, Ta 0.98_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 4 |  |
+| Lattice a | 14.865 Å ± 0.003 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
+| Lattice a | 4.0496 Å | 298.15 | UNKNOWN; _alloy: Ta 0_ | experimental | [1] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 9.88 Å | 298.15 | UNKNOWN; _alloy: Ta 0.586207_ | experimental | [1] Witusiewicz 2010; _cites Raman 1965_ | Table 1, p. 2, row 19 |  |
+| Lattice a | 19.157 Å ± 0.002 | 298.15 | UNKNOWN; _alloy: Ta 0.333333_ | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | Table 1, p. 2, row 10 |  |
+| Lattice a | 9.891 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.35, Ta 0.65_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 23 |  |
+| Lattice a | 3.8488 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuhmacher 1990_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 9.942 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.276, Ta 0.724_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 24 |  |
+| Lattice a | 10.014 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.24, Ta 0.76_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 26 |  |
+| Lattice a | 19.315 Å | 298.15 | UNKNOWN; _alloy: Ta 0.413793_ | experimental | [1] Witusiewicz 2010; _cites Raman 1965_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 9.828 Å | 298.15 | UNKNOWN; _alloy: Ta 0.666667_ | experimental | [1] Witusiewicz 2010; _cites Edshammar 1960_ [doi](https://doi.org/10.3891/acta.chem.scand.14-1219) | Table 1, p. 2, row 20 |  |
+| Lattice a | 10.748 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
+| Lattice a | 32.14 Å ± 0.02 | 298.15 | UNKNOWN; _alloy: Ta 0.416667_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 16 |  |
+| Lattice a | 4.053 Å | 298.15 | UNKNOWN; _alloy: Al 0.99964, Ta 3.600e-4_ | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 15.5614 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 3.834 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Brauer 1938_ [doi](https://doi.org/10.1007/bf01590179) | Table 1, p. 2, row 5 |  |
+| Lattice a | 9.845 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.39, Ta 0.61_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 22 |  |
+| Lattice a | 19.172 Å | 298.15 | UNKNOWN; _alloy: Ta 0.361111_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 9 |  |
+| Lattice a | 9.957 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.26, Ta 0.74_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 25 |  |
+| Lattice a | 9.842 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.4, Ta 0.6_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 21 |  |
+| Lattice a | 3.839 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 12.776 Å ± 0.005 | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Girgis 1970_ [doi](https://doi.org/10.1007/bf01010264) | Table 1, p. 2, row 13 |  |
+| Lattice a | 19.153 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Ta 0.361111_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990746-3) | Table 1, p. 2, row 8 |  |
+| Lattice a | 3.303 Å | 298.15 | β, (Ta), bcc_A2; _alloy: Ta 1_ | experimental | [1] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 3 |  |
+| Lattice b | 9.8766 Å ± 1.000e-4 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
+| Lattice b | 6.8717 Å |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
+| Lattice b | 9.863 Å ± 0.002 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
+| Lattice b | 11.078 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
+| Lattice b | 13.947 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 16.3539 Å ± 2.000e-4 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
+| Lattice c | 4.7945 Å |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 9.862 Å ± 0.002 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
+| Lattice c | 5.198 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.35, Ta 0.65_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 23 |  |
+| Lattice c | 8.5982 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuhmacher 1990_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.198 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.276, Ta 0.724_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 24 |  |
+| Lattice c | 5.211 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.24, Ta 0.76_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 26 |  |
+| Lattice c | 5.232 Å | 298.15 | UNKNOWN; _alloy: Ta 0.666667_ | experimental | [1] Witusiewicz 2010; _cites Edshammar 1960_ [doi](https://doi.org/10.3891/acta.chem.scand.14-1219) | Table 1, p. 2, row 20 |  |
+| Lattice c | 10.433 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
+| Lattice c | 13.41 Å ± 0.01 | 298.15 | UNKNOWN; _alloy: Ta 0.416667_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 16 |  |
+| Lattice c | 12.6628 Å | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 8.536 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Brauer 1938_ [doi](https://doi.org/10.1007/bf01590179) | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.217 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.39, Ta 0.61_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 22 |  |
+| Lattice c | 5.199 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.26, Ta 0.74_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 25 |  |
+| Lattice c | 5.217 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Al 0.4, Ta 0.6_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 21 |  |
+| Lattice c | 8.535 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 27.04 Å ± 0.04 | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Girgis 1970_ [doi](https://doi.org/10.1007/bf01010264) | Table 1, p. 2, row 13 |  |
 | lattice alpha | 90.45 ° | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901411-6) | Table 1, p. 2, row 14 |  |
 | lattice beta | 116.478 ° ± 0.001 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
 | lattice beta | 99.98 ° ± 0.02 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |
@@ -443,4 +443,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

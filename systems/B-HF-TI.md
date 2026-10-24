@@ -29,13 +29,13 @@ Table: Crystal structure, B–Hf–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.309 nm (range 0.2995 to 0.3185) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 16 |  |
+| Lattice a | 3.09 Å (range 2.995 to 3.185) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 16 |  |
 | Lattice a | 0.65185 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice a | 0.31438 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
 | Lattice a | 0.3259 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |
 | Lattice a | 0.6105 not_printed | 298.15 | TiB; _alloy: Hf 0, Ti 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8 |  |
 | Lattice a | 0.3031 not_printed | 298.15 | TiB2; _alloy: Hf 0, Ti 0.333333_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.2995 not_printed | 298.15 | UNKNOWN | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 11 |  |
+| Lattice a | 0.2995 not_printed | 298.15 | UNKNOWN | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 11 |  |
 | Lattice a | 0.31946 not_printed | 298.15 | αHf; _alloy: Hf 1, Ti 0_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 2 |  |
 | Lattice a | 0.29506 not_printed | 298.15 | αTi; _alloy: Hf 0, Ti 1_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 4 |  |
 | Lattice a | 0.361 not_printed | 298.15 | βHf; _alloy: Hf 1, Ti 0_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 3 |  |
@@ -43,7 +43,7 @@ Table: Crystal structure, B–Hf–Ti system
 | Lattice b | 0.3216 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice b | 1.373 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |
 | Lattice b | 0.3048 not_printed | 298.15 | TiB; _alloy: Hf 0, Ti 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.48625 nm (range 0.4685 to 0.504) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 16 |  |
+| Lattice c | 4.8625 Å (range 4.685 to 5.04) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 16 |  |
 | Lattice c | 0.492 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice c | 0.34793 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
 | Lattice c | 0.3042 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

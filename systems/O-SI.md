@@ -57,32 +57,32 @@ Table: Crystal structure, O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 256.1 pm | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
-| Lattice a | 498.77 pm | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
-| Lattice a | 495.7 pm | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
-| Lattice a | 994 pm | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
-| Lattice a | 504.6 pm | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
-| Lattice a | 505.2 pm | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
-| Lattice a | 746.4 pm | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9 |  |
-| Lattice a | 709.8 pm | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
-| Lattice a | 417.6 pm | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12 |  |
-| Lattice a | 713.7 pm | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
-| Lattice a | 472 pm | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
-| Lattice b | 1721 pm | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
-| Lattice b | 1233.4 pm | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
-| Lattice b | 1237 pm | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
-| Lattice b | 516 pm | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
-| Lattice c | 411.2 pm | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
-| Lattice c | 696.79 pm | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
-| Lattice c | 689.03 pm | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
-| Lattice c | 1092 pm | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
-| Lattice c | 827 pm | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
-| Lattice c | 823.6 pm | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
-| Lattice c | 862 pm | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9 |  |
-| Lattice c | 714.8 pm | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
-| Lattice c | 266.6 pm | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12 |  |
-| Lattice c | 717.4 pm | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
-| Lattice c | 836 pm | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
+| Lattice a | 2.561 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
+| Lattice a | 4.9877 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
+| Lattice a | 4.957 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
+| Lattice a | 9.94 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
+| Lattice a | 5.046 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
+| Lattice a | 5.052 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
+| Lattice a | 7.464 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9 |  |
+| Lattice a | 7.098 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
+| Lattice a | 4.176 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12 |  |
+| Lattice a | 7.137 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
+| Lattice a | 4.72 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
+| Lattice b | 17.21 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
+| Lattice b | 12.334 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
+| Lattice b | 12.37 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
+| Lattice b | 5.16 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
+| Lattice c | 4.112 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
+| Lattice c | 6.9679 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
+| Lattice c | 6.8903 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
+| Lattice c | 10.92 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
+| Lattice c | 8.27 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
+| Lattice c | 8.236 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1 |  |
+| Lattice c | 8.62 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9 |  |
+| Lattice c | 7.148 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
+| Lattice c | 2.666 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12 |  |
+| Lattice c | 7.174 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
+| Lattice c | 8.36 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
 | lattice beta | 120.1 ° | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
 | lattice beta | 120.33 ° | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

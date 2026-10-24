@@ -141,50 +141,50 @@ Table: Crystal structure, Gd–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice a0 | 0.3256 nm ± 1.000e-4 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 12 |  |
-| lattice a0 | 0.3653 nm ± 1 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
-| lattice a0 | 0.3256 nm ± 1 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
-| lattice a0 | 0.3259 nm ± 1 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
-| lattice a0 | 0.3653 nm ± 1 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
-| lattice a0 | 0.3259 nm ± 1.000e-4 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 13 |  |
-| lattice a0 | 0.362 nm ± 1 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
-| lattice a0 | 0.3657 nm ± 1 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
-| lattice a0 | 0.3656 nm ± 1 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
-| lattice a0 | 0.3626 nm ± 1 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
-| lattice a0 | 0.3626 nm ± 1.000e-4 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 14 |  |
-| lattice a0 | 0.363 nm ± 1.000e-4 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 15 |  |
-| lattice a0 | 0.3655 nm ± 1 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
-| lattice a0 | 0.363 nm ± 1 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
-| lattice a0 | 0.3636 nm ± 1 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
-| lattice a0 | 0.3654 nm ± 1 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
-| lattice a0 | 0.3636 nm ± 1.000e-4 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 16 |  |
-| lattice a0 | 0.364 nm ± 1 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
-| lattice a0 | 0.3653 nm ± 1 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
-| lattice a0 | 0.364 nm ± 1.000e-4 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 17 |  |
-| lattice a0 | 0.3641 nm ± 1.000e-4 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 18 |  |
-| lattice a0 | 0.3641 nm ± 1 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
-| lattice a0 | 0.3656 nm ± 1 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
-| lattice a0 | 0.3641 nm ± 1 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
-| lattice a0 | 0.3656 nm ± 1 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
-| lattice a0 | 0.3648 nm ± 1.000e-4 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 19 |  |
-| lattice a0 | 0.4056 nm ± 1 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 10 |  |
-| lattice a0 | 0.3648 nm ± 1 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 10 |  |
-| lattice a0 | 0.365 nm ± 1 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 11 |  |
-| lattice a0 | 0.4059 nm ± 1 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 11 |  |
-| lattice a0 | 0.365 nm ± 1.000e-4 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 20 |  |
-| lattice c0 | 0.5175 nm ± 2.000e-4 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 12 |  |
-| lattice c0 | 0.5175 nm ± 2 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
-| lattice c0 | 0.582 nm ± 2 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
-| lattice c0 | 0.5827 nm ± 2 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
-| lattice c0 | 0.5177 nm ± 2 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
-| lattice c0 | 0.5177 nm ± 2.000e-4 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 13 |  |
-| lattice c0 | 0.5833 nm ± 2 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
-| lattice c0 | 0.5841 nm ± 2 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
-| lattice c0 | 0.5844 nm ± 2 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
-| lattice c0 | 0.5845 nm ± 2 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
-| lattice c0 | 0.585 nm ± 2 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
-| lattice c0 | 0.5854 nm ± 2 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
-| lattice c0 | 0.5854 nm ± 2 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
+| lattice a0 | 3.256 Å ± 0.001 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 12 |  |
+| lattice a0 | 3.653 Å ± 10 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
+| lattice a0 | 3.256 Å ± 10 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
+| lattice a0 | 3.259 Å ± 10 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
+| lattice a0 | 3.653 Å ± 10 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
+| lattice a0 | 3.259 Å ± 0.001 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 13 |  |
+| lattice a0 | 3.62 Å ± 10 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
+| lattice a0 | 3.657 Å ± 10 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
+| lattice a0 | 3.656 Å ± 10 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
+| lattice a0 | 3.626 Å ± 10 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
+| lattice a0 | 3.626 Å ± 0.001 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 14 |  |
+| lattice a0 | 3.63 Å ± 0.001 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 15 |  |
+| lattice a0 | 3.655 Å ± 10 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
+| lattice a0 | 3.63 Å ± 10 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
+| lattice a0 | 3.636 Å ± 10 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
+| lattice a0 | 3.654 Å ± 10 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
+| lattice a0 | 3.636 Å ± 0.001 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 16 |  |
+| lattice a0 | 3.64 Å ± 10 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
+| lattice a0 | 3.653 Å ± 10 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
+| lattice a0 | 3.64 Å ± 0.001 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 17 |  |
+| lattice a0 | 3.641 Å ± 0.001 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 18 |  |
+| lattice a0 | 3.641 Å ± 10 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
+| lattice a0 | 3.656 Å ± 10 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
+| lattice a0 | 3.641 Å ± 10 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
+| lattice a0 | 3.656 Å ± 10 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
+| lattice a0 | 3.648 Å ± 0.001 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 19 |  |
+| lattice a0 | 4.056 Å ± 10 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 10 |  |
+| lattice a0 | 3.648 Å ± 10 | 1483 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 10 |  |
+| lattice a0 | 3.65 Å ± 10 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 11 |  |
+| lattice a0 | 4.059 Å ± 10 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 11 |  |
+| lattice a0 | 3.65 Å ± 0.001 | 1493 | bcc-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 20 |  |
+| lattice c0 | 5.175 Å ± 0.002 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 12 |  |
+| lattice c0 | 5.175 Å ± 20 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
+| lattice c0 | 5.82 Å ± 20 | 1051 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 1 |  |
+| lattice c0 | 5.827 Å ± 20 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
+| lattice c0 | 5.177 Å ± 20 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 2 |  |
+| lattice c0 | 5.177 Å ± 0.002 | 1123 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 13 |  |
+| lattice c0 | 5.833 Å ± 20 | 1211 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 3 |  |
+| lattice c0 | 5.841 Å ± 20 | 1253 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 4 |  |
+| lattice c0 | 5.844 Å ± 20 | 1318 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 5 |  |
+| lattice c0 | 5.845 Å ± 20 | 1353 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 6 |  |
+| lattice c0 | 5.85 Å ± 20 | 1413 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 7 |  |
+| lattice c0 | 5.854 Å ± 20 | 1423 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 8 |  |
+| lattice c0 | 5.854 Å ± 20 | 1433 | hcp-Gd; _alloy: Gd 0.35, Zr 0.65_ | experimental | [3] Mattern 2012 | Table 1, p. 3, row 9 |  |
 
 ## Sources
 
@@ -251,4 +251,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

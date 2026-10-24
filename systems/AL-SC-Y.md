@@ -173,51 +173,51 @@ Table: Crystal structure, Al–Sc–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.405 nm | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.76 nm | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.78611 nm | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.8239 nm | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.41 nm | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.345 nm | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.4888 nm | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.3884 nm | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 0.659 nm | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.6276 nm | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.33088 nm | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.36474 nm | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.6204 nm | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.373 nm | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.407 nm | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.405 nm | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice b | 0.76 nm | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 0.78611 nm | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 0.8239 nm | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice b | 0.41 nm | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice b | 0.345 nm | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice b | 0.4888 nm | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice b | 1.1522 nm | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice b | 0.512 nm | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 0.6276 nm | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 0.33088 nm | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.36474 nm | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice b | 0.6204 nm | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 0.373 nm | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 0.407 nm | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.405 nm | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.76 nm | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.78611 nm | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.7648 nm | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 0.41 nm | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.345 nm | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.6166 nm | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.4385 nm | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.93 nm | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.4582 nm | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.5268 nm | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.57306 nm | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 2.1184 nm | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.373 nm | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.407 nm | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 8.239 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 6.59 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 6.276 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.6474 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.204 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
+| Lattice b | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
+| Lattice b | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice b | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice b | 8.239 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice b | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice b | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice b | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice b | 5.12 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice b | 6.276 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice b | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
+| Lattice b | 3.6474 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
+| Lattice b | 6.204 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice b | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
+| Lattice b | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
+| Lattice c | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 7.648 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice c | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 6.166 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice c | 9.3 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 4.582 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 5.7306 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 21.184 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
 
 ## Sources
 
@@ -260,4 +260,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

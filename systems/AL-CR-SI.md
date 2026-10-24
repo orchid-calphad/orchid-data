@@ -91,40 +91,40 @@ Table: Crystal structure, Al–Cr–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.0903 nm |  | τ1 | model | [1] Hu 2013 | Table 3, p. 4, row 15 |  |
-| Lattice a | 0.7508 nm |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
-| Lattice a | 0.405 nm | 298.15 | (Al); _alloy: Cr 0, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 1 |  |
-| Lattice a | 0.2885 nm | 298.15 | (Cr); _alloy: Cr 1, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2 |  |
-| Lattice a | 0.5431 nm | 298.15 | (Si); _alloy: Cr 0, Si 1_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 3 |  |
-| Lattice a | 2.5196 nm | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice a | 1.998 nm | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
-| Lattice a | 1.288 nm | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
-| Lattice a | 0.3005 nm | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
-| Lattice a | 0.4558 nm | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7 |  |
-| Lattice a | 0.462 nm | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5 |  |
-| Lattice a | 0.4428 nm | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice a | 0.917 nm | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
-| Lattice a | 0.9104 nm | 298.15 | γ-H; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 9 |  |
-| Lattice a | 1.2719 nm | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
-| Lattice a | 1.0927 nm | 298.15 | τ1 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 14 |  |
-| Lattice a | 0.7535 nm | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
-| Lattice a | 0.5126 nm | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
-| Lattice a | 1.4842 nm | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
-| Lattice b | 0.7574 nm | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice b | 0.7652 nm | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
-| Lattice b | 0.898 nm | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
-| Lattice b | 1.2452 nm | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
-| Lattice c | 0.7819 nm |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
-| Lattice c | 1.0949 nm | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice c | 2.467 nm | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
-| Lattice c | 1.0639 nm | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
-| Lattice c | 0.8645 nm | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
-| Lattice c | 0.6368 nm | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice c | 0.4636 nm | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
-| Lattice c | 0.7936 nm | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
-| Lattice c | 0.7839 nm | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
-| Lattice c | 0.5047 nm | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
-| Lattice c | 1.2501 nm | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
+| Lattice a | 10.903 Å |  | τ1 | model | [1] Hu 2013 | Table 3, p. 4, row 15 |  |
+| Lattice a | 7.508 Å |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
+| Lattice a | 4.05 Å | 298.15 | (Al); _alloy: Cr 0, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 1 |  |
+| Lattice a | 2.885 Å | 298.15 | (Cr); _alloy: Cr 1, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2 |  |
+| Lattice a | 5.431 Å | 298.15 | (Si); _alloy: Cr 0, Si 1_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 3 |  |
+| Lattice a | 25.196 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
+| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
+| Lattice a | 12.88 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
+| Lattice a | 3.005 Å | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
+| Lattice a | 4.558 Å | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7 |  |
+| Lattice a | 4.62 Å | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5 |  |
+| Lattice a | 4.428 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
+| Lattice a | 9.17 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
+| Lattice a | 9.104 Å | 298.15 | γ-H; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 9 |  |
+| Lattice a | 12.719 Å | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
+| Lattice a | 10.927 Å | 298.15 | τ1 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 14 |  |
+| Lattice a | 7.535 Å | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
+| Lattice a | 5.126 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
+| Lattice a | 14.842 Å | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
+| Lattice b | 7.574 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
+| Lattice b | 7.652 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
+| Lattice b | 8.98 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
+| Lattice b | 12.452 Å | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
+| Lattice c | 7.819 Å |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
+| Lattice c | 10.949 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
+| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
+| Lattice c | 10.639 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
+| Lattice c | 8.645 Å | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
+| Lattice c | 6.368 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
+| Lattice c | 4.636 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
+| Lattice c | 7.936 Å | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
+| Lattice c | 7.839 Å | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
+| Lattice c | 5.047 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
+| Lattice c | 12.501 Å | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
 
 ## Sources
 
@@ -167,4 +167,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

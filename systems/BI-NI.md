@@ -263,17 +263,17 @@ Table: Crystal structure, Bi–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.613 nm | 298.15 | (Bi); _alloy: Ni 0_ | unspecified | [4] Liu 2016; _cites Villars 1991_ | Table II, p. 2, row 5 |  |
-| Lattice a | 0.888 nm | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
-| Lattice a | 0.4085 nm | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Seo 2007_ [doi](https://doi.org/10.1007/s11664-007-0256-8) | Table II, p. 2, row 1 |  |
-| Lattice a | 1.4124 nm | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
-| Lattice a | 0.3524 nm | 298.15 | fcc(Ni); _alloy: Ni 1_ | model | [4] Liu 2016; _cites Massalski 1990_ | Table II, p. 2, row 6 |  |
-| Lattice b | 0.41 nm | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
-| Lattice b | 0.81621 nm | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
-| Lattice c | 1.18615 nm | 298.15 | (Bi); _alloy: Ni 0_ | unspecified | [4] Liu 2016; _cites Villars 1991_ | Table II, p. 2, row 5 |  |
-| Lattice c | 1.147 nm | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
-| Lattice c | 0.5353 nm | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Seo 2007_ [doi](https://doi.org/10.1007/s11664-007-0256-8) | Table II, p. 2, row 1 |  |
-| Lattice c | 2.1429 nm | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
+| Lattice a | 6.13 Å | 298.15 | (Bi); _alloy: Ni 0_ | unspecified | [4] Liu 2016; _cites Villars 1991_ | Table II, p. 2, row 5 |  |
+| Lattice a | 8.88 Å | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
+| Lattice a | 4.085 Å | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Seo 2007_ [doi](https://doi.org/10.1007/s11664-007-0256-8) | Table II, p. 2, row 1 |  |
+| Lattice a | 14.124 Å | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
+| Lattice a | 3.524 Å | 298.15 | fcc(Ni); _alloy: Ni 1_ | model | [4] Liu 2016; _cites Massalski 1990_ | Table II, p. 2, row 6 |  |
+| Lattice b | 4.1 Å | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
+| Lattice b | 8.1621 Å | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
+| Lattice c | 11.8615 Å | 298.15 | (Bi); _alloy: Ni 0_ | unspecified | [4] Liu 2016; _cites Villars 1991_ | Table II, p. 2, row 5 |  |
+| Lattice c | 11.47 Å | 298.15 | Bi3Ni; _alloy: Ni 0.25_ | unspecified | [4] Liu 2016; _cites Lee 1999_ [doi](https://doi.org/10.1021/cm980521+) | Table II, p. 2, row 4 |  |
+| Lattice c | 5.353 Å | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Seo 2007_ [doi](https://doi.org/10.1007/s11664-007-0256-8) | Table II, p. 2, row 1 |  |
+| Lattice c | 21.429 Å | 298.15 | BiNi; _alloy: Ni 0.5_ | unspecified | [4] Liu 2016; _cites Ruck 1999_ [doi](https://doi.org/10.1002/%28sici%291521-3749%28199912%29625:12<2050::aid-zaac2050>3.0.co;2-r) | Table II, p. 2, row 2 |  |
 
 ## Sources
 
@@ -343,4 +343,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

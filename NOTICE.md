@@ -15,8 +15,8 @@ paper (`paper_citation`, `paper_doi`) and, for values the paper re-lists from ea
 
 ## Quotations from published papers (publishers' copyright; not relicensed)
 
-Each literature value carries a short verbatim excerpt of its source (one sentence of running text, or a table
-caption and the row it was read from) in the `quote` field, and the static pages show these excerpts. They are kept
+Each literature value carries a short verbatim excerpt of its source (the passage of running text that states it,
+or a table caption and the row it was read from) in the `quote` field, and the static pages show these excerpts. They are kept
 only so that the value can be verified against the page it came from. They remain under the copyright of their
 publishers, are reproduced as short quotations, and are **not** covered by the CC BY 4.0 licence of ORCHID's data.
 The source papers, page images and full texts are not redistributed.

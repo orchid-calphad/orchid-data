@@ -91,16 +91,16 @@ Table: Crystal structure, Cu–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.36147 nm | 291.15 | (Cu); _alloy: Cu 1, Ir 0_ | unspecified | [1] Chakrabarti 1987 | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.3839 nm | 303.15 | (Ir); _alloy: Ir 1_ | experimental | [1] Chakrabarti 1987; _cites Singh 1969_ | Table 3, p. 3, row 6 |  |
-| Lattice a | 0.3836 nm | 1073.15 | (Ir); _alloy: Cu 0.6, Ir 0.4_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 7 |  |
-| Lattice a | 0.3623 nm | 1133.15 | (Cu); _alloy: Cu 0.97, Ir 0.03_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 3 |  |
-| Lattice a | 0.3625 nm | 1133.15 | (Cu); _alloy: Cu 0.96, Ir 0.04_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 0.3629 nm | 1133.15 | (Cu); _alloy: Cu 0.95, Ir 0.05_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 5 |  |
-| Lattice a | 0.3621 nm | 1133.15 | (Cu); _alloy: Cu 0.98, Ir 0.02_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 2 |  |
-| Lattice a | 0.3832 nm | 1473.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 8 |  |
-| Lattice a | 0.3828 nm | 1673.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 9 |  |
-| Lattice a | 0.3823 nm | 1873.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 10 |  |
+| Lattice a | 3.6147 Å | 291.15 | (Cu); _alloy: Cu 1, Ir 0_ | unspecified | [1] Chakrabarti 1987 | Table 3, p. 3, row 1 |  |
+| Lattice a | 3.839 Å | 303.15 | (Ir); _alloy: Ir 1_ | experimental | [1] Chakrabarti 1987; _cites Singh 1969_ | Table 3, p. 3, row 6 |  |
+| Lattice a | 3.836 Å | 1073.15 | (Ir); _alloy: Cu 0.6, Ir 0.4_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 7 |  |
+| Lattice a | 3.623 Å | 1133.15 | (Cu); _alloy: Cu 0.97, Ir 0.03_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 3 |  |
+| Lattice a | 3.625 Å | 1133.15 | (Cu); _alloy: Cu 0.96, Ir 0.04_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 3.629 Å | 1133.15 | (Cu); _alloy: Cu 0.95, Ir 0.05_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 5 |  |
+| Lattice a | 3.621 Å | 1133.15 | (Cu); _alloy: Cu 0.98, Ir 0.02_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 2 |  |
+| Lattice a | 3.832 Å | 1473.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 8 |  |
+| Lattice a | 3.828 Å | 1673.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 9 |  |
+| Lattice a | 3.823 Å | 1873.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 10 |  |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

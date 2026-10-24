@@ -122,98 +122,98 @@ Table: Crystal structure, B–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.09382 nm ± 5.000e-5 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 44 |  |
-| Lattice a | 1.09276 nm ± 5.000e-5 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 43 |  |
-| Lattice a | 1.09251 nm | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1978_ | Table 2, p. 3, row 42 |  |
-| Lattice a | 0.31665 nm | 298.15 | W; _alloy: W 1_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.31652 nm | 298.15 | W; _alloy: W 1_ | model | [1] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.5189 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
-| Lattice a | 0.52 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
-| Lattice a | 0.52004 nm ± 2.000e-5 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
-| Lattice a | 0.52005 nm ± 6.000e-5 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 41 |  |
-| Lattice a | 0.5206 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites Nowotny 1967_ [doi](https://doi.org/10.1007/bf00901362) | Table 2, p. 3, row 39 |  |
-| Lattice a | 0.5564 nm | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.55671 nm ± 3.000e-5 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 8 |  |
-| Lattice a | 0.5572 nm | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.557 nm | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.5563 nm | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.5568 nm ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 72Hav_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.5573 nm ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.29859 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 29 |  |
-| Lattice a | 0.29876 nm ± 2.000e-5 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 34 |  |
-| Lattice a | 0.2982 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 26 |  |
-| Lattice a | 0.2986 nm ± 2.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 32 |  |
-| Lattice a | 0.29835 nm ± 1.000e-5 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 33 |  |
-| Lattice a | 0.2984 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 76Hig_ | Table 2, p. 3, row 35 |  |
-| Lattice a | 0.2983 nm ± 2.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 31 |  |
-| Lattice a | 0.298 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 30 |  |
-| Lattice a | 0.301 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Meerson 1954_ | Table 2, p. 3, row 27 |  |
-| Lattice a | 0.2982 nm ± 2.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 36 |  |
-| Lattice a | 0.29805 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 28 |  |
-| Lattice a | 0.302 nm ± 2.000e-4 | 298.15 | WB2; _alloy: W 0.333333_ | experimental | [1] Duschanek 1995; _cites H 1966_ | Table 2, p. 3, row 24 |  |
-| Lattice a | 0.3011 nm ± 3.000e-4 | 298.15 | l-W2B5; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kuz'ma 1967_ | Table 2, p. 3, row 25 |  |
-| Lattice a | 0.3115 nm | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.3101 nm ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 15 |  |
-| Lattice a | 0.3128 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 85Oka_ | Table 2, p. 3, row 19 |  |
-| Lattice a | 0.3107 nm (range 0.31 to 0.3114) | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Boiler 1964_ | Table 2, p. 3, row 11 |  |
-| Lattice a | 0.3103 nm ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 16 |  |
-| Lattice a | 0.31218 nm | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 18 |  |
-| Lattice a | 0.312 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 13 |  |
-| Lattice a | 0.30973 nm ± 2.000e-5 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 17 |  |
-| Lattice a | 0.3126 nm ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 20 |  |
-| Lattice a | 0.3118 nm | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 14 |  |
-| Lattice a | 0.3093 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 12 |  |
-| Lattice a | 0.3124 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
-| Lattice a | 0.319 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
-| Lattice a | 0.3142 nm | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
-| Lattice b | 0.8445 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
-| Lattice b | 0.84 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
-| Lattice b | 0.8506 nm | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
-| Lattice c | 2.38356 nm ± 1.800e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 44 |  |
-| Lattice c | 2.38141 nm ± 1.500e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 43 |  |
-| Lattice c | 2.38143 nm | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1978_ | Table 2, p. 3, row 42 |  |
-| Lattice c | 0.6332 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
-| Lattice c | 0.634 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
-| Lattice c | 0.63348 nm ± 3.000e-5 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
-| Lattice c | 0.63356 nm ± 8.000e-5 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 41 |  |
-| Lattice c | 0.6335 nm | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites Nowotny 1967_ [doi](https://doi.org/10.1007/bf00901362) | Table 2, p. 3, row 39 |  |
-| Lattice c | 0.474 nm | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 3 |  |
-| Lattice c | 0.47454 nm ± 3.000e-5 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.4746 nm | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 0.4744 nm | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 4 |  |
-| Lattice c | 0.4725 nm | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 6 |  |
-| Lattice c | 0.4744 nm ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 72Hav_ | Table 2, p. 3, row 9 |  |
-| Lattice c | 0.4735 nm ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 7 |  |
-| Lattice c | 1.3892 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 29 |  |
-| Lattice c | 1.3897 nm ± 8.000e-5 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 34 |  |
-| Lattice c | 1.387 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 26 |  |
-| Lattice c | 1.381 nm ± 0.002 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 32 |  |
-| Lattice c | 1.38812 nm ± 7.000e-5 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 33 |  |
-| Lattice c | 1.3882 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 76Hig_ | Table 2, p. 3, row 35 |  |
-| Lattice c | 1.378 nm ± 0.002 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 31 |  |
-| Lattice c | 1.39 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 30 |  |
-| Lattice c | 1.383 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Meerson 1954_ | Table 2, p. 3, row 27 |  |
-| Lattice c | 1.3886 nm ± 4.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 36 |  |
-| Lattice c | 1.3879 nm | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 28 |  |
-| Lattice c | 0.305 nm ± 2.000e-4 | 298.15 | WB2; _alloy: W 0.333333_ | experimental | [1] Duschanek 1995; _cites H 1966_ | Table 2, p. 3, row 24 |  |
-| Lattice c | 2.093 nm ± 0.001 | 298.15 | l-W2B5; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kuz'ma 1967_ | Table 2, p. 3, row 25 |  |
-| Lattice c | 1.693 nm | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 10 |  |
-| Lattice c | 1.6914 nm ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 15 |  |
-| Lattice c | 1.6897 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 85Oka_ | Table 2, p. 3, row 19 |  |
-| Lattice c | 1.6955 nm (range 1.694 to 1.697) | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Boiler 1964_ | Table 2, p. 3, row 11 |  |
-| Lattice c | 1.6954 nm ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 16 |  |
-| Lattice c | 1.69188 nm ± 1.900e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 18 |  |
-| Lattice c | 1.6992 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 13 |  |
-| Lattice c | 1.69567 nm ± 2.500e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 17 |  |
-| Lattice c | 1.6901 nm ± 4.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 20 |  |
-| Lattice c | 1.691 nm | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 14 |  |
-| Lattice c | 1.6996 nm | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 12 |  |
-| Lattice c | 0.306 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
-| Lattice c | 0.307 nm | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
-| Lattice c | 0.3065 nm | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
-| lattice v | 2469.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 44 |  |
-| lattice v | 2462.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1984_ | Table 2, p. 3, row 43 |  |
-| lattice v | 2461.61 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1978_ | Table 2, p. 3, row 42 |  |
+| Lattice a | 10.9382 Å ± 5.000e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
+| Lattice a | 10.9276 Å ± 5.000e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
+| Lattice a | 10.9251 Å | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
+| Lattice a | 3.1665 Å | 298.15 | W; _alloy: W 1_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
+| Lattice a | 3.1652 Å | 298.15 | W; _alloy: W 1_ | model | [1] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 5.189 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
+| Lattice a | 5.2 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
+| Lattice a | 5.2004 Å ± 2.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
+| Lattice a | 5.2005 Å ± 6.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 41 |  |
+| Lattice a | 5.206 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites Nowotny 1967_ [doi](https://doi.org/10.1007/bf00901362) | Table 2, p. 3, row 39 |  |
+| Lattice a | 5.564 Å | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.5671 Å ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 8 |  |
+| Lattice a | 5.572 Å | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 5.57 Å | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 4 |  |
+| Lattice a | 5.563 Å | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 6 |  |
+| Lattice a | 5.568 Å ± 0.003 | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 72Hav_ | Table 2, p. 3, row 9 |  |
+| Lattice a | 5.573 Å ± 0.003 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 2.9859 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 29 |  |
+| Lattice a | 2.9876 Å ± 2.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 34 |  |
+| Lattice a | 2.982 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 26 |  |
+| Lattice a | 2.986 Å ± 0.002 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 32 |  |
+| Lattice a | 2.9835 Å ± 1.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 33 |  |
+| Lattice a | 2.984 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 76Hig_ | Table 2, p. 3, row 35 |  |
+| Lattice a | 2.983 Å ± 0.002 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 31 |  |
+| Lattice a | 2.98 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 30 |  |
+| Lattice a | 3.01 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Meerson 1954_ | Table 2, p. 3, row 27 |  |
+| Lattice a | 2.982 Å ± 0.002 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 36 |  |
+| Lattice a | 2.9805 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 28 |  |
+| Lattice a | 3.02 Å ± 0.002 | 298.15 | WB2; _alloy: W 0.333333_ | experimental | [1] Duschanek 1995; _cites H 1966_ | Table 2, p. 3, row 24 |  |
+| Lattice a | 3.011 Å ± 0.003 | 298.15 | l-W2B5; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kuz'ma 1967_ | Table 2, p. 3, row 25 |  |
+| Lattice a | 3.115 Å | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 10 |  |
+| Lattice a | 3.101 Å ± 0.002 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 15 |  |
+| Lattice a | 3.128 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 85Oka_ | Table 2, p. 3, row 19 |  |
+| Lattice a | 3.107 Å (range 3.1 to 3.114) | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Boiler 1964_ | Table 2, p. 3, row 11 |  |
+| Lattice a | 3.103 Å ± 0.002 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 16 |  |
+| Lattice a | 3.1218 Å | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 18 |  |
+| Lattice a | 3.12 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 13 |  |
+| Lattice a | 3.0973 Å ± 2.000e-4 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 17 |  |
+| Lattice a | 3.126 Å ± 0.002 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 20 |  |
+| Lattice a | 3.118 Å | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 14 |  |
+| Lattice a | 3.093 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 12 |  |
+| Lattice a | 3.124 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
+| Lattice a | 3.19 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
+| Lattice a | 3.142 Å | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
+| Lattice b | 8.445 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
+| Lattice b | 8.4 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
+| Lattice b | 8.506 Å | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
+| Lattice c | 23.8356 Å ± 0.0018 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
+| Lattice c | 23.8141 Å ± 0.0015 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
+| Lattice c | 23.8143 Å | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
+| Lattice c | 6.332 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
+| Lattice c | 6.34 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
+| Lattice c | 6.3348 Å ± 3.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
+| Lattice c | 6.3356 Å ± 8.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 41 |  |
+| Lattice c | 6.335 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites Nowotny 1967_ [doi](https://doi.org/10.1007/bf00901362) | Table 2, p. 3, row 39 |  |
+| Lattice c | 4.74 Å | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 3 |  |
+| Lattice c | 4.7454 Å ± 3.000e-4 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 8 |  |
+| Lattice c | 4.746 Å | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 5 |  |
+| Lattice c | 4.744 Å | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 4 |  |
+| Lattice c | 4.725 Å | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 6 |  |
+| Lattice c | 4.744 Å ± 0.003 | 298.15 | W2B; _alloy: W 0.666667_ | unspecified | [1] Duschanek 1995; _cites ref. 72Hav_ | Table 2, p. 3, row 9 |  |
+| Lattice c | 4.735 Å ± 0.003 | 298.15 | W2B; _alloy: W 0.666667_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 7 |  |
+| Lattice c | 13.892 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 29 |  |
+| Lattice c | 13.897 Å ± 8.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 34 |  |
+| Lattice c | 13.87 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 26 |  |
+| Lattice c | 13.81 Å ± 0.02 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 32 |  |
+| Lattice c | 13.8812 Å ± 7.000e-4 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 33 |  |
+| Lattice c | 13.882 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 76Hig_ | Table 2, p. 3, row 35 |  |
+| Lattice c | 13.78 Å ± 0.02 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 31 |  |
+| Lattice c | 13.9 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 30 |  |
+| Lattice c | 13.83 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Meerson 1954_ | Table 2, p. 3, row 27 |  |
+| Lattice c | 13.886 Å ± 0.004 | 298.15 | W2B5-x; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 36 |  |
+| Lattice c | 13.879 Å | 298.15 | W2B5-x; _alloy: W 0.285714_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 28 |  |
+| Lattice c | 3.05 Å ± 0.002 | 298.15 | WB2; _alloy: W 0.333333_ | experimental | [1] Duschanek 1995; _cites H 1966_ | Table 2, p. 3, row 24 |  |
+| Lattice c | 20.93 Å ± 0.01 | 298.15 | l-W2B5; _alloy: W 0.285714_ | experimental | [1] Duschanek 1995; _cites Kuz'ma 1967_ | Table 2, p. 3, row 25 |  |
+| Lattice c | 16.93 Å | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Kiessling 1947_ [doi](https://doi.org/10.3891/acta.chem.scand.01-0893) | Table 2, p. 3, row 10 |  |
+| Lattice c | 16.914 Å ± 0.002 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 15 |  |
+| Lattice c | 16.897 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 85Oka_ | Table 2, p. 3, row 19 |  |
+| Lattice c | 16.955 Å (range 16.94 to 16.97) | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Boiler 1964_ | Table 2, p. 3, row 11 |  |
+| Lattice c | 16.954 Å ± 0.002 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Portnoi 1967_ | Table 2, p. 3, row 16 |  |
+| Lattice c | 16.9188 Å ± 0.0019 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 18 |  |
+| Lattice c | 16.992 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 13 |  |
+| Lattice c | 16.9567 Å ± 0.0025 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 17 |  |
+| Lattice c | 16.901 Å ± 0.004 | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Itoh 1987_ [doi](https://doi.org/10.1007/bf01086475) | Table 2, p. 3, row 20 |  |
+| Lattice c | 16.91 Å | 298.15 | αWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Haschke 1967_ | Table 2, p. 3, row 14 |  |
+| Lattice c | 16.996 Å | 298.15 | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 12 |  |
+| Lattice c | 3.06 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
+| Lattice c | 3.07 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
+| Lattice c | 3.065 Å | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
+| lattice v | 2469.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
+| lattice v | 2462.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
+| lattice v | 2461.61 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
 | lattice v | 31.75 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
 | lattice v | 31.71 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | model | [1] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
 | lattice v | 147.65 nm3 × 10^3 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
@@ -308,4 +308,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

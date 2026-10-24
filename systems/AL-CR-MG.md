@@ -67,9 +67,9 @@ Table: Crystal structure, Al–Cr–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | model | [1] Cui 2017; _cites Kerimov 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990240-2) | Table 3, p. 4, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | unspecified | [1] Cui 2017; _cites Ohnishi 2017_ | Table 3, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | DFT | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 14.5 Å | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | model | [1] Cui 2017; _cites Kerimov 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990240-2) | Table 3, p. 4, row 2 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 14.5 Å | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | unspecified | [1] Cui 2017; _cites Ohnishi 2017_ | Table 3, p. 4, row 1 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 14.5 Å | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | DFT | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

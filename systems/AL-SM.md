@@ -196,36 +196,36 @@ Table: Crystal structure, Al–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 404.95 pm | 298.15 | Al; _alloy: Sm 0_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 15 |  |
-| Lattice a | 665.4 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
-| Lattice a | 666.2 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
-| Lattice a | 428.4 pm | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
-| Lattice a | 428 pm | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 13 |  |
-| Lattice a | 433.3 pm | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
-| Lattice a | 590.1 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
-| Lattice a | 589.9 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
-| Lattice a | 794.2 pm | 298.15 | SmAl2; _alloy: Sm 0.333333_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 8 |  |
-| Lattice a | 794.3 pm | 298.15 | SmAl2; _alloy: Sm 0.333333_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 9 |  |
-| Lattice a | 638 pm | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
-| Lattice a | 638.2 pm | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
-| Lattice a | 362.9 pm | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
-| Lattice a | 366.3 pm | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
-| Lattice a | 410 pm | 298.15 | γSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 3 |  |
-| Lattice b | 519.3 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
-| Lattice b | 519 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
-| Lattice b | 1281 pm | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
-| Lattice b | 1160.2 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
-| Lattice b | 1162 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
-| Lattice c | 963.1 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
-| Lattice c | 962.5 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
-| Lattice c | 990 pm | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
-| Lattice c | 997 pm | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
-| Lattice c | 568.8 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
-| Lattice c | 567.8 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
-| Lattice c | 459.7 pm | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
-| Lattice c | 460 pm | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
-| Lattice c | 262.07 pm | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
-| Lattice c | 584.48 pm | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
+| Lattice a | 4.0495 Å | 298.15 | Al; _alloy: Sm 0_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 15 |  |
+| Lattice a | 6.654 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
+| Lattice a | 6.662 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
+| Lattice a | 4.284 Å | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
+| Lattice a | 4.28 Å | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 13 |  |
+| Lattice a | 4.333 Å | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
+| Lattice a | 5.901 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
+| Lattice a | 5.899 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
+| Lattice a | 7.942 Å | 298.15 | SmAl2; _alloy: Sm 0.333333_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 8 |  |
+| Lattice a | 7.943 Å | 298.15 | SmAl2; _alloy: Sm 0.333333_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 9 |  |
+| Lattice a | 6.38 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
+| Lattice a | 6.382 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
+| Lattice a | 3.629 Å | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
+| Lattice a | 3.663 Å | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
+| Lattice a | 4.1 Å | 298.15 | γSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 3 |  |
+| Lattice b | 5.193 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
+| Lattice b | 5.19 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
+| Lattice b | 12.81 Å | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
+| Lattice b | 11.602 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
+| Lattice b | 11.62 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
+| Lattice c | 9.631 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
+| Lattice c | 9.625 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
+| Lattice c | 9.9 Å | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
+| Lattice c | 9.97 Å | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
+| Lattice c | 5.688 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
+| Lattice c | 5.678 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
+| Lattice c | 4.597 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
+| Lattice c | 4.6 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
+| Lattice c | 2.6207 Å | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
+| Lattice c | 5.8448 Å | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
 
 ## Sources
 
@@ -291,4 +291,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

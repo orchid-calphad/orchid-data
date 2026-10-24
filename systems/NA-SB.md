@@ -103,7 +103,7 @@ Table: Phase transition, Na–Sb system
 | Phase transition | 738 K | 738 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 9 |  |
 | Phase transition | 739 K | 739 | congruent transformation | model | [2] Dreval 2017 | p. 9 | “According to our calculations, the congruent melting point of the NaSb compound is 739 K, which is only by 1 K higher than the value reported in Refs. \[27,28\].” |
 | Phase transition | 739 K | 739 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | model | [1] Liu 2013 | Table 3, p. 5, row 8 |  |
-| Phase transition | 745 K | 745 |  | model | [2] Dreval 2017; _cites Liu 2017_ | p. 9 | “The temperature calculated by Liu et al. \[10\] is equal to 745 K.” |
+| Phase transition | 745 K | 745 |  | model | [2] Dreval 2017; _cites Liu 2013_ | p. 9 | “The temperature calculated by Liu et al. \[10\] is equal to 745 K.” |
 | Phase transition | 1130 K | 1130 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1 | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
 | Phase transition | 1130 K | 1130 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 4 |  |
 | Phase transition | 1131 K | 1131 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 3, p. 5, row 3 |  |
@@ -212,4 +212,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

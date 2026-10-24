@@ -103,11 +103,11 @@ Table: Phase equilibrium, Al–Cd system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 623.15 | α(Al); _α(Al): Al 0.99986, Cd 1.400e-4_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 2, p. 4, row 11 |  |
-| Phase composition |  | 673.15 | α(Al); _α(Al): Al 0.9998, Cd 2.000e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1967_ | Table 2, p. 4, row 14 |  |
-| Phase composition |  | 773.15 | α(Al); _α(Al): Al 0.99979, Cd 2.100e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1967_ | Table 2, p. 4, row 13 |  |
+| Phase composition |  | 673.15 | α(Al); _α(Al): Al 0.9998, Cd 2.000e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1965_ | Table 2, p. 4, row 14 |  |
+| Phase composition |  | 773.15 | α(Al); _α(Al): Al 0.99979, Cd 2.100e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1965_ | Table 2, p. 4, row 13 |  |
 | Phase composition |  | 793.15 | α(Al); _α(Al): Al 0.99962, Cd 3.800e-4_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 2, p. 4, row 10 |  |
 | Phase composition |  | 803.15 | α(Al); _α(Al): Al 0.99964, Cd 3.600e-4_ | experimental | [1] McAlister 1982; _cites ref. 55Sam_ | Table 2, p. 4, row 6 |  |
-| Phase composition |  | 803.15 | α(Al); _α(Al): Al 0.99975, Cd 2.500e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1967_ | Table 2, p. 4, row 12 |  |
+| Phase composition |  | 803.15 | α(Al); _α(Al): Al 0.99975, Cd 2.500e-4_ | experimental | [1] McAlister 1982; _cites Bochvar 1965_ | Table 2, p. 4, row 12 |  |
 | Phase composition |  | 833.15 | α(Al); _α(Al): Al 0.99957, Cd 4.300e-4_ | experimental | [1] McAlister 1982; _cites ref. 55Sam_ | Table 2, p. 4, row 5 |  |
 | Phase composition |  | 863.15 | α(Al); _α(Al): Al 0.99946, Cd 5.400e-4_ | experimental | [1] McAlister 1982; _cites ref. 55Sam_ | Table 2, p. 4, row 4 |  |
 | Phase composition |  | 873.15 | α(Al); _α(Al): Al 0.99933, Cd 6.700e-4_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 2, p. 4, row 9 |  |
@@ -149,13 +149,13 @@ Table: Activity / EMF / Gibbs energy, Al–Cd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Cd; _printed: Activity (Cd)_ | 0.66 1 | 1373.15 | L; _alloy: Al 0.856, Cd 0.144_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 2 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.73 1 | 1373.15 | L; _alloy: Al 0.802, Cd 0.198_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 3 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.79 1 | 1373.15 | L; _alloy: Al 0.7, Cd 0.3_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 4 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.81 1 | 1373.15 | L; _alloy: Al 0.5, Cd 0.5_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 5 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.59 1 | 1373.15 | L; _alloy: Al 0.903, Cd 0.097_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 1 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.9 1 | 1373.15 | L; _alloy: Al 0.122, Cd 0.878_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 7 |  |
-| Activity Cd; _printed: Activity (Cd)_ | 0.84 1 | 1373.15 | L; _alloy: Al 0.303, Cd 0.697_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 6 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.66 1 | 1373.15 | L; _alloy: Al 0.856, Cd 0.144_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 2 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.73 1 | 1373.15 | L; _alloy: Al 0.802, Cd 0.198_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 3 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.79 1 | 1373.15 | L; _alloy: Al 0.7, Cd 0.3_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 4 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.81 1 | 1373.15 | L; _alloy: Al 0.5, Cd 0.5_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 5 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.59 1 | 1373.15 | L; _alloy: Al 0.903, Cd 0.097_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 1 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.9 1 | 1373.15 | L; _alloy: Al 0.122, Cd 0.878_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 7 |  |
+| Activity Cd; _printed: Activity (Cd)_ | 0.84 1 | 1373.15 | L; _alloy: Al 0.303, Cd 0.697_ | experimental | [1] McAlister 1982; _cites Baker 1978_ | Table 5, p. 5, row 6 |  |
 
 ## Sources
 
@@ -221,4 +221,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

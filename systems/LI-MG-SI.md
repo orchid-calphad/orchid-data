@@ -178,13 +178,13 @@ Table: Crystal structure, Li–Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.0688 nm | 947.15 (\<) | τ2, Li12Mg3Si4; _alloy: Mg 0.157895, Si 0.210526_ | unspecified | [1] Kevorkov 2004; _cites Pavlyuk 1992_ | Table 2, p. 6, row 2 |  |
-| Lattice a | 1.2701 nm | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
-| Lattice a | 0.637 nm | 1268.15 (\<) | τ3, Li2MgSi; _alloy: Mg 0.25, Si 0.25_ | unspecified | [1] Kevorkov 2004; _cites Pavlyuk 1992_ | Table 2, p. 6, row 3 |  |
-| Lattice a | 0.635 nm | 1354.15 (\<) | LixMg2Si; _alloy: Mg 0.5, Si 0.25_ | unspecified | [1] Kevorkov 2004 | Table 2, p. 6, row 4 |  |
-| Lattice a | 0.638 nm | 1354.15 (\<) | LixMg2Si; _alloy: Mg 0.5, Si 0.25_ | unspecified | [1] Kevorkov 2004 | Table 2, p. 6, row 4 |  |
-| Lattice b | 0.4347 nm | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
-| Lattice c | 1.0507 nm | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
+| Lattice a | 10.688 Å | 947.15 (\<) | τ2, Li12Mg3Si4; _alloy: Mg 0.157895, Si 0.210526_ | unspecified | [1] Kevorkov 2004; _cites Pavlyuk 1992_ | Table 2, p. 6, row 2 |  |
+| Lattice a | 12.701 Å | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
+| Lattice a | 6.37 Å | 1268.15 (\<) | τ3, Li2MgSi; _alloy: Mg 0.25, Si 0.25_ | unspecified | [1] Kevorkov 2004; _cites Pavlyuk 1992_ | Table 2, p. 6, row 3 |  |
+| Lattice a | 6.35 Å | 1354.15 (\<) | LixMg2Si; _alloy: Mg 0.5, Si 0.25_ | unspecified | [1] Kevorkov 2004 | Table 2, p. 6, row 4 |  |
+| Lattice a | 6.38 Å | 1354.15 (\<) | LixMg2Si; _alloy: Mg 0.5, Si 0.25_ | unspecified | [1] Kevorkov 2004 | Table 2, p. 6, row 4 |  |
+| Lattice b | 4.347 Å | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
+| Lattice c | 10.507 Å | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
 | lattice gamma | 107.58 ° | 956.15 (\<) | τ1, Li8MgSi6; _alloy: Mg 0.066667, Si 0.4_ | experimental | [1] Kevorkov 2004; _cites Nesper 1986_ | Table 2, p. 6, row 1 |  |
 
 ## Sources
@@ -228,4 +228,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

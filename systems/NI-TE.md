@@ -98,31 +98,31 @@ Table: Crystal structure, Ni–Te system
 | Lattice a | 4.06 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 5 |  |
 | Lattice a | 3.88 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
 | Lattice a | 3.75 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice a | 3.78 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 5, p. 7, row 3 |  |
+| Lattice a | 3.78 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
 | Lattice a | 3.99 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
 | Lattice a | 4.466 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [1] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11 |  |
 | Lattice a | 11.44 Å | 298.15 | UNKNOWN | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3 |  |
 | Lattice a | 5.71 Å | 298.15 | β1 | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 7.54 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 7.54 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
 | Lattice a | 12.38 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
 | Lattice a | 3.86 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8 |  |
 | Lattice a | 3.97 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7 |  |
-| Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 6 |  |
+| Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
 | Lattice b | 3.92 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
 | Lattice c | 4.39 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 5 |  |
 | Lattice c | 6.02 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
 | Lattice c | 6.03 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice c | 6.06 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 5, p. 7, row 3 |  |
+| Lattice c | 6.06 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
 | Lattice c | 6.09 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
 | Lattice c | 5.919 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [1] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11 |  |
-| Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
 | Lattice c | 6.88 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
 | Lattice c | 5.26 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8 |  |
 | Lattice c | 5.36 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7 |  |
-| lattice beta | 91.16 ° | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2003_ | Table 1, p. 3, row 5 |  |
+| lattice beta | 91.16 ° | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

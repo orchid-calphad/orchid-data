@@ -64,75 +64,75 @@ Table: Crystal structure, Bi–Cs–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4612 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.449 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.9488 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.9774 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
-| Lattice a | 1.0221 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.9631 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.8163 nm |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
-| Lattice a | 1.303 nm |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.9465 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
-| Lattice a | 0.8934 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.627 nm |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.574 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.613 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice a | 0.3558 nm |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice a | 0.4544 nm | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.972 nm | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
-| Lattice a | 1.0077 nm | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.8064 nm | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
-| Lattice a | 1.2887 nm | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.931 nm | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.6188 nm | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.6067 nm | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.3536 nm | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
-| Lattice b | 0.4612 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.449 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
-| Lattice b | 0.9488 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
-| Lattice b | 0.9774 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
-| Lattice b | 1.0478 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
-| Lattice b | 1.0147 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
-| Lattice b | 0.9447 nm |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
-| Lattice b | 0.6423 nm |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
-| Lattice b | 0.9465 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
-| Lattice b | 0.8934 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
-| Lattice b | 0.627 nm |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
-| Lattice b | 0.574 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice b | 0.613 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice b | 0.3558 nm |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice b | 0.4544 nm | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
-| Lattice b | 0.972 nm | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
-| Lattice b | 1.032 nm | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
-| Lattice b | 0.9305 nm | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
-| Lattice b | 0.6323 nm | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
-| Lattice b | 0.931 nm | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
-| Lattice b | 0.6188 nm | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
-| Lattice b | 0.6067 nm | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
-| Lattice b | 0.3536 nm | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
-| Lattice c | 1.1714 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
-| Lattice c | 1.1421 nm |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.9488 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.9774 nm |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
-| Lattice c | 1.0168 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.9762 nm |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
-| Lattice c | 1.1868 nm |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
-| Lattice c | 1.2695 nm |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.9465 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.8934 nm |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
-| Lattice c | 0.627 nm |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
-| Lattice c | 0.574 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice c | 0.613 nm |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice c | 0.5523 nm |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice c | 1.1859 nm | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.972 nm | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
-| Lattice c | 1.0145 nm | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
-| Lattice c | 1.1758 nm | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
-| Lattice c | 1.2636 nm | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.931 nm | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.6188 nm | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
-| Lattice c | 0.6067 nm | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.5556 nm | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
+| Lattice a | 4.612 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
+| Lattice a | 4.49 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
+| Lattice a | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice a | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice a | 10.221 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice a | 9.631 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice a | 8.163 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice a | 13.03 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice a | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice a | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice a | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice a | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
+| Lattice a | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
+| Lattice a | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
+| Lattice a | 4.544 Å | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
+| Lattice a | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice a | 10.077 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice a | 8.064 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice a | 12.887 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice a | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
+| Lattice a | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
+| Lattice a | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
+| Lattice a | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
+| Lattice b | 4.612 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
+| Lattice b | 4.49 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
+| Lattice b | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice b | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice b | 10.478 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice b | 10.147 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice b | 9.447 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice b | 6.423 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice b | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice b | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice b | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice b | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
+| Lattice b | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
+| Lattice b | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
+| Lattice b | 4.544 Å | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
+| Lattice b | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice b | 10.32 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice b | 9.305 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice b | 6.323 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice b | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
+| Lattice b | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
+| Lattice b | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
+| Lattice b | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
+| Lattice c | 11.714 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 2 |  |
+| Lattice c | 11.421 Å |  | Bi; _Bi: Cs 0_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 3 |  |
+| Lattice c | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice c | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice c | 10.168 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice c | 9.762 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice c | 11.868 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice c | 12.695 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice c | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice c | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice c | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice c | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 17 |  |
+| Lattice c | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 16 |  |
+| Lattice c | 5.523 Å |  | Tm; _Tm: Tm 1_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 23 |  |
+| Lattice c | 11.859 Å | 298.15 | Bi; _Bi: Cs 0_ | unspecified | [1] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1 |  |
+| Lattice c | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice c | 10.145 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice c | 11.758 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice c | 12.636 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice c | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
+| Lattice c | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [1] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
+| Lattice c | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [1] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
+| Lattice c | 5.556 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [1] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
 
 ## Sources
 
@@ -175,4 +175,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

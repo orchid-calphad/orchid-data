@@ -280,62 +280,62 @@ Table: Crystal structure, Pd–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.649 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 1, p. 2, row 20 |  |
-| Lattice a | 0.397 nm | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6426 nm ± 0.0012 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
-| Lattice a | 1.29475 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.3967 nm | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | unspecified | [1] Cui 2020; _cites Shelton 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.565 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.87985 nm ± 1.100e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | unspecified | [1] Cui 2020; _cites Sarah 1981_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 1.72 nm | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
-| Lattice a | 0.6491 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 21 |  |
-| Lattice a | 0.61388 nm ± 4.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.565 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.64415 nm ± 1.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
-| Lattice a | 0.6126 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.5635 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.3976 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Ellner 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990140-5) | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.3975 nm | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 1, p. 2, row 2 |  |
-| Lattice a | 1.7147 nm ± 6.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
-| Lattice a | 0.6442 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
-| Lattice a | 0.612 nm | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
-| Lattice a | 0.877574 nm ± 1.700e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | experimental | [1] Cui 2020; _cites Klein 2015_ [doi](https://doi.org/10.1107/s2056989015011366) | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.4375 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Kareva 2014_ [doi](https://doi.org/10.1007/s11669-014-0299-5) | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.3971 nm ± 7.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Woo 1975_ [doi](https://doi.org/10.1016/0025-5416%2875%2990084-1) | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.649 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Hellner 1956_ [doi](https://doi.org/10.1524/zkri.1956.107.1-2.99) | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.5647 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 1.1495 nm ± 6.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
-| Lattice b | 0.43764 nm ± 3.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
-| Lattice b | 0.431 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
-| Lattice b | 0.647 nm | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
-| Lattice b | 0.389226 nm ± 3.000e-6 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
-| Lattice b | 0.431 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 1.14462 nm ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
-| Lattice b | 0.3901 nm ± 8.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
-| Lattice b | 0.4283 nm ± 3.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 9 |  |
-| Lattice b | 0.6458 nm ± 3.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
-| Lattice b | 1.1445 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
-| Lattice b | 0.386 nm | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
-| Lattice b | 0.4294 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 2.4327 nm ± 5.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 1, p. 2, row 20 |  |
-| Lattice c | 0.6397 nm ± 0.0012 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
-| Lattice c | 0.95659 nm ± 7.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
-| Lattice c | 0.812 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
-| Lattice c | 1.69837 nm ± 3.400e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | unspecified | [1] Cui 2020; _cites Sarah 1981_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.65 nm | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
-| Lattice c | 2.4353 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 21 |  |
-| Lattice c | 0.63377 nm ± 4.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
-| Lattice c | 0.812 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.63888 nm ± 1.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
-| Lattice c | 0.633 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.8091 nm ± 6.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.6488 nm ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
-| Lattice c | 0.6389 nm ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
-| Lattice c | 0.631 nm | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
-| Lattice c | 1.69004 nm ± 4.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | experimental | [1] Cui 2020; _cites Klein 2015_ [doi](https://doi.org/10.1107/s2056989015011366) | Table 1, p. 2, row 14 |  |
-| Lattice c | 0.5698 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Kareva 2014_ [doi](https://doi.org/10.1007/s11669-014-0299-5) | Table 1, p. 2, row 12 |  |
-| Lattice c | 2.4378 nm ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Hellner 1956_ [doi](https://doi.org/10.1524/zkri.1956.107.1-2.99) | Table 1, p. 2, row 19 |  |
-| Lattice c | 0.8103 nm ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 1969_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 6.49 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 1, p. 2, row 20 |  |
+| Lattice a | 3.97 Å | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 6.426 Å ± 0.012 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
+| Lattice a | 12.9475 Å ± 9.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.967 Å | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | unspecified | [1] Cui 2020; _cites Shelton 1981_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 5.65 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
+| Lattice a | 8.7985 Å ± 0.0011 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | unspecified | [1] Cui 2020; _cites Sarah 1981_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 17.2 Å | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
+| Lattice a | 6.491 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 21 |  |
+| Lattice a | 6.1388 Å ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
+| Lattice a | 5.65 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.4415 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
+| Lattice a | 6.126 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
+| Lattice a | 5.635 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 3.976 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Ellner 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990140-5) | Table 1, p. 2, row 4 |  |
+| Lattice a | 3.975 Å | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 1, p. 2, row 2 |  |
+| Lattice a | 17.147 Å ± 0.006 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
+| Lattice a | 6.442 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
+| Lattice a | 6.12 Å | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
+| Lattice a | 8.77574 Å ± 1.700e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | experimental | [1] Cui 2020; _cites Klein 2015_ [doi](https://doi.org/10.1107/s2056989015011366) | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.375 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Kareva 2014_ [doi](https://doi.org/10.1007/s11669-014-0299-5) | Table 1, p. 2, row 12 |  |
+| Lattice a | 3.971 Å ± 0.007 | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Cui 2020; _cites Woo 1975_ [doi](https://doi.org/10.1016/0025-5416%2875%2990084-1) | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.49 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Hellner 1956_ [doi](https://doi.org/10.1524/zkri.1956.107.1-2.99) | Table 1, p. 2, row 19 |  |
+| Lattice a | 5.647 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 10 |  |
+| Lattice b | 11.495 Å ± 0.006 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
+| Lattice b | 4.3764 Å ± 3.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
+| Lattice b | 4.31 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
+| Lattice b | 6.47 Å | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
+| Lattice b | 3.89226 Å ± 3.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
+| Lattice b | 4.31 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
+| Lattice b | 11.4462 Å ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
+| Lattice b | 3.901 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
+| Lattice b | 4.283 Å ± 0.003 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 9 |  |
+| Lattice b | 6.458 Å ± 0.003 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
+| Lattice b | 11.445 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
+| Lattice b | 3.86 Å | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
+| Lattice b | 4.294 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 24.327 Å ± 0.005 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 1, p. 2, row 20 |  |
+| Lattice c | 6.397 Å ± 0.012 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
+| Lattice c | 9.5659 Å ± 7.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
+| Lattice c | 8.12 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
+| Lattice c | 16.9837 Å ± 0.0034 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | unspecified | [1] Cui 2020; _cites Sarah 1981_ | Table 1, p. 2, row 13 |  |
+| Lattice c | 6.5 Å | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |
+| Lattice c | 24.353 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 21 |  |
+| Lattice c | 6.3377 Å ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Laufek 2012_ | Table 1, p. 2, row 17 |  |
+| Lattice c | 8.12 Å | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 6.3888 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Kubiak 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990065-7) | Table 1, p. 2, row 25 |  |
+| Lattice c | 6.33 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | unspecified | [1] Cui 2020; _cites Kareva 2012_ [doi](https://doi.org/10.1134/s0036023612030114) | Table 1, p. 2, row 15 |  |
+| Lattice c | 8.091 Å ± 0.006 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 6.488 Å ± 0.002 | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 23 |  |
+| Lattice c | 6.389 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | unspecified | [1] Cui 2020; _cites Nylen 2004_ [doi](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) | Table 1, p. 2, row 24 |  |
+| Lattice c | 6.31 Å | 298.15 | UNKNOWN; _alloy: Sn 0.5_ | experimental | [1] Cui 2020; _cites Nowotny 1946_ | Table 1, p. 2, row 16 |  |
+| Lattice c | 16.9004 Å ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | experimental | [1] Cui 2020; _cites Klein 2015_ [doi](https://doi.org/10.1107/s2056989015011366) | Table 1, p. 2, row 14 |  |
+| Lattice c | 5.698 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Kareva 2014_ [doi](https://doi.org/10.1007/s11669-014-0299-5) | Table 1, p. 2, row 12 |  |
+| Lattice c | 24.378 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Sn 0.666667_ | experimental | [1] Cui 2020; _cites Hellner 1956_ [doi](https://doi.org/10.1524/zkri.1956.107.1-2.99) | Table 1, p. 2, row 19 |  |
+| Lattice c | 8.103 Å ± 0.002 | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Page 2007_ | Table 1, p. 2, row 10 |  |
 
 ## Sources
 
@@ -401,4 +401,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

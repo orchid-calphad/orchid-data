@@ -161,18 +161,18 @@ Table: Crystal structure, Ca–Mg–Si system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 1270.8 not_printed ± 0.5 | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
-| Lattice a | 1271 pm | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
+| Lattice a | 12.71 Å | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
 | Lattice a | 748.1 not_printed | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
 | Lattice a | 750.4 not_printed ± 0.5 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice a | 748 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice a | 7.48 Å | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
 | Lattice b | 445.2 not_printed ± 0.6 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
 | Lattice b | 445.2 not_printed ± 0.4 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice b | 440 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice b | 4.4 Å | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
 | Lattice c | 438.8 not_printed ± 0.3 | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
-| Lattice c | 437 pm | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
+| Lattice c | 4.37 Å | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
 | Lattice c | 829.7 not_printed ± 0.8 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
 | Lattice c | 837.1 not_printed ± 0.7 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice c | 829 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice c | 8.29 Å | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
 
 ### Other property (1)
 
@@ -223,4 +223,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

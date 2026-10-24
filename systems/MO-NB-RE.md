@@ -47,20 +47,20 @@ Table: Enthalpies of formation, Mo–Nb–Re system (18)
 | σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | -164.966 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 2 |  |
 | σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | -145.417 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 9 |  |
 | σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | -27.535 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 3 |  |
-| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 76 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 7 |  |
-| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 132.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 8 |  |
-| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 179.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 5 |  |
+| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 76 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 7 |  |
+| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 132.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 8 |  |
+| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 179.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 5 |  |
 | σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 197.848 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 6 |  |
-| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 296.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 1 |  |
+| σ-(Re)10(Nb,Mo,Re)4(Nb,Mo,Re)16 |  | 296.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 1 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -738.19 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 11 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -519.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 10 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -417.159 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 14 |  |
-| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -43.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 17 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -43.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 17 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 9.0625 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 18 |  |
-| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 14.5517 kJ/mol-atom | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 16 |  |
-| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 318 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 13 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 14.5517 kJ/mol-atom | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 16 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 318 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 13 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 529.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 12 |  |
-| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 1100.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 15 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 1100.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2010_ | Table IV, p. 38, row 15 |  |
 
 ## Other properties
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

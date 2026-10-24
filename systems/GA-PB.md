@@ -976,10 +976,10 @@ Table: Crystal structure, Ga–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.45192 nm | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.49502 nm | 298.15 | Pb; _alloy: Ga 0, Pb 1_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 3, p. 3, row 2 |  |
-| Lattice b | 0.76586 nm | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice c | 0.45258 nm | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
+| Lattice a | 4.5192 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
+| Lattice a | 4.9502 Å | 298.15 | Pb; _alloy: Ga 0, Pb 1_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 3, p. 3, row 2 |  |
+| Lattice b | 7.6586 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
+| Lattice c | 4.5258 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
 
 ## Sources
 
@@ -1045,4 +1045,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

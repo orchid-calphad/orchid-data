@@ -65,57 +65,57 @@ Table: Crystal structure, Bi–In–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4558 nm | 298.15 | (Bi); _alloy: In 0, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.4546 nm | 298.15 | (Bi); _alloy: In 0, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.3279 nm | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.3251 nm | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.6023 nm | 298.15 | (αSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.6076 nm | 298.15 | (αSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.487 nm | 298.15 | (βSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 5 |  |
-| Lattice a | 1.3021 nm | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
-| Lattice a | 1.2765 nm | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
-| Lattice a | 0.501 nm | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
-| Lattice a | 0.836 nm | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 16 |  |
-| Lattice a | 0.8639 nm | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.8744 nm | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.8788 nm | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.506 nm | 298.15 | SrBi3; _alloy: In 0, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 21 |  |
-| Lattice a | 0.5042 nm | 298.15 | SrBi3; _alloy: In 0, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 20 |  |
-| Lattice a | 1.0222 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice a | 1.023 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.508 nm | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.7141 nm | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.6769 nm | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.5937 nm | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.6301 nm | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.9754 nm | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
-| Lattice a | 0.963 nm | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
-| Lattice a | 1.3681 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice a | 1.337 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
-| Lattice b | 2.604 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice b | 2.614 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice b | 1.0302 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice b | 1.0233 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
-| Lattice c | 0.5033 nm | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.4947 nm | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 1 |  |
-| Lattice c | 1.8196 nm | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
-| Lattice c | 1.8407 nm | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
-| Lattice c | 1.8091 nm | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 29 |  |
-| Lattice c | 1.768 nm | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
-| Lattice c | 1.6429 nm | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
-| Lattice c | 1.6496 nm | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.8365 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.84 nm | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.8116 nm | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.8021 nm | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.5249 nm | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.5481 nm | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.4827 nm | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.527 nm | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.7542 nm | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
-| Lattice c | 0.763 nm | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
-| Lattice c | 0.8917 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice c | 0.889 nm | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice a | 4.558 Å | 298.15 | (Bi); _alloy: In 0, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 19 |  |
+| Lattice a | 4.546 Å | 298.15 | (Bi); _alloy: In 0, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.279 Å | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.251 Å | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 1 |  |
+| Lattice a | 6.023 Å | 298.15 | (αSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.076 Å | 298.15 | (αSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 3 |  |
+| Lattice a | 4.87 Å | 298.15 | (βSr); _alloy: In 0, Sr 1_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 5 |  |
+| Lattice a | 13.021 Å | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
+| Lattice a | 12.765 Å | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
+| Lattice a | 5.01 Å | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
+| Lattice a | 8.36 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 16 |  |
+| Lattice a | 8.639 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 17 |  |
+| Lattice a | 8.744 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
+| Lattice a | 8.788 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
+| Lattice a | 5.06 Å | 298.15 | SrBi3; _alloy: In 0, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 21 |  |
+| Lattice a | 5.042 Å | 298.15 | SrBi3; _alloy: In 0, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 20 |  |
+| Lattice a | 10.222 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice a | 10.23 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice a | 5.08 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
+| Lattice a | 7.141 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.769 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.937 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.301 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
+| Lattice a | 9.754 Å | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
+| Lattice a | 9.63 Å | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
+| Lattice a | 13.681 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice a | 13.37 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice b | 26.04 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice b | 26.14 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice b | 10.302 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice b | 10.233 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice c | 5.033 Å | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 2 |  |
+| Lattice c | 4.947 Å | 298.15 | (In); _alloy: In 1, Sr 0_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 1 |  |
+| Lattice c | 18.196 Å | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
+| Lattice c | 18.407 Å | 298.15 | Sr11Bi10; _alloy: In 0, Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
+| Lattice c | 18.091 Å | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 29 |  |
+| Lattice c | 17.68 Å | 298.15 | Sr2Bi; _alloy: In 0, Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
+| Lattice c | 16.429 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
+| Lattice c | 16.496 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
+| Lattice c | 8.365 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice c | 8.4 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice c | 8.116 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.021 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.249 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
+| Lattice c | 5.481 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.827 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.27 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.542 Å | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
+| Lattice c | 7.63 Å | 298.15 | αSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
+| Lattice c | 8.917 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice c | 8.89 Å | 298.15 | βSr5Bi3; _alloy: In 0, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

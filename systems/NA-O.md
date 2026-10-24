@@ -125,21 +125,21 @@ Table: Crystal structure, Na–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4335 nm | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.426 nm | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.546 nm ± 0.001 | 203 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.3507 nm ± 2.000e-5 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.5512 nm ± 0.002 | 293 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.555 nm | 295 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.6207 nm ± 4.000e-4 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.428865 nm ± 2.600e-5 | 295 | β-Na (bcc); _alloy: O 0_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 1 |  |
-| Lattice b | 0.5537 nm | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
-| Lattice b | 0.554 nm | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
-| Lattice b | 0.57703 nm ± 3.000e-5 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.3363 nm | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
-| Lattice c | 0.344 nm | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.52708 nm ± 3.000e-5 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.4471 nm ± 3.000e-4 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.335 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.26 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
+| Lattice a | 5.46 Å ± 0.01 | 203 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 9 |  |
+| Lattice a | 3.507 Å ± 2.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
+| Lattice a | 5.512 Å ± 0.02 | 293 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 10 |  |
+| Lattice a | 5.55 Å | 295 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 2 |  |
+| Lattice a | 6.207 Å ± 0.004 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.28865 Å ± 2.600e-4 | 295 | β-Na (bcc); _alloy: O 0_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 1 |  |
+| Lattice b | 5.537 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
+| Lattice b | 5.54 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
+| Lattice b | 5.7703 Å ± 3.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
+| Lattice c | 3.363 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
+| Lattice c | 3.44 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
+| Lattice c | 5.2708 Å ± 3.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |
+| Lattice c | 4.471 Å ± 0.003 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5 |  |
 
 ### Other property (1)
 
@@ -212,4 +212,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

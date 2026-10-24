@@ -29,7 +29,7 @@ Table: Crystal structure, Cd–Sr–Ti system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 16.068 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099, Ti 0_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 8.717 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625, Ti 0_ | experimental | [1] Zhang 2013; _cites Druska 1849_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 8.717 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625, Ti 0_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6 |  |
 | Lattice a | 4.025 Å | 298.15 | SrCd; _alloy: Sr 0.5, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 11.98 Å | 298.15 | SrCd11; _alloy: Sr 0.083333, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 5.046 Å | 298.15 | SrCd2; _alloy: Sr 0.333333, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
@@ -38,7 +38,7 @@ Table: Crystal structure, Cd–Sr–Ti system
 | Lattice a | 2.904 Å | 298.15 | TiCd; _alloy: Sr 0, Ti 0.5_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 7 |  |
 | Lattice b | 8.008 Å | 298.15 | SrCd2; _alloy: Sr 0.333333, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
 | Lattice c | 15.91 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099, Ti 0_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 16.601 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625, Ti 0_ | experimental | [1] Zhang 2013; _cites Druska 1849_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 16.601 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625, Ti 0_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6 |  |
 | Lattice c | 7.67 Å | 298.15 | SrCd11; _alloy: Sr 0.083333, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1 |  |
 | Lattice c | 8.451 Å | 298.15 | SrCd2; _alloy: Sr 0.333333, Ti 0_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
 | Lattice c | 13.42 Å | 298.15 | Ti2Cd; _alloy: Sr 0, Ti 0.666667_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 8 |  |
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

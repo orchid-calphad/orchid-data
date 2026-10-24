@@ -68,8 +68,8 @@ Table: Invariant reactions reported in the literature for the Ag–Dy system (16
 | 1173 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.745; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 9 |  |
 | 1171 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.695; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 8 |  |
 | 1075 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.111; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 1 |  |
-| 1074 | eutectic: L ↔ Fcc(Ag) + Ag51 Dy14 |  | experimental | [1] Long 2010; _cites Gschneidner 1971_ | p. 1 | “Gschneidner et al. \[16\] measured the maximum solid solubility of Dy in Ag to be 1.3 at.%, and determined the eutectic temperature of L ↔ Fcc(Ag) + Ag51 Dy14 as 1074 K.” |
-| 1074 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1971_ | Table 3, p. 4, row 3 |  |
+| 1074 | eutectic: L ↔ Fcc(Ag) + Ag51 Dy14 |  | experimental | [1] Long 2010; _cites Gschneidner 1970_ | p. 1 | “Gschneidner et al. \[16\] measured the maximum solid solubility of Dy in Ag to be 1.3 at.%, and determined the eutectic temperature of L ↔ Fcc(Ag) + Ag51 Dy14 as 1074 K.” |
+| 1074 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1970_ | Table 3, p. 4, row 3 |  |
 | 1073 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.12; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 2 |  |
 
 ## Sources
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

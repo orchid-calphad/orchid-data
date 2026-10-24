@@ -198,21 +198,21 @@ Table: Crystal structure, Mg–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.32094 nm | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.1475 nm | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.3898 nm | 298.15 | PrMg; _PrMg: Mg 0.47, Pr 0.53_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 1.034 nm | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.8689 nm | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.743 nm | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.413 nm | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.3898 nm | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.36721 nm | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.413 nm | 298.15 | βPra; _βPra: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 1.18326 nm | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.52107 nm | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.1041 nm | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.598 nm | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.7411 nm | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 3.2094 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
+| Lattice a | 1.475 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.898 Å | 298.15 | PrMg; _PrMg: Mg 0.47, Pr 0.53_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 10.34 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 8.689 Å | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 7.43 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 3.898 Å | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15 |  |
+| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 5.2107 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
+| Lattice c | 1.041 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 5.98 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 7.411 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
 
 ## Sources
 
@@ -279,4 +279,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

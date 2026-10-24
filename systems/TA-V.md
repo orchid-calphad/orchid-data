@@ -108,54 +108,54 @@ Table: Crystal structure, Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 493.22 pm | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
-| Lattice a | 538.47 pm | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
-| Lattice a | 506.48 pm | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
-| Lattice a | 540.68 pm | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
-| Lattice a | 543.52 pm | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
-| Lattice a | 545.07 pm | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
-| Lattice a | 753.99 pm | 0 | C15; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 9 |  |
-| Lattice a | 764.51 pm | 0 | C15; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 12 |  |
-| Lattice a | 709.57 pm | 0 | C15; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 6 |  |
-| Lattice a | 688.17 pm | 0 | C15; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 4 |  |
-| Lattice a | 505.42 pm | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
-| Lattice a | 544.16 pm | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
-| Lattice a | 493.3 pm | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
-| Lattice a | 542.45 pm | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
-| Lattice a | 538.18 pm | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
-| Lattice a | 544.06 pm | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
-| Lattice a | 330.9 pm | 0 | NM BCC Ta; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 4 |  |
-| Lattice a | 297.83 pm | 0 | NM BCC V; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.9322 Å | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.3847 Å | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
+| Lattice a | 5.0648 Å | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
+| Lattice a | 5.4068 Å | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
+| Lattice a | 5.4352 Å | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
+| Lattice a | 5.4507 Å | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
+| Lattice a | 7.5399 Å | 0 | C15; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 9 |  |
+| Lattice a | 7.6451 Å | 0 | C15; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 12 |  |
+| Lattice a | 7.0957 Å | 0 | C15; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 6 |  |
+| Lattice a | 6.8817 Å | 0 | C15; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 4 |  |
+| Lattice a | 5.0542 Å | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
+| Lattice a | 5.4416 Å | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
+| Lattice a | 4.933 Å | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
+| Lattice a | 5.4245 Å | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
+| Lattice a | 5.3818 Å | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
+| Lattice a | 5.4406 Å | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
+| Lattice a | 3.309 Å | 0 | NM BCC Ta; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 4 |  |
+| Lattice a | 2.9783 Å | 0 | NM BCC V; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 2 |  |
 | Lattice a | 5.09 Å | 298.15 | C14 | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 496 pm | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 4.96 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
 | Lattice a | 5.058 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 2 |  |
 | Lattice a | 4.96 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 2, p. 3, row 11 |  |
 | Lattice a | 4.96 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Yu 1965_ | Table 2, p. 3, row 10 |  |
 | Lattice a | 5.058 Å | 298.15 | C14 | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 8 |  |
 | Lattice a | 7.163 Å | 298.15 | C15; _alloy: V 0.68_ | experimental | [1] Danon 2004; _cites Carlson 1959_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 715.55 pm | 298.15 | C15; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 2 |  |
+| Lattice a | 7.1555 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 2 |  |
 | Lattice a | 7.155 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Wennerstrom 1975_ [doi](https://doi.org/10.1088/0031-8949/11/6/008) | Table 2, p. 3, row 6 |  |
 | Lattice a | 7.14 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Pushin 1980_ | Table 2, p. 3, row 4 |  |
 | Lattice a | 7.153 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Schippnick 1974_ [doi](https://doi.org/10.1016/0038-1098%2874%2991202-2) | Table 2, p. 3, row 5 |  |
 | Lattice a | 7.14 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Yu 1965_ | Table 2, p. 3, row 12 |  |
-| Lattice a | 330.19 pm | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 303.09 pm | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.3019 Å | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.0309 Å | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
 | Lattice a | 7.1597 Å | 298.15 | UNKNOWN; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Lynch 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990050-0) | Table 2, p. 3, row 1 |  |
 | Lattice a | 7.16 Å | 298.15 | UNKNOWN; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Somenkov 1966_ | Table 2, p. 3, row 7 |  |
-| Lattice c | 771.99 pm | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
-| Lattice c | 850.5 pm | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
-| Lattice c | 804.25 pm | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
-| Lattice c | 792.77 pm | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
-| Lattice c | 830.71 pm | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
-| Lattice c | 867.84 pm | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
-| Lattice c | 1615.19 pm | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
-| Lattice c | 1742.52 pm | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
-| Lattice c | 1545.22 pm | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
-| Lattice c | 1576.26 pm | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
-| Lattice c | 1706.52 pm | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
-| Lattice c | 1658 pm | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
+| Lattice c | 7.7199 Å | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
+| Lattice c | 8.505 Å | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
+| Lattice c | 8.0425 Å | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
+| Lattice c | 7.9277 Å | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
+| Lattice c | 8.3071 Å | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
+| Lattice c | 8.6784 Å | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
+| Lattice c | 16.1519 Å | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
+| Lattice c | 17.4252 Å | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
+| Lattice c | 15.4522 Å | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
+| Lattice c | 15.7626 Å | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
+| Lattice c | 17.0652 Å | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
+| Lattice c | 16.58 Å | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
 | Lattice c | 8.322 Å | 298.15 | C14 | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 9 |  |
-| Lattice c | 811 pm | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
+| Lattice c | 8.11 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
 | Lattice c | 8.25 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 2 |  |
 | Lattice c | 8.11 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 2, p. 3, row 11 |  |
 | Lattice c | 8.11 Å | 298.15 | C14; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Yu 1965_ | Table 2, p. 3, row 10 |  |
@@ -292,4 +292,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

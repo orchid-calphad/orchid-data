@@ -321,14 +321,14 @@
   "LATTICE_LENGTH": {
    "basis": "calibrated",
    "ci95": [
-    0.012948,
-    0.026112
+    0.007225,
+    0.012948
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 0.0197,
+   "floor": 0.0112,
    "n_pairs": 223,
    "n_states": 133,
-   "sigma_robust": 0.019644
+   "sigma_robust": 0.011143
   },
   "SM_FORM": {
    "basis": "calibrated",
@@ -1026,16 +1026,16 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.001908,
+      0.00189,
       0.002664
      ],
      "class": "unknown",
      "floor": 0.0023,
      "floor_at_minimum": false,
      "median_abs_diff": 0.002183,
-     "n_pairs": 601,
-     "n_states": 192,
-     "sigma_robust": 0.002209,
+     "n_pairs": 603,
+     "n_states": 194,
+     "sigma_robust": 0.00222,
      "sigma_robust_unweighted": 0.002288,
      "text": "method not printed"
     },
@@ -1060,12 +1060,12 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.0002,
    "pooled_all_classes": {
-    "n_pairs": 683,
-    "sigma_robust": 0.002288
+    "n_pairs": 676,
+    "sigma_robust": 0.002198
    },
-   "relisted_values_counted_once": 61,
+   "relisted_values_counted_once": 65,
    "rounding_step": 0.0001,
-   "states_with_two_or_more_sources": 234
+   "states_with_two_or_more_sources": 233
   },
   "SM_FORM": {
    "basis_error_pairs_excluded": 0,

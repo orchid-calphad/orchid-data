@@ -182,45 +182,45 @@ Table: Crystal structure, Cu–Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.43 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.4303 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
-| Lattice a | 0.42488 nm | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
-| Lattice a | 2.837 nm |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.4932 nm |  | Cu7Dy; _alloy: Dy 0.125_ | experimental | [1] Palumbo 2009; _cites Buschow 1971_ [doi](https://doi.org/10.1107/s0567740871003558) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.4922 nm | 0 | Cu7Dy; _alloy: Dy 0.125_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 2.133 nm |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
-| Lattice a | 4.955 nm |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.346 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Chao 1964_ [doi](https://doi.org/10.1063/1.1713089) | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.3461 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Dwight 1965_ | Table 1, p. 2, row 20 |  |
-| Lattice a | 0.7087 nm | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
-| Lattice a | 0.34789 nm | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 24 |  |
-| Lattice a | 0.3455 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Belakhovsky 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990407-8) | Table 1, p. 2, row 21 |  |
-| Lattice a | 0.3455 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 22 |  |
-| Lattice a | 0.3461 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Baenziger 1961_ [doi](https://doi.org/10.1107/s0365110x6100276x) | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.3444 nm |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Pierre 1965_ | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.7022 nm |  | α-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.70058 nm | 0 | α-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.7027 nm |  | α-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990189-1) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.49839 nm | 0 | β-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.502 nm |  | β-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 1, p. 2, row 7 |  |
-| Lattice b | 0.6792 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
-| Lattice b | 0.6802 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
-| Lattice b | 0.6767 nm | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
-| Lattice b | 2.836 nm |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
-| Lattice b | 2.129 nm |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
-| Lattice b | 4.956 nm |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
-| Lattice b | 0.4449 nm | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
-| Lattice c | 0.73 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.7289 nm |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.7281 nm | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
-| Lattice c | 2.5658 nm |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.4156 nm |  | Cu7Dy; _alloy: Dy 0.125_ | experimental | [1] Palumbo 2009; _cites Buschow 1971_ [doi](https://doi.org/10.1107/s0567740871003558) | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.4148 nm | 0 | Cu7Dy; _alloy: Dy 0.125_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 1.891 nm |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
-| Lattice c | 4.633 nm |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.5346 nm | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
-| Lattice c | 0.40939 nm | 0 | β-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.408 nm |  | β-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.3 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
+| Lattice a | 4.303 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
+| Lattice a | 4.2488 Å | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
+| Lattice a | 28.37 Å |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.932 Å |  | Cu7Dy; _alloy: Dy 0.125_ | experimental | [1] Palumbo 2009; _cites Buschow 1971_ [doi](https://doi.org/10.1107/s0567740871003558) | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.922 Å | 0 | Cu7Dy; _alloy: Dy 0.125_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 2 |  |
+| Lattice a | 21.33 Å |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
+| Lattice a | 49.55 Å |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
+| Lattice a | 3.46 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Chao 1964_ [doi](https://doi.org/10.1063/1.1713089) | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.461 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Dwight 1965_ | Table 1, p. 2, row 20 |  |
+| Lattice a | 7.087 Å | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
+| Lattice a | 3.4789 Å | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 24 |  |
+| Lattice a | 3.455 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Belakhovsky 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990407-8) | Table 1, p. 2, row 21 |  |
+| Lattice a | 3.455 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 22 |  |
+| Lattice a | 3.461 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Baenziger 1961_ [doi](https://doi.org/10.1107/s0365110x6100276x) | Table 1, p. 2, row 17 |  |
+| Lattice a | 3.444 Å |  | CuDy; _alloy: Dy 0.5_ | experimental | [1] Palumbo 2009; _cites Pierre 1965_ | Table 1, p. 2, row 19 |  |
+| Lattice a | 7.022 Å |  | α-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 4 |  |
+| Lattice a | 7.0058 Å | 0 | α-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 6 |  |
+| Lattice a | 7.027 Å |  | α-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990189-1) | Table 1, p. 2, row 3 |  |
+| Lattice a | 4.9839 Å | 0 | β-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.02 Å |  | β-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 1, p. 2, row 7 |  |
+| Lattice b | 6.792 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
+| Lattice b | 6.802 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
+| Lattice b | 6.767 Å | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
+| Lattice b | 28.36 Å |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
+| Lattice b | 21.29 Å |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
+| Lattice b | 49.56 Å |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
+| Lattice b | 4.449 Å | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
+| Lattice c | 7.3 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Storm 1963_ [doi](https://doi.org/10.1107/s0365110x6300181x) | Table 1, p. 2, row 12 |  |
+| Lattice c | 7.289 Å |  | Cu2Dy; _alloy: Dy 0.333333_ | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 1, p. 2, row 13 |  |
+| Lattice c | 7.281 Å | 0 | Cu2Dy; _alloy: Dy 0.333333_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 16 |  |
+| Lattice c | 25.658 Å |  | Cu4Dy; _alloy: Dy 0.2_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.156 Å |  | Cu7Dy; _alloy: Dy 0.125_ | experimental | [1] Palumbo 2009; _cites Buschow 1971_ [doi](https://doi.org/10.1107/s0567740871003558) | Table 1, p. 2, row 1 |  |
+| Lattice c | 4.148 Å | 0 | Cu7Dy; _alloy: Dy 0.125_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 2 |  |
+| Lattice c | 18.91 Å |  | Cu7Dy2; _alloy: Dy 0.222222_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 11 |  |
+| Lattice c | 46.33 Å |  | Cu9Dy2; _alloy: Dy 0.181818_ | experimental | [1] Palumbo 2009; _cites Cerny 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900187-7) | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.346 Å | 0 | CuDy; _alloy: Dy 0.5_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 25 |  |
+| Lattice c | 4.0939 Å | 0 | β-Cu5Dy; _alloy: Dy 0.166667_ | DFT | [1] Palumbo 2009 | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.08 Å |  | β-Cu5Dy; _alloy: Dy 0.166667_ | experimental | [1] Palumbo 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 1, p. 2, row 7 |  |
 
 ## Sources
 
@@ -286,4 +286,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -166,29 +166,29 @@ Table: Crystal structure, Al–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.387 nm |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 20 |  |
-| Lattice a | 0.3876 nm |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 21 |  |
-| Lattice a | 1.932 nm | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 2 |  |
-| Lattice a | 1.923 nm | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 1 |  |
-| Lattice a | 1.2964 nm | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
-| Lattice a | 1.297 nm | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.592 nm | 298.15 | Al2Pt; _Al2Pt: Al 0.68, Pt 0.32_ | model | [1] Wu 2000 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.5992 nm | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.591 nm | 298.15 | Al2Pt; _Al2Pt: Al 0.67, Pt 0.33_ | model | [1] Wu 2000 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.591 nm | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.4208 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.42 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.422 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.541 nm | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.3871 nm | 298.15 | Al3Pt5; _Al3Pt5: Al 0.272, Pt 0.728_ | model | [1] Wu 2000 | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.4864 nm | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.486 nm | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 13 |  |
-| Lattice b | 1.07 nm | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
-| Lattice c | 1.0684 nm | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
-| Lattice c | 1.066 nm | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.5172 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.517 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.395 nm | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.87 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 20 |  |
+| Lattice a | 3.876 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 21 |  |
+| Lattice a | 19.32 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 2 |  |
+| Lattice a | 19.23 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 1 |  |
+| Lattice a | 12.964 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
+| Lattice a | 12.97 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.92 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.68, Pt 0.32_ | model | [1] Wu 2000 | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.992 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 5 |  |
+| Lattice a | 5.91 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.67, Pt 0.33_ | model | [1] Wu 2000 | Table 1, p. 2, row 7 |  |
+| Lattice a | 5.91 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 6 |  |
+| Lattice a | 4.208 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.2 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
+| Lattice a | 4.22 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 10 |  |
+| Lattice a | 5.41 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.871 Å | 298.15 | Al3Pt5; _Al3Pt5: Al 0.272, Pt 0.728_ | model | [1] Wu 2000 | Table 1, p. 2, row 17 |  |
+| Lattice a | 4.864 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.86 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 13 |  |
+| Lattice b | 10.7 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
+| Lattice c | 10.684 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
+| Lattice c | 10.66 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
+| Lattice c | 5.172 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
+| Lattice c | 5.17 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
+| Lattice c | 3.95 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
 
 ## Sources
 
@@ -253,4 +253,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

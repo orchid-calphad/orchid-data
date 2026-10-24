@@ -71,4 +71,4 @@ Calibrated from ORCHID's own DFT-vs-experiment pairs (`literature/dft_parity.jso
 | polymorph_ambiguous|metal | 291 | 5.011 | 2.085 | 6.537 [5.429, 7.821] | 8.327 [6.939, 9.699] | 27.218 [21.403, 30.276] | 12.19 [10.271, 14.112] | 1.86 | 2.0 | 6.224 |  |
 | polymorph_ambiguous|pblock_anion | 413 | 6.403 | 1.145 | 8.435 [7.816, 10.51] | 10.473 [9.025, 11.542] | 41.868 [34.258, 57.929] | 24.65 [18.702, 30.416] | 2.92 | 2.25 | 8.129 |  |
 
-Values in kJ/mol-atom. Leave-system-out sigmas used for the weights: `CALIBRATION.json`, `lso` (`<source>|<stratum>|<system>`). Pairs file: dft_parity.json inputs literature sha256 befef97c22dd57323e16f2c3f392d9ca737645c71b70ca8b26b0fb9a6570337f.
+Values in kJ/mol-atom. Leave-system-out sigmas used for the weights: `CALIBRATION.json`, `lso` (`<source>|<stratum>|<system>`). Pairs file: dft_parity.json inputs literature sha256 4bace0319ed6b811426dff532381a68354125878a85f70e21be326d9c7611399.

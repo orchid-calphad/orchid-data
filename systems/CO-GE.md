@@ -273,21 +273,21 @@ Table: Crystal structure, Co–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 1.157 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 1.1684 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 0.565 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 0.5684 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 0.567 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
-| Lattice b; _printed: b_ | 0.3766 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice b; _printed: b_ | 0.3807 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice b; _printed: b_ | 0.565 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice b; _printed: b_ | 0.5682 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice b; _printed: b_ | 0.567 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
-| Lattice c; _printed: c_ | 0.4934 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 0.4945 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 1.08 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 1.094 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 1.0796 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| Lattice a; _printed: a_ | 11.57 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice a; _printed: a_ | 11.684 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice a; _printed: a_ | 5.65 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice a; _printed: a_ | 5.684 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice a; _printed: a_ | 5.67 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| Lattice b; _printed: b_ | 3.766 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice b; _printed: b_ | 3.807 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice b; _printed: b_ | 5.65 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice b; _printed: b_ | 5.682 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice b; _printed: b_ | 5.67 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| Lattice c; _printed: c_ | 4.934 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice c; _printed: c_ | 4.945 Å | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice c; _printed: c_ | 10.8 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice c; _printed: c_ | 10.94 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice c; _printed: c_ | 10.796 Å | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
 | lattice unspecified axis; _printed: β_ | 99.6 ° | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
 | lattice unspecified axis; _printed: β_ | 101.1 ° | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
 
@@ -356,4 +356,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

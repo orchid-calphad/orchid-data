@@ -48,11 +48,11 @@ Table: Crystal structure, Fe–Os system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.28664 nm | 293.15 | α or (αFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 1 |  |
-| Lattice a | 2.7353 nm | 293.15 | ε or (Os) | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.36468 nm | 1189.15 | γ or (γFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.29322 nm | 1667.15 | δ or (δFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 2 |  |
-| Lattice b | 4.3191 nm | 293.15 | ε or (Os) | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 4 |  |
+| Lattice a | 2.8664 Å | 293.15 | α or (αFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 1 |  |
+| Lattice a | 27.353 Å | 293.15 | ε or (Os) | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 4 |  |
+| Lattice a | 3.6468 Å | 1189.15 | γ or (γFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 3 |  |
+| Lattice a | 2.9322 Å | 1667.15 | δ or (δFe); _alloy: Os 0_ | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 2 |  |
+| Lattice b | 43.191 Å | 293.15 | ε or (Os) | unspecified | [1] Swartzendruber 1983 | Table 1, p. 3, row 4 |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -327,34 +327,34 @@ Table: Crystal structure, Fe–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 286.65 pm | 298.15 | α, (αFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 330.65 pm | 298.15 | β, (Ta); _alloy: Ta 1_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 481.6 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Kuo 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990031-5) | Table 1, p. 2, row 7 |  |
-| Lattice a | 480 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Wallbaum 1941_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 480 pm | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 481 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Jellinghaus 1935_ [doi](https://doi.org/10.1002/zaac.19352230405) | Table 1, p. 2, row 5 |  |
-| Lattice a | 480.6 pm | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Jones 1972_ [doi](https://doi.org/10.1007/bf02644249) | Table 1, p. 2, row 11 |  |
-| Lattice a | 486 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 481.7 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Elliot 1958_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 482.7 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.666, Ta 0.334; λ, ε, TaFe2: Fe 0.666, Ta 0.334_ | unspecified | [3] Witusiewicz 2011; _cites von Keitz A 1998_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 491.1 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.51, Ta 0.49; μ, TaFe, Ta6Fe7: Fe 0.51, Ta 0.49_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 495 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.46, Ta 0.54; μ, TaFe, Ta6Fe7: Fe 0.46, Ta 0.54_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 491.9 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.5, Ta 0.5; μ, TaFe, Ta6Fe7: Fe 0.5, Ta 0.5_ | experimental | [3] Witusiewicz 2011; _cites Kripyakevich 1968_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 830 pm | 1073.15 | UNKNOWN; _alloy: Fe 0.35, Ta 0.65_ | experimental | [3] Witusiewicz 2011; _cites Lin 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900138-3) | Table 1, p. 2, row 16 |  |
-| Lattice a | 364.67 pm | 1188.15 | γ, (γFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 293.15 pm | 1753.15 | δ, (δFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 786.8 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Kuo 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990031-5) | Table 1, p. 2, row 7 |  |
-| Lattice c | 784 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Wallbaum 1941_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 784 pm | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 788.8 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Jellinghaus 1935_ [doi](https://doi.org/10.1002/zaac.19352230405) | Table 1, p. 2, row 5 |  |
-| Lattice c | 784.6 pm | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Jones 1972_ [doi](https://doi.org/10.1007/bf02644249) | Table 1, p. 2, row 11 |  |
-| Lattice c | 791.4 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 782.2 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Elliot 1958_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 787.8 pm | 298.15 | λ, ε, TaFe2; _λ: Fe 0.666, Ta 0.334; λ, ε, TaFe2: Fe 0.666, Ta 0.334_ | unspecified | [3] Witusiewicz 2011; _cites von Keitz A 1998_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 2698 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.51, Ta 0.49; μ, TaFe, Ta6Fe7: Fe 0.51, Ta 0.49_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 2707 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.46, Ta 0.54; μ, TaFe, Ta6Fe7: Fe 0.46, Ta 0.54_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 2700 pm | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.5, Ta 0.5; μ, TaFe, Ta6Fe7: Fe 0.5, Ta 0.5_ | experimental | [3] Witusiewicz 2011; _cites Kripyakevich 1968_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 485 pm | 1073.15 | UNKNOWN; _alloy: Fe 0.35, Ta 0.65_ | experimental | [3] Witusiewicz 2011; _cites Lin 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900138-3) | Table 1, p. 2, row 16 |  |
+| Lattice a | 2.8665 Å | 298.15 | α, (αFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 3.3065 Å | 298.15 | β, (Ta); _alloy: Ta 1_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 4.816 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Kuo 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990031-5) | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.8 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Wallbaum 1941_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 4.8 Å | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.81 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Jellinghaus 1935_ [doi](https://doi.org/10.1002/zaac.19352230405) | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.806 Å | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Jones 1972_ [doi](https://doi.org/10.1007/bf02644249) | Table 1, p. 2, row 11 |  |
+| Lattice a | 4.86 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 4.817 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Elliot 1958_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.827 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.666, Ta 0.334; λ, ε, TaFe2: Fe 0.666, Ta 0.334_ | unspecified | [3] Witusiewicz 2011; _cites von Keitz A 1998_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 4.911 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.51, Ta 0.49; μ, TaFe, Ta6Fe7: Fe 0.51, Ta 0.49_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 4.95 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.46, Ta 0.54; μ, TaFe, Ta6Fe7: Fe 0.46, Ta 0.54_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.919 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.5, Ta 0.5; μ, TaFe, Ta6Fe7: Fe 0.5, Ta 0.5_ | experimental | [3] Witusiewicz 2011; _cites Kripyakevich 1968_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 8.3 Å | 1073.15 | UNKNOWN; _alloy: Fe 0.35, Ta 0.65_ | experimental | [3] Witusiewicz 2011; _cites Lin 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900138-3) | Table 1, p. 2, row 16 |  |
+| Lattice a | 3.6467 Å | 1188.15 | γ, (γFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 2.9315 Å | 1753.15 | δ, (δFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 7.868 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Kuo 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990031-5) | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.84 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Wallbaum 1941_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 7.84 Å | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 7.888 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Jellinghaus 1935_ [doi](https://doi.org/10.1002/zaac.19352230405) | Table 1, p. 2, row 5 |  |
+| Lattice c | 7.846 Å | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Jones 1972_ [doi](https://doi.org/10.1007/bf02644249) | Table 1, p. 2, row 11 |  |
+| Lattice c | 7.914 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 7.822 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Elliot 1958_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 7.878 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.666, Ta 0.334; λ, ε, TaFe2: Fe 0.666, Ta 0.334_ | unspecified | [3] Witusiewicz 2011; _cites von Keitz A 1998_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 26.98 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.51, Ta 0.49; μ, TaFe, Ta6Fe7: Fe 0.51, Ta 0.49_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 13 |  |
+| Lattice c | 27.07 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.46, Ta 0.54; μ, TaFe, Ta6Fe7: Fe 0.46, Ta 0.54_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 14 |  |
+| Lattice c | 27 Å | 298.15 | μ, TaFe, Ta6Fe7; _μ: Fe 0.5, Ta 0.5; μ, TaFe, Ta6Fe7: Fe 0.5, Ta 0.5_ | experimental | [3] Witusiewicz 2011; _cites Kripyakevich 1968_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 4.85 Å | 1073.15 | UNKNOWN; _alloy: Fe 0.35, Ta 0.65_ | experimental | [3] Witusiewicz 2011; _cites Lin 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900138-3) | Table 1, p. 2, row 16 |  |
 
 ## Sources
 
@@ -421,4 +421,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

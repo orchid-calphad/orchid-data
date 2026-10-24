@@ -232,17 +232,17 @@ Table: Crystal structure, Pb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.404 nm | 298.15 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 3 |  |
-| Lattice a | 0.49502 nm | 600.65 (\<) | Pb; _alloy: Y 0_ | model | [1] Vasslliev 1993; _cites Massalski 1993_ | Table 1, p. 1, row 8 |  |
-| Lattice a | 0.4814 nm | 1013.15 (\<) | UNKNOWN; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993; _cites Yu 1964_ | Table 1, p. 1, row 7 |  |
-| Lattice a | 0.411 nm | 1500 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 2 |  |
-| Lattice a | 0.36482 nm | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
-| Lattice a | 0.7994 nm | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
-| Lattice a | 0.8971 nm | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
-| Lattice b | 1.51 nm | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
-| Lattice c | 0.57318 nm | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
-| Lattice c | 0.8241 nm | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
-| Lattice c | 0.6614 nm | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
+| Lattice a | 4.04 Å | 298.15 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 3 |  |
+| Lattice a | 4.9502 Å | 600.65 (\<) | Pb; _alloy: Y 0_ | model | [1] Vasslliev 1993; _cites Massalski 1990_ | Table 1, p. 1, row 8 |  |
+| Lattice a | 4.814 Å | 1013.15 (\<) | UNKNOWN; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993; _cites Yu 1964_ | Table 1, p. 1, row 7 |  |
+| Lattice a | 4.11 Å | 1500 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 2 |  |
+| Lattice a | 3.6482 Å | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
+| Lattice a | 7.994 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
+| Lattice a | 8.971 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
+| Lattice b | 15.1 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
+| Lattice c | 5.7318 Å | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
+| Lattice c | 8.241 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
+| Lattice c | 6.614 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
 
 ## Sources
 
@@ -307,4 +307,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

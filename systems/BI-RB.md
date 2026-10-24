@@ -237,54 +237,54 @@ Table: Crystal structure, Bi–Rb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4565 nm | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.4488 nm | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.9672 nm | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.9422 nm | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.9537 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.9942 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
-| Lattice a | 1.3275 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
-| Lattice a | 1.2695 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
-| Lattice a | 1.4418 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
-| Lattice a | 1.5119 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.5649 nm | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.5377 nm | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.6565 nm | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.6258 nm | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
-| Lattice a | 0.8673 nm | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 23 |  |
-| Lattice a | 0.9144 nm | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 22 |  |
-| Lattice a | 0.8989 nm |  | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 24 |  |
-| Lattice a | 0.4544 nm | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.9625 nm | 298.15 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.9735 nm | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
-| Lattice a | 1.2945 nm | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
-| Lattice a | 1.4741 nm | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.5605 nm | 298.15 | Rb; _Rb: Bi 0, Rb 1_ | experimental | [1] Dziri 2022; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.6489 nm | 298.15 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 1, p. 2, row 21 |  |
-| Lattice b | 0.9768 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
-| Lattice b | 1.026 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
-| Lattice b | 0.5865 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
-| Lattice b | 0.5647 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
-| Lattice b | 0.7305 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
-| Lattice b | 0.7639 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
-| Lattice b | 1.0075 nm | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
-| Lattice b | 0.5785 nm | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
-| Lattice b | 0.7501 nm | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
-| Lattice c | 1.1918 nm | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
-| Lattice c | 1.1537 nm | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.9516 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
-| Lattice c | 0.9928 nm | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
-| Lattice c | 1.2075 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
-| Lattice c | 1.165 nm | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
-| Lattice c | 1.3593 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
-| Lattice c | 1.4195 nm | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
-| Lattice c | 1.1634 nm | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
-| Lattice c | 1.1108 nm | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
-| Lattice c | 1.1859 nm | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.9715 nm | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
-| Lattice c | 1.2018 nm | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
-| Lattice c | 1.392 nm | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
-| Lattice c | 1.1489 nm | 298.15 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 1, p. 2, row 21 |  |
+| Lattice a | 4.565 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.488 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
+| Lattice a | 9.672 Å | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 7 |  |
+| Lattice a | 9.422 Å | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 8 |  |
+| Lattice a | 9.537 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
+| Lattice a | 9.942 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
+| Lattice a | 13.275 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
+| Lattice a | 12.695 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
+| Lattice a | 14.418 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
+| Lattice a | 15.119 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
+| Lattice a | 5.649 Å | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 4 |  |
+| Lattice a | 5.377 Å | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.565 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
+| Lattice a | 6.258 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
+| Lattice a | 8.673 Å | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 23 |  |
+| Lattice a | 9.144 Å | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 22 |  |
+| Lattice a | 8.989 Å |  | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 24 |  |
+| Lattice a | 4.544 Å | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
+| Lattice a | 9.625 Å | 298.15 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 9 |  |
+| Lattice a | 9.735 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
+| Lattice a | 12.945 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
+| Lattice a | 14.741 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
+| Lattice a | 5.605 Å | 298.15 | Rb; _Rb: Bi 0, Rb 1_ | experimental | [1] Dziri 2022; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.489 Å | 298.15 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 1, p. 2, row 21 |  |
+| Lattice b | 9.768 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
+| Lattice b | 10.26 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
+| Lattice b | 5.865 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
+| Lattice b | 5.647 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
+| Lattice b | 7.305 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
+| Lattice b | 7.639 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
+| Lattice b | 10.075 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
+| Lattice b | 5.785 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
+| Lattice b | 7.501 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
+| Lattice c | 11.918 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
+| Lattice c | 11.537 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
+| Lattice c | 9.516 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
+| Lattice c | 9.928 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
+| Lattice c | 12.075 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
+| Lattice c | 11.65 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
+| Lattice c | 13.593 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
+| Lattice c | 14.195 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
+| Lattice c | 11.634 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
+| Lattice c | 11.108 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
+| Lattice c | 11.859 Å | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
+| Lattice c | 9.715 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
+| Lattice c | 12.018 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
+| Lattice c | 13.92 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
+| Lattice c | 11.489 Å | 298.15 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 1, p. 2, row 21 |  |
 | lattice alpha | 90 ° | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
 | lattice alpha | 90 ° | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
 | lattice alpha | 90 ° | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
@@ -375,4 +375,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

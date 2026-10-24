@@ -91,7 +91,7 @@ Table: Invariant reactions reported in the literature for the Ag–Er system (31
 | 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | Ag51Er14: Ag 0.784615, Er 0.215385; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Conclusions_ | Table 3, p. 3, row 20 |  |
 | 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.122; Ag51Er14: Er 0.215; (Ag): Er 0.0313 | model | [1] Wang 2010 | Table 3, p. 3, row 22 |  |
 | 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.215; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 21 |  |
-| 1068 | eutectic: L -> Fcc(Ag) + Ag51Er14 | Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gschneidner 1971_ | Table 4, p. 4, row 3 |  |
+| 1068 | eutectic: L -> Fcc(Ag) + Ag51Er14 | Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gschneidner 1970_ | Table 4, p. 4, row 3 |  |
 | 1060 | eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.121; Ag51Er14: Er 0.215385 | model | [2] Long 2010 | Table 4, p. 4, row 1 |  |
 | 1045.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.25; (Ag): Er 0.05 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 19 |  |
 | 1045 | eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.115; Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 2 |  |
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

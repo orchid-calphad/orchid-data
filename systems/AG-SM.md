@@ -75,7 +75,7 @@ Table: Invariant reactions reported in the literature for the Ag–Sm system (25
 | 1063.15 | peritectic: Liquid ? Ag3Sm ? bAg2Sm |  | experimental | [1] Zhou 2020 | p. 4 | “The peritectic reaction, Liquid ? Ag3Sm ? bAg2Sm was determined to be at 790 C and 33 at.% Sm.” |
 | 1062.15 | peritectic: Liquid + Ag51Sm14 -> βAg2Sm | Liquid: Sm 0.215; Ag51Sm14: Sm 0.336; βAg2Sm: Sm 0.333 | model | [1] Zhou 2020 | Table 6, p. 9, row 5 |  |
 | 1055.15 | eutectic: Liquid -> βAg2Sm + AgSm | Liquid: Sm 0.356; βAg2Sm: Sm 0.333; AgSm: Sm 0.5 | model | [1] Zhou 2020 | Table 6, p. 9, row 7 |  |
-| 1054.15 | eutectic: Liquid -> (Ag) + Ag51Sm14 | Ag51Sm14: Ag 0.784615, Sm 0.215385 | experimental | [1] Zhou 2020; _cites Gschneidner 1971_ | Table 6, p. 9, row 4 |  |
+| 1054.15 | eutectic: Liquid -> (Ag) + Ag51Sm14 | Ag51Sm14: Ag 0.784615, Sm 0.215385 | experimental | [1] Zhou 2020; _cites Gschneidner 1970_ | Table 6, p. 9, row 4 |  |
 | 1048.15 | eutectic: Liquid -> (Ag) + Ag51Sm14 | Liquid: Sm 0.115; Ag51Sm14: Ag 0.784615, Sm 0.215385 | experimental | [1] Zhou 2020; _cites Gebhardt 1964_ | Table 6, p. 9, row 3 |  |
 | 1048.15 | eutectic: Liquid ? Ag2Sm ? AgSm |  | experimental | [1] Zhou 2020 | p. 4 | “Three eutectics reactions, Liquid ? (Ag) ? Ag3Sm, Liquid ? Ag2Sm ? AgSm and Liquid ? AgSm ? (Sm), were determined to be at 760 C and 10 at.% Sm, 775 C and 37 at.% Sm, as well as 675 C and 82 at.% Sm, respectively.” |
 | 1048.15 | eutectic: Liquid -> βAg2Sm + AgSm | Liquid: Sm 0.37; βAg2Sm: Ag 0.666667, Sm 0.333333; AgSm: Ag 0.5, Sm 0.5 | experimental | [1] Zhou 2020; _cites Stapf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990217-9) | Table 6, p. 9, row 8 |  |
@@ -190,4 +190,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

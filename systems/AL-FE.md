@@ -196,7 +196,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1504 | L+B2->ε | L: Fe 0.419; B2: Fe 0.49; ε: Fe 0.434 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 1 |  |
 | 1501.9 | L + B2 -> ε |  | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 1 |  |
 | 1501.7 | Liq + bcc_B2 = ε |  | experimental | [3] Jacobs 2009; _cites Lee 1960_ | Table 2, p. 4, row 28 |  |
-| 1501.2 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 27 |  |
+| 1501.2 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 27 |  |
 | 1501.2 | peritectic: Liq + bcc_B2 = ε | Liq: Fe 0.422; bcc_B2: Fe 0.495; ε: Fe 0.437 | model | [3] Jacobs 2009 | Table 2, p. 4, row 25 |  |
 | 1501 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 39 |  |
 | 1500.6 | peritectic: Liq + bcc_B2 = ε | Liq: Fe 0.42; bcc_B2: Fe 0.493; ε: Fe 0.435 | model | [3] Jacobs 2009 | Table 2, p. 4, row 26 |  |
@@ -206,7 +206,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1495.44 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Sundman 2009_ [doi](https://doi.org/10.1016/j.actamat.2009.02.046) | Table 5, p. 14, row 34 |  |
 | 1442 | Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 9 |  |
 | 1438.2 | Liq = Fe2Al5 + ε | Fe2Al5: Al 0.714286, Fe 0.285714 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 14 |  |
-| 1434.7 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 31 |  |
+| 1434.7 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 31 |  |
 | 1434.7 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009 | Table 2, p. 4, row 7 |  |
 | 1434.5 | congruent melting: Al5Fe2 -> Liquid | Al5Fe2: Fe 0.286; L: Fe 0.286 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 2 |  |
 | 1434.5 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 8 |  |
@@ -216,7 +216,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1431 | ε + η -> L + ε | ε: Fe 0.335; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 12 |  |
 | 1430.27 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018 | Table 5, p. 14, row 23 |  |
 | 1430.25 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 5, p. 14, row 13 |  |
-| 1430.1 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 28 |  |
+| 1430.1 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 28 |  |
 | 1430.1 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 10 |  |
 | 1430.1 | eutectic: Liq = Fe2Al5 + ε | Liq: Fe 0.316; Fe2Al5: Fe 0.286; ε: Fe 0.366 | model | [3] Jacobs 2009 | Table 2, p. 4, row 11 |  |
 | 1430 | ε + η -> L + ε | ε: Fe 0.32; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 16 |  |
@@ -234,7 +234,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1429 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | Table 5, p. 14, row 46 |  |
 | 1429 | L->ε + η | L: Fe 0.318; ε: Fe 0.349; η: Fe 0.294 | model | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 2, p. 6, row 7 |  |
 | 1428.65 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 5, p. 14, row 18 |  |
-| 1428.2 | ε + η -> ζ | η: Al 0.714286, Fe 0.285714; ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 29 |  |
+| 1428.2 | ε + η -> ζ | η: Al 0.714286, Fe 0.285714; ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 29 |  |
 | 1428.2 | peritectoid: Fe2Al5 + ε = FeAl2 | Fe2Al5: Fe 0.286; ε: Fe 0.366; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 31 |  |
 | 1428.1 | peritectoid: Al5Fe2 + Al5Fe4 -> Al2Fe | Al5Fe2: Fe 0.286; Al5Fe4: Fe 0.366; Al2Fe: Fe 0.333 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 7 |  |
 | 1428.1 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 7 |  |
@@ -253,7 +253,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1425 | ε + ζ -> ε + η | ε: Fe 0.341; ζ: Fe 0.333333; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 23 |  |
 | 1425 | \*L + η -> θ | η: Fe 0.285714; θ: Fe 0.235294 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 22 |  |
 | 1425 | η + θ -> L + η | η: Fe 0.263; θ: Fe 0.235294 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 21 |  |
-| 1424.6 | L + η -> θ | η: Al 0.714286, Fe 0.285714; θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 32 |  |
+| 1424.6 | L + η -> θ | η: Al 0.714286, Fe 0.285714; θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 32 |  |
 | 1424.6 | peritectic: Liq + Fe2Al5 = FeAl3 | Liq: Fe 0.242; Fe2Al5: Fe 0.286; FeAl3: Fe 0.247 | model | [3] Jacobs 2009 | Table 2, p. 4, row 16 |  |
 | 1424.4 | peritectic: Liq + Fe2Al5 = FeAl3 | Liq: Fe 0.242; Fe2Al5: Fe 0.286; FeAl3: Fe 0.247 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 17 |  |
 | 1424.4 | peritectic: Liquid + Al5Fe2 -> Al13Fe4 | L: Fe 0.242; Al5Fe2: Fe 0.286; Al13Fe4: Fe 0.247 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 4 |  |
@@ -317,12 +317,12 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1366 | eutectoid: ε = bcc_B2 + FeAl2 | FeAl2: Al 0.666667, Fe 0.333333 | experimental | [3] Jacobs 2009; _cites Lee 1960_ | Table 2, p. 4, row 36 |  |
 | 1365.5 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 4 |  |
 | 1363.4 | ε = bcc_B2 + FeAl2 | FeAl2: Al 0.666667, Fe 0.333333 | experimental | [3] Jacobs 2009; _cites Lee 1960_ | Table 2, p. 4, row 4 |  |
-| 1357.4 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 30 |  |
+| 1357.4 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 30 |  |
 | 1357.4 | eutectoid: ε = bcc_B2 + FeAl2 | ε: Fe 0.408; bcc_B2: Fe 0.462; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 2 |  |
 | 1337.9 | eutectoid: ε = bcc_B2 + FeAl2 | ε: Fe 0.416; bcc_B2: Fe 0.473; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 1 |  |
 | 928 | L->θ + fcc | θ: Fe 0.235 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 29 |  |
 | 928 | Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.234 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 24 |  |
-| 927.2 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2008_ | Table 5, p. 14, row 33 |  |
+| 927.2 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 33 |  |
 | 927.2 | eutectic: Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.237 | model | [3] Jacobs 2009 | Table 2, p. 4, row 21 |  |
 | 927.1 | eutectic: Liquid -> fcc-Al + Al13Fe4 | L: Fe 0.009; fcc-Al: Fe 0; Al13Fe4: Fe 0.237 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 5 |  |
 | 927.1 | eutectic: Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.237 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 22 |  |
@@ -548,4 +548,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

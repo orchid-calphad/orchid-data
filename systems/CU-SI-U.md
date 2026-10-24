@@ -42,13 +42,13 @@ Table: Crystal structure, Cu–Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.398 nm | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
-| Lattice a | 0.3963 nm | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice a | 0.3979 nm | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
-| Lattice b | 0.4022 nm | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice c | 0.995 nm | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
-| Lattice c | 2.3836 nm | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice c | 1.3929 nm | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
+| Lattice a | 3.98 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
+| Lattice a | 3.963 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
+| Lattice a | 3.979 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
+| Lattice b | 4.022 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
+| Lattice c | 9.95 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
+| Lattice c | 23.836 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
+| Lattice c | 13.929 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

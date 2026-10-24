@@ -120,38 +120,38 @@ Table: Crystal structure, Sc–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.54306 nm | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.33088 nm | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.373 nm | 298.15 | (βSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites Massalski 1986_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.399 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.399 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.399 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 3.3088 Å | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.73 Å | 298.15 | (βSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites Massalski 1986_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
+| Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
 | Lattice a | 0.3988 not_printed | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.7845 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.3664 nm | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13 |  |
-| Lattice a | 0.7861 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.786 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.366 nm | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.785 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4 |  |
+| Lattice a | 7.845 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 3.664 Å | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13 |  |
+| Lattice a | 7.861 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8 |  |
+| Lattice a | 7.86 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 3.66 Å | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 7.85 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4 |  |
 | Lattice a | 0.366 not_printed ± 0.001 | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.7861 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.987 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
-| Lattice b | 0.986 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 0.986 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 7.861 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5 |  |
+| Lattice b | 9.87 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
+| Lattice b | 9.86 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
+| Lattice b | 9.86 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
 | Lattice b | 0.9882 not_printed ± 5.000e-4 | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.5268 nm | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.3657 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.365 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.365 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 5.268 Å | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 3.657 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |
+| Lattice c | 3.65 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 3.65 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
 | Lattice c | 0.3659 not_printed ± 2.000e-4 | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.5786 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.3877 nm | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.5814 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8 |  |
-| Lattice c | 5.81 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.387 nm | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.576 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4 |  |
+| Lattice c | 5.786 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 3.877 Å | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13 |  |
+| Lattice c | 5.814 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8 |  |
+| Lattice c | 58.1 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 3.87 Å | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 5.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4 |  |
 | Lattice c | 0.387 not_printed ± 0.001 | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 0.5812 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.812 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5 |  |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

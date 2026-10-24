@@ -2,6 +2,25 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Audit fixes A5 (figures) and A6 (paper numbers and claims) (2026-10-24, PI-approved).** (1) Calculated invariants:
+`parquet/phase_diagram_invariants.parquet` has one row per distinct invariant (tools/calc_invariants.py: same phases
+with the mapper's `#n` suffix ignored, T within 0.1 K, sorted phase compositions within 0.01; 24,828 mapper hits ->
+15,322 invariants, new column `n_mapper_hits`; the JSON files keep all hits). (2) Cited-source years re-derived from
+the printed reference (a parenthesised year first, never a page number; `year_read` / `year_basis` kept where the
+year changed; 359 cited sources). (3) Lattice lengths a, b, c in angstrom where a unit was printed (nm x 10, pm / 100;
+`value_stored` / `unit_stored` kept; units not printed are not converted; flag `lattice_length_outside_typical_range`).
+(4) The 5 values whose page prints a pressure other than 1 atm no longer carry the assumed 101,325 Pa
+(`pressure_basis = printed_not_1_atm_see_gate_failures`, `pressure_Pa_stored`). (5) Signs read on the page by gate G3
+set `flag_sign_pdf_page_verified` (12). (6) The two running-text values whose page had been nulled were read again on
+the rendered page (page 4 each; ledger entries `page_fix:ORC-O4DJJCAHLH`, `page_fix:ORC-A7W44LTTFR`). (7)
+quality_fixes.json: the gate-level `espei_ready_after` is labelled (before the ESPEI phase rule; the released count is
+`espei.espei_ready`) and the page-check ledger entries (`visual_check_entries`) are counted apart from the keys the
+gates look up; the ledger states that the pages were inspected by AI agents, not by a person. (8) Hull catalogs and
+documents state the energy corrections applied upstream (`correction_model: upstream_only`,
+`upstream_energy_corrections`: MP2020 for the Materials Project GGA_GGA+U snapshot, the OQMD standard fit for OQMD);
+energies unchanged. (9) Licence wording: quotes are short excerpts kept for verification under the publishers'
+copyright (no "fair use" / "single sentence" claims). Tests: tools/tests/test_release_integrity.py.
+
 **Co-author review fixes (2026-10-24, J. Saal).** (1) Assessed phase assemblages: rock-salt (B1) carbides and nitrides,
 sphalerite SiC and FeSi-type silicides were named DIAMOND_A4 because the Pearson symbol cF8 alone selected it (84 phase
 occurrences); they now map to the phase each SGTE file defines (FCC_A1 (M)(C,VA) for HfC, NbC, TaC, TiC, VC, ZrC,
@@ -193,8 +212,8 @@ source DOI, uncertainty (printed, ESPEI default or DFT sigma calibrated against 
 validated with ESPEI check_dataset / load_datasets. Built by `tools/build_espei_bundle.py` (orchid-project.org).
 
 New dataset **ORCHID bibliography** (`bibliography/`, Zenodo record `bibliography`, 10.5281/zenodo.PENDING-bibliography,
-`hasPart` of the umbrella; Version 1, machine-extracted): 9,569 works (7,813 with DOI),
-their roles in ORCHID, evidence counts and 60,237 typed relations with provenance; Crossref metadata (CC0).
+`hasPart` of the umbrella; Version 1, machine-extracted): 9,568 works (7,812 with DOI),
+their roles in ORCHID, evidence counts and 60,231 typed relations with provenance; Crossref metadata (CC0).
 DOIs that upstream matchers found for printed references (handbook source lines, cited sources of values, TDB header
 citations) are now checked against Crossref (first author, year ±1, title, journal): `doi_match` verified
 5,385, weak 104 (kept, flagged), no Crossref record

@@ -74,33 +74,33 @@ Table: Crystal structure, Ag–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4094 nm | 298.15 | Ag; _Ag: Ag 0.992, Bi 0.008_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 12 |  |
-| Lattice a | 0.40833 nm | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 7 |  |
-| Lattice a | 0.40832 nm | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 6 |  |
-| Lattice a | 0.409 nm | 298.15 | Ag; _Ag: Ag 0.996, Bi 0.004_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 9 |  |
-| Lattice a | 0.4093 nm | 298.15 | Ag; _Ag: Ag 0.993, Bi 0.007_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 11 |  |
-| Lattice a | 0.40782 nm | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 2 |  |
-| Lattice a | 0.40809 nm | 298.15 | Ag; _Ag: Ag 0.99688, Bi 0.00312_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 5 |  |
-| Lattice a | 0.4099 nm | 298.15 | Ag; _Ag: Ag 0.987, Bi 0.013_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 15 |  |
-| Lattice a | 0.4103 nm | 298.15 | Ag; _Ag: Ag 0.983, Bi 0.017_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 18 |  |
-| Lattice a | 0.4109 nm | 298.15 | Ag; _Ag: Ag 0.978, Bi 0.022_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 21 |  |
-| Lattice a | 0.4095 nm | 298.15 | Ag; _Ag: Ag 0.991, Bi 0.009_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 13 |  |
-| Lattice a | 0.4101 nm | 298.15 | Ag; _Ag: Ag 0.985, Bi 0.015_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 16 |  |
-| Lattice a | 0.4104 nm | 298.15 | Ag; _Ag: Ag 0.982, Bi 0.018_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 19 |  |
-| Lattice a | 0.4105 nm | 298.15 | Ag; _Ag: Ag 0.981, Bi 0.019_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 20 |  |
-| Lattice a | 0.40857 nm | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 3 |  |
-| Lattice a | 0.40861 nm | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 1 |  |
-| Lattice a | 0.40805 nm | 298.15 | Ag; _Ag: Ag 0.9974, Bi 0.0026_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 4 |  |
-| Lattice a | 0.4091 nm | 298.15 | Ag; _Ag: Ag 0.995, Bi 0.005_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 10 |  |
-| Lattice a | 0.4097 nm | 298.15 | Ag; _Ag: Ag 0.989, Bi 0.011_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 14 |  |
-| Lattice a | 0.4089 nm | 298.15 | Ag; _Ag: Ag 0.997, Bi 0.003_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 8 |  |
-| Lattice a | 0.4102 nm | 298.15 | Ag; _Ag: Ag 0.984, Bi 0.016_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 17 |  |
-| Lattice a | 0.4746 nm | 298.15 | αBi; _αBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 22 |  |
-| Lattice a | 0.6674 nm | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
-| Lattice a | 0.2998 nm | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
-| Lattice b | 0.6117 nm | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
-| Lattice c | 0.3304 nm | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
-| Lattice c | 0.4849 nm | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
+| Lattice a | 4.094 Å | 298.15 | Ag; _Ag: Ag 0.992, Bi 0.008_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 12 |  |
+| Lattice a | 4.0833 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 7 |  |
+| Lattice a | 4.0832 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 6 |  |
+| Lattice a | 4.09 Å | 298.15 | Ag; _Ag: Ag 0.996, Bi 0.004_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 9 |  |
+| Lattice a | 4.093 Å | 298.15 | Ag; _Ag: Ag 0.993, Bi 0.007_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 11 |  |
+| Lattice a | 4.0782 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 2 |  |
+| Lattice a | 4.0809 Å | 298.15 | Ag; _Ag: Ag 0.99688, Bi 0.00312_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 5 |  |
+| Lattice a | 4.099 Å | 298.15 | Ag; _Ag: Ag 0.987, Bi 0.013_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 15 |  |
+| Lattice a | 4.103 Å | 298.15 | Ag; _Ag: Ag 0.983, Bi 0.017_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 18 |  |
+| Lattice a | 4.109 Å | 298.15 | Ag; _Ag: Ag 0.978, Bi 0.022_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 21 |  |
+| Lattice a | 4.095 Å | 298.15 | Ag; _Ag: Ag 0.991, Bi 0.009_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 13 |  |
+| Lattice a | 4.101 Å | 298.15 | Ag; _Ag: Ag 0.985, Bi 0.015_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 16 |  |
+| Lattice a | 4.104 Å | 298.15 | Ag; _Ag: Ag 0.982, Bi 0.018_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 19 |  |
+| Lattice a | 4.105 Å | 298.15 | Ag; _Ag: Ag 0.981, Bi 0.019_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 20 |  |
+| Lattice a | 4.0857 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 3 |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 1 |  |
+| Lattice a | 4.0805 Å | 298.15 | Ag; _Ag: Ag 0.9974, Bi 0.0026_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 4 |  |
+| Lattice a | 4.091 Å | 298.15 | Ag; _Ag: Ag 0.995, Bi 0.005_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 10 |  |
+| Lattice a | 4.097 Å | 298.15 | Ag; _Ag: Ag 0.989, Bi 0.011_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 14 |  |
+| Lattice a | 4.089 Å | 298.15 | Ag; _Ag: Ag 0.997, Bi 0.003_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 8 |  |
+| Lattice a | 4.102 Å | 298.15 | Ag; _Ag: Ag 0.984, Bi 0.016_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 17 |  |
+| Lattice a | 4.746 Å | 298.15 | αBi; _αBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 22 |  |
+| Lattice a | 6.674 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
+| Lattice a | 2.998 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
+| Lattice b | 6.117 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
+| Lattice c | 3.304 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
+| Lattice c | 4.849 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
 | lattice alpha | 57.23 ° | 298.15 | αBi; _αBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 22 |  |
 | lattice beta | 110.33 ° | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
 
@@ -167,4 +167,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

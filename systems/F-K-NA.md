@@ -51,12 +51,12 @@ Table: Enthalpies of formation, F–K–Na system (15)
 | Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
 | Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
 | K |  | 0 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
-| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 0 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 27 |  |
+| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 0 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27 |  |
 | KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
 | KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 | KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 0 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
 | Na |  | 0 kJ/mol-atom | 293 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 24 |  |
-| NaF | [NaF](https://data.orchid-project.org/compounds/NaF.html) | -287.69 kJ/mol-atom | 0 | experimental | -283.373 (mp-aaaaabag) | -286.946 (oqmd-5686) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 29 |  |
+| NaF | [NaF](https://data.orchid-project.org/compounds/NaF.html) | -287.69 kJ/mol-atom | 0 | experimental | -283.373 (mp-aaaaabag) | -286.946 (oqmd-5686) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 29 |  |
 | NaF |  | -269.597 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 | bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32 |  |
 | bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

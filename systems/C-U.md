@@ -142,19 +142,19 @@ Table: Phase equilibrium, C–U system
 | Phase assemblage |  | 2373 | δ(UC, UC2); _alloy: C 0.5834, U 0.4166_ | experimental | [1] Chevalier 2001; _cites Mallet 1952_ | Table 3, p. 5, row 25 |  |
 | Phase assemblage |  | 2403 | δ(UC2); _alloy: C 0.56522, U 0.43478_ | experimental | [1] Chevalier 2001; _cites Sears 1966_ [doi](https://doi.org/10.1149/1.2423930) | Table 7, p. 8, row 17 |  |
 | Phase assemblage |  | 2403 | δ(UC2); _alloy: C 0.631, U 0.369_ | experimental | [1] Chevalier 2001; _cites Sears 1966_ [doi](https://doi.org/10.1149/1.2423930) | Table 7, p. 8, row 18 |  |
-| Phase composition |  | 939.09 | α + UC; _α: C 6.000e-5, U 0.99994; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 13 |  |
-| Phase composition |  | 1044.95 | β + UC; _β: C 2.000e-4, U 0.9998; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 12 |  |
-| Phase composition |  | 1044.95 | γ + UC; _γ: C 9.000e-4, U 0.9991; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 11 |  |
-| Phase composition |  | 1389.75 | γ + UC; _γ: C 0.00295, U 0.99705; UC: C 0.499, U 0.501_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 10 |  |
-| Phase composition |  | 1389.76 | L + δ-UC; _L: C 0.0098, U 0.9902; δ-UC: C 0.499, U 0.501_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 5 |  |
+| Phase composition |  | 939.09 | α + UC; _α: C 6.000e-5, U 0.99994; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 13 |  |
+| Phase composition |  | 1044.95 | β + UC; _β: C 2.000e-4, U 0.9998; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 12 |  |
+| Phase composition |  | 1044.95 | γ + UC; _γ: C 9.000e-4, U 0.9991; UC: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 11 |  |
+| Phase composition |  | 1389.75 | γ + UC; _γ: C 0.00295, U 0.99705; UC: C 0.499, U 0.501_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 10 |  |
+| Phase composition |  | 1389.76 | L + δ-UC; _L: C 0.0098, U 0.9902; δ-UC: C 0.499, U 0.501_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 5 |  |
 | Phase composition |  | 1390.15 | L + δ-UC + γ-U + L(φ1) + δ-UC(φ2); _L: C 0.01153, U 0.98847; δ-UC: C 0.5, U 0.5; L(φ1): C 0.01153, U 0.98847; δ-UC(φ2): C 0.5, U 0.5_ | experimental | [1] Chevalier 2001; _cites Guinet 1965_ | Table 6, p. 7, row 28 |  |
-| Phase composition |  | 1473 | L + δ-UC; _L: C 0.0141, U 0.9859; δ-UC: C 0.498, U 0.502_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 4 |  |
+| Phase composition |  | 1473 | L + δ-UC; _L: C 0.0141, U 0.9859; δ-UC: C 0.498, U 0.502_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 4 |  |
 | Phase composition |  | 1473 | δ-UC(ϕ1) + U2C3(ϕ2) + ϕ1 + ϕ2 + φ1 + φ2; _ϕ1: C 0.5, U 0.5; ϕ2: C 0.6, U 0.4; φ1: C 0.5, U 0.5; φ2: C 0.6, U 0.4_ | experimental | [1] Chevalier 2001; _cites Benz 1969_ | Table 9, p. 9, row 1 |  |
-| Phase composition |  | 1523 | L + δ-UC; _L: C 0.0167, U 0.9833; δ-UC: C 0.498, U 0.502_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 3 |  |
-| Phase composition |  | 1573 | L + δ-UC; _L: C 0.02, U 0.98; δ-UC: C 0.497, U 0.503_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 2 |  |
+| Phase composition |  | 1523 | L + δ-UC; _L: C 0.0167, U 0.9833; δ-UC: C 0.498, U 0.502_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 3 |  |
+| Phase composition |  | 1573 | L + δ-UC; _L: C 0.02, U 0.98; δ-UC: C 0.497, U 0.503_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 2 |  |
 | Phase composition |  | 1573 | ϕ1 + ϕ2 + φ1 + φ2; _ϕ1: C 0.5, U 0.5; ϕ2: C 0.6, U 0.4; φ1: C 0.5, U 0.5; φ2: C 0.6, U 0.4_ | experimental | [1] Chevalier 2001 | Table 9, p. 9, row 2 |  |
 | Phase composition |  | 1598 | ϕ1 + ϕ2 + φ1 + φ2; _ϕ1: C 0.5, U 0.5; ϕ2: C 0.6, U 0.4; φ1: C 0.5, U 0.5; φ2: C 0.6, U 0.4_ | experimental | [1] Chevalier 2001 | Table 9, p. 9, row 3 |  |
-| Phase composition |  | 1623 | L + δ-UC; _L: C 0.0247, U 0.9753; δ-UC: C 0.496, U 0.504_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1956_ | Table 4, p. 6, row 1 |  |
+| Phase composition |  | 1623 | L + δ-UC; _L: C 0.0247, U 0.9753; δ-UC: C 0.496, U 0.504_ | experimental | [1] Chevalier 2001; _cites Blumenthal 1960_ | Table 4, p. 6, row 1 |  |
 | Phase composition |  | 1648 | L + δ-UC; _L: C 0.0194, U 0.9806; δ-UC: C 0.496, U 0.504_ | experimental | [1] Chevalier 2001; _cites Snow 1943_ | Table 4, p. 6, row 8 |  |
 | Phase composition |  | 1648 | L + δ-UC; _L: C 0.0265, U 0.9735; δ-UC: C 0.496, U 0.504_ | experimental | [1] Chevalier 2001; _cites Carter 1943_ | Table 4, p. 6, row 6 |  |
 | Phase composition |  | 1673 | L + δ-UC; _L: C 0.033, U 0.967; δ-UC: C 0.496, U 0.504_ | experimental | [1] Chevalier 2001; _cites Carter 1943_ | Table 4, p. 6, row 7 |  |
@@ -1446,4 +1446,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

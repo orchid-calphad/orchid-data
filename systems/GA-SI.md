@@ -77,18 +77,18 @@ Table: Crystal structure, Ga–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.0593 nm | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice a | 0.27713 nm | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice a | 0.909 nm | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
-| Lattice a | 0.54306 nm | 298.15 | (Si); _(Si): Ga 0.001, Si 0.999_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 1 |  |
-| Lattice a | 0.45192 nm | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice b | 1.3523 nm | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice b | 0.80606 nm | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice b | 0.76586 nm | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice c | 0.5203 nm | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice c | 0.33314 nm | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice c | 1.702 nm | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
-| Lattice c | 0.45258 nm | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
+| Lattice a | 10.593 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
+| Lattice a | 2.7713 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
+| Lattice a | 9.09 Å | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Ga 0.001, Si 0.999_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 1 |  |
+| Lattice a | 4.5192 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
+| Lattice b | 13.523 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
+| Lattice b | 8.0606 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
+| Lattice b | 7.6586 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
+| Lattice c | 5.203 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
+| Lattice c | 3.3314 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
+| Lattice c | 17.02 Å | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
+| Lattice c | 4.5258 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

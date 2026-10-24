@@ -95,7 +95,7 @@ Table: Phase transition, Au–Te system
 | Phase transition | 690.45 K | 690.45 | other: 88 at.% Te; _alloy: Au 0.12, Te 0.88_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 30 |  |
 | Phase transition | 690.45 K | 690.45 | other: 93 at.% Te; _alloy: Au 0.07, Te 0.93_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 31 |  |
 | Phase transition | 690.65 K | 690.65 | other: 80 at.% Te; _alloy: Au 0.2, Te 0.8_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 29 |  |
-| Phase transition | 708.15 K | 708.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites Winkler 1994_ | p. 2 | “Later, \[64Win\] pointed out a crystalline transformation of the AuTe 2 compound at 435 ~” |
+| Phase transition | 708.15 K | 708.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites Winkler 1964_ | p. 2 | “Later, \[64Win\] pointed out a crystalline transformation of the AuTe 2 compound at 435 ~” |
 | Phase transition | 717.15 K | 717.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites ref. 65Cab_ | p. 2 | “On the same compound, using high temperature X-ray powder diffraction, \[65Cab\] found at 444 ~ on only one occasion a diffraction pattern different from this one obtained at room temperature.” |
 | Phase transition | 720.85 K | 720.85 | other: 38 at.% Te; _alloy: Au 0.62, Te 0.38_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 18 |  |
 | Phase transition | 720.95 K | 720.95 | other: 43 at.% Te; _alloy: Au 0.57, Te 0.43_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 19 |  |
@@ -119,18 +119,18 @@ Table: Crystal structure, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.409 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 5 |  |
-| Lattice a | 0.4093 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 1 |  |
-| Lattice a | 0.4086 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 9 |  |
-| Lattice a | 0.4089 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 11 |  |
-| Lattice a | 0.4087 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 3 |  |
-| Lattice a | 0.409 nm | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 7 |  |
-| Lattice a | 0.4098 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4 |  |
-| Lattice a | 0.4108 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2 |  |
-| Lattice a | 0.4095 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8 |  |
-| Lattice a | 0.4091 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10 |  |
-| Lattice a | 0.4097 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12 |  |
-| Lattice a | 0.4099 nm | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6 |  |
+| Lattice a | 4.09 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 5 |  |
+| Lattice a | 4.093 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 1 |  |
+| Lattice a | 4.086 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 9 |  |
+| Lattice a | 4.089 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 11 |  |
+| Lattice a | 4.087 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 3 |  |
+| Lattice a | 4.09 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 7 |  |
+| Lattice a | 4.098 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4 |  |
+| Lattice a | 4.108 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2 |  |
+| Lattice a | 4.095 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8 |  |
+| Lattice a | 4.091 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10 |  |
+| Lattice a | 4.097 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12 |  |
+| Lattice a | 4.099 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6 |  |
 
 ### Other property (1)
 
@@ -204,4 +204,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

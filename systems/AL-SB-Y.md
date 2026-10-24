@@ -82,25 +82,25 @@ Table: Crystal structure, Al–Sb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.78611 nm | 298.15 | Al2Y; _alloy: Sb 0, Y 0.333333_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.82411 nm | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.61884 nm | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.6276 nm | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6135 nm | 298.15 | AlSb; _alloy: Sb 0.5, Y 0_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.3884 nm | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.654 nm | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.89114 nm | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.6165 nm | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 1.2361 nm | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
-| Lattice b | 1.1522 nm | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.508 nm | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.76411 nm | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice c | 2.1094 nm | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.4582 nm | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.4385 nm | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.94 nm | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.6296 nm | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.618 nm | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Sb 0, Y 0.333333_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 4 |  |
+| Lattice a | 8.2411 Å | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.1884 Å | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
+| Lattice a | 6.276 Å | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
+| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5, Y 0_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 1 |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.54 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice a | 8.9114 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.165 Å | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8 |  |
+| Lattice a | 12.361 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice b | 5.08 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.6411 Å | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
+| Lattice c | 21.094 Å | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
+| Lattice c | 4.582 Å | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice c | 9.4 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice c | 6.296 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
+| Lattice c | 6.18 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

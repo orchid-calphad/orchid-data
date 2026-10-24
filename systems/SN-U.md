@@ -179,17 +179,17 @@ Table: Crystal structure, Sn–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.64892 nm | 293.15 | (αSn); _(αSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 2 |  |
-| Lattice a | 0.28537 nm | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice a | 0.58315 nm | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.46089 nm | 298.15 | Sn3U; _alloy: Sn 0.75, U 0.25_ | model | [1] Sheldon 1987; _cites Sari 1987_ | Table 3, p. 3, row 9 |  |
-| Lattice a | 0.4626 nm | 298.15 | Sn3U; _Sn3U: Sn 0.75, U 0.25_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 3 |  |
-| Lattice a | 1.0759 nm | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
-| Lattice a | 0.3524 nm | 1078.15 | (γU); _(γU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 6 |  |
-| Lattice b | 0.58695 nm | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice c | 0.49548 nm | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice c | 0.31814 nm | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
-| Lattice c | 0.5656 nm | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
+| Lattice a | 6.4892 Å | 293.15 | (αSn); _(αSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 2 |  |
+| Lattice a | 2.8537 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
+| Lattice a | 5.8315 Å | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
+| Lattice a | 4.6089 Å | 298.15 | Sn3U; _alloy: Sn 0.75, U 0.25_ | model | [1] Sheldon 1987; _cites Sari 1983_ | Table 3, p. 3, row 9 |  |
+| Lattice a | 4.626 Å | 298.15 | Sn3U; _Sn3U: Sn 0.75, U 0.25_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 3 |  |
+| Lattice a | 10.759 Å | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
+| Lattice a | 3.524 Å | 1078.15 | (γU); _(γU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 6 |  |
+| Lattice b | 5.8695 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
+| Lattice c | 4.9548 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
+| Lattice c | 3.1814 Å | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
+| Lattice c | 5.656 Å | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
 
 ## Sources
 
@@ -255,4 +255,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

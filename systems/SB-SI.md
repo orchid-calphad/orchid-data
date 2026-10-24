@@ -81,11 +81,11 @@ Table: Crystal structure, Sb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.43084 nm | 298.15 | (Sb); _(Sb): Sb 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 0.54306 nm | 298.15 | (Si); _(Si): Sb 0, Si 1_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.54308 nm | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Olesinski 1985; _cites Bublik 1969_ | Table 3, p. 3, row 3 |  |
-| Lattice a | 0.54311 nm | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Olesinski 1985; _cites Teague 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990343-7) | Table 3, p. 3, row 2 |  |
-| Lattice c | 1.1247 nm | 298.15 | (Sb); _(Sb): Sb 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 4.3084 Å | 298.15 | (Sb); _(Sb): Sb 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Sb 0, Si 1_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 1 |  |
+| Lattice a | 5.4308 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Olesinski 1985; _cites Bublik 1969_ | Table 3, p. 3, row 3 |  |
+| Lattice a | 5.4311 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Olesinski 1985; _cites Teague 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990343-7) | Table 3, p. 3, row 2 |  |
+| Lattice c | 11.247 Å | 298.15 | (Sb); _(Sb): Sb 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

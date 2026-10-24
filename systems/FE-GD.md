@@ -257,8 +257,8 @@ Table: Enthalpies of formation, Fe–Gd system (32)
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -5.94 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 11 |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.59 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10 |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.38 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Deodhar 1914_ | Table 12, p. 13, row 12 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Deodhar 1909_ | Table 2, p. 3, row 1 |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12 |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1 |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 3 |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6 |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -7.78 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002 | Table 12, p. 13, row 8 |  |
@@ -275,7 +275,7 @@ Table: Enthalpies of formation, Fe–Gd system (32)
 | UNKNOWN |  | -4.38 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
 | UNKNOWN |  | -4.34 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 3 |  |
 | UNKNOWN |  | -3.65 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2 |  |
-| UNKNOWN |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1914_ | Table 12, p. 13, row 12 |  |
+| UNKNOWN |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12 |  |
 | UNKNOWN |  | -2.3 per mol-atom ± 1.6 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1 |  |
 
 ## Other properties
@@ -292,7 +292,7 @@ Table: Phase transition, Fe–Gd system
 | Phase transition | 782 K | 782 | magnetic: Fe2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 1 |  |
 | Phase transition | 973 K | 973 | αFe + Fe17Gd2; _αFe: Gd 0; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 38 |  |
 | Phase transition | 973 K | 973 | αGd + Fe2Gd; _αGd: Gd 0.994; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 39 |  |
-| Phase transition | 1078 K | 1078 | Gd (s) 1 2Fe (s) 5 Fe2Gd (s) | experimental | [3] Zinkevich 2000; _cites Deodhar 1909_ | p. 3 | “The enthalpy of formation of the Fe2Gd compound was determined by Deodhar and Ficalora \[1975Deo\] by differential thermal analysis as a heat of exothermic synthesis reaction: Gd (s) 1 2Fe (s) 5 Fe2Gd (s), which began at 1078 K in a sealed quartz vial.” |
+| Phase transition | 1078 K | 1078 | Gd (s) 1 2Fe (s) 5 Fe2Gd (s) | experimental | [3] Zinkevich 2000; _cites Deodhar 1975_ | p. 3 | “The enthalpy of formation of the Fe2Gd compound was determined by Deodhar and Ficalora \[1975Deo\] by differential thermal analysis as a heat of exothermic synthesis reaction: Gd (s) 1 2Fe (s) 5 Fe2Gd (s), which began at 1078 K in a sealed quartz vial.” |
 | Phase transition | 1164 K | 1164 | Liquid + αGd; _Liquid: Gd 0.75; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 36 |  |
 | Phase transition | 1187 K | 1187 | Liquid + Fe2Gd; _Liquid: Gd 0.64; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 35 |  |
 | Phase transition | 1187 K | 1187 | γFe + αFe; _γFe: Gd 0.001; αFe: Gd 0.002_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 27 |  |
@@ -405,4 +405,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

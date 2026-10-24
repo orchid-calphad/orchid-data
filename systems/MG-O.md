@@ -66,14 +66,14 @@ Table: Phase equilibrium, Mg–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 923 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 2 |  |
 | Phase composition |  | 923 | liquid Mg; _liquid Mg: Mg 1, O 0_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 1 |  |
-| Phase composition |  | 923 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1990_ | Table 2, p. 6, row 3 |  |
+| Phase composition |  | 923 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1981_ | Table 2, p. 6, row 3 |  |
 | Phase composition |  | 1000 | liquid Mg; _liquid Mg: Mg 1, O 0_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 4 |  |
-| Phase composition |  | 1000 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1990_ | Table 2, p. 6, row 6 |  |
+| Phase composition |  | 1000 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1981_ | Table 2, p. 6, row 6 |  |
 | Phase composition |  | 1000 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 5 |  |
-| Phase composition |  | 1200 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1990_ | Table 2, p. 6, row 9 |  |
+| Phase composition |  | 1200 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1981_ | Table 2, p. 6, row 9 |  |
 | Phase composition |  | 1200 | liquid Mg; _liquid Mg: Mg 0.999996, O 4.000e-6_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 8 |  |
 | Phase composition |  | 1200 | liquid Mg; _liquid Mg: Mg 1, O 0_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 7 |  |
-| Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1990_ | Table 2, p. 6, row 12 |  |
+| Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1981_ | Table 2, p. 6, row 12 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999998, O 2.000e-6_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 10 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999986, O 1.400e-5_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 11 |  |
 | Phase composition |  | 2647.5 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 4, p. 8, row 1 |  |
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

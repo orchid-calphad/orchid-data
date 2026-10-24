@@ -82,13 +82,13 @@ Table: Crystal structure, Ga–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.2214 nm ± 3.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice a | 0.49791 nm ± 6.000e-5 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
-| Lattice a | 0.822 nm | 298.15 | γ-Ga2O3†; _γ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pohl 1968_ | Table I, p. 2, row 3 |  |
-| Lattice a | 1 nm | 298.15 | δ-Ga2O3†; _δ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Roy 1952_ | Table I, p. 2, row 4 |  |
-| Lattice b | 0.30371 nm ± 9.000e-5 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice c | 0.57981 nm ± 9.000e-5 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice c | 1.3437 nm ± 4.000e-4 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
+| Lattice a | 12.214 Å ± 0.003 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
+| Lattice a | 4.9791 Å ± 6.000e-4 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
+| Lattice a | 8.22 Å | 298.15 | γ-Ga2O3†; _γ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pohl 1968_ | Table I, p. 2, row 3 |  |
+| Lattice a | 10 Å | 298.15 | δ-Ga2O3†; _δ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Roy 1952_ | Table I, p. 2, row 4 |  |
+| Lattice b | 3.0371 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
+| Lattice c | 5.7981 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
+| Lattice c | 13.437 Å ± 0.004 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
 | lattice beta | 103.83 deg ± 0.02 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
 
 ## Sources
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -363,20 +363,20 @@ Table: Crystal structure, Cu–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.2854 nm | 298.15 | Bcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.54306 nm | 298.15 | Diamond | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.36149 nm | 298.15 | Fcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.25622 nm | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.4036 nm | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2006_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 7.676 nm | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.6198 nm | 298.15 | γ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.9718 nm | 298.15 | ε-Cu15Si4; _alloy: Si 0.210526_ | model | [4] Soldi 2019; _cites Mattern 2006_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.247 nm | 298.15 | η-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.472 nm | 298.15 | η′-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 8 |  |
-| Lattice b | 0.7 nm | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.41823 nm | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.4943 nm | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2006_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 2.194 nm | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
+| Lattice a | 2.854 Å | 298.15 | Bcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 3 |  |
+| Lattice a | 5.4306 Å | 298.15 | Diamond | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 10 |  |
+| Lattice a | 3.6149 Å | 298.15 | Fcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 1 |  |
+| Lattice a | 2.5622 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.036 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 76.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
+| Lattice a | 6.198 Å | 298.15 | γ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 5 |  |
+| Lattice a | 9.718 Å | 298.15 | ε-Cu15Si4; _alloy: Si 0.210526_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 2.47 Å | 298.15 | η-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.72 Å | 298.15 | η′-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 8 |  |
+| Lattice b | 7 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
+| Lattice c | 4.1823 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
+| Lattice c | 4.943 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 21.94 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
 
 ## Sources
 
@@ -444,4 +444,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

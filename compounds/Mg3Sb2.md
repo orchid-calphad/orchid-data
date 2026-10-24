@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Mg3Sb2 reported in the literature (16)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -299 kJ/mol (basis unstated) ± 3 | α-Mg3Sb2 | 900 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Rao 1835_ | Table 8, p. 9, row 1 |  |
+| -299 kJ/mol (basis unstated) ± 3 | α-Mg3Sb2 | 900 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Rao 1971_ | Table 8, p. 9, row 1 |  |
 | -285 kJ/mol (basis unstated) | α-Mg3Sb2 | 923 | experimental | high temperature calorimetric measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Kubaschewski 1939_ | Table 8, p. 9, row 3 |  |
 | -235 kJ/mol (basis unstated) ± 6 | α-Mg3Sb2 | 773 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Eremenko 1964_ | Table 8, p. 9, row 2 |  |
 | -47 kJ/mol-atom ± 6 | Mg3Sb2 | 773 | experimental |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
@@ -23,7 +23,7 @@ Table: Enthalpy of formation of Mg3Sb2 reported in the literature (16)
 | -300 kJ/mol (basis unstated) | α-Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |
 | -64 kJ/mol-atom ± 40 | Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
 | -60 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
-| -59.8 kJ/mol-atom ± 3 | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Rao 1829_ | Table 1I, p. 4, row 10 |  |
+| -59.8 kJ/mol-atom ± 3 | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
 | -57 kJ/mol-atom | Mg3Sb2 | 923 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | -55.2 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
 | -53.2 kJ/mol-atom | Mg3Sb2 | 773 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

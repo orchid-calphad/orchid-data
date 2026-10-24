@@ -65,38 +65,38 @@ Table: Crystal structure, Au–Ga–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.77258 nm |  | Au7Ga2-HT | model | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.4072 nm | 298.15 | Au-fcc; _alloy: Ga 0, In 0_ | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.4072 nm | 298.15 | Au-fcc | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 20 |  |
-| Lattice a | 0.42047 nm | 298.15 | Au2InGa2; _Au2InGa2: Au 0.4, Ga 0.4, In 0.2_ | experimental | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | Table 1, p. 2, row 19 |  |
-| Lattice a | 0.4538 nm | 298.15 | Au3In2 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
-| Lattice a | 1.0524 nm | 298.15 | Au4In-LT | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
-| Lattice a | 1.21 nm | 298.15 | Au7In3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
-| Lattice a | 0.9843 nm | 298.15 | Au9In4; _alloy: Ga 0, In 0.307692_ | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 14 |  |
-| Lattice a | 0.9843 nm | 298.15 | Au9In4 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 27 |  |
-| Lattice a | 0.63971 nm | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.60758 nm | 298.15 | AuGa2; _alloy: Ga 0.666667, In 0_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.60758 nm | 298.15 | AuGa2; _AuGa2: Au 0.278, Ga 0.667, In 0.055_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 25 |  |
-| Lattice a | 0.43 nm | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
-| Lattice a | 0.6515 nm | 298.15 | AuIn2; _alloy: Ga 0, In 0.666667_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 18 |  |
-| Lattice a | 0.6515 nm | 298.15 | AuIn2; _AuIn2: Au 0.238, Ga 0.095, In 0.667_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 28 |  |
-| Lattice a | 0.58572 nm | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
-| Lattice a | 0.45192 nm | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.3248 nm | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.6262 nm | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
-| Lattice b | 1.059 nm | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
-| Lattice b | 0.47352 nm | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
-| Lattice b | 0.76586 nm | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.87413 nm |  | Au7Ga2-HT | model | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
-| Lattice c | 1.2967 nm | 298.15 | Au2InGa2; _Au2InGa2: Au 0.4, Ga 0.4, In 0.2_ | experimental | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | Table 1, p. 2, row 19 |  |
-| Lattice c | 0.5659 nm | 298.15 | Au3In2 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
-| Lattice c | 0.4759 nm | 298.15 | Au4In-LT | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.851 nm | 298.15 | Au7In3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
-| Lattice c | 0.3463 nm | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.356 nm | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
-| Lattice c | 0.51504 nm | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
-| Lattice c | 0.45258 nm | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.4948 nm | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2 |  |
+| Lattice a | 7.7258 Å |  | Au7Ga2-HT | model | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
+| Lattice a | 4.072 Å | 298.15 | Au-fcc; _alloy: Ga 0, In 0_ | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 20 |  |
+| Lattice a | 4.2047 Å | 298.15 | Au2InGa2; _Au2InGa2: Au 0.4, Ga 0.4, In 0.2_ | experimental | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | Table 1, p. 2, row 19 |  |
+| Lattice a | 4.538 Å | 298.15 | Au3In2 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
+| Lattice a | 10.524 Å | 298.15 | Au4In-LT | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
+| Lattice a | 12.1 Å | 298.15 | Au7In3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
+| Lattice a | 9.843 Å | 298.15 | Au9In4; _alloy: Ga 0, In 0.307692_ | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 14 |  |
+| Lattice a | 9.843 Å | 298.15 | Au9In4 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 27 |  |
+| Lattice a | 6.3971 Å | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.0758 Å | 298.15 | AuGa2; _alloy: Ga 0.666667, In 0_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 10 |  |
+| Lattice a | 6.0758 Å | 298.15 | AuGa2; _AuGa2: Au 0.278, Ga 0.667, In 0.055_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 25 |  |
+| Lattice a | 4.3 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
+| Lattice a | 6.515 Å | 298.15 | AuIn2; _alloy: Ga 0, In 0.666667_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 18 |  |
+| Lattice a | 6.515 Å | 298.15 | AuIn2; _AuIn2: Au 0.238, Ga 0.095, In 0.667_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 28 |  |
+| Lattice a | 5.8572 Å | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
+| Lattice a | 4.5192 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.248 Å | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2 |  |
+| Lattice b | 6.262 Å | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
+| Lattice b | 10.59 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
+| Lattice b | 4.7352 Å | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
+| Lattice b | 7.6586 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
+| Lattice c | 8.7413 Å |  | Au7Ga2-HT | model | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
+| Lattice c | 12.967 Å | 298.15 | Au2InGa2; _Au2InGa2: Au 0.4, Ga 0.4, In 0.2_ | experimental | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | Table 1, p. 2, row 19 |  |
+| Lattice c | 5.659 Å | 298.15 | Au3In2 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
+| Lattice c | 4.759 Å | 298.15 | Au4In-LT | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
+| Lattice c | 8.51 Å | 298.15 | Au7In3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
+| Lattice c | 3.463 Å | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9 |  |
+| Lattice c | 3.56 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
+| Lattice c | 5.1504 Å | 298.15 | AuIn3 | model | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
+| Lattice c | 4.5258 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.948 Å | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2 |  |
 | lattice alpha | 90.54 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
 | lattice beta | 90 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
 | lattice gamma | 90.17 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17 |  |
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

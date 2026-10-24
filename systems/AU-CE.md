@@ -300,31 +300,31 @@ Table: Crystal structure, Au–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40784 nm | 298.15 | Au; _Au: Au 1, Ce 0_ | model | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.7271 nm | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.4528 nm | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
+| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1, Ce 0_ | model | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 7.271 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 4.528 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice a | 0.78 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.485 nm | 298.15 | αCe; _αCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 1.277 nm | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
-| Lattice a | 1.281 nm | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.743 nm | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.3681 nm | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.39 nm | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.5161 nm | 298.15 | γCe; _γCe: Au 0.01, Ce 0.99_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.412 nm | 298.15 | δCe; _δCe: Au 0.02, Ce 0.98_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 0.5073 nm | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 0.7203 nm | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
+| Lattice a | 4.85 Å | 298.15 | αCe; _αCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 12.77 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
+| Lattice a | 12.81 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 7.43 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
+| Lattice a | 3.681 Å | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.9 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 5.161 Å | 298.15 | γCe; _γCe: Au 0.01, Ce 0.99_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 4.12 Å | 298.15 | δCe; _δCe: Au 0.02, Ce 0.98_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 5.073 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
+| Lattice b | 7.203 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice b | 0.778 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
-| Lattice b | 0.466 nm | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
-| Lattice b | 1.114 nm | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 0.932 nm | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 0.8068 nm | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
+| Lattice b | 4.66 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
+| Lattice b | 11.14 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 9.32 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 8.068 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice c | 0.908 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
-| Lattice c | 0.929 nm | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
+| Lattice c | 9.29 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
 | Lattice c | 0.9327 not_printed ± 0.3 | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.593 nm | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
-| Lattice c | 1.1857 nm | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.475 nm | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 5.93 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
+| Lattice c | 11.857 Å | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 4.75 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
 
 ## Sources
 
@@ -390,4 +390,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

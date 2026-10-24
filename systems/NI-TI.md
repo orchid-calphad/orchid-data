@@ -470,27 +470,27 @@ Table: Crystal structure, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.5101 nm | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice a | 0.3095 nm | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice a | 0.4398 nm | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice a | 0.672 nm | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice a | 0.30954 nm | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.43985 nm | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.6684 nm | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.671 nm | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.66697 nm | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6718 nm | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4 |  |
-| Lattice b | 0.5101 nm | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice b | 0.3095 nm | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice b | 0.437 nm | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice b | 0.672 nm | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice b | 0.43705 nm | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.8307 nm | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice c | 1.3585 nm | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice c | 1.3544 nm | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice c | 0.672 nm | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice c | 1.35852 nm | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
-| Lattice c | 1.35442 nm | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
+| Lattice a | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
+| Lattice a | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
+| Lattice a | 4.398 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
+| Lattice a | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
+| Lattice a | 3.0954 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.3985 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.684 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2 |  |
+| Lattice a | 6.71 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.6697 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3 |  |
+| Lattice a | 6.718 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4 |  |
+| Lattice b | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
+| Lattice b | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
+| Lattice b | 4.37 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
+| Lattice b | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
+| Lattice b | 4.3705 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
+| Lattice c | 8.307 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
+| Lattice c | 13.585 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
+| Lattice c | 13.544 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
+| Lattice c | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
+| Lattice c | 13.5852 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
+| Lattice c | 13.5442 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [4] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
 | lattice alpha | 90 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
 | lattice alpha | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
 | lattice alpha | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [4] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
@@ -575,4 +575,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

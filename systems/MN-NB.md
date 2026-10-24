@@ -94,17 +94,17 @@ Table: Crystal structure, Mn–Nb system
 | Lattice a | 0.48824 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 3 |  |
 | Lattice a | 0.48834 not_printed ± 1.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 2 |  |
 | Lattice a | 0.48898 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 1 |  |
-| Lattice a | 0.48898 nm ± 1.000e-5 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
+| Lattice a | 4.8898 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
 | Lattice b | 0.48801 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 4 |  |
 | Lattice b | 0.48824 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 3 |  |
 | Lattice b | 0.48834 not_printed ± 1.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 2 |  |
 | Lattice b | 0.48898 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 1 |  |
-| Lattice b | 0.48898 nm ± 1.000e-5 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
+| Lattice b | 4.8898 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
 | Lattice c | 0.79798 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 4 |  |
 | Lattice c | 0.79823 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 3 |  |
 | Lattice c | 0.79853 not_printed ± 2.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 2 |  |
 | Lattice c | 0.7997 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 1 |  |
-| Lattice c | 0.7997 nm ± 1.000e-5 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
+| Lattice c | 7.997 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [1] Yan 2021 | Table 2, p. 6, row 5 |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

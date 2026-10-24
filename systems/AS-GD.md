@@ -30,11 +30,11 @@ Table: Crystal structure, As–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.405 nm | 297.15 | (βGd); _(βGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.4132 nm | 298.15 | (αAs); _(αAs): As 1, Gd 0_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.36336 nm | 298.15 | (αGd); _(αGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.05 Å | 297.15 | (βGd); _(βGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.132 Å | 298.15 | (αAs); _(αAs): As 1, Gd 0_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 3.6336 Å | 298.15 | (αGd); _(αGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
 | Lattice a | 0.5861 not_printed ± 1.000e-4 | 298.15 | GdAs; _GdAs: As 0.5, Gd 0.5_ | unspecified | [1] Alcock 1986; _cites ref. 60Bri_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.5781 nm | 298.15 | (αGd); _(αGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 5.781 Å | 298.15 | (αGd); _(αGd): As 0, Gd 1_ | unspecified | [1] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
 | lattice alpha | 54.12 ° | 298.15 | (αAs); _(αAs): As 1, Gd 0_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4 |  |
 
 ## Sources
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

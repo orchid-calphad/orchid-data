@@ -19,7 +19,7 @@ Table: Enthalpy of formation of GeP reported in the literature (17)
 | -13.82 kJ/mol-atom | Ge1P1 | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table II, p. 6, row 6 |  |
 | -13.6 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
 | -11.442 kJ/mol-atom | GeP | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022 | Table II, p. 3, row 51 |  |
-| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 48 |  |
+| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48 |  |
 | -10.5 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
 | 1.44 kJ/mol-atom | GeP | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
 | -11.4818 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

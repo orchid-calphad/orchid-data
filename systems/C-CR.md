@@ -88,7 +88,7 @@ Table: Enthalpies of formation, C–Cr system (17)
 | Cr3C2 |  | -66.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Du 1989_ | Table II, p. 4, row 11 |  |
 | Cr3C2 |  | -65.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Tanaka 1971_ | Table II, p. 4, row 10 |  |
 | Cr3C2 |  | -64.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Mabuchi 1971_ [doi](https://doi.org/10.1007/bf02913393) | Table II, p. 4, row 7 |  |
-| Cr3C2 |  | -63.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Anthonysamy 1919_ | Table II, p. 4, row 4 |  |
+| Cr3C2 |  | -63.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Anthonysamy 1996_ | Table II, p. 4, row 4 |  |
 | Cr3C2 |  | -56.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Vintaikin 1963_ | Table II, p. 4, row 5 |  |
 | Cr3C2 |  | -56.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Teng 2004; _cites Kleykamp 1969_ [doi](https://doi.org/10.1002/bbpc.19690730407) | Table II, p. 4, row 8 |  |
 
@@ -245,4 +245,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

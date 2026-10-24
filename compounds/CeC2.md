@@ -21,7 +21,7 @@ Table: Enthalpy of formation of CeC2 reported in the literature (8)
 | -29.5 kJ/mol-atom ± 3.5 | CeC2 | 298.15 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
 | -27.2 kJ/mol-atom | CeC2 | 298.15 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 2, p. 2, row 10 |  |
 | -25.4 kJ/mol-atom ± 1.4 | CeC2 | 298.15 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| -20.9 kJ/mol-atom ± 7 | CeC2 | 298.15 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
+| -20.9 kJ/mol-atom ± 7 | CeC2 | 298.15 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Balducci 1969_ | Table 2, p. 2, row 9 |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

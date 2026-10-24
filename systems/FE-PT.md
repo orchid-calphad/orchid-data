@@ -85,9 +85,9 @@ Table: Crystal structure, Fe–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.73 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 2033_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.73 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
 | Lattice a; _printed: a_ | 3.737 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.861 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 2033_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.861 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
 | Lattice a; _printed: a_ | 3.855 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
 | Lattice a; _printed: a_ | 3.911 Å | 0 | FePt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
 | Lattice c; _printed: c_ | 3.788 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4 |  |
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

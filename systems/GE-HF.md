@@ -167,57 +167,57 @@ Table: Crystal structure, Ge–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.5651 nm |  | (Ge); _alloy: Hf 0_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 8 |  |
-| Lattice a | 0.3192 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
-| Lattice a | 0.3532 nm |  | (βHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 5 |  |
-| Lattice a | 0.6609 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
-| Lattice a | 1.0953 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
-| Lattice a | 0.7156 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
-| Lattice a | 0.7991 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
-| Lattice a | 0.7056 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
-| Lattice a | 0.3833 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice a | 0.5651 nm | 298.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014; _cites Qadri 1983_ [doi](https://doi.org/10.1063/1.332434) | Table 4, p. 5, row 6 |  |
-| Lattice a | 0.3197 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice a | 0.35 nm | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4 |  |
-| Lattice a | 0.6577 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
-| Lattice a | 1.0901 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
-| Lattice a | 0.706 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
-| Lattice a | 0.7938 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
-| Lattice a | 0.6995 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
-| Lattice a | 0.3791 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice a | 0.5663 nm | 1073.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 7 |  |
-| Lattice a | 0.3206 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
-| Lattice a | 0.6592 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice a | 1.0908 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
-| Lattice a | 0.7912 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
-| Lattice a | 0.7003 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
-| Lattice a | 0.3841 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice b | 1.3475 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
-| Lattice b | 1.4927 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice b | 1.3389 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
-| Lattice b | 1.4863 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice b | 1.3389 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
-| Lattice b | 1.4905 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice c | 0.5046 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
-| Lattice c | 0.5316 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
-| Lattice c | 0.5421 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
-| Lattice c | 0.3697 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
-| Lattice c | 0.5541 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
-| Lattice c | 0.7128 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
-| Lattice c | 0.3799 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice c | 0.5058 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice c | 0.5274 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
-| Lattice c | 0.541 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
-| Lattice c | 0.372 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
-| Lattice c | 0.5549 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
-| Lattice c | 0.7077 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
-| Lattice c | 0.3754 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice c | 0.5085 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
-| Lattice c | 0.5306 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice c | 0.5401 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
-| Lattice c | 0.5545 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
-| Lattice c | 0.7091 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
-| Lattice c | 0.3798 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
+| Lattice a | 5.651 Å |  | (Ge); _alloy: Hf 0_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 8 |  |
+| Lattice a | 3.192 Å |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
+| Lattice a | 3.532 Å |  | (βHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 5 |  |
+| Lattice a | 6.609 Å |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
+| Lattice a | 10.953 Å |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
+| Lattice a | 7.156 Å |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
+| Lattice a | 7.991 Å |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
+| Lattice a | 7.056 Å |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
+| Lattice a | 3.833 Å |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
+| Lattice a | 5.651 Å | 298.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014; _cites Qadri 1983_ [doi](https://doi.org/10.1063/1.332434) | Table 4, p. 5, row 6 |  |
+| Lattice a | 3.197 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
+| Lattice a | 3.5 Å | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4 |  |
+| Lattice a | 6.577 Å | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
+| Lattice a | 10.901 Å | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
+| Lattice a | 7.06 Å | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
+| Lattice a | 7.938 Å | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
+| Lattice a | 6.995 Å | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
+| Lattice a | 3.791 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
+| Lattice a | 5.663 Å | 1073.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 7 |  |
+| Lattice a | 3.206 Å | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
+| Lattice a | 6.592 Å | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
+| Lattice a | 10.908 Å | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
+| Lattice a | 7.912 Å | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
+| Lattice a | 7.003 Å | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
+| Lattice a | 3.841 Å | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
+| Lattice b | 13.475 Å |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
+| Lattice b | 14.927 Å |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
+| Lattice b | 13.389 Å | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
+| Lattice b | 14.863 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
+| Lattice b | 13.389 Å | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
+| Lattice b | 14.905 Å | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
+| Lattice c | 5.046 Å |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
+| Lattice c | 5.316 Å |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
+| Lattice c | 5.421 Å |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
+| Lattice c | 3.697 Å |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
+| Lattice c | 5.541 Å |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
+| Lattice c | 7.128 Å |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
+| Lattice c | 3.799 Å |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
+| Lattice c | 5.058 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
+| Lattice c | 5.274 Å | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
+| Lattice c | 5.41 Å | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
+| Lattice c | 3.72 Å | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
+| Lattice c | 5.549 Å | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
+| Lattice c | 7.077 Å | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
+| Lattice c | 3.754 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
+| Lattice c | 5.085 Å | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
+| Lattice c | 5.306 Å | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
+| Lattice c | 5.401 Å | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
+| Lattice c | 5.545 Å | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
+| Lattice c | 7.091 Å | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
+| Lattice c | 3.798 Å | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
 
 ## Sources
 
@@ -282,4 +282,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

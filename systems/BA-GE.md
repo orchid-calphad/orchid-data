@@ -128,84 +128,84 @@ Table: Crystal structure, Ba–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.49908 nm | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.569 nm | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
-| Lattice a | 0.8429 nm | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.8539 nm | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
-| Lattice a | 0.507 nm | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
-| Lattice a | 0.915 nm | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
-| Lattice a | 0.855 nm | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
-| Lattice a | 0.8621 nm |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice a | 0.5013 nm | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.5656 nm | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
-| Lattice a | 0.838 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.8419 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.8519 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.8538 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
-| Lattice a | 1.45635 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
-| Lattice a | 1.456 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
-| Lattice a | 1.45564 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
-| Lattice a | 2.1312 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
-| Lattice a | 2.1303 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
-| Lattice a | 0.5062 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.5057 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.905 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
-| Lattice a | 0.9076 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
-| Lattice a | 1.0727 nm | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
-| Lattice a | 1.1789 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
-| Lattice a | 1.1799 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
-| Lattice b | 0.49908 nm | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice b | 0.569 nm | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
-| Lattice b | 0.5495 nm | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
-| Lattice b | 0.8539 nm | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
-| Lattice b | 1.1995 nm | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
-| Lattice b | 0.687 nm | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
-| Lattice b | 0.855 nm | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
-| Lattice b | 0.8621 nm |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice b | 0.5013 nm | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice b | 0.5656 nm | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
-| Lattice b | 0.548 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
-| Lattice b | 0.5444 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
-| Lattice b | 0.8519 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
-| Lattice b | 0.8538 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
-| Lattice b | 1.45635 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
-| Lattice b | 1.456 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
-| Lattice b | 1.45564 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
-| Lattice b | 2.1312 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
-| Lattice b | 2.1303 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
-| Lattice b | 1.1954 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
-| Lattice b | 1.1942 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
-| Lattice b | 0.683 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
-| Lattice b | 0.6812 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
-| Lattice b | 9.2844 nm | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
-| Lattice b | 1.2197 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
-| Lattice b | 1.221 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
-| Lattice c | 0.49908 nm | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice c | 0.569 nm | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
-| Lattice c | 1.011 nm | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
-| Lattice c | 1.6563 nm | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.431 nm | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
-| Lattice c | 1.173 nm | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
-| Lattice c | 1.2137 nm | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
-| Lattice c | 1.2031 nm |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice c | 0.5013 nm | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice c | 0.5656 nm | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
-| Lattice c | 1.004 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
-| Lattice c | 1.0068 nm | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
-| Lattice c | 1.6554 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
-| Lattice c | 1.6495 nm | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
-| Lattice c | 1.4563 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
-| Lattice c | 1.456 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
-| Lattice c | 1.4556 nm | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
-| Lattice c | 2.1312 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
-| Lattice c | 2.1303 nm | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
-| Lattice c | 0.4301 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
-| Lattice c | 0.4299 nm | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
-| Lattice c | 1.165 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
-| Lattice c | 1.1642 nm | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
-| Lattice c | 1.4794 nm | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
-| Lattice c | 1.209 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
-| Lattice c | 1.2097 nm | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
+| Lattice a | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
+| Lattice a | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
+| Lattice a | 8.429 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
+| Lattice a | 8.539 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
+| Lattice a | 5.07 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
+| Lattice a | 9.15 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
+| Lattice a | 8.55 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
+| Lattice a | 8.621 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
+| Lattice a | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
+| Lattice a | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
+| Lattice a | 8.38 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
+| Lattice a | 8.419 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
+| Lattice a | 8.519 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 8.538 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
+| Lattice a | 14.5635 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
+| Lattice a | 14.56 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
+| Lattice a | 14.5564 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
+| Lattice a | 21.312 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
+| Lattice a | 21.303 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
+| Lattice a | 5.062 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
+| Lattice a | 5.057 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
+| Lattice a | 9.05 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
+| Lattice a | 9.076 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
+| Lattice a | 10.727 Å | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
+| Lattice a | 11.789 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
+| Lattice a | 11.799 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
+| Lattice b | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
+| Lattice b | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
+| Lattice b | 5.495 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
+| Lattice b | 8.539 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
+| Lattice b | 11.995 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
+| Lattice b | 6.87 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
+| Lattice b | 8.55 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
+| Lattice b | 8.621 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
+| Lattice b | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
+| Lattice b | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
+| Lattice b | 5.48 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
+| Lattice b | 5.444 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
+| Lattice b | 8.519 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
+| Lattice b | 8.538 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
+| Lattice b | 14.5635 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
+| Lattice b | 14.56 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
+| Lattice b | 14.5564 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
+| Lattice b | 21.312 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
+| Lattice b | 21.303 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
+| Lattice b | 11.954 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
+| Lattice b | 11.942 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
+| Lattice b | 6.83 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
+| Lattice b | 6.812 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
+| Lattice b | 92.844 Å | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
+| Lattice b | 12.197 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
+| Lattice b | 12.21 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
+| Lattice c | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
+| Lattice c | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
+| Lattice c | 10.11 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
+| Lattice c | 16.563 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
+| Lattice c | 4.31 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
+| Lattice c | 11.73 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
+| Lattice c | 12.137 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
+| Lattice c | 12.031 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
+| Lattice c | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
+| Lattice c | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
+| Lattice c | 10.04 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
+| Lattice c | 10.068 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
+| Lattice c | 16.554 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
+| Lattice c | 16.495 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 6 |  |
+| Lattice c | 14.563 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Fukuoka 2000_ [doi](https://doi.org/10.1006/jssc.2000.8632) | Table 2, p. 3, row 20 |  |
+| Lattice c | 14.56 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 19 |  |
+| Lattice c | 14.556 Å | 298.15 | Ba6Ge25; _Ba6Ge25: Ba 0.194, Ge 0.806_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2000_ [doi](https://doi.org/10.1515/ncrs-2000-0208) | Table 2, p. 3, row 21 |  |
+| Lattice c | 21.312 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 2, p. 3, row 23 |  |
+| Lattice c | 21.303 Å | 298.15 | Ba8Ge43; _Ba8Ge43: Ba 0.157, Ge 0.843_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 24 |  |
+| Lattice c | 4.301 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 10 |  |
+| Lattice c | 4.299 Å | 298.15 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Rieger 1967_ [doi](https://doi.org/10.1107/s0365110x67001793) | Table 2, p. 3, row 9 |  |
+| Lattice c | 11.65 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Evers 1977_ [doi](https://doi.org/10.1515/znb-1977-1128) | Table 2, p. 3, row 16 |  |
+| Lattice c | 11.642 Å | 298.15 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 17 |  |
+| Lattice c | 14.794 Å | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
+| Lattice c | 12.09 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
+| Lattice c | 12.097 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
 
 ## Sources
 
@@ -270,4 +270,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

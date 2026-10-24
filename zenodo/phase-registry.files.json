@@ -16,12 +16,12 @@
   "phases/pages/**"
  ],
  "n_files": 1261,
- "total_bytes": 112397286,
+ "total_bytes": 112399400,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 31271,
-   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
+   "bytes": 33307,
+   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
   },
   {
    "path": "LICENSE",
@@ -30,13 +30,13 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 3550,
-   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
+   "bytes": 3614,
+   "sha256": "939857b353fb387245597859e817f7405e440c013efbcb9ac8b6fc7ddacbe55e"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 8552,
-   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
+   "bytes": 8566,
+   "sha256": "c487466646c694992ed41724f89b4ff3edd0af1c6eb0dc64fb66ca6dd06c2689"
   },
   {
    "path": "README.md",
@@ -81,7 +81,7 @@
   {
    "path": "phases/registry.json",
    "bytes": 7847699,
-   "sha256": "1415ffb07902a17693fd7c08de899ec8c4b1996741a4f3b4c2ec697399f3d43f"
+   "sha256": "1775b9e0e3c601cb8fe1767dddd8c180196af95f81b99894fe61cf6db9901d9c"
   },
   {
    "path": "phases/registry.jsonld",
@@ -106,7 +106,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 914034,
-   "sha256": "e63a9cc34115121378cf749a9c363dda1a703499f1e02561b9d65ae462886d4c"
+   "sha256": "e9a1f58619f010495e68259a47eb0a3e49b66696d02b67659f985ef8be381323"
   },
   {
    "path": "phases/structure_types.parquet",

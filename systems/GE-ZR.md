@@ -104,18 +104,18 @@ Table: Crystal structure, Ge–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.108 nm | 298.15 | Zr3Ge; _alloy: Zr 0.75_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.7993 nm | 298.15 | Zr5Ge3; _alloy: Zr 0.625_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.7238 nm | 298.15 | Zr5Ge4; _alloy: Zr 0.555556_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.7068 nm | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.3789 nm | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.3904 nm | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
-| Lattice b | 1.4975 nm | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.548 nm | 298.15 | Zr3Ge; _alloy: Zr 0.75_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.5594 nm | 298.15 | Zr5Ge3; _alloy: Zr 0.625_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 2 |  |
-| Lattice c | 1.3154 nm | 298.15 | Zr5Ge4; _alloy: Zr 0.555556_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.5396 nm | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
-| Lattice c | 0.3761 nm | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
+| Lattice a | 11.08 Å | 298.15 | Zr3Ge; _alloy: Zr 0.75_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 1 |  |
+| Lattice a | 7.993 Å | 298.15 | Zr5Ge3; _alloy: Zr 0.625_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 2 |  |
+| Lattice a | 7.238 Å | 298.15 | Zr5Ge4; _alloy: Zr 0.555556_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 3 |  |
+| Lattice a | 7.068 Å | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
+| Lattice a | 3.789 Å | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
+| Lattice b | 3.904 Å | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
+| Lattice b | 14.975 Å | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.48 Å | 298.15 | Zr3Ge; _alloy: Zr 0.75_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 1 |  |
+| Lattice c | 5.594 Å | 298.15 | Zr5Ge3; _alloy: Zr 0.625_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 2 |  |
+| Lattice c | 13.154 Å | 298.15 | Zr5Ge4; _alloy: Zr 0.555556_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 3 |  |
+| Lattice c | 5.396 Å | 298.15 | ZrGe; _alloy: Zr 0.5_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 4 |  |
+| Lattice c | 3.761 Å | 298.15 | ZrGe2; _alloy: Zr 0.333333_ | experimental | [1] Sha 2011; _cites Rudometkina 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990114-2) | Table 1, p. 2, row 5 |  |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -134,47 +134,47 @@ Table: Crystal structure, Ge–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.562 nm | 0 | (Ge); _alloy: Sc 0_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 20 |  |
-| Lattice a | 0.33082 nm | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
-| Lattice a | 1.032 nm | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
-| Lattice a | 0.7972 nm | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
-| Lattice a | 0.7172 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
-| Lattice a | 0.4025 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
-| Lattice a | 0.388 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
-| Lattice a | 0.562 nm | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 19 |  |
-| Lattice a | 0.5657 nm | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | model | [1] Cheng 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 3, p. 3, row 18 |  |
-| Lattice a | 0.33107 nm | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
-| Lattice a | 0.33088 nm | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.373 nm | 298.15 | (βSc); _(βSc): Ge 0.02, Sc 0.98_ | model | [1] Cheng 2012; _cites Massalski 1986_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 1.012 nm | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
-| Lattice a | 0.7939 nm | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
-| Lattice a | 0.7269 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
-| Lattice a | 0.4007 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
-| Lattice a | 0.388 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
-| Lattice a | 0.388 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
-| Lattice a | 0.7932 nm | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
-| Lattice b | 1.3807 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
-| Lattice b | 1.0133 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
-| Lattice b | 1.487 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
-| Lattice b | 1.398 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
-| Lattice b | 1.006 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
-| Lattice b | 1.487 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
-| Lattice b | 1.485 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
-| Lattice c | 0.51769 nm | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
-| Lattice c | 1.53 nm | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
-| Lattice c | 0.5905 nm | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
-| Lattice c | 0.7251 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
-| Lattice c | 0.3825 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
-| Lattice c | 0.379 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
-| Lattice c | 0.52693 nm | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
-| Lattice c | 0.5268 nm | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
-| Lattice c | 1.554 nm | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
-| Lattice c | 0.5883 nm | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
-| Lattice c | 0.7152 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
-| Lattice c | 0.3762 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
-| Lattice c | 0.379 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
-| Lattice c | 0.379 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
-| Lattice c | 0.5898 nm | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
+| Lattice a | 5.62 Å | 0 | (Ge); _alloy: Sc 0_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 20 |  |
+| Lattice a | 3.3082 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
+| Lattice a | 10.32 Å | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
+| Lattice a | 7.972 Å | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
+| Lattice a | 7.172 Å | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice a | 4.025 Å | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice a | 3.88 Å | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice a | 5.62 Å | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 19 |  |
+| Lattice a | 5.657 Å | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | model | [1] Cheng 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 3, p. 3, row 18 |  |
+| Lattice a | 3.3107 Å | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
+| Lattice a | 3.3088 Å | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
+| Lattice a | 3.73 Å | 298.15 | (βSc); _(βSc): Ge 0.02, Sc 0.98_ | model | [1] Cheng 2012; _cites Massalski 1986_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 10.12 Å | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
+| Lattice a | 7.939 Å | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
+| Lattice a | 7.269 Å | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice a | 4.007 Å | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice a | 3.88 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice a | 3.88 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice a | 7.932 Å | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
+| Lattice b | 13.807 Å | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice b | 10.133 Å | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice b | 14.87 Å | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice b | 13.98 Å | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice b | 10.06 Å | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice b | 14.87 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice b | 14.85 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice c | 5.1769 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
+| Lattice c | 15.3 Å | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
+| Lattice c | 5.905 Å | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
+| Lattice c | 7.251 Å | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice c | 3.825 Å | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice c | 3.79 Å | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice c | 5.2693 Å | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
+| Lattice c | 5.268 Å | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
+| Lattice c | 15.54 Å | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
+| Lattice c | 5.883 Å | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
+| Lattice c | 7.152 Å | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice c | 3.762 Å | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice c | 3.79 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice c | 3.79 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice c | 5.898 Å | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
 
 ## Sources
 
@@ -239,4 +239,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

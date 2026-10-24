@@ -249,21 +249,21 @@ Table: Crystal structure, Si–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.6515 nm ± 1.000e-4 | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.8264 nm ± 1.000e-4 | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.7262 nm ± 2.000e-4 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.416 nm | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.418 nm ± 1.000e-4 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.3781 nm ± 1.000e-4 | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 6 |  |
-| Lattice b | 1.4784 nm ± 4.000e-4 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.756 nm | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
-| Lattice b | 1.0314 nm ± 2.000e-4 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.4094 nm ± 1.000e-4 | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.6254 nm ± 1.000e-4 | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.77 nm ± 2.000e-4 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 2.351 nm | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 0.3762 nm ± 1.000e-4 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.4101 nm ± 1.000e-4 | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.515 Å ± 0.001 | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 8.264 Å ± 0.001 | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 7.262 Å ± 0.002 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 4.16 Å | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.18 Å ± 0.001 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.781 Å ± 0.001 | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 6 |  |
+| Lattice b | 14.784 Å ± 0.004 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
+| Lattice b | 7.56 Å | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
+| Lattice b | 10.314 Å ± 0.002 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.094 Å ± 0.001 | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 6.254 Å ± 0.001 | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 1 |  |
+| Lattice c | 7.7 Å ± 0.002 | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 23.51 Å | 298.15 | Yb8Si11; _alloy: Yb 0.421053_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 3.762 Å ± 0.001 | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.101 Å ± 0.001 | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 1, p. 2, row 6 |  |
 
 ## Sources
 
@@ -328,4 +328,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

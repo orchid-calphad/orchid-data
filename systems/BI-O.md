@@ -52,7 +52,7 @@ Table: Invariant reactions reported in the literature for the Bi–O system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1095 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table I, p. 3, row 7 |  |
+| 1095 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table I, p. 3, row 7 |  |
 | 1093 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1975_ | Table I, p. 3, row 6 |  |
 | 1090 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 8 |  |
 | 1077 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites S 1984_ | Table I, p. 3, row 9 |  |
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the Bi–O system (21)
 | 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table I, p. 3, row 23 |  |
 | 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table I, p. 3, row 24 |  |
 | 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table I, p. 3, row 21 |  |
-| 991 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table I, p. 3, row 19 |  |
+| 991 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table I, p. 3, row 19 |  |
 | 990 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Gattow 1962_ [doi](https://doi.org/10.1002/zaac.19623180307) | Table I, p. 3, row 11 |  |
 | 980 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 20 |  |
 | 978 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table I, p. 3, row 18 |  |
@@ -86,7 +86,7 @@ Table: Enthalpies of formation, Bi–O system (13)
 | — |  | -570.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | p. 5 | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
 | α-Bi2O3 |  | -590.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8 |  |
 | α-Bi2O3 |  | -587.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4 |  |
-| α-Bi2O3 |  | -581.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Cahen 1979_ | Table 6, p. 5, row 7 |  |
+| α-Bi2O3 |  | -581.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Cahen 1978_ | Table 6, p. 5, row 7 |  |
 | α-Bi2O3 |  | -576.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1 |  |
 | α-Bi2O3 |  | -573.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3 |  |
 | α-Bi2O3 |  | -570.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1995 | Table 6, p. 5, row 11 |  |
@@ -138,13 +138,13 @@ Table: Activity / EMF / Gibbs energy, Bi–O system
 | Gibbs energy; _printed: ΔG (A)_ | -583592 J/mol | 901.5 | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 293.9 J/mol/K | 901.5 | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 293.4 J/mol/K | 917.5 | α | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 45 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -600990 J/mol | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table 7, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 315.2 J/mol/K | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table 7, p. 6, row 29 |  |
+| Gibbs energy; _printed: ΔG (A)_ | -600990 J/mol | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
+| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 315.2 J/mol/K | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -582520 J/mol | 942.5 | α | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 43 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 265.4 J/mol/K | 945 | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -560196 J/mol | 945 | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 314.42 J/mol/K | 974 | α | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 37 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 267.8 J/mol/K | 1012.5 | δ | experimental | [1] Risold 1995; _cites Cahen 1979_ | Table 7, p. 6, row 32 |  |
+| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 267.8 J/mol/K | 1012.5 | δ | experimental | [1] Risold 1995; _cites Cahen 1978_ | Table 7, p. 6, row 32 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 261.06 J/mol/K | 1031 | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -549700 J/mol | 1031 | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 261.1 J/mol/K | 1033.5 | δ | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 46 |  |
@@ -153,7 +153,7 @@ Table: Activity / EMF / Gibbs energy, Bi–O system
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 253.4 J/mol/K | 1035 | δ | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 35 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -572613 J/mol | 1035.5 | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 227.3 J/mol/K | 1035.5 | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 271.5 J/mol/K | 1043 | δ | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table 7, p. 6, row 30 |  |
+| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 271.5 J/mol/K | 1043 | δ | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 30 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 270.3 J/mol/K | 1048.5 | δ | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 38 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 241.8 J/mol/K | 1049 | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -532247 J/mol | 1049 | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
@@ -163,8 +163,8 @@ Table: Activity / EMF / Gibbs energy, Bi–O system
 | Gibbs energy; _printed: ΔG (A)_ | -415471 J/mol | 1148 | L | experimental | [1] Risold 1995; _cites ref. 79Hah_ | Table 7, p. 6, row 33 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -373422 J/mol | 1150 | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 156.9 J/mol/K | 1150 | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 217.8 J/mol/K | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table 7, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -498900 J/mol | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table 7, p. 6, row 31 |  |
+| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 217.8 J/mol/K | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
+| Gibbs energy; _printed: ΔG (A)_ | -498900 J/mol | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 235.91 J/mol/K | 1237 | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
 | Gibbs energy; _printed: ΔG (A)_ | -520840 J/mol | 1237 | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
 | Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 229.7 J/mol/K | 1356.5 | L | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 36 |  |
@@ -234,4 +234,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

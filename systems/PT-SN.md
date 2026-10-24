@@ -275,15 +275,15 @@ Table: Crystal structure, Pt–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.43345 nm | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
-| Lattice a | 0.4008 nm ± 8.000e-4 | 298.15 | Pt3Sn; _alloy: Sn 0.25_ | experimental | [1] Cui 2021; _cites Pfisterer 1950_ [doi](https://doi.org/10.1007/bf00623719) | Table 3, p. 7, row 1 |  |
-| Lattice a | 0.41014 nm ± 2.000e-5 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
-| Lattice a | 0.64331 nm ± 2.000e-5 | 298.15 | PtSn2; _alloy: Sn 0.666667_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 4 |  |
-| Lattice a | 0.6418 nm ± 3.000e-4 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
-| Lattice b | 1.1366 nm ± 6.000e-4 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
-| Lattice c | 1.29606 nm | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
-| Lattice c | 0.54405 nm ± 2.000e-5 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
-| Lattice c | 0.6384 nm ± 2.000e-4 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
+| Lattice a | 4.3345 Å | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
+| Lattice a | 4.008 Å ± 0.008 | 298.15 | Pt3Sn; _alloy: Sn 0.25_ | experimental | [1] Cui 2021; _cites Pfisterer 1950_ [doi](https://doi.org/10.1007/bf00623719) | Table 3, p. 7, row 1 |  |
+| Lattice a | 4.1014 Å ± 2.000e-4 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
+| Lattice a | 6.4331 Å ± 2.000e-4 | 298.15 | PtSn2; _alloy: Sn 0.666667_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 4 |  |
+| Lattice a | 6.418 Å ± 0.003 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
+| Lattice b | 11.366 Å ± 0.006 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
+| Lattice c | 12.9606 Å | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
+| Lattice c | 5.4405 Å ± 2.000e-4 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
+| Lattice c | 6.384 Å ± 0.002 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
 
 ### Other property (1)
 
@@ -359,4 +359,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

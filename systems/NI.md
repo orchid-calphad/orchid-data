@@ -35,7 +35,7 @@ Table: Phase transition, Ni system
 | Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Kollie 1977_ [doi](https://doi.org/10.1103/physrevb.16.4872) | Table 4, p. 42, row 8 |  |
 | Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Schmidt 1962_ | Table 4, p. 42, row 5 |  |
 | Phase transition | 631 K | 631 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Tange 1981_ [doi](https://doi.org/10.1143/jpsj.50.454) | Table 4, p. 42, row 4 |  |
-| Phase transition | 632 K | 632 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Shiga 1856_ | Table 4, p. 42, row 9 |  |
+| Phase transition | 632 K | 632 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Shiga 1969_ | Table 4, p. 42, row 9 |  |
 | Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | Table 4, p. 42, row 2 |  |
 | Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [1] Hao 2021; _cites Meschter 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990174-8) | Table 4, p. 42, row 1 |  |
 | Phase transition | 686 K | 686 | magnetic: TC, K | model | [1] Hao 2021; _cites Yu 2008_ [doi](https://doi.org/10.1103/physrevb.77.054431) | Table 4, p. 42, row 10 |  |
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

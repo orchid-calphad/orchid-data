@@ -55,20 +55,20 @@ Table: Crystal structure, B–Co–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.5016 nm | 298.15 | Co2B; _alloy: Co 0.666667, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.5253 nm | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
-| Lattice a | 6.345 nm | 298.15 | β1-CoZn; _alloy: Co 0.5, Zn 0.5_ | unspecified | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 8.9525 nm | 298.15 | γ-Co5Zn21; _alloy: Co 0.192308, Zn 0.807692_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 8.927 nm | 298.15 | γ-Co5Zn21; _alloy: Co 0.192308, Zn 0.807692_ | unspecified | [1] Chen 2013; _cites Zhao 2012_ [doi](https://doi.org/10.1016/j.tca.2012.07.002) | Table 1, p. 3, row 3 |  |
-| Lattice a | 9.03 nm | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
-| Lattice a | 13.306 nm | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 0.3043 nm | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
-| Lattice b | 4.338 nm | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
-| Lattice b | 7.535 nm | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 0.422 nm | 298.15 | Co2B; _alloy: Co 0.666667, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
-| Lattice c | 0.3956 nm | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
-| Lattice c | 12.511 nm | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.992 nm | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 5.016 Å | 298.15 | Co2B; _alloy: Co 0.666667, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
+| Lattice a | 5.253 Å | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
+| Lattice a | 63.45 Å | 298.15 | β1-CoZn; _alloy: Co 0.5, Zn 0.5_ | unspecified | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 89.525 Å | 298.15 | γ-Co5Zn21; _alloy: Co 0.192308, Zn 0.807692_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 89.27 Å | 298.15 | γ-Co5Zn21; _alloy: Co 0.192308, Zn 0.807692_ | unspecified | [1] Chen 2013; _cites Zhao 2012_ [doi](https://doi.org/10.1016/j.tca.2012.07.002) | Table 1, p. 3, row 3 |  |
+| Lattice a | 90.3 Å | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
+| Lattice a | 133.06 Å | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 3.043 Å | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
+| Lattice b | 43.38 Å | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
+| Lattice b | 75.35 Å | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 4.22 Å | 298.15 | Co2B; _alloy: Co 0.666667, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
+| Lattice c | 3.956 Å | 298.15 | CoB; _alloy: Co 0.5, Zn 0_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
+| Lattice c | 125.11 Å | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
+| Lattice c | 49.92 Å | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
 | lattice beta | 89.9 ° | 298.15 | γ1-CoZn7.8; _alloy: Co 0.113636, Zn 0.886364_ | unspecified | [1] Chen 2013; _cites Lind 2003_ [doi](https://doi.org/10.1107/s0108768103019694) | Table 1, p. 3, row 4 |  |
 | lattice beta | 126.47 ° | 298.15 | γ2-CoZn13; _alloy: Co 0.071429, Zn 0.928571_ | experimental | [1] Chen 2013; _cites Lihl 1955_ | Table 1, p. 3, row 5 |  |
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

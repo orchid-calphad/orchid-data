@@ -122,9 +122,9 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 743 | L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 6 |  |
 | 743 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 8 |  |
 | 736 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 9 |  |
-| 736 | congruent melting: L->Mg5Ga2 | L: Ga 0.285714, Mg 0.714286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 12 |  |
+| 736 | congruent melting: L->Mg5Ga2 | L: Ga 0.285714, Mg 0.714286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 12 |  |
 | 733 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010 | Table 3, p. 4, row 14 |  |
-| 732 | congruent melting: L->Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 13 |  |
+| 732 | congruent melting: L->Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 13 |  |
 | 732 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | model | [2] Feng 2009 | Table 4, p. 3, row 10 |  |
 | 729 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 8 |  |
 | 729 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 32_ | Table 3, p. 4, row 10 |  |
@@ -135,9 +135,9 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 723 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.34; Mg5Ga2: Ga 0.286; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 14 |  |
 | 723 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.34; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 18 |  |
 | 720.5 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.3375; Mg5Ga2: Ga 0.286; Mg2Ga: Ga 0.3333 | model | [2] Feng 2009 | Table 4, p. 3, row 16 |  |
-| 720.5 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.3375; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 20 |  |
+| 720.5 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.3375; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 20 |  |
 | 720 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.342; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | model | [1] MENG 2010 | Table 3, p. 4, row 21 |  |
-| 718 | peritectic: L+Mg5Ga2->Mg2Ga | Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 19 |  |
+| 718 | peritectic: L+Mg5Ga2->Mg2Ga | Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 19 |  |
 | 718 | L + Mg5Ga2 \<-> Mg2Ga | Mg5Ga2: Ga 0.286; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 15 |  |
 | 714 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.333; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites ref. 32_ | Table 3, p. 4, row 17 |  |
 | 714 | peritectic |  | model | [3] Notin 1991 | p. 10 | “Mg2Ga presents an incongruent decomposition with a peritectic equilibrium at T= 714 K and x~a(liquid)=0.35.” |
@@ -150,13 +150,13 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 697 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.2; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 1 |  |
 | 696 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.191; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 24_ | Table 3, p. 4, row 2 |  |
 | 695.7 | L \<-> (Mg)+Mg5Ga2 | L: Ga 0.2; (Mg): Ga 0.0314; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Hume-Rothery 1938_ | Table 4, p. 3, row 1 |  |
-| 693 | eutectic: L->(Mg)+Mg5Ga2 | Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 5 |  |
+| 693 | eutectic: L->(Mg)+Mg5Ga2 | Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 5 |  |
 | 693 | L \<-> (Mg)+Mg5Ga2 | L: Ga 0.19; (Mg): Ga 0.035; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 3 |  |
 | 693 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.188; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010 | Table 3, p. 4, row 7 |  |
 | 688.1 | L \<-> (Mg)+Mg5Ga2 | L: Ga 0.1873; (Mg): Ga 0.044; Mg5Ga2: Ga 0.286 | model | [2] Feng 2009 | Table 4, p. 3, row 4 |  |
-| 688.1 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.1873; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 6 |  |
+| 688.1 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.1873; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 6 |  |
 | 646.6 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | model | [2] Feng 2009 | Table 4, p. 3, row 26 |  |
-| 646.6 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 28 |  |
+| 646.6 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 28 |  |
 | 646 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 23 |  |
 | 646 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 21 |  |
 | 646 | L \<-> Mg2Ga + MgGa | Mg2Ga: Ga 0.37; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 17 |  |
@@ -167,12 +167,12 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 643 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 24 |  |
 | 643 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 22 |  |
 | 643 | congruent melting: L->MgGa | L: Ga 0.5, Mg 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 23 |  |
-| 642 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 27 |  |
+| 642 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 27 |  |
 | 642 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 25 |  |
-| 641.8 | eutectic: L->Mg2Ga+MgGa | L: Ga 0.4645; Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 33 |  |
+| 641.8 | eutectic: L->Mg2Ga+MgGa | L: Ga 0.4645; Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 33 |  |
 | 641.8 | L \<-> Mg2Ga + MgGa | L: Ga 0.4645; Mg2Ga: Ga 0.333; MgGa: Ga 0.5 | model | [2] Feng 2009 | Table 4, p. 3, row 20 |  |
 | 640 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010 | Table 3, p. 4, row 29 |  |
-| 639 | eutectic: L->Mg2Ga+MgGa | Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 32 |  |
+| 639 | eutectic: L->Mg2Ga+MgGa | Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 32 |  |
 | 639 | eutectic: L->Mg2Ga+MgGa | L: Ga 0.478; Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010 | Table 3, p. 4, row 34 |  |
 | 639 | L \<-> Mg2Ga + MgGa | Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 19 |  |
 | 638 | eutectic: L->Mg2Ga+MgGa | Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites PREDEL_ | Table 3, p. 4, row 30 |  |
@@ -186,30 +186,30 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 557 | peritectic: L+MgGa->MgGa2 | L: Ga 0.666; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites ref. 31_ | Table 3, p. 4, row 37 |  |
 | 556 | L + MgGa \<-> MgGa2 | L: Ga 0.6666; MgGa: Ga 0.5; MgGa2: Ga 0.6666 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 30 |  |
 | 556 | peritectic: L+MgGa->MgGa2 | L: Ga 0.667; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 39 |  |
-| 556 | peritectic: L+MgGa->MgGa2 | L: Ga 0.69; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 40 |  |
+| 556 | peritectic: L+MgGa->MgGa2 | L: Ga 0.69; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 40 |  |
 | 555 | eutectic |  | model | [3] Notin 1991 | p. 10 | “For MgGa2 the melting point is a little higher ( T = 5 5 5 . 5 K) than the temperature of the invariant equilibrium MgGa-liquid-MgGa2 ( T = 5 5 5 K). The composition of the liquid at this temperature, XGa= 0.656, indicates an eutectic point.” |
 | 553 | peritectic: L+MgGa->MgGa2 | L: Ga 0.705; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 36 |  |
 | 553 | L + MgGa \<-> MgGa2 | L: Ga 0.705; MgGa: Ga 0.5; MgGa2: Ga 0.6666 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 28 |  |
 | 553 | peritectic: L+MgGa->MgGa2 | L: Ga 0.671; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | model | [1] MENG 2010 | Table 3, p. 4, row 42 |  |
 | 549.3 | L + MgGa \<-> MgGa2 | L: Ga 0.6674; MgGa: Ga 0.5; MgGa2: Ga 0.6666 | model | [2] Feng 2009 | Table 4, p. 3, row 32 |  |
-| 549.3 | peritectic: L+MgGa->MgGa2 | L: Ga 0.6674; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 41 |  |
+| 549.3 | peritectic: L+MgGa->MgGa2 | L: Ga 0.6674; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 41 |  |
 | 478 | peritectic: L+MgGa2->Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites PREDEL_ | Table 3, p. 4, row 44 |  |
 | 476 | L + MgGa2 \<-> Mg2Ga5 | L: Ga 0.865; MgGa2: Ga 0.6666; Mg2Ga5: Ga 0.7143 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 33 |  |
 | 476 | L + MgGa2 \<-> Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 35 |  |
 | 476 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.866; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010 | Table 3, p. 4, row 49 |  |
-| 476 | peritectic: L+MgGa2->Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites YIN 2010_ | Table 3, p. 4, row 47 |  |
+| 476 | peritectic: L+MgGa2->Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 47 |  |
 | 476 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.865; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 43 |  |
 | 475 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.85; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 46 |  |
 | 475 | L + MgGa2 \<-> Mg2Ga5 | L: Ga 0.85; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 34 |  |
 | 473 | peritectic: L+MgGa2->Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 33_ | Table 3, p. 4, row 45 |  |
 | 472 | peritectic |  | model | [3] Notin 1991 | p. 10 | “Mg2Ga~ presents a peritectic decomposition at T= 472 K.” |
-| 471.5 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.8334; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 48 |  |
+| 471.5 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.8334; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 48 |  |
 | 471.5 | L + MgGa2 \<-> Mg2Ga5 | L: Ga 0.8334; MgGa2: Ga 0.667; Mg2Ga5: Ga 0.714 | model | [2] Feng 2009 | Table 4, p. 3, row 36 |  |
 | 303 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 52 |  |
 | 303 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 0.999; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010 | Table 3, p. 4, row 54 |  |
 | 302.8 | L \<-> Mg2Ga5 + (Ga) | L: Ga 1; Mg2Ga5: Ga 0.7143; (Ga): Ga 1 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 38 |  |
 | 301.5 | L \<-> Mg2Ga5 + (Ga) | L: Ga 0.9999; Mg2Ga5: Ga 0.7143; (Ga): Ga 1 | model | [2] Feng 2009 | Table 4, p. 3, row 40 |  |
-| 301.5 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\] 2009_ | Table 3, p. 4, row 53 |  |
+| 301.5 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 53 |  |
 | 301 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 50 |  |
 | 301 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 51 |  |
 | 300.75 | L \<-> Mg2Ga5 + (Ga) | L: Ga 1; Mg2Ga5: Ga 0.7143; (Ga): Ga 1 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 37 |  |
@@ -403,4 +403,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

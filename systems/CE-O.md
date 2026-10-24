@@ -185,7 +185,7 @@ Table: Crystal structure, Ce–O system
 | Lattice a | 0.6757 not_printed ± 3.000e-4 | 298.15 | Ce11O20; _alloy: Ce 0.354839, F 0, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8 |  |
 | Lattice a | 0.6627 not_printed | 298.15 | Ce19O34; _alloy: Ce 0.358491, F 0, O 0.641509_ | experimental | [2] ZINKEVICH 2006; _cites Knappe 1985_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 0.6785 not_printed ± 1.000e-4 | 298.15 | Ce7O12; _alloy: Ce 0.368421, F 0, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6785 nm ± 1.000e-4 | 298.15 | Ce7O12; _alloy: Ce 0.368421, F 0, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 6.785 Å ± 0.001 | 298.15 | Ce7O12; _alloy: Ce 0.368421, F 0, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 11 |  |
 | Lattice a | 0.3891 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | experimental | [2] ZINKEVICH 2006; _cites Barnigshausen 1985_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 5.4112 not_printed ± 0.001 | 298.15 | UNKNOWN | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 9 |  |
 | Lattice b | 1.026 not_printed ± 5.000e-4 | 298.15 | Ce11O20; _alloy: Ce 0.354839, F 0, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8 |  |
@@ -267,4 +267,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

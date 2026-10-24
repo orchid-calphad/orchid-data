@@ -66,7 +66,7 @@ Table: Invariant reactions reported in the literature for the Re–Ta system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3103 | eutectic: Liq->(Re)+χ | (Re): Ta 0.052; χ: Ta 0.195 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 2 |  |
+| 3103 | eutectic: Liq->(Re)+χ | (Re): Ta 0.052; χ: Ta 0.195 | experimental | [1] Cui 1999; _cites Tylkina 1960_ | Table 2, p. 4, row 2 |  |
 | 3040 | eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.021; χ: Ta 0.206 | model | [1] Cui 1999 | Table 2, p. 4, row 3 |  |
 | 3033 | eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.052; χ: Ta 0.205 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 1 |  |
 | 3033 | liq = hcp + χ | liq: Ta 0.187; hcp: Ta 0.0393; χ: Ta 0.203 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 2 |  |
@@ -75,7 +75,7 @@ Table: Invariant reactions reported in the literature for the Re–Ta system (18
 | 2968 | eutectic: Liq->σ+(Ta) | L: Ta 0.497; σ: Ta 0.417; (Ta): Ta 0.546 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 9 |  |
 | 2966 | liq + χ = σ | liq: Ta 0.465; χ: Ta 0.375; σ: Ta 0.433 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 6 |  |
 | 2958 | peritectic: Liq+χ->σ | L: Ta 0.428; χ: Ta 0.342; σ: Ta 0.4 | model | [1] Cui 1999 | Table 2, p. 4, row 8 |  |
-| 2953 | peritectic: Liq+χ->σ | χ: Ta 0.36; σ: Ta 0.47 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 7 |  |
+| 2953 | peritectic: Liq+χ->σ | χ: Ta 0.36; σ: Ta 0.47 | experimental | [1] Cui 1999; _cites Tylkina 1960_ | Table 2, p. 4, row 7 |  |
 | 2933 | liq = σ + bcc | liq: Ta 0.517; σ: Ta 0.454; bcc: Ta 0.553 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 4 |  |
 | 2929 | liq = σ + bcc | liq: Ta 0.51; σ: Ta 0.445; bcc: Ta 0.546 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 7 |  |
 | 2920 | eutectic: Liq->σ+(Ta) | L: Ta 0.485; σ: Ta 0.4; (Ta): Ta 0.547 | model | [1] Cui 1999 | Table 2, p. 4, row 11 |  |
@@ -83,7 +83,7 @@ Table: Invariant reactions reported in the literature for the Re–Ta system (18
 | 2735 | eutectoid: σ->(Ta)+χ | σ: Ta 0.4; (Ta): Ta 0.536; χ: Ta 0.367 | model | [1] Cui 1999 | Table 2, p. 4, row 13 |  |
 | 2735 | σ = χ + bcc | σ: Ta 0.449; χ: Ta 0.384; bcc: Ta 0.533 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 5 |  |
 | 2730 | σ = χ + bcc | σ: Ta 0.442; χ: Ta 0.384; bcc: Ta 0.533 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 8 |  |
-| 2673 | eutectic: Liq->σ+(Ta) | σ: Ta 0.48; (Ta): Ta 0.58 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 10 |  |
+| 2673 | eutectic: Liq->σ+(Ta) | σ: Ta 0.48; (Ta): Ta 0.58 | experimental | [1] Cui 1999; _cites Tylkina 1960_ | Table 2, p. 4, row 10 |  |
 
 ## Other properties
 
@@ -192,4 +192,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -20,7 +20,7 @@ Table: Enthalpy of formation of CaMg2 reported in the literature (13)
 | -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
 | -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
 | -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
-| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Smith 1959_ | Table 2, p. 4, row 12 |  |
+| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
 | -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
 | -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
 | -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

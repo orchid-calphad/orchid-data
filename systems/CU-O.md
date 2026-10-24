@@ -47,7 +47,7 @@ Table: Invariant reactions reported in the literature for the Cu–O system (58)
 | 1498 | monotectic: L2 -> L1 + Cu2O (monotectic) | L2: O 0.096; L1: O 0.309 | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 2, p. 6, row 21 |  |
 | 1498 | monotectic: L2 -> L1 + Cu2O (monotectic) | L2: O 0.092; L1: O 0.311 | model | [1] Hallstedt 1994 | Table 2, p. 6, row 24 |  |
 | 1497 | monotectic: L2 -> L1 + Cu2O (monotectic) | L2: O 0.099; L1: O 0.307 | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 2, p. 6, row 23 |  |
-| 1496 | monotectic: L2 -> L1 + Cu2O (monotectic) |  | experimental | [1] Hallstedt 1994; _cites Kemori 1977_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 2, p. 6, row 18 |  |
+| 1496 | monotectic: L2 -> L1 + Cu2O (monotectic) |  | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 2, p. 6, row 18 |  |
 | 1495 | monotectic: L2 -> L1 + Cu2O (monotectic) | L2: O 0.096; L1: O 0.308 | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ [doi](https://doi.org/10.2320/jinstmet1952.42.5_527) | Table 2, p. 6, row 20 |  |
 | 1495 | monotectic: L2 -> L1 + Cu2O (monotectic) |  | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 2, p. 6, row 19 |  |
 | 1495 | monotectic: L2 -> L1 + Cu2O (monotectic) | L2: O 0.097; L1: O 0.308 | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 2, p. 6, row 22 |  |
@@ -95,7 +95,7 @@ Table: Invariant reactions reported in the literature for the Cu–O system (58)
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.017 | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 2, p. 6, row 8 |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0154 | experimental | [1] Hallstedt 1994; _cites Heyn 1904_ [doi](https://doi.org/10.1002/zaac.19040390102) | Table 2, p. 6, row 1 |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.015 | experimental | [1] Hallstedt 1994; _cites Vogel 1929_ | Table 2, p. 6, row 3 |  |
-| 1333 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) |  | experimental | [1] Hallstedt 1994; _cites Kemori 1977_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 2, p. 6, row 6 |  |
+| 1333 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) |  | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 2, p. 6, row 6 |  |
 | 1300 | Cu2O + 0.5 O2 -> 2 CuO (in air) |  | model | [1] Hallstedt 1994 | Table 2, p. 6, row 65 |  |
 | 1299 | Cu2O + 0.5 O2 -> 2 CuO (in air) |  | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 2, p. 6, row 63 |  |
 | 1299 | Cu2O + 0.5 O2 -> 2 CuO (in air) |  | experimental | [1] Hallstedt 1994; _cites Gadalla 1963_ | Table 2, p. 6, row 61 |  |
@@ -286,8 +286,8 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0 coefficient of T_ | 173.54 unknown | 896 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 7, p. 12, row 15 |  |
 | Gibbs energy; _printed: ΔG0 (constant term A)_ | -167360 J/mol | 973 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
 | Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.94 J/mol/K | 973 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -164810 J/mol | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1966_ | Table 7, p. 12, row 7 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 125.18 unknown | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1966_ | Table 7, p. 12, row 7 |  |
+| Gibbs energy; _printed: ΔG0 constant term_ | -164810 J/mol | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
+| Gibbs energy; _printed: ΔG0 coefficient of T_ | 125.18 unknown | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
 | Gibbs energy; _printed: ΔG0 (constant term A)_ | -100340 J/mol | 987 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 58Hil_ | Table 6, p. 11, row 4 |  |
 | Gibbs energy; _printed: ΔG0 coefficient of T_ | 96.42 unknown | 998.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
 | Gibbs energy; _printed: ΔG0 constant term_ | -135000 J/mol | 998.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
@@ -317,8 +317,8 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.22 J/mol/K | 1043 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Bugden 1970_ | Table 6, p. 11, row 18 |  |
 | Gibbs energy; _printed: ΔG0 constant term_ | -132410 J/mol | 1049.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
 | Gibbs energy; _printed: ΔG0 coefficient of T_ | 96.63 unknown | 1049.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.29 J/mol/K | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1966_ | Table 6, p. 11, row 6 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166400 J/mol | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1966_ | Table 6, p. 11, row 6 |  |
+| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.29 J/mol/K | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
+| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166400 J/mol | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
 | Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 93.99 J/mol/K | 1059.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
 | Gibbs energy; _printed: ΔG0 (constant term A)_ | -170220 J/mol | 1059.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
 | Gibbs energy; _printed: ΔG0 (constant term A)_ | -161830 J/mol | 1073 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Hammer 1984_ | Table 6, p. 11, row 24 |  |
@@ -385,8 +385,8 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0 coefficient of T_ | 98.84 unknown | 1243 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 7, p. 12, row 2 |  |
 | Gibbs energy; _printed: ΔG0 constant term_ | -118520 J/mol | 1248 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
 | Gibbs energy; _printed: ΔG0 coefficient of T_ | 84.72 unknown | 1248 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -165490 J/mol | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1977_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.87 J/mol/K | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1977_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
+| Gibbs energy; _printed: ΔG0 (constant term A)_ | -165490 J/mol | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
+| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.87 J/mol/K | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
 | Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 47.7 J/mol/K | 1270 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
 | Gibbs energy; _printed: ΔG0 (constant term A)_ | -134720 J/mol | 1270 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
 | Gibbs energy; _printed: ΔG0 constant term_ | -10950 J/mol | 1273 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 64Sch_ | Table 7, p. 12, row 8 |  |
@@ -481,11 +481,11 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −104580+17.95T\]_ | 17.95 J/mol/K | 1575.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Biswas 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.3.257) | Table 3, p. 9, row 27 |  |
 | Gibbs energy; _printed: ΔG0 \[printed: −78220+2.65T\]_ | -78220 J/mol | 1613 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
 | Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −78220+2.65T\]_ | 2.65 J/mol/K | 1613 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −70270−2.08T\]_ | -70270 J/mol | 1626.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1971_ | Table 3, p. 9, row 14 |  |
+| Gibbs energy; _printed: ΔG0 \[printed: −70270−2.08T\]_ | -70270 J/mol | 1626.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1967_ | Table 3, p. 9, row 14 |  |
 | Gibbs energy; _printed: ΔG0 \[printed: −41550−19.87T\]_ | -41550 J/mol | 1673 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
 | Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −41550−19.87T\]_ | -19.87 J/mol/K | 1673 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
-| Gibbs energy; _printed: ΔG0_ | -75160 J/mol | 1873 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1994_ | Table 3, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75160\]_ | -75160 J/mol | 1873 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1994_ | Table 3, p. 9, row 22 |  |
+| Gibbs energy; _printed: ΔG0_ | -75160 J/mol | 1873 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22 |  |
+| Gibbs energy; _printed: ΔG0 \[printed: −75160\]_ | -75160 J/mol | 1873 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22 |  |
 
 ## Sources
 
@@ -551,4 +551,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

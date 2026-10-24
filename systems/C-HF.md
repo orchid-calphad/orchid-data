@@ -112,12 +112,12 @@ Table: Crystal structure, C–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.31946 nm | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
-| Lattice a | 0.462225 nm (range 0.4606 to 0.46385) | 298.15 | HfC1−x | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 2, p. 2, row 4 |  |
-| Lattice a | 0.24612 nm | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
-| Lattice a | 0.361 nm | 298.15 | UNKNOWN; _alloy: Hf 1_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2 |  |
-| Lattice c | 0.5051 nm | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
-| Lattice c | 0.6709 nm | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
+| Lattice a | 3.1946 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
+| Lattice a | 4.62225 Å (range 4.606 to 4.6385) | 298.15 | HfC1−x | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 2, p. 2, row 4 |  |
+| Lattice a | 2.4612 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
+| Lattice a | 3.61 Å | 298.15 | UNKNOWN; _alloy: Hf 1_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2 |  |
+| Lattice c | 5.051 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
+| Lattice c | 6.709 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
 | lattice c a | 2.7258 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
 
 ## Sources
@@ -173,4 +173,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

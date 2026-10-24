@@ -83,7 +83,7 @@ Table: Enthalpies of formation, C–Ce–La–Pr system (19)
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -29.5 kJ/mol-atom ± 3.5 | 298.15 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -27.2 kJ/mol-atom | 298.15 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 2, p. 2, row 10 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -25.4 kJ/mol-atom ± 1.4 | 298.15 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -20.9 kJ/mol-atom ± 7 | 298.15 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
+| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -20.9 kJ/mol-atom ± 7 | 298.15 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Balducci 1969_ | Table 2, p. 2, row 9 |  |
 | La2C3 | [La2C3](https://data.orchid-project.org/compounds/La2C3.html) | -38.6 kJ/mol-atom | 298.15 | experimental | -15.983 (mp-aaaaabto) | -16.43 (oqmd-5052) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 1 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -50.3 kJ/mol-atom ± 5.3 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.7 kJ/mol-atom ± 8 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6 |  |
@@ -113,12 +113,12 @@ Table: Crystal structure, C–Ce–La–Pr system
 | Lattice a | 5.15 Å | 298.15 | (γ Ce); _alloy: Ce 1, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Pavlov 1967_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 4.26 Å | 298.15 | (γ La); _alloy: Ce 0, La 1, Pr 0_ | experimental | [1] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 3 |  |
 | Lattice a | 4.12 Å | 298.15 | (δ Ce); _alloy: Ce 1, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 8 |  |
-| Lattice a | 8.44 Å | 298.15 | Ce2C3; _alloy: Ce 0.4, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Atoji 1966_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 8.44 Å | 298.15 | Ce2C3; _alloy: Ce 0.4, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Atoji 1961_ | Table 1, p. 2, row 9 |  |
 | Lattice a | 8.81 Å | 298.15 | La2C3; _alloy: Ce 0, La 0.4, Pr 0_ | unspecified | [1] Peng 2011; _cites Wang 2005_ | Table 1, p. 2, row 4 |  |
 | Lattice a | 8.59 Å | 298.15 | Pr2C3; _alloy: Ce 0, La 0, Pr 0.4_ | experimental | [1] Peng 2011; _cites Atoji 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990132-9) | Table 1, p. 2, row 14 |  |
 | Lattice a | 3.88 Å | 298.15 | α CeC2; _alloy: Ce 0.333333, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Jones 1986_ [doi](https://doi.org/10.1016/0022-4596%2886%2990228-8) | Table 1, p. 2, row 10 |  |
 | Lattice a | 3.93 Å | 298.15 | α LaC2; _alloy: Ce 0, La 0.333333, Pr 0_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5 |  |
-| Lattice a | 3.85 Å | 298.15 | α PrC2; _alloy: Ce 0, La 0, Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1901_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 3.85 Å | 298.15 | α PrC2; _alloy: Ce 0, La 0, Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
 | Lattice c | 5.2 Å |  | β CeC2; _alloy: Ce 0.333333, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 1, p. 2, row 11 |  |
 | Lattice c | 4.98 Å |  | β LaC2; _alloy: Ce 0, La 0.333333, Pr 0_ | experimental | [1] Peng 2011; _cites Bowman 1968_ [doi](https://doi.org/10.1107/s0567740868002566) | Table 1, p. 2, row 6 |  |
 | Lattice c | 4.12 Å | 298.15 | (C); _alloy: Ce 0, La 0, Pr 0_ | unspecified | [1] Peng 2011; _cites Fayos 1999_ [doi](https://doi.org/10.1006/jssc.1999.8448) | Table 1, p. 2, row 17 |  |
@@ -126,7 +126,7 @@ Table: Crystal structure, C–Ce–La–Pr system
 | Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Ce 0, La 0, Pr 1_ | experimental | [1] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12 |  |
 | Lattice c | 6.48 Å | 298.15 | α CeC2; _alloy: Ce 0.333333, La 0, Pr 0_ | experimental | [1] Peng 2011; _cites Jones 1986_ [doi](https://doi.org/10.1016/0022-4596%2886%2990228-8) | Table 1, p. 2, row 10 |  |
 | Lattice c | 6.58 Å | 298.15 | α LaC2; _alloy: Ce 0, La 0.333333, Pr 0_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5 |  |
-| Lattice c | 6.42 Å | 298.15 | α PrC2; _alloy: Ce 0, La 0, Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1901_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 6.42 Å | 298.15 | α PrC2; _alloy: Ce 0, La 0, Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

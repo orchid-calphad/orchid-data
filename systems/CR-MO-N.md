@@ -30,11 +30,11 @@ Table: Enthalpies of formation, Cr–Mo–N system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 6 |  |
+| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6 |  |
 | CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8 |  |
 | MoN | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -24.5 kJ/mol-atom | 298.15 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Frisk 1991 | Table I, p. 6, row 9 |  |
 | ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
-| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 5 |  |
+| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5 |  |
 
 ## Other properties
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

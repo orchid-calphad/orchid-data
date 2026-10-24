@@ -24,7 +24,7 @@ Table: Enthalpy of formation of MoSi2 reported in the literature (24)
 | -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
 | -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
@@ -138,4 +138,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

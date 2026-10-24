@@ -438,40 +438,40 @@ Table: Crystal structure, Al–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40496 nm | 298.15 | Al; _Al: Al 1, Mo 0_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 1 |  |
-| Lattice a | 0.75815 nm | 298.15 | Al12Mo; _Al12Mo: Al 0.9223, Mo 0.0777_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 2 |  |
-| Lattice a | 0.75877 nm | 298.15 | Al12Mo; _alloy: Mo 0.076923_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 12 |  |
-| Lattice a | 0.4945 nm ± 1.000e-4 | 298.15 | Al3+xMo1-x; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 20 |  |
-| Lattice a | 1.6396 nm ± 1.000e-4 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
-| Lattice a | 0.5255 nm | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
-| Lattice a | 0.526 nm ± 2.000e-4 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
-| Lattice a | 0.489 nm | 298.15 | Al5Mo; _Al5Mo: Al 0.833, Mo 0.167_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 3 |  |
-| Lattice a | 0.4912 nm ± 2.000e-4 | 298.15 | Al5Mo(h); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 14 |  |
-| Lattice a | 0.4933 nm ± 1.000e-4 | 298.15 | Al5Mo(m); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 15 |  |
-| Lattice a | 0.4951 nm ± 1.000e-4 | 298.15 | Al5Mo(r); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 16 |  |
-| Lattice a | 0.512 nm | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
-| Lattice a | 0.9207 nm ± 3.000e-4 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
-| Lattice a | 0.9208 nm | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
-| Lattice a | 0.3089 nm | 298.15 | AlMo; _AlMo: Al 0.46, Mo 0.54_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 13 |  |
-| Lattice a | 0.3098 nm | 298.15 | AlMo; _AlMo: Al 0.52, Mo 0.48_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 12 |  |
-| Lattice a | 0.495 nm | 298.15 | AlMo3; _AlMo3: Al 0.75, Mo 0.25; Al3Mo: Al 0.75, Mo 0.25_ | experimental | [1] Ltd. 1997; _cites "Beta Wolfram Structure of Compounds Between Transition Elements and AI 1958_ | Table 5, p. 5, row 11 |  |
-| Lattice a | 0.3147 nm | 298.15 | Mo; _Mo: Al 0, Mo 1_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 9 |  |
-| Lattice b | 0.3594 nm ± 1.000e-4 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
-| Lattice b | 1.7768 nm | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
-| Lattice b | 1.7785 nm ± 3.000e-4 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
-| Lattice b | 1.3 nm | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
-| Lattice b | 0.3641 nm ± 1.000e-4 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
-| Lattice b | 0.36378 nm | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
-| Lattice c | 0.8386 nm ± 4.000e-4 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
-| Lattice c | 0.5255 nm | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
-| Lattice c | 0.5226 nm ± 1.000e-4 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
-| Lattice c | 0.88 nm | 298.15 | Al5Mo; _Al5Mo: Al 0.833, Mo 0.167_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 3 |  |
-| Lattice c | 0.886 nm ± 4.000e-4 | 298.15 | Al5Mo(h); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 14 |  |
-| Lattice c | 4.398 nm ± 0.009 | 298.15 | Al5Mo(m); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 15 |  |
-| Lattice c | 2.623 nm ± 0.001 | 298.15 | Al5Mo(r); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 16 |  |
-| Lattice c | 1.35 nm | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
-| Lattice c | 1.006 nm ± 0.005 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
-| Lattice c | 1.0065 nm | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Mo 0_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 1 |  |
+| Lattice a | 7.5815 Å | 298.15 | Al12Mo; _Al12Mo: Al 0.9223, Mo 0.0777_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 2 |  |
+| Lattice a | 7.5877 Å | 298.15 | Al12Mo; _alloy: Mo 0.076923_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 12 |  |
+| Lattice a | 4.945 Å ± 0.001 | 298.15 | Al3+xMo1-x; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 20 |  |
+| Lattice a | 16.396 Å ± 0.001 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
+| Lattice a | 5.255 Å | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
+| Lattice a | 5.26 Å ± 0.002 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
+| Lattice a | 4.89 Å | 298.15 | Al5Mo; _Al5Mo: Al 0.833, Mo 0.167_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 3 |  |
+| Lattice a | 4.912 Å ± 0.002 | 298.15 | Al5Mo(h); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 14 |  |
+| Lattice a | 4.933 Å ± 0.001 | 298.15 | Al5Mo(m); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 15 |  |
+| Lattice a | 4.951 Å ± 0.001 | 298.15 | Al5Mo(r); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 16 |  |
+| Lattice a | 5.12 Å | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
+| Lattice a | 9.207 Å ± 0.003 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
+| Lattice a | 9.208 Å | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
+| Lattice a | 3.089 Å | 298.15 | AlMo; _AlMo: Al 0.46, Mo 0.54_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 13 |  |
+| Lattice a | 3.098 Å | 298.15 | AlMo; _AlMo: Al 0.52, Mo 0.48_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 12 |  |
+| Lattice a | 4.95 Å | 298.15 | AlMo3; _AlMo3: Al 0.75, Mo 0.25; Al3Mo: Al 0.75, Mo 0.25_ | experimental | [1] Ltd. 1997; _cites "Beta Wolfram Structure of Compounds Between Transition Elements and AI 1958_ | Table 5, p. 5, row 11 |  |
+| Lattice a | 3.147 Å | 298.15 | Mo; _Mo: Al 0, Mo 1_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 9 |  |
+| Lattice b | 3.594 Å ± 0.001 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
+| Lattice b | 17.768 Å | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
+| Lattice b | 17.785 Å ± 0.003 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
+| Lattice b | 13 Å | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
+| Lattice b | 3.641 Å ± 0.001 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
+| Lattice b | 3.6378 Å | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
+| Lattice c | 8.386 Å ± 0.004 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
+| Lattice c | 5.255 Å | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
+| Lattice c | 5.226 Å ± 0.001 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
+| Lattice c | 8.8 Å | 298.15 | Al5Mo; _Al5Mo: Al 0.833, Mo 0.167_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 3 |  |
+| Lattice c | 8.86 Å ± 0.004 | 298.15 | Al5Mo(h); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 14 |  |
+| Lattice c | 43.98 Å ± 0.09 | 298.15 | Al5Mo(m); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 15 |  |
+| Lattice c | 26.23 Å ± 0.01 | 298.15 | Al5Mo(r); _alloy: Mo 0.166667_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 16 |  |
+| Lattice c | 13.5 Å | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
+| Lattice c | 10.06 Å ± 0.05 | 298.15 | Al8Mo3; _alloy: Mo 0.272727_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 22 |  |
+| Lattice c | 10.065 Å | 298.15 | Al8Mo3; _Al8Mo3: Al 0.687, Mo 0.313_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 5 |  |
 | lattice beta | 95 ° | 298.15 | Al7Mo(a); _alloy: Mo 0.125_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 13 |  |
 | lattice unlabelled value | 101.88 not_printed ± 0.07 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
 | lattice unlabelled value | 100.15 not_printed ± 0.05 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |
@@ -545,4 +545,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

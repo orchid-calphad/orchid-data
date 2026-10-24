@@ -35,7 +35,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se–Te syste
 | 891 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 3 |  |
 | 891 | Liquid#1 + Bi2Se3 -> ? |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 25 |  |
 | 882 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 16 |  |
-| 880 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Abrikosov 2016_ | Table 2, p. 3, row 14 |  |
+| 880 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 14 |  |
 | 879 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 21 |  |
 | 878 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 2 |  |
 | 878 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 8 |  |
@@ -43,7 +43,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se–Te syste
 | 813 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 32 |  |
 | 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 17 |  |
 | 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 20 |  |
-| 741 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 2016_ | Table 2, p. 3, row 13 |  |
+| 741 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 13 |  |
 | 693 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 31 |  |
 | 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 33 |  |
 | 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 35 |  |
@@ -51,7 +51,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se–Te syste
 | 616 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 39 |  |
 | 585 | Bi2Te -> Liquid + BiTe |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 38 |  |
 | 585 | Liquid + Bi2Te -> Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 30 |  |
-| 543 | Liquid#1 -> (Bi) + BiSe2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 2016_ | Table 2, p. 3, row 12 |  |
+| 543 | Liquid#1 -> (Bi) + BiSe2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 12 |  |
 | 543 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 19 |  |
 | 542 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 18 |  |
 | 542 | Liquid#1 -> (Bi) + BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 1 |  |
@@ -204,4 +204,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

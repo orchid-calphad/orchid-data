@@ -86,47 +86,47 @@ Table: Crystal structure, Ca–In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.299 nm |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.378 nm |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
-| Lattice a | 5.518 nm |  | (αCa); _alloy: In 0, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 3 |  |
-| Lattice a | 12.03 nm |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.77 nm |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
-| Lattice a | 9.08 nm |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
-| Lattice a | 9.572 nm |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice a | 3.866 nm |  | CaIn; _alloy: In 0.5, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 9 |  |
-| Lattice a | 5.496 nm |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice a | 4.659 nm |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice a | 3.248 nm | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.306 nm | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
-| Lattice a | 5.582 nm | 298.15 | (αCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1966_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.48 nm | 298.15 | (βCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 1 |  |
-| Lattice a | 11.94 nm | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
-| Lattice a | 4.67 nm | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
-| Lattice a | 9.031 nm | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
-| Lattice a | 9.606 nm | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice a | 3.856 nm | 298.15 | CaIn; _alloy: In 0.5, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.895 nm | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| Lattice a | 4.746 nm | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| Lattice b | 9.708 nm |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice b | 4.309 nm |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice b | 9.717 nm | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice b | 4.177 nm | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| Lattice c | 5.022 nm |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
-| Lattice c | 1.145 nm |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
-| Lattice c | 17.38 nm |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
-| Lattice c | 16.74 nm |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
-| Lattice c | 6.956 nm |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
-| Lattice c | 9.783 nm |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice c | 7.72 nm |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.84 nm |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice c | 4.948 nm | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 1.125 nm | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
-| Lattice c | 17.4 nm | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
-| Lattice c | 16.28 nm | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
-| Lattice c | 7.025 nm | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
-| Lattice c | 9.782 nm | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice c | 7.75 nm | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| Lattice c | 8.991 nm | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| Lattice a | 32.99 Å |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
+| Lattice a | 43.78 Å |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
+| Lattice a | 55.18 Å |  | (αCa); _alloy: In 0, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 3 |  |
+| Lattice a | 120.3 Å |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
+| Lattice a | 47.7 Å |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
+| Lattice a | 90.8 Å |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
+| Lattice a | 95.72 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice a | 38.66 Å |  | CaIn; _alloy: In 0.5, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 9 |  |
+| Lattice a | 54.96 Å |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
+| Lattice a | 46.59 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice a | 32.48 Å | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 43.06 Å | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
+| Lattice a | 55.82 Å | 298.15 | (αCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1966_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 44.8 Å | 298.15 | (βCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 1 |  |
+| Lattice a | 119.4 Å | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
+| Lattice a | 46.7 Å | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
+| Lattice a | 90.31 Å | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
+| Lattice a | 96.06 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice a | 38.56 Å | 298.15 | CaIn; _alloy: In 0.5, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8 |  |
+| Lattice a | 48.95 Å | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
+| Lattice a | 47.46 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| Lattice b | 97.08 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice b | 43.09 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice b | 97.17 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice b | 41.77 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| Lattice c | 50.22 Å |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
+| Lattice c | 11.45 Å |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
+| Lattice c | 173.8 Å |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
+| Lattice c | 167.4 Å |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
+| Lattice c | 69.56 Å |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
+| Lattice c | 97.83 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice c | 77.2 Å |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
+| Lattice c | 88.4 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice c | 49.48 Å | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 11.25 Å | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
+| Lattice c | 174 Å | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
+| Lattice c | 162.8 Å | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
+| Lattice c | 70.25 Å | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
+| Lattice c | 97.82 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice c | 77.5 Å | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
+| Lattice c | 89.91 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
 | lattice alpha | 69.72 deg |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
 | lattice alpha | 69.65 deg | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
 | lattice beta | 78.93 deg |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
@@ -177,4 +177,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -204,38 +204,38 @@ Table: Crystal structure, Al–Ba system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4049 nm | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.4991 nm | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.6014 nm | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.454 nm | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.6066 nm | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.6105 nm | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.4049 nm | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.5013 nm | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.6099 nm | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.4539 nm | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6066 nm | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.6092 nm | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
-| Lattice b | 0.4049 nm | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.4991 nm | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
-| Lattice b | 0.6014 nm | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
-| Lattice b | 0.454 nm | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
-| Lattice b | 0.6066 nm | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
-| Lattice b | 0.6105 nm | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
-| Lattice b | 0.4049 nm | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice b | 0.5013 nm | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
-| Lattice b | 0.6099 nm | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.4539 nm | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 0.6066 nm | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
-| Lattice b | 0.6092 nm | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
-| Lattice c | 1.7223 nm | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
-| Lattice c | 1.1186 nm | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
-| Lattice c | 1.4611 nm | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
-| Lattice c | 1.7807 nm | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
-| Lattice c | 1.7269 nm | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
-| Lattice c | 1.116 nm | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 1.4611 nm | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
-| Lattice c | 1.7782 nm | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
+| Lattice a | 4.991 Å | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
+| Lattice a | 6.014 Å | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
+| Lattice a | 4.54 Å | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.066 Å | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
+| Lattice a | 6.105 Å | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
+| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
+| Lattice a | 5.013 Å | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
+| Lattice a | 6.099 Å | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.539 Å | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 6.066 Å | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.092 Å | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
+| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
+| Lattice b | 4.991 Å | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
+| Lattice b | 6.014 Å | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
+| Lattice b | 4.54 Å | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
+| Lattice b | 6.066 Å | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
+| Lattice b | 6.105 Å | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
+| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
+| Lattice b | 5.013 Å | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
+| Lattice b | 6.099 Å | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
+| Lattice b | 4.539 Å | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
+| Lattice b | 6.066 Å | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
+| Lattice b | 6.092 Å | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
+| Lattice c | 17.223 Å | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
+| Lattice c | 11.186 Å | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
+| Lattice c | 14.611 Å | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
+| Lattice c | 17.807 Å | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
+| Lattice c | 17.269 Å | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
+| Lattice c | 11.16 Å | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 14.611 Å | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
+| Lattice c | 17.782 Å | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
 
 ## Sources
 
@@ -302,4 +302,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

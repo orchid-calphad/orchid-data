@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cr2Ta reported in the literature (5)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.5 kJ/mol-atom ± 0.5 | Cr2Ta (LT) | 1693 | experimental |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| -8.5 kJ/mol (basis unstated) | Cr2Ta C14 | 0 | experimental | Experiment | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [2] Pavlů 2009; _cites Feschotte 1941_ | Table 4, p. 4, row 5 |  |
+| -8.5 kJ/mol (basis unstated) | Cr2Ta C14 | 0 | experimental | Experiment | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
 | -8.93 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
 | -8.596 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
 | -5 kJ/mol-atom | Cr2Ta (LT) | 1693 | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

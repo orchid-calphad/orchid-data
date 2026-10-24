@@ -147,7 +147,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (13
 | 1778 | liquid ↔ CoTi | liquid: Ti 0.5; CoTi: Ti 0.5 | unspecified | [2] Yang 2022; _cites Stein 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101681) | Table 5, p. 8, row 18 |  |
 | 1777 | liquid ↔ CoTi | liquid: Ti 0.496; CoTi: Ti 0.496 | model | [2] Yang 2022 | Table 5, p. 8, row 19 |  |
 | 1776 | liquid ↔ CoTi | liquid: Co 0.5, Ti 0.5; CoTi: Co 0.5, Ti 0.5 | unspecified | [2] Yang 2022; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | Table 5, p. 8, row 17 |  |
-| 1774.15 | Liquid -> B2 | L: Co 0.504; B2: Co 0.504 | experimental | [1] Wu 2020; _cites Davydov 2008_ | Table 8, p. 9, row 12 |  |
+| 1774.15 | Liquid -> B2 | L: Co 0.504; B2: Co 0.504 | experimental | [1] Wu 2020; _cites Davydov 2001_ | Table 8, p. 9, row 12 |  |
 | 1768.15 | Liquid -> B2 | L: Co 0.503; B2: Co 0.503 | unspecified | [1] Wu 2020 | Table 8, p. 9, row 11 |  |
 | 1598 | liquid ↔ CoTi | liquid: Ti 0.5; CoTi: Ti 0.5 | experimental | [2] Yang 2022; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02873414) | Table 5, p. 8, row 16 |  |
 | 1524 | L + CoTi ⇄ C15 | L: Ti 0.302; CoTi: Ti 0.435; C15: Ti 0.341 | model | [3] Turchanin 2024; _cites Yang 2022_ [doi](https://doi.org/10.1007/s42243-021-00736-6) | Table 3, p. 9, row 42 |  |
@@ -282,7 +282,7 @@ Table: Enthalpies of formation, Co–Ti system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 |  | -44.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2020; _cites Gomozov 1867_ | Table 7, p. 9, row 8 |  |
+| B2 |  | -44.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2020; _cites Gomozov 1986_ | Table 7, p. 9, row 8 |  |
 | B2 |  | -44.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2020; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 7, p. 9, row 6 |  |
 | B2 |  | -43.1256 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 5 |  |
 | B2 |  | -42.2 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table I, p. 2, row 7 |  |
@@ -456,22 +456,22 @@ Table: Crystal structure, Co–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 298.8 pm | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 299.6 pm | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 1130 pm | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 671.6 pm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 473.2 pm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 361.8 pm | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 360.3 pm | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 354.4 pm | 298.15 | αCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 295.6 pm | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 331.3 pm | 298.15 | βTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 250.7 pm | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 250.5 pm | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 1542.7 pm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 469.3 pm | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 408.9 pm | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 407 pm | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 2.988 Å | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 2.996 Å | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 11.3 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.716 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.732 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 3.618 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.603 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.544 Å | 298.15 | αCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 2.956 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 3.313 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 2.507 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 2.505 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice c | 15.427 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 4.693 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.089 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice c | 4.07 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
 
 ## Sources
 
@@ -541,4 +541,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

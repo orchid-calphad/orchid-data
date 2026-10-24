@@ -28,27 +28,27 @@ Table: Crystal structure, Al–Nb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40497 nm | 298.15 | Al; _alloy: Nb 0, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.8403 nm | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.3844 nm | 298.15 | Al3Nb; _alloy: Nb 0.25, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 1.016 nm | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 0.33067 nm | 298.15 | Nb; _alloy: Nb 1, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.9945 nm | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.5186 nm | 298.15 | Nb3Al; _alloy: Nb 0.75, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 1.0224 nm | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.481 nm | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.54309 nm | 298.15 | Si; _alloy: Nb 0, Si 1_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.6571 nm | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 1.004 nm | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 0.4901 nm | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.8794 nm | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 0.8605 nm | 298.15 | Al3Nb; _alloy: Nb 0.25, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 0.508 nm | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.5171 nm | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.5189 nm | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 0.661 nm | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 1.1889 nm | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.5081 nm | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.0497 Å | 298.15 | Al; _alloy: Nb 0, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 8.403 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 3.844 Å | 298.15 | Al3Nb; _alloy: Nb 0.25, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 10.16 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 3.3067 Å | 298.15 | Nb; _alloy: Nb 1, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 9.945 Å | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.186 Å | 298.15 | Nb3Al; _alloy: Nb 0.75, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 10.224 Å | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.81 Å | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 5.4309 Å | 298.15 | Si; _alloy: Nb 0, Si 1_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 6.571 Å | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 10.04 Å | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice b | 4.901 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.794 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.605 Å | 298.15 | Al3Nb; _alloy: Nb 0.25, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.08 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 5.171 Å | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667, Si 0_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 5.189 Å | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 6.61 Å | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 11.889 Å | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.081 Å | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
 | lattice gamma | 120 ° | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
 
 ## Sources
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

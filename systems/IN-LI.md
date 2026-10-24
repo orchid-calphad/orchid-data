@@ -65,7 +65,7 @@ Table: Invariant reactions reported in the literature for the In–Li system (20
 | 907 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 4 |  |
 | 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 3, p. 6, row 8 |  |
 | 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Schneider 1956_ [doi](https://doi.org/10.1002/zaac.19562860302) | Table 3, p. 6, row 7 |  |
-| 902 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | Table 3, p. 6, row 6 |  |
+| 902 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | Table 3, p. 6, row 6 |  |
 | 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 9 |  |
 | 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | Table 3, p. 6, row 5 |  |
 | 733 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 12 |  |
@@ -91,11 +91,11 @@ Table: Phase transition, In–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
+| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
 | Phase transition | 730 K | 730 | other | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
 | Phase transition | 898 K | 898 | congruent transformation | model | [1] Gierlotka 2022 | p. 6 | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
 | Phase transition | 898 K | 898 | congruent transformation | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1 | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
-| Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | p. 1 | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
+| Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 1 | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
 
 ### Phase equilibrium (1)
 
@@ -168,4 +168,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

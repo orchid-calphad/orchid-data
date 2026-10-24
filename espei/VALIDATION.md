@@ -696,7 +696,7 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 
 ## Uncertainty budget and method floors (2026-10-24)
 
-Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 sha256 f50cf3b8a8da` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
+Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 sha256 7333bc741948` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
 
 | value type | method class | pairs | states | basis | robust sigma | 95 % CI | floor | unit |
 |---|---|---:|---:|---|---:|---|---:|---|
@@ -708,9 +708,9 @@ Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + comp
 | HM_FORM | solution_reaction_calorimetry | 74 | 36 | calibrated | 3.428 | 1.932-5.902 | 3.5 | kJ/mol-atom |
 | HM_FORM | unknown | 312 | 106 | calibrated | 4.035 | 2.568-4.414 | 4.1 | kJ/mol-atom |
 | HM_FORM | model_calculated (vs experiment) | 2186 | 378 | calibrated | 3.271 | 2.858-4.16 | 3.3 | kJ/mol-atom |
-| LATTICE_LENGTH | unknown | 601 | 192 | calibrated | 0.002209 | 0.001908-0.002664 | 0.0023 | relative (fraction of the value) |
+| LATTICE_LENGTH | unknown | 603 | 194 | calibrated | 0.00222 | 0.00189-0.002664 | 0.0023 | relative (fraction of the value) |
 | LATTICE_LENGTH | xrd | 24 | 22 | calibrated | 0.001082 | 0.000794-0.001837 | 0.0011 | relative (fraction of the value) |
-| LATTICE_LENGTH | model_calculated (vs experiment) | 223 | 133 | calibrated | 0.01964 | 0.01295-0.02611 | 0.0197 | relative (fraction of the value) |
+| LATTICE_LENGTH | model_calculated (vs experiment) | 223 | 133 | calibrated | 0.01114 | 0.007225-0.01295 | 0.0112 | relative (fraction of the value) |
 | SM_FORM | model_calculated (vs experiment) | 116 | 51 | calibrated | 3.608 | 2.762-4.837 | 3.7 | J/K/mol-atom |
 | S_ABS | unknown | 91 | 21 | calibrated | 0.4493 | 0.2621-0.9645 | 0.5 | J/K/mol |
 | S_MIX_PARTIAL | emf | 30 | 10 | calibrated | 3.879 | 2.097-14.94 | 3.9 | J/K/mol |

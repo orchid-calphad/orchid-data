@@ -767,7 +767,7 @@ Table: Phase transition, Al–Zr system
 | Phase transition | 882 K | 882 | UNKNOWN; _alloy: Al 0.2771, Zr 0.7229_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 22 |  |
 | Phase transition | 882 K | 882 | UNKNOWN; _alloy: Al 0.331, Zr 0.669_ | experimental | [8] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 23 |  |
 | Phase transition | 885 K | 885 | UNKNOWN; _alloy: Al 0.378, Zr 0.622_ | experimental | [8] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 24 |  |
-| Phase transition | 923 K | 923 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [8] Williams 2025; _cites Xie 2020_ | Table A.3, p. 11, row 25 |  |
+| Phase transition | 923 K | 923 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [8] Williams 2025; _cites Xie 2021_ | Table A.3, p. 11, row 25 |  |
 | Phase transition | 932.2 K | 932.2 |  | experimental | [6] Khvan 2018 | p. 10 | “A DTA analysis of as-cast samples identified a temperature arrest at 932.2 K (659 C).” |
 | Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [8] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 26 |  |
 | Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [8] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 27 |  |
@@ -776,9 +776,9 @@ Table: Phase transition, Al–Zr system
 | Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 29 |  |
 | Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 28 |  |
 | Phase transition | 938 K | 938 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [8] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 30 |  |
-| Phase transition | 941 K | 941 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [8] Williams 2025; _cites Basak 2008_ | Table A.3, p. 11, row 32 |  |
+| Phase transition | 941 K | 941 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [8] Williams 2025; _cites Basak 2009_ | Table A.3, p. 11, row 32 |  |
 | Phase transition | 941 K | 941 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [8] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 31 |  |
-| Phase transition | 943 K | 943 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [8] Williams 2025; _cites Xie 2020_ | Table A.3, p. 11, row 33 |  |
+| Phase transition | 943 K | 943 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [8] Williams 2025; _cites Xie 2021_ | Table A.3, p. 11, row 33 |  |
 | Phase transition | 944 K | 944 | UNKNOWN; _alloy: Al 0.9494, Zr 0.0506_ | experimental | [8] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 34 |  |
 | Phase transition | 946 K | 946 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [8] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 35 |  |
 | Phase transition | 947 K | 947 | UNKNOWN; _alloy: Al 0.9373, Zr 0.0627_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 36 |  |
@@ -799,7 +799,7 @@ Table: Phase transition, Al–Zr system
 | Phase transition | 959 K | 959 | UNKNOWN; _alloy: Al 0.7695, Zr 0.2305_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 51 |  |
 | Phase transition | 960 K | 960 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [8] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 52 |  |
 | Phase transition | 961 K | 961 | UNKNOWN; _alloy: Al 0.5455, Zr 0.4545_ | experimental | [8] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 53 |  |
-| Phase transition | 967 K | 967 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [8] Williams 2025; _cites Basak 2008_ | Table A.3, p. 11, row 55 |  |
+| Phase transition | 967 K | 967 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [8] Williams 2025; _cites Basak 2009_ | Table A.3, p. 11, row 55 |  |
 | Phase transition | 967 K | 967 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [8] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 54 |  |
 | Phase transition | 968 K | 968 | UNKNOWN; _alloy: Al 0.8793, Zr 0.1207_ | experimental | [8] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 56 |  |
 | Phase transition | 969 K | 969 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [8] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 58 |  |
@@ -944,4 +944,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

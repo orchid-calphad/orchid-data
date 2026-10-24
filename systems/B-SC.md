@@ -72,26 +72,26 @@ Table: Crystal structure, B–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.0962 nm | 298.15 | (βB)(a); _alloy: Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 9 |  |
-| Lattice a | 1.0966 nm | 298.15 | (βB)(a); _(βB)(a): B 0.965, Sc 0.035_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 8 |  |
-| Lattice a | 1.09251 nm | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 10 |  |
-| Lattice a | 1.09253 nm | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 11 |  |
-| Lattice a | 0.522 nm | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 6 |  |
-| Lattice a | 0.52347 nm | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 7 |  |
-| Lattice a | 0.3148 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 3 |  |
-| Lattice a | 0.3146 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 4 |  |
-| Lattice a | 0.33088 nm | 298.15 | αSc; _αSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 1 |  |
-| Lattice a | 0.4541 nm | 298.15 | βSc; _βSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 2 |  |
-| Lattice c | 2.4075 nm | 298.15 | (βB)(a); _alloy: Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 9 |  |
-| Lattice c | 2.4088 nm | 298.15 | (βB)(a); _(βB)(a): B 0.965, Sc 0.035_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 8 |  |
-| Lattice c | 2.38143 nm | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 10 |  |
-| Lattice c | 2.38103 nm | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 11 |  |
-| Lattice c | 0.735 nm | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 6 |  |
-| Lattice c | 0.73583 nm | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 7 |  |
-| Lattice c | 0.3516 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 3 |  |
-| Lattice c | 0.3517 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 4 |  |
-| Lattice c | 0.3518 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 5 |  |
-| Lattice c | 0.5268 nm | 298.15 | αSc; _αSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 1 |  |
+| Lattice a | 10.962 Å | 298.15 | (βB)(a); _alloy: Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 9 |  |
+| Lattice a | 10.966 Å | 298.15 | (βB)(a); _(βB)(a): B 0.965, Sc 0.035_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 8 |  |
+| Lattice a | 10.9251 Å | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 10 |  |
+| Lattice a | 10.9253 Å | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 11 |  |
+| Lattice a | 5.22 Å | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 6 |  |
+| Lattice a | 5.2347 Å | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 7 |  |
+| Lattice a | 3.148 Å | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 3 |  |
+| Lattice a | 3.146 Å | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 4 |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 1 |  |
+| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 2 |  |
+| Lattice c | 24.075 Å | 298.15 | (βB)(a); _alloy: Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 9 |  |
+| Lattice c | 24.088 Å | 298.15 | (βB)(a); _(βB)(a): B 0.965, Sc 0.035_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 8 |  |
+| Lattice c | 23.8143 Å | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 10 |  |
+| Lattice c | 23.8103 Å | 298.15 | (βB)(a); _(βB)(a): B 1, Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 11 |  |
+| Lattice c | 7.35 Å | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 6 |  |
+| Lattice c | 7.3583 Å | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 7 |  |
+| Lattice c | 3.516 Å | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 3 |  |
+| Lattice c | 3.517 Å | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 4 |  |
+| Lattice c | 3.518 Å | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 5 |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 1 |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

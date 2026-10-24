@@ -170,7 +170,7 @@ Table: Enthalpies of formation, Mo–Si system (80)
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.3 kJ/mol-atom ± 1.5 | 298.15 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Tomaszkiewicz 1996_ | Table 8, p. 10, row 24 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -30.5 kJ/mol-atom ± 1.5 | 298.15 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 15 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.7102 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.7102 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.6 kJ/mol-atom | 298.15 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Machlin 1981_ | Table 8, p. 10, row 35 |  |
@@ -215,14 +215,14 @@ Table: Enthalpies of formation, Mo–Si system (80)
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.813 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.4 kJ/mol-atom ± 0.1 | 298.15 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0084 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 15 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0084 kJ/mol-atom | 298.15 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -47.4 kJ/mol-atom ± 1 | 298.15 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Maslov 1978_ | Table 8, p. 10, row 39 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.7 kJ/mol-atom ± 1.5 | 298.15 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.7 kJ/mol-atom ± 1.5 | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.6667 kJ/mol-atom | 298.15 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
@@ -321,7 +321,7 @@ Table: Formation, Mo–Si system
 | Entropy of formation | 0.28 J/mol-atom/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | Entropy of formation | 0.4184 J/mol-atom/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Entropy of formation; _printed: entropy of formation_ | -1.3007 J/mol (basis unstated)/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [3] Czerny 2024; _cites Geng 2010_ | Table 9, p. 10, row 3 |  |
-| Entropy of formation | 0.6177 J/mol-atom/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| Entropy of formation | 0.6177 J/mol-atom/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Entropy of formation | 0.42 J/mol-atom/K ± 1.3 | 298.15 | Mo3Si; _alloy: Si 0.25_ | experimental | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Entropy of formation; _printed: ΔSf_ | 0.13 per mol-atom ± 0.293 | 298.15 | Mo3Si; _alloy: Mo 0.75, Si 0.25_ | experimental | [2] Liu 2000; _cites Hultgren 1973_ | Table 3, p. 6, row 1 |  |
 | Entropy of formation | 0.296 J/mol-atom/K | 298.15 | Mo3Si; _alloy: Si 0.25_ | model | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
@@ -348,7 +348,7 @@ Table: Formation, Mo–Si system
 | Entropy of formation | 0.9894 J/mol-atom/K | 298.15 | Mo5Si3; _alloy: Si 0.375_ | model | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Entropy of formation; _printed: ΔSf_ | 1 per mol-atom ± 1.3 | 298.15 | Mo5Si3; _alloy: Mo 0.625, Si 0.375_ | experimental | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 3, p. 6, row 11 |  |
 | Entropy of formation; _printed: entropy of formation_ | -3.545 J/mol (basis unstated)/K | 298.15 | Mo5Si3; _alloy: Si 0.375_ | model | [3] Czerny 2024; _cites Geng 2010_ | Table 9, p. 10, row 3 |  |
-| Entropy of formation | 3.8197 J/mol-atom/K | 298.15 | Mo5Si3; _alloy: Si 0.375_ | model | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| Entropy of formation | 3.8197 J/mol-atom/K | 298.15 | Mo5Si3; _alloy: Si 0.375_ | model | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Entropy of formation | 1 J/mol-atom/K ± 1.3 | 298.15 | Mo5Si3; _alloy: Si 0.375_ | experimental | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Entropy of formation | 0.54 J/mol-atom/K | 298.15 | Mo5Si3; _alloy: Si 0.375_ | model | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | Entropy of formation; _printed: ΔSf_ | 1.349 per mol-atom | 298.15 | Mo5Si3; _alloy: Mo 0.625, Si 0.375_ | model | [2] Liu 2000 | Table 3, p. 6, row 18 |  |
@@ -377,7 +377,7 @@ Table: Formation, Mo–Si system
 | Entropy of formation; _printed: ΔSf_ | -0.406 per mol-atom | 298.15 | MoSi2; _alloy: Mo 0.333, Si 0.667_ | experimental | [2] Liu 2000; _cites Barin 1989_ | Table 3, p. 6, row 22 |  |
 | Entropy of formation; _printed: entropy of formation_ | -1.84786 J/mol (basis unstated)/K | 298.15 | MoSi2; _alloy: Si 0.666667_ | model | [3] Czerny 2024; _cites Geng 2010_ | Table 9, p. 10, row 3 |  |
 | Entropy of formation; _printed: ΔSf_ | -2.625 per mol-atom ± 4.222 | 298.15 | MoSi2; _alloy: Mo 0.333, Si 0.667_ | experimental | [2] Liu 2000; _cites Hultgren 1973_ | Table 3, p. 6, row 19 |  |
-| Entropy of formation | 2.8423 J/mol-atom/K | 298.15 | MoSi2; _alloy: Si 0.666667_ | model | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| Entropy of formation | 2.8423 J/mol-atom/K | 298.15 | MoSi2; _alloy: Si 0.666667_ | model | [1] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Entropy of formation | -0.42 J/mol-atom/K ± 1.3 | 298.15 | MoSi2; _alloy: Si 0.666667_ | experimental | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Entropy of formation | -0.07 J/mol-atom/K | 298.15 | MoSi2; _alloy: Si 0.666667_ | model | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | Entropy of formation; _printed: entropy of formation_ | 0.148 J/mol (basis unstated)/K | 298.15 | MoSi2; _alloy: Si 0.666667_ | model | [3] Czerny 2024 | Table 9, p. 10, row 1 |  |
@@ -450,4 +450,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

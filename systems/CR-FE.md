@@ -91,7 +91,7 @@ Table: Enthalpies of formation, Cr–Fe system (15)
 | σ |  | 17.3 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 5, row 8 |  |
 | σ |  | 18.4 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
 | σ |  | 19.74 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 6 |  |
-| σ |  | 25.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018; _cites Pavlu 2009_ | Table 2, p. 5, row 9 |  |
+| σ |  | 25.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018; _cites Pavlu 2010_ | Table 2, p. 5, row 9 |  |
 
 ## Other properties
 
@@ -115,15 +115,15 @@ Table: Phase transition, Cr–Fe system
 | Phase transition | 1054 K | 1054 | magnetic: 2; _alloy: Cr 0.03365, Fe 0.96635_ | experimental | [3] Xiong 2011 | Table 1, p. 2, row 2 |  |
 | Phase transition | 1093 K | 1093 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | experimental | [1] Jacob 2018; _cites Cook 1943_ | Table 4, p. 10, row 7 |  |
 | Phase transition | 1096 K | 1096 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.54; σ: Fe 0.54_ | model | [1] Jacob 2018 | Table 4, p. 10, row 6 |  |
-| Phase transition | 1103 K | 1103 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 8 |  |
-| Phase transition | 1119 K | 1119 | congruent transformation: C: FCC -> BCC; _FCC: Fe 0.93; BCC: Fe 0.93_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 5 |  |
+| Phase transition | 1103 K | 1103 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | model | [1] Jacob 2018; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 8 |  |
+| Phase transition | 1119 K | 1119 | congruent transformation: C: FCC -> BCC; _FCC: Fe 0.93; BCC: Fe 0.93_ | model | [1] Jacob 2018; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 5 |  |
 | Phase transition | 1125 K | 1125 | other | experimental | [2] Hertzman 1982 | p. 3 | “The chosen line yields a calculated gamma loop in close agreement with the experimental one, except for the temperature of the minimum which is calculated to 1145 K, and experimentally determined to about 1125 K.” |
 | Phase transition | 1126 K | 1126 | bcc + fcc | model | [5] Andersson 1987 | p. 5 | “A reasonable compromise was obtained with a subregular parameter of 1410 J/mol resulting in an almost horizontal slope at high temperature and a minimum temperature of about 1126 K.” |
 | Phase transition | 1126 K | 1126 | congruent transformation: C: FCC -> BCC; _FCC: Fe 0.927; BCC: Fe 0.927_ | model | [1] Jacob 2018 | Table 4, p. 10, row 4 |  |
 | Phase transition | 1145 K | 1145 | other | model | [2] Hertzman 1982 | p. 3 | “The chosen line yields a calculated gamma loop in close agreement with the experimental one, except for the temperature of the minimum which is calculated to 1145 K, and experimentally determined to about 1125 K.” |
 | Phase transition | 1780 K | 1780 |  | experimental | [2] Hertzman 1982; _cites ref. 15_ | p. 6 | “The location of this 15 to be at 23 at% Cr and 1780 K.” |
 | Phase transition | 1782 K | 1782 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018 | Table 4, p. 10, row 1 |  |
-| Phase transition | 1783 K | 1783 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 3 |  |
+| Phase transition | 1783 K | 1783 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 3 |  |
 | Phase transition | 1783 K | 1783 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | experimental | [1] Jacob 2018; _cites Adcock 1931_ | Table 4, p. 10, row 2 |  |
 | Phase transition | 1837.15 K | 1837.15 | other | model | [6] Yang 2013 | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
 | Phase transition | 1843.15 K | 1843.15 | other | model | [6] Yang 2013; _cites Raghavan 1992_ | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
@@ -232,4 +232,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

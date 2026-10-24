@@ -477,7 +477,7 @@ Table: Phase transition, Al–Cr system
 | Phase transition | 1332.8 K | 1332.8 | U10 | model | [1] Witusiewicz 2015 | p. 9 | “The remaining 1=4 of the solidus surface in the Al-rich region contains 13 tie-triangles corresponding to four-phase invariant reactions with the liquid phase, among which 2 are practically degenerated at the given scale into a line (U11 at T = 1306 K and U15 at T = 1153 K) and 1 into a point (U10 at T = 1332.8 K).” |
 | Phase transition | 1333.15 K | 1333.15 | other: g_H = Liquid + g_L | model | [2] Cui 2017 | p. 14 | “The calculated metatectic g_H 1⁄4 Liquid þ g_L reaction is at 1060 C.” |
 | Phase transition | 1542 K | 1542 | p8 | model | [1] Witusiewicz 2015 | p. 9 | “In the projection there are two folds marked by thick solid lines, corresponding to the quasi-binary invariant reactions with the liquid phase p4 at 1685 and p8 at 1542 K.” |
-| Phase transition | 1624 K | 1624 | U3 | model | [1] Witusiewicz 2015; _cites Chen 1946_ | p. 9 | “It should be mentioned that the thermodynamic description of the Al-Cr-Ti system by Chen et al. \[19\] gives the U3 reaction temperature equal to 1624 K, i.e. comparable with the value of the present description.” |
+| Phase transition | 1624 K | 1624 | U3 | model | [1] Witusiewicz 2015; _cites Chen 2011_ | p. 9 | “It should be mentioned that the thermodynamic description of the Al-Cr-Ti system by Chen et al. \[19\] gives the U3 reaction temperature equal to 1624 K, i.e. comparable with the value of the present description.” |
 | Phase transition | 1634 K | 1634 | L + a ¡ A2 + c | model | [1] Witusiewicz 2015 | p. 12 | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
 | Phase transition | 1682 K | 1682 | L + a ¡ A2 + c | experimental | [1] Witusiewicz 2015; _cites Kriegel 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.09.067) | p. 12 | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
 
@@ -509,34 +509,34 @@ Table: Crystal structure, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40496 nm | 298.15 | Al; _Al: Al 1, Cr 0_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1 |  |
-| Lattice a | 1.288 nm | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
-| Lattice a | 1.288 nm | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
-| Lattice a | 0.8716 nm | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
-| Lattice a | 1.998 nm | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
-| Lattice a | 2.5196 nm | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
-| Lattice a | 2.5196 nm | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
-| Lattice a | 0.30045 nm | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
-| Lattice a | 0.299984 nm | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
-| Lattice a | 0.28848 nm | 298.15 | Cr; _Cr: Al 0, Cr 1_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9 |  |
-| Lattice a | 0.78051 nm | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6 |  |
-| Lattice a | 0.9123 nm | 298.15 | αAl9Cr4; _αAl9Cr4: Al 0.665, Cr 0.335_ | unspecified | [3] Murray 1998; _cites ref. 63Kos_ | Table 3, p. 5, row 5 |  |
-| Lattice a | 0.9065 nm | 298.15 | γ\_H | unspecified | [2] Cui 2017; _cites Ellner 1989_ | Table 2, p. 4, row 4 |  |
-| Lattice a | 1.2719 nm | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
-| Lattice b | 0.7652 nm | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
-| Lattice b | 0.7652 nm | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
-| Lattice b | 2.3946 nm | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
-| Lattice b | 0.7574 nm | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
-| Lattice b | 0.7574 nm | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
-| Lattice c | 1.0639 nm | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
-| Lattice c | 1.0639 nm | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
-| Lattice c | 1.6386 nm | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
-| Lattice c | 2.467 nm | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
-| Lattice c | 1.0949 nm | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
-| Lattice c | 1.0949 nm | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
-| Lattice c | 0.86477 nm | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
-| Lattice c | 0.86303 nm | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
-| Lattice c | 0.7936 nm | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Cr 0_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1 |  |
+| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
+| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice a | 8.716 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
+| Lattice a | 25.196 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
+| Lattice a | 25.196 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
+| Lattice a | 3.0045 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
+| Lattice a | 2.99984 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
+| Lattice a | 2.8848 Å | 298.15 | Cr; _Cr: Al 0, Cr 1_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9 |  |
+| Lattice a | 7.8051 Å | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6 |  |
+| Lattice a | 9.123 Å | 298.15 | αAl9Cr4; _αAl9Cr4: Al 0.665, Cr 0.335_ | unspecified | [3] Murray 1998; _cites ref. 63Kos_ | Table 3, p. 5, row 5 |  |
+| Lattice a | 9.065 Å | 298.15 | γ\_H | unspecified | [2] Cui 2017; _cites Ellner 1989_ | Table 2, p. 4, row 4 |  |
+| Lattice a | 12.719 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
+| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
+| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice b | 23.946 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice b | 7.574 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
+| Lattice b | 7.574 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
+| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
+| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice c | 16.386 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
+| Lattice c | 10.949 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
+| Lattice c | 10.949 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
+| Lattice c | 8.6477 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
+| Lattice c | 8.6303 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
+| Lattice c | 7.936 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
 | lattice beta | 128.41 ° | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
 | lattice beta | 119.33 ° | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
 | lattice beta | 128.71 ° | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
@@ -614,4 +614,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

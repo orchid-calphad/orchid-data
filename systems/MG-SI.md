@@ -148,7 +148,7 @@ Table: Invariant reactions reported in the literature for the Mg–Si system (80
 | 918 | L -> Mg (hcp) + Mg2Si | L: Si 0.012; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schmidt 1927_ | Table 5, p. 8, row 2 |  |
 | 915.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Goto 1937_ | Table 5, p. 4, row 10 |  |
 | 915.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Goto 1937_ | Table 5, p. 5, row 11 |  |
-| 913.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Elchardus 1938_ | Table 5, p. 5, row 9 |  |
+| 913.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Elchardus 1935_ | Table 5, p. 5, row 9 |  |
 | 912.35 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 34 |  |
 | 912.3 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0117; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 22 |  |
 | 912.02 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0129; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 31 |  |
@@ -171,7 +171,7 @@ Table: Invariant reactions reported in the literature for the Mg–Si system (80
 | 905.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Sawamoto 1935_ | Table 5, p. 4, row 9 |  |
 | 898.15 | eutectic: L \<-> (Mg) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 6 |  |
 | 898.15 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 5 |  |
-| 848.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1940_ | Table 5, p. 4, row 8 |  |
+| 848.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1935_ | Table 5, p. 4, row 8 |  |
 
 ## Formation enthalpies
 
@@ -434,4 +434,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

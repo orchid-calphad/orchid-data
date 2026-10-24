@@ -102,16 +102,16 @@ Table: Crystal structure, Nb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 0.7696 nm | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 0.7737 nm | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 0.5068 nm | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 0.505 nm | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 0.3933 nm | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 0.3944 nm | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016 | Table 1, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 1.1663 nm | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 1.1627 nm | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 1.6356 nm | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| Lattice c; _printed: c_ | 1.632 nm | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 7.696 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
+| Lattice a; _printed: a_ | 7.737 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 5.068 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 5.05 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.933 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 4 |  |
+| Lattice a; _printed: a_ | 3.944 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016 | Table 1, p. 3, row 3 |  |
+| Lattice c; _printed: c_ | 11.663 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
+| Lattice c; _printed: c_ | 11.627 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
+| Lattice c; _printed: c_ | 16.356 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
+| Lattice c; _printed: c_ | 16.32 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -36,7 +36,7 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–O system
 | 2641 | eutectic: Liquid = (MgO) + (CaO) |  | model | [1] Liang 2018; _cites Hillert 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990006-0) | Table 5, p. 13, row 5 |  |
 | 2641 | eutectic: Liquid = (MgO) + (CaO) |  | model | [1] Liang 2018; _cites Jin 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990035-v) | Table 5, p. 13, row 7 |  |
 | 2632 | eutectic: Liquid = (MgO) + (CaO) |  | model | [1] Liang 2018; _cites Yin 1993_ [doi](https://doi.org/10.1007/bf02669140) | Table 5, p. 13, row 8 |  |
-| 2625 | eutectic: Liquid = (MgO) + (CaO) |  | model | [1] Liang 2018; _cites Serena 2004_ | Table 5, p. 13, row 9 |  |
+| 2625 | eutectic: Liquid = (MgO) + (CaO) |  | model | [1] Liang 2018; _cites Serena 2005_ | Table 5, p. 13, row 9 |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

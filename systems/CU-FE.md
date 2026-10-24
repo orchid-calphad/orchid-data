@@ -72,7 +72,7 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1764 | δ + liq -> γ | δ: Cu 0.064; γ: Cu 0.076; liq: Cu 0.116 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 6 |  |
-| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936 | model | [2] Turchanin 2003; _cites Chuang 1921_ | Table 2, p. 5, row 7 |  |
+| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 7 |  |
 | 1761 | L + δ ↔ γ |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 4 |  |
 | 1760 | L + δ ↔ γ | L: Fe 0.896; δ: Fe 0.942 | model | [2] Turchanin 2003 | Table 2, p. 5, row 9 |  |
 | 1759 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 1 |  |
@@ -92,7 +92,7 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | 1405 | L1 + L2 ↔ ε | L1: Fe 0.22 | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 31 |  |
 | 1380 | L1 + L2 ↔ ε | L1: Fe 0.058; L2: Fe 0.931; ε: Fe 0.127 | model | [2] Turchanin 2003 | Table 2, p. 5, row 32 |  |
 | 1371 | γ + liq -> ε | γ: Cu 0.076; ε: Cu 0.952; liq: Cu 0.965 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 13 |  |
-| 1371 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Chuang 1921_ | Table 2, p. 5, row 16 |  |
+| 1371 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 16 |  |
 | 1369 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 10 |  |
 | 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.929; ε: Fe 0.045 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 12 |  |
 | 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.91; ε: Fe 0.05 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 15 |  |
@@ -122,7 +122,7 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | 1122 | γ -> α + ε | γ: Cu 0.026; α: Cu 0.017; ε: Cu 0.987 | model | [1] Chen 1995 | Table II, p. 6, row 23 |  |
 | 1120 | γ ↔ ε + α | γ: Fe 0.975; ε: Fe 0.01; α: Fe 0.984 | model | [2] Turchanin 2003 | Table 2, p. 5, row 29 |  |
 | 1118 | γ -> α + ε | γ: Cu 0.028; α: Cu 0.021; ε: Cu 0.987 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 22 |  |
-| 1118 | γ ↔ ε + α | γ: Fe 0.972; ε: Fe 0.013; α: Fe 0.979 | model | [2] Turchanin 2003; _cites Chuang 1921_ | Table 2, p. 5, row 27 |  |
+| 1118 | γ ↔ ε + α | γ: Fe 0.972; ε: Fe 0.013; α: Fe 0.979 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 27 |  |
 | 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 24 |  |
 | 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Wreidt 1960_ | Table 2, p. 5, row 19 |  |
 | 1115 | γ -> α + ε |  | experimental | [1] Chen 1995; _cites Wriedt 1960_ | Table II, p. 6, row 16 |  |
@@ -273,4 +273,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

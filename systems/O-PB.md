@@ -49,14 +49,14 @@ Table: Invariant reactions reported in the literature for the O–Pb system (46)
 | 1143 | monotectic |  | experimental | [1] Risold 1998 | p. 17 | “It was therefore almost impossible to impose any variation in the calculated value of the monotectic temperature. Nevertheless, the experimental evidences for a value around 1143 K are strong, and the present discrepancy may be due to the influence of the oxygen nonstoichiometry in PbO-M, which was neglected here.” |
 | 1143 | L2 = L1 + PbO-M | L2: Pb 0.501; L1: Pb 0.9911 | experimental | [1] Risold 1998; _cites Isecke 1977_ | Table 8, p. 8, row 11 |  |
 | 1143 | L2 = L1 + PbO-M | L1: Pb 0.9911 | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 8, p. 8, row 10 |  |
-| 1142 | L2 = L1 + PbO-M |  | experimental | [1] Risold 1998; _cites Ya 1998_ | Table 8, p. 8, row 13 |  |
+| 1142 | L2 = L1 + PbO-M |  | experimental | [1] Risold 1998; _cites Ya 1981_ | Table 8, p. 8, row 13 |  |
 | 835 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites M 1976_ | Table 9, p. 12, row 20 |  |
 | 820 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites ref. 1897Lec_ | Table 9, p. 12, row 17 |  |
 | 810 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites Reinders 1914_ [doi](https://doi.org/10.1002/zaac.19140890106) | Table 9, p. 12, row 18 |  |
 | 810 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites Otto 1966_ [doi](https://doi.org/10.1149/1.2424016) | Table 9, p. 12, row 19 |  |
 | 808 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998 | Table 9, p. 12, row 22 |  |
 | 807 | Pb3O4-T = PbO-M + O2 |  | model | [1] Risold 1998 | Table 9, p. 12, row 23 |  |
-| 803 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites Ya 1998_ | Table 9, p. 12, row 21 |  |
+| 803 | Pb3O4-T = PbO-M + O2 |  | experimental | [1] Risold 1998; _cites Ya 1981_ | Table 9, p. 12, row 21 |  |
 | 662 | Pb12O17 = Pb3O4-T + Pb12O19 |  | model | [1] Risold 1998 | Table 8, p. 8, row 21 |  |
 | 653 | Pb12O17 = Pb3O4-T + Pb12O19 |  | experimental | [1] Risold 1998; _cites White 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14404.x) | Table 8, p. 8, row 20 |  |
 | 647 | Pb12O17 = Pb3O4-T + O2 |  | experimental | [1] Risold 1998; _cites Buffer 1956_ | Table 9, p. 12, row 13 |  |
@@ -122,7 +122,7 @@ Table: Phase transition, O–Pb system
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | model | [1] Risold 1998 | Table 2, p. 3, row 16 |  |
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Cohen 1934_ [doi](https://doi.org/10.1515/zpch-1934-16813) | Table 2, p. 3, row 4 |  |
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | model | [1] Risold 1998; _cites Chase 1985_ | Table 2, p. 3, row 14 |  |
-| Phase transition | 763 K | 763 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Coussaert 1998_ | Table 2, p. 3, row 12 |  |
+| Phase transition | 763 K | 763 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Coussaert 1968_ | Table 2, p. 3, row 12 |  |
 | Phase transition | 763 K | 763 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Peterson 1941_ | Table 2, p. 3, row 8 |  |
 | Phase transition | 802 K | 802 |  | experimental | [1] Risold 1998; _cites Rooymans 1968_ [doi](https://doi.org/10.1016/0022-0248%2868%2990187-5) | p. 3 | “On the other hand, however, \[68Roo\] measured a decrease in the transformation temperature from 825 to 802 K as the oxygen content in PbO increased from 1.000 to 1.001.” |
 | Phase transition | 803 K | 803 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites ref. 36Ren1_ | Table 2, p. 3, row 5 |  |
@@ -137,7 +137,7 @@ Table: Phase transition, O–Pb system
 | Phase transition | 893 K | 893 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Ruer 1906_ [doi](https://doi.org/10.1002/zaac.19060500125) | Table 2, p. 3, row 2 |  |
 | Phase transition | 1103 K | 1103 | congruent transformation: \[1897Lec\] | unspecified | [1] Risold 1998; _cites ref. 1897Lec_ | Table 5, p. 5, row 1 |  |
 | Phase transition | 1143 K | 1143 | congruent transformation: \[22Bel\] | experimental | [1] Risold 1998; _cites Belladen 1922_ | Table 5, p. 5, row 7 |  |
-| Phase transition | 1143 K | 1143 | congruent transformation: \[81Kha\] | unspecified | [1] Risold 1998; _cites Ya 1998_ | Table 5, p. 5, row 15 |  |
+| Phase transition | 1143 K | 1143 | congruent transformation: \[81Kha\] | unspecified | [1] Risold 1998; _cites Ya 1981_ | Table 5, p. 5, row 15 |  |
 | Phase transition | 1149 K | 1149 | congruent transformation: \[09Hil\] | unspecified | [1] Risold 1998; _cites ref. 09Hil_ | Table 5, p. 5, row 4 |  |
 | Phase transition | 1151 K | 1151 | congruent transformation: \[21Jae\] | experimental | [1] Risold 1998; _cites EM 1921_ | Table 5, p. 5, row 6 |  |
 | Phase transition | 1152 K | 1152 | congruent transformation: \[08Sch\] | unspecified | [1] Risold 1998; _cites ref. 08Sch_ | Table 5, p. 5, row 2 |  |
@@ -228,8 +228,8 @@ Table: Activity / EMF / Gibbs energy, O–Pb system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: ΔG0 (constant term)_ | -220010 J/mol | 811 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
 | Gibbs energy; _printed: ΔG0 (T coefficient)_ | 100.91 J/mol/K | 811 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 92.54 J/mol/K | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1998_ | Table 4, p. 4, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -212640 J/mol | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1998_ | Table 4, p. 4, row 28 |  |
+| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 92.54 J/mol/K | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
+| Gibbs energy; _printed: ΔG0 (constant term)_ | -212640 J/mol | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
 | Gibbs energy; _printed: ΔG0 (T coefficient)_ | 97.4 J/mol/K | 891.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
 | Gibbs energy; _printed: ΔG0 (constant term)_ | -216000 J/mol | 891.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
 | Gibbs energy; _printed: ΔG0 (constant term)_ | -219367 J/mol | 895 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Alc_ | Table 4, p. 4, row 15 |  |
@@ -343,4 +343,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

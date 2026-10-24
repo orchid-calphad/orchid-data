@@ -19,12 +19,12 @@
  ],
  "exclude": [],
  "n_files": 12,
- "total_bytes": 4690254,
+ "total_bytes": 4692755,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 31271,
-   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
+   "bytes": 33307,
+   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
   },
   {
    "path": "LICENSE",
@@ -33,13 +33,13 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 3550,
-   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
+   "bytes": 3614,
+   "sha256": "939857b353fb387245597859e817f7405e440c013efbcb9ac8b6fc7ddacbe55e"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 8552,
-   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
+   "bytes": 8566,
+   "sha256": "c487466646c694992ed41724f89b4ff3edd0af1c6eb0dc64fb66ca6dd06c2689"
   },
   {
    "path": "README.md",
@@ -48,13 +48,13 @@
   },
   {
    "path": "literature/QUALITY_FIXES.md",
-   "bytes": 257897,
-   "sha256": "6e71601a9cf5774843d5a03c07c273385923ed0d281fe3e914ee4216979c9fd2"
+   "bytes": 258244,
+   "sha256": "463c995095194846dec25d67167409e1090e1abfd4909b4677e05ece9405135f"
   },
   {
    "path": "literature/dft_parity.json",
-   "bytes": 4061346,
-   "sha256": "9f2af222580d0a6ef7518c142de107bcb0476cca783e009e0896e5e3de0120bb"
+   "bytes": 4061337,
+   "sha256": "68687af06f122d275c9c8777a7c36b6b58579e72e7057f79476c1375693d94bf"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
@@ -68,13 +68,13 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24595,
-   "sha256": "839fc3e908b23e3b0c65cec525339917312de146c35e62b385f2c2be666eeb43"
+   "bytes": 24617,
+   "sha256": "5dabae65a6bee82dcf29dd4186f0e1172542c227dba8a818218132a8b45605dd"
   },
   {
    "path": "parquet/dft_parity.parquet",
-   "bytes": 275629,
-   "sha256": "fb7e4dc8bdb91b8c5976f8dcb21061cbff4985a179464dfecedc576f251bc84f"
+   "bytes": 275656,
+   "sha256": "050e8df06d530252db7ec70758e967c6e723215492b3842f2003d4e6f07794b5"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",

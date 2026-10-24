@@ -466,118 +466,118 @@ Table: Crystal structure, Ni–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1243.2 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
-| Lattice a | 1244.5 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
-| Lattice a | 999.5 pm |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 2, row 25 |  |
-| Lattice a | 999.5 pm |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 3, row 9 |  |
-| Lattice a | 646.8 pm |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
-| Lattice a | 532 pm |  | Ni3Zr; _alloy: Zr 0.25_ | model | [1] Jana 2020 | Table 2, p. 2, row 12 |  |
-| Lattice a | 671 pm |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 2, row 4 |  |
-| Lattice a | 671 pm |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 3, row 4 |  |
-| Lattice a | 460.7 pm |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
-| Lattice a | 331 pm |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
-| Lattice a | 650.7 pm |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 2, row 33 |  |
-| Lattice a | 650.7 pm |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 3, row 17 |  |
-| Lattice a | 331 pm |  | UNKNOWN | model | [1] Jana 2020 | Table 2, p. 3, row 13 |  |
-| Lattice a | 331 pm | 0 | UNKNOWN; _alloy: Zr 0.5_ | DFT | [1] Jana 2020 | Table 2, p. 3, row 19 |  |
-| Lattice a | 1238.6 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
-| Lattice a | 1248.8 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
-| Lattice a | 1244.6 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
-| Lattice a | 1249.7 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
-| Lattice a | 988.1 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 6 |  |
-| Lattice a | 988.1 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 22 |  |
-| Lattice a | 1004.4 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 24 |  |
-| Lattice a | 1004.4 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 8 |  |
-| Lattice a | 1001.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 23 |  |
-| Lattice a | 1001.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 7 |  |
-| Lattice a | 646.9 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
-| Lattice a | 647.21 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
-| Lattice a | 532.4 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 10 |  |
-| Lattice a | 534.5 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 11 |  |
-| Lattice a | 530.9 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 9 |  |
-| Lattice a | 670.64 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 1 |  |
-| Lattice a | 673.4 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 3 |  |
-| Lattice a | 670.64 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 671.3 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 2 |  |
-| Lattice a | 673.4 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 3 |  |
-| Lattice a | 671.3 pm | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 2 |  |
-| Lattice a | 469.8 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
-| Lattice a | 469.4 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
-| Lattice a | 470.4 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
-| Lattice a | 326.8 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
-| Lattice a | 331.1 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
-| Lattice a | 330.3 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
-| Lattice a | 326.8 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 331.1 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
-| Lattice a | 330.3 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
-| Lattice a | 647.7 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 30 |  |
-| Lattice a | 652.6 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 16 |  |
-| Lattice a | 651.5 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 15 |  |
-| Lattice a | 647.7 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14 |  |
-| Lattice a | 652.6 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32 |  |
-| Lattice a | 651.5 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31 |  |
-| Lattice a | 331 pm | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22 |  |
-| Lattice b | 918.8 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
-| Lattice b | 917.5 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
-| Lattice b | 808.5 pm |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
-| Lattice b | 823.7 pm |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
-| Lattice b | 1000.2 pm |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
-| Lattice b | 915.6 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
-| Lattice b | 921.3 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
-| Lattice b | 919.1 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
-| Lattice b | 921 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
-| Lattice b | 809.5 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
-| Lattice b | 806.45 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
-| Lattice b | 823.5 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
-| Lattice b | 827.5 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
-| Lattice b | 823.9 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
-| Lattice b | 993.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
-| Lattice b | 1005.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
-| Lattice b | 1001.2 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
-| Lattice b | 993.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
-| Lattice b | 1005.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
-| Lattice b | 1001.2 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
-| Lattice c | 918.4 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
-| Lattice c | 919.1 pm |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
-| Lattice c | 647.6 pm |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 2, row 25 |  |
-| Lattice c | 647.6 pm |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 3, row 9 |  |
-| Lattice c | 857.7 pm |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
-| Lattice c | 431.9 pm |  | Ni3Zr; _alloy: Zr 0.25_ | model | [1] Jana 2020 | Table 2, p. 2, row 12 |  |
-| Lattice c | 628.1 pm |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
-| Lattice c | 406.5 pm |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
-| Lattice c | 523 pm |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 2, row 33 |  |
-| Lattice c | 523 pm |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 3, row 17 |  |
-| Lattice c | 921.1 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
-| Lattice c | 923 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
-| Lattice c | 920 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
-| Lattice c | 932.5 pm | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
-| Lattice c | 661.1 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 6 |  |
-| Lattice c | 661.1 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 22 |  |
-| Lattice c | 649.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 24 |  |
-| Lattice c | 649.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 8 |  |
-| Lattice c | 647.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 23 |  |
-| Lattice c | 647.2 pm | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 7 |  |
-| Lattice c | 858.6 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
-| Lattice c | 858.78 pm | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
-| Lattice c | 432 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 10 |  |
-| Lattice c | 433 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 11 |  |
-| Lattice c | 430.34 pm | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 9 |  |
-| Lattice c | 609.65 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
-| Lattice c | 610.5 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
-| Lattice c | 653.2 pm | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
-| Lattice c | 410.1 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
-| Lattice c | 409.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
-| Lattice c | 408 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
-| Lattice c | 410.1 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
-| Lattice c | 409.7 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
-| Lattice c | 408 pm | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
-| Lattice c | 524.1 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 30 |  |
-| Lattice c | 525.4 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 16 |  |
-| Lattice c | 522.1 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 15 |  |
-| Lattice c | 524.1 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14 |  |
-| Lattice c | 525.4 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32 |  |
-| Lattice c | 522.1 pm | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31 |  |
-| Lattice c | 408 pm | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22 |  |
+| Lattice a | 12.432 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
+| Lattice a | 12.445 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
+| Lattice a | 9.995 Å |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 2, row 25 |  |
+| Lattice a | 9.995 Å |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 3, row 9 |  |
+| Lattice a | 6.468 Å |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
+| Lattice a | 5.32 Å |  | Ni3Zr; _alloy: Zr 0.25_ | model | [1] Jana 2020 | Table 2, p. 2, row 12 |  |
+| Lattice a | 6.71 Å |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 2, row 4 |  |
+| Lattice a | 6.71 Å |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 3, row 4 |  |
+| Lattice a | 4.607 Å |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
+| Lattice a | 3.31 Å |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
+| Lattice a | 6.507 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 2, row 33 |  |
+| Lattice a | 6.507 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 3, row 17 |  |
+| Lattice a | 3.31 Å |  | UNKNOWN | model | [1] Jana 2020 | Table 2, p. 3, row 13 |  |
+| Lattice a | 3.31 Å | 0 | UNKNOWN; _alloy: Zr 0.5_ | DFT | [1] Jana 2020 | Table 2, p. 3, row 19 |  |
+| Lattice a | 12.386 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
+| Lattice a | 12.488 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
+| Lattice a | 12.446 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
+| Lattice a | 12.497 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
+| Lattice a | 9.881 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 6 |  |
+| Lattice a | 9.881 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 22 |  |
+| Lattice a | 10.044 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 24 |  |
+| Lattice a | 10.044 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 8 |  |
+| Lattice a | 10.012 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 23 |  |
+| Lattice a | 10.012 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 7 |  |
+| Lattice a | 6.469 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
+| Lattice a | 6.4721 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
+| Lattice a | 5.324 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 10 |  |
+| Lattice a | 5.345 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 11 |  |
+| Lattice a | 5.309 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 9 |  |
+| Lattice a | 6.7064 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 1 |  |
+| Lattice a | 6.734 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 3 |  |
+| Lattice a | 6.7064 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 6.713 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 2 |  |
+| Lattice a | 6.734 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 3 |  |
+| Lattice a | 6.713 Å | 298.15 | Ni5Zr; _alloy: Zr 0.166667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 2 |  |
+| Lattice a | 4.698 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
+| Lattice a | 4.694 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
+| Lattice a | 4.704 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
+| Lattice a | 3.268 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
+| Lattice a | 3.311 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
+| Lattice a | 3.303 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
+| Lattice a | 3.268 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
+| Lattice a | 3.311 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
+| Lattice a | 3.303 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
+| Lattice a | 6.477 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 30 |  |
+| Lattice a | 6.526 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 16 |  |
+| Lattice a | 6.515 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 15 |  |
+| Lattice a | 6.477 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14 |  |
+| Lattice a | 6.526 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32 |  |
+| Lattice a | 6.515 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31 |  |
+| Lattice a | 3.31 Å | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22 |  |
+| Lattice b | 9.188 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
+| Lattice b | 9.175 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
+| Lattice b | 8.085 Å |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
+| Lattice b | 8.237 Å |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
+| Lattice b | 10.002 Å |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
+| Lattice b | 9.156 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
+| Lattice b | 9.213 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
+| Lattice b | 9.191 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
+| Lattice b | 9.21 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
+| Lattice b | 8.095 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
+| Lattice b | 8.0645 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
+| Lattice b | 8.235 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
+| Lattice b | 8.275 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
+| Lattice b | 8.239 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
+| Lattice b | 9.937 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
+| Lattice b | 10.057 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
+| Lattice b | 10.012 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
+| Lattice b | 9.937 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
+| Lattice b | 10.057 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
+| Lattice b | 10.012 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
+| Lattice c | 9.184 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21 |  |
+| Lattice c | 9.191 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17 |  |
+| Lattice c | 6.476 Å |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 2, row 25 |  |
+| Lattice c | 6.476 Å |  | Ni11Zr9; _alloy: Zr 0.45_ | model | [1] Jana 2020 | Table 2, p. 3, row 9 |  |
+| Lattice c | 8.577 Å |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
+| Lattice c | 4.319 Å |  | Ni3Zr; _alloy: Zr 0.25_ | model | [1] Jana 2020 | Table 2, p. 2, row 12 |  |
+| Lattice c | 6.281 Å |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
+| Lattice c | 4.065 Å |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29 |  |
+| Lattice c | 5.23 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 2, row 33 |  |
+| Lattice c | 5.23 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 3, row 17 |  |
+| Lattice c | 9.211 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16 |  |
+| Lattice c | 9.23 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20 |  |
+| Lattice c | 9.2 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19 |  |
+| Lattice c | 9.325 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 18 |  |
+| Lattice c | 6.611 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 6 |  |
+| Lattice c | 6.611 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 22 |  |
+| Lattice c | 6.492 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 24 |  |
+| Lattice c | 6.492 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 8 |  |
+| Lattice c | 6.472 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 23 |  |
+| Lattice c | 6.472 Å | 298.15 | Ni11Zr9; _alloy: Zr 0.45_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 7 |  |
+| Lattice c | 8.586 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 14 |  |
+| Lattice c | 8.5878 Å | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
+| Lattice c | 4.32 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 10 |  |
+| Lattice c | 4.33 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 11 |  |
+| Lattice c | 4.3034 Å | 298.15 | Ni3Zr; _alloy: Zr 0.25_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 9 |  |
+| Lattice c | 6.0965 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 5 |  |
+| Lattice c | 6.105 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 7 |  |
+| Lattice c | 6.532 Å | 298.15 | Ni7Zr2; _alloy: Zr 0.222222_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 6 |  |
+| Lattice c | 4.101 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 26 |  |
+| Lattice c | 4.097 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 28 |  |
+| Lattice c | 4.08 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 27 |  |
+| Lattice c | 4.101 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 10 |  |
+| Lattice c | 4.097 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 3, row 12 |  |
+| Lattice c | 4.08 Å | 298.15 | NiZr; _alloy: Zr 0.5_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 11 |  |
+| Lattice c | 5.241 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 30 |  |
+| Lattice c | 5.254 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 3, row 16 |  |
+| Lattice c | 5.221 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 3, row 15 |  |
+| Lattice c | 5.241 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14 |  |
+| Lattice c | 5.254 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32 |  |
+| Lattice c | 5.221 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31 |  |
+| Lattice c | 4.08 Å | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22 |  |
 | lattice alpha | 75.44 ° |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15 |  |
 | lattice alpha | 90 ° |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8 |  |
 | lattice alpha | 75.19 ° | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13 |  |
@@ -720,4 +720,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

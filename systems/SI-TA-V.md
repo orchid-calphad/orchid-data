@@ -109,75 +109,75 @@ Table: Crystal structure, Si–Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.619 nm | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
-| Lattice a | 1.0195 nm | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.6552 nm | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.9892 nm |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
-| Lattice a | 0.9913 nm | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
-| Lattice a | 0.4792 nm | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
-| Lattice a | 0.7167 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 30 |  |
-| Lattice a | 0.5092 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
-| Lattice a | 0.4711 nm | 0 | V3Si; _alloy: Ta 0, V 0.75_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 39 |  |
-| Lattice a | 0.9395 nm | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
-| Lattice a | 0.4882 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
-| Lattice a | 0.7483 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
-| Lattice a | 0.4563 nm | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
-| Lattice a | 0.6172 nm | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
-| Lattice a | 1.0184 nm | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.6519 nm | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
-| Lattice a | 0.4784 nm | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+| Lattice a | 6.19 Å | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice a | 10.195 Å | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice a | 6.552 Å | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice a | 9.892 Å |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice a | 9.913 Å | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice a | 4.792 Å | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice a | 7.167 Å | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 30 |  |
+| Lattice a | 5.092 Å | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
+| Lattice a | 4.711 Å | 0 | V3Si; _alloy: Ta 0, V 0.75_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 39 |  |
+| Lattice a | 9.395 Å | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice a | 4.882 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice a | 7.483 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice a | 4.563 Å | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice a | 6.172 Å | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice a | 10.184 Å | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice a | 6.519 Å | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice a | 4.784 Å | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
 | Lattice a | 0.5058 not_printed ± 5.000e-4 | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | model | [1] Broz 2013; _cites Nefedov 2013_ | Table 1, p. 3, row 25 |  |
 | Lattice a | 0.7625 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
-| Lattice a | 0.4725 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 0.75_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 37 |  |
-| Lattice a | 0.4763 nm | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Alekseyevskiy 1977_ | Table 1, p. 3, row 41 |  |
+| Lattice a | 4.725 Å | 298.15 | UNKNOWN; _alloy: Ta 0, V 0.75_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 37 |  |
+| Lattice a | 4.763 Å | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Alekseyevskiy 1977_ | Table 1, p. 3, row 41 |  |
 | Lattice a | 0.6443 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.54306 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 5 |  |
+| Lattice a | 5.4306 Å | 298.15 | UNKNOWN; _alloy: Ta 0, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 5 |  |
 | Lattice a | 0.7643 not_printed ± 7.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47 |  |
 | Lattice a | 1.00903 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 8 |  |
 | Lattice a | 0.7258 not_printed ± 6.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 23 |  |
-| Lattice a | 0.3024 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 1_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.3303 nm | 298.15 | UNKNOWN; _alloy: Ta 1, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.024 Å | 298.15 | UNKNOWN; _alloy: Ta 0, V 1_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 2 |  |
+| Lattice a | 3.303 Å | 298.15 | UNKNOWN; _alloy: Ta 1, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1 |  |
 | Lattice a | 0.4755 not_printed ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 40 |  |
 | Lattice a | 0.94674 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 22 |  |
 | Lattice a | 0.61623 not_printed ± 8.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.7157 nm | 298.15 | UNKNOWN; _alloy: Ta 0.333333, V 0.666667_ | unspecified | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 29 |  |
+| Lattice a | 7.157 Å | 298.15 | UNKNOWN; _alloy: Ta 0.333333, V 0.666667_ | unspecified | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 29 |  |
 | Lattice a | 0.61454 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 11 |  |
 | Lattice a | 0.65154 not_printed ± 5.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 16 |  |
-| Lattice a | 0.4727 nm | 298.15 | V3Si; _alloy: Ta 0, V 0.75_ | model | [1] Broz 2013; _cites Kanematsu 1986_ [doi](https://doi.org/10.2320/matertrans1960.27.225) | Table 1, p. 3, row 38 |  |
-| Lattice a | 0.9383 nm | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice a | 4.727 Å | 298.15 | V3Si; _alloy: Ta 0, V 0.75_ | model | [1] Broz 2013; _cites Kanematsu 1986_ [doi](https://doi.org/10.2320/matertrans1960.27.225) | Table 1, p. 3, row 38 |  |
+| Lattice a | 9.383 Å | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
 | Lattice a | 0.94264 not_printed ± 4.000e-5 | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
-| Lattice a | 0.4858 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
-| Lattice a | 0.7501 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
-| Lattice a | 0.4573 nm | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
-| Lattice a | 0.505 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
+| Lattice a | 4.858 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice a | 7.501 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice a | 4.573 Å | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+| Lattice a | 5.05 Å | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
 | Lattice a | 0.5 not_printed ± 0.003 | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
-| Lattice a | 0.3303 nm | 300 | (Ta); _alloy: Ta 1, V 0_ | experimental | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48 |  |
-| Lattice a | 0.3315 nm (range 0.3305 to 0.3325) | 300 | (Ta1−xVx) | experimental | [1] Broz 2013; _cites Rudy 1969_ | Table 1, p. 3, row 49 |  |
-| Lattice a | 0.467 nm (range 0.4574 to 0.4766) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
-| Lattice a | 0.30266 nm (range 0.30232 to 0.303) | 300 | (V1−xSix) | experimental | [1] Broz 2013; _cites Bruning 1967_ | Table 1, p. 3, row 50 |  |
-| Lattice a | 0.72945 nm (range 0.71976 to 0.73914) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
+| Lattice a | 3.303 Å | 300 | (Ta); _alloy: Ta 1, V 0_ | experimental | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48 |  |
+| Lattice a | 3.315 Å (range 3.305 to 3.325) | 300 | (Ta1−xVx) | experimental | [1] Broz 2013; _cites Rudy 1969_ | Table 1, p. 3, row 49 |  |
+| Lattice a | 4.67 Å (range 4.574 to 4.766) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
+| Lattice a | 3.0266 Å (range 3.0232 to 3.03) | 300 | (V1−xSix) | experimental | [1] Broz 2013; _cites Bruning 1967_ | Table 1, p. 3, row 50 |  |
+| Lattice a | 7.2945 Å (range 7.1976 to 7.3914) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
 | Lattice a | 0.7151 not_printed ± 1.000e-5 | 1773.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 31 |  |
-| Lattice b | 1.6012 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
-| Lattice b | 1.5897 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice b | 16.012 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice b | 15.897 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
 | Lattice b | 1.609 not_printed ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
 | Lattice b | 1.6078 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47 |  |
-| Lattice b | 1.5966 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
-| Lattice b | 1.5966 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
-| Lattice c | 0.5071 nm | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
-| Lattice c | 0.5206 nm | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
-| Lattice c | 1.1911 nm | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
-| Lattice c | 0.5042 nm |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
-| Lattice c | 0.5078 nm | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
-| Lattice c | 0.6572 nm | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
-| Lattice c | 0.8069 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
-| Lattice c | 0.4731 nm | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
-| Lattice c | 0.7582 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
-| Lattice c | 0.4827 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
-| Lattice c | 0.6364 nm | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
-| Lattice c | 0.505 nm | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.5183 nm | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
-| Lattice c | 1.187 nm | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
-| Lattice c | 0.6568 nm | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+| Lattice b | 15.966 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice b | 15.966 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c | 5.071 Å | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice c | 5.206 Å | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice c | 11.911 Å | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice c | 5.042 Å |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice c | 5.078 Å | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice c | 6.572 Å | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice c | 8.069 Å | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
+| Lattice c | 4.731 Å | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice c | 7.582 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice c | 4.827 Å | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice c | 6.364 Å | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice c | 5.05 Å | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice c | 5.183 Å | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.87 Å | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice c | 6.568 Å | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
 | Lattice c | 0.825 not_printed ± 5.000e-4 | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | model | [1] Broz 2013; _cites Nefedov 2013_ | Table 1, p. 3, row 25 |  |
 | Lattice c | 0.4936 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
 | Lattice c | 1.19154 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 15 |  |
@@ -188,15 +188,15 @@ Table: Crystal structure, Si–Ta–V system
 | Lattice c | 0.50574 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 12 |  |
 | Lattice c | 0.50431 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 11 |  |
 | Lattice c | 1.18753 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 16 |  |
-| Lattice c | 0.476 nm | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice c | 4.76 Å | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
 | Lattice c | 0.47585 not_printed ± 3.000e-5 | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
-| Lattice c | 0.7501 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
-| Lattice c | 0.4858 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
-| Lattice c | 0.6374 nm | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
-| Lattice c | 0.823 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
+| Lattice c | 7.501 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice c | 4.858 Å | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c | 6.374 Å | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+| Lattice c | 8.23 Å | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
 | Lattice c | 0.826 not_printed | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
-| Lattice c | 0.6453 nm (range 0.6357 to 0.6549) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
-| Lattice c | 0.495205 nm (range 0.48906 to 0.50135) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
+| Lattice c | 6.453 Å (range 6.357 to 6.549) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
+| Lattice c | 4.95205 Å (range 4.8906 to 5.0135) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
 
 ## Sources
 
@@ -239,4 +239,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

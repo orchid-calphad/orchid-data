@@ -400,7 +400,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73538
-  download_size: 7127768
+  download_size: 7165719
 - config_name: papers
   features:
   - name: id
@@ -612,7 +612,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 7696
-  download_size: 275629
+  download_size: 275656
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -649,10 +649,12 @@ dataset_info:
     dtype: string
   - name: doi
     dtype: string
+  - name: n_mapper_hits
+    dtype: int32
   splits:
   - name: full
-    num_examples: 24828
-  download_size: 849970
+    num_examples: 15322
+  download_size: 690948
 - config_name: phase_diagram_index
   features:
   - name: system
@@ -690,7 +692,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 2774
-  download_size: 263405
+  download_size: 263049
 - config_name: hull_vertices
   features:
   - name: system
@@ -1091,13 +1093,13 @@ format.
 | `papers` | 4,880 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
 | `dft_parity` | 7,696 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
-| `phase_diagram_invariants` | 24,828 | invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions |
+| `phase_diagram_invariants` | 15,322 | distinct invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions; `n_mapper_hits` = how often the mapper found it (the JSON files list all 24,828 hits) |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
 | `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
 | `assessed_phase_assemblages` | 23,131 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
-| `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
-| `bibliography_edges` | 60,237 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
+| `bibliography_papers` | 9,568 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
+| `bibliography_edges` | 60,231 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
 
 ### Uncertainty budget (`literature_values.sigma_*`, `uncertainty_budget`)

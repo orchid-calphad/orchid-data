@@ -87,14 +87,14 @@ Table: Crystal structure, Ga–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.27713 nm | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice a | 0.4599 nm | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
-| Lattice a | 0.45192 nm | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice b | 0.80606 nm | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice b | 0.76586 nm | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice c | 0.33314 nm | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice c | 0.4947 nm | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
-| Lattice c | 0.45258 nm | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
+| Lattice a | 2.7713 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
+| Lattice a | 4.599 Å | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
+| Lattice a | 4.5192 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
+| Lattice b | 8.0606 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
+| Lattice b | 7.6586 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
+| Lattice c | 3.3314 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
+| Lattice c | 4.947 Å | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
+| Lattice c | 4.5258 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
 
 ## Sources
 
@@ -161,4 +161,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -121,33 +121,33 @@ Table: Crystal structure, Ge–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.54307 nm | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.56575 nm | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.4884 nm | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.4686 nm | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.5596 nm | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.55842 nm | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.55261 nm | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
-| Lattice a | 0.56206 nm | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.54419 nm | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
-| Lattice a | 0.54624 nm | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
-| Lattice a | 0.55149 nm | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
-| Lattice a | 0.56575 nm | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.55727 nm | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
-| Lattice a | 0.54522 nm | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
-| Lattice a | 0.54722 nm | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
-| Lattice a | 0.54928 nm | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
-| Lattice a | 0.56325 nm | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.56085 nm | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.55609 nm | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.5431 nm | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
-| Lattice a | 0.55492 nm | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.56448 nm | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.55038 nm | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
-| Lattice a | 0.54825 nm | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
-| Lattice a | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
-| Lattice c | 0.2692 nm | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.2585 nm | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.4307 Å | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 2 |  |
+| Lattice a | 5.6575 Å | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.884 Å | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
+| Lattice a | 4.686 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.596 Å | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
+| Lattice a | 5.5842 Å | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
+| Lattice a | 5.5261 Å | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
+| Lattice a | 5.6206 Å | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
+| Lattice a | 5.4419 Å | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
+| Lattice a | 5.4624 Å | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
+| Lattice a | 5.5149 Å | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
+| Lattice a | 5.6575 Å | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
+| Lattice a | 5.5727 Å | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
+| Lattice a | 5.4522 Å | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
+| Lattice a | 5.4722 Å | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
+| Lattice a | 5.4928 Å | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
+| Lattice a | 5.6325 Å | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.6085 Å | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
+| Lattice a | 5.5609 Å | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
+| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
+| Lattice a | 5.5492 Å | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
+| Lattice a | 5.6448 Å | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
+| Lattice a | 5.5038 Å | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
+| Lattice a | 5.4825 Å | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
+| Lattice a | 5.5373 Å | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
+| Lattice c | 2.692 Å | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
+| Lattice c | 2.585 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
 | lattice difference at at 25 c | 1.7 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 11 |  |
 | lattice difference at at 25 c | 1.4 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 10 |  |
 | lattice difference at at 25 c | 2.6 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 9 |  |
@@ -172,27 +172,27 @@ Table: Crystal structure, Ge–Si system
 | lattice difference at at 25 c | 19.7 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 31 |  |
 | lattice difference at at 25 c | 17.6 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 32 |  |
 | lattice difference at at 25 c | 23.4 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 30 |  |
-| lattice unspecified axis | 0.5596 nm | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
-| lattice unspecified axis | 0.55842 nm | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
-| lattice unspecified axis | 0.55261 nm | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
-| lattice unspecified axis | 0.56206 nm | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
-| lattice unspecified axis | 0.54419 nm | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
-| lattice unspecified axis | 0.54624 nm | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
-| lattice unspecified axis | 0.55149 nm | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
-| lattice unspecified axis | 0.56575 nm | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
-| lattice unspecified axis | 0.55727 nm | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
-| lattice unspecified axis | 0.54522 nm | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
-| lattice unspecified axis | 0.54722 nm | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
-| lattice unspecified axis | 0.54928 nm | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
-| lattice unspecified axis | 0.56325 nm | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
-| lattice unspecified axis | 0.56085 nm | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
-| lattice unspecified axis | 0.55609 nm | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
-| lattice unspecified axis | 0.5431 nm | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
-| lattice unspecified axis | 0.55492 nm | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
-| lattice unspecified axis | 0.56448 nm | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
-| lattice unspecified axis | 0.55038 nm | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
-| lattice unspecified axis | 0.54825 nm | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
-| lattice unspecified axis | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
+| lattice unspecified axis | 5.596 Å | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
+| lattice unspecified axis | 5.5842 Å | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
+| lattice unspecified axis | 5.5261 Å | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
+| lattice unspecified axis | 5.6206 Å | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
+| lattice unspecified axis | 5.4419 Å | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
+| lattice unspecified axis | 5.4624 Å | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
+| lattice unspecified axis | 5.5149 Å | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
+| lattice unspecified axis | 5.6575 Å | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
+| lattice unspecified axis | 5.5727 Å | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
+| lattice unspecified axis | 5.4522 Å | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
+| lattice unspecified axis | 5.4722 Å | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
+| lattice unspecified axis | 5.4928 Å | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
+| lattice unspecified axis | 5.6325 Å | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
+| lattice unspecified axis | 5.6085 Å | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
+| lattice unspecified axis | 5.5609 Å | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
+| lattice unspecified axis | 5.431 Å | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
+| lattice unspecified axis | 5.5492 Å | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
+| lattice unspecified axis | 5.6448 Å | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
+| lattice unspecified axis | 5.5038 Å | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
+| lattice unspecified axis | 5.4825 Å | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
+| lattice unspecified axis | 5.5373 Å | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
 
 ## Sources
 
@@ -259,4 +259,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

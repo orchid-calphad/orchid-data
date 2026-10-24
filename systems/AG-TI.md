@@ -92,7 +92,7 @@ Table: Invariant reactions reported in the literature for the Ag–Ti system (39
 | 1290 | (β-Ti) + L = AgTi | (β-Ti): Ti 0.15; L: Ti 0.9; AgTi: Ti 0.5 | experimental | [2] Gierlotka 2023; _cites McQuilian 1960_ | Table 1, p. 2, row 3 |  |
 | 1290 | peritectic |  | experimental | [1] Li 2005; _cites McQuillan 1960_ | p. 2 | “The type of the reaction involving (Ag), liquid and (AgTi) is difficult to determine experimentally. McQuillan \[9\] reported that the reaction was of peritectic type and occurred at 1290 K.” |
 | 1289 | L + (β Ti) = AgTi | L: Ti 0.059; (β Ti): Ti 0.835; AgTi: Ti 0.5 | model | [2] Gierlotka 2023; _cites Li 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.09.002) | Table 5, p. 5, row 2 |  |
-| 1273 | (β-Ti) + L = AgTi | AgTi: Ti 0.5 | experimental | [2] Gierlotka 2023; _cites Deccecco 2023_ | Table 1, p. 2, row 1 |  |
+| 1273 | (β-Ti) + L = AgTi | AgTi: Ti 0.5 | experimental | [2] Gierlotka 2023; _cites Deccecco 1953_ | Table 1, p. 2, row 1 |  |
 | 1237 | L + AgTi = (Ag) | L: Ti 0.042; AgTi: Ti 0.5; (Ag): Ti 0.047 | model | [2] Gierlotka 2023; _cites Li 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.09.002) | Table 5, p. 5, row 11 |  |
 | 1235 | L + AgTi = (Ag) | L: Ti 0.039; AgTi: Ti 0.5; (Ag): Ti 0.043 | model | [2] Gierlotka 2023 | Table 5, p. 5, row 10 |  |
 | 1233 | eutectic: L -> (Ag) + (AgTi) | L: Ti 0.0413; (Ag): Ti 0.0376; (AgTi): Ti 0.493 | model | [1] Li 2005 | Table 3, p. 4, row 1 |  |
@@ -102,7 +102,7 @@ Table: Invariant reactions reported in the literature for the Ag–Ti system (39
 | 1218 | (β-Ti) + AgTi = AgTi2 | AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites Eremenko 1969_ [doi](https://doi.org/10.1007/bf00775520) | Table 1, p. 2, row 9 |  |
 | 1218 | peritectoid: β(Ti) + (AgTi) -> AgTi2 | β(Ti): Ti 0.872; (AgTi): Ti 0.51; AgTi2: Ti 0.667 | experimental | [1] Li 2005; _cites Eremenko 1969_ | Table 3, p. 4, row 8 |  |
 | 1216 | AgTi + (β Ti) = AgTi2 | AgTi: Ti 0.5; (β Ti): Ti 0.885; AgTi2: Ti 0.667 | model | [2] Gierlotka 2023; _cites Arroyave 2004_ | Table 5, p. 5, row 6 |  |
-| 1213 | (β-Ti) + AgTi = AgTi2 | (β-Ti): Ti 0.117; AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites Plichta 1892_ | Table 1, p. 2, row 6 |  |
+| 1213 | (β-Ti) + AgTi = AgTi2 | (β-Ti): Ti 0.117; AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites Plichta 1977_ | Table 1, p. 2, row 6 |  |
 | 1213 | peritectoid: β(Ti) + (AgTi) -> AgTi2 | β(Ti): Ti 0.886; (AgTi): Ti 0.51; AgTi2: Ti 0.667 | model | [1] Li 2005 | Table 3, p. 4, row 7 |  |
 | 1212 | AgTi + (β Ti) = AgTi2 | AgTi: Ti 0.5; (β Ti): Ti 0.889; AgTi2: Ti 0.667 | model | [2] Gierlotka 2023 | Table 5, p. 5, row 4 |  |
 | 1206 | AgTi + (β Ti) = AgTi2 | AgTi: Ti 5 (basis unresolved); (β Ti): Ti 0.887; AgTi2: Ti 0.667 | model | [2] Gierlotka 2023; _cites Li 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.09.002) | Table 5, p. 5, row 5 |  |
@@ -160,50 +160,50 @@ Table: Crystal structure, Ag–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.889 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
-| Lattice a | 2.878 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
-| Lattice a | 2.932 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
-| Lattice a | 2.888 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice a | 2.951 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice a | 2.95 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice a | 2.9064 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice a | 2.818 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice a | 2.97 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
-| Lattice a | 2.9 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
-| Lattice a | 2.904 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
-| Lattice a | 2.96 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
-| Lattice a | 2.95 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 11 |  |
-| Lattice a | 2.909 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
-| Lattice b | 2.889 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
-| Lattice b | 2.878 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
-| Lattice b | 2.932 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
-| Lattice b | 2.888 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice b | 2.951 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice b | 2.95 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice b | 2.9064 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice b | 2.818 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice b | 2.97 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
-| Lattice b | 2.9 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
-| Lattice b | 2.904 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
-| Lattice b | 2.96 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
-| Lattice b | 2.95 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 11 |  |
-| Lattice b | 2.909 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
-| Lattice c | 2.889 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
-| Lattice c | 2.878 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
-| Lattice c | 2.932 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
-| Lattice c | 2.888 A | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice c | 4.685 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice c | 4.686 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice c | 4.667 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice c | 4.551 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice c | 4.72 A | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
-| Lattice c | 8.15 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
-| Lattice c | 8.12 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 16 |  |
-| Lattice c | 8.14 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 15 |  |
-| Lattice c | 8.225 A | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
-| Lattice c | 11.85 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
-| Lattice c | 12.183 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
-| Lattice c | 11.82 A | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 12 |  |
+| Lattice a | 2.889 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
+| Lattice a | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
+| Lattice a | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
+| Lattice a | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
+| Lattice a | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
+| Lattice a | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
+| Lattice a | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
+| Lattice a | 2.818 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
+| Lattice a | 2.97 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
+| Lattice a | 2.9 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
+| Lattice a | 2.904 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
+| Lattice a | 2.96 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
+| Lattice a | 2.95 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 11 |  |
+| Lattice a | 2.909 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
+| Lattice b | 2.889 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
+| Lattice b | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
+| Lattice b | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
+| Lattice b | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
+| Lattice b | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
+| Lattice b | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
+| Lattice b | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
+| Lattice b | 2.818 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
+| Lattice b | 2.97 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
+| Lattice b | 2.9 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
+| Lattice b | 2.904 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
+| Lattice b | 2.96 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
+| Lattice b | 2.95 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 11 |  |
+| Lattice b | 2.909 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
+| Lattice c | 2.889 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 9 |  |
+| Lattice c | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
+| Lattice c | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
+| Lattice c | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
+| Lattice c | 4.685 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
+| Lattice c | 4.686 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
+| Lattice c | 4.667 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
+| Lattice c | 4.551 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
+| Lattice c | 4.72 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
+| Lattice c | 8.15 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
+| Lattice c | 8.12 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 16 |  |
+| Lattice c | 8.14 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 15 |  |
+| Lattice c | 8.225 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
+| Lattice c | 11.85 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
+| Lattice c | 12.183 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 10 |  |
+| Lattice c | 11.82 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 12 |  |
 
 ## Sources
 
@@ -269,4 +269,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

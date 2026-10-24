@@ -71,7 +71,7 @@ Table: Invariant reactions reported in the literature for the Ag–Sc system (10
 | 1403.15 | eutectic: L -> AgSc + Ag2Sc | L: Sc 0.4; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 10 |  |
 | 1209.15 | peritectic: L + Ag2Sc -> Ag4Sc | Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 14 |  |
 | 1208.75 | peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.164; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | model | [1] Liu 2009 | Table 3, p. 4, row 16 |  |
-| 1199.15 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.12; Ag4Sc: Sc 0.2; (Ag): Sc 0.104 | experimental | [1] Liu 2009; _cites Gschneidner 1971_ | Table 3, p. 4, row 17 |  |
+| 1199.15 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.12; Ag4Sc: Sc 0.2; (Ag): Sc 0.104 | experimental | [1] Liu 2009; _cites Gschneidner 1970_ | Table 3, p. 4, row 17 |  |
 | 1198.95 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.139; Ag4Sc: Sc 0.2; (Ag): Sc 0.115 | model | [1] Liu 2009 | Table 3, p. 4, row 19 |  |
 | 1193.15 | eutectic: L -> αSc + AgSc | L: Sc 0.8; αSc: Sc 1; AgSc: Sc 0.5 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 6 |  |
 | 1193.15 | eutectic: L -> αSc + AgSc | L: Sc 0.787; αSc: Sc 1; AgSc: Sc 0.5 | model | [1] Liu 2009 | Table 3, p. 4, row 7 |  |
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

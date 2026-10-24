@@ -29,22 +29,22 @@ Table: Crystal structure, Cd–Fe–Mn–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.32328 nm |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.29788 nm | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.28665 nm | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.89219 nm | 298.15 | (αMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.64892 nm | 298.15 | (αSn); _alloy: Fe 0, Mn 0, Sn 1_ | experimental | [1] Qin 2014; _cites Thewlis 1954_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.63152 nm | 298.15 | (βMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.58316 nm | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.36467 nm | 298.15 | (γFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.386 nm | 298.15 | (γMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.29793 nm | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
-| Lattice a | 0.308 nm | 298.15 | (δMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.30023 nm |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
-| Lattice c | 0.56167 nm | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
-| Lattice c | 0.4947 nm | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice c | 0.31815 nm | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
-| Lattice c | 0.56196 nm | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
+| Lattice a | 3.2328 Å |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
+| Lattice a | 2.9788 Å | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 2.8665 Å | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
+| Lattice a | 8.9219 Å | 298.15 | (αMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 6.4892 Å | 298.15 | (αSn); _alloy: Fe 0, Mn 0, Sn 1_ | experimental | [1] Qin 2014; _cites Thewlis 1954_ | Table 2, p. 3, row 3 |  |
+| Lattice a | 6.3152 Å | 298.15 | (βMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 6 |  |
+| Lattice a | 5.8316 Å | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
+| Lattice a | 3.6467 Å | 298.15 | (γFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10 |  |
+| Lattice a | 3.86 Å | 298.15 | (γMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 7 |  |
+| Lattice a | 2.9793 Å | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
+| Lattice a | 3.08 Å | 298.15 | (δMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 8 |  |
+| Lattice c | 3.0023 Å |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
+| Lattice c | 5.6167 Å | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
+| Lattice c | 4.947 Å | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
+| Lattice c | 3.1815 Å | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
+| Lattice c | 5.6196 Å | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
 
 ## Sources
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

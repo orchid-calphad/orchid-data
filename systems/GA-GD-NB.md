@@ -84,7 +84,7 @@ Table: Enthalpies of formation, Ga–Gd–Nb system (28)
 | Ga3Nb |  | -38.5 per mol-atom ± 3 | 298.15 | experimental |  |  | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 3 |  |
 | Ga3Nb | [Ga3Nb](https://data.orchid-project.org/compounds/Ga3Nb.html) | -26.911 kJ/mol-atom | 298.15 | model | -29.762 (mp-aaaaacxx) | -29.551 (oqmd-30302) | [1] Tamim 2023 | Table 2, p. 8, row 4 |  |
 | Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -39.6 kJ/mol-atom ± 1 | 298.15 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
-| Ga3Nb5 |  | -32.89 kJ/mol-atom | 298.15 | DFT |  |  | [1] Tamim 2023; _cites Colinet 2014_ | Table 2, p. 8, row 13 |  |
+| Ga3Nb5 |  | -32.89 kJ/mol-atom | 298.15 | DFT |  |  | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13 |  |
 | Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -28.953 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
 | Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -27.43 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
 | Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -26.5 kJ/mol-atom ± 1.7 | 1373 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

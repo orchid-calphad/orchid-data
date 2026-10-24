@@ -113,13 +113,13 @@ Table: Crystal structure, Be–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.281 nm |  | β | unspecified | [1] Liu 2018 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.3615 nm | 298.15 | (Cu); _alloy: Cu 1_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.2286 nm | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.2552 nm | 298.15 | (βBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.2702 nm | 298.15 | γ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.5852 nm | 298.15 | δ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 5 |  |
-| Lattice c | 0.3585 nm | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
+| Lattice a | 2.81 Å |  | β | unspecified | [1] Liu 2018 | Table 2, p. 3, row 2 |  |
+| Lattice a | 3.615 Å | 298.15 | (Cu); _alloy: Cu 1_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 1 |  |
+| Lattice a | 2.286 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
+| Lattice a | 2.552 Å | 298.15 | (βBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 6 |  |
+| Lattice a | 2.702 Å | 298.15 | γ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.852 Å | 298.15 | δ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 5 |  |
+| Lattice c | 3.585 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -52,7 +52,7 @@ Table: Invariant reactions reported in the literature for the Pb–Se system (6)
 | 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.005; liq#1: Se 0.0076 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3 |  |
 | 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.00761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4 |  |
 | 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.005; liq#1: Se 0.00746 | model | [1] Liu 2012 | Table VII, p. 8, row 5 |  |
-| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.005 | experimental | [1] Liu 2012; _cites Greenwood 1966_ | Table VII, p. 8, row 1 |  |
+| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.005 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1 |  |
 | 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.005 | model | [1] Liu 2012 | Table VII, p. 8, row 2 |  |
 | 493.9 | liq -> (Se) + PbSe | L: Se 0.01; (Se): Se 0.01; PbSe: Se 0.005 | model | [1] Liu 2012 | Table VII, p. 8, row 6 |  |
 
@@ -65,7 +65,7 @@ Table: Enthalpies of formation, Pb–Se system (7)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | PbSe |  | -105 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 36_ | Table IX, p. 8, row 2 |  |
-| PbSe |  | -100.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Shamsuddin 1923_ | Table IX, p. 8, row 6 |  |
+| PbSe |  | -100.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Shamsuddin 1973_ | Table IX, p. 8, row 6 |  |
 | PbSe |  | -99.78 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2012 | Table IX, p. 8, row 7 |  |
 | PbSe |  | -99.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 38_ | Table IX, p. 8, row 4 |  |
 | PbSe |  | -99.26 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Deore 2008_ [doi](https://doi.org/10.2138/am.2008.2752) | Table IX, p. 8, row 1 |  |
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

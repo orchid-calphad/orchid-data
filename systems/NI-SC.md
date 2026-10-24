@@ -317,34 +317,34 @@ Table: Crystal structure, Ni–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.351 nm | 298.15 | (Ni); _(Ni): Ni 0.993, Sc 0.007_ | unspecified | [3] Cao 2014; _cites Maslenkov 2014_ | Table 2, p. 3, row 22 |  |
-| Lattice a | 0.3296 nm | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.473 nm | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
-| Lattice a | 1.212 nm | 298.15 | Sc2Ni; _alloy: Sc 0.666667_ | experimental | [3] Cao 2014; _cites Aldred 1962_ | Table 2, p. 3, row 20 |  |
-| Lattice a | 1.217 nm | 298.15 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 19 |  |
-| Lattice a | 0.474 nm | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.475 nm | 298.15 | Sc2Ni7; _Sc2Ni7: Ni 0.7778, Sc 0.2222_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.3171 nm | 298.15 | ScNi; _alloy: Sc 0.5_ | experimental | [3] Cao 2014; _cites Aldred 1962_ | Table 2, p. 3, row 16 |  |
-| Lattice a | 0.3171 nm | 298.15 | ScNi; _ScNi: Ni 0.47, Sc 0.53_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 15 |  |
-| Lattice a | 0.692 nm | 298.15 | ScNi2 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 13 |  |
-| Lattice a | 0.6906 nm | 298.15 | ScNi2 | unspecified | [3] Cao 2014; _cites Maslenkov 2014_ | Table 2, p. 3, row 12 |  |
-| Lattice a | 0.469 nm | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.4745 nm | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.474 nm | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.3308 nm ± 8.000e-4 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.3292 nm ± 7.000e-4 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
-| Lattice a | 1.218 nm ± 0.003 | 1053 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 21 |  |
-| Lattice a | 0.31718 nm ± 1.000e-5 | 1273 | ScNi; _ScNi: Ni 0.5, Sc 0.5_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 17 |  |
-| Lattice a | 0.6938 nm ± 3.000e-4 | 1273 | ScNi2 | experimental | [3] Cao 2014 | Table 2, p. 3, row 14 |  |
-| Lattice c | 0.5235 nm | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice c | 0.318 nm | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
-| Lattice c | 2.256 nm | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
-| Lattice c | 2.272 nm | 298.15 | Sc2Ni7; _Sc2Ni7: Ni 0.7778, Sc 0.2222_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 9 |  |
-| Lattice c | 0.3887 nm | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
-| Lattice c | 0.375 nm | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
-| Lattice c | 0.376 nm | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
-| Lattice c | 0.5268 nm | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
-| Lattice c | 0.5222 nm ± 7.000e-4 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
+| Lattice a | 3.51 Å | 298.15 | (Ni); _(Ni): Ni 0.993, Sc 0.007_ | unspecified | [3] Cao 2014; _cites Maslenkov 2014_ | Table 2, p. 3, row 22 |  |
+| Lattice a | 3.296 Å | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
+| Lattice a | 4.73 Å | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
+| Lattice a | 12.12 Å | 298.15 | Sc2Ni; _alloy: Sc 0.666667_ | experimental | [3] Cao 2014; _cites Aldred 1962_ | Table 2, p. 3, row 20 |  |
+| Lattice a | 12.17 Å | 298.15 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 19 |  |
+| Lattice a | 4.74 Å | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
+| Lattice a | 4.75 Å | 298.15 | Sc2Ni7; _Sc2Ni7: Ni 0.7778, Sc 0.2222_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 9 |  |
+| Lattice a | 3.171 Å | 298.15 | ScNi; _alloy: Sc 0.5_ | experimental | [3] Cao 2014; _cites Aldred 1962_ | Table 2, p. 3, row 16 |  |
+| Lattice a | 3.171 Å | 298.15 | ScNi; _ScNi: Ni 0.47, Sc 0.53_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 15 |  |
+| Lattice a | 6.92 Å | 298.15 | ScNi2 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 13 |  |
+| Lattice a | 6.906 Å | 298.15 | ScNi2 | unspecified | [3] Cao 2014; _cites Maslenkov 2014_ | Table 2, p. 3, row 12 |  |
+| Lattice a | 4.69 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 4.745 Å | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
+| Lattice a | 4.74 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
+| Lattice a | 3.308 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
+| Lattice a | 3.292 Å ± 0.007 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
+| Lattice a | 12.18 Å ± 0.03 | 1053 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 21 |  |
+| Lattice a | 3.1718 Å ± 1.000e-4 | 1273 | ScNi; _ScNi: Ni 0.5, Sc 0.5_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 17 |  |
+| Lattice a | 6.938 Å ± 0.003 | 1273 | ScNi2 | experimental | [3] Cao 2014 | Table 2, p. 3, row 14 |  |
+| Lattice c | 5.235 Å | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
+| Lattice c | 3.18 Å | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
+| Lattice c | 22.56 Å | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
+| Lattice c | 22.72 Å | 298.15 | Sc2Ni7; _Sc2Ni7: Ni 0.7778, Sc 0.2222_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 9 |  |
+| Lattice c | 3.887 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
+| Lattice c | 3.75 Å | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
+| Lattice c | 3.76 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
+| Lattice c | 5.268 Å | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
+| Lattice c | 5.222 Å ± 0.007 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
 
 ## Sources
 
@@ -411,4 +411,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

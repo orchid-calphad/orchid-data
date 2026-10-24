@@ -133,18 +133,18 @@ Table: Crystal structure, Cu–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4985 nm ± 3.000e-4 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
-| Lattice a | 0.4949 nm ± 4.000e-4 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
-| Lattice a | 0.4982 nm ± 0.0014 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
-| Lattice a | 0.494 nm ± 2.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
-| Lattice a | 0.4985 nm ± 3.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
-| Lattice a | 0.496 nm ± 1.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
-| Lattice c | 0.4124 nm ± 4.000e-4 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
-| Lattice c | 0.415 nm ± 5.000e-4 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
-| Lattice c | 0.4122 nm ± 0.0021 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
-| Lattice c | 0.4152 nm ± 2.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
-| Lattice c | 0.4122 nm ± 4.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
-| Lattice c | 0.4142 nm ± 1.000e-4 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
+| Lattice a | 4.985 Å ± 0.003 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
+| Lattice a | 4.949 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
+| Lattice a | 4.982 Å ± 0.014 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
+| Lattice a | 4.94 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
+| Lattice a | 4.985 Å ± 0.003 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
+| Lattice a | 4.96 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
+| Lattice c | 4.124 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
+| Lattice c | 4.15 Å ± 0.005 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
+| Lattice c | 4.122 Å ± 0.021 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
+| Lattice c | 4.152 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
+| Lattice c | 4.122 Å ± 0.004 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
+| Lattice c | 4.142 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
 | lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
 | lattice c a | 0.839 not_printed | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
 | lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

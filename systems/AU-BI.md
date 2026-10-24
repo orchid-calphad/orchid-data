@@ -82,17 +82,17 @@ Table: Invariant reactions reported in the literature for the Au–Bi system (44
 | 646 | peritectic: fcc + (L) ⇌ Au2Bi | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Jurriaanse 1948_ | Table 2, p. 6, row 10 |  |
 | 646 | peritectic: fcc + (L) ⇌ Au2Bi | L: Bi 0.68; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Gather 1975_ | Table 2, p. 6, row 8 |  |
 | 644 | Fcc + L \<-> Au2Bi | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Hultgren 1973_ | Table 1, p. 2, row 9 |  |
-| 644 | Fcc + L \<-> Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 2012_ | Table 1, p. 2, row 6 |  |
-| 644 | peritectic: fcc + (L) ⇌ Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 2012_ | Table 2, p. 6, row 7 |  |
+| 644 | Fcc + L \<-> Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 1962_ | Table 1, p. 2, row 6 |  |
+| 644 | peritectic: fcc + (L) ⇌ Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 1962_ | Table 2, p. 6, row 7 |  |
 | 544.52 | Bi(rho) ⇌ Bi(liq) | Bi(liq): Bi 1 | model | [1] Chevalier 1988 | Table 2, p. 6, row 3 |  |
 | 544.52 | Bi(rho) ⇌ Bi(liq) | Bi(liq): Bi 1 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 4 |  |
 | 520 | L \<-> Au2Bi + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | Table 1, p. 2, row 19 |  |
 | 515.1 | L \<-> Au2Bi + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Zoro 2005_ | Table 1, p. 2, row 13 |  |
 | 514.4 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 11 |  |
 | 514.4 | L \<-> Au2Bi + (Bi) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table 1, p. 2, row 12 |  |
-| 514.25 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 2012_ | Table 2, p. 6, row 14 |  |
+| 514.25 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 1962_ | Table 2, p. 6, row 14 |  |
 | 514.15 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.86; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Vogel 1906_ [doi](https://doi.org/10.1002/zaac.19060500116) | Table 2, p. 6, row 12 |  |
-| 514.1 | L \<-> Au2Bi + (Bi) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 2012_ | Table 1, p. 2, row 16 |  |
+| 514.1 | L \<-> Au2Bi + (Bi) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 1962_ | Table 1, p. 2, row 16 |  |
 | 514 | eutectic |  | experimental | [3] Wang 2007; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | p. 3 | “However, a sharp peak of heat capacity via temperature curve was observed, which indicates a discontinuous increase of enthalpy at the eutectic temperature, 514 K.” |
 | 514 | L \<-> Au2Bi + (Bi) | L: Bi 0.864; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Evans 1983_ | Table 1, p. 2, row 18 |  |
 | 514 | L \<-> Au2Bi + (Bi) | L: Bi 0.8544; Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006 | Table 1, p. 2, row 11 |  |
@@ -199,4 +199,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

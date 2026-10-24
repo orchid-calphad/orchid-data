@@ -139,20 +139,20 @@ Table: Crystal structure, Al–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 917 pm | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice a | 1145 pm | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
+| Lattice a | 9.17 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
+| Lattice a | 11.45 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
 | Lattice a | 1851 not_printed ± 3 | 243.15 | α-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Corbridge 1952_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 404.9 pm | 298.15 | (Al); _alloy: P 0_ | unspecified | [1] Liang 2013; _cites Villars 1985_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.049 Å | 298.15 | (Al); _alloy: P 0_ | unspecified | [1] Liang 2013; _cites Villars 1985_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 546.4 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 1, p. 2, row 7 |  |
 | Lattice a | 544.8 not_printed ± 0.3 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites White 1944_ [doi](https://doi.org/10.1021/ja01238a018) | Table 1, p. 2, row 6 |  |
 | Lattice a | 546.7 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 1, p. 2, row 8 |  |
-| Lattice a | 921 pm | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
-| Lattice b | 833 pm | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice b | 550 pm | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
-| Lattice b | 915 pm | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
-| Lattice c | 543 pm | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice c | 1126 pm | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
-| Lattice c | 2260 pm | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
+| Lattice a | 9.21 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
+| Lattice b | 8.33 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
+| Lattice b | 5.5 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
+| Lattice b | 9.15 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.43 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
+| Lattice c | 11.26 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
+| Lattice c | 22.6 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
 
 ## Sources
 
@@ -218,4 +218,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

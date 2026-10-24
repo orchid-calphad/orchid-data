@@ -32,7 +32,7 @@ Table: Enthalpies of formation, Al–As–Ga–In–N system (28)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | unspecified |  | -318.4 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7 |  |
 | unspecified |  | -317.9 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Era 1977_ | Table AI, p. 18, row 13 |  |
-| unspecified |  | -316.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hildebrand 2002_ | Table AI, p. 18, row 12 |  |
+| unspecified |  | -316.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hildebrand 1963_ | Table AI, p. 18, row 12 |  |
 | unspecified |  | -313 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Neugebauer 1957_ | Table AI, p. 18, row 11 |  |
 | unspecified |  | -312.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Sato 1932_ | Table AI, p. 18, row 10 |  |
 | unspecified |  | -311.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites McHale 1999_ | Table AI, p. 18, row 14 |  |
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

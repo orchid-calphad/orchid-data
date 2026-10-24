@@ -78,7 +78,7 @@ Table: Invariant reactions reported in the literature for the Ag–Y system (27)
 | 1160.25 | eutectic: L ↔ αY + AgY | L: Y 0.729; αY: Y 1; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 7 |  |
 | 1158.15 | eutectic: L ↔ αY + AgY | L: Y 0.725; αY: Y 1; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 6 |  |
 | 1158.15 | eutectic: L ↔ AgY + ␣Y |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
-| 1072.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.215; (Ag): Y 0.0131 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 3, p. 3, row 20 |  |
+| 1072.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.215; (Ag): Y 0.0131 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 3, p. 3, row 20 |  |
 | 1070.25 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.105; Ag51Y14: Y 0.2; (Ag): Y 0.016 | model | [1] Wang 2009 | Table 3, p. 3, row 21 |  |
 | 1048.15 | eutectic: L ↔ (Ag) + Ag51 Y14 |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
 | 1048.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 19 |  |
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

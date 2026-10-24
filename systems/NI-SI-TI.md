@@ -58,41 +58,41 @@ Table: Crystal structure, Ni–Si–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 0.61619 nm | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
-| Lattice a; _printed: a_ | 0.48235 nm | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16 |  |
-| Lattice a; _printed: a_ | 1.13232 nm | 0 | G-Ni16Si7Ti6; _alloy: Si 0.241379, Ti 0.206897_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 15 |  |
-| Lattice a; _printed: a_ | 0.49641 nm | 0 | Ni3Si(D024); _alloy: Si 0.25, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 0.51327 nm | 0 | Ni3Ti(D024); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| Lattice a; _printed: a_ | 0.36255 nm | 0 | Ni3Ti(L12); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 0.28541 nm | 0 | NiSi(B2); _alloy: Si 0.5, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 0.30165 nm | 0 | NiTi(B2); _alloy: Si 0, Ti 0.5_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 0.37446 nm | 0 | Si3Ni(L12); _alloy: Si 0.75, Ti 0_ | DFT | [1] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 0.38409 nm | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
-| Lattice a; _printed: a_ | 0.31161 nm | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 0.55958 nm | 0 | Ti3Ni(D024); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
-| Lattice a; _printed: a_ | 0.39458 nm | 0 | Ti3Ni(L12); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 0.56223 nm | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 3.9753 nm | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
-| Lattice a; _printed: a_ | 1.26079 nm | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
-| Lattice a | 1.1187 nm | 298.15 | UNKNOWN; _alloy: Si 0.241379, Ti 0.206897_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 13 |  |
-| Lattice a | 1.25229 nm | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.61484 nm | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
-| Lattice a | 0.5101 nm | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.3007 nm | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.5_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.479 nm | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14 |  |
-| Lattice b; _printed: b_ | 0.36779 nm | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
-| Lattice b | 0.36698 nm | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
-| Lattice c; _printed: c_ | 0.70327 nm | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
-| Lattice c; _printed: c_ | 0.76027 nm | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16 |  |
-| Lattice c; _printed: c_ | 0.81908 nm | 0 | Ni3Si(D024); _alloy: Si 0.25, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 0.83577 nm | 0 | Ni3Ti(D024); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| Lattice c; _printed: c_ | 0.90987 nm | 0 | Ti3Ni(D024); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
-| Lattice c; _printed: c_ | 0.91503 nm | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| Lattice c; _printed: c_ | 0.49678 nm | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
-| Lattice c | 0.49343 nm | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15 |  |
-| Lattice c | 0.70173 nm | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
-| Lattice c | 0.83067 nm | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10 |  |
-| Lattice c | 0.755 nm | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 6.1619 Å | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
+| Lattice a; _printed: a_ | 4.8235 Å | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16 |  |
+| Lattice a; _printed: a_ | 11.3232 Å | 0 | G-Ni16Si7Ti6; _alloy: Si 0.241379, Ti 0.206897_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 15 |  |
+| Lattice a; _printed: a_ | 4.9641 Å | 0 | Ni3Si(D024); _alloy: Si 0.25, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+| Lattice a; _printed: a_ | 5.1327 Å | 0 | Ni3Ti(D024); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
+| Lattice a; _printed: a_ | 3.6255 Å | 0 | Ni3Ti(L12); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
+| Lattice a; _printed: a_ | 2.8541 Å | 0 | NiSi(B2); _alloy: Si 0.5, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 3.0165 Å | 0 | NiTi(B2); _alloy: Si 0, Ti 0.5_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.7446 Å | 0 | Si3Ni(L12); _alloy: Si 0.75, Ti 0_ | DFT | [1] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 3.8409 Å | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
+| Lattice a; _printed: a_ | 3.1161 Å | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
+| Lattice a; _printed: a_ | 5.5958 Å | 0 | Ti3Ni(D024); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
+| Lattice a; _printed: a_ | 3.9458 Å | 0 | Ti3Ni(L12); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
+| Lattice a; _printed: a_ | 5.6223 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 39.753 Å | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
+| Lattice a; _printed: a_ | 12.6079 Å | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
+| Lattice a | 11.187 Å | 298.15 | UNKNOWN; _alloy: Si 0.241379, Ti 0.206897_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 13 |  |
+| Lattice a | 12.5229 Å | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15 |  |
+| Lattice a | 6.1484 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
+| Lattice a | 5.101 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10 |  |
+| Lattice a | 3.007 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.5_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.79 Å | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14 |  |
+| Lattice b; _printed: b_ | 3.6779 Å | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
+| Lattice b | 3.6698 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
+| Lattice c; _printed: c_ | 7.0327 Å | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18 |  |
+| Lattice c; _printed: c_ | 7.6027 Å | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16 |  |
+| Lattice c; _printed: c_ | 8.1908 Å | 0 | Ni3Si(D024); _alloy: Si 0.25, Ti 0_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+| Lattice c; _printed: c_ | 8.3577 Å | 0 | Ni3Ti(D024); _alloy: Si 0, Ti 0.25_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
+| Lattice c; _printed: c_ | 9.0987 Å | 0 | Ti3Ni(D024); _alloy: Si 0, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
+| Lattice c; _printed: c_ | 9.1503 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| Lattice c; _printed: c_ | 4.9678 Å | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
+| Lattice c | 4.9343 Å | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15 |  |
+| Lattice c | 7.0173 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16 |  |
+| Lattice c | 8.3067 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10 |  |
+| Lattice c | 7.55 Å | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14 |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

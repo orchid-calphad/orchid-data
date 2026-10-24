@@ -500,7 +500,7 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 308 K | 308 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Paoluzi 2000_ [doi](https://doi.org/10.1016/s0304-8853%2899%2900778-7) | Table 2, p. 5, row 8 |  |
 | Phase transition | 309 K | 309 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Knyazev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901429-3) | Table 2, p. 5, row 7 |  |
 | Phase transition | 309 K | 309 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Kuchin 1996_ [doi](https://doi.org/10.1002/pssa.2211550222) | Table 2, p. 5, row 10 |  |
-| Phase transition | 310 K | 310 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Kou 1998_ | Table 2, p. 5, row 4 |  |
+| Phase transition | 310 K | 310 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Kou 2017_ | Table 2, p. 5, row 4 |  |
 | Phase transition | 320.15 K | 320.15 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 7 |  |
 | Phase transition | 322 K | 322 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Liao 1992_ [doi](https://doi.org/10.1063/1.107346) | Table 2, p. 5, row 1 |  |
 | Phase transition | 324 K | 324 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 5, row 14 |  |
@@ -520,7 +520,7 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 485.15 K | 485.15 | magnetic: Fe23Y6; _alloy: Y 0.206897_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 12 |  |
 | Phase transition | 490 K | 490 | magnetic: Fe23Y6; _alloy: Y 0.206897_ | experimental | [2] Saenko 2017; _cites Kirchmayr 1968_ [doi](https://doi.org/10.1063/1.1656174) | Table 2, p. 5, row 18 |  |
 | Phase transition | 529.15 K | 529.15 | magnetic: Fe3Y; _alloy: Y 0.25_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 19 |  |
-| Phase transition | 534 K | 534 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Muraoka 1977_ [doi](https://doi.org/10.1002/pssa.2210420141) | Table 2, p. 5, row 29 |  |
+| Phase transition | 534 K | 534 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Muraoka 2017_ [doi](https://doi.org/10.1002/pssa.2210420141) | Table 2, p. 5, row 29 |  |
 | Phase transition | 535 K | 535 | magnetic | experimental | [4] Ye 2023; _cites ref. 124_ | p. 6 | “However, Dariel et al. did not report the specific heat data but only gave the Curie temperature of Fe2Y to be 535 K\[124\].” |
 | Phase transition | 535.15 K | 535.15 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 24 |  |
 | Phase transition | 542 K | 542 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 5, row 32 |  |
@@ -756,4 +756,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

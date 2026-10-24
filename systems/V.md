@@ -47,7 +47,7 @@ Table: Heat capacity / entropy / enthalpy, V system
 | Heat capacity; _printed: γ_ | 9.67 mJ/(mol⋅K) |  | bcc | unspecified | [1] Hu 2020; _cites Arblaster 2017_ [doi](https://doi.org/10.1007/s11669-016-0514-7) | Table 6, p. 6, row 26 |  |
 | Heat capacity; _printed: γ_ | 9.47 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Ohlendorf 1979_ [doi](https://doi.org/10.1016/0022-3697%2879%2990154-9) | Table 6, p. 6, row 20 |  |
 | Heat capacity; _printed: γ_ | 9.26 mJ/(mol⋅K) |  | bcc | model | [1] Hu 2020; _cites Kittel 1996_ | Table 6, p. 6, row 24 |  |
-| Heat capacity; _printed: γ_ | 8.87 mJ/(mol⋅K) |  | bcc | unspecified | [1] Hu 2020; _cites Cheng 2033_ | Table 6, p. 6, row 6 |  |
+| Heat capacity; _printed: γ_ | 8.87 mJ/(mol⋅K) |  | bcc | unspecified | [1] Hu 2020; _cites Cheng 1962_ | Table 6, p. 6, row 6 |  |
 | Heat capacity; _printed: γ_ | 9.75 mJ/(mol⋅K) ± 0.3 |  | bcc | unspecified | [1] Hu 2020; _cites Desai 1986_ [doi](https://doi.org/10.1007/bf00503812) | Table 6, p. 6, row 25 |  |
 | Heat capacity; _printed: γ_ | 8.8 mJ/(mol⋅K) |  | bcc | model | [1] Hu 2020; _cites Vergara 1984_ [doi](https://doi.org/10.1016/0022-3697%2884%2990028-3) | Table 6, p. 6, row 21 |  |
 | Heat capacity; _printed: γ_ | 9.669 mJ/(mol⋅K) |  | bcc | unspecified | [1] Hu 2020; _cites Li 2007_ [doi](https://doi.org/10.1007/s11434-007-0471-y) | Table 6, p. 6, row 27 |  |
@@ -55,7 +55,7 @@ Table: Heat capacity / entropy / enthalpy, V system
 | Heat capacity; _printed: γ_ | 9.64 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Shen 1965_ | Table 6, p. 6, row 2 |  |
 | Heat capacity; _printed: γ_ | 10.4 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Kumagai 1974_ [doi](https://doi.org/10.1143/jpsj.37.384) | Table 6, p. 6, row 17 |  |
 | Heat capacity; _printed: γ_ | 8.996 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Corak 1954_ [doi](https://doi.org/10.1103/physrev.96.1442.2) | Table 6, p. 6, row 3 |  |
-| Heat capacity; _printed: γ_ | 9.63 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Ishikawa 1861_ | Table 6, p. 6, row 14 |  |
+| Heat capacity; _printed: γ_ | 9.63 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Ishikawa 1971_ | Table 6, p. 6, row 14 |  |
 | Heat capacity; _printed: γ_ | 9.67 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Leupold 1977_ [doi](https://doi.org/10.1007/bf00668217) | Table 6, p. 6, row 18 |  |
 | Heat capacity; _printed: γ_ | 9.247 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites E 1964_ | Table 6, p. 6, row 9 |  |
 | Heat capacity; _printed: γ_ | 9.92 mJ/(mol⋅K) |  | bcc | experimental | [1] Hu 2020; _cites Keesom 1964_ [doi](https://doi.org/10.1103/physrevlett.13.685) | Table 6, p. 6, row 8 |  |
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

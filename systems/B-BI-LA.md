@@ -71,41 +71,41 @@ Table: Crystal structure, B–Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4583 nm | 0 | (Bi); _alloy: Bi 1, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 12 |  |
-| Lattice a | 0.4546 nm | 0 | (Bi); _alloy: Bi 1, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 11 |  |
-| Lattice a | 0.5052 nm | 0 | (αB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 8 |  |
-| Lattice a | 0.5057 nm | 0 | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 1.012 nm | 0 | (βB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 10 |  |
-| Lattice a | 1.017 nm | 0 | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.429 nm | 0 | Bcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.425 nm | 0 | Bcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.3772 nm | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.3762 nm | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.529 nm | 0 | Fcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.526 nm | 0 | Fcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.4712 nm | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice a | 0.4737 nm | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice a | 0.9886 nm | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22 |  |
-| Lattice a | 0.979 nm | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21 |  |
-| Lattice a | 0.9659 nm | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice a | 0.9767 nm | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice a | 0.731 nm | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice a | 0.7325 nm | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
-| Lattice a | 0.4151 nm | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 15 |  |
-| Lattice a | 0.4155 nm | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 16 |  |
-| Lattice a | 0.6659 nm | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24 |  |
-| Lattice a | 0.6658 nm | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23 |  |
-| Lattice a | 0.4737 nm | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice b | 1.751 nm | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice c | 1.2144 nm | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 1.2078 nm | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice c | 1.8583 nm | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice c | 1.834 nm | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice c | 0.6697 nm | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice c | 0.6727 nm | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice c | 0.4184 nm | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice c | 0.4181 nm | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
-| Lattice c | 0.4564 nm | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice a | 4.583 Å | 0 | (Bi); _alloy: Bi 1, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 12 |  |
+| Lattice a | 4.546 Å | 0 | (Bi); _alloy: Bi 1, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 11 |  |
+| Lattice a | 5.052 Å | 0 | (αB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 8 |  |
+| Lattice a | 5.057 Å | 0 | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 10.12 Å | 0 | (βB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 10 |  |
+| Lattice a | 10.17 Å | 0 | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9 |  |
+| Lattice a | 4.29 Å | 0 | Bcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 4.25 Å | 0 | Bcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 2 |  |
+| Lattice a | 3.772 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 3.762 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
+| Lattice a | 5.29 Å | 0 | Fcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.26 Å | 0 | Fcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 4 |  |
+| Lattice a | 4.712 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
+| Lattice a | 4.737 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
+| Lattice a | 9.886 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22 |  |
+| Lattice a | 9.79 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21 |  |
+| Lattice a | 9.659 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
+| Lattice a | 9.767 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
+| Lattice a | 7.31 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
+| Lattice a | 7.325 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
+| Lattice a | 4.151 Å | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 15 |  |
+| Lattice a | 4.155 Å | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 16 |  |
+| Lattice a | 6.659 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24 |  |
+| Lattice a | 6.658 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23 |  |
+| Lattice a | 4.737 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice b | 17.51 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice c | 12.144 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
+| Lattice c | 12.078 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
+| Lattice c | 18.583 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
+| Lattice c | 18.34 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
+| Lattice c | 6.697 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
+| Lattice c | 6.727 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
+| Lattice c | 4.184 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
+| Lattice c | 4.181 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
+| Lattice c | 4.564 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

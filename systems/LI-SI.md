@@ -232,29 +232,29 @@ Table: Crystal structure, Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 860 pm | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
-| Lattice a | 794.88 pm ± 0.04 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
-| Lattice a | 1063.22 pm ± 0.09 | 298.15 | Li15Si4; _alloy: Si 0.210526_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 5 |  |
-| Lattice a | 1872.59 pm ± 0.01 | 298.15 | Li17Si4; _alloy: Si 0.190476_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 1 |  |
-| Lattice a | 1871 pm | 298.15 | Li21Si5; _alloy: Si 0.192308_ | experimental | [1] Liang 2017; _cites Nesper 1987_ [doi](https://doi.org/10.1016/0022-4596%2887%2990176-9) | Table 1, p. 2, row 3 |  |
-| Lattice a | 1875 pm | 298.15 | Li22Si5; _alloy: Si 0.185185_ | experimental | [1] Liang 2017; _cites Axel 1966_ [doi](https://doi.org/10.1515/znb-1966-0204) | Table 1, p. 2, row 2 |  |
-| Lattice a | 770 pm | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
-| Lattice a | 799 pm | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 443.5 pm ± 0.1 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 935.45 pm ± 0.05 | 298.15 | LiSi; _alloy: Si 0.5_ | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 1, p. 2, row 11 |  |
-| Lattice a | 452.46 pm ± 0.02 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
-| Lattice b | 1975.5 pm | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
-| Lattice b | 1512.48 pm ± 0.08 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
-| Lattice b | 441 pm | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
-| Lattice b | 1521 pm | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 2194.4 pm ± 0.1 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
-| Lattice c | 1433.6 pm | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
-| Lattice c | 446.61 pm ± 0.02 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
-| Lattice c | 656 pm | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
-| Lattice c | 443 pm | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 1813.4 pm ± 0.3 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 573.74 pm ± 0.05 | 298.15 | LiSi; _alloy: Si 0.5_ | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 1, p. 2, row 11 |  |
-| Lattice c | 1320.01 pm ± 0.06 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
+| Lattice a | 8.6 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
+| Lattice a | 7.9488 Å ± 4.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice a | 10.6322 Å ± 9.000e-4 | 298.15 | Li15Si4; _alloy: Si 0.210526_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 5 |  |
+| Lattice a | 18.7259 Å ± 1.000e-4 | 298.15 | Li17Si4; _alloy: Si 0.190476_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 1 |  |
+| Lattice a | 18.71 Å | 298.15 | Li21Si5; _alloy: Si 0.192308_ | experimental | [1] Liang 2017; _cites Nesper 1987_ [doi](https://doi.org/10.1016/0022-4596%2887%2990176-9) | Table 1, p. 2, row 3 |  |
+| Lattice a | 18.75 Å | 298.15 | Li22Si5; _alloy: Si 0.185185_ | experimental | [1] Liang 2017; _cites Axel 1966_ [doi](https://doi.org/10.1515/znb-1966-0204) | Table 1, p. 2, row 2 |  |
+| Lattice a | 7.7 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
+| Lattice a | 7.99 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.435 Å ± 0.001 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 9.3545 Å ± 5.000e-4 | 298.15 | LiSi; _alloy: Si 0.5_ | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 1, p. 2, row 11 |  |
+| Lattice a | 4.5246 Å ± 2.000e-4 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
+| Lattice b | 19.755 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
+| Lattice b | 15.1248 Å ± 8.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice b | 4.41 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
+| Lattice b | 15.21 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
+| Lattice b | 21.944 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
+| Lattice c | 14.336 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
+| Lattice c | 4.4661 Å ± 2.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice c | 6.56 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.43 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 18.134 Å ± 0.003 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 5.7374 Å ± 5.000e-4 | 298.15 | LiSi; _alloy: Si 0.5_ | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 1, p. 2, row 11 |  |
+| Lattice c | 13.2001 Å ± 6.000e-4 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
 
 ## Sources
 
@@ -321,4 +321,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

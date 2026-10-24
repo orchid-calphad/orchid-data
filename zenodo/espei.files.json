@@ -14,12 +14,12 @@
  ],
  "exclude": [],
  "n_files": 8264,
- "total_bytes": 71793461,
+ "total_bytes": 71795704,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 31271,
-   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
+   "bytes": 33307,
+   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
   },
   {
    "path": "LICENSE",
@@ -28,13 +28,13 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 3550,
-   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
+   "bytes": 3614,
+   "sha256": "939857b353fb387245597859e817f7405e440c013efbcb9ac8b6fc7ddacbe55e"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 8552,
-   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
+   "bytes": 8566,
+   "sha256": "c487466646c694992ed41724f89b4ff3edd0af1c6eb0dc64fb66ca6dd06c2689"
   },
   {
    "path": "README.md",
@@ -68,8 +68,8 @@
   },
   {
    "path": "espei/VALIDATION.md",
-   "bytes": 72916,
-   "sha256": "b1515f0b603ed61d9ec963879cdfe786eb19cf696909202bb6f58810177f12ae"
+   "bytes": 72915,
+   "sha256": "2202317915a24b53bf40820f08d9c61b72b704ba73436ca23d4a66b0679420dc"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -11074,12 +11074,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 248453,
-   "sha256": "f89d57e60cf6cddadb1ae1bc1fdb094fa9f2c83cf0d79f8c382ec435c0a6be53"
+   "sha256": "4be1ffd34b7bb9f6d83a86ec3dc0ab98006d38093d94a9eacf98c80d1daddf7f"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 10082,
-   "sha256": "d26ae54a4ac9e12ee9ec1155e086ad3334f019fd00f57d6ef2eb648d10d8fdd9"
+   "sha256": "ac0ad67a16e7b90f498be95f928e40fa428199988e0d52c3ac0ce0762a9a312b"
   },
   {
    "path": "espei/dft/literature/AG-SE/AgSe-18Li.AG2SE_ALPHA.json",
@@ -26738,13 +26738,13 @@
   },
   {
    "path": "espei/experimental/CALIBRATION_EXPERIMENT.json",
-   "bytes": 55189,
-   "sha256": "f50cf3b8a8da7369386f7042f9336c3200c014842847e593cf64ecb8c9945181"
+   "bytes": 55187,
+   "sha256": "7333bc74194800cc86e44e4b60c7cf9d03e495d97c7e288c36a4eddb3a3f1ad0"
   },
   {
    "path": "espei/experimental/CALIBRATION_EXPERIMENT.md",
-   "bytes": 26704,
-   "sha256": "026865c45ab0c0b2987858e9a460ea596b981ebd3c781c46ae9d656a1f3ef5de"
+   "bytes": 26703,
+   "sha256": "e4543eb8be1a62a471967146f609423721769fe05b72f8f945d7470403e1ea17"
   },
   {
    "path": "espei/experimental/CD-GD/CdGd-24Azz.hmr-00.json",
@@ -41333,8 +41333,8 @@
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 5106,
-   "sha256": "fd591b11154eccdd1a512c9dd03f2b5b468c1ac572b0d32986b58f23e69345d5"
+   "bytes": 5239,
+   "sha256": "6c45642af3d1dfab091a6372a1469951925e9e112a1e35ead16ef324797329f4"
   }
  ]
 }

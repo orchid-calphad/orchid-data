@@ -277,39 +277,39 @@ Table: Crystal structure, Mn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.47141 nm | 0 | TiMn2; _alloy: Ti 0.333333_ | DFT | [3] Khan 2016 | Table 1, p. 6, row 25 |  |
-| Lattice a | 0.48121 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 23 |  |
-| Lattice a | 0.79081 nm ± 3.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
-| Lattice a | 1.1003 nm | 298.15 | UNKNOWN; _alloy: Mn 0.83, Ti 0.17_ | experimental | [3] Khan 2016; _cites ref. 15_ | Table 1, p. 6, row 28 |  |
-| Lattice a | 0.79081 nm ± 3.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
-| Lattice a | 1.1006 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
-| Lattice a | 0.48975 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
-| Lattice a | 0.48294 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
-| Lattice a | 0.8913 nm | 727 (\<) | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 15 |  |
-| Lattice a | 0.2951 nm | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
-| Lattice a | 0.89737 nm | 900 | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 17 |  |
-| Lattice a | 0.6315 nm | 913.5 | (βMn); _(βMn): Mn 0.967, Ti 0.033_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 12 |  |
-| Lattice a | 2.3596 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
-| Lattice a | 0.79081 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
-| Lattice a | 1.1007 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
-| Lattice a | 0.386 nm | 1119 | (γMn); _(γMn): Mn 0.994, Ti 0.006_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 10 |  |
-| Lattice a | 0.308 nm | 1192 | (δMn); _(δMn): Mn 0.954, Ti 0.046_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 7 |  |
-| Lattice a | 0.3307 nm | 1276 | (βTi); _(βTi): Mn 0.256, Ti 0.744; (βTi) (βTi1−xMnx): Mn 0, Ti 1_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 1 |  |
-| Lattice b | 2.58557 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
-| Lattice b | 2.58557 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
-| Lattice b | 2.58557 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
-| Lattice c | 0.78038 nm | 0 | TiMn2; _alloy: Ti 0.333333_ | DFT | [3] Khan 2016 | Table 1, p. 6, row 25 |  |
-| Lattice c | 0.79099 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 23 |  |
-| Lattice c | 0.47931 nm ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
-| Lattice c | 1.9446 nm | 298.15 | UNKNOWN; _alloy: Mn 0.83, Ti 0.17_ | experimental | [3] Khan 2016; _cites ref. 15_ | Table 1, p. 6, row 28 |  |
-| Lattice c | 0.47931 nm ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
-| Lattice c | 1.9338 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
-| Lattice c | 0.8021 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
-| Lattice c | 0.79309 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
-| Lattice c | 0.4684 nm | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
-| Lattice c | 0.8035 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
-| Lattice c | 0.47931 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
-| Lattice c | 1.94411 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
+| Lattice a | 4.7141 Å | 0 | TiMn2; _alloy: Ti 0.333333_ | DFT | [3] Khan 2016 | Table 1, p. 6, row 25 |  |
+| Lattice a | 4.8121 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 23 |  |
+| Lattice a | 7.9081 Å ± 3.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
+| Lattice a | 11.003 Å | 298.15 | UNKNOWN; _alloy: Mn 0.83, Ti 0.17_ | experimental | [3] Khan 2016; _cites ref. 15_ | Table 1, p. 6, row 28 |  |
+| Lattice a | 7.9081 Å ± 3.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
+| Lattice a | 11.006 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
+| Lattice a | 4.8975 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
+| Lattice a | 4.8294 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
+| Lattice a | 8.913 Å | 727 (\<) | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 15 |  |
+| Lattice a | 2.951 Å | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
+| Lattice a | 8.9737 Å | 900 | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 17 |  |
+| Lattice a | 6.315 Å | 913.5 | (βMn); _(βMn): Mn 0.967, Ti 0.033_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 12 |  |
+| Lattice a | 23.596 Å | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
+| Lattice a | 7.9081 Å | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice a | 11.007 Å | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
+| Lattice a | 3.86 Å | 1119 | (γMn); _(γMn): Mn 0.994, Ti 0.006_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 10 |  |
+| Lattice a | 3.08 Å | 1192 | (δMn); _(δMn): Mn 0.954, Ti 0.046_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 7 |  |
+| Lattice a | 3.307 Å | 1276 | (βTi); _(βTi): Mn 0.256, Ti 0.744; (βTi) (βTi1−xMnx): Mn 0, Ti 1_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 1 |  |
+| Lattice b | 25.8557 Å ± 9.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
+| Lattice b | 25.8557 Å ± 9.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
+| Lattice b | 25.8557 Å | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice c | 7.8038 Å | 0 | TiMn2; _alloy: Ti 0.333333_ | DFT | [3] Khan 2016 | Table 1, p. 6, row 25 |  |
+| Lattice c | 7.9099 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 23 |  |
+| Lattice c | 4.7931 Å ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
+| Lattice c | 19.446 Å | 298.15 | UNKNOWN; _alloy: Mn 0.83, Ti 0.17_ | experimental | [3] Khan 2016; _cites ref. 15_ | Table 1, p. 6, row 28 |  |
+| Lattice c | 4.7931 Å ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
+| Lattice c | 19.338 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
+| Lattice c | 8.021 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
+| Lattice c | 7.9309 Å | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
+| Lattice c | 4.684 Å | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
+| Lattice c | 8.035 Å | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
+| Lattice c | 4.7931 Å | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice c | 19.4411 Å | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
 
 ## Sources
 
@@ -377,4 +377,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

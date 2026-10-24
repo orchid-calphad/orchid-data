@@ -16,12 +16,12 @@
   "bibliography/pages/**"
  ],
  "n_files": 13713,
- "total_bytes": 216076864,
+ "total_bytes": 216078978,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 31271,
-   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
+   "bytes": 33307,
+   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
   },
   {
    "path": "LICENSE",
@@ -30,13 +30,13 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 3550,
-   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
+   "bytes": 3614,
+   "sha256": "939857b353fb387245597859e817f7405e440c013efbcb9ac8b6fc7ddacbe55e"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 8552,
-   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
+   "bytes": 8566,
+   "sha256": "c487466646c694992ed41724f89b4ff3edd0af1c6eb0dc64fb66ca6dd06c2689"
   },
   {
    "path": "README.md",
@@ -91,7 +91,7 @@
   {
    "path": "bibliography/index.json",
    "bytes": 2876914,
-   "sha256": "81ccbf2c0794a799ef32776199e369ae793ddec7a281b54bf19d7e5f751b13f4"
+   "sha256": "e0026954f6f5b02cbb08ef9756a43fcd6381cdf09957805505960e3b10a3e48e"
   },
   {
    "path": "bibliography/orchid-bibliography.bib",
@@ -68581,7 +68581,7 @@
   {
    "path": "zenodo/bibliography.metadata.json",
    "bytes": 5342,
-   "sha256": "9e0c84979a8e7f68fec812a4bb9dc34e2aacb5e15ed9ca8c97be94b12b8b6218"
+   "sha256": "f67fee1275dd0faf4e93b7e7056da091d9746355630f9e8596326a4ed043f580"
   }
  ]
 }

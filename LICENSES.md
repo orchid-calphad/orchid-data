@@ -8,7 +8,7 @@ applies. Attributions, citations and the statements of changes that CC BY 4.0 re
 | Path | Content and source | Licence |
 |---|---|---|
 | `literature/` (values, systems, papers, contexts, quality reports) | values, conditions, phases and provenance read from published papers by ORCHID | CC BY 4.0 (ORCHID) |
-| `literature/` `quote` fields, and the quotes shown in `systems/`, `compounds/`, `papers/` | short excerpts (one sentence, or one table caption) of the source papers, kept so that each value can be verified | **not relicensed**: the publishers' copyright; reproduced as short quotations |
+| `literature/` `quote` fields, and the quotes shown in `systems/`, `compounds/`, `papers/` | short excerpts of the source papers (the passage of running text that states the value, or a table caption and the row it was read from), kept so that each value can be verified | **not relicensed**: the publishers' copyright; reproduced as short quotations |
 | `literature/dft_parity.json`, `parquet/dft_parity.parquet` | ORCHID literature values paired with Materials Project and OQMD formation energies | CC BY 4.0 (ORCHID; Materials Project and OQMD data CC BY 4.0) |
 | `literature/kim2017_crosscheck.json`, `.md` | comparison with the experimental formation enthalpies of Kim et al. 2017 (per-formula medians of their CSV) | ORCHID comparison CC BY 4.0; the Kim et al. values: MIT (Figshare 10.6084/m9.figshare.7289723), notice in `NOTICE.md` |
 | `phase-diagrams/` | binary phase diagrams calculated by ORCHID with pycalphad from the SGTE binary collection | CC BY 4.0 (derived from SGTE, Hallstedt 2025, CC BY 4.0) |

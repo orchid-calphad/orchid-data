@@ -63,50 +63,50 @@ Table: Crystal structure, Au–Er–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 1017 pm |  | Au10Er7; _alloy: Er 0.411765, La 0_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
-| Lattice a; _printed: a_ | 366.3 pm |  | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 28 |  |
-| Lattice a; _printed: Lattice parameter a_ | 366.3 pm | 0 | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
-| Lattice a; _printed: a_ | 470 pm |  | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
-| Lattice a; _printed: Lattice parameter a_ | 470 pm | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 602.9 pm |  | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
-| Lattice a; _printed: a_ | 602.9 pm | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| Lattice a; _printed: a_ | 663.6 pm |  | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 36 |  |
-| Lattice a; _printed: Lattice parameter a_ | 663.6 pm | 0 | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
-| Lattice a; _printed: a_ | 1287 pm |  | Au51La14; _alloy: Er 0, La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
-| Lattice a; _printed: Lattice parameter a_ | 699.6 pm | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
-| Lattice a; _printed: a_ | 699.6 pm |  | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 739.7 pm | 0 | AuLa2; _alloy: Er 0, La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 365 pm |  | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
-| Lattice a; _printed: a_ | 365 pm | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
-| Lattice a; _printed: a_ | 752 pm |  | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: Lattice parameter a_ | 752 pm | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 353.5 pm |  | βAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 22 |  |
-| Lattice a; _printed: a_ | 353.5 pm | 0 | βAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
-| Lattice a; _printed: a_ | 395 pm |  | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 395 pm | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| Lattice b; _printed: b_ | 729.5 pm |  | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
-| Lattice b; _printed: b_ | 729.5 pm | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice b; _printed: b_ | 494.9 pm |  | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
-| Lattice b; _printed: b_ | 494.9 pm | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| Lattice b; _printed: Lattice parameter b_ | 486.9 pm | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
-| Lattice b; _printed: b_ | 486.9 pm |  | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
-| Lattice b; _printed: b_ | 1081 pm |  | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
-| Lattice b; _printed: b_ | 1081 pm | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
-| Lattice b; _printed: b_ | 469 pm |  | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
-| Lattice b; _printed: Lattice parameter b_ | 469 pm | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice b; _printed: b_ | 1120 pm |  | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
-| Lattice b; _printed: b_ | 1120 pm | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 2763 pm |  | Au10Er7; _alloy: Er 0.411765, La 0_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
-| Lattice c; _printed: c_ | 891.6 pm | 0 | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
-| Lattice c; _printed: Lattice parameter c_ | 815.5 pm | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice c; _printed: Lattice parameter c_ | 507.9 pm | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| Lattice c; _printed: c_ | 414.9 pm | 0 | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
-| Lattice c; _printed: c_ | 938.8 pm |  | Au51La14; _alloy: Er 0, La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
-| Lattice c; _printed: Lattice parameter c_ | 880.2 pm | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
-| Lattice c; _printed: c_ | 941 pm | 0 | AuLa2; _alloy: Er 0, La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
-| Lattice c; _printed: Lattice parameter c_ | 458 pm | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
-| Lattice c; _printed: Lattice parameter c_ | 596 pm | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 478 pm | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 10.17 Å |  | Au10Er7; _alloy: Er 0.411765, La 0_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
+| Lattice a; _printed: a_ | 3.663 Å |  | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 28 |  |
+| Lattice a; _printed: Lattice parameter a_ | 3.663 Å | 0 | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| Lattice a; _printed: a_ | 4.7 Å |  | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
+| Lattice a; _printed: Lattice parameter a_ | 4.7 Å | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice a; _printed: a_ | 6.029 Å |  | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
+| Lattice a; _printed: a_ | 6.029 Å | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice a; _printed: a_ | 6.636 Å |  | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 36 |  |
+| Lattice a; _printed: Lattice parameter a_ | 6.636 Å | 0 | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| Lattice a; _printed: a_ | 12.87 Å |  | Au51La14; _alloy: Er 0, La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
+| Lattice a; _printed: Lattice parameter a_ | 6.996 Å | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice a; _printed: a_ | 6.996 Å |  | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 7.397 Å | 0 | AuLa2; _alloy: Er 0, La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 3.65 Å |  | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
+| Lattice a; _printed: a_ | 3.65 Å | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| Lattice a; _printed: a_ | 7.52 Å |  | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
+| Lattice a; _printed: Lattice parameter a_ | 7.52 Å | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice a; _printed: a_ | 3.535 Å |  | βAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 22 |  |
+| Lattice a; _printed: a_ | 3.535 Å | 0 | βAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
+| Lattice a; _printed: a_ | 3.95 Å |  | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
+| Lattice a; _printed: a_ | 3.95 Å | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice b; _printed: b_ | 7.295 Å |  | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
+| Lattice b; _printed: b_ | 7.295 Å | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice b; _printed: b_ | 4.949 Å |  | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
+| Lattice b; _printed: b_ | 4.949 Å | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice b; _printed: Lattice parameter b_ | 4.869 Å | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice b; _printed: b_ | 4.869 Å |  | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
+| Lattice b; _printed: b_ | 10.81 Å |  | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
+| Lattice b; _printed: b_ | 10.81 Å | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| Lattice b; _printed: b_ | 4.69 Å |  | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
+| Lattice b; _printed: Lattice parameter b_ | 4.69 Å | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice b; _printed: b_ | 11.2 Å |  | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
+| Lattice b; _printed: b_ | 11.2 Å | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice c; _printed: c_ | 27.63 Å |  | Au10Er7; _alloy: Er 0.411765, La 0_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
+| Lattice c; _printed: c_ | 8.916 Å | 0 | Au2Er; _alloy: Er 0.333333, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| Lattice c; _printed: Lattice parameter c_ | 8.155 Å | 0 | Au2La; _alloy: Er 0, La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice c; _printed: Lattice parameter c_ | 5.079 Å | 0 | Au3Er; _alloy: Er 0.25, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice c; _printed: c_ | 4.149 Å | 0 | Au4Er; _alloy: Er 0.2, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| Lattice c; _printed: c_ | 9.388 Å |  | Au51La14; _alloy: Er 0, La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
+| Lattice c; _printed: Lattice parameter c_ | 8.802 Å | 0 | AuEr2; _alloy: Er 0.666667, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice c; _printed: c_ | 9.41 Å | 0 | AuLa2; _alloy: Er 0, La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
+| Lattice c; _printed: Lattice parameter c_ | 4.58 Å | 0 | αAuEr; _alloy: Er 0.5, La 0_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| Lattice c; _printed: Lattice parameter c_ | 5.96 Å | 0 | αAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice c; _printed: c_ | 4.78 Å | 0 | βAuLa; _alloy: Er 0, La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
 
 ## Sources
 
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

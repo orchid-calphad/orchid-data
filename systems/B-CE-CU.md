@@ -56,7 +56,7 @@ Table: Crystal structure, B–Ce–Cu system
 | Lattice a | 8.1088 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [1] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
 | Lattice a | 7.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [1] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
 | Lattice a | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
-| Lattice a | 1.017 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1802_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 1.017 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1, Cu 0_ | model | [1] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
 | Lattice b | 7.2034 not_printed | 298.15 | B4Ce; _alloy: Ce 0.2, Cu 0_ | experimental | [1] Premović 2017; _cites Babizhetsky 2007_ [doi](https://doi.org/10.1515/znb-2007-0704) | Table 1, p. 2, row 5 |  |
 | Lattice b | 4.1403 not_printed | 298.15 | B6Ce; _alloy: Ce 0.142857, Cu 0_ | unspecified | [1] Premović 2017; _cites Komatsubara 1983_ [doi](https://doi.org/10.1016/0304-8853%2883%2990285-8) | Table 1, p. 2, row 6 |  |
@@ -67,7 +67,7 @@ Table: Crystal structure, B–Ce–Cu system
 | Lattice b | 5.1004 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [1] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
 | Lattice b | 4.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [1] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
 | Lattice b | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
-| Lattice b | 1.017 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1802_ | Table 1, p. 2, row 1 |  |
+| Lattice b | 1.017 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
 | Lattice b | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1, Cu 0_ | model | [1] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
 | Lattice c | 4.1006 not_printed | 298.15 | B4Ce; _alloy: Ce 0.2, Cu 0_ | experimental | [1] Premović 2017; _cites Babizhetsky 2007_ [doi](https://doi.org/10.1515/znb-2007-0704) | Table 1, p. 2, row 5 |  |
 | Lattice c | 4.1403 not_printed | 298.15 | B6Ce; _alloy: Ce 0.142857, Cu 0_ | unspecified | [1] Premović 2017; _cites Komatsubara 1983_ [doi](https://doi.org/10.1016/0304-8853%2883%2990285-8) | Table 1, p. 2, row 6 |  |
@@ -79,7 +79,7 @@ Table: Crystal structure, B–Ce–Cu system
 | Lattice c | 6.36 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [1] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
 | Lattice c | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
 | Lattice c | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1, Cu 0_ | model | [1] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
-| lattice alpha | 65.12 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1802_ | Table 1, p. 2, row 1 |  |
+| lattice alpha | 65.12 not_printed | 298.15 | β(B); _alloy: Ce 0, Cu 0_ | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
 
 ## Sources
 
@@ -122,4 +122,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

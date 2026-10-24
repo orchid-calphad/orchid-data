@@ -141,60 +141,60 @@ Table: Crystal structure, Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 285.48 pm |  | BCC Cr; _alloy: Zr 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 658 pm |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17 |  |
-| Lattice a | 824.9 pm |  | C15; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 19 |  |
-| Lattice a | 781 pm |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18 |  |
-| Lattice a | 712.4 pm |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16 |  |
-| Lattice a | 505.6 pm |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| Lattice a | 617.8 pm |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| Lattice a | 634.8 pm |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| Lattice a | 646.5 pm |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| Lattice a | 465.1 pm |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| Lattice a | 577.1 pm |  | C36; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| Lattice a | 323.55 pm |  | HCP Zr; _alloy: Zr 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 464.1 pm |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
-| Lattice a | 575.9 pm |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 7 |  |
-| Lattice a | 634.8 pm |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
-| Lattice a | 617.8 pm |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
-| Lattice a | 465.1 pm |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
-| Lattice a | 647.9 pm |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
-| Lattice a | 636.3 pm |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
-| Lattice a | 505.6 pm |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
-| Lattice a | 508.7 pm |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
-| Lattice a | 577.1 pm |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 14 |  |
-| Lattice a | 646.5 pm |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
-| Lattice a | 287.87 pm | 298.15 | BCC Cr; _alloy: Zr 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 720 pm | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15 |  |
-| Lattice a | 510 pm | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| Lattice a | 323.18 pm | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [1] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
-| Lattice a | 510 pm | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
-| Lattice a | 510.2 pm | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
-| Lattice c | 285.48 pm |  | BCC Cr; _alloy: Zr 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 1633.9 pm |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| Lattice c | 1544.5 pm |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| Lattice c | 1281.4 pm |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| Lattice c | 1363.2 pm |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| Lattice c | 1523.1 pm |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| Lattice c | 1922.4 pm |  | C36; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| Lattice c | 516.95 pm |  | HCP Zr; _alloy: Zr 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| Lattice c | 766.3 pm |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
-| Lattice c | 959.8 pm |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 7 |  |
-| Lattice c | 1281.4 pm |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
-| Lattice c | 773.9 pm |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
-| Lattice c | 1523.1 pm |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
-| Lattice c | 1544.5 pm |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13 |  |
-| Lattice c | 674.3 pm |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
-| Lattice c | 636.7 pm |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
-| Lattice c | 1633.9 pm |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
-| Lattice c | 807.4 pm |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
-| Lattice c | 1922.4 pm |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 14 |  |
-| Lattice c | 1363.2 pm |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
-| Lattice c | 287.87 pm | 298.15 | BCC Cr; _alloy: Zr 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 1661.1 pm | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| Lattice c | 514.83 pm | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [1] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
-| Lattice c | 1661.1 pm | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
-| Lattice c | 827.3 pm | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
+| Lattice a | 2.8548 Å |  | BCC Cr; _alloy: Zr 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| Lattice a | 6.58 Å |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17 |  |
+| Lattice a | 8.249 Å |  | C15; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 19 |  |
+| Lattice a | 7.81 Å |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18 |  |
+| Lattice a | 7.124 Å |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16 |  |
+| Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
+| Lattice a | 6.178 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
+| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
+| Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
+| Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
+| Lattice a | 5.771 Å |  | C36; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 26 |  |
+| Lattice a | 3.2355 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.641 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
+| Lattice a | 5.759 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 7 |  |
+| Lattice a | 6.348 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
+| Lattice a | 6.178 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
+| Lattice a | 4.651 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
+| Lattice a | 6.479 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
+| Lattice a | 6.363 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
+| Lattice a | 5.056 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
+| Lattice a | 5.087 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
+| Lattice a | 5.771 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 14 |  |
+| Lattice a | 6.465 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
+| Lattice a | 2.8787 Å | 298.15 | BCC Cr; _alloy: Zr 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 7.2 Å | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15 |  |
+| Lattice a | 5.1 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
+| Lattice a | 3.2318 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [1] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.1 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
+| Lattice a | 5.102 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
+| Lattice c | 2.8548 Å |  | BCC Cr; _alloy: Zr 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| Lattice c | 16.339 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
+| Lattice c | 15.445 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
+| Lattice c | 12.814 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
+| Lattice c | 13.632 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
+| Lattice c | 15.231 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
+| Lattice c | 19.224 Å |  | C36; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 26 |  |
+| Lattice c | 5.1695 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 2, row 4 |  |
+| Lattice c | 7.663 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
+| Lattice c | 9.598 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 7 |  |
+| Lattice c | 12.814 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
+| Lattice c | 7.739 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
+| Lattice c | 15.231 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
+| Lattice c | 15.445 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13 |  |
+| Lattice c | 6.743 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
+| Lattice c | 6.367 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
+| Lattice c | 16.339 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
+| Lattice c | 8.074 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
+| Lattice c | 19.224 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 14 |  |
+| Lattice c | 13.632 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
+| Lattice c | 2.8787 Å | 298.15 | BCC Cr; _alloy: Zr 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice c | 16.611 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
+| Lattice c | 5.1483 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [1] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
+| Lattice c | 16.611 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
+| Lattice c | 8.273 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
 | lattice 4e z | 0.095 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
 | lattice 4e z | 0.089 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
 | lattice 4e z | 0.062 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
@@ -329,4 +329,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

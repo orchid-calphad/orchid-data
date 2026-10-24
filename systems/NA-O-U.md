@@ -148,63 +148,63 @@ Table: Crystal structure, Na–O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.7695 nm | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
-| Lattice a | 0.58321 nm | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
-| Lattice a | 1.31322 nm | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
-| Lattice a | 1.00103 nm | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
-| Lattice a | 0.5937 nm | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
-| Lattice a | 1.3125 nm | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
-| Lattice a | 0.58598 nm | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
-| Lattice a | 1.27617 nm ± 1.400e-5 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
-| Lattice a | 0.75172 nm ± 1.000e-5 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
-| Lattice a | 0.57739 nm ± 2.000e-5 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
-| Lattice a | 0.9589 nm ± 2.000e-4 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
-| Lattice a | 0.477 nm ± 0.002 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
-| Lattice a | 0.4764 nm ± 3.000e-4 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
-| Lattice a | 0.97623 nm ± 3.000e-5 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
-| Lattice a | 0.5892 nm ± 2.000e-4 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
-| Lattice a | 0.58079 nm ± 3.000e-5 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
-| Lattice a | 0.956 nm ± 0.004 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
-| Lattice a | 1.2933 nm ± 1.000e-4 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
-| Lattice a | 0.3987 nm ± 3.000e-4 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
-| Lattice b | 0.7695 nm | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
-| Lattice b | 0.59742 nm | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
-| Lattice b | 0.78815 nm | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
-| Lattice b | 0.57628 nm | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
-| Lattice b | 0.6845 nm | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
-| Lattice b | 0.7881 nm | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
-| Lattice b | 0.60265 nm | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
-| Lattice b | 0.78384 nm ± 1.000e-5 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
-| Lattice b | 0.75172 nm ± 1.000e-5 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
-| Lattice b | 0.59051 nm ± 2.000e-5 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
-| Lattice b | 0.9589 nm ± 2.000e-4 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
-| Lattice b | 0.477 nm ± 0.002 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
-| Lattice b | 0.4764 nm ± 3.000e-4 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
-| Lattice b | 0.57287 nm ± 2.000e-5 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
-| Lattice b | 0.6772 nm ± 2.000e-4 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
-| Lattice b | 0.59753 nm ± 3.000e-5 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
-| Lattice b | 0.956 nm ± 0.004 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
-| Lattice b | 0.7887 nm ± 1.000e-4 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
-| Lattice b | 0.3987 nm ± 3.000e-4 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
-| Lattice c | 0.46325 nm | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
-| Lattice c | 0.83699 nm | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
-| Lattice c | 0.69292 nm | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
-| Lattice c | 0.35236 nm | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
-| Lattice c | 0.5978 nm | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
-| Lattice c | 0.69291 nm | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
-| Lattice c | 1.18836 nm | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
-| Lattice c | 0.68962 nm ± 9.000e-5 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
-| Lattice c | 0.46325 nm ± 2.000e-5 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
-| Lattice c | 0.82784 nm ± 2.000e-5 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
-| Lattice c | 0.9589 nm ± 2.000e-4 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
-| Lattice c | 0.477 nm ± 0.002 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
-| Lattice c | 0.4764 nm ± 3.000e-4 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
-| Lattice c | 0.34956 nm ± 1.000e-5 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
-| Lattice c | 0.5916 nm ± 2.000e-4 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
-| Lattice c | 1.17179 nm ± 6.000e-5 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
-| Lattice c | 0.956 nm ± 0.004 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
-| Lattice c | 0.69086 nm ± 8.000e-5 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
-| Lattice c | 1.8491 nm ± 3.000e-4 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
+| Lattice a | 7.695 Å | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
+| Lattice a | 5.8321 Å | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
+| Lattice a | 13.1322 Å | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
+| Lattice a | 10.0103 Å | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
+| Lattice a | 5.937 Å | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
+| Lattice a | 13.125 Å | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
+| Lattice a | 5.8598 Å | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
+| Lattice a | 12.7617 Å ± 1.400e-4 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
+| Lattice a | 7.5172 Å ± 1.000e-4 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
+| Lattice a | 5.7739 Å ± 2.000e-4 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
+| Lattice a | 9.589 Å ± 0.002 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
+| Lattice a | 4.77 Å ± 0.02 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
+| Lattice a | 4.764 Å ± 0.003 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
+| Lattice a | 9.7623 Å ± 3.000e-4 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
+| Lattice a | 5.892 Å ± 0.002 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
+| Lattice a | 5.8079 Å ± 3.000e-4 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
+| Lattice a | 9.56 Å ± 0.04 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
+| Lattice a | 12.933 Å ± 0.001 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
+| Lattice a | 3.987 Å ± 0.003 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
+| Lattice b | 7.695 Å | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
+| Lattice b | 5.9742 Å | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
+| Lattice b | 7.8815 Å | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
+| Lattice b | 5.7628 Å | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
+| Lattice b | 6.845 Å | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
+| Lattice b | 7.881 Å | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
+| Lattice b | 6.0265 Å | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
+| Lattice b | 7.8384 Å ± 1.000e-4 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
+| Lattice b | 7.5172 Å ± 1.000e-4 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
+| Lattice b | 5.9051 Å ± 2.000e-4 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
+| Lattice b | 9.589 Å ± 0.002 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
+| Lattice b | 4.77 Å ± 0.02 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
+| Lattice b | 4.764 Å ± 0.003 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
+| Lattice b | 5.7287 Å ± 2.000e-4 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
+| Lattice b | 6.772 Å ± 0.002 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
+| Lattice b | 5.9753 Å ± 3.000e-4 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
+| Lattice b | 9.56 Å ± 0.04 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
+| Lattice b | 7.887 Å ± 0.001 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
+| Lattice b | 3.987 Å ± 0.003 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
+| Lattice c | 4.6325 Å | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
+| Lattice c | 8.3699 Å | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
+| Lattice c | 6.9292 Å | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
+| Lattice c | 3.5236 Å | 0 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 9 |  |
+| Lattice c | 5.978 Å | 0 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 5 |  |
+| Lattice c | 6.9291 Å | 0 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 18 |  |
+| Lattice c | 11.8836 Å | 0 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 11 |  |
+| Lattice c | 6.8962 Å ± 9.000e-4 | 293 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 15 |  |
+| Lattice c | 4.6325 Å ± 2.000e-4 | 295 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Roof 2010_ [doi](https://doi.org/10.1016/j.jcrysgro.2009.12.002) | Table 10, p. 13, row 13 |  |
+| Lattice c | 8.2784 Å ± 2.000e-4 | 295 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Van 2004_ [doi](https://doi.org/10.1016/j.jssc.2004.02.021) | Table 10, p. 13, row 1 |  |
+| Lattice c | 9.589 Å ± 0.002 | 295 | UNKNOWN | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 6 |  |
+| Lattice c | 4.77 Å ± 0.02 | 295 | m-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Scholder 1964_ [doi](https://doi.org/10.1002/zaac.19643270104) | Table 10, p. 13, row 3 |  |
+| Lattice c | 4.764 Å ± 0.003 | 295 | m-Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 12 |  |
+| Lattice c | 3.4956 Å ± 1.000e-4 | 295 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 8 |  |
+| Lattice c | 5.916 Å ± 0.002 | 295 | α-Na3.16(2)U0.84(2)O4; _alloy: O 0.5, U 0.105_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 4 |  |
+| Lattice c | 11.7179 Å ± 6.000e-4 | 295 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Cordfunke 1995_ [doi](https://doi.org/10.1006/jssc.1995.1137) | Table 10, p. 13, row 10 |  |
+| Lattice c | 9.56 Å ± 0.04 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
+| Lattice c | 6.9086 Å ± 8.000e-4 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
+| Lattice c | 18.491 Å ± 0.003 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
 | lattice beta | 90 ° | 0 | Na4UO5; _alloy: O 0.5, U 0.1_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 14 |  |
 | lattice beta | 90 ° | 0 | NaUO3; _alloy: O 0.6, U 0.2_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 2 |  |
 | lattice beta | 110.994 ° | 0 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | unspecified | [1] Smith 2017 | Table 10, p. 13, row 16 |  |
@@ -293,4 +293,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1889,10 +1889,11 @@ Every value was checked against its table, its paper, the physics of its quantit
 |---|---:|---:|
 | records | 77540 | 73538 |
 | extraction_accepted | 76600 | 72359 |
-| espei_ready (before the ESPEI phase rule) | 14205 | 13245 |
-| records with corrections | | 4092 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13245 |
+| records with corrections | | 4094 |
 | records with gate failures | | 1993 |
-| visual checks on file | | 1290 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 1251 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 1292 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -1912,7 +1913,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G11 CALPHAD plausibility fields | `fail_small_dT_composition` | explained | 198 |
 | G11 CALPHAD plausibility fields | `fail_small_dT_composition_pure_element_label` | explained | 88 |
 | G11 CALPHAD plausibility fields | `fail_small_dT_unexplained` | explained | 1 |
-| G12 pressure basis | `pressure_basis_relabelled` | relabelled | 77540 |
+| G12 pressure basis | `pressure_basis_relabelled` | relabelled | 77535 |
 | G2 energies, entropies, heat capacities, activities | `mass_basis_unit_relabelled` | corrected | 171 |
 | G2 energies, entropies, heat capacities, activities | `per_formula_divided` | corrected | 1 |
 | G2 energies, entropies, heat capacities, activities | `table_unit_scale_applied` | corrected | 289 |
@@ -1977,6 +1978,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
 | page page checks (visual) | `page_fix_evidence_class` | corrected | 24 |
 | page page checks (visual) | `page_fix_property` | corrected | 8 |
+| page page checks (visual) | `page_fix_quote_page` | corrected | 2 |
 | page page checks (visual) | `page_fix_reference_state` | corrected | 12 |
 | page page checks (visual) | `page_fix_temperature_K` | corrected | 28 |
 | page page checks (visual) | `page_fix_temperature_basis` | corrected | 12 |
@@ -1985,6 +1987,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `page_fix_value` | corrected | 98 |
 | page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
+| page page checks (visual) | `pressure_1_atm_withdrawn` | corrected | 5 |
 | page page checks (visual) | `pressure_not_1_atm_on_page` | flagged | 5 |
 | page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
 | page page checks (visual) | `same_measurement_listed_in_other_paper` | flagged | 6 |
@@ -2005,7 +2008,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
 | invariant_table | checked | 160 |
-| page_fix | corrected | 189 |
+| page_fix | corrected | 191 |
 | page_flag | confirmed | 93 |
 | per_formula | corrected | 1 |
 | record_T | as_stored | 28 |

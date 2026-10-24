@@ -73,10 +73,10 @@ Table: Crystal structure, Al–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40414 nm | 298.15 | (Al); _(Al): Al 1, Tl 0_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 1 |  |
-| Lattice a | 0.34496 nm | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
-| Lattice a | 0.3874 nm | 298.15 | (βTl); _(βTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 2 |  |
-| Lattice c | 0.55137 nm | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
+| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1, Tl 0_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 1 |  |
+| Lattice a | 3.4496 Å | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
+| Lattice a | 3.874 Å | 298.15 | (βTl); _(βTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 2 |  |
+| Lattice c | 5.5137 Å | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

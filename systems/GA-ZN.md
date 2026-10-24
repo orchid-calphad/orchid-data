@@ -113,20 +113,20 @@ Table: Crystal structure, Ga–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.26484 nm | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
-| Lattice a | 0.26513 nm | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
-| Lattice a | 0.2652 nm | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
-| Lattice a | 0.26535 nm | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice a | 0.45198 nm | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice a | 0.29 nm | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice b | 0.76602 nm | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice b | 0.813 nm | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice c | 0.49721 nm | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
-| Lattice c | 0.49123 nm | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
-| Lattice c | 0.4937 nm | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
-| Lattice c | 0.49251 nm | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice c | 0.45198 nm | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice c | 0.317 nm | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
+| Lattice a | 2.6484 Å | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
+| Lattice a | 2.6513 Å | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
+| Lattice a | 2.652 Å | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
+| Lattice a | 2.6535 Å | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
+| Lattice a | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
+| Lattice a | 2.9 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
+| Lattice b | 7.6602 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
+| Lattice b | 8.13 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
+| Lattice c | 4.9721 Å | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
+| Lattice c | 4.9123 Å | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
+| Lattice c | 4.937 Å | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
+| Lattice c | 4.9251 Å | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
+| Lattice c | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
+| Lattice c | 3.17 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
 
 ## Sources
 
@@ -193,4 +193,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

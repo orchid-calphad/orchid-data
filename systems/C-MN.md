@@ -95,7 +95,7 @@ Table: Enthalpies of formation, C–Mn system (31)
 | Mn23C6 | [Mn23C6](https://data.orchid-project.org/compounds/Mn23C6.html) | -10.7 kJ/mol-atom | 298.15 | model | -9.077 (mp-aaabexac) | -9.296 (oqmd-12616) | [1] Djurovic 2010 | Table 5, p. 6, row 25 |  |
 | Mn23C6 | [Mn23C6](https://data.orchid-project.org/compounds/Mn23C6.html) | -10.6 kJ/mol-atom | 298.15 | model | -9.077 (mp-aaabexac) | -9.296 (oqmd-12616) | [1] Djurovic 2010; _cites Huang 1990_ | Table 5, p. 6, row 24 |  |
 | Mn23C6 |  | -9.3 kJ/mol-atom | 298.15 | DFT |  |  | [1] Djurovic 2010 | Table 5, p. 6, row 23 |  |
-| Mn23C6 | [Mn23C6](https://data.orchid-project.org/compounds/Mn23C6.html) | -8.5 kJ/mol-atom | 298.15 | experimental | -9.077 (mp-aaabexac) | -9.296 (oqmd-12616) | [1] Djurovic 2010; _cites Dawson 1852_ | Table 5, p. 6, row 22 |  |
+| Mn23C6 | [Mn23C6](https://data.orchid-project.org/compounds/Mn23C6.html) | -8.5 kJ/mol-atom | 298.15 | experimental | -9.077 (mp-aaabexac) | -9.296 (oqmd-12616) | [1] Djurovic 2010; _cites Dawson 1980_ | Table 5, p. 6, row 22 |  |
 | Mn2C | [Mn2C](https://data.orchid-project.org/compounds/Mn2C.html) | -11.1 kJ/mol-atom | 298.15 | model |  | -4.319 (oqmd-1449601) | [1] Djurovic 2010; _cites Huang 1990_ | Table 5, p. 6, row 5 |  |
 | Mn2C | [Mn2C](https://data.orchid-project.org/compounds/Mn2C.html) | -6 kJ/mol-atom | 298.15 | model |  | -4.319 (oqmd-1449601) | [1] Djurovic 2010 | Table 5, p. 6, row 6 |  |
 | Mn2C |  | -5.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Djurovic 2010 | Table 5, p. 6, row 4 |  |
@@ -218,4 +218,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

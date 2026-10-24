@@ -84,75 +84,75 @@ Table: Crystal structure, Bi–Er–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4556 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.4582 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.3581 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice a | 0.3513 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice a | 1.2031 nm | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice a | 0.819 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.8171 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.6279 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.6264 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.418 nm | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.6109 nm | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice a | 0.4448 nm | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice a | 0.4325 nm | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.4513 nm | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
-| Lattice a | 0.4555 nm | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.3495 nm | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice a | 1.2127 nm | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice a | 0.809 nm | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.62023 nm | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.6063 nm | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice a | 0.4248 nm | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice a | 0.4285 nm | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.444 nm | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
-| Lattice b | 0.4556 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
-| Lattice b | 0.4582 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
-| Lattice b | 0.3581 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice b | 0.3513 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice b | 0.8565 nm | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice b | 0.9457 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
-| Lattice b | 0.9446 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
-| Lattice b | 0.6279 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
-| Lattice b | 0.6264 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
-| Lattice b | 0.7608 nm | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
-| Lattice b | 0.6109 nm | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice b | 0.4448 nm | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice b | 0.4325 nm | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice b | 0.4513 nm | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
-| Lattice b | 0.4555 nm | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
-| Lattice b | 0.3495 nm | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice b | 0.8581 nm | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice b | 0.9349 nm | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
-| Lattice b | 0.62023 nm | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
-| Lattice b | 0.6063 nm | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice b | 0.4248 nm | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice b | 0.4285 nm | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
-| Lattice b | 0.444 nm | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
-| Lattice c | 1.2025 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
-| Lattice c | 1.217 nm | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.5553 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice c | 0.5517 nm | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice c | 2.4908 nm | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice c | 1.1919 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
-| Lattice c | 1.1889 nm | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.6279 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
-| Lattice c | 0.6264 nm | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
-| Lattice c | 1.1495 nm | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
-| Lattice c | 0.6109 nm | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice c | 0.8691 nm | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice c | 2.5384 nm | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice c | 0.5961 nm | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
-| Lattice c | 1.2024 nm | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
-| Lattice c | 0.5486 nm | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice c | 2.5728 nm | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice c | 1.1806 nm | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.6202 nm | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
-| Lattice c | 0.6063 nm | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice c | 0.8865 nm | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice c | 2.5278 nm | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
-| Lattice c | 0.592 nm | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
+| Lattice a | 4.556 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.582 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.581 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
+| Lattice a | 3.513 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
+| Lattice a | 12.031 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice a | 8.19 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice a | 8.171 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice a | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice a | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice a | 4.18 Å | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice a | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice a | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice a | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice a | 4.513 Å | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
+| Lattice a | 4.555 Å | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.495 Å | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
+| Lattice a | 12.127 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice a | 8.09 Å | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice a | 6.2023 Å | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
+| Lattice a | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice a | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice a | 4.44 Å | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
+| Lattice b | 4.556 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
+| Lattice b | 4.582 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
+| Lattice b | 3.581 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
+| Lattice b | 3.513 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
+| Lattice b | 8.565 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice b | 9.457 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice b | 9.446 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice b | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice b | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice b | 7.608 Å | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice b | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice b | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice b | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice b | 4.513 Å | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
+| Lattice b | 4.555 Å | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
+| Lattice b | 3.495 Å | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
+| Lattice b | 8.581 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice b | 9.349 Å | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice b | 6.2023 Å | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
+| Lattice b | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice b | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice b | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice b | 4.44 Å | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
+| Lattice c | 12.025 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 2 |  |
+| Lattice c | 12.17 Å | 0 | Bi; _alloy: Er 0, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 3 |  |
+| Lattice c | 5.553 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 13 |  |
+| Lattice c | 5.517 Å | 0 | Er; _alloy: Er 1, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
+| Lattice c | 24.908 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice c | 11.919 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice c | 11.889 Å | 0 | Er5Bi3; _alloy: Er 0.625, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice c | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice c | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5, Te 0_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.495 Å | 0 | ErBi2; _alloy: Er 0.333333, Te 0_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice c | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice c | 8.691 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice c | 25.384 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice c | 5.961 Å | 0 | Te; _alloy: Er 0, Te 1_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 23 |  |
+| Lattice c | 12.024 Å | 298.15 | Bi; _alloy: Er 0, Te 0_ | experimental | [1] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1 |  |
+| Lattice c | 5.486 Å | 298.15 | Er; _alloy: Er 1, Te 0_ | experimental | [1] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
+| Lattice c | 25.728 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice c | 11.806 Å | 298.15 | Er5Bi3; _alloy: Er 0.625, Te 0_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice c | 6.202 Å | 298.15 | ErBi(α); _alloy: Er 0.5, Te 0_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
+| Lattice c | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice c | 8.865 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice c | 25.278 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice c | 5.92 Å | 298.15 | Te; _alloy: Er 0, Te 1_ | experimental | [1] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22 |  |
 
 ## Sources
 
@@ -195,4 +195,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

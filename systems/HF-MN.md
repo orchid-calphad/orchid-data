@@ -116,27 +116,27 @@ Table: Crystal structure, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.1886 nm | 298.15 | Hf2Mn; _alloy: Mn 0.333333_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 3 |  |
-| Lattice a | 1.17935 nm | 298.15 | Hf3+xMn3-xOy | unspecified | [2] Brož 2024 | Table 1, p. 3, row 5 |  |
-| Lattice a | 1.1812 nm | 298.15 | HfMn; _alloy: Mn 0.5_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.501242 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.4956 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.496 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.49464 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.5016 nm | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.8913 nm | 727 (\<) | (αMn); _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.6315 nm | 913.5 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 13 |  |
-| Lattice a | 0.386 nm | 1119 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.308 nm | 1192 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.5007 nm | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.31949 nm | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.3615 nm | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.823508 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
-| Lattice c | 0.8122 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.8147 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
-| Lattice c | 0.80964 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
-| Lattice c | 1.6367 nm | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.8236 nm | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
+| Lattice a | 11.886 Å | 298.15 | Hf2Mn; _alloy: Mn 0.333333_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 3 |  |
+| Lattice a | 11.7935 Å | 298.15 | Hf3+xMn3-xOy | unspecified | [2] Brož 2024 | Table 1, p. 3, row 5 |  |
+| Lattice a | 11.812 Å | 298.15 | HfMn; _alloy: Mn 0.5_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.01242 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
+| Lattice a | 4.956 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
+| Lattice a | 4.96 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.9464 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
+| Lattice a | 5.016 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
+| Lattice a | 8.913 Å | 727 (\<) | (αMn); _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 12 |  |
+| Lattice a | 6.315 Å | 913.5 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 13 |  |
+| Lattice a | 3.86 Å | 1119 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 14 |  |
+| Lattice a | 3.08 Å | 1192 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 15 |  |
+| Lattice a | 5.007 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
+| Lattice a | 3.1949 Å | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.615 Å | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2 |  |
+| Lattice c | 8.23508 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
+| Lattice c | 8.122 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
+| Lattice c | 8.147 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
+| Lattice c | 8.0964 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
+| Lattice c | 16.367 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
+| Lattice c | 8.236 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
 
 ## Sources
 
@@ -202,4 +202,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

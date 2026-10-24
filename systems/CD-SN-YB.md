@@ -81,96 +81,96 @@ Table: Crystal structure, Cd–Sn–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.301 nm | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.542 nm | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
-| Lattice a | 0.583 nm |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
-| Lattice a | 0.594 nm | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
-| Lattice a | 0.54 nm | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.548 nm |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.381 nm | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.536 nm | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
-| Lattice a | 1.029 nm | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
-| Lattice a | 0.799 nm | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
-| Lattice a | 0.378 nm | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.603 nm | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.346 nm | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
-| Lattice a | 0.473 nm | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
-| Lattice a | 0.935 nm | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
-| Lattice a | 0.81 nm | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
-| Lattice a | 0.297 nm | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
-| Lattice a | 0.543 nm | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
-| Lattice a | 0.387 nm | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
-| Lattice a | 1.344 nm | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.537 nm | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
-| Lattice a | 1.019 nm | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
-| Lattice a | 0.782 nm | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
-| Lattice a | 0.38 nm | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.598 nm | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice a | 1.563 nm | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.35 nm | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
-| Lattice a | 0.468 nm | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
-| Lattice a | 0.947 nm | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
-| Lattice a | 0.793 nm | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
-| Lattice b | 0.301 nm | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice b | 0.542 nm | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
-| Lattice b | 0.583 nm |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
-| Lattice b | 0.549 nm | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
-| Lattice b | 0.54 nm | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice b | 0.548 nm |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
-| Lattice b | 0.381 nm | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice b | 0.536 nm | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
-| Lattice b | 0.822 nm | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
-| Lattice b | 1.631 nm | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
-| Lattice b | 0.378 nm | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice b | 0.603 nm | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice b | 0.346 nm | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
-| Lattice b | 0.473 nm | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
-| Lattice b | 0.935 nm | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
-| Lattice b | 0.81 nm | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
-| Lattice b | 0.297 nm | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
-| Lattice b | 0.543 nm | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
-| Lattice b | 0.387 nm | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
-| Lattice b | 1.344 nm | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice b | 0.537 nm | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
-| Lattice b | 0.816 nm | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
-| Lattice b | 1.581 nm | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
-| Lattice b | 0.38 nm | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice b | 0.598 nm | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice b | 1.563 nm | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
-| Lattice b | 0.35 nm | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
-| Lattice b | 0.468 nm | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
-| Lattice b | 0.947 nm | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
-| Lattice b | 0.793 nm | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
-| Lattice c | 0.58 nm | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice c | 0.542 nm | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
-| Lattice c | 0.318 nm |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
-| Lattice c | 0.321 nm | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
-| Lattice c | 0.54 nm | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.548 nm |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
-| Lattice c | 0.633 nm | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice c | 0.705 nm | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
-| Lattice c | 1.046 nm | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
-| Lattice c | 0.841 nm | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
-| Lattice c | 0.378 nm | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice c | 0.959 nm | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.452 nm | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
-| Lattice c | 0.473 nm | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
-| Lattice c | 0.672 nm | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
-| Lattice c | 1.524 nm | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
-| Lattice c | 0.561 nm | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
-| Lattice c | 0.543 nm | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
-| Lattice c | 0.638 nm | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.965 nm | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice c | 0.706 nm | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
-| Lattice c | 1.037 nm | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
-| Lattice c | 0.828 nm | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
-| Lattice c | 0.38 nm | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice c | 0.959 nm | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice c | 1.563 nm | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
-| Lattice c | 0.44 nm | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
-| Lattice c | 0.468 nm | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
-| Lattice c | 0.69 nm | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
-| Lattice c | 1.468 nm | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
+| Lattice a | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
+| Lattice a | 5.42 Å | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
+| Lattice a | 5.83 Å |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
+| Lattice a | 5.94 Å | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
+| Lattice a | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
+| Lattice a | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.81 Å | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.36 Å | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
+| Lattice a | 10.29 Å | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
+| Lattice a | 7.99 Å | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
+| Lattice a | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice a | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice a | 3.46 Å | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
+| Lattice a | 4.73 Å | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
+| Lattice a | 9.35 Å | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
+| Lattice a | 8.1 Å | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
+| Lattice a | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
+| Lattice a | 5.43 Å | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
+| Lattice a | 3.87 Å | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
+| Lattice a | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice a | 5.37 Å | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
+| Lattice a | 10.19 Å | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
+| Lattice a | 7.82 Å | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
+| Lattice a | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice a | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice a | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice a | 3.5 Å | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
+| Lattice a | 4.68 Å | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
+| Lattice a | 9.47 Å | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
+| Lattice a | 7.93 Å | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
+| Lattice b | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
+| Lattice b | 5.42 Å | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
+| Lattice b | 5.83 Å |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
+| Lattice b | 5.49 Å | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
+| Lattice b | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
+| Lattice b | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
+| Lattice b | 3.81 Å | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
+| Lattice b | 5.36 Å | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
+| Lattice b | 8.22 Å | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
+| Lattice b | 16.31 Å | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
+| Lattice b | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice b | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice b | 3.46 Å | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
+| Lattice b | 4.73 Å | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
+| Lattice b | 9.35 Å | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
+| Lattice b | 8.1 Å | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
+| Lattice b | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
+| Lattice b | 5.43 Å | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
+| Lattice b | 3.87 Å | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
+| Lattice b | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice b | 5.37 Å | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
+| Lattice b | 8.16 Å | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
+| Lattice b | 15.81 Å | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
+| Lattice b | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice b | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice b | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice b | 3.5 Å | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
+| Lattice b | 4.68 Å | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
+| Lattice b | 9.47 Å | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
+| Lattice b | 7.93 Å | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
+| Lattice c | 5.8 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
+| Lattice c | 5.42 Å | 0 | (Sn-α); _(Sn-α): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 30 |  |
+| Lattice c | 3.18 Å |  | (Sn-β); _(Sn-β): Sn 1_ | experimental | [1] Kali-Ali 2017; _cites Wolcyrz 1981_ | Table 1, p. 3, row 31 |  |
+| Lattice c | 3.21 Å | 0 | (Sn-β); _(Sn-β): Sn 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 32 |  |
+| Lattice c | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
+| Lattice c | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
+| Lattice c | 6.33 Å | 0 | (Yb-γ); _alloy: Sn 0, Yb 1_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
+| Lattice c | 7.05 Å | 0 | Yb2Sn; _Yb2Sn: Sn 0.333_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 16 |  |
+| Lattice c | 10.46 Å | 0 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 26 |  |
+| Lattice c | 8.41 Å | 0 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 22 |  |
+| Lattice c | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice c | 9.59 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice c | 4.52 Å | 0 | YbSn; _YbSn: Sn 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 24 |  |
+| Lattice c | 4.73 Å | 0 | YbSn3; _YbSn3: Sn 0.75_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 28 |  |
+| Lattice c | 6.72 Å | 0 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 18 |  |
+| Lattice c | 15.24 Å | 0 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 20 |  |
+| Lattice c | 5.61 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [1] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
+| Lattice c | 5.43 Å | 298.15 | (Sn-α); _(Sn-α): Sn 1_ | unspecified | [1] Kali-Ali 2017; _cites Tsukeva 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.63) | Table 1, p. 3, row 29 |  |
+| Lattice c | 6.38 Å | 298.15 | (Yb-γ); _alloy: Sn 0, Yb 1_ | experimental | [1] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
+| Lattice c | 9.65 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice c | 7.06 Å | 298.15 | Yb2Sn; _Yb2Sn: Sn 0.333_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 15 |  |
+| Lattice c | 10.37 Å | 298.15 | Yb3Sn5; _Yb3Sn5: Sn 0.00625_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 25 |  |
+| Lattice c | 8.28 Å | 298.15 | Yb5Sn4; _Yb5Sn4: Sn 0.444_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 21 |  |
+| Lattice c | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice c | 9.59 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice c | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice c | 4.4 Å | 298.15 | YbSn; _YbSn: Sn 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 23 |  |
+| Lattice c | 4.68 Å | 298.15 | YbSn3; _YbSn3: Sn 0.75_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 27 |  |
+| Lattice c | 6.9 Å | 298.15 | αYb5Sn3; _αYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 17 |  |
+| Lattice c | 14.68 Å | 298.15 | βYb5Sn3; _βYb5Sn3: Sn 0.375_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 1, p. 3, row 19 |  |
 
 ## Sources
 
@@ -213,4 +213,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

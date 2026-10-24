@@ -59,11 +59,11 @@ Table: Crystal structure, In–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4599 nm | 298.15 | (In); _(In): In 1, V 0_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.30238 nm | 298.15 | (V); _(V): In 0, V 1_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.6153 nm | 298.15 | InV3(a); _InV3(a): In 0.25, V 0.75_ | experimental | [1] Smith 1985; _cites ref. 74Leg_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.4947 nm | 298.15 | (In); _(In): In 1, V 0_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 0.9477 nm | 298.15 | InV3(a); _InV3(a): In 0.25, V 0.75_ | experimental | [1] Smith 1985; _cites ref. 74Leg_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 4.599 Å | 298.15 | (In); _(In): In 1, V 0_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 3.0238 Å | 298.15 | (V); _(V): In 0, V 1_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 6.153 Å | 298.15 | InV3(a); _InV3(a): In 0.25, V 0.75_ | experimental | [1] Smith 1985; _cites ref. 74Leg_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 4.947 Å | 298.15 | (In); _(In): In 1, V 0_ | unspecified | [1] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 9.477 Å | 298.15 | InV3(a); _InV3(a): In 0.25, V 0.75_ | experimental | [1] Smith 1985; _cites ref. 74Leg_ | Table 1, p. 3, row 3 |  |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

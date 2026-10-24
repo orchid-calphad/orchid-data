@@ -28,16 +28,16 @@ Table: Crystal structure, Mn–Nb–O–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.489376 nm ± 4.000e-6 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 1 |  |
-| Lattice a | 1.13415 nm ± 2.000e-5 | 298.15 | Nb2.86Mn3.14O0.31; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 2 |  |
-| Lattice a | 0.491376 nm ± 4.000e-6 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
-| Lattice a | 1.14546 nm ± 1.000e-5 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4 |  |
-| Lattice a | 1.14088 nm ± 3.000e-5 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6 |  |
-| Lattice a | 1.12859 nm ± 2.000e-5 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7 |  |
-| Lattice a | 0.4868 nm ± 1.000e-5 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
-| Lattice c | 0.800616 nm ± 9.000e-6 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 1 |  |
-| Lattice c | 0.803961 nm ± 8.000e-6 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
-| Lattice c | 0.79713 nm ± 2.000e-5 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
+| Lattice a | 4.89376 Å ± 4.000e-5 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 1 |  |
+| Lattice a | 11.3415 Å ± 2.000e-4 | 298.15 | Nb2.86Mn3.14O0.31; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 2 |  |
+| Lattice a | 4.91376 Å ± 4.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
+| Lattice a | 11.4546 Å ± 1.000e-4 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4 |  |
+| Lattice a | 11.4088 Å ± 3.000e-4 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6 |  |
+| Lattice a | 11.2859 Å ± 2.000e-4 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7 |  |
+| Lattice a | 4.868 Å ± 1.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
+| Lattice c | 8.00616 Å ± 9.000e-5 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 1 |  |
+| Lattice c | 8.03961 Å ± 8.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
+| Lattice c | 7.9713 Å ± 2.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

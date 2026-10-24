@@ -202,31 +202,31 @@ Table: Crystal structure, Al–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40496 nm | 298.15 | Al; _Al: Al 1, Sc 0_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 1 |  |
-| Lattice a | 0.7582 nm | 298.15 | Al2Sc; _Al2Sc: Al 0.667, Sc 0.333_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 3 |  |
-| Lattice a | 0.4103 nm | 298.15 | Al3Sc; _Al3Sc: Al 0.75, Sc 0.25_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 2 |  |
-| Lattice a | 0.345 nm | 298.15 | AlSc; _AlSc: Al 0.5, Sc 0.5_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 4 |  |
-| Lattice a | 0.4888 nm | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
-| Lattice a | 488.13 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
-| Lattice a | 488.8 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
-| Lattice a | 488.7 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 3 |  |
-| Lattice a | 398.8 pm | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
-| Lattice a | 345 pm | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 4 |  |
-| Lattice a | 758 pm | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999; _cites Rechkin 1964_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 757.48 pm | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 7 |  |
-| Lattice a | 757.8 pm | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 8 |  |
-| Lattice a | 410 pm | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Rechkin 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 410.3 pm | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 11 |  |
-| Lattice a | 410.1 pm | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.33088 nm | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
-| Lattice a | 0.4541 nm | 298.15 | βSc; _βSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 6 |  |
-| Lattice b | 988.2 pm | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.6166 nm | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
-| Lattice c | 616.7 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
-| Lattice c | 616.6 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
-| Lattice c | 617.3 pm | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 3 |  |
-| Lattice c | 365.2 pm | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.5268 nm | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Sc 0_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 1 |  |
+| Lattice a | 7.582 Å | 298.15 | Al2Sc; _Al2Sc: Al 0.667, Sc 0.333_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 3 |  |
+| Lattice a | 4.103 Å | 298.15 | Al3Sc; _Al3Sc: Al 0.75, Sc 0.25_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 2 |  |
+| Lattice a | 3.45 Å | 298.15 | AlSc; _AlSc: Al 0.5, Sc 0.5_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 4 |  |
+| Lattice a | 4.888 Å | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
+| Lattice a | 4.8813 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
+| Lattice a | 4.888 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.887 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.988 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
+| Lattice a | 3.45 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 4 |  |
+| Lattice a | 7.58 Å | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999; _cites Rechkin 1964_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 7.5748 Å | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 7 |  |
+| Lattice a | 7.578 Å | 298.15 | ScAl2; _alloy: Sc 0.333333_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.1 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Rechkin 1964_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.103 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 11 |  |
+| Lattice a | 4.101 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 10 |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
+| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 6 |  |
+| Lattice b | 9.882 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
+| Lattice c | 6.166 Å | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
+| Lattice c | 6.167 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
+| Lattice c | 6.166 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
+| Lattice c | 6.173 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 3 |  |
+| Lattice c | 3.652 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
 
 ## Sources
 
@@ -293,4 +293,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

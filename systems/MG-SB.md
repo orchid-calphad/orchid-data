@@ -95,7 +95,7 @@ Table: Enthalpies of formation, Mg–Sb system (21)
 | — |  | 320 unspecified ± 40 | 800 | experimental |  |  | [1] Jönsson 1987; _cites Kauzmann 1948_ [doi](https://doi.org/10.1021/cr60135a002) | p. 2 | “These values can be compared to the value chosen by Hultgren et al.,~4 320 (-+40) kJ/mol at 800 K and the value chosen by Barin et al., 15 300 kJ/mol at 298 K.” |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -64 kJ/mol-atom ± 40 | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -60 kJ/mol-atom | 298.15 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 3 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1829_ | Table 1I, p. 4, row 10 |  |
+| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 3 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -57 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -55.2 kJ/mol-atom | 298.15 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 773 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
@@ -106,7 +106,7 @@ Table: Enthalpies of formation, Mg–Sb system (21)
 | α-Mg3Sb2 |  | -490 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | α-Mg3Sb2 |  | -320 kJ/mol (basis unstated) ± 40 | 800 | model |  |  | [2] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
 | α-Mg3Sb2 |  | -300 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |
-| α-Mg3Sb2 |  | -299 kJ/mol (basis unstated) ± 3 | 900 | experimental |  |  | [2] Balakumar 2005; _cites Rao 1835_ | Table 8, p. 9, row 1 |  |
+| α-Mg3Sb2 |  | -299 kJ/mol (basis unstated) ± 3 | 900 | experimental |  |  | [2] Balakumar 2005; _cites Rao 1971_ | Table 8, p. 9, row 1 |  |
 | α-Mg3Sb2 |  | -285 kJ/mol (basis unstated) | 923 | experimental |  |  | [2] Balakumar 2005; _cites Kubaschewski 1939_ | Table 8, p. 9, row 3 |  |
 | α-Mg3Sb2 |  | -235 kJ/mol (basis unstated) ± 6 | 773 | experimental |  |  | [2] Balakumar 2005; _cites Eremenko 1964_ | Table 8, p. 9, row 2 |  |
 
@@ -132,7 +132,7 @@ Table: Formation, Mg–Sb system
 | Entropy of formation; _printed: ΔSf_ | -54 J/mol (basis unstated)/K | 298.15 | α-Mg3Sb2; _alloy: Sb 0.4_ | model | [2] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | Entropy of formation; _printed: ΔSf_ | -15 J/mol (basis unstated)/K ± 10 | 773 | α-Mg3Sb2; _alloy: Sb 0.4_ | experimental | [2] Balakumar 2005; _cites Eremenko 1964_ | Table 8, p. 9, row 2 |  |
 | Entropy of formation; _printed: ΔSf_ | -91 J/mol (basis unstated)/K ± 52 | 800 | α-Mg3Sb2; _alloy: Sb 0.4_ | model | [2] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
-| Entropy of formation; _printed: ΔSf_ | -59 J/mol (basis unstated)/K ± 5 | 900 | α-Mg3Sb2; _alloy: Sb 0.4_ | experimental | [2] Balakumar 2005; _cites Rao 1835_ | Table 8, p. 9, row 1 |  |
+| Entropy of formation; _printed: ΔSf_ | -59 J/mol (basis unstated)/K ± 5 | 900 | α-Mg3Sb2; _alloy: Sb 0.4_ | experimental | [2] Balakumar 2005; _cites Rao 1971_ | Table 8, p. 9, row 1 |  |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -151,8 +151,8 @@ Table: Crystal structure, Mg–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.45822 nm | 298.15 | α-Mg3Sb2; _α-Mg3Sb2: Mg 0.6, Sb 0.4_ | unspecified | [2] Balakumar 2005; _cites Nayeb-Hashemi 1985_ | Table 1, p. 4, row 2 |  |
-| Lattice c | 0.72436 nm | 298.15 | α-Mg3Sb2; _α-Mg3Sb2: Mg 0.6, Sb 0.4_ | unspecified | [2] Balakumar 2005; _cites Nayeb-Hashemi 1985_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 4.5822 Å | 298.15 | α-Mg3Sb2; _α-Mg3Sb2: Mg 0.6, Sb 0.4_ | unspecified | [2] Balakumar 2005; _cites Nayeb-Hashemi 1985_ | Table 1, p. 4, row 2 |  |
+| Lattice c | 7.2436 Å | 298.15 | α-Mg3Sb2; _α-Mg3Sb2: Mg 0.6, Sb 0.4_ | unspecified | [2] Balakumar 2005; _cites Nayeb-Hashemi 1985_ | Table 1, p. 4, row 2 |  |
 
 ## Sources
 
@@ -218,4 +218,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -66,43 +66,43 @@ Table: Crystal structure, Al–Cu–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.2946 nm |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.77967 nm | 298.15 | Al2Er; _alloy: Cu 0, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.8123 nm | 298.15 | Al2Er3; _alloy: Cu 0, Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.557 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.6516 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.4275 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
-| Lattice a | 0.7003 nm | 298.15 | Cu5Er; _alloy: Cu 0.833333, Er 0.166667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 13 |  |
-| Lattice a | 0.3425 nm | 298.15 | CuEr; _alloy: Cu 0.5, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 17 |  |
-| Lattice a | 0.4214 nm | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.87023 nm | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.4146 nm | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.40972 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice a | 1.2066 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.6067 nm | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.8712 nm | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
-| Lattice a | 0.863 nm | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
-| Lattice a | 0.5029 nm | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
-| Lattice a | 0.4184 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice a | 0.6975 nm | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
-| Lattice b | 0.5801 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice b | 0.5015 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice b | 0.6726 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
-| Lattice b | 0.71313 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice b | 0.4105 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice b | 0.4112 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice c | 1.1272 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice c | 0.9279 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice c | 0.7265 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
-| Lattice c | 0.5063 nm | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
-| Lattice c | 0.99793 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.6913 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.4877 nm | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
-| Lattice c | 0.513 nm | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
-| Lattice c | 0.5029 nm | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
-| Lattice c | 0.4139 nm | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
-| Lattice c | 0.9773 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice c | 0.4003 nm | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
+| Lattice a | 2.946 Å |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7 |  |
+| Lattice a | 7.7967 Å | 298.15 | Al2Er; _alloy: Cu 0, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
+| Lattice a | 8.123 Å | 298.15 | Al2Er3; _alloy: Cu 0, Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
+| Lattice a | 5.57 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice a | 6.516 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice a | 4.275 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice a | 7.003 Å | 298.15 | Cu5Er; _alloy: Cu 0.833333, Er 0.166667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 13 |  |
+| Lattice a | 3.425 Å | 298.15 | CuEr; _alloy: Cu 0.5, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 17 |  |
+| Lattice a | 4.214 Å | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8 |  |
+| Lattice a | 8.7023 Å | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.146 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
+| Lattice a | 4.0972 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice a | 12.066 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice a | 6.067 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
+| Lattice a | 8.712 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
+| Lattice a | 8.63 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
+| Lattice a | 5.029 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.184 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice a | 6.975 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
+| Lattice b | 5.801 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice b | 5.015 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice b | 6.726 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice b | 7.1313 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice b | 4.105 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice b | 4.112 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice c | 11.272 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice c | 9.279 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice c | 7.265 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice c | 5.063 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
+| Lattice c | 9.9793 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice c | 6.913 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice c | 4.877 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
+| Lattice c | 5.13 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
+| Lattice c | 5.029 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
+| Lattice c | 4.139 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
+| Lattice c | 9.773 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice c | 4.003 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -43,7 +43,7 @@ Table: Invariant reactions reported in the literature for the Ga–Hg system (8)
 |---:|---|---|---|---|---|---|
 | 476.5 | L \<-> L1 + L2 | L: Hg 0.5; L1: Hg 0.5; L2: Hg 0.5 | unspecified | [1] Feng 2009; _cites ref. 9_ | Table 5, p. 4, row 9 |  |
 | 473.9 | L ↔ L1+L2 | L: Hg 0.5; L1: Hg 0.5; L2: Hg 0.5 | model | [1] Feng 2009 | Table 5, p. 4, row 8 |  |
-| 300.7 | L1↔(Ga)+L2 |  | experimental | [1] Feng 2009; _cites DORON 1960_ | Table 5, p. 4, row 3 |  |
+| 300.7 | L1↔(Ga)+L2 |  | experimental | [1] Feng 2009; _cites DORON_ | Table 5, p. 4, row 3 |  |
 | 299.9 | L1↔(Ga)+L2 |  | unspecified | [1] Feng 2009; _cites ref. 13_ | Table 5, p. 4, row 2 |  |
 | 299.7 | L1↔(Ga)+L2 | L1: Hg 0.023; (Ga): Hg 2.000e-4; L2: Hg 0.967 | unspecified | [1] Feng 2009; _cites ref. 9_ | Table 5, p. 4, row 1 |  |
 | 299.7 | L1↔(Ga)+L2 | L1: Hg 0.0097; (Ga): Hg 3.000e-4; L2: Hg 0.969 | model | [1] Feng 2009 | Table 5, p. 4, row 4 |  |
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -82,7 +82,7 @@ Table: Enthalpies of formation, Ca–O–Si system (26)
 | Triclinic-Ca3SiO5 |  | -2933 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 2 |  |
 | Wollastonite-CaSiO3 |  | -1634 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 8 |  |
 | Wollastonite-CaSiO3 |  | -1634 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 7 |  |
-| wollastonite-CaSiO3 |  | -1634.32 kJ/mol (basis unstated) ± 2.71 | 298.15 | unspecified |  |  | [1] Abdul 2023; _cites Grevel 2021_ | Table A.2, p. 13, row 21 |  |
+| wollastonite-CaSiO3 |  | -1634.32 kJ/mol (basis unstated) ± 2.71 | 298.15 | unspecified |  |  | [1] Abdul 2023; _cites Grevel 2022_ | Table A.2, p. 13, row 21 |  |
 | α-Ca2SiO4 |  | -2548 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12 |  |
 | α-Ca2SiO4 |  | -2293 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
 | α′-Ca2SiO4 |  | -2304 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
@@ -218,4 +218,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

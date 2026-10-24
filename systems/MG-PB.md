@@ -188,10 +188,10 @@ Table: Crystal structure, Mg–Pb system
 | Lattice a; _printed: Lattice constant a_ | 3.203 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 2 |  |
 | Lattice a; _printed: Lattice constant a_ | 3.234 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Schimmel 2005_ [doi](https://doi.org/10.1021/ja051508a) | Table 3, p. 4, row 3 |  |
 | Lattice a; _printed: Lattice constant a_ | 4.833 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 16 |  |
-| Lattice a; _printed: Lattice constant a_ | 4.891 A | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.891 Å | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
 | Lattice a; _printed: Lattice constant a_ | 4.818 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Fassler 1999_ | Table 3, p. 4, row 17 |  |
 | Lattice a; _printed: Lattice constant a_ | 4.881 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
-| Lattice a; _printed: Lattice constant a_ | 4.851 A | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.851 Å | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
 | Lattice c; _printed: Lattice constant c_ | 5.21 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 3, p. 4, row 4 |  |
 | Lattice c; _printed: Lattice constant c_ | 5.201 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 5 |  |
 | Lattice c; _printed: Lattice constant c_ | 5.133 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 1 |  |
@@ -262,4 +262,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

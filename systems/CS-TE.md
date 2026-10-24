@@ -148,28 +148,28 @@ Table: Crystal structure, Cs–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.52 nm |  | β-CsTe; _β-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 6 |  |
-| Lattice a | 0.6141 nm | 298.15 | (Cs); _(Cs): Cs 1, Te 0_ | model | [1] Thi 2015; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 4, row 1 |  |
-| Lattice a | 0.8666 nm | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
-| Lattice a | 0.937 nm | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
-| Lattice a | 0.7857 nm | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
-| Lattice a | 0.44566 nm | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
-| Lattice a | 0.9109 nm | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
-| Lattice a | 2.111 nm | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
-| Lattice a | 1.11639 nm | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
-| Lattice b | 1.2065 nm | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
-| Lattice b | 1.228 nm | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
-| Lattice b | 0.7286 nm | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
-| Lattice b | 1.1486 nm | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
-| Lattice b | 0.6655 nm | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
-| Lattice b | 0.61309 nm | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
-| Lattice c | 0.868 nm | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
-| Lattice c | 1.012 nm | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
-| Lattice c | 1.4155 nm | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
-| Lattice c | 0.59264 nm | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
-| Lattice c | 0.5867 nm | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
-| Lattice c | 1.507 nm | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
-| Lattice c | 0.49669 nm | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
+| Lattice a | 5.2 Å |  | β-CsTe; _β-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 6 |  |
+| Lattice a | 6.141 Å | 298.15 | (Cs); _(Cs): Cs 1, Te 0_ | model | [1] Thi 2015; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 4, row 1 |  |
+| Lattice a | 8.666 Å | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
+| Lattice a | 9.37 Å | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
+| Lattice a | 7.857 Å | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
+| Lattice a | 4.4566 Å | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
+| Lattice a | 9.109 Å | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
+| Lattice a | 21.11 Å | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
+| Lattice a | 11.1639 Å | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
+| Lattice b | 12.065 Å | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
+| Lattice b | 12.28 Å | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
+| Lattice b | 7.286 Å | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
+| Lattice b | 11.486 Å | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
+| Lattice b | 6.655 Å | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
+| Lattice b | 6.1309 Å | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
+| Lattice c | 8.68 Å | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
+| Lattice c | 10.12 Å | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
+| Lattice c | 14.155 Å | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
+| Lattice c | 5.9264 Å | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
+| Lattice c | 5.867 Å | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
+| Lattice c | 15.07 Å | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
+| Lattice c | 4.9669 Å | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
 | lattice beta | 93.83 ° | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
 | lattice beta | 134.53 ° | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
 | lattice c a | 1.3289 not_printed | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
@@ -247,4 +247,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

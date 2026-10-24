@@ -94,32 +94,32 @@ Table: Crystal structure, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.377 nm | 298.15 | (αLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 1 |  |
-| Lattice a | 0.5303 nm | 298.15 | (βLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 3 |  |
-| Lattice a | 0.426 nm | 298.15 | (γLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 2 |  |
-| Lattice a | 0.5114 nm | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice a | 0.5056 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice a | 0.5058 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice a | 0.6601 nm | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice a | 0.5052 nm | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice a | 0.7355 nm | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice a | 1.013 nm | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice a | 0.3907 nm | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice a | 0.734 nm | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 9 |  |
-| Lattice a | 0.5086 nm | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice a | 0.502 nm | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
-| Lattice a | 0.5409 nm | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16 |  |
-| Lattice a | 0.3523 nm | 298.15 | Ni; _alloy: La 0, Ni 1_ | unspecified | [2] An 2013 | Table 3, p. 5, row 4 |  |
-| Lattice c | 0.7908 nm | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice c | 3.6981 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice c | 2.471 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice c | 0.5111 nm | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice c | 3.2653 nm | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice c | 1.4511 nm | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice c | 0.6462 nm | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice c | 0.4396 nm | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice c | 2.5011 nm | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice c | 0.398 nm | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
+| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 1 |  |
+| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 3 |  |
+| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 2 |  |
+| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
+| Lattice a | 5.056 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
+| Lattice a | 5.058 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
+| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
+| Lattice a | 5.052 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
+| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
+| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
+| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
+| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 9 |  |
+| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
+| Lattice a | 5.02 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
+| Lattice a | 5.409 Å | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16 |  |
+| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: La 0, Ni 1_ | unspecified | [2] An 2013 | Table 3, p. 5, row 4 |  |
+| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
+| Lattice c | 36.981 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
+| Lattice c | 24.71 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
+| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
+| Lattice c | 32.653 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
+| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
+| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
+| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
+| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
+| Lattice c | 3.98 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

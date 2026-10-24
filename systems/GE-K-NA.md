@@ -54,28 +54,28 @@ Table: Crystal structure, Ge–K–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.578 nm |  | (Ge); _alloy: K 0, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.529 nm |  | (K); _alloy: K 1, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.423 nm |  | (Na); _alloy: K 0, Na 1_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 10 |  |
-| Lattice a | 1.115 nm |  | Ge46K8; _alloy: K 0.148148, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 15 |  |
-| Lattice a | 1.297 nm |  | GeK; _alloy: K 0.5, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 18 |  |
-| Lattice a | 1.243 nm |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice a | 0.566 nm | 298.15 | (Ge); _alloy: K 0, Na 0_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.532 nm | 298.15 | (K); _alloy: K 1, Na 0_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.421 nm | 298.15 | (Na); _alloy: K 0, Na 1_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 9 |  |
-| Lattice a | 1.54 nm | 298.15 | Ge136Nax ~0 ≤ x ≤ 24 | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 3 |  |
-| Lattice a | 15.054 nm | 298.15 | Ge3+zNa1−x (Ge3Na1−x) | unspecified | [1] Wang 2012; _cites Beekman 2005_ [doi](https://doi.org/10.1109/ict.2005.1519927) | Table 1, p. 3, row 4 |  |
-| Lattice a | 1.066 nm | 298.15 | Ge46K8; _alloy: K 0.148148, Na 0_ | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 13 |  |
-| Lattice a | 1.071 nm | 298.15 | Ge46K8; _alloy: K 0.148148, Na 0_ | experimental | [1] Wang 2012; _cites Gallmeier 1969_ [doi](https://doi.org/10.1515/znb-1969-0603) | Table 1, p. 3, row 14 |  |
-| Lattice a | 0.644 nm | 298.15 | Ge4K; _alloy: K 0.2, Na 0_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 16 |  |
-| Lattice a | 0.64 nm | 298.15 | Ge4Na; _alloy: K 0, Na 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 1.278 nm | 298.15 | GeK; _alloy: K 0.5, Na 0_ | experimental | [1] Wang 2012; _cites Schafer 1961_ [doi](https://doi.org/10.1002/zaac.19613120310) | Table 1, p. 3, row 17 |  |
-| Lattice a | 1.233 nm | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 0.667 nm |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice b | 0.67 nm | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 1.159 nm |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice c | 3.96845 nm | 298.15 | Ge3+zNa1−x (Ge3Na1−x) | unspecified | [1] Wang 2012; _cites Beekman 2005_ [doi](https://doi.org/10.1109/ict.2005.1519927) | Table 1, p. 3, row 4 |  |
-| Lattice c | 1.142 nm | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 5.78 Å |  | (Ge); _alloy: K 0, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 2 |  |
+| Lattice a | 5.29 Å |  | (K); _alloy: K 1, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 12 |  |
+| Lattice a | 4.23 Å |  | (Na); _alloy: K 0, Na 1_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 10 |  |
+| Lattice a | 11.15 Å |  | Ge46K8; _alloy: K 0.148148, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 15 |  |
+| Lattice a | 12.97 Å |  | GeK; _alloy: K 0.5, Na 0_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 18 |  |
+| Lattice a | 12.43 Å |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice a | 5.66 Å | 298.15 | (Ge); _alloy: K 0, Na 0_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 1 |  |
+| Lattice a | 5.32 Å | 298.15 | (K); _alloy: K 1, Na 0_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 11 |  |
+| Lattice a | 4.21 Å | 298.15 | (Na); _alloy: K 0, Na 1_ | model | [1] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 9 |  |
+| Lattice a | 15.4 Å | 298.15 | Ge136Nax ~0 ≤ x ≤ 24 | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 3 |  |
+| Lattice a | 150.54 Å | 298.15 | Ge3+zNa1−x (Ge3Na1−x) | unspecified | [1] Wang 2012; _cites Beekman 2005_ [doi](https://doi.org/10.1109/ict.2005.1519927) | Table 1, p. 3, row 4 |  |
+| Lattice a | 10.66 Å | 298.15 | Ge46K8; _alloy: K 0.148148, Na 0_ | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 13 |  |
+| Lattice a | 10.71 Å | 298.15 | Ge46K8; _alloy: K 0.148148, Na 0_ | experimental | [1] Wang 2012; _cites Gallmeier 1969_ [doi](https://doi.org/10.1515/znb-1969-0603) | Table 1, p. 3, row 14 |  |
+| Lattice a | 6.44 Å | 298.15 | Ge4K; _alloy: K 0.2, Na 0_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 16 |  |
+| Lattice a | 6.4 Å | 298.15 | Ge4Na; _alloy: K 0, Na 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 12.78 Å | 298.15 | GeK; _alloy: K 0.5, Na 0_ | experimental | [1] Wang 2012; _cites Schafer 1961_ [doi](https://doi.org/10.1002/zaac.19613120310) | Table 1, p. 3, row 17 |  |
+| Lattice a | 12.33 Å | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice b | 6.67 Å |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice b | 6.7 Å | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.59 Å |  | GeNa; _alloy: K 0, Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice c | 39.6845 Å | 298.15 | Ge3+zNa1−x (Ge3Na1−x) | unspecified | [1] Wang 2012; _cites Beekman 2005_ [doi](https://doi.org/10.1109/ict.2005.1519927) | Table 1, p. 3, row 4 |  |
+| Lattice c | 11.42 Å | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
 | lattice beta | 119.9 ° | 298.15 | GeNa; _alloy: K 0, Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
 
 ## Sources
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

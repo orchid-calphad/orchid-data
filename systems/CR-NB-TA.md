@@ -64,7 +64,7 @@ Table: Enthalpies of formation, Cr–Nb–Ta system (39)
 | C36 |  | 15.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 14 |  |
 | C36 |  | 27.75 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 13 |  |
 | Cr2Nb C14 |  | -7 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Pavlů 2009; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 4, p. 4, row 4 |  |
-| Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Pavlů 2009; _cites Feschotte 1941_ | Table 4, p. 4, row 5 |  |
+| Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
 | CrNb2 (C14) |  | 76.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 1 |  |
 | CrNb2 (C15) |  | 75.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 3 |  |
 | CrNb2 (C36) |  | 76.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 5 |  |
@@ -80,53 +80,53 @@ Table: Crystal structure, Cr–Nb–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 285 pm |  | Antiferromagnetic BCC Cr; _alloy: Nb 0, Ta 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 1 |  |
-| Lattice a | 464 pm | 0 | C14; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 1 |  |
-| Lattice a | 545 pm | 0 | C14; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 3 |  |
-| Lattice a | 532 pm | 0 | C14; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 9 |  |
-| Lattice a | 550 pm | 0 | C14; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 2 |  |
-| Lattice a | 488 pm | 0 | C14; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 4 |  |
-| Lattice a | 538 pm | 0 | C14; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 6 |  |
-| Lattice a | 487 pm | 0 | C14; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 7 |  |
-| Lattice a | 693 pm | 0 | C15; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 13 |  |
-| Lattice a | 765 pm | 0 | C15; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 12 |  |
-| Lattice a | 769 pm | 0 | C15; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 11 |  |
-| Lattice a | 750 pm | 0 | C15; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 15 |  |
-| Lattice a | 748 pm | 0 | C15; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 18 |  |
-| Lattice a | 658 pm | 0 | C15; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 10 |  |
-| Lattice a | 691 pm | 0 | C15; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 16 |  |
-| Lattice a | 490 pm | 0 | C36; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 22 |  |
-| Lattice a | 530 pm | 0 | C36; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 25 |  |
-| Lattice a | 544 pm | 0 | C36; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 21 |  |
-| Lattice a | 488 pm | 0 | C36; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 24 |  |
-| Lattice a | 548 pm | 0 | C36; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 20 |  |
-| Lattice a | 465 pm | 0 | C36; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 19 |  |
-| Lattice a | 532 pm | 0 | C36; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 23 |  |
-| Lattice a | 332 pm |  | Nonmagnetic BCC Nb; _alloy: Nb 1, Ta 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 3 |  |
-| Lattice a | 331 pm |  | Nonmagnetic BCC Ta; _alloy: Nb 0, Ta 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 5 |  |
-| Lattice a | 288 pm | 298.15 | Antiferromagnetic BCC Cr; _alloy: Nb 0, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 493 pm | 298.15 | C14; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 493 pm | 298.15 | C14; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
-| Lattice a | 697 pm | 298.15 | C15; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 14 |  |
-| Lattice a | 700 pm | 298.15 | C15; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 17 |  |
-| Lattice a | 330 pm | 298.15 | Nonmagnetic BCC Nb; _alloy: Nb 1, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 330 pm | 298.15 | Nonmagnetic BCC Ta; _alloy: Nb 0, Ta 1_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 766 pm | 0 | C14; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 1 |  |
-| Lattice c | 868 pm | 0 | C14; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 3 |  |
-| Lattice c | 850 pm | 0 | C14; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 9 |  |
-| Lattice c | 868 pm | 0 | C14; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 2 |  |
-| Lattice c | 806 pm | 0 | C14; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 4 |  |
-| Lattice c | 836 pm | 0 | C14; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 6 |  |
-| Lattice c | 803 pm | 0 | C14; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 7 |  |
-| Lattice c | 1602 pm | 0 | C36; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 22 |  |
-| Lattice c | 1718 pm | 0 | C36; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 25 |  |
-| Lattice c | 1743 pm | 0 | C36; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 21 |  |
-| Lattice c | 1598 pm | 0 | C36; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 24 |  |
-| Lattice c | 1752 pm | 0 | C36; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 20 |  |
-| Lattice c | 1523 pm | 0 | C36; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 19 |  |
-| Lattice c | 1715 pm | 0 | C36; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 23 |  |
-| Lattice c | 812 pm | 298.15 | C14; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 806 pm | 298.15 | C14; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
+| Lattice a | 2.85 Å |  | Antiferromagnetic BCC Cr; _alloy: Nb 0, Ta 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.64 Å | 0 | C14; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 1 |  |
+| Lattice a | 5.45 Å | 0 | C14; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 3 |  |
+| Lattice a | 5.32 Å | 0 | C14; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 9 |  |
+| Lattice a | 5.5 Å | 0 | C14; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 2 |  |
+| Lattice a | 4.88 Å | 0 | C14; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 4 |  |
+| Lattice a | 5.38 Å | 0 | C14; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 6 |  |
+| Lattice a | 4.87 Å | 0 | C14; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 7 |  |
+| Lattice a | 6.93 Å | 0 | C15; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 13 |  |
+| Lattice a | 7.65 Å | 0 | C15; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 12 |  |
+| Lattice a | 7.69 Å | 0 | C15; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 11 |  |
+| Lattice a | 7.5 Å | 0 | C15; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 15 |  |
+| Lattice a | 7.48 Å | 0 | C15; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 18 |  |
+| Lattice a | 6.58 Å | 0 | C15; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 10 |  |
+| Lattice a | 6.91 Å | 0 | C15; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 16 |  |
+| Lattice a | 4.9 Å | 0 | C36; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 22 |  |
+| Lattice a | 5.3 Å | 0 | C36; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 25 |  |
+| Lattice a | 5.44 Å | 0 | C36; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 21 |  |
+| Lattice a | 4.88 Å | 0 | C36; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 24 |  |
+| Lattice a | 5.48 Å | 0 | C36; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 20 |  |
+| Lattice a | 4.65 Å | 0 | C36; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 19 |  |
+| Lattice a | 5.32 Å | 0 | C36; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 23 |  |
+| Lattice a | 3.32 Å |  | Nonmagnetic BCC Nb; _alloy: Nb 1, Ta 0_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.31 Å |  | Nonmagnetic BCC Ta; _alloy: Nb 0, Ta 1_ | unspecified | [1] Pavlů 2009 | Table 1, p. 3, row 5 |  |
+| Lattice a | 2.88 Å | 298.15 | Antiferromagnetic BCC Cr; _alloy: Nb 0, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 4.93 Å | 298.15 | C14; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 4.93 Å | 298.15 | C14; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
+| Lattice a | 6.97 Å | 298.15 | C15; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 14 |  |
+| Lattice a | 7 Å | 298.15 | C15; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 17 |  |
+| Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Nb; _alloy: Nb 1, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Ta; _alloy: Nb 0, Ta 1_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 7.66 Å | 0 | C14; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 1 |  |
+| Lattice c | 8.68 Å | 0 | C14; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 3 |  |
+| Lattice c | 8.5 Å | 0 | C14; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 9 |  |
+| Lattice c | 8.68 Å | 0 | C14; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 2 |  |
+| Lattice c | 8.06 Å | 0 | C14; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 4 |  |
+| Lattice c | 8.36 Å | 0 | C14; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 6 |  |
+| Lattice c | 8.03 Å | 0 | C14; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 7 |  |
+| Lattice c | 16.02 Å | 0 | C36; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 22 |  |
+| Lattice c | 17.18 Å | 0 | C36; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 25 |  |
+| Lattice c | 17.43 Å | 0 | C36; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 21 |  |
+| Lattice c | 15.98 Å | 0 | C36; _alloy: Nb 0, Ta 0.333333_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 24 |  |
+| Lattice c | 17.52 Å | 0 | C36; _alloy: Nb 1, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 20 |  |
+| Lattice c | 15.23 Å | 0 | C36; _alloy: Nb 0, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 19 |  |
+| Lattice c | 17.15 Å | 0 | C36; _alloy: Nb 0.666667, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 23 |  |
+| Lattice c | 8.12 Å | 298.15 | C14; _alloy: Nb 0.333333, Ta 0_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
+| Lattice c | 8.06 Å | 298.15 | C14; _alloy: Nb 0, Ta 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
 | lattice 2v atom | 2.777 10^7 pm^3 | 0 | C36; _alloy: Nb 0.333333, Ta 0_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 22 |  |
 | lattice 2v atom | 3.486 10^7 pm^3 | 0 | C36; _alloy: Nb 0, Ta 0.666667_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 25 |  |
 | lattice 2v atom | 3.724 10^7 pm^3 | 0 | C36; _alloy: Nb 0, Ta 1_ | DFT | [1] Pavlů 2009 | Table 2, p. 3, row 21 |  |
@@ -194,4 +194,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

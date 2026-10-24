@@ -17,12 +17,12 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123516128,
+ "total_bytes": 123359032,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 31271,
-   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
+   "bytes": 33307,
+   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
   },
   {
    "path": "LICENSE",
@@ -31,13 +31,13 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 3550,
-   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
+   "bytes": 3614,
+   "sha256": "939857b353fb387245597859e817f7405e440c013efbcb9ac8b6fc7ddacbe55e"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 8552,
-   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
+   "bytes": 8566,
+   "sha256": "c487466646c694992ed41724f89b4ff3edd0af1c6eb0dc64fb66ca6dd06c2689"
   },
   {
    "path": "README.md",
@@ -46,18 +46,18 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24595,
-   "sha256": "839fc3e908b23e3b0c65cec525339917312de146c35e62b385f2c2be666eeb43"
+   "bytes": 24617,
+   "sha256": "5dabae65a6bee82dcf29dd4186f0e1172542c227dba8a818218132a8b45605dd"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",
-   "bytes": 263405,
-   "sha256": "51f4f60c4b9bca2a7ec42e14fd01af8d5d0c29147a62288e55b999b2f8544975"
+   "bytes": 263049,
+   "sha256": "6a80bca1da3ff253a07e548c448b4a18e926b19be237c9e8e101cc5737beb559"
   },
   {
    "path": "parquet/phase_diagram_invariants.parquet",
-   "bytes": 849970,
-   "sha256": "50d9426a1f98f35580e7c0487997c6515f0ccfe814784938a46fcf29ce74285b"
+   "bytes": 690948,
+   "sha256": "6747de2806155aeeb371fe0eb574a5f6cf6a6e496d8b986c9379555597fdb5df"
   },
   {
    "path": "phase-diagrams/CITATION.cff",
@@ -13941,8 +13941,8 @@
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 5572,
-   "sha256": "f105ba581bd1081f429cff5b3e1fbc6d9bd2301e2db7d34068766dd7f31636c2"
+   "bytes": 5718,
+   "sha256": "3afbe907ad1f738e1203f352c46dffb896c937c9b2031b6a9bcd28ee58de9a83"
   }
  ]
 }

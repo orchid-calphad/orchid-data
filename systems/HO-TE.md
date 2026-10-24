@@ -116,25 +116,25 @@ Table: Crystal structure, Ho–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3548 nm | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.6055 nm | 0 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.4499 nm | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.4108 nm | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.358 nm | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.609 nm | 298.15 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.4456 nm | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.4411 nm | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.4273 nm | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 4.3964 nm | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice b | 4.503 nm | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 2.487 nm | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.582 nm | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.5957 nm | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.4621 nm | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.562 nm | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
-| Lattice c | 0.5921 nm | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.4411 nm | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.4273 nm | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 3.548 Å | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
+| Lattice a | 6.055 Å | 0 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.499 Å | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.108 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
+| Lattice a | 3.58 Å | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
+| Lattice a | 6.09 Å | 298.15 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 4.456 Å | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
+| Lattice b | 43.964 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
+| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice b | 24.87 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 5.82 Å | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
+| Lattice c | 5.957 Å | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.621 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.62 Å | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
+| Lattice c | 5.921 Å | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
 
 ## Sources
 
@@ -200,4 +200,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

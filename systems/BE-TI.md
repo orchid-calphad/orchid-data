@@ -130,16 +130,16 @@ Table: Crystal structure, Be–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.294 nm |  | TiBe; _alloy: Ti 0.5_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.735 nm |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.6427 nm |  | TiBe2; _alloy: Ti 0.333333_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.449 nm |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.734 nm |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.735 nm |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.419 nm |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 2.132 nm |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 1.073 nm |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.726 nm |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 2.94 Å |  | TiBe; _alloy: Ti 0.5_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 7.35 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.427 Å |  | TiBe2; _alloy: Ti 0.333333_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.49 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 7.34 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 7.35 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.19 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 21.32 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 10.73 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.26 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
 
 ## Sources
 
@@ -204,4 +204,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -30,7 +30,7 @@ Table: Invariant reactions reported in the literature for the Al–Co–Fe syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 927.05 | eutectic: Liquid%A1þCo2Al9þm(Co,Fe)4Al13 |  | experimental | [1] Ostrowska 2019; _cites Raynor 1950_ | p. 4 | “Moreover the liquidus surface was determined in the Al-rich corner (97.5e100 wt% Al) and the temperature of the ternary eutectic Liquid%A1þCo2Al9þm(Co,Fe)4Al13 was estimated to be 653.9 ± 0.3 C with the liquid composition: 1.55Fe-0.35Co98.1Al (wt%).” |
+| 927.05 | eutectic: Liquid%A1þCo2Al9þm(Co,Fe)4Al13 |  | experimental | [1] Ostrowska 2019; _cites Raynor 1948_ | p. 4 | “Moreover the liquidus surface was determined in the Al-rich corner (97.5e100 wt% Al) and the temperature of the ternary eutectic Liquid%A1þCo2Al9þm(Co,Fe)4Al13 was estimated to be 653.9 ± 0.3 C with the liquid composition: 1.55Fe-0.35Co98.1Al (wt%).” |
 
 ## Formation enthalpies
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

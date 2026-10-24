@@ -97,7 +97,7 @@ Table: Crystal structure, Co–Pt system
 | Lattice a; _printed: a_ | 3.857 Å |  | CoPt3; _alloy: Pt 0.75_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2 |  |
 | Lattice c; _printed: c_ | 3.708 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 4 |  |
 | Lattice c; _printed: c_ | 3.684 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 3.694 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 2033_ | Table 2, p. 3, row 5 |  |
+| Lattice c; _printed: c_ | 3.694 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 2, p. 3, row 5 |  |
 
 ### Other property (1)
 
@@ -170,4 +170,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

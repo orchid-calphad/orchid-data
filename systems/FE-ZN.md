@@ -247,14 +247,14 @@ Table: Crystal structure, Fe–Zn system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 8.994 Å | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1 |  |
-| Lattice a | 17.963 Å | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1907_ | Table 2, p. 4, row 2 |  |
+| Lattice a | 17.963 Å | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2 |  |
 | Lattice a | 12.787 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
 | Lattice a | 13.41 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
 | Lattice b | 7.606 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
 | Lattice c | 57.222 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
 | Lattice c | 5.076 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
 | lattice alpha | 90 ° | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1 |  |
-| lattice alpha | 90 ° | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1907_ | Table 2, p. 4, row 2 |  |
+| lattice alpha | 90 ° | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2 |  |
 | lattice alpha | 120 ° | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
 | lattice alpha | 90 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
 | lattice beta | 127.3 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
@@ -328,4 +328,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

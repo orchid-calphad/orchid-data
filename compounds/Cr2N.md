@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cr2N reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -43.1 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
-| 41.8 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 5 |  |
+| 41.8 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5 |  |
 
 ### Uncertainty budget
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

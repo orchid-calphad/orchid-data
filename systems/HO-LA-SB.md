@@ -35,7 +35,7 @@ Table: Enthalpies of formation, Ho–La–Sb system (20)
 | HoSb |  | -126.5 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 12 |  |
 | HoSb |  | -108.284 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
 | HoSb |  | -91 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 14 |  |
-| HoSb |  | -64 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Wang 2013; _cites Pratt 2027_ | Table 3, p. 3, row 13 |  |
+| HoSb |  | -64 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Wang 2013; _cites Pratt 1970_ | Table 3, p. 3, row 13 |  |
 | HoSb2 |  | -84.4 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 19 |  |
 | HoSb2 |  | -74 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 20 |  |
 | HoSb2 |  | -69.418 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 18 |  |
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -196,26 +196,26 @@ Table: Crystal structure, B–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.09251 nm | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1954_ | Table 2, p. 2, row 10 |  |
-| Lattice a | 0.612 nm | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
-| Lattice a | 0.6105 nm | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
-| Lattice a | 0.3028 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6 |  |
-| Lattice a | 0.3028 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5 |  |
-| Lattice a | 0.326 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
-| Lattice a | 0.303 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7 |  |
-| Lattice a | 0.3259 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
-| Lattice b | 0.306 nm | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
-| Lattice b | 0.3048 nm | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
-| Lattice b | 1.372 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
-| Lattice b | 1.373 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
-| Lattice c | 2.3814 nm | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1954_ | Table 2, p. 2, row 10 |  |
-| Lattice c | 0.456 nm | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
-| Lattice c | 0.4542 nm | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
-| Lattice c | 0.323 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6 |  |
-| Lattice c | 0.3228 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5 |  |
-| Lattice c | 0.3041 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
-| Lattice c | 0.3228 nm | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7 |  |
-| Lattice c | 0.3042 nm | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
+| Lattice a | 10.9251 Å | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1977_ | Table 2, p. 2, row 10 |  |
+| Lattice a | 6.12 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
+| Lattice a | 6.105 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
+| Lattice a | 3.028 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6 |  |
+| Lattice a | 3.028 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5 |  |
+| Lattice a | 3.26 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
+| Lattice a | 3.03 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7 |  |
+| Lattice a | 3.259 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
+| Lattice b | 3.06 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
+| Lattice b | 3.048 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
+| Lattice b | 13.72 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
+| Lattice b | 13.73 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
+| Lattice c | 23.814 Å | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1977_ | Table 2, p. 2, row 10 |  |
+| Lattice c | 4.56 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3 |  |
+| Lattice c | 4.542 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4 |  |
+| Lattice c | 3.23 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6 |  |
+| Lattice c | 3.228 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5 |  |
+| Lattice c | 3.041 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9 |  |
+| Lattice c | 3.228 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7 |  |
+| Lattice c | 3.042 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8 |  |
 
 ## Sources
 
@@ -274,4 +274,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

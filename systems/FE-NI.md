@@ -177,42 +177,42 @@ Table: Crystal structure, Fe–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.28577 nm |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 7 |  |
-| Lattice a | 0.28547 nm |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 8 |  |
-| Lattice a | 0.28279 nm |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 11 |  |
-| Lattice a | 0.28041 nm |  | bcc; _alloy: Fe 0, Ni 1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 16 |  |
-| Lattice a | 0.28368 nm |  | bcc; _alloy: Fe 1, Ni 0_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 1 |  |
-| Lattice a | 0.28487 nm |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 3 |  |
-| Lattice a | 0.2812 nm |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 14 |  |
-| Lattice a | 0.28602 nm |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 6 |  |
-| Lattice a | 0.28202 nm |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 13 |  |
-| Lattice a | 0.28514 nm |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 4 |  |
-| Lattice a | 0.28428 nm |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 2 |  |
-| Lattice a | 0.28569 nm |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 5 |  |
-| Lattice a | 0.28241 nm |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 12 |  |
-| Lattice a | 0.28353 nm |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 10 |  |
-| Lattice a | 0.28422 nm |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 9 |  |
-| Lattice a | 0.2805 nm |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 15 |  |
-| Lattice a | 0.35523 nm | 298.15 | FeNi3; _alloy: Ni 0.75_ | model | [1] Cacciamani 2010 | Table 1, p. 4, row 5 |  |
-| Lattice a | 0.28665 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
-| Lattice a | 0.29315 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
-| Lattice a | 0.36467 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| Lattice a | 0.3524 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| Lattice a | 0.3575 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: a0_ | 0.37 nm | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
-| lattice unspecified axis; _printed: a0_ | 0.35 nm | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
-| lattice unspecified axis; _printed: a0_ | 0.2826 nm | 0 | Fe A2; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
-| lattice unspecified axis; _printed: a0_ | 0.3504 nm | 0 | Fe2Ni C11f; _alloy: Fe 0.667, Ni 0.333_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 6 |  |
-| lattice unspecified axis; _printed: a0_ | 0.5705 nm | 0 | Fe3Ni D03; _alloy: Fe 0.75, Ni 0.25_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 5 |  |
-| lattice unspecified axis; _printed: a0_ | 0.356 nm | 0 | Fe3Ni L12; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
-| lattice unspecified axis; _printed: a0_ | 0.2844 nm | 0 | FeNi B2; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 8 |  |
-| lattice unspecified axis; _printed: a0_ | 0.5668 nm | 0 | FeNi B32; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 9 |  |
-| lattice unspecified axis; _printed: a0_ | 0.3547 nm | 0 | FeNi L10; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 7 |  |
-| lattice unspecified axis; _printed: a0_ | 0.355 nm | 0 | FeNi2 C11f; _alloy: Fe 0.333, Ni 0.667_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 10 |  |
-| lattice unspecified axis; _printed: a0_ | 0.56 nm | 0 | FeNi3 D03; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 12 |  |
-| lattice unspecified axis; _printed: a0_ | 0.35 nm | 0 | FeNi3 L12; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 11 |  |
-| lattice unspecified axis; _printed: a0_ | 0.28 nm | 0 | Ni A1; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 13 |  |
-| lattice unspecified axis; _printed: a0_ | 0.3518 nm | 0 | Ni A2; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 14 |  |
+| Lattice a | 2.8577 Å |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 7 |  |
+| Lattice a | 2.8547 Å |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 8 |  |
+| Lattice a | 2.8279 Å |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 11 |  |
+| Lattice a | 2.8041 Å |  | bcc; _alloy: Fe 0, Ni 1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 16 |  |
+| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1, Ni 0_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 1 |  |
+| Lattice a | 2.8487 Å |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 3 |  |
+| Lattice a | 2.812 Å |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 14 |  |
+| Lattice a | 2.8602 Å |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 6 |  |
+| Lattice a | 2.8202 Å |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 13 |  |
+| Lattice a | 2.8514 Å |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 4 |  |
+| Lattice a | 2.8428 Å |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 2 |  |
+| Lattice a | 2.8569 Å |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 5 |  |
+| Lattice a | 2.8241 Å |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 12 |  |
+| Lattice a | 2.8353 Å |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 10 |  |
+| Lattice a | 2.8422 Å |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 9 |  |
+| Lattice a | 2.805 Å |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 15 |  |
+| Lattice a | 3.5523 Å | 298.15 | FeNi3; _alloy: Ni 0.75_ | model | [1] Cacciamani 2010 | Table 1, p. 4, row 5 |  |
+| Lattice a | 2.8665 Å | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 2.9315 Å | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 3.6467 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| Lattice a | 3.524 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| Lattice a | 3.575 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| lattice unspecified axis; _printed: a0_ | 3.7 Å | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
+| lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
+| lattice unspecified axis; _printed: a0_ | 2.826 Å | 0 | Fe A2; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
+| lattice unspecified axis; _printed: a0_ | 3.504 Å | 0 | Fe2Ni C11f; _alloy: Fe 0.667, Ni 0.333_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 6 |  |
+| lattice unspecified axis; _printed: a0_ | 5.705 Å | 0 | Fe3Ni D03; _alloy: Fe 0.75, Ni 0.25_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 5 |  |
+| lattice unspecified axis; _printed: a0_ | 3.56 Å | 0 | Fe3Ni L12; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
+| lattice unspecified axis; _printed: a0_ | 2.844 Å | 0 | FeNi B2; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 8 |  |
+| lattice unspecified axis; _printed: a0_ | 5.668 Å | 0 | FeNi B32; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 9 |  |
+| lattice unspecified axis; _printed: a0_ | 3.547 Å | 0 | FeNi L10; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 7 |  |
+| lattice unspecified axis; _printed: a0_ | 3.55 Å | 0 | FeNi2 C11f; _alloy: Fe 0.333, Ni 0.667_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 10 |  |
+| lattice unspecified axis; _printed: a0_ | 5.6 Å | 0 | FeNi3 D03; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 12 |  |
+| lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | FeNi3 L12; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 11 |  |
+| lattice unspecified axis; _printed: a0_ | 2.8 Å | 0 | Ni A1; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 13 |  |
+| lattice unspecified axis; _printed: a0_ | 3.518 Å | 0 | Ni A2; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 14 |  |
 
 ## Sources
 
@@ -279,4 +279,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -37,7 +37,7 @@ Table: Enthalpy of formation of Al4C3 reported in the literature (25)
 | -28.5 kJ/mol-atom | Al4C3 | 298.15 | model | Calphad | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [2] He 2021 | Table 5, p. 12, row 6 |  |
 | -27.6 kJ/mol-atom | Al4C3 | 298.15 | model | Thermodynamic assessment | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [1] Deffrennes 2019 | Table 7, p. 14, row 6 |  |
 | -27.6 kJ/mol-atom | Al4C3 | 298.15 | model | Calphad | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [2] He 2021; _cites Deffrennes 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101648) | Table 5, p. 12, row 5 |  |
-| -26.4 kJ/mol-atom | Al4C3 | 298.15 | DFT | DFT | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [2] He 2021; _cites Pisch 2019_ | Table 5, p. 12, row 1 |  |
+| -26.4 kJ/mol-atom | Al4C3 | 298.15 | DFT | DFT | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [2] He 2021; _cites Pisch 2020_ | Table 5, p. 12, row 1 |  |
 | -26.2 per mol-atom | Al4C3 | 298.15 | DFT | DFT (SCAN functional) | [Al–C](https://data.orchid-project.org/systems/AL-C.html) | [1] Deffrennes 2019; _cites Pisch 2019_ | Table 5, p. 8, row 15 |  |
 
 ### Uncertainty budget
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

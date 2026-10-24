@@ -45,7 +45,7 @@ Table: Invariant reactions reported in the literature for the B–Cd–Sr–Ti�
 | 848.75 | Liquid+SrCd2 -> SrCd | Liquid: Cd 0.4998; SrCd2: Cd 0.6667; SrCd: Cd 0.5; L: Cd 0.4998 | model | [1] Zhang 2013 | Table 4, p. 5, row 14 |  |
 | 804.15 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9167; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9167 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 3 |  |
 | 804.05 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9169; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9169 | model | [1] Zhang 2013 | Table 4, p. 5, row 4 |  |
-| 714.15 | Liquid+SrCd -> Sr5Cd3 |  | experimental | [1] Zhang 2013; _cites Druska 1849_ | Table 4, p. 5, row 16 |  |
+| 714.15 | Liquid+SrCd -> Sr5Cd3 |  | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 4, p. 5, row 16 |  |
 | 703.15 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.3; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.3 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 15 |  |
 | 702.75 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.2629; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.2629 | model | [1] Zhang 2013 | Table 4, p. 5, row 17 |  |
 | 657.25 | Liquid -> Sr5Cd3+(αSr) | Liquid: Cd 0.1967; Sr5Cd3: Cd 0.375; (αSr): Cd 0; L: Cd 0.1967 | model | [1] Zhang 2013 | Table 4, p. 5, row 19 |  |
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

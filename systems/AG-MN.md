@@ -69,30 +69,30 @@ Table: Crystal structure, Ag–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40861 nm | 298.15 | Ag; _Ag: Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 1 |  |
-| Lattice a | 0.89219 nm | 298.15 | αMn; _αMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 9 |  |
-| Lattice a | 0.63152 nm | 298.15 | βMn; _βMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 10 |  |
-| Lattice a | 0.386624 nm | 298.15 | γMn; _γMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 11 |  |
-| Lattice a | 0.30806 nm | 298.15 | δMn; _δMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 12 |  |
-| Lattice a | 0.408606 nm | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
-| Lattice a | 0.408612 nm | 848.15 | (Ag); _(Ag): Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 2 |  |
-| Lattice a | 0.408602 nm | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
-| Lattice a | 0.408606 nm | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
-| Lattice a | 0.4078 nm | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
-| Lattice a | 0.408605 nm | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
-| Lattice a | 0.4073 nm | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
-| lattice unspecified axis | 0.40861 nm | 298.15 | Ag; _Ag: Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 1 |  |
-| lattice unspecified axis | 0.89219 nm | 298.15 | αMn; _αMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 9 |  |
-| lattice unspecified axis | 0.63152 nm | 298.15 | βMn; _βMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 10 |  |
-| lattice unspecified axis | 0.386624 nm | 298.15 | γMn; _γMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 11 |  |
-| lattice unspecified axis | 0.30806 nm | 298.15 | δMn; _δMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 12 |  |
-| lattice unspecified axis | 0.408606 nm | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
-| lattice unspecified axis | 0.408612 nm | 848.15 | (Ag); _(Ag): Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 2 |  |
-| lattice unspecified axis | 0.408602 nm | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
-| lattice unspecified axis | 0.408606 nm | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
-| lattice unspecified axis | 0.4078 nm | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
-| lattice unspecified axis | 0.408605 nm | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
-| lattice unspecified axis | 0.4073 nm | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 1 |  |
+| Lattice a | 8.9219 Å | 298.15 | αMn; _αMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 9 |  |
+| Lattice a | 6.3152 Å | 298.15 | βMn; _βMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 10 |  |
+| Lattice a | 3.86624 Å | 298.15 | γMn; _γMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 11 |  |
+| Lattice a | 3.0806 Å | 298.15 | δMn; _δMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 12 |  |
+| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
+| Lattice a | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 2 |  |
+| Lattice a | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
+| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
+| Lattice a | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
+| Lattice a | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
+| Lattice a | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 1 |  |
+| lattice unspecified axis | 8.9219 Å | 298.15 | αMn; _αMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 9 |  |
+| lattice unspecified axis | 6.3152 Å | 298.15 | βMn; _βMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 10 |  |
+| lattice unspecified axis | 3.86624 Å | 298.15 | γMn; _γMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 11 |  |
+| lattice unspecified axis | 3.0806 Å | 298.15 | δMn; _δMn: Ag 0, Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 12 |  |
+| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
+| lattice unspecified axis | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1, Mn 0_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 2 |  |
+| lattice unspecified axis | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
+| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
+| lattice unspecified axis | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
+| lattice unspecified axis | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
+| lattice unspecified axis | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

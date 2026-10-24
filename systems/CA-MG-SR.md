@@ -55,7 +55,7 @@ Table: Enthalpies of formation, Ca–Mg–Sr system (22)
 | Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.04 kJ/mol-atom | 0 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
 | Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.04 kJ/mol-atom | 0 | unspecified | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
 | Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -11.7161 kJ/mol-atom | 0 | unspecified | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
-| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -11.29 kJ/mol-atom | 359 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Zhong 2006; _cites Smith 1959_ | Table 2, p. 4, row 12 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -11.29 kJ/mol-atom | 359 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
 | Mg2Mg-C14 |  | 7.7909 kJ/mol-atom | 0 | unspecified |  |  | [1] Zhong 2006 | Table 2, p. 4, row 5 |  |
 | Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -10.6189 kJ/mol-atom | 0 | unspecified | -8.916 (mp-aaacpofm) | -10.194 (oqmd-30729) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
 | Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -7.117 kJ/mol-atom | 0 | experimental | -8.916 (mp-aaacpofm) | -10.194 (oqmd-30729) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

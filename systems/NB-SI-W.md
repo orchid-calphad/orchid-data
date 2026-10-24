@@ -66,21 +66,21 @@ Table: Crystal structure, Nb–Si–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.33 nm | 298.15 | Nb; _alloy: Si 0, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 1.023 nm | 298.15 | Nb3Si; _alloy: Si 0.25, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.481 nm | 298.15 | NbSi2; _alloy: Si 0.666667, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.543 nm | 298.15 | Si; _alloy: Si 1, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.33 nm | 298.15 | W; _alloy: Si 0, W 1_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.959 nm | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.322 nm | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.656 nm | 298.15 | αNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 1.003 nm | 298.15 | βNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.518 nm | 298.15 | Nb3Si; _alloy: Si 0.25, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 0.661 nm | 298.15 | NbSi2; _alloy: Si 0.666667, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.492 nm | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 0.783 nm | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 1.186 nm | 298.15 | αNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.507 nm | 298.15 | βNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 3.3 Å | 298.15 | Nb; _alloy: Si 0, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 10.23 Å | 298.15 | Nb3Si; _alloy: Si 0.25, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.81 Å | 298.15 | NbSi2; _alloy: Si 0.666667, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 5.43 Å | 298.15 | Si; _alloy: Si 1, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.3 Å | 298.15 | W; _alloy: Si 0, W 1_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 9.59 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 3.22 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.56 Å | 298.15 | αNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 10.03 Å | 298.15 | βNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.18 Å | 298.15 | Nb3Si; _alloy: Si 0.25, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 6.61 Å | 298.15 | NbSi2; _alloy: Si 0.666667, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 4.92 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 7.83 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 11.86 Å | 298.15 | αNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.07 Å | 298.15 | βNb5Si3; _alloy: Si 0.375, W 0_ | model | [1] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

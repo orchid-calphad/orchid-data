@@ -75,17 +75,17 @@ Table: Crystal structure, La–Mg–Si system
 | Lattice a | 0.6347 not_printed ± 4.000e-4 | 298.15 | Mg2Si; _alloy: Mg 0.666667, Si 0.333333_ | model | [1] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
 | Lattice a | 0.78102 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice a | 0.7839 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.7587 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |
+| Lattice a | 7.587 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |
 | Lattice a | 0.4265 not_printed ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.7517 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21 |  |
-| Lattice a | 0.7498 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20 |  |
+| Lattice a | 7.517 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21 |  |
+| Lattice a | 7.498 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20 |  |
 | Lattice a | 0.80369 not_printed ± 8.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14 |  |
 | Lattice a | 0.8053 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14 |  |
 | Lattice a | 1.46569 not_printed ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.766667, Si 0.033333_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 18 |  |
 | Lattice a | 0.4251 not_printed ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5 |  |
 | Lattice a | 0.88 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 19 |  |
 | Lattice a | 0.43048 not_printed ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17 |  |
-| Lattice a | 0.7561 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22 |  |
+| Lattice a | 7.561 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22 |  |
 | Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
 | Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
 | Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Mg 0, Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
@@ -100,15 +100,15 @@ Table: Crystal structure, La–Mg–Si system
 | Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Mg 0, Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
 | Lattice c | 0.44433 not_printed ± 6.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice c | 0.44396 not_printed ± 4.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
-| Lattice c | 0.44543 nm ± 6.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |
+| Lattice c | 4.4543 Å ± 6.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |
 | Lattice c | 1.3922 not_printed ± 6.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 6 |  |
-| Lattice c | 0.4462 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21 |  |
-| Lattice c | 0.4465 nm ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20 |  |
+| Lattice c | 4.462 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21 |  |
+| Lattice c | 4.465 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20 |  |
 | Lattice c | 1.543 not_printed ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14 |  |
 | Lattice c | 1.5372 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14 |  |
 | Lattice c | 1.4076 not_printed ± 5.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5 |  |
 | Lattice c | 0.58188 not_printed ± 5.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17 |  |
-| Lattice c | 0.4457 nm ± 7.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22 |  |
+| Lattice c | 4.457 Å ± 0.007 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22 |  |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

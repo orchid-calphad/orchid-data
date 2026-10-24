@@ -119,9 +119,9 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | X_PHASE | unknown | 3139 | 1453 | calibrated | 0.01048 | 0.01048-0.01258 | 0.011 | mole fraction |
 | X_PHASE | model_calculated (vs experiment) | 16938 | 8871 | calibrated | 0.004448 | 0.003855-0.004448 | 0.005 | mole fraction |
 | LATTICE_LENGTH | experimental_unspecified | 9 | 9 | prior (orchid_assumed) |  |  | 0.001 | relative (fraction of the value) |
-| LATTICE_LENGTH | unknown | 601 | 192 | calibrated | 0.002209 | 0.001908-0.002664 | 0.0023 | relative (fraction of the value) |
+| LATTICE_LENGTH | unknown | 603 | 194 | calibrated | 0.00222 | 0.00189-0.002664 | 0.0023 | relative (fraction of the value) |
 | LATTICE_LENGTH | xrd | 24 | 22 | calibrated | 0.001082 | 0.000794-0.001837 | 0.0011 | relative (fraction of the value) |
-| LATTICE_LENGTH | model_calculated (vs experiment) | 223 | 133 | calibrated | 0.01964 | 0.01295-0.02611 | 0.0197 | relative (fraction of the value) |
+| LATTICE_LENGTH | model_calculated (vs experiment) | 223 | 133 | calibrated | 0.01114 | 0.007225-0.01295 | 0.0112 | relative (fraction of the value) |
 | LATTICE_ANGLE | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 0.05 | degree |
 | LATTICE_ANGLE | unknown | 2 | 2 | prior (orchid_assumed) |  |  | 0.05 | degree |
 | LATTICE_ANGLE | model_calculated (vs experiment) | 1 | 1 | prior |  |  | 0.1 | degree |

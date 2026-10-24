@@ -286,40 +286,40 @@ Table: Crystal structure, Ce–Ru–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3628 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
-| Lattice a | 0.3661 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
-| Lattice a | 0.9864 nm | 298.15 | Ce7Ru3; _alloy: Ru 0.3, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7 |  |
-| Lattice a | 0.7779 nm | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 12 |  |
-| Lattice a | 0.757 nm | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 11 |  |
-| Lattice a | 0.7535 nm | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 13 |  |
-| Lattice a | 0.733 nm | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
-| Lattice a | 0.5161 nm | 393.5 | (γCe); _(γCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 2 |  |
-| Lattice a | 0.7242 nm | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
-| Lattice a | 0.9802 nm | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6 |  |
-| Lattice a | 1.3645 nm | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8 |  |
-| Lattice a | 0.3629 nm | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16 |  |
-| Lattice a | 0.84 nm | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
-| Lattice a | 0.412 nm | 762 | (δCe); _(δCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 1 |  |
-| Lattice a | 0.3663 nm | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15 |  |
-| Lattice a | 0.733 nm | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
-| Lattice a | 0.7545 nm | 1570 (\<) | CeRu2; _CeRu2: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 10 |  |
-| Lattice b | 0.3628 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
-| Lattice b | 0.3661 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
-| Lattice b | 0.9508 nm | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
-| Lattice b | 0.9863 nm | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
-| Lattice b | 1.3837 nm | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
-| Lattice b | 0.9461 nm | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
-| Lattice c | 0.873 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
-| Lattice c | 0.8792 nm | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
-| Lattice c | 0.6305 nm | 298.15 | Ce7Ru3; _alloy: Ru 0.3, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7 |  |
-| Lattice c | 0.6361 nm | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
-| Lattice c | 0.6419 nm | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
-| Lattice c | 0.6261 nm | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6 |  |
-| Lattice c | 2.2742 nm | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8 |  |
-| Lattice c | 2.62071 nm | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16 |  |
-| Lattice c | 0.5985 nm | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
-| Lattice c | 0.58448 nm | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15 |  |
-| Lattice c | 0.6334 nm | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
+| Lattice a | 3.628 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
+| Lattice a | 3.661 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
+| Lattice a | 9.864 Å | 298.15 | Ce7Ru3; _alloy: Ru 0.3, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7 |  |
+| Lattice a | 7.779 Å | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 12 |  |
+| Lattice a | 7.57 Å | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 11 |  |
+| Lattice a | 7.535 Å | 298.15 | CeRu2; _alloy: Ru 0.666667, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 13 |  |
+| Lattice a | 7.33 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
+| Lattice a | 5.161 Å | 393.5 | (γCe); _(γCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 2 |  |
+| Lattice a | 7.242 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
+| Lattice a | 9.802 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6 |  |
+| Lattice a | 13.645 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8 |  |
+| Lattice a | 3.629 Å | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16 |  |
+| Lattice a | 8.4 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
+| Lattice a | 4.12 Å | 762 | (δCe); _(δCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 1 |  |
+| Lattice a | 3.663 Å | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15 |  |
+| Lattice a | 7.33 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
+| Lattice a | 7.545 Å | 1570 (\<) | CeRu2; _CeRu2: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 10 |  |
+| Lattice b | 3.628 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
+| Lattice b | 3.661 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
+| Lattice b | 9.508 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
+| Lattice b | 9.863 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
+| Lattice b | 13.837 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
+| Lattice b | 9.461 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
+| Lattice c | 8.73 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 18 |  |
+| Lattice c | 8.792 Å | 298.15 | (αSm); _alloy: Ru 0, Sm 1_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 17 |  |
+| Lattice c | 6.305 Å | 298.15 | Ce7Ru3; _alloy: Ru 0.3, Sm 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7 |  |
+| Lattice c | 6.361 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
+| Lattice c | 6.419 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5 |  |
+| Lattice c | 6.261 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6 |  |
+| Lattice c | 22.742 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8 |  |
+| Lattice c | 26.2071 Å | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16 |  |
+| Lattice c | 5.985 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9 |  |
+| Lattice c | 5.8448 Å | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15 |  |
+| Lattice c | 6.334 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19 |  |
 
 ## Sources
 
@@ -362,4 +362,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

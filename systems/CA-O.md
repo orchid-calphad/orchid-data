@@ -68,14 +68,14 @@ Table: Enthalpies of formation, Ca–O system (14)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | CaO(cr) |  | -634.6 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 6 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom ± 0.75 | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -600.9 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -565.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
-| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -557.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 10 |  |
+| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -557.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -555.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
 | CaO2(cr) |  | -648.1 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
 | CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -219.667 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
@@ -118,7 +118,7 @@ Table: Phase equilibrium, Ca–O system
 | Phase composition |  | 3183 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 2, p. 5, row 5 |  |
 | Phase composition |  | 3200 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Chase 1998_ | Table 2, p. 5, row 15 |  |
 | Phase composition |  | 3222 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018 | Table 2, p. 5, row 18 |  |
-| Phase composition |  | 3222 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Manara 2013_ | Table 2, p. 5, row 11 |  |
+| Phase composition |  | 3222 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Manara 2014_ | Table 2, p. 5, row 11 |  |
 | Phase composition |  | 3223 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1968_ | Table 2, p. 5, row 7 |  |
 
 ### Heat capacity / entropy / enthalpy (26)
@@ -127,12 +127,12 @@ Table: Heat capacity / entropy / enthalpy, Ca–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°_ | 38.21 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 6 |  |
+| Entropy; _printed: S°_ | 38.21 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
 | Entropy; _printed: S°_ | 38.1 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
 | Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
 | Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
 | Entropy; _printed: S°_ | 37.75 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| Entropy; _printed: S°_ | 62.32 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 10 |  |
+| Entropy; _printed: S°_ | 62.32 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
 | Entropy; _printed: S°_ | 58.69 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
 | Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
 | Entropy; _printed: S°_ | 65.69 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
@@ -140,12 +140,12 @@ Table: Heat capacity / entropy / enthalpy, Ca–O system
 | Entropy; _printed: S°_ | 59.6 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
 | Entropy; _printed: S°_ | 59.6 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
 | Entropy; _printed: S°_ | 83.68 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
-| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 6 |  |
+| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
 | Heat capacity; _printed: Cp°_ | 42.05 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
 | Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
 | Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
 | Heat capacity; _printed: Cp°_ | 42.02 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 10 |  |
+| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
 | Heat capacity; _printed: Cp°_ | 42.04 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
 | Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
 | Heat capacity; _printed: Cp°_ | 42.02 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
@@ -218,4 +218,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

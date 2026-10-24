@@ -66,19 +66,19 @@ Table: Crystal structure, Ag–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, P 0_ | unspecified | [1] Karakaya 1988; _cites ref. 1_ | Table 3, p. 3, row 1 |  |
-| Lattice a | 1.2999 nm | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
-| Lattice a | 0.6218 nm | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice a | 0.33136 nm | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 1.131 nm | 298.15 | P(red); _P(red): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 6 |  |
-| Lattice a | 0.718 nm | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
-| Lattice b | 0.7555 nm | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
-| Lattice b | 0.5056 nm | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice b | 1.0478 nm | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice c | 0.6612 nm | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
-| Lattice c | 0.7804 nm | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice c | 0.43763 nm | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice c | 0.43763 nm | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1, P 0_ | unspecified | [1] Karakaya 1988; _cites ref. 1_ | Table 3, p. 3, row 1 |  |
+| Lattice a | 12.999 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
+| Lattice a | 6.218 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
+| Lattice a | 3.3136 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 11.31 Å | 298.15 | P(red); _P(red): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 6 |  |
+| Lattice a | 7.18 Å | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
+| Lattice b | 7.555 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
+| Lattice b | 5.056 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
+| Lattice b | 10.478 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
+| Lattice c | 6.612 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
+| Lattice c | 7.804 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
+| Lattice c | 4.3763 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
+| Lattice c | 4.3763 Å | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
 | lattice beta | 118.84 ° | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | unspecified | [1] Karakaya 1988 | Table 2, p. 3, row 3 |  |
 | lattice beta | 113.48 ° | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988 | Table 2, p. 3, row 2 |  |
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
