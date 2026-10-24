@@ -22,6 +22,22 @@ Table: Enthalpy of formation of HfB2 reported in the literature (7)
 | -83.1333 kJ/mol-atom ± 5.9 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
 | -106.567 kJ/mol-atom | HfB2 |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfB2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -117.633 | kJ/mol-atom |  | 0.01667 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -109.633 | kJ/mol-atom | 8.8 | 0.01667 | 1 (combustion_calorimetry, prior) |  |  |  | 8.8 |
+| -106.567 | kJ/mol-atom |  | 0.01667 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -105.033 | kJ/mol-atom |  | 0.01667 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -87.3 | kJ/mol-atom | 5 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
+| -83.1333 | kJ/mol-atom | 5.9 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5.9 |
+| -106.567 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

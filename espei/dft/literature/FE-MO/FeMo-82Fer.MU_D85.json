@@ -93,6 +93,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 3522.0,
@@ -119,7 +120,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-NAKZSUVGBI",
-    "compound": "Fe7Mo6"
+    "compound": "Fe7Mo6",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|FE-MO"
+    }
    },
    {
     "sigma": 3522.0,
@@ -146,7 +160,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-PP6MZW2RGY",
-    "compound": "Fe7Mo6"
+    "compound": "Fe7Mo6",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|FE-MO"
+    }
    }
   ]
  }

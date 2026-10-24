@@ -25,6 +25,25 @@ Table: Enthalpy of formation of CeB4 reported in the literature (10)
 | -60.385 kJ/mol-atom | CeB4 |  | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [2] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 4 |  |
 | -53.5 kJ/mol-atom ± 1.5 | CeB4 |  | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [2] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CeB4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -53.5 | kJ/mol-atom | 1.5 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -49.904 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -56.288 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.62 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.339 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.339 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -65.034 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -62.7 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -60.385 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -53.5 | kJ/mol-atom | 1.5 | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Ni3Ru reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | 17.56 kJ/mol-atom | Ni3Ru | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni3Ru
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 17.56 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Samuel Hallström, David Andersson, Andrei Ruban, John Ågren, Thermodynamic reassessment of the Ni–Ru system and assessment of the Al–Ni–Ru system at 1273–1523 K using ab initio calculations, Acta Materialia 56, 4062-4069 (2008). [doi:10.1016/j.actamat.2008.04.028](https://doi.org/10.1016/j.actamat.2008.04.028)

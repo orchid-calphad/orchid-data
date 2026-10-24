@@ -24,6 +24,24 @@ Table: Enthalpy of formation of SiP reported in the literature (9)
 | -37.6 kJ/mol-atom | SiP | 298.15 | unspecified | Derived | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1976Kor_ | Table 5, p. 8, row 4 |  |
 | -30.95 kJ/mol-atom | SiP | 298.15 | unspecified | Reviewed | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1977Bar_ | Table 5, p. 8, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SiP
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -246.525 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -147.253 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -66.425 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.61 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.52 | kJ/mol-atom |  | 0.005 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -37.6 | kJ/mol-atom |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -30.95 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

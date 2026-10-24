@@ -18,6 +18,18 @@ Table: Enthalpy of formation of AlV3 reported in the literature (3)
 | -9.97 kJ/mol (basis unstated) | V3Al A2 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [1] Berche 2018 | Table 1, p. 4, row 6 |  |
 | -9.13 kJ/mol (basis unstated) | V3Al D03 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [1] Berche 2018 | Table 1, p. 4, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlV3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -13.03 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -9.97 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -9.13 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)

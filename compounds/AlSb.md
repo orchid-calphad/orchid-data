@@ -20,6 +20,20 @@ Table: Enthalpy of formation of AlSb reported in the literature (5)
 | -81.27 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
 | -73.49 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlSb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -82 | kJ/mol (basis unstated) | 2.51 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -96.6 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -84 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -81.27 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -73.49 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001)

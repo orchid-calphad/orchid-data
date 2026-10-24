@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Mg2Sr reported in the literature (2)
 | -7.117 kJ/mol-atom | Mg2Sr-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
 | -10.6189 kJ/mol-atom | Mg2Sr-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mg2Sr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -7.117 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -10.6189 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

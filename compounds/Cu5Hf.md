@@ -23,6 +23,23 @@ Table: Enthalpy of formation of Cu5Hf reported in the literature (8)
 | -11.69 kJ/mol-atom | Cu5Hf | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 35 |  |
 | -17.75 kJ/mol (basis unstated) | Cu5Hf | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu5Hf
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -17.75 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.91 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.909 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.62 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.31 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -11.99 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -11.69 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -17.75 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

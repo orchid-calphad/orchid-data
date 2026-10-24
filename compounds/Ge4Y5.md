@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ge4Y5 reported in the literature (3)
 | -109.55 kJ/mol-atom | Ge4Y5 | 298.15 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 19 |  |
 | -94.131 kJ/mol-atom | Ge4Y5 | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge4Y5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -102.5 | kJ/mol-atom | 5.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -109.55 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -94.131 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

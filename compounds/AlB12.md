@@ -20,6 +20,20 @@ Table: Enthalpy of formation of AlB12 reported in the literature (5)
 | -15.253 kJ/mol-atom | AlB12 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
 | -7.13 kJ/mol-atom | AlB12 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlB12
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.45 | kJ/mol-atom | 3.2 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -27.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.469 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.253 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -7.13 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Al3Ir reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -65.7 kJ/mol-atom | Al3Ir | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 1, p. 2, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al3Ir
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -65.7 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. C JIANG, B GLEESON, A combined first-principles/CALPHAD modeling of the Al–Ir system, Acta Materialia 54, 4101-4110 (2006). [doi:10.1016/j.actamat.2006.03.058](https://doi.org/10.1016/j.actamat.2006.03.058)

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of NbNi8 reported in the literature (2)
 | -14.49 kJ/mol (basis unstated) | NbNi8 | 298.15 | model | Miedema estimation | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
 | -14.488 kJ/mol (basis unstated) | NbNi8 | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004 | Table 4, p. 5, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NbNi8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -14.49 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.488 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. J.-M. Joubert, B. Sundman, N. Dupin, Assessment of the niobium–nickel system, Calphad 28, 299-306 (2004). [doi:10.1016/j.calphad.2004.09.004](https://doi.org/10.1016/j.calphad.2004.09.004)

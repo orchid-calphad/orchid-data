@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Na8Sb4Sn reported in the literature (2)
 | -5.245 eV | Na8Sb4Sn | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 32 |  |
 | -5.227 eV | Na8Sb4Sn | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 33 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Na8Sb4Sn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -5.245 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -5.227 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+
 ## Sources
 
 1. Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017). [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003)

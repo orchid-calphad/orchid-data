@@ -19,6 +19,19 @@ Table: Enthalpy of formation of SiZnP2 reported in the literature (4)
 | -153.168 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
 | -108.618 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | DFT |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SiZnP2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -171.658 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -75.165 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -153.168 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -108.618 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016). [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016)

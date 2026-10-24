@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Co23Zr6 reported in the literature (4)
 | -27.909 kJ/mol-atom | Co23Zr6 | 1596 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 8 |  |
 | -21.641 kJ/mol-atom | Co23Zr6 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 46 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Co23Zr6
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -29.8 | kJ/mol-atom | 1.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -29.8 | per mol-atom | 1500 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1500 |
+| -27.909 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.641 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

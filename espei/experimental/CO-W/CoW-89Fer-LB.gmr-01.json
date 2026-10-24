@@ -42,7 +42,7 @@
    "phase": "FCC_A1"
   }
  },
- "weight": 0.002967,
+ "weight": 0.001,
  "bibtex": "guillermet1989_f5be51",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -99,43 +99,86 @@
    "value": 1.0,
    "name": "ESPEI fallback sigma = 1 (no default for GM)"
   },
-  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
     "sigma": 238.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 238.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 1000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1000.0,
+     "method_class": "unknown",
+     "method_basis": "prior",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
     "printed": {
      "value": 0.238,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 0.004202,
-    "weight_used": 0.002967
+    "sigma_effective_used": 1000.0,
+    "weight_per_value_equivalent": 0.001,
+    "weight_used": 0.001
    },
    {
     "sigma": 337.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 337.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 1000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1000.0,
+     "method_class": "unknown",
+     "method_basis": "prior",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
     "printed": {
      "value": 0.337,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 0.002967,
-    "weight_used": 0.002967
+    "sigma_effective_used": 1000.0,
+    "weight_per_value_equivalent": 0.001,
+    "weight_used": 0.001
    },
    {
     "sigma": 435.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 435.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 1000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1000.0,
+     "method_class": "unknown",
+     "method_basis": "prior",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
     "printed": {
      "value": 0.435,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 0.002299,
-    "weight_used": 0.002967
+    "sigma_effective_used": 1000.0,
+    "weight_per_value_equivalent": 0.001,
+    "weight_used": 0.001
    }
   ]
  },

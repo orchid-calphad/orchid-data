@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-PB.html · Markdown: https://da
 
 878 accepted literature values from 2 paper(s) (experimental 864, model 7, unspecified 7); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-PB.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PB.html) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
+Data: [JSON part 1](https://data.orchid-project.org/literature/systems/GA-PB.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/GA-PB.part2.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PB.html) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
 
 Table: Accepted values by evidence class
 

@@ -31,6 +31,31 @@ Table: Enthalpy of formation of Mg3Sb2 reported in the literature (16)
 | -52.6 kJ/mol-atom | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 9 |  |
 | -52.4 kJ/mol-atom | Mg3Sb2 | 923 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mg3Sb2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -299 | kJ/mol (basis unstated) | 3 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -285 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -235 | kJ/mol (basis unstated) | 6 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -47 | kJ/mol-atom | 6 | 0.1 | 4.1 (unknown, calibrated) |  |  |  | 6 |
+| -490 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -320 | kJ/mol (basis unstated) | 40 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 40 |
+| -300 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64 | kJ/mol-atom | 40 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 40 |
+| -60 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -59.8 | kJ/mol-atom | 3 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -57 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.6 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.4 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

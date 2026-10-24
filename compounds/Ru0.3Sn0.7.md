@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Ru0.3Sn0.7 reported in the literature (5)
 | -25.4 kJ/mol (basis unstated) ± 0.8 | Ru0.3Sn0.7 |  | model |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999 | Table 1, p. 1, row 4 |  |
 | -25.4 kJ/mol (basis unstated) | Ru0.3Sn0.7 |  | unspecified |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ru0.3Sn0.7
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -23.7 | kJ/mol (basis unstated) | 1.6 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -20.8 | kJ/mol (basis unstated) | 2.9 | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -18.7 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -25.4 | kJ/mol (basis unstated) | 0.8 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. J. Charles, J. J. Kuntz, J. C. Gachon, L. Perring, A thermodynamic assessment of the ruthenium-tin (Ru-Sn) system, JPE 20, 573-580 (1999). [doi:10.1361/105497199770340563](https://doi.org/10.1361/105497199770340563)

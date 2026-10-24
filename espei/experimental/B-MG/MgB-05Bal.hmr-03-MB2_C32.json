@@ -31,7 +31,7 @@
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ICOXV56CAA.e54032 ORC-YXEY33NPZK.6db522 ORC-ERT3NO6RZ2.960926 ORC-WKL7IRXHLB.101474",
  "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
- "weight": 0.277778,
+ "weight": 0.142857,
  "bibtex": "balducci2005_a76e01",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -76,61 +76,117 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
     "sigma": 2200.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 2200.0,
+     "sigma_reading": 50.0,
+     "sigma_method": 3000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3000.0,
+     "method_class": "kems_vapour",
+     "method_basis": "prior",
+     "method_n_pairs": 14,
+     "method_entry": "value_types/HM_FORM/classes/kems_vapour"
+    },
     "printed": {
      "value": 2.2,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 0.227273,
-    "weight_used": 0.277778
+    "sigma_effective_used": 3000.0,
+    "weight_per_value_equivalent": 0.166667,
+    "weight_used": 0.142857
    },
    {
     "sigma": 10000.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 10000.0,
+     "sigma_reading": 50.0,
+     "sigma_method": 3000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10000.0,
+     "method_class": "kems_vapour",
+     "method_basis": "prior",
+     "method_n_pairs": 14,
+     "method_entry": "value_types/HM_FORM/classes/kems_vapour"
+    },
     "printed": {
      "value": 10.0,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_effective_used": 10000.0,
     "weight_per_value_equivalent": 0.05,
-    "weight_used": 0.277778
+    "weight_used": 0.142857
    },
    {
     "sigma": 1400.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 1400.0,
+     "sigma_reading": 50.0,
+     "sigma_method": 3500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "calibrated",
+     "method_n_pairs": 74,
+     "method_entry": "value_types/HM_FORM/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 1.4,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 0.357143,
-    "weight_used": 0.277778
+    "sigma_effective_used": 3500.0,
+    "weight_per_value_equivalent": 0.142857,
+    "weight_used": 0.142857
    },
    {
     "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_per_value_equivalent": 1.0,
-    "weight_used": 0.277778
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 50.0,
+     "sigma_method": 3500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "calibrated",
+     "method_n_pairs": 74,
+     "method_entry": "value_types/HM_FORM/classes/solution_reaction_calorimetry"
+    },
+    "sigma_effective_used": 3500.0,
+    "weight_per_value_equivalent": 0.142857,
+    "weight_used": 0.142857
    }
   ]
  },
  "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 0.277778,
-  "weight_written": 0.277778,
-  "changes_weight": false,
+  "weight_before_2026_10_24": 0.277778,
+  "weight_written": 0.142857,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
-  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  },
  "orchid_phase_assignment": {
   "phases": [

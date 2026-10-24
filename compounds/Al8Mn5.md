@@ -23,6 +23,23 @@ Table: Enthalpy of formation of Al8Mn5 reported in the literature (8)
 | -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992 | Table II, p. 4, row 16 |  |
 | -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al8Mn5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -22.01 | kJ/mol-atom | 1.05 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -22.01 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -20.71 | kJ/mol-atom | 1.05 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -20.71 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -20.71 | kJ/mol-atom | 1.05 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -25.82 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.74 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.74 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

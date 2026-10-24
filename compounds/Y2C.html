@@ -55,6 +55,19 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row">-31.5 kJ/mol (basis unstated)</th><td>Y2C</td><td class="n"></td><td><span class="b b-model">model</span></td><td></td><td><a href="../systems/C-Y.html">C–Y</a></td><td><a href="#s1">[1]</a> Gröbner 1995</td><td>Table 3, p. 3, row 12</td><td></td></tr>
 </tbody>
 </table></div>
+<h3>Uncertainty budget</h3>
+<p>Components kept separate, in the value&#x27;s unit (literature <a href="../literature/SCHEMA.md">SCHEMA.md</a>, <a href="../literature/UNCERTAINTY_CALIBRATION.md">UNCERTAINTY_CALIBRATION.md</a>): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.</p>
+<div class="tw"><table>
+<caption>Uncertainty budget of the literature values of Y2C</caption>
+<thead><tr><th scope="col">Value</th><th scope="col">Unit</th><th scope="col">Printed</th><th scope="col">Reading</th><th scope="col">Method (class, basis)</th><th scope="col">Composition</th><th scope="col">Scatter</th><th scope="col">Conversion</th><th scope="col">Effective</th></tr></thead>
+<tbody>
+<tr><th scope="row">-31.8</th><td>kJ/mol (basis unstated)</td><td class="n">1.3</td><td class="n">0.05</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
+<tr><th scope="row">31.8</th><td>kJ/mol-atom</td><td class="n">1.3</td><td class="n">0.05</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
+<tr><th scope="row">-37</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.5</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-31.5</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.05</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-31.5</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.05</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+</tbody>
+</table></div>
 <h2 id="dft">DFT formation energies</h2>
 <p>Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.</p>
 <div class="tw"><table>

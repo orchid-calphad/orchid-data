@@ -45,6 +45,45 @@ Table: Enthalpy of formation of Al3Zr5 reported in the literature (30)
 | -35.308 kJ/mol-atom | Al3Zr5 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 90 |  |
 | -33.283 kJ/mol-atom | Al3Zr5 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 93 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al3Zr5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -48 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48 | kJ/mol-atom | 4 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -39 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -38.99 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -51.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.484 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.803 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.973 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.806 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.806 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.11 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.611 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.56 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.54 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.28 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.25 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.248 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.28 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.599 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -36.02 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -35.308 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -33.283 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

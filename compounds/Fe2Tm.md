@@ -25,6 +25,25 @@ Table: Enthalpy of formation of Fe2Tm reported in the literature (10)
 | -2.46 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
 | -13.4 kJ/mol-atom | Fe2Tm | 298.15 | DFT | Ab initio | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Tm
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -5.98 | kJ/mol-atom |  | 0.005 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
+| -5.7 | kJ/mol-atom |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
+| -2.2 | kJ/mol-atom | 2.8 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2.8 |
+| -11.53 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.042 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2.46 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.4 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -41,6 +41,41 @@ Table: Enthalpy of formation of Fe3Y reported in the literature (26)
 | -6.144 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 23 |  |
 | -6.06 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021 | Table 3, p. 5, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe3Y
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -8.97 | per mol-atom | 0.54 | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.54 |
+| -8.97 | kJ/mol-atom | 0.54 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -8.97 | kJ/mol-atom | 0.54 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -13.31 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -13.31 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.31 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.04 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -13.04 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.77 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.77 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.77 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -12.49 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.49 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -8.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -8.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.96 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.96 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.774 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.374 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -7.6 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.519 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.144 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.144 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.06 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

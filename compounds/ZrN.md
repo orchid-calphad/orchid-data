@@ -24,6 +24,24 @@ Table: Enthalpy of formation of ZrN reported in the literature (9)
 | -208.299 kJ/mol-atom | ZrN | 0 | DFT | DFT (GGA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 2 |  |
 | -166.448 kJ/mol-atom | ZrN | 0 | DFT | DFT (LDA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZrN
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -184.515 | kJ/mol-atom |  | 0.0025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -184.515 | kJ/mol-atom |  | 0.0025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -183.887 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -183.887 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -182.75 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -182.75 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -203 | kJ/mol-atom |  | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -208.299 | kJ/mol-atom |  | 2.500e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -166.448 | kJ/mol-atom |  | 2.500e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

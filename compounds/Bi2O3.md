@@ -26,6 +26,26 @@ Table: Enthalpy of formation of Bi2O3 reported in the literature (11)
 | -550.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 6, p. 5, row 6 |  |
 | -570.3 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | unspecified |  | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995 | Table 6, p. 5, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi2O3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -590.2 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -587.5 | kJ/mol (basis unstated) |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -581.6 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -576.6 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -573.9 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -569 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -567.8 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -567.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -563.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -550.6 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -570.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. D. Risold, B. Hallstedt, L. J. Gauckler, H. L. Lukas, S. G. Fries, The bismuth-oxygen system, JPE 16 (1995). [doi:10.1007/bf02667306](https://doi.org/10.1007/bf02667306)

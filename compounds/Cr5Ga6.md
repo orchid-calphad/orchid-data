@@ -22,6 +22,22 @@ Table: Enthalpy of formation of Cr5Ga6 reported in the literature (7)
 | -15 kJ/mol-atom | Cr5Ga6 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49 |  |
 | -12.31 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr5Ga6
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -4.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.7 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -15.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.15 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.31 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999). [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608)

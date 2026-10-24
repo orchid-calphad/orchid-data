@@ -18,6 +18,18 @@ Table: Enthalpy of formation of CoZr3 reported in the literature (3)
 | -23.01 kJ/mol-atom | CoZr3 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 26 |  |
 | -18.899 kJ/mol-atom | CoZr3 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 64 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CoZr3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -22.44 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -23.01 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.899 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -25,6 +25,25 @@ Table: Enthalpy of formation of Fe2Ho reported in the literature (10)
 | -2.65 kJ/mol (basis unstated) | Fe2Ho | 298.15 | model | Optimization | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
 | -9.5 kJ/mol (basis unstated) | Fe2Ho | 298.15 | DFT | Ab initio | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 15 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Ho
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
+| -5.9 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
+| -4.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -2.6 | kJ/mol (basis unstated) | 3.3 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 3.3 |
+| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -3 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2.97 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2.9 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2.65 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.5 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, M. Ait Amar, L. Bouirden, A thermodynamic assessment of the Iron+Holmium phase diagram, The Journal of Chemical Thermodynamics 74, 78-84 (2014). [doi:10.1016/j.jct.2013.11.037](https://doi.org/10.1016/j.jct.2013.11.037)

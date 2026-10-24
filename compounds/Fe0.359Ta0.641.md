@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Fe0.359Ta0.641 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -5.8 kJ/mol (basis unstated) ± 2.1 | Fe0.359Ta0.641 | 298.15 | experimental | isoperibolic drop calorimetry | [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html) | [1] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe0.359Ta0.641
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -5.8 | kJ/mol (basis unstated) | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## Sources
 
 1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, V.M. Voblikov, O.S. Fomichov, V.M. Petyukh et al., Experimental study and thermodynamic re-assessment of the binary Fe–Ta system, Intermetallics 19, 1059-1075 (2011). [doi:10.1016/j.intermet.2011.03.018](https://doi.org/10.1016/j.intermet.2011.03.018)

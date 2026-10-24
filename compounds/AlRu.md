@@ -22,6 +22,22 @@ Table: Enthalpy of formation of AlRu reported in the literature (7)
 | -70.74 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11 |  |
 | -58.15 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlRu
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -62.05 | kJ/mol-atom | 3 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -51.126 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.057 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.32 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -95.51 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -70.74 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -58.15 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

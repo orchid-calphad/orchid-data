@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Si3W5 reported in the literature (5)
 | -145 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6 |  |
 | -136 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013 | Table 3, p. 3, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si3W5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -138 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -135 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -133 | kJ/mol (basis unstated) | 25 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 25 |
+| -145 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -136 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Yan Li, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic optimization of the Nb–Si–W ternary system, Calphad 43, 112-123 (2013). [doi:10.1016/j.calphad.2013.04.004](https://doi.org/10.1016/j.calphad.2013.04.004)

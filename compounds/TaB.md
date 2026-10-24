@@ -18,6 +18,18 @@ Table: Enthalpy of formation of TaB reported in the literature (3)
 | -41.609 kJ/mol-atom | TaB | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 9 |  |
 | -40.5035 kJ/mol-atom | TaB | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of TaB
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41.75 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.609 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -40.5035 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

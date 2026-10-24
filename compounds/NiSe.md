@@ -19,6 +19,19 @@ Table: Enthalpy of formation of NiSe reported in the literature (4)
 | -21 kJ/mol (basis unstated) ± 5 | NiSe | 298.15 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Rossini 1952_ | Table 3, p. 4, row 6 |  |
 | -39.97 kJ/mol (basis unstated) | NiSe | 1050 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NiSe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -38.5 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -29 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -21 | kJ/mol (basis unstated) | 5 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 5 |
+| -39.97 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Ondřej Zobač, Kateřina Buchlovská, Jana Pavlů, Aleš Kroupa, Thermodynamic Description of Binary System Nickel-Selenium, J. Phase Equilib. Diffus. 42, 468-478 (2021). [doi:10.1007/s11669-021-00906-9](https://doi.org/10.1007/s11669-021-00906-9)

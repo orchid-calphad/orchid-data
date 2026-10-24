@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Sm3Ti2 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | 40.0607 kJ/mol-atom | hP5 Sm₃Ti₂ | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 42 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sm3Ti2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 40.0607 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Arkapol Saengdeejing, Ying Chen, Osamu Takeda, Masanori Enoki, Satoshi Sugimoto, Hiroshi Ohtani et al., Sm–Ti binary thermodynamic database and phase diagram, Calphad 75, 102357 (2021). [doi:10.1016/j.calphad.2021.102357](https://doi.org/10.1016/j.calphad.2021.102357)

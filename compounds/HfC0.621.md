@@ -16,6 +16,16 @@ Table: Enthalpy of formation of HfC0.621 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -133.1 kJ/mol (basis unstated) | HfC0.621 | 1780 | experimental | Direct reaction calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfC0.621
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -133.1 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## Sources
 
 1. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the binary system hafnium-carbon (Hf-C), JPE 18, 344-356 (1997). [doi:10.1007/s11669-997-0061-3](https://doi.org/10.1007/s11669-997-0061-3)

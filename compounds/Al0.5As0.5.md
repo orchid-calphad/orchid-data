@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Al0.5As0.5 reported in the literature (4)
 | -58.2 kJ/mol (basis unstated) ± 1.2 | Al0.5As0.5(c) | 298.15 | experimental | Sn solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2 |  |
 | -31 kJ/mol (basis unstated) ± 3.5 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry and Knudsen effusion | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al0.5As0.5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -74.1 | kJ/mol (basis unstated) | 6.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.5 |
+| -60.37 | kJ/mol (basis unstated) | 0.63 | 0.005 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -58.2 | kJ/mol (basis unstated) | 1.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -31 | kJ/mol (basis unstated) | 3.5 | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3.5 |
+
 ## Sources
 
 1. I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984). [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x)

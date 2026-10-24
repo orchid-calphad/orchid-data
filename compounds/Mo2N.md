@@ -25,6 +25,25 @@ Table: Enthalpy of formation of Mo2N reported in the literature (10)
 | -21.1081 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
 | -21.108 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mo2N
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -35.989 | kJ/mol-atom |  | 0.04824 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.989 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.953 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.9526 | kJ/mol-atom |  | 4.824e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.0797 | kJ/mol-atom |  | 4.824e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.079 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.0974 | kJ/mol-atom |  | 4.824e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -26.097 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -21.1081 | kJ/mol-atom |  | 4.824e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -21.108 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

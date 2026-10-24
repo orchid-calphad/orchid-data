@@ -35,6 +35,35 @@ Table: Enthalpy of formation of Mg2Pb reported in the literature (20)
 | -4.24535 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
 | -4.245 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mg2Pb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -11.6747 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -11.674 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -6.13647 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -6.136 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -6.07858 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -6.078 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.978 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.97244 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.9 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.89525 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.855 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.855 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.84701 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.84701 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.533 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.52861 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.5 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -5.49966 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -4.24535 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -4.245 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. A. Dębski, W. Gierlotka, S. Terlicka, W. Gąsior, On the Mg-Pb system. Calorimetric studies and thermodynamic calculations, Journal of Alloys and Compounds 861, 158396 (2021). [doi:10.1016/j.jallcom.2020.158396](https://doi.org/10.1016/j.jallcom.2020.158396)

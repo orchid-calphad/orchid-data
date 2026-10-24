@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Fe3Ho reported in the literature (2)
 | -2.52 kJ/mol (basis unstated) | Fe3Ho | 298.15 | model | Optimization | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
 | -2 kJ/mol (basis unstated) | Fe3Ho | 298.15 | model | Prediction | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe3Ho
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -2.52 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, M. Ait Amar, L. Bouirden, A thermodynamic assessment of the Iron+Holmium phase diagram, The Journal of Chemical Thermodynamics 74, 78-84 (2014). [doi:10.1016/j.jct.2013.11.037](https://doi.org/10.1016/j.jct.2013.11.037)

@@ -19,6 +19,19 @@ Table: Enthalpy of formation of MnTi2 reported in the literature (4)
 | 36.577 kJ/mol-atom | C14 Laves MnTi2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 8 |  |
 | 43.732 kJ/mol-atom | C14 Laves MnTi2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MnTi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.584 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.744 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 36.577 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 43.732 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

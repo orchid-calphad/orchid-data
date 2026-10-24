@@ -8,7 +8,7 @@
  "inputs": {
   "literature": {
    "path": "data/literature/orchid-literature.jsonl.gz",
-   "sha256": "63bef7562ee527c54c762ca5e841ce8c3132ce8dd5d6fccffbe81726b8bc3b22"
+   "sha256": "25f304d75c818f3e728a656787873cad6ec9c9bf32dddd1f59ea6dbfb76cdfc7"
   }
  },
  "orchid_candidates": {

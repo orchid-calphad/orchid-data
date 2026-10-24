@@ -17,6 +17,17 @@ Table: Enthalpy of formation of HfB reported in the literature (2)
 | -49.475 kJ/mol-atom ± 6.3 | HfB | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | -79.905 kJ/mol-atom | HfB |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfB
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -49.475 | kJ/mol-atom | 6.3 | 0.0125 | 3 (kems_vapour, prior) |  |  |  | 6.3 |
+| -79.905 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

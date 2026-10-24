@@ -29,6 +29,29 @@ Table: Enthalpy of formation of TiH2 reported in the literature (14)
 | -148 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5 |  |
 | -134 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Shusuke 2007_ | Table 3, p. 4, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of TiH2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -179 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -151.2 | kJ/mol (basis unstated) | 27.8 | 0.06126 | 4.1 (unknown, calibrated) |  |  |  | 27.8 |
+| -137 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -136.95 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -146 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -142 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -139 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -133.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -129 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -165 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -148 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -134 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Kun Wang, Xiangcheng Kong, Junlin Du, Chonghe Li, Zhilin Li, Zhu Wu, Thermodynamic description of the Ti–H system, Calphad 34, 317-323 (2010). [doi:10.1016/j.calphad.2010.07.001](https://doi.org/10.1016/j.calphad.2010.07.001)

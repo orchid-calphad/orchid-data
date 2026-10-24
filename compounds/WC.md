@@ -18,6 +18,18 @@ Table: Enthalpy of formation of WC reported in the literature (3)
 | -20.0887 kJ/mol-atom | WC | 298.15 | model | CALPHAD | [C–W](https://data.orchid-project.org/systems/C-W.html) | [1] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 2, p. 3, row 5 |  |
 | -20.0852 kJ/mol-atom | WC | 298.15 | model | CALPHAD | [C–W](https://data.orchid-project.org/systems/C-W.html) | [1] He 2022 | Table 2, p. 3, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of WC
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -40170 | per formula unit | 1700 | 0.5 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 1700 |
+| -20.0887 | kJ/mol-atom |  | 2.500e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.0852 | kJ/mol-atom |  | 2.500e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -25,6 +25,25 @@ Table: Enthalpy of formation of CuHf2 reported in the literature (10)
 | -15.5 kJ/mol-atom | CuHf2 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 7 |  |
 | -56.12 kJ/mol (basis unstated) | CuHf2 | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CuHf2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.23 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -15.23 | kJ/mol (basis unstated) | 0.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -56.12 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.75 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.174 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.17 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.36 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -16.22 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -15.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -56.12 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

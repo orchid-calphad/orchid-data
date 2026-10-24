@@ -22,6 +22,22 @@ Table: Enthalpy of formation of Cs2MoO4 reported in the literature (7)
 | -216.223 kJ/mol-atom ± 7.52 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 3 |  |
 | -216.829 kJ/mol-atom | α-Cs2MoO4 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cs2MoO4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -216.384 | kJ/mol-atom | 1.54 | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -216.384 | kJ/mol-atom | 7.54 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.54 |
+| -216.357 | kJ/mol-atom | 7.45 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.45 |
+| -216.357 | kJ/mol-atom | 1 | 0.007143 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -216.223 | kJ/mol-atom | 1.11 | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -216.223 | kJ/mol-atom | 7.52 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.52 |
+| -216.829 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. A.L. Smith, T.N. Pham Thi, C. Guéneau, J.-C. Dumas, E. Epifano, W. van Burik et al., Thermodynamic modelling assessment of the ternary system Cs-Mo-O, Calphad 75, 102350 (2021). [doi:10.1016/j.calphad.2021.102350](https://doi.org/10.1016/j.calphad.2021.102350)

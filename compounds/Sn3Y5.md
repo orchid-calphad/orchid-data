@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Sn3Y5 reported in the literature (2)
 | -87.9 kJ/mol-atom ± 4.2 | Sn3Y5 | 298.15 | experimental | Calorimetric method | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html) | [1] Tang 2012; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 2, p. 3, row 6 |  |
 | -72.8 kJ/mol-atom ± 2.9 | Sn3Y5 | 298.15 | experimental | Calorimetric method | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html) | [1] Tang 2012; _cites Meschel 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902190-6) | Table 2, p. 3, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sn3Y5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -87.9 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
+| -72.8 | kJ/mol-atom | 2.9 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

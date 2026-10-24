@@ -54,5 +54,45 @@
    "aspa-75b0e6d9dd847b8b",
    "aspa-055b85b861ad3f50"
   ]
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
+  "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
+  "points": [
+   {
+    "record_id": "aspa-75b0e6d9dd847b8b",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.617,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 58.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 7.5083e-06,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00195216,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-055b85b861ad3f50",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.617,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 101.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 7.5083e-06,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00888982,
+     "sigma_effective": 0.02
+    }
+   }
+  ]
  }
 }

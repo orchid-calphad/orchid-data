@@ -24,6 +24,24 @@ Table: Enthalpy of formation of Fe0.6667Nb0.3333 reported in the literature (9)
 | -17.87 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
 | -12.24 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe0.6667Nb0.3333
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -23.7 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -20.5 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -23.67 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.41 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.9 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.87 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.24 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. C. Toffolon, C. Servant, Thermodynamic assessment of the Fe-Nb system, Calphad 24, 97-112 (2000). [doi:10.1016/s0364-5916(00)00017-1](https://doi.org/10.1016/s0364-5916%2800%2900017-1)

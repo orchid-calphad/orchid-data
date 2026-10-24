@@ -103,6 +103,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 7243.0,
@@ -129,7 +130,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-CSJHRFNNEC.2c74cd",
-    "compound": "Cu10Hf7"
+    "compound": "Cu10Hf7",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7243.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7243.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 84,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CU-HF"
+    }
    },
    {
     "sigma": 7243.0,
@@ -156,7 +170,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-O37ALFLERL.9b94c3",
-    "compound": "Cu10Hf7"
+    "compound": "Cu10Hf7",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7243.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7243.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 84,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CU-HF"
+    }
    },
    {
     "sigma": 7243.0,
@@ -183,7 +210,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-ZJA3T3IAMD.1f21b1",
-    "compound": "Cu10Hf7"
+    "compound": "Cu10Hf7",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7243.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7243.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 84,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CU-HF"
+    }
    }
   ]
  }

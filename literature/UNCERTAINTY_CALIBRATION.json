@@ -1,0 +1,1608 @@
+{
+ "class_text": {
+  "combustion_calorimetry": "combustion (oxygen / fluorine bomb) calorimetry",
+  "dft": "DFT calculation (literature)",
+  "diffusion_couple": "diffusion couples / multiples",
+  "dilatometry_resistivity": "dilatometry, electrical resistivity, magnetic measurements",
+  "dsc_dta": "DSC / DTA-derived",
+  "emf": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+  "equilibration_other": "equilibration and other methods (gas equilibria, p-c-T, solubility, estimates derived from other data)",
+  "experimental_unspecified": "experimental, method not named ('Exp.', 'measured')",
+  "heat_content_calorimetry": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
+  "kems_vapour": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+  "kems_vapour_second_law": "Knudsen-effusion / vapour pressure, second-law evaluation",
+  "kems_vapour_third_law": "Knudsen-effusion / vapour pressure, third-law evaluation",
+  "metallography_microscopy": "metallography / optical, SEM, TEM microscopy of quenched samples",
+  "microanalysis": "microanalysis (EPMA, EDS / EDX, WDS, ICP, chemical analysis)",
+  "model_calculated": "model-calculated value (CALPHAD assessment or other model)",
+  "solution_reaction_calorimetry": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)",
+  "thermal_analysis": "thermal analysis (DTA / DSC / heating-cooling curves)",
+  "unknown": "method not printed",
+  "xrd": "X-ray / neutron diffraction"
+ },
+ "dft": {
+  "file": "espei/dft/CALIBRATION.json",
+  "literature": {
+   "all": {
+    "bias_mean": 3.895,
+    "bias_median": 1.078,
+    "ci95": {
+     "bias_median": [
+      0.29,
+      2.1
+     ],
+     "q68_abs": [
+      5.104,
+      7.978
+     ],
+     "q95_abs": [
+      25.041,
+      49.954
+     ],
+     "rmse": [
+      13.281,
+      23.646
+     ],
+     "sigma_robust": [
+      4.359,
+      6.753
+     ]
+    },
+    "n": 247,
+    "n_with_printed_exp_sigma": 166,
+    "q68_abs": 6.1,
+    "q95_abs": 35.143,
+    "rmse": 18.597,
+    "rmse_over_sigma_robust": 3.55,
+    "sigma_deconvolved": 4.848,
+    "sigma_exp_median": 2.0,
+    "sigma_robust": 5.244
+   },
+   "strata": {
+    "magnetic_3d": {
+     "bias_mean": 7.613,
+     "bias_median": 1.27,
+     "ci95": {
+      "bias_median": [
+       0.558,
+       2.353
+      ],
+      "q68_abs": [
+       3.613,
+       5.3
+      ],
+      "q95_abs": [
+       17.95,
+       105.607
+      ],
+      "rmse": [
+       15.155,
+       35.125
+      ],
+      "sigma_robust": [
+       2.601,
+       4.595
+      ]
+     },
+     "n": 90,
+     "n_with_printed_exp_sigma": 78,
+     "q68_abs": 4.311,
+     "q95_abs": 57.89,
+     "rmse": 25.852,
+     "rmse_over_sigma_robust": 7.34,
+     "sigma_deconvolved": 3.187,
+     "sigma_exp_median": 1.5,
+     "sigma_robust": 3.522
+    },
+    "metal": {
+     "bias_mean": 3.147,
+     "bias_median": 0.214,
+     "ci95": {
+      "bias_median": [
+       -0.86,
+       2.9
+      ],
+      "q68_abs": [
+       5.567,
+       10.567
+      ],
+      "q95_abs": [
+       22.49,
+       36.055
+      ],
+      "rmse": [
+       9.818,
+       15.266
+      ],
+      "sigma_robust": [
+       4.783,
+       8.981
+      ]
+     },
+     "n": 93,
+     "n_with_printed_exp_sigma": 63,
+     "q68_abs": 6.937,
+     "q95_abs": 29.552,
+     "rmse": 12.618,
+     "rmse_over_sigma_robust": 2.01,
+     "sigma_deconvolved": 5.953,
+     "sigma_exp_median": 2.0,
+     "sigma_robust": 6.28
+    },
+    "pblock_anion": {
+     "bias_mean": -0.246,
+     "bias_median": 1.215,
+     "ci95": {
+      "bias_median": [
+       -0.5,
+       4.37
+      ],
+      "q68_abs": [
+       5.967,
+       11.755
+      ],
+      "q95_abs": [
+       13.918,
+       38.767
+      ],
+      "rmse": [
+       8.677,
+       16.341
+      ],
+      "sigma_robust": [
+       5.244,
+       11.298
+      ]
+     },
+     "n": 64,
+     "n_with_printed_exp_sigma": 25,
+     "q68_abs": 10.278,
+     "q95_abs": 31.223,
+     "rmse": 12.789,
+     "rmse_over_sigma_robust": 1.86,
+     "sigma_deconvolved": 5.866,
+     "sigma_exp_median": 3.6,
+     "sigma_robust": 6.883
+    }
+   }
+  },
+  "note": "sources.literature of the ESPEI DFT calibration (values only; its input hash is left out so that this file depends on values, not on the release bytes)",
+  "priors": {
+   "ACTIVITY": {
+    "floor": 5.3,
+    "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
+   },
+   "CPM": {
+    "floor": 1.0,
+    "text": "DFT (quasi-harmonic) heat capacities: ORCHID assumption, about 1 J/K/mol-atom"
+   },
+   "EMF": {
+    "floor": 20.0,
+    "text": "ORCHID assumption, 20 mV"
+   },
+   "GM_FORM": {
+    "floor": 5.3,
+    "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
+   },
+   "G_MIX_PARTIAL": {
+    "floor": 5.3,
+    "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
+   },
+   "HEAT_CONTENT": {
+    "floor": 5.3,
+    "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
+   },
+   "H_MIX_PARTIAL": {
+    "floor": 5.3,
+    "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
+   },
+   "LATTICE_ANGLE": {
+    "floor": 0.1,
+    "text": "ORCHID assumption, 0.1 degree"
+   },
+   "LATTICE_LENGTH": {
+    "floor": 0.01,
+    "text": "DFT lattice parameters: typically within about 1 % of experiment (semi-local functionals; ORCHID assumption)"
+   },
+   "SM_FORM": {
+    "floor": 1.0,
+    "text": "DFT (phonon / quasi-harmonic) entropies: ORCHID assumption, about 1 J/K/mol-atom"
+   },
+   "S_ABS": {
+    "floor": 1.0,
+    "text": "DFT (phonon / quasi-harmonic) entropies: ORCHID assumption, about 1 J/K/mol-atom"
+   },
+   "S_MIX_PARTIAL": {
+    "floor": 1.0,
+    "text": "DFT entropies: ORCHID assumption, about 1 J/K/mol"
+   },
+   "T_INVARIANT": {
+    "floor": 50.0,
+    "text": "temperatures calculated from DFT energies: ORCHID assumption, about 50 K"
+   },
+   "T_TRANSITION": {
+    "floor": 50.0,
+    "text": "temperatures calculated from DFT energies: ORCHID assumption, about 50 K"
+   },
+   "VOLUME": {
+    "floor": 0.03,
+    "text": "DFT volumes: typically within about 3 % of experiment (ORCHID assumption)"
+   },
+   "X_PHASE": {
+    "floor": 0.02,
+    "text": "compositions calculated from DFT energies: ORCHID assumption, about 0.02"
+   }
+  }
+ },
+ "estimator": "robust sigma = 1.4826 x median|d| / sqrt(2) over pairs of independent same-class measurements of one state (zero-mean differences); 95 % percentile bootstrap over states",
+ "independence": "one value per primary source and state (origin.measured_in, else the single cited source, else the reporting paper for its own work, else the reporting paper marked unattributed; median of the source's values); identical values from different sources are counted once (one measurement re-listed)",
+ "min_pairs": 20,
+ "model": {
+  "ACTIVITY": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 73,
+   "n_states": 67,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "CPM": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 227,
+   "n_states": 89,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "EMF": {
+   "basis": "prior",
+   "floor": 2.0,
+   "n_pairs": 0,
+   "n_states": 0,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "GM_FORM": {
+   "basis": "calibrated",
+   "ci95": [
+    0.504084,
+    0.800604
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 0.7,
+   "n_pairs": 192,
+   "n_states": 146,
+   "sigma_robust": 0.637518
+  },
+  "G_MIX_PARTIAL": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 157,
+   "n_states": 103,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "HEAT_CONTENT": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 538,
+   "n_states": 17,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "HM_FORM": {
+   "basis": "calibrated",
+   "ci95": [
+    2.857711,
+    4.160176
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 3.3,
+   "n_pairs": 2186,
+   "n_states": 378,
+   "sigma_robust": 3.270616
+  },
+  "H_MIX_PARTIAL": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 133,
+   "n_states": 57,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "LATTICE_ANGLE": {
+   "basis": "prior",
+   "floor": 0.1,
+   "n_pairs": 1,
+   "n_states": 1,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "LATTICE_LENGTH": {
+   "basis": "calibrated",
+   "ci95": [
+    0.012948,
+    0.026112
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 0.0197,
+   "n_pairs": 223,
+   "n_states": 133,
+   "sigma_robust": 0.019644
+  },
+  "SM_FORM": {
+   "basis": "calibrated",
+   "ci95": [
+    2.762084,
+    4.836686
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 3.7,
+   "n_pairs": 116,
+   "n_states": 51,
+   "sigma_robust": 3.60766
+  },
+  "S_ABS": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 240,
+   "n_states": 78,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "S_MIX_PARTIAL": {
+   "basis": "prior",
+   "floor": 1.0,
+   "n_pairs": 27,
+   "n_states": 13,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "T_CONDITION": {
+   "basis": "prior",
+   "floor": 5.0,
+   "n_pairs": 0,
+   "n_states": 0,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "T_INVARIANT": {
+   "basis": "calibrated",
+   "ci95": [
+    3.11346,
+    4.4478
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 4.0,
+   "n_pairs": 14188,
+   "n_states": 5391,
+   "sigma_robust": 3.7065
+  },
+  "T_TRANSITION": {
+   "basis": "prior",
+   "floor": 10.0,
+   "n_pairs": 117,
+   "n_states": 57,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "VOLUME": {
+   "basis": "prior",
+   "floor": 0.005,
+   "n_pairs": 5,
+   "n_states": 4,
+   "prior_source": "orchid_assumed",
+   "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
+  },
+  "X_PHASE": {
+   "basis": "calibrated",
+   "ci95": [
+    0.003855,
+    0.004448
+   ],
+   "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
+   "floor": 0.005,
+   "n_pairs": 16938,
+   "n_states": 8871,
+   "sigma_robust": 0.004448
+  }
+ },
+ "n_boot": 1000,
+ "priors": {
+  "drowart2005": "J. Drowart, C. Chatillon, J. Hastie, D. Bonnell, High-temperature mass spectrometry: instrumental techniques, ionization cross-sections, pressure measurements, and thermodynamic data (IUPAC Technical Report), Pure Appl. Chem. 77 (2005) 683-737, doi:10.1351/pac200577040683 (second-law enthalpies less accurate than third-law; systematic errors dominate the stated precision)",
+  "espei": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+  "kirklin2015": "S. Kirklin et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput. Mater. 1 (2015) 15010, doi:10.1038/npjcompumats.2015.10 (mean absolute difference between independent experimental formation enthalpies 0.082 eV/atom, about 8 kJ/mol-atom, over compounds with more than one experimental value)",
+  "kubaschewski": "O. Kubaschewski, C.B. Alcock, P.J. Spencer, Materials Thermochemistry, 6th ed., Pergamon, 1993 (chapter 2, accuracy of experimental methods: calorimetric formation enthalpies typically +-1-2 kJ/mol-atom, EMF and vapour-pressure-derived values less accurate, entropies from the temperature coefficient of EMF or second-law vapour-pressure evaluation the least)",
+  "orchid_assumed": "ORCHID assumption (PI decision 2026-10-24), stated so that it can be replaced; not fitted"
+ },
+ "rule": "sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 + sigma_composition^2 + sigma_conversion^2 ), sigma_scatter ); absent components drop out. The method floor is a between-study scatter and already contains each study's statistical error, so it is not added to the printed sigma in quadrature (no double counting): the larger of the two is used. The composition offset and the conversion are independent of the measurement and are added in quadrature. The scatter of a page-checked mutually inconsistent group replaces the result when larger. The reading resolution alone is not an uncertainty estimate: without a printed sigma, a method floor or a group scatter, sigma_effective is null (with the reason).",
+ "sample": "experimental, extraction_accepted, no blocking flag (unsigned_in_print, magnitude_suspect, system_mismatch, source_disputed); values convertible to the value type's canonical unit; formation quantities on a per-atom basis only",
+ "seed": 20261024,
+ "value_types": {
+  "ACTIVITY": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "kJ/mol (chemical potential)",
+   "classes": {
+    "emf": {
+     "basis": "prior",
+     "class": "emf",
+     "floor": 0.5,
+     "floor_at_minimum": true,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": null,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 9,
+     "n_states": 9,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 2.89104,
+     "text": "method not printed",
+     "why_prior": "9 pairs from 9 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "activity (floor on mu = RT ln a)",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 9,
+    "sigma_robust": 2.89104
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 9
+  },
+  "CPM": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "J/K/mol",
+   "classes": {
+    "dsc_dta": {
+     "basis": "prior",
+     "class": "dsc_dta",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "DSC / DTA-derived",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "heat_content_calorimetry": {
+     "basis": "prior",
+     "class": "heat_content_calorimetry",
+     "floor": 0.2,
+     "floor_at_minimum": true,
+     "n_pairs": 42,
+     "n_states": 7,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": 0.419343,
+     "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
+     "why_prior": "42 pairs from 7 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 6,
+     "n_states": 6,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 0.577644,
+     "text": "method not printed",
+     "why_prior": "6 pairs from 6 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "heat capacity",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.2,
+   "pooled_all_classes": {
+    "n_pairs": 48,
+    "sigma_robust": 1.440966
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 13
+  },
+  "EMF": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "mV",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "method not printed",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "electromotive force",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 0.1,
+   "pooled_all_classes": {
+    "n_pairs": 0,
+    "sigma_robust": null
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 0
+  },
+  "GM_FORM": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "kJ/mol-atom",
+   "classes": {
+    "emf": {
+     "basis": "prior",
+     "class": "emf",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 2,
+     "n_states": 2,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 1.153192,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 2,
+     "n_states": 2,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": 1.887042,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour_third_law": {
+     "basis": "prior",
+     "class": "kems_vapour_third_law",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": null,
+     "text": "Knudsen-effusion / vapour pressure, third-law evaluation",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      0.660465,
+      2.096713
+     ],
+     "class": "unknown",
+     "floor": 1.1,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.4975,
+     "n_pairs": 38,
+     "n_states": 18,
+     "sigma_robust": 1.085049,
+     "sigma_robust_unweighted": 0.521557,
+     "text": "method not printed"
+    }
+   },
+   "label": "formation Gibbs energy",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 46,
+    "sigma_robust": 0.536409
+   },
+   "relisted_values_counted_once": 5,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 22
+  },
+  "G_MIX_PARTIAL": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "kJ/mol",
+   "classes": {
+    "emf": {
+     "basis": "calibrated",
+     "ci95": [
+      1.383831,
+      6.090951
+     ],
+     "class": "emf",
+     "floor": 3.2,
+     "floor_at_minimum": false,
+     "median_abs_diff": 3.09,
+     "n_pairs": 95,
+     "n_states": 15,
+     "sigma_robust": 3.166037,
+     "sigma_robust_unweighted": 3.239422,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 7.860577,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 3,
+     "n_states": 3,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 10.968954,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 15,
+     "n_states": 15,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 1.348186,
+     "text": "method not printed",
+     "why_prior": "15 pairs from 15 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "mixing / partial Gibbs energy, chemical potential",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 141,
+    "sigma_robust": 3.370466
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 37
+  },
+  "HEAT_CONTENT": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "kJ/mol",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "heat_content_calorimetry": {
+     "basis": "prior",
+     "class": "heat_content_calorimetry",
+     "floor": 0.5,
+     "floor_at_minimum": true,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": null,
+     "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 16,
+     "n_states": 4,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 12.842629,
+     "text": "method not printed",
+     "why_prior": "16 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "heat content H(T)-H(298)",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 16,
+    "sigma_robust": 17.274294
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 4
+  },
+  "HM_FORM": {
+   "basis_error_pairs_excluded": 15,
+   "canonical_unit": "kJ/mol-atom",
+   "classes": {
+    "combustion_calorimetry": {
+     "basis": "prior",
+     "class": "combustion_calorimetry",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 15,
+     "n_states": 4,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 0.880619,
+     "text": "combustion (oxygen / fluorine bomb) calorimetry",
+     "why_prior": "15 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "dsc_dta": {
+     "basis": "prior",
+     "class": "dsc_dta",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 2,
+     "n_states": 2,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 6.546986,
+     "text": "DSC / DTA-derived",
+     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "emf": {
+     "basis": "calibrated",
+     "ci95": [
+      3.878919,
+      14.362484
+     ],
+     "class": "emf",
+     "floor": 8.1,
+     "floor_at_minimum": false,
+     "median_abs_diff": 7.8645,
+     "n_pairs": 32,
+     "n_states": 12,
+     "sigma_robust": 8.072345,
+     "sigma_robust_unweighted": 8.2448,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+    },
+    "experimental_unspecified": {
+     "basis": "calibrated",
+     "ci95": [
+      1.572535,
+      5.032111
+     ],
+     "class": "experimental_unspecified",
+     "floor": 3.8,
+     "floor_at_minimum": false,
+     "median_abs_diff": 3.0,
+     "n_pairs": 35,
+     "n_states": 13,
+     "sigma_robust": 3.76989,
+     "sigma_robust_unweighted": 3.14507,
+     "text": "experimental, method not named ('Exp.', 'measured')"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 3.0,
+     "floor_at_minimum": false,
+     "n_pairs": 14,
+     "n_states": 12,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": 7.653003,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "14 pairs from 12 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour_second_law": {
+     "basis": "prior",
+     "class": "kems_vapour_second_law",
+     "floor": 3.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": 4.193426,
+     "text": "Knudsen-effusion / vapour pressure, second-law evaluation",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour_third_law": {
+     "basis": "prior",
+     "class": "kems_vapour_third_law",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": null,
+     "text": "Knudsen-effusion / vapour pressure, third-law evaluation",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "solution_reaction_calorimetry": {
+     "basis": "calibrated",
+     "ci95": [
+      1.932121,
+      5.902247
+     ],
+     "class": "solution_reaction_calorimetry",
+     "floor": 3.5,
+     "floor_at_minimum": false,
+     "median_abs_diff": 3.75,
+     "n_pairs": 74,
+     "n_states": 36,
+     "sigma_robust": 3.428126,
+     "sigma_robust_unweighted": 3.931337,
+     "text": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      2.568473,
+      4.413581
+     ],
+     "class": "unknown",
+     "floor": 4.1,
+     "floor_at_minimum": false,
+     "median_abs_diff": 3.5125,
+     "n_pairs": 312,
+     "n_states": 106,
+     "sigma_robust": 4.035124,
+     "sigma_robust_unweighted": 3.682352,
+     "text": "method not printed"
+    }
+   },
+   "label": "formation enthalpy",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 835,
+    "sigma_robust": 4.298262
+   },
+   "relisted_values_counted_once": 72,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 201
+  },
+  "H_MIX_PARTIAL": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "kJ/mol",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 6,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 20.049818,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "6 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "solution_reaction_calorimetry": {
+     "basis": "prior",
+     "class": "solution_reaction_calorimetry",
+     "floor": 0.5,
+     "floor_at_minimum": true,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": null,
+     "text": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 0.256847,
+     "text": "method not printed",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "mixing / partial / transformation enthalpy",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.5,
+   "pooled_all_classes": {
+    "n_pairs": 11,
+    "sigma_robust": 24.489608
+   },
+   "relisted_values_counted_once": 6,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 2
+  },
+  "LATTICE_ANGLE": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "degree",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.05,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 0.05,
+     "floor_at_minimum": false,
+     "n_pairs": 2,
+     "n_states": 2,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 17.161596,
+     "text": "method not printed",
+     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "lattice angle",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 0.01,
+   "pooled_all_classes": {
+    "n_pairs": 2,
+    "sigma_robust": 17.161596
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.01,
+   "states_with_two_or_more_sources": 2
+  },
+  "LATTICE_LENGTH": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "relative (fraction of the value)",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.001,
+     "floor_at_minimum": false,
+     "n_pairs": 9,
+     "n_states": 9,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 0.001249,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "9 pairs from 9 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      0.001908,
+      0.002664
+     ],
+     "class": "unknown",
+     "floor": 0.0023,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.002183,
+     "n_pairs": 601,
+     "n_states": 192,
+     "sigma_robust": 0.002209,
+     "sigma_robust_unweighted": 0.002288,
+     "text": "method not printed"
+    },
+    "xrd": {
+     "basis": "calibrated",
+     "ci95": [
+      0.000794,
+      0.001837
+     ],
+     "class": "xrd",
+     "floor": 0.0011,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.001091,
+     "n_pairs": 24,
+     "n_states": 22,
+     "sigma_robust": 0.001082,
+     "sigma_robust_unweighted": 0.001144,
+     "text": "X-ray / neutron diffraction"
+    }
+   },
+   "label": "lattice parameter",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 0.0002,
+   "pooled_all_classes": {
+    "n_pairs": 683,
+    "sigma_robust": 0.002288
+   },
+   "relisted_values_counted_once": 61,
+   "rounding_step": 0.0001,
+   "states_with_two_or_more_sources": 234
+  },
+  "SM_FORM": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "J/K/mol-atom",
+   "classes": {
+    "emf": {
+     "basis": "prior",
+     "class": "emf",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 2.725727,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "heat_content_calorimetry": {
+     "basis": "prior",
+     "class": "heat_content_calorimetry",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 2.0,
+     "floor_at_minimum": false,
+     "n_pairs": 2,
+     "n_states": 2,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": 6.803834,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour_second_law": {
+     "basis": "prior",
+     "class": "kems_vapour_second_law",
+     "floor": 3.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "drowart2005",
+     "sigma_robust_insufficient_data": null,
+     "text": "Knudsen-effusion / vapour pressure, second-law evaluation",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "solution_reaction_calorimetry": {
+     "basis": "prior",
+     "class": "solution_reaction_calorimetry",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 2.306384,
+     "text": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 4,
+     "n_states": 4,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 6.696377,
+     "text": "method not printed",
+     "why_prior": "4 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "formation entropy",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.2,
+   "pooled_all_classes": {
+    "n_pairs": 23,
+    "sigma_robust": 4.82244
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 10
+  },
+  "S_ABS": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "J/K/mol",
+   "classes": {
+    "emf": {
+     "basis": "prior",
+     "class": "emf",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 46,
+     "n_states": 2,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 1.79269,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "46 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "heat_content_calorimetry": {
+     "basis": "prior",
+     "class": "heat_content_calorimetry",
+     "floor": 0.2,
+     "floor_at_minimum": true,
+     "n_pairs": 18,
+     "n_states": 8,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": 1.018403,
+     "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
+     "why_prior": "18 pairs from 8 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 3,
+     "n_states": 3,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 0.704496,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      0.262089,
+      0.964488
+     ],
+     "class": "unknown",
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.5156,
+     "n_pairs": 91,
+     "n_states": 21,
+     "sigma_robust": 0.449296,
+     "sigma_robust_unweighted": 0.540533,
+     "text": "method not printed"
+    }
+   },
+   "label": "absolute entropy, entropy of fusion / transformation",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.2,
+   "pooled_all_classes": {
+    "n_pairs": 189,
+    "sigma_robust": 1.018403
+   },
+   "relisted_values_counted_once": 5,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 36
+  },
+  "S_MIX_PARTIAL": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "J/K/mol",
+   "classes": {
+    "emf": {
+     "basis": "calibrated",
+     "ci95": [
+      2.096713,
+      14.93908
+     ],
+     "class": "emf",
+     "floor": 3.9,
+     "floor_at_minimum": false,
+     "median_abs_diff": 4.005,
+     "n_pairs": 30,
+     "n_states": 10,
+     "sigma_robust": 3.878919,
+     "sigma_robust_unweighted": 4.198668,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "kems_vapour": {
+     "basis": "prior",
+     "class": "kems_vapour",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 3,
+     "n_states": 3,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 13.55525,
+     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
+     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 60.950924,
+     "text": "method not printed",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "mixing / partial / excess entropy",
+   "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
+   "minimum_floor": 0.2,
+   "pooled_all_classes": {
+    "n_pairs": 41,
+    "sigma_robust": 8.596523
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 0.1,
+   "states_with_two_or_more_sources": 17
+  },
+  "T_CONDITION": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "K",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 5.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "prior",
+     "class": "unknown",
+     "floor": 5.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "method not printed",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    }
+   },
+   "label": "equilibration temperature of a phase-equilibrium observation",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 1.0,
+   "pooled_all_classes": {
+    "n_pairs": 0,
+    "sigma_robust": null
+   },
+   "relisted_values_counted_once": 0,
+   "rounding_step": 1.0,
+   "states_with_two_or_more_sources": 0
+  },
+  "T_INVARIANT": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "K",
+   "classes": {
+    "emf": {
+     "basis": "prior",
+     "class": "emf",
+     "floor": 10.0,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 3.14507,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 10.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "thermal_analysis": {
+     "basis": "prior",
+     "class": "thermal_analysis",
+     "floor": 5.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "thermal analysis (DTA / DSC / heating-cooling curves)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      8.386852,
+      10.483565
+     ],
+     "class": "unknown",
+     "floor": 10.0,
+     "floor_at_minimum": false,
+     "median_abs_diff": 10.0,
+     "n_pairs": 4981,
+     "n_states": 1688,
+     "sigma_robust": 9.435209,
+     "sigma_robust_unweighted": 10.483565,
+     "text": "method not printed"
+    }
+   },
+   "label": "invariant-reaction temperature",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 1.0,
+   "pooled_all_classes": {
+    "n_pairs": 4986,
+    "sigma_robust": 10.483565
+   },
+   "relisted_values_counted_once": 1009,
+   "rounding_step": 1.0,
+   "states_with_two_or_more_sources": 1691
+  },
+  "T_TRANSITION": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "K",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 10.0,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "thermal_analysis": {
+     "basis": "prior",
+     "class": "thermal_analysis",
+     "floor": 5.0,
+     "floor_at_minimum": false,
+     "n_pairs": 8,
+     "n_states": 3,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 3.249905,
+     "text": "thermal analysis (DTA / DSC / heating-cooling curves)",
+     "why_prior": "8 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      10.693236,
+      31.450695
+     ],
+     "class": "unknown",
+     "floor": 17.0,
+     "floor_at_minimum": false,
+     "median_abs_diff": 24.5,
+     "n_pairs": 220,
+     "n_states": 43,
+     "sigma_robust": 16.773704,
+     "sigma_robust_unweighted": 25.684735,
+     "text": "method not printed"
+    }
+   },
+   "label": "transition / liquidus / solidus temperature",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 1.0,
+   "pooled_all_classes": {
+    "n_pairs": 237,
+    "sigma_robust": 23.063843
+   },
+   "relisted_values_counted_once": 33,
+   "rounding_step": 1.0,
+   "states_with_two_or_more_sources": 53
+  },
+  "VOLUME": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "relative (fraction of the value)",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.003,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      0.005248,
+      0.053299
+     ],
+     "class": "unknown",
+     "floor": 0.0197,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.004927,
+     "n_pairs": 50,
+     "n_states": 12,
+     "sigma_robust": 0.019682,
+     "sigma_robust_unweighted": 0.005165,
+     "text": "method not printed"
+    }
+   },
+   "label": "cell / molar volume",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 0.0005,
+   "pooled_all_classes": {
+    "n_pairs": 50,
+    "sigma_robust": 0.005165
+   },
+   "relisted_values_counted_once": 1,
+   "rounding_step": 0.0001,
+   "states_with_two_or_more_sources": 12
+  },
+  "X_PHASE": {
+   "basis_error_pairs_excluded": 0,
+   "canonical_unit": "mole fraction",
+   "classes": {
+    "experimental_unspecified": {
+     "basis": "prior",
+     "class": "experimental_unspecified",
+     "floor": 0.01,
+     "floor_at_minimum": false,
+     "n_pairs": 6,
+     "n_states": 1,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 0.041934,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why_prior": "6 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "metallography_microscopy": {
+     "basis": "prior",
+     "class": "metallography_microscopy",
+     "floor": 0.01,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 0.000115,
+     "text": "metallography / optical, SEM, TEM microscopy of quenched samples",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "microanalysis": {
+     "basis": "prior",
+     "class": "microanalysis",
+     "floor": 0.005,
+     "floor_at_minimum": false,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": null,
+     "text": "microanalysis (EPMA, EDS / EDX, WDS, ICP, chemical analysis)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "thermal_analysis": {
+     "basis": "prior",
+     "class": "thermal_analysis",
+     "floor": 0.01,
+     "floor_at_minimum": false,
+     "n_pairs": 1,
+     "n_states": 1,
+     "prior_source": "orchid_assumed",
+     "sigma_robust_insufficient_data": 0.073385,
+     "text": "thermal analysis (DTA / DSC / heating-cooling curves)",
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "unknown": {
+     "basis": "calibrated",
+     "ci95": [
+      0.010484,
+      0.01258
+     ],
+     "class": "unknown",
+     "floor": 0.011,
+     "floor_at_minimum": false,
+     "median_abs_diff": 0.011,
+     "n_pairs": 3139,
+     "n_states": 1453,
+     "sigma_robust": 0.010484,
+     "sigma_robust_unweighted": 0.011532,
+     "text": "method not printed"
+    }
+   },
+   "label": "phase composition (tie-line / boundary / invariant)",
+   "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
+   "minimum_floor": 0.001,
+   "pooled_all_classes": {
+    "n_pairs": 3154,
+    "sigma_robust": 0.011532
+   },
+   "relisted_values_counted_once": 1821,
+   "rounding_step": 0.001,
+   "states_with_two_or_more_sources": 1459
+  }
+ },
+ "version": "orchid-uncertainty-calibration 2026-10-24"
+}

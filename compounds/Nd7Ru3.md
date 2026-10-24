@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Nd7Ru3 reported in the literature (6)
 | -15.118 kJ/mol-atom | Nd7Ru3 |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 24 |  |
 | -25.145 kJ/mol-atom | Nd7Ru3 | 0 | DFT | Ab-initio (Magnetic) | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 28 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Nd7Ru3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.181 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.367 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.529 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.331 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.118 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.145 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

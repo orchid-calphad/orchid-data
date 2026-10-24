@@ -9,13 +9,13 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
 | experimental | 984 | 984 | ok |
-| model | 526 | 526 | ok |
+| model | 527 | 527 | ok |
 | invariants | 1656 | 1656 | ok |
 | dft/literature | 441 | 441 | ok |
 | dft/mp | 1218 | 1218 | ok |
 | dft/oqmd | 1218 | 1218 | ok |
 | assessed | 650 | 650 | ok |
-| derived/invariant-brackets | 1141 | 1141 | ok |
+| derived/invariant-brackets | 1114 | 1114 | ok |
 | derived/liquid-stability | 431 | 431 | ok |
 
 Invalid files in the final bundle: **0**.
@@ -61,29 +61,29 @@ Invalid files in the final bundle: **0**.
 
 Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
 
-Datasets evaluated in the final bundle: **8265**; all finite: **yes**.
+Datasets evaluated in the final bundle: **8239**; all finite: **yes**.
 
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
 | assessed | zpf_driving_force_J | 650 | 13911 | 0.000171 | 1.3915 |
-| derived/invariant-brackets | zpf_driving_force_J | 1141 | 8051 | 3.8223 | 171.5162 |
+| derived/invariant-brackets | zpf_driving_force_J | 1114 | 7350 | 3.4907 | 196.0016 |
 | derived/liquid-stability | zpf_driving_force_J | 431 | 3879 | 0.0 | 0.0 |
 | dft/literature | nonequilibrium_log_likelihood | 441 | 441 | 19.1066 | 46.5692 |
 | dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1757 | 11.4902 |
 | dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1552 | 11.748 |
 | experimental | activity_residual | 71 | 181 | 1389.0925 | 11930.0598 |
-| experimental | nonequilibrium_log_likelihood | 454 | 454 | 11.8308 | 196.1753 |
+| experimental | nonequilibrium_log_likelihood | 454 | 454 | 9.7298 | 21.2583 |
 | experimental | residual | 260 | 1137 | 442.0926 | 30285.5 |
 | experimental | zpf_driving_force_J | 199 | 1448 | 0.4715 | 489.5108 |
 | invariants | zpf_driving_force_J | 1656 | 15330 | 16.9353 | 830.7196 |
 | model | activity_residual | 43 | 53 | 10.3512 | 47.6979 |
-| model | nonequilibrium_log_likelihood | 309 | 309 | 7.1338 | 464.4773 |
-| model | residual | 163 | 230 | 94.2797 | 38116.6912 |
+| model | nonequilibrium_log_likelihood | 309 | 309 | 9.0206 | 24.5715 |
+| model | residual | 164 | 231 | 94.2797 | 38116.6912 |
 | model | zpf_driving_force_J | 11 | 187 | 0.665 | 11.8035 |
 
 (Residuals: J/mol-atom, J/K/mol-atom or activity; driving forces J/mol; non-equilibrium: log likelihood. Against the TDB's own parameters, i.e. how far the published values lie from the assessment the folder is named after.)
 
-Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 259, espei_evaluation_nonfinite 184, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 5); ZPF regions cut: 82 in 50 datasets.
+Not written after the evaluation: 470 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 258, espei_evaluation_nonfinite 181, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 5); ZPF regions cut: 82 in 50 datasets.
 
 | reason | path (not written) | error |
 |---|---|---|
@@ -106,9 +106,7 @@ Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_nonfinite | derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-02.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-03.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/AG-TB/AgTb-09Wan.zpf-01.json |  |
-| espei_evaluation_error | derived/invariant-brackets/AL-CR/AlCr-15Wit.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
 | espei_evaluation_error | derived/invariant-brackets/AL-CR/AlCr-15Wit.zpf-06.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
-| espei_evaluation_nonfinite | derived/invariant-brackets/AL-LA/AlLa-06Zho.zpf-00.json |  |
 | espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
 | espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
 | espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-02.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
@@ -138,7 +136,6 @@ Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_error | derived/invariant-brackets/MG-TB/MgTb-06Guo.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
 | espei_evaluation_nonfinite | derived/invariant-brackets/MN-ZN/MnZn-21Li.zpf-02.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/N-U/UN-00Che.zpf-00.json |  |
-| espei_evaluation_nonfinite | derived/invariant-brackets/N-U/UN-00Che.zpf-02.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/NB-SI/NbSi-03Yan.zpf-01.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/NI-SI/NiSi-03Tok.zpf-01.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/NI-SI/NiSi-03Tok.zpf-02.json |  |
@@ -511,7 +508,6 @@ Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-03-M5C2.json | KeyError: 'GRAPHITE' |
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-04-CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-05-M23C6_D84.json | KeyError: 'GRAPHITE' |
-| espei_evaluation_nonfinite | model/C-TI/TiC-03Fri.sm-model-01.json |  |
 | espei_evaluation_nonfinite | model/C-V/VC-06Hu.zpf-model-00.json |  |
 | espei_evaluation_tdb_error | model/C-W/WC-22He-3g.sm-model-00.json | ParseException: Invalid TDB syntax.
   PAR  LNTHETA1(GRAPHITE_A9,C),,         +LN(1953.2502);,,             N 18BIG 
@@ -578,7 +574,7 @@ Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3,
 | E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 731 (131) |
 | E4 | values read twice from the same printed row, counted once | 1151 |
 | E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 114 / 64 / 84 |
-| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 854 / 32 |
+| E6 | thermochemical datasets whose weight follows sigma_effective (method floors, 2026-10-24): weight lower / higher / unchanged vs 2026-10-23 | 1404: 1297 / 0 / 107 |
 
 Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
@@ -587,10 +583,10 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
 | assessed | 650 | 7671 | 479 |
-| derived/invariant-brackets | 1141 | 5612 | 399 |
+| derived/invariant-brackets | 1114 | 5090 | 399 |
 | derived/liquid-stability | 431 | 3879 | 310 |
 
-Invariant brackets written: above 3032, below 3012; skipped: another_invariant_within_offset (above) 517, another_invariant_within_offset (below) 537, composition_not_between_the_two_phases 175, invariant_composition_unknown 427, phase_unmapped_or_repeated 68, reaction_label_not_matched 704, reaction_not_parsed 150, reaction_phases_differ_from_dataset 9, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 65.
+Invariant brackets written: above 2746, below 2708; skipped: another_invariant_within_offset (above) 803, another_invariant_within_offset (below) 841, composition_not_between_the_two_phases 175, invariant_composition_unknown 427, phase_unmapped_or_repeated 68, reaction_label_not_matched 704, reaction_not_parsed 150, reaction_phases_differ_from_dataset 9, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 65.
 Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 142, phase_not_in_tdb 291, region_inert_no_composition 115.
 Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liquid_at_1_atm 25, liquid_miscibility_gap_in_sources 66, no_assessed_diagram 25, no_single_phase_liquid_field 10, written 310.
 
@@ -645,7 +641,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `duplicate_identical_zpf`: 131
 - `duplicate_of_other_dataset`: 1
 - `espei_evaluation_error`: 70
-- `espei_evaluation_nonfinite`: 124
+- `espei_evaluation_nonfinite`: 123
 - `espei_evaluation_tdb_error`: 15
 - `espei_evaluation_tdb_not_found`: 5
 - `evidence_class_mismatch`: 1
@@ -702,4 +698,70 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 ## Self-check against the corpus ESPEI evaluation
 
 2 invariant ZPF datasets carry the corpus driving-force evaluation against their assessment (`orchid.espei_evaluation`; only datasets kept unchanged).
+
+## Uncertainty budget and method floors (2026-10-24)
+
+Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 sha256 f50cf3b8a8da` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
+
+| value type | method class | pairs | states | basis | robust sigma | 95 % CI | floor | unit |
+|---|---|---:|---:|---|---:|---|---:|---|
+| GM_FORM | unknown | 38 | 18 | calibrated | 1.085 | 0.6605-2.097 | 1.1 | kJ/mol-atom |
+| GM_FORM | model_calculated (vs experiment) | 192 | 146 | calibrated | 0.6375 | 0.5041-0.8006 | 0.7 | kJ/mol-atom |
+| G_MIX_PARTIAL | emf | 95 | 15 | calibrated | 3.166 | 1.384-6.091 | 3.2 | kJ/mol |
+| HM_FORM | emf | 32 | 12 | calibrated | 8.072 | 3.879-14.36 | 8.1 | kJ/mol-atom |
+| HM_FORM | experimental_unspecified | 35 | 13 | calibrated | 3.77 | 1.573-5.032 | 3.8 | kJ/mol-atom |
+| HM_FORM | solution_reaction_calorimetry | 74 | 36 | calibrated | 3.428 | 1.932-5.902 | 3.5 | kJ/mol-atom |
+| HM_FORM | unknown | 312 | 106 | calibrated | 4.035 | 2.568-4.414 | 4.1 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2186 | 378 | calibrated | 3.271 | 2.858-4.16 | 3.3 | kJ/mol-atom |
+| LATTICE_LENGTH | unknown | 601 | 192 | calibrated | 0.002209 | 0.001908-0.002664 | 0.0023 | relative (fraction of the value) |
+| LATTICE_LENGTH | xrd | 24 | 22 | calibrated | 0.001082 | 0.000794-0.001837 | 0.0011 | relative (fraction of the value) |
+| LATTICE_LENGTH | model_calculated (vs experiment) | 223 | 133 | calibrated | 0.01964 | 0.01295-0.02611 | 0.0197 | relative (fraction of the value) |
+| SM_FORM | model_calculated (vs experiment) | 116 | 51 | calibrated | 3.608 | 2.762-4.837 | 3.7 | J/K/mol-atom |
+| S_ABS | unknown | 91 | 21 | calibrated | 0.4493 | 0.2621-0.9645 | 0.5 | J/K/mol |
+| S_MIX_PARTIAL | emf | 30 | 10 | calibrated | 3.879 | 2.097-14.94 | 3.9 | J/K/mol |
+| T_INVARIANT | unknown | 4981 | 1688 | calibrated | 9.435 | 8.387-10.48 | 10 | K |
+| T_INVARIANT | model_calculated (vs experiment) | 14188 | 5391 | calibrated | 3.707 | 3.113-4.448 | 4 | K |
+| T_TRANSITION | unknown | 220 | 43 | calibrated | 16.77 | 10.69-31.45 | 17 | K |
+| VOLUME | unknown | 50 | 12 | calibrated | 0.01968 | 0.005248-0.0533 | 0.0197 | relative (fraction of the value) |
+| X_PHASE | unknown | 3139 | 1453 | calibrated | 0.01048 | 0.01048-0.01258 | 0.011 | mole fraction |
+| X_PHASE | model_calculated (vs experiment) | 16938 | 8871 | calibrated | 0.004448 | 0.003855-0.004448 | 0.005 | mole fraction |
+
+Values per folder and output (sigma_effective in ESPEI units):
+
+| folder | output | values | printed sigma | not printed (method floor) | model (budget) | dft calibrated | ZPF | floor calibrated | floor prior | sigma_eff > printed | sigma raised vs 2026-10-23 | sigma unit | min | q25 | median | q75 | max |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
+| dft/literature | HM_FORM | 1050 | 0 | 0 | 0 | 1050 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3050.0 | 3794.0 | 6280.0 | 6624.0 | 11564.0 |
+| dft/mp | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4457.0 | 7506.0 | 9496.0 | 9496.0 | 13019.0 |
+| dft/oqmd | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4289.0 | 6040.0 | 6550.0 | 9291.0 | 11501.0 |
+| experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 7 | 0 | 7 | 1 (activity) | 999.9393 | 1000.0036 | 1000.0258 | 1000.0486 | 1000.0718 |
+| experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 10 | 0 | 10 | 1 (activity) | 999.904 | 999.9912 | 1000.0246 | 1000.0705 | 7525.2123 |
+| experimental | ACR_CR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 1 (activity) | 1000.0068 | 1000.0281 | 1000.0494 | 1000.0707 | 1000.0921 |
+| experimental | ACR_CU | 40 | 0 | 40 | 0 | 0 | 0 | 0 | 40 | 0 | 40 | 1 (activity) | 999.8533 | 999.9459 | 999.9847 | 1000.0468 | 7525.2123 |
+| experimental | ACR_GE | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 10 | 0 | 10 | 1 (activity) | 999.8974 | 999.9665 | 1000.0245 | 1000.0505 | 7162.9095 |
+| experimental | ACR_MO | 11 | 0 | 11 | 0 | 0 | 0 | 0 | 11 | 0 | 11 | 1 (activity) | 999.8607 | 999.9538 | 1000.035 | 1000.1053 | 1000.1409 |
+| experimental | ACR_PB | 36 | 0 | 36 | 0 | 0 | 0 | 0 | 36 | 0 | 36 | 1 (activity) | 999.6252 | 999.9438 | 999.9808 | 1000.0305 | 1000.3891 |
+| experimental | ACR_SI | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 10 | 0 | 10 | 1 (activity) | 999.8974 | 999.9665 | 1000.0245 | 1000.0505 | 7162.9095 |
+| experimental | ACR_TL | 21 | 0 | 21 | 0 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.9019 | 999.9598 | 999.9898 | 1000.0467 | 1000.0673 |
+| experimental | ACR_YB | 13 | 0 | 13 | 0 | 0 | 0 | 0 | 13 | 0 | 13 | 1 (activity) | 999.5398 | 999.9555 | 1000.0073 | 1000.0428 | 1000.1051 |
+| experimental | ACR_ZR | 21 | 0 | 21 | 0 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.5529 | 999.9064 | 999.9509 | 1000.0086 | 1000.071 |
+| experimental | CPM | 552 | 0 | 552 | 0 | 0 | 0 | 0 | 552 | 0 | 552 | J/mol-atom/K | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 |
+| experimental | GMR | 52 | 16 | 36 | 0 | 0 | 0 | 22 | 30 | 16 | 16 | J/mol-atom | 1000.0 | 1000.0 | 1000.0 | 1100.0 | 2000.0 |
+| experimental | HMR | 501 | 235 | 266 | 0 | 0 | 0 | 122 | 379 | 176 | 356 | J/mol-atom | 500.0 | 500.0 | 1000.0 | 3000.0 | 8100.0 |
+| experimental | HM_FORM | 437 | 242 | 195 | 0 | 0 | 0 | 381 | 56 | 178 | 373 | J/mol-atom | 1000.0 | 3500.0 | 4100.0 | 4700.0 | 19000.0 |
+| experimental | SM | 17 | 3 | 14 | 0 | 0 | 0 | 12 | 5 | 3 | 14 | J/mol-atom/K | 0.2 | 0.5 | 0.5 | 0.5 | 0.5 |
+| experimental | SMR | 15 | 1 | 14 | 0 | 0 | 0 | 0 | 15 | 0 | 14 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |
+| experimental | SM_FORM | 45 | 19 | 26 | 0 | 0 | 0 | 0 | 45 | 7 | 33 | J/mol-atom/K | 0.5 | 1.0 | 1.0 | 1.3 | 5.4 |
+| experimental | ZPF | 1164 | 0 | 0 | 0 | 0 | 1164 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
+| invariants | ZPF | 6019 | 0 | 0 | 0 | 0 | 6019 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
+| model | ACR_CU | 21 | 0 | 0 | 21 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.9072 | 999.9634 | 1000.0181 | 1000.0375 | 1000.2979 |
+| model | ACR_MO | 11 | 0 | 0 | 11 | 0 | 0 | 0 | 11 | 0 | 11 | 1 (activity) | 999.8504 | 999.9157 | 1000.019 | 1000.082 | 1000.1402 |
+| model | ACR_ZR | 21 | 0 | 0 | 21 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.724 | 999.9108 | 999.9586 | 1000.0229 | 1000.2174 |
+| model | CPM | 6 | 0 | 0 | 6 | 0 | 0 | 0 | 6 | 0 | 6 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
+| model | GMR | 27 | 0 | 0 | 27 | 0 | 0 | 21 | 6 | 0 | 0 | J/mol-atom | 700.0 | 700.0 | 700.0 | 700.0 | 1000.0 |
+| model | HMR | 161 | 0 | 0 | 161 | 0 | 0 | 123 | 38 | 1 | 161 | J/mol-atom | 1000.0 | 3300.0 | 3300.0 | 3300.0 | 3300.0 |
+| model | HM_FORM | 295 | 0 | 0 | 295 | 0 | 0 | 295 | 0 | 0 | 295 | J/mol-atom | 3300.0 | 3300.0 | 3300.0 | 3300.0 | 3300.0 |
+| model | SM | 21 | 0 | 0 | 21 | 0 | 0 | 0 | 21 | 1 | 21 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
+| model | SMR | 16 | 0 | 0 | 16 | 0 | 0 | 16 | 0 | 0 | 16 | J/mol-atom/K | 3.7 | 3.7 | 3.7 | 3.7 | 3.7 |
+| model | SM_FORM | 90 | 0 | 0 | 90 | 0 | 0 | 90 | 0 | 0 | 90 | J/mol-atom/K | 3.7 | 3.7 | 3.7 | 3.7 | 3.7 |
+| model | ZPF | 160 | 0 | 0 | 0 | 0 | 160 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
 

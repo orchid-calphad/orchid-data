@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Co11Zr2 reported in the literature (2)
 | -23.944 kJ/mol-atom | Co11Zr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 1 |  |
 | -15.846 kJ/mol-atom | Co11Zr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Co11Zr2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -23.944 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.846 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021). [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5)

@@ -27,6 +27,27 @@ Table: Enthalpy of formation of HfNiSn reported in the literature (12)
 | 438.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 | 606.9 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfNiSn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 110.2 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 159.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 219.6 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 260.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 292.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 352 | kJ/mol (basis unstated) |  | 0.5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 361.3 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 362.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 416.7 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 435.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 438.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 606.9 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016). [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042)

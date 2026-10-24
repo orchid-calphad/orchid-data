@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Al0.35Ni0.75 reported in the literature (2)
 | -40.5672 kJ/mol (basis unstated) | Al0.35Ni0.75 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1988 | Table 1, p. 5, row 15 |  |
 | -37.4 kJ/mol (basis unstated) | Al0.35Ni0.75 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 16 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al0.35Ni0.75
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -40.5672 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. I. Ansara, B. Sundman, P. Willemin, Thermodynamic modeling of ordered phases in the NiAl system, Acta Metallurgica 36, 977-982 (1988). [doi:10.1016/0001-6160(88)90152-6](https://doi.org/10.1016/0001-6160%2888%2990152-6)

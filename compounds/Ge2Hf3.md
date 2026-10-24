@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ge2Hf3 reported in the literature (3)
 | -67.105 kJ/mol-atom | Hf3Ge2 | 0 | DFT | FP | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014 | Table 2, p. 3, row 12 |  |
 | -74.6 kJ/mol-atom ± 7.9 | Hf3Ge2 | 1473 | unspecified |  | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 2, p. 3, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge2Hf3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.16 | kJ/mol-atom | 6.4 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 6.4 |
+| -67.105 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -74.6 | kJ/mol-atom | 7.9 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 7.9 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

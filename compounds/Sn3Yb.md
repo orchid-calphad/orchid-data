@@ -22,6 +22,22 @@ Table: Enthalpy of formation of Sn3Yb reported in the literature (7)
 | -37 kJ/mol-atom ± 3.8 | YbSn3 |  | model | Vs. N | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 39 |  |
 | -42.219 kJ/mol-atom | YbSn3 | 0 | DFT | Ab-initio | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 34 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sn3Yb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -48.002 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -44.066 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -42.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.797 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.6 | kJ/mol-atom | 8.5 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 8.5 |
+| -37 | kJ/mol-atom | 3.8 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.8 |
+| -42.219 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

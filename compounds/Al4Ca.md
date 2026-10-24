@@ -37,6 +37,37 @@ Table: Enthalpy of formation of Al4Ca reported in the literature (22)
 | -19.56 kJ/mol-atom | Al4Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 1 |  |
 | -19.208 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al4Ca
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -219.5 | kJ/mol (basis unstated) | 20 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 20 |
+| -209 | kJ/mol (basis unstated) | 30 | 5.000e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 30 |
+| -100.9 | kJ/mol (basis unstated) | 1.9 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -97 | kJ/mol (basis unstated) | 16.5 | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 16.5 |
+| -93.5 | kJ/mol (basis unstated) | 1.25 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -20.2 | kJ/mol-atom | 0.4 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -20.18 | kJ/mol-atom | 0.38 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -19.4 | kJ/mol-atom | 3.3 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -19.4 | kJ/mol-atom | 3.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -18.7 | kJ/mol-atom | 0.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -18.7 | kJ/mol-atom | 0.3 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -100.509 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -93.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28.968 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.248 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.27 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.615 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -20.034 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -19.56 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -19.208 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

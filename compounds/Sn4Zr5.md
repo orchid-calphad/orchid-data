@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Sn4Zr5 reported in the literature (4)
 | -74.806 kJ/mol (basis unstated) | Zr5Sn4 |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 13 |  |
 | -58.49 kJ/mol (basis unstated) | Zr5Sn4 |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sn4Zr5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -85.989 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -79.115 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -74.806 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -58.49 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008). [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001)

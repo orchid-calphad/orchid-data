@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ni3Ta reported in the literature (3)
 | -34.81 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
 | -29.29 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni3Ta
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -35.29 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -34.81 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -29.29 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009). [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006)

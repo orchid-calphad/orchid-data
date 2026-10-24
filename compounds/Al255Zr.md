@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Al255Zr reported in the literature (3)
 | -119.8 eV/kJ mol−1 | Al255Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 26 |  |
 | -1.242 eV/f.u. | Al255Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 26 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al255Zr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -132.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -119.8 | eV/kJ mol−1 |  | 0.05 | 0.06509 (dft, calibrated) |  |  |  | 0.06509 |
+| -1.242 | eV/f.u. |  | 5.000e-4 | 0.06509 (dft, calibrated) |  |  |  | 0.06509 |
+
 ## Sources
 
 1. A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018). [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023)

@@ -324,6 +324,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 6280.0,
@@ -350,7 +351,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-3UZCHZNEXO.73fa6b",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -377,7 +391,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-3UZCHZNEXO.d73652",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -404,7 +431,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-52NEUIMXXM.67b2a3",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -431,7 +471,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-52NEUIMXXM.75397e",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -458,7 +511,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-6NMZMDWEIZ.6c25ee",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -485,7 +551,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-6NMZMDWEIZ.e16ce5",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -512,7 +591,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BRBEV2CMMI.7deb20",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -539,7 +631,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BRBEV2CMMI.f3b1dd",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -566,7 +671,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BWSJBFCMPP.02d7e8",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -593,7 +711,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BWSJBFCMPP.a54de9",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -620,7 +751,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-MEFBATBWAD.aa99c6",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -647,7 +791,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-MEFBATBWAD.d41c01",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -674,7 +831,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-UN5ZR3DH4R.9ee812",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -701,7 +871,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-UN5ZR3DH4R.a5aded",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -728,7 +911,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-VASZEU4BTD.11e7a0",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -755,7 +951,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-VASZEU4BTD.47e16d",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -782,7 +991,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-XSC6EPABZQ.4d8b85",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -809,7 +1031,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-XSC6EPABZQ.56a13f",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -836,7 +1071,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-ZUMCL4UJPS.5bc953",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    },
    {
     "sigma": 6280.0,
@@ -863,7 +1111,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-ZUMCL4UJPS.990fb4",
-    "compound": "Mg2Pb"
+    "compound": "Mg2Pb",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6280.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6280.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 93,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
+    }
    }
   ]
  }

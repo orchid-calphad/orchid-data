@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Ni5Si2 reported in the literature (4)
 | -48.8 kJ/mol-atom | Ni5Si2(γ) |  | model | CALPHAD assessment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | -43.5 kJ/mol-atom | Ni5Si2(γ) |  | model |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni5Si2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -45.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -42.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Tatsuya Tokunaga, Kazumasa Nishio, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic assessment of the Ni–Si system by incorporating ab initio energetic calculations into the CALPHAD approach, Calphad 27, 161-168 (2003). [doi:10.1016/s0364-5916(03)00049-x](https://doi.org/10.1016/s0364-5916%2803%2900049-x)

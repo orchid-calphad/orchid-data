@@ -19,6 +19,19 @@ Table: Enthalpy of formation of AlNi2Pr2 reported in the literature (4)
 | -40.48 kJ/mol-atom | Ni2AlPr2 |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27 |  |
 | -38.37 kJ/mol-atom | Ni₂AlPr₂ |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlNi2Pr2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -56.01 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -54.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -40.48 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -38.37 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Jinfa Liao, Yuehui Liao, Hang Wang, Ligang Zhang, Yue Ma, Thermodynamic optimization of the Ni–Al–Pr ternary system, Mater. Res. Express 6, 086512 (2019). [doi:10.1088/2053-1591/ab19fa](https://doi.org/10.1088/2053-1591/ab19fa)

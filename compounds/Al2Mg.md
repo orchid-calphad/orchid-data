@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Al2Mg reported in the literature (3)
 | -2.713 kJ/mol-atom | Al2Mg-C14 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | -2.301 kJ/mol-atom | Al2Mg-C15 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al2Mg
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -2.802 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -2.713 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -2.301 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005). [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004)

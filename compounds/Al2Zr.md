@@ -65,6 +65,65 @@ Table: Enthalpy of formation of Al2Zr reported in the literature (50)
 | -51.603 unknown | Al2Zr |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Tamim 2018; _cites Duan 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.12.079) | Table 3, p. 9, row 70 |  |
 | -47.837 kJ/mol-atom | Al2Zr |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al2Zr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -56.3 | kJ/mol-atom | 2.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -54 | unknown | 4 | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 4 |
+| -54 | kJ/mol-atom | 4 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -54 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -52.1 | kJ/mol-atom | 1.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -52.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -52.1 | kJ/mol-atom | 1.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -51.3 | kJ/mol-atom | 4.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.3 |
+| -51.3 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -51.3 | kJ/mol-atom | 4.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.3 |
+| -51.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -45.83 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -45.81 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -44 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -44 | unknown |  | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| 52.1 | unknown | 1.6 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 1.6 |
+| -58.257 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.32 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -52.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -52.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.582 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.23 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.01 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.602 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.446 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.446 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -47.84 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.81 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.81 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.8 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.8 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -45.54 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.536 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.536 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -44.36 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.327 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -53.327 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -52.23 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -52.23 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -51.603 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -51.603 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -47.837 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

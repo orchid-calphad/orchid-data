@@ -17,6 +17,17 @@ Table: Enthalpy of formation of SbYb reported in the literature (2)
 | -62 kJ/mol-atom | YbSb | 298.15 | experimental | Experiment | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Pratt 1970_ | Table 1, p. 27, row 15 |  |
 | -64.03 kJ/mol-atom | YbSb | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SbYb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -62 | kJ/mol-atom |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -64.03 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Ge12Li7 reported in the literature (6)
 | -20.819 kJ/mol-atom | Ge12Li7 | 0 | model | Calphad | [Ge–Li](https://data.orchid-project.org/systems/GE-LI.html) | [1] Gierlotka 2022 | Table 10, p. 8, row 3 |  |
 | -20.006 kJ/mol-atom | Ge12Li7 | 0 | DFT | ab initio | [Ge–Li](https://data.orchid-project.org/systems/GE-LI.html) | [1] Gierlotka 2022 | Table 10, p. 8, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge12Li7
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -22.4 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -22.4 | kJ/mol-atom | 1.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -21.9 | kJ/mol-atom | 1.3 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -26.664 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.819 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.006 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. W. Gierlotka, A. Dębski, M. Zabrocki, A. Góral, W. Gąsior, Phase diagram, thermodynamic studies, and ab-initio calculations of the Ge-Li system, The Journal of Chemical Thermodynamics 175, 106883 (2022). [doi:10.1016/j.jct.2022.106883](https://doi.org/10.1016/j.jct.2022.106883)

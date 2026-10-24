@@ -22,6 +22,22 @@ Table: Enthalpy of formation of RuO2 reported in the literature (7)
 | -297.08 kJ/mol (basis unstated) | RuO2 | 298.15 | experimental | manometric | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Sch 1963_ | Table 2, p. 5, row 9 |  |
 | -314.13 kJ/mol (basis unstated) | RuO2 | 298.15 | DFT | DFT | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Grillo 2004_ [doi](https://doi.org/10.1103/physrevb.70.184115) | Table 2, p. 5, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of RuO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -314.15 | kJ/mol (basis unstated) | 0.02 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -313.67 | kJ/mol (basis unstated) | 0.29 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -313.52 | kJ/mol (basis unstated) | 0.03 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -306.27 | kJ/mol (basis unstated) | 6.3 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 6.3 |
+| -302.08 | kJ/mol (basis unstated) | 8.37 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 8.37 |
+| -297.08 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -314.13 | kJ/mol (basis unstated) |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. S. Gossé, S. Bordier, C. Guéneau, E. Brackx, R. Domenger, J. Rogez, Thermodynamic assessment of the rhodium-ruthenium-oxygen (Rh-Ru-O) system, Journal of Nuclear Materials 500, 252-264 (2018). [doi:10.1016/j.jnucmat.2017.12.034](https://doi.org/10.1016/j.jnucmat.2017.12.034)

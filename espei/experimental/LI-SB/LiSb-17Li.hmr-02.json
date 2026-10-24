@@ -86,7 +86,7 @@
    "phase": "LIQUID"
   }
  },
- "weight": 1.730104,
+ "weight": 1.0,
  "bibtex": "li2017_ce3e9b",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -408,333 +408,669 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
     "sigma": 11.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 11.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.011,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_floor_applied": {
-     "sigma_used": 500.0,
-     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
-    },
-    "weight_per_value_equivalent": 45.454545,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 22.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 22.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.022,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_floor_applied": {
-     "sigma_used": 500.0,
-     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
-    },
-    "weight_per_value_equivalent": 22.727273,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 34.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 34.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.034,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_floor_applied": {
-     "sigma_used": 500.0,
-     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
-    },
-    "weight_per_value_equivalent": 14.705882,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 46.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 46.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.046,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_floor_applied": {
-     "sigma_used": 500.0,
-     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
-    },
-    "weight_per_value_equivalent": 10.869565,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 61.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 61.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.061,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 8.196721,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 76.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 76.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.076,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 6.578947,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 94.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 94.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.094,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 5.319149,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 114.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 114.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.114,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 4.385965,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 134.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 134.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.134,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 3.731343,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 155.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 155.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.155,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 3.225806,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 176.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 176.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.176,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 2.840909,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 196.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 196.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.196,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 2.55102,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 217.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 217.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.217,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 2.304147,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 237.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 237.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.237,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 2.109705,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 260.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 260.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.26,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.923077,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 282.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 282.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.282,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.77305,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 289.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 289.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.289,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.730104,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 295.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 295.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.295,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.694915,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 307.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 307.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.307,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.628664,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 334.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 334.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.334,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.497006,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 362.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 362.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.362,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.381215,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 389.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 389.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.389,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.285347,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 417.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 417.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.417,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.199041,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 445.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 445.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.445,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.123596,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    },
    {
     "sigma": 474.0,
     "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 474.0,
+     "sigma_reading": 0.5,
+     "sigma_method": 500.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 500.0,
+     "method_class": "solution_reaction_calorimetry",
+     "method_basis": "prior",
+     "method_n_pairs": 0,
+     "method_entry": "value_types/H_MIX_PARTIAL/classes/solution_reaction_calorimetry"
+    },
     "printed": {
      "value": 0.474,
      "unit": "kJ/mol (basis unstated)",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "weight_per_value_equivalent": 1.054852,
-    "weight_used": 1.730104
+    "sigma_effective_used": 500.0,
+    "weight_per_value_equivalent": 1.0,
+    "weight_used": 1.0
    }
   ]
  },
  "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 1.0,
-  "weight_written": 1.730104,
-  "changes_weight": true,
+  "weight_before_2026_10_24": 1.730104,
+  "weight_written": 1.0,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
-  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
  },
  "orchid_phase_assignment": {
   "phases": [

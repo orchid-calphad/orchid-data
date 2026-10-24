@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Fe6Sn6Zr reported in the literature (2)
 | -8.94 kJ/mol-atom | Fe6Sn6Zr |  | model |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | -8.789 kJ/mol-atom | Fe6Sn6Zr |  | model |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe6Sn6Zr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -8.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -8.789 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020). [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200)

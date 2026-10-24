@@ -16,6 +16,16 @@ Table: Enthalpy of formation of CuPdH reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -7.2 kJ/mol-atom | CuPdH B2 | 298.15 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CuPdH
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -7.2 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Weiming Huang, Susanne M. Opalka, Da Wang, Ted B. Flanagan, Thermodynamic modelling of the Cu–Pd–H system, Calphad 31, 315-329 (2007). [doi:10.1016/j.calphad.2007.02.002](https://doi.org/10.1016/j.calphad.2007.02.002)

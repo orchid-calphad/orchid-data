@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Cu3Sn reported in the literature (6)
 | -7.531 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8 |  |
 | -8.113 kJ/mol-atom | ε (Cu3Sn) | 723 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu3Sn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -8.368 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -8.2 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7.824 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7.777 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7.531 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -8.113 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

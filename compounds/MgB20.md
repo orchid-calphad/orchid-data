@@ -21,6 +21,21 @@ Table: Enthalpy of formation of MgB20 reported in the literature (6)
 | -7.8 kJ/mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
 | -7.8 per mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MgB20
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.8 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -10.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -8.5 | kJ/mol-atom | 0.6 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -8.5 | per mol-atom | 0.6 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.6 |
+| -7.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -7.8 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, P. Manfrinetti, A. Palenzona et al., Thermodynamics of the intermediate phases in the Mg–B system, Journal of Physics and Chemistry of Solids 66, 292-297 (2005). [doi:10.1016/j.jpcs.2004.06.063](https://doi.org/10.1016/j.jpcs.2004.06.063)

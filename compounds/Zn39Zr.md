@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Zn39Zr reported in the literature (6)
 | -18.06 kJ/mol-atom | Zn39Zr | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
 | -16.08 kJ/mol-atom | Zn39Zr | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Zn39Zr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -31.7 | kJ/mol-atom | 0.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -16.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.25 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.06 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -16.08 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. R. Arroyave, Z.K. Liu, Thermodynamic modelling of the Zn–Zr system, Calphad 30, 1-13 (2006). [doi:10.1016/j.calphad.2005.12.006](https://doi.org/10.1016/j.calphad.2005.12.006)

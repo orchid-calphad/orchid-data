@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Cr11Ge8 reported in the literature (4)
 | -10.92 kJ/mol-atom | Cr11Ge8 | 298.15 | experimental | Potentiometric method | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
 | -16.19 kJ/mol-atom | Cr11Ge8 | 298.15 | model | Thermodynamic optimization | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr11Ge8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -28.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -10.92 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -16.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

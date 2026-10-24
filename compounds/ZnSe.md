@@ -20,6 +20,20 @@ Table: Enthalpy of formation of ZnSe reported in the literature (5)
 | -163.2 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4 |  |
 | -175.9 kJ/mol (basis unstated) | ZnSe |  | model |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014 | Table 7, p. 6, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZnSe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -196.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -177.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -164.4 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -163.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -175.9 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Yang Chen, Yajun Liu, Maoyou Chu, Lijun Wang, Phase diagrams and thermodynamic descriptions for the Bi–Se and Zn–Se binary systems, Journal of Alloys and Compounds 617, 423-428 (2014). [doi:10.1016/j.jallcom.2014.08.001](https://doi.org/10.1016/j.jallcom.2014.08.001)

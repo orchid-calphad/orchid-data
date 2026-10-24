@@ -19,6 +19,19 @@ Table: Enthalpy of formation of AlCa2 reported in the literature (4)
 | 46.508 kJ/mol-atom | C15-Ca2Al | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 30 |  |
 | 46.508 kJ/mol-atom | C15-Ca2Al | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 27 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlCa2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 43.208 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 43.38 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 46.508 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 46.508 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Koray Ozturk, Yu Zhong, Long-Qing Chen, Zi-Kui Liu, Jorge O. Sofo, C. Wolverton, Linking first-principles energetics to CALPHAD: An application to thermodynamic modeling of the Al-Ca binary system, Metall Mater Trans A 36, 5-13 (2005). [doi:10.1007/s11661-005-0133-0](https://doi.org/10.1007/s11661-005-0133-0)

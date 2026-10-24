@@ -30,6 +30,30 @@ Table: Enthalpy of formation of MgB2 reported in the literature (15)
 | -24 kJ/mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3 |  |
 | -24 per mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MgB2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41.1 | per mol-atom | 2.2 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2.2 |
+| -41.1 | kJ/mol-atom | 2.2 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -26.6 | per mol-atom | 10 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 10 |
+| -26.6 | kJ/mol-atom | 10 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 10 |
+| -18.6 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -18.6 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -17.2 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -17.2 | per mol-atom | 1.4 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.4 |
+| -0.02666 | kJ/mol-atom | 0.01 | 5.000e-6 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -0.01855 | kJ/mol-atom | 0.00112 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -0.01717 | kJ/mol-atom | 0.00139 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -35.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.9 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -24 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

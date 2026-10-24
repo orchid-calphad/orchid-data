@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Si2Te3 reported in the literature (5)
 | -14.2 kJ/mol-atom ± 6 | α-Si2Te3 | 298.15 | experimental | calorimetry | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
 | -13.8 kJ/mol-atom ± 7 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si2Te3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -18.4 | kJ/mol-atom | 13 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 13 |
+| -17.8 | kJ/mol-atom | 19 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 19 |
+| -14.4 | kJ/mol-atom | 5 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 5 |
+| -14.2 | kJ/mol-atom | 6 | 0.1 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6 |
+| -13.8 | kJ/mol-atom | 7 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 7 |
+
 ## Sources
 
 1. Y. Feutelais, A. Schlieper, S.G. Fries, Thermodynamic evaluation of the system silicon — Tellurium, Calphad 23, 365-378 (1999). [doi:10.1016/s0364-5916(00)00007-9](https://doi.org/10.1016/s0364-5916%2800%2900007-9)

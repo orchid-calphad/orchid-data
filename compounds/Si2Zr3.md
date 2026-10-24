@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Si2Zr3 reported in the literature (2)
 | -88.812 kJ/mol-atom | Si2Zr3 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 14 |  |
 | -76.912 kJ/mol-atom | Si2Zr3 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si2Zr3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -88.812 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -76.912 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

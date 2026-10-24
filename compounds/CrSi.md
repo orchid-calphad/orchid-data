@@ -22,6 +22,22 @@ Table: Enthalpy of formation of CrSi reported in the literature (7)
 | -30.16 per mol-atom | CrSi | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
 | -30.16 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CrSi
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -39.7 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -34.2 | per mol-atom | 1600 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1600 |
+| -30.44 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.429 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -30.18 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.16 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -30.16 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

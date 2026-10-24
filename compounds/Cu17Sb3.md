@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Cu17Sb3 reported in the literature (2)
 | -0.27 kJ/mol-atom | γ(Cu17Sb3) | 775.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 2 |  |
 | -2.68 kJ/mol-atom | γ(Cu17Sb3) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu17Sb3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -0.27 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -2.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608)

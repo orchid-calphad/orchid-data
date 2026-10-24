@@ -47,6 +47,47 @@ Table: Enthalpy of formation of Ni3Ti reported in the literature (32)
 | 4.77 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 11 |  |
 | 7.08 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni3Ti
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -43800 | per mol-atom | 1600 | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1600 |
+| -34700 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -42.9 | per mol-atom | 1000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1000 |
+| -42.2 | kJ/mol-atom | 1.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -42.2 | kJ/mol-atom | 1200 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 1200 |
+| -42.2 | per mol-atom | 1200 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1200 |
+| -34.852 | per mol-atom | 2000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2000 |
+| -48.73 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -47.6 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -47.6 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.1 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -47.1 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -44.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.132 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -40.067 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -40.043 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.92 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -36.978 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.871 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.369 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -32.5 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -30.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48.73 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -46.313 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -45.99 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -45.928 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -45.1 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -29.5 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -8.72 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 4.77 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 7.08 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

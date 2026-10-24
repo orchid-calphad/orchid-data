@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ga4Nb reported in the literature (2)
 | -15.083 kJ/mol-atom | ht_Ga4Nb | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 2 |  |
 | -14.908 kJ/mol-atom | ht_Ga4Nb | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ga4Nb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.083 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.908 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023). [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596)

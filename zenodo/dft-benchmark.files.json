@@ -19,12 +19,12 @@
  ],
  "exclude": [],
  "n_files": 12,
- "total_bytes": 4681624,
+ "total_bytes": 4685444,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 26114,
-   "sha256": "94b5d9fe577c9e038d5827f01e8af1c290e67a0687a01a60e8303199cb877f6d"
+   "bytes": 29372,
+   "sha256": "b84b75559f11e24ef7b2fe5481d6c30f21c405ef015eeab94356098f358562cd"
   },
   {
    "path": "LICENSE",
@@ -54,12 +54,12 @@
   {
    "path": "literature/dft_parity.json",
    "bytes": 4061346,
-   "sha256": "07a17ca312c445cec268b179a379772f9ac3f1e6fc52e8b3454be029f4c8bc66"
+   "sha256": "cbde5f56d3dd50f24ca414f37405f6cd4a703bc2ff30cbb7aff463d35678f0ee"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
    "bytes": 7490,
-   "sha256": "c4c8bf6754919f98c398abb2020b63a9ba646c11b7dea090049c3ae5fabba7f6"
+   "sha256": "1a3dbaaf05d4ab1a0ac2f03e05ff15351e3732721be4294b5a0f50231fce64c6"
   },
   {
    "path": "literature/kim2017_crosscheck.md",
@@ -68,8 +68,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 23487,
-   "sha256": "9999e4a358b13c932010bcce8286faf3d0a84d9887487bd522e22ef696e9bab7"
+   "bytes": 24049,
+   "sha256": "946ae5b534431fb137278241ab4f27524dcb4d046984555c59fea59c7870696c"
   },
   {
    "path": "parquet/dft_parity.parquet",

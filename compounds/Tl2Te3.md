@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Tl2Te3 reported in the literature (5)
 | -17.982 kJ/mol-atom | Te3Tl2 | 298.15 | model |  | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [2] Gierlotka 2010 | Table IV, p. 5, row 1 |  |
 | -17.91 kJ/mol-atom | Te3Tl2 | 298.15 | model | Calculated | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993 | Table 3, p. 6, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Tl2Te3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -17.99 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -17.57 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -17.99 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.982 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.91 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

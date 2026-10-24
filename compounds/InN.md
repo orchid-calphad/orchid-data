@@ -24,6 +24,24 @@ Table: Enthalpy of formation of InN reported in the literature (9)
 | -19.2 per formula unit ± 2 | InN | 298.15 | experimental | Combustion of InN in a bomb-calorimeter (b) | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Hahn 1940_ | Table III, p. 10, row 10 |  |
 | -96.5 per formula unit | InN | 298.15 | model | Calculated from S°298(InN) and T^LSG = 773 K at 1 bar, first choice | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002 | Table III, p. 10, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of InN
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -143.5 | per formula unit |  | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | unit 'per formula unit' not convertible to kJ/mol-atom |
+| -136.4 | per formula unit | 19 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 19 |
+| -132.6 | per formula unit | 6 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 6 |
+| -131.4 | per formula unit | 7 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 7 |
+| -127.6 | per formula unit | 3 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 3 |
+| -113 | per formula unit | 42 | 0.5 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 42 |
+| -28.6 | per formula unit | 9.2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 9.2 |
+| -19.2 | per formula unit | 2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 2 |
+| -96.5 | per formula unit |  | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | unit 'per formula unit' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)

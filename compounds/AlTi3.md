@@ -21,6 +21,21 @@ Table: Enthalpy of formation of AlTi3 reported in the literature (6)
 | -30.8727 kJ/mol-atom | Ti3Al |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 2, p. 6, row 31 |  |
 | -27.395 kJ/mol-atom | Ti3Al |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 2, p. 6, row 28 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlTi3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -27.395 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -27.0479 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.3574 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 30.8727 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.8727 | kJ/mol-atom |  | 5.000e-9 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.395 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

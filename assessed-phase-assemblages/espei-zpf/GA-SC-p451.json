@@ -386,5 +386,215 @@
    "aspa-9e81877f1956366d",
    "aspa-192f9c8c55d5d90a"
   ]
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
+  "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
+  "points": [
+   {
+    "record_id": "aspa-b62fac1906d1d78f",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 514.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0410738,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-ef36785bd862e6fc",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 534.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0826485,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-7ad8d164dfab7f81",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 117.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0275495,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-65e35e6094fa4a3e",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 209.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0340612,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-fd5d385d1d423339",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 529.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.187337,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-1e093b3ec655564f",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 437.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.107693,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-25cc2dd2ee3251e5",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 194.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.160789,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-9073bbfc099602c8",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 41.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0455819,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-893d1c4ac144ac70",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 140.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0621116,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-940f4a972cc04ee1",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 26.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0335603,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-9e81877f1956366d",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 62.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0465837,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-192f9c8c55d5d90a",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.259,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 76.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.045081,
+     "sigma_effective": 0.02
+    }
+   }
+  ]
  }
 }

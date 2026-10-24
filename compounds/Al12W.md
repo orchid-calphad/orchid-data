@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Al12W reported in the literature (3)
 | -7.53 kJ/mol-atom | Al12W | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 11 |  |
 | -7.24 kJ/mol-atom | Al12W | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al12W
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -7.57 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.53 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.24 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017). [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007)

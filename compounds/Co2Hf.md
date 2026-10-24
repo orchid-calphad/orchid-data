@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Co2Hf reported in the literature (3)
 | -48 kJ/mol-atom | Co2Hf | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006 | Table 6, p. 5, row 15 |  |
 | -48 kJ/mol-atom | Co2Hf | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Co2Hf
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -39.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

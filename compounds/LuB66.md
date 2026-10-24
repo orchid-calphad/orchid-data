@@ -16,6 +16,16 @@ Table: Enthalpy of formation of LuB66 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -6.059 kJ/mol-atom | LuB66 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 39 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of LuB66
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.059 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. S. Li, M.H. Rong, L. Xu, Q. Wei, J. Wang, G.H. Rao et al., Thermodynamic assessment of the RE-B (RE = Ce, Dy, Lu) binary systems, Calphad 68, 101740 (2020). [doi:10.1016/j.calphad.2020.101740](https://doi.org/10.1016/j.calphad.2020.101740)

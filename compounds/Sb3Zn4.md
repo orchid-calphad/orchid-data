@@ -25,6 +25,25 @@ Table: Enthalpy of formation of Sb3Zn4 reported in the literature (10)
 | -9.378 kJ/mol-atom | ε-Sb3Zn4 | 600 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 23 |  |
 | -9.378 kJ/mol-atom | ε-Sb3Zn4 | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 21 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sb3Zn4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -20.551 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -12.379 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -10.7 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -5.28 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -4.35 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -17.878 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.028 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -10.707 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.378 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.378 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

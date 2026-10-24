@@ -24,6 +24,24 @@ Table: Enthalpy of formation of Ni17Yb2 reported in the literature (9)
 | -12.4 kJ/mol-atom | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
 | -12.4 unknown | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni17Yb2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -17 | kJ/mol-atom | 0.1 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -14.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -13.9 | unknown | 0.3 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 0.3 |
+| -13.9 | kJ/mol-atom | 0.3 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -13.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.4 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -12.4 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

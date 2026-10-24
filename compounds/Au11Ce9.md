@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Au11Ce9 reported in the literature (2)
 | -75.9 kJ/mol-atom | Ce9Au11 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 30 |  |
 | -73.82 kJ/mol-atom | Ce9Au11 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 29 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Au11Ce9
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -75.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -73.82 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the cerium gold binary system, Journal of Alloys and Compounds 683, 599-609 (2016). [doi:10.1016/j.jallcom.2016.05.116](https://doi.org/10.1016/j.jallcom.2016.05.116)

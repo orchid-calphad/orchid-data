@@ -24,6 +24,24 @@ Table: Enthalpy of formation of Ag2O reported in the literature (9)
 | -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 7 |  |
 | -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ag2O
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.54 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -26.53 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -22.6 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -31.1 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.68 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.99 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.44 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.81 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.81 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Thermodynamic Assessment of the Silver–Oxygen System, Journal of the American Ceramic Society 80, 3054-3060 (1997). [doi:10.1111/j.1151-2916.1997.tb03232.x](https://doi.org/10.1111/j.1151-2916.1997.tb03232.x)

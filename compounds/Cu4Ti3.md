@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Cu4Ti3 reported in the literature (2)
 | -9.65 kJ/mol (basis unstated) ± 0.88 | Cu4Ti3 | 298.15 | experimental |  | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 14 |  |
 | -14.921 kJ/mol (basis unstated) | Cu4Ti3 |  | model |  | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | [1] Turchanin 2008 | Table 3, p. 8, row 15 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu4Ti3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -9.65 | kJ/mol (basis unstated) | 0.88 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.921 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. M. A. Turchanin, P. G. Agraval, A. R. Abdulov, Thermodynamic assessment of the Cu-Ti-Zr system. I. Cu-Ti system, Powder Metall Met Ceram 47, 344-360 (2008). [doi:10.1007/s11106-008-9026-2](https://doi.org/10.1007/s11106-008-9026-2)

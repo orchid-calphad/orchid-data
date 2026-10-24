@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Mg4B reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -0.01953 kJ/mol-atom ± 0.00139 | Mg4B | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mg4B
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -0.01953 | kJ/mol-atom | 0.00139 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## Sources
 
 1. Zi-Kui Liu, Yu Zhong, D.G. Schlom, X.X. Xi, Qi Li, Computational thermodynamic modeling of the Mg-B system, Calphad 25, 299-303 (2001). [doi:10.1016/s0364-5916(01)00050-5](https://doi.org/10.1016/s0364-5916%2801%2900050-5)

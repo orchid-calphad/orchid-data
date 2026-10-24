@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ce0.21Ga0.79 reported in the literature (3)
 | -36.7 kJ/mol-atom ± 2.9 | Ce0.21Ga0.79 | 298.15 | experimental | Precipitation Cal. 1125 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
 | -46.1 kJ/mol-atom | Ce0.21Ga0.79 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ce0.21Ga0.79
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -51.5 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -36.7 | kJ/mol-atom | 2.9 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -46.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Mohamed Idbenali, Colette Servant, M’barek Feddaoui, Thermodynamic Description of the Ce-Ga Binary System, J. Phase Equilib. Diffus. 34, 467-473 (2013). [doi:10.1007/s11669-013-0261-y](https://doi.org/10.1007/s11669-013-0261-y)

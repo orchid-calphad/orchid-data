@@ -26,6 +26,26 @@ Table: Enthalpy of formation of AlNi reported in the literature (11)
 | -62.999 kJ/mol (basis unstated) | L10-Al2Ni2 |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Yang 2022 | Table 3, p. 5, row 3 |  |
 | -62.264 kJ/mol (basis unstated) | L10-Al2Ni2 |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Yang 2022 | Table 3, p. 5, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlNi
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -67.4 | kJ/mol-atom | 2.55 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -67 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -66.4 | kJ/mol-atom | 2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -66.1 | kJ/mol-atom | 1.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -66 | kJ/mol-atom | 0.13 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -62 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -58.3 | kJ/mol-atom | 1.1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -67.18 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.211 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -62.999 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -62.264 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

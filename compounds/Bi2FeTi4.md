@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Bi2FeTi4 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -25.72 kJ/mol (basis unstated) | Ti4Bi2Fe | 0 | DFT | First-principle | [Bi–Fe–Ti](https://data.orchid-project.org/systems/BI-FE-TI.html) | [1] Huang 2014 | Table 4, p. 5, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi2FeTi4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -25.72 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014). [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001)

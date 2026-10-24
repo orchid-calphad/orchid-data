@@ -21,6 +21,21 @@ Table: Enthalpy of formation of InNi2 reported in the literature (6)
 | -18.209 kJ/mol (basis unstated) | ζ(Ni2In) | 1060 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 6 |  |
 | -16.953 kJ/mol (basis unstated) | ζ(Ni2In) | 298.15 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of InNi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -18.771 | kJ/mol (basis unstated) | 0.478 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -17.86 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -17.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -18.523 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.209 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.953 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013). [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7)

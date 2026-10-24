@@ -21,6 +21,21 @@ Table: Enthalpy of formation of HfNb reported in the literature (6)
 | 8.757 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | 20.666 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfNb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.162 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 2.393 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 2.72 | kJ/mol (basis unstated) |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 5.746 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 8.757 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 20.666 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. G. Ghosh, A. van de Walle, M. Asta, G.B. Olson, Phase stability of the Hf-Nb system: From first-principles to CALPHAD, Calphad 26, 491-511 (2002). [doi:10.1016/s0364-5916(02)80003-7](https://doi.org/10.1016/s0364-5916%2802%2980003-7)

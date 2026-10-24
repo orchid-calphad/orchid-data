@@ -16,6 +16,16 @@ Table: Enthalpy of formation of AlLa reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -45.9 unknown | AlLa | 298.15 | experimental |  | [Al–La](https://data.orchid-project.org/systems/AL-LA.html) | [1] Zhou 2006; _cites Borzone 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902605-9) | Table 3, p. 6, row 49 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlLa
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -45.9 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. S.H. Zhou, R.E. Napolitano, Phase equilibria and thermodynamic limits for partitionless crystallization in the Al–La binary system, Acta Materialia 54, 831-840 (2006). [doi:10.1016/j.actamat.2005.10.013](https://doi.org/10.1016/j.actamat.2005.10.013)

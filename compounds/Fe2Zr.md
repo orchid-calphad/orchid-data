@@ -44,6 +44,44 @@ Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
 | -23 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 12 |  |
 | -23 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 34 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Zr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -32.43 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -32.43 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.63 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.63 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -29.7 | kJ/mol-atom | 5.1 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5.1 |
+| -29.7 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -24.7 | kJ/mol-atom | 3.5 | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -24.7 | kJ/mol-atom | 10.5 | 1.667e-4 | 4.1 (equilibration_other, calibrated) |  |  |  | 10.5 |
+| -40.7 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.2667 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -34 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -34 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.7333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.93 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.197 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.846 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.65 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.559 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.3333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.333 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28.2333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28.233 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.317 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.667 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.6667 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

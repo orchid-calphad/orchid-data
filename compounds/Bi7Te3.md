@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Bi7Te3 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -13.54 kJ/mol-atom | Bi7Te3 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 105 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi7Te3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -13.54 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+
 ## Sources
 
 1. Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024). [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z)

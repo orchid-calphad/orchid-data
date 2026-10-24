@@ -17,6 +17,17 @@ Table: Enthalpy of formation of CaLi2 reported in the literature (2)
 | -4.5 kJ/mol (basis unstated) ± 1.6 | CaLi2 | 298.15 | experimental |  | [Ca–Li](https://data.orchid-project.org/systems/CA-LI.html) | [1] Gröbner 2002 | Table 2, p. 3, row 1 |  |
 | -3.89 kJ/mol (basis unstated) | CaLi2 | 298.15 | unspecified |  | [Ca–Li](https://data.orchid-project.org/systems/CA-LI.html) | [1] Gröbner 2002 | Table 2, p. 3, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CaLi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -4.5 | kJ/mol (basis unstated) | 1.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -3.89 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. J. Gröbner, R. Schmid-Fetzer, A. Pisch, C. Colinet, V.V. Pavlyuk, G.S. Dmytriv et al., Phase equilibria, calorimetric study and thermodynamic modeling of Mg–Li–Ca alloys, Thermochimica Acta 389, 85-94 (2002). [doi:10.1016/s0040-6031(01)00842-5](https://doi.org/10.1016/s0040-6031%2801%2900842-5)

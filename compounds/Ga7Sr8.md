@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Ga7Sr8 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -38.5 kJ/mol-atom | Ga7Sr8 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 15 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ga7Sr8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -38.5 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013). [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002)

@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Si2Ta reported in the literature (6)
 | -41.1 kJ/mol-atom | TaSi2 | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 48 |  |
 | -46.7 kJ/mol-atom | TaSi2 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 43 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si2Ta
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -46 | kJ/mol-atom | 2.5 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -38.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -32.4 | kJ/mol-atom | 14 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 14 |
+| -22.6 | kJ/mol-atom | 7.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 7.8 |
+| -41.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

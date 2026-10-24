@@ -31,6 +31,31 @@ Table: Enthalpy of formation of Si2Sr reported in the literature (16)
 | -35.7 kJ/mol-atom | α-SrSi2 | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009 | Table 2, p. 4, row 20 |  |
 | -34.6 kJ/mol-atom | α-SrSi2 | 298.15 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si2Sr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -42.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -42.7 | kJ/mol-atom | 4.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.3 |
+| -40.3 | kJ/mol-atom | 3.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -40.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -67.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -44.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -44.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -42 | kJ/mol-atom |  | 0.5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -35.9 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -35.8 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -35.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -35.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -34.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -16,6 +16,16 @@ Table: Enthalpy of formation of CoPt3 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -12.8 per mol-atom ± 1.63 | CoPt3 | 914 | experimental |  | [Co–Pt](https://data.orchid-project.org/systems/CO-PT.html) | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CoPt3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -12.8 | per mol-atom | 1.63 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.63 |
+
 ## Sources
 
 1. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)

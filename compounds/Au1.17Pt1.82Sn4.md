@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Au1.17Pt1.82Sn4 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -40.11 kJ/mol-atom | Au1.17Pt1.82Sn4 | 298.15 | experimental |  | [Au–Pt–Sn](https://data.orchid-project.org/systems/AU-PT-SN.html) | [1] Grolier 2008; _cites Torgersen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900887-2) | Table VI, p. 13, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Au1.17Pt1.82Sn4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -40.11 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Vincent Grolier, Rainer Schmid-Fetzer, Experimental Study of Au-Pt-Sn Phase Equilibria and Thermodynamic Assessment of the Au-Pt and Au-Pt-Sn Systems, Journal of Elec Materi 37, 264-278 (2008). [doi:10.1007/s11664-007-0352-9](https://doi.org/10.1007/s11664-007-0352-9)

@@ -21,6 +21,21 @@ Table: Enthalpy of formation of PuO2 reported in the literature (6)
 | -351.933 kJ/mol-atom ± 1 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
 | -351.9 kJ/mol-atom ± 0.72 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Johnson 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990039-1) | Table 5, p. 12, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PuO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -353.433 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -352.667 | kJ/mol-atom | 1.6 | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -352 | kJ/mol-atom | 4 | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 4 |
+| -351.933 | kJ/mol-atom | 0.8 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -351.933 | kJ/mol-atom | 1 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -351.9 | kJ/mol-atom | 0.72 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -19,6 +19,19 @@ Table: Enthalpy of formation of ReSi1.8 reported in the literature (4)
 | -30.1 kJ/mol-atom | ReSi1.8 |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Chart 1973_ | Table 1, p. 3, row 11 |  |
 | -16 kJ/mol-atom | ReSi1.8 |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Choi 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990003-g) | Table 1, p. 3, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ReSi1.8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -28.8 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -31.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. G. Shao, Thermodynamic analysis of the Re–Si system, Intermetallics 9, 1063-1068 (2001). [doi:10.1016/s0966-9795(01)00110-8](https://doi.org/10.1016/s0966-9795%2801%2900110-8)

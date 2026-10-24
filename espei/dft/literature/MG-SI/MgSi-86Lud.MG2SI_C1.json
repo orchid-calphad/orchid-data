@@ -131,6 +131,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 6968.0,
@@ -157,7 +158,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-3EP2RAVNHP.c91b91",
-    "compound": "Mg2Si"
+    "compound": "Mg2Si",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6968.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6968.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 59,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
+    }
    },
    {
     "sigma": 6968.0,
@@ -184,7 +198,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-5VIZ44FGIK",
-    "compound": "Mg2Si"
+    "compound": "Mg2Si",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6968.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6968.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 59,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
+    }
    },
    {
     "sigma": 6968.0,
@@ -211,7 +238,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-AP4XHDIAMA",
-    "compound": "Mg2Si"
+    "compound": "Mg2Si",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6968.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6968.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 59,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
+    }
    },
    {
     "sigma": 6968.0,
@@ -238,7 +278,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-FYZFTH4VM6",
-    "compound": "Mg2Si"
+    "compound": "Mg2Si",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6968.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6968.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 59,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
+    }
    },
    {
     "sigma": 6968.0,
@@ -265,7 +318,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-TKZQ4AI54G.9dc254",
-    "compound": "Mg2Si"
+    "compound": "Mg2Si",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 6968.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 6968.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 59,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
+    }
    }
   ]
  }

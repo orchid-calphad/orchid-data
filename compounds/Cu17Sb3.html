@@ -52,6 +52,16 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row">-2.68 kJ/mol-atom</th><td>γ(Cu17Sb3)</td><td class="n"></td><td><span class="b b-model">model</span></td><td></td><td><a href="../systems/CU-SB-ZN.html">Cu–Sb–Zn</a></td><td><a href="#s1">[1]</a> Liu 2000</td><td>Table 2, p. 3, row 1</td><td></td></tr>
 </tbody>
 </table></div>
+<h3>Uncertainty budget</h3>
+<p>Components kept separate, in the value&#x27;s unit (literature <a href="../literature/SCHEMA.md">SCHEMA.md</a>, <a href="../literature/UNCERTAINTY_CALIBRATION.md">UNCERTAINTY_CALIBRATION.md</a>): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.</p>
+<div class="tw"><table>
+<caption>Uncertainty budget of the literature values of Cu17Sb3</caption>
+<thead><tr><th scope="col">Value</th><th scope="col">Unit</th><th scope="col">Printed</th><th scope="col">Reading</th><th scope="col">Method (class, basis)</th><th scope="col">Composition</th><th scope="col">Scatter</th><th scope="col">Conversion</th><th scope="col">Effective</th></tr></thead>
+<tbody>
+<tr><th scope="row">-0.27</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.005</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
+<tr><th scope="row">-2.68</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.005</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+</tbody>
+</table></div>
 <h2 id="sources">Sources</h2>
 <ol class="src">
 <li id="s1">X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). <a href="https://doi.org/10.1361/105497100770339608">doi:10.1361/105497100770339608</a></li>

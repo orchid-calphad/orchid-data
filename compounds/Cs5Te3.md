@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Cs5Te3 reported in the literature (2)
 | -942.2 kJ/mol (basis unstated) ± 8.3 | Cs₅Te₃ | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | -117.775 kJ/mol-atom ± 8.3 | Cs5Te3 | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cs5Te3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -942.2 | kJ/mol (basis unstated) | 8.3 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 8.3 |
+| -117.775 | kJ/mol-atom | 8.3 | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 8.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -25,6 +25,25 @@ Table: Enthalpy of formation of Bi2Gd reported in the literature (10)
 | -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
 | -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi2Gd
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.8759 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -56.8396 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -54.0316 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -53.812 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -21.5319 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

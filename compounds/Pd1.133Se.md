@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Pd1.133Se reported in the literature (3)
 | -72.68 kJ/mol (basis unstated) ± 0.82 | Pd1.133Se | 298.15 | model |  | [Pd–Se](https://data.orchid-project.org/systems/PD-SE.html) | [1] Bordier 2014; _cites Stolyarova 2011_ [doi](https://doi.org/10.1134/s0016702911030098) | Table 3, p. 7, row 9 |  |
 | -72.17 kJ/mol (basis unstated) | Pd1.133Se | 298.15 | model |  | [Pd–Se](https://data.orchid-project.org/systems/PD-SE.html) | [1] Bordier 2014 | Table 3, p. 7, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Pd1.133Se
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -72.17 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. S. Bordier, A. Chocard, S. Gossé, Thermodynamic assessment of the palladium–selenium (Pd–Se) system, Journal of Nuclear Materials 451, 120-129 (2014). [doi:10.1016/j.jnucmat.2014.03.044](https://doi.org/10.1016/j.jnucmat.2014.03.044)

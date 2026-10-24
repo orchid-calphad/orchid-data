@@ -53,6 +53,17 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row">3.773 kJ/mol-atom</th><td>Fe3Mo2 (R)</td><td class="n">298.15</td><td><span class="b b-dft">DFT</span></td><td>ab initio</td><td><a href="../systems/FE-MO.html">Fe–Mo</a></td><td><a href="#s1">[1]</a> Rajkumar 2014</td><td>Table 8, p. 6, row 7</td><td></td></tr>
 </tbody>
 </table></div>
+<h3>Uncertainty budget</h3>
+<p>Components kept separate, in the value&#x27;s unit (literature <a href="../literature/SCHEMA.md">SCHEMA.md</a>, <a href="../literature/UNCERTAINTY_CALIBRATION.md">UNCERTAINTY_CALIBRATION.md</a>): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.</p>
+<div class="tw"><table>
+<caption>Uncertainty budget of the literature values of Fe3Mo2</caption>
+<thead><tr><th scope="col">Value</th><th scope="col">Unit</th><th scope="col">Printed</th><th scope="col">Reading</th><th scope="col">Method (class, basis)</th><th scope="col">Composition</th><th scope="col">Scatter</th><th scope="col">Conversion</th><th scope="col">Effective</th></tr></thead>
+<tbody>
+<tr><th scope="row">4.037</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">2.297</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+<tr><th scope="row">3.773</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+</tbody>
+</table></div>
 <h2 id="sources">Sources</h2>
 <ol class="src">
 <li id="s1">V.B. Rajkumar, K.C. Hari Kumar, Thermodynamic modeling of the Fe–Mo system coupled with experiments and ab initio calculations, Journal of Alloys and Compounds 611, 303-312 (2014). <a href="https://doi.org/10.1016/j.jallcom.2014.05.030">doi:10.1016/j.jallcom.2014.05.030</a></li>

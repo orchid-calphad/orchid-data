@@ -32,6 +32,32 @@ Table: Enthalpy of formation of GeP reported in the literature (17)
 | 1.45 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | -0.17 kJ/mol-atom | GeP | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022 | Table II, p. 3, row 50 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of GeP
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -12.56 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -12.19 | per mol-atom | 1.5 | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.5 |
+| -13.82 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.442 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.44 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -10.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 1.44 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.4818 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -11.48 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -3.86 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -3.85941 | kJ/mol-atom |  | 0.4824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -0.072364 | kJ/mol-atom |  | 4.824e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -0.072 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 1.44728 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 1.45 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -0.17 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

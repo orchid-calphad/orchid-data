@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Sm3Ti reported in the literature (6)
 | 31.5121 kJ/mol-atom | D0₃ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 34 |  |
 | 12.7457 kJ/mol-atom | Sm₃Ti | 0 | unspecified |  | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 2, p. 13, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sm3Ti
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 21.825 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 22.2013 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 22.2109 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 28.4149 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 31.5121 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 12.7457 | kJ/mol-atom |  | 0.004824 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -24,6 +24,24 @@ Table: Enthalpy of formation of RuZr reported in the literature (9)
 | -55.8 kJ/mol (basis unstated) | RuZr |  | model | Optimization | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8 |  |
 | -53 kJ/mol (basis unstated) | RuZr |  | model | Calculation | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of RuZr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -68.65 | kJ/mol (basis unstated) | 2.5 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -55.8 | kJ/mol (basis unstated) | 2.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -88 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -88 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -61 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.95 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, Thermodynamic Assessment of the Ru-Zr Binary System, J Phs Eqil and Diff 28, 243-249 (2007). [doi:10.1007/s11669-007-9084-z](https://doi.org/10.1007/s11669-007-9084-z)

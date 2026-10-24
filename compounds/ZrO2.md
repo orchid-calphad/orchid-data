@@ -31,6 +31,31 @@ Table: Enthalpy of formation of ZrO2 reported in the literature (16)
 | -573 kJ/mol-atom | ZrO2 |  | model | Electronegativities | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [3] Arroyave 2002 | Table 2, p. 17, row 1 |  |
 | -1100.57 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | unspecified |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZrO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -1100.92 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1100.8 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -1100.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1094.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -366 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1101 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.7 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.69 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.31 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1097.46 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -573 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

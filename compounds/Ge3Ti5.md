@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ge3Ti5 reported in the literature (2)
 | -70.8 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298.15 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
 | -69.7 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298.15 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge3Ti5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -70.8 | kJ/mol-atom | 2.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -69.7 | kJ/mol-atom | 2.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

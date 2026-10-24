@@ -29,6 +29,29 @@ Table: Enthalpy of formation of Al2Sr reported in the literature (14)
 | 0.5 kJ/mol-atom | Al2Sr C16 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 11 |  |
 | 55.4 kJ/mol-atom | Al2Sr CaF2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al2Sr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -29.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -29.7 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -29 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.4 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -26 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -23 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -8.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 0.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 55.4 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Yu Zhong, C. Wolverton, Y. Austin Chang, Zi-Kui Liu, A combined CALPHAD/first-principles remodeling of the thermodynamics of Al–Sr: unsuspected ground state energies by “rounding up the (un)usual suspects”, Acta Materialia 52, 2739-2754 (2004). [doi:10.1016/j.actamat.2004.02.022](https://doi.org/10.1016/j.actamat.2004.02.022)

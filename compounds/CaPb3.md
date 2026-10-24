@@ -24,6 +24,24 @@ Table: Enthalpy of formation of CaPb3 reported in the literature (9)
 | -33.966 kJ/mol-atom | CaPb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 21 |  |
 | -32.358 kJ/mol-atom | CaPb3 | 300 | model | Optimization from \[12\] | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 20 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CaPb3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -35 | kJ/mol-atom | 0.3 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -35 | kJ/mol-atom | 0.3 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -34 | kJ/mol-atom | 0.5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -33.8 | kJ/mol-atom | 1.4 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -33.2 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -36.251 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.251 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.966 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.358 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

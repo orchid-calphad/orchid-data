@@ -16,6 +16,16 @@ Table: Enthalpy of formation of AlS reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -132.5 kJ/mol-atom ± 20 | AlS | 298.15 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlS
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -132.5 | kJ/mol-atom | 20 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 20 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

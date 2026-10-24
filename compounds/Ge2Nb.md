@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ge2Nb reported in the literature (2)
 | -33.24 kJ/mol (basis unstated) | NbGe2 | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 18 |  |
 | -37.87 kJ/mol (basis unstated) | NbGe2 | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge2Nb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.24 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.87 | kJ/mol (basis unstated) |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Claire A. Utton, Ioannis Papadimitriou, Hajime Kinoshita, Panos Tsakiropoulos, Experimental and thermodynamic assessment of the Ge-Nb-Si ternary phase diagram, Journal of Alloys and Compounds 717, 303-316 (2017). [doi:10.1016/j.jallcom.2017.04.279](https://doi.org/10.1016/j.jallcom.2017.04.279)

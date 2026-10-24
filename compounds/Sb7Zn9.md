@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Sb7Zn9 reported in the literature (6)
 | -18.6235 kJ/mol-atom | β-Zn9Sb7 | 826.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 14 |  |
 | -12.6041 kJ/mol-atom | α-Zn9Sb7 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sb7Zn9
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -20.551 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -12.379 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -4.35 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -21.3989 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.6235 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.6041 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Jiyuan Zhang, Yuan Yuan, A coupled experimental and thermodynamic assessment of the Mg-Bi-Sb and Zn-Bi-Sb ternary system and extrapolate to the Mg-Bi-Zn-Sb system, Thermochimica Acta 716, 179327 (2022). [doi:10.1016/j.tca.2022.179327](https://doi.org/10.1016/j.tca.2022.179327)

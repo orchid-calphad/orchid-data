@@ -19,6 +19,19 @@ Table: Enthalpy of formation of CrGa reported in the literature (4)
 | -7.29 kJ/mol-atom | CrGa | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46 |  |
 | -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CrGa
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -7.29 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -7.29 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.06 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Si11Yb8 reported in the literature (2)
 | -48 kJ/mol-atom ± 3.1 | Yb8Si11 | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
 | -49.1 kJ/mol-atom | Yb8Si11 | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si11Yb8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -48 | kJ/mol-atom | 3.1 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -49.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

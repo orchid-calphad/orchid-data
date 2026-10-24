@@ -21,6 +21,21 @@ Table: Enthalpy of formation of LaC2 reported in the literature (6)
 | -26.5 kJ/mol-atom | LaC2 | 298.15 | experimental | Knudsen effusion | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3 |  |
 | -19.5 kJ/mol-atom ± 3.4 | LaC2 | 298.15 | experimental | CO pressure | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of LaC2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -50.3 | kJ/mol-atom | 5.3 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 5.3 |
+| -29.7 | kJ/mol-atom | 8 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 8 |
+| -29.1 | kJ/mol-atom | 3.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -27.2 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -26.5 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -19.5 | kJ/mol-atom | 3.4 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -39,6 +39,39 @@ Table: Enthalpy of formation of MoSi2 reported in the literature (24)
 | -42.53 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | -39.609 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MoSi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -47.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -45.7 | kJ/mol-atom | 1.5 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1.5 |
+| -43.9 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -43.9 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -43.9 | kJ/mol-atom | 3 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -43.76 | kJ/mol-atom | 2.09 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -39.609 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -46.5157 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46.5157 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46.5157 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46.5157 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.7 | kJ/mol-atom | 1.5 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.6667 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.6667 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.156 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.156 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.9 | kJ/mol-atom | 3 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.816 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.76 | kJ/mol-atom | 2.09 | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.53 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.53 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.609 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

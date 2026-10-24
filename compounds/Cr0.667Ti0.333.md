@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Cr0.667Ti0.333 reported in the literature (5)
 | -6.754 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
 | -0.593 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr0.667Ti0.333
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -10 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.856 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.835 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.754 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -0.593 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002). [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569)

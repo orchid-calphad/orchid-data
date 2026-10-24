@@ -16,6 +16,16 @@ Table: Enthalpy of formation of PuC0.81 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -21.76 kJ/mol (basis unstated) | C0.81Pu | 298.15 | experimental | Calorimetric bomb | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lorenzelli 1971_ [doi](https://doi.org/10.1016/0022-1902%2871%2980650-4) | Table 1, p. 3, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PuC0.81
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -21.76 | kJ/mol (basis unstated) |  | 0.005 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+
 ## Sources
 
 1. Evelyne Fischer, Thermodynamic modeling of the C–Pu system, Calphad 32, 371-377 (2008). [doi:10.1016/j.calphad.2007.12.004](https://doi.org/10.1016/j.calphad.2007.12.004)

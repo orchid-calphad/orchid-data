@@ -17,6 +17,17 @@ Table: Enthalpy of formation of PrC2 reported in the literature (2)
 | -29.4 kJ/mol-atom ± 1.6 | PrC2 | 298.15 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
 | -28.2 kJ/mol-atom ± 3.5 | PrC2 | 298.15 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PrC2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -29.4 | kJ/mol-atom | 1.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -28.2 | kJ/mol-atom | 3.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

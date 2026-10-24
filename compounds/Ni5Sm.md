@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Ni5Sm reported in the literature (4)
 | -35.5 kJ/mol-atom | SmNi5 |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25 |  |
 | -31.6 kJ/mol-atom | SmNi5 | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 22 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni5Sm
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.3 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -27.4 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -35.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -31.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

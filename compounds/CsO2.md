@@ -23,6 +23,23 @@ Table: Enthalpy of formation of CsO2 reported in the literature (8)
 | -95.4 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 33 |  |
 | -77.7 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CsO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -78.3 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -95.4 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.4667 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -129.533 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -117.067 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -84.2667 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -95.4 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -77.7 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

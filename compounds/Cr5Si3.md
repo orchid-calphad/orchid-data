@@ -22,6 +22,22 @@ Table: Enthalpy of formation of Cr5Si3 reported in the literature (7)
 | -32.525 per mol-atom | αCr5Si3 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 5 |  |
 | -32.52 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr5Si3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41 | kJ/mol-atom |  | 0.0625 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -33.6 | per mol-atom | 1000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1000 |
+| -32.9 | kJ/mol-atom |  | 0.00625 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.57 | kJ/mol-atom |  | 6.250e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.57 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -32.525 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -32.52 | kJ/mol-atom |  | 6.250e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

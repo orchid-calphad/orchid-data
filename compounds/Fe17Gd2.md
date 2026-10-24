@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Fe17Gd2 reported in the literature (4)
 | -4.34 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 3 |  |
 | -3.65 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe17Gd2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -2.3 | kJ/mol-atom | 1.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -2.3 | kJ/mol-atom | 1.6 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.34 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -3.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

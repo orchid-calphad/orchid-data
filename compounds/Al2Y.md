@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Al2Y reported in the literature (3)
 | -50.4 kJ/mol-atom | YAl2 | 1473 | experimental | Direct synthesis calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
 | -50.4 kJ/mol-atom | YAl2 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al2Y
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -80.9 | kJ/mol-atom |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -50.4 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -50.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

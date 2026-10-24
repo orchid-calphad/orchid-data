@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Fe2Mo reported in the literature (3)
 | -1.534 kJ/mol-atom | Fe2Mo (λ) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 1 |  |
 | -0.714 kJ/mol-atom | Fe2Mo (λ) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Mo
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -0.715 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1.534 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -0.714 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

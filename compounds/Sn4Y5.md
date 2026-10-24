@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Sn4Y5 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -69.3 kJ/mol-atom ± 6.5 | Sn4Y5 | 298.15 | experimental | Calorimetric method and/or emf measurements | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html) | [1] Tang 2012; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 3, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sn4Y5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -69.3 | kJ/mol-atom | 6.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

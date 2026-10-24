@@ -35,6 +35,35 @@ Table: Enthalpy of formation of Nb3Sn reported in the literature (20)
 | 2.768 kJ/mol (basis unstated) | Nb3Sn | 1273 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 | 2.768 kJ/mol (basis unstated) | Nb3Sn | 1273 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Nb3Sn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -32.06 | kJ/mol (basis unstated) | 1.97 | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -16.7 | unspecified | 1.8 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.8 |
+| -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -16.57 | kJ/mol (basis unstated) |  | 0.005 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
+| -16.57 | kJ/mol (basis unstated) |  | 5.000e-4 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
+| -16.19 | kJ/mol (basis unstated) |  | 0.005 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
+| -16.19 | kJ/mol (basis unstated) |  | 5.000e-4 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
+| -15.2 | kJ/mol (basis unstated) | 2.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -18.307 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.241 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.876 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.095 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.564 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 2.768 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 2.768 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. C. Toffolon, C. Servant, J. C. Gachon, B. Sundman, Reassessment of the Nb-Sn system, JPE 23, 134-139 (2002). [doi:10.1361/1054971023604071](https://doi.org/10.1361/1054971023604071)

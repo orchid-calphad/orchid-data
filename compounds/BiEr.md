@@ -37,6 +37,37 @@ Table: Enthalpy of formation of BiEr reported in the literature (22)
 | -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4 |  |
 | -77.576 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of BiEr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -109 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -109 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -109 | kJ/mol-atom |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -103 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -103 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -103 | kJ/mol-atom |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -101.3 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -90 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -90 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -90 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -83.62 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -79.131 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -75 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -80.274 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -80.005 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -77.576 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

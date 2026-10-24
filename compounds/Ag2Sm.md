@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Ag2Sm reported in the literature (4)
 | -25.6 kJ/mol-atom | αAg2Sm | 298.15 | model | CALPHAD | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020 | Table 7, p. 10, row 9 |  |
 | -23.5 kJ/mol-atom | αAg2Sm | 298.15 | unspecified | IAS | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Sudavtsova 2014_ [doi](https://doi.org/10.1134/s0036024414020265) | Table 7, p. 10, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ag2Sm
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -24.1 | kJ/mol-atom | 2.4 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2.4 |
+| -40 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.5 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

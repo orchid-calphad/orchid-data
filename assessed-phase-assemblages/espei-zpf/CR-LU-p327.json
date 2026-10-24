@@ -134,5 +134,79 @@
    "aspa-5d76c2d1456abd8f",
    "aspa-9b8d851a2ff5f552"
   ]
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
+  "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
+  "points": [
+   {
+    "record_id": "aspa-9df8d67811b72594",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.029,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 251.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.500399,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-0ebfdb1f0c6adfad",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.029,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 114.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.212882,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-5d76c2d1456abd8f",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.029,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 75.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0811458,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-9b8d851a2ff5f552",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.029,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 275.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.00105345,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.455318,
+     "sigma_effective": 0.02
+    }
+   }
+  ]
  }
 }

@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ge4Li17 reported in the literature (3)
 | -29.878 kJ/mol-atom | Ge4Li17 | 0 | model | Calphad | [Ge–Li](https://data.orchid-project.org/systems/GE-LI.html) | [1] Gierlotka 2022 | Table 10, p. 8, row 23 |  |
 | -29.858 kJ/mol-atom | Ge4Li17 | 0 | DFT | ab initio | [Ge–Li](https://data.orchid-project.org/systems/GE-LI.html) | [1] Gierlotka 2022 | Table 10, p. 8, row 22 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge4Li17
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.465 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.878 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.858 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

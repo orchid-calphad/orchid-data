@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Fe2Ta11 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | 28.3285 kJ/mol-atom | Fe2Ta11 | 0 | DFT | VASP (first-principles) | [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html) | [1] Rajkumar 2015 | Table 9, p. 6, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Ta11
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 28.3285 | kJ/mol-atom |  | 3.846e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. V.B. Rajkumar, K.C. Hari Kumar, Gibbs energy modeling of Fe–Ta system by Calphad method assisted by experiments and ab initio calculations, Calphad 48, 157-165 (2015). [doi:10.1016/j.calphad.2014.12.006](https://doi.org/10.1016/j.calphad.2014.12.006)

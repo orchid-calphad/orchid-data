@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data
 
 947 accepted literature values from 4 paper(s) (experimental 584, model 354, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-U.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
+Data: [JSON part 1](https://data.orchid-project.org/literature/systems/O-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/O-U.part2.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
 Table: Accepted values by evidence class
 

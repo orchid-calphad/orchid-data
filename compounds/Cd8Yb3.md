@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Cd8Yb3 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -33.2 kJ/mol-atom | Yb3Cd8 |  | model | Calphad | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cd8Yb3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017). [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x)

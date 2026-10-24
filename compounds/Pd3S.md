@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Pd3S reported in the literature (3)
 | -24.125 per mol-atom ± 2.625 | Pd3S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
 | -25.4 per mol-atom | Pd3S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Pd3S
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -27.317 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -24.125 | per mol-atom | 2.625 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2.625 |
+| -25.4 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. Rongxiang Hu, Michael C. Gao, Ömer N. Doğan, Paul King, Michael Widom, Thermodynamic modeling of the Pd–S system supported by first-principles calculations, Calphad 34, 324-331 (2010). [doi:10.1016/j.calphad.2010.07.002](https://doi.org/10.1016/j.calphad.2010.07.002)

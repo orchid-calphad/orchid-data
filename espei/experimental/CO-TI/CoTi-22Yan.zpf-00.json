@@ -260,38 +260,234 @@
   "values_dropped": 1
  },
  "orchid_uncertainty": {
-  "unit": "K (temperature only)",
+  "unit": "K (temperature), mole fraction (composition)",
   "values": [
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 5.0,
+      "method_class": "metallography_microscopy",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-05,
+      "sigma_method": 0.005,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.005,
+      "method_class": "microanalysis",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/X_PHASE/classes/microanalysis"
+     }
+    }
    }
   ],
-  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
  },
  "orchid_zpf_encoding": {
   "line_compound_vertices_null": 8,

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of FeMn2 reported in the literature (2)
 | 18.653 kJ/mol-atom | C14 Laves FeMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
 | 18.636 kJ/mol-atom | C14 Laves FeMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 11 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of FeMn2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 18.653 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 18.636 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

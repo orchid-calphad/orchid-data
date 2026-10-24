@@ -16,6 +16,16 @@ Table: Enthalpy of formation of NaO3 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -188 kJ/mol (basis unstated) | NaO3(cr) | 298.15 | unspecified |  | [Na–O](https://data.orchid-project.org/systems/NA-O.html) | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 2, p. 4, row 15 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NaO3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -188 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. A.L. Smith, C. Guéneau, J.-L. Flèche, S. Chatain, O. Beneš, R.J.M. Konings, Thermodynamic assessment of the Na-O and Na-U-O systems: Margin to the safe operation of SFRs, The Journal of Chemical Thermodynamics 114, 93-115 (2017). [doi:10.1016/j.jct.2017.04.003](https://doi.org/10.1016/j.jct.2017.04.003)

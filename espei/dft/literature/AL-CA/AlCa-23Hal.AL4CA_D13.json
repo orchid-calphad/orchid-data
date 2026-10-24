@@ -116,6 +116,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 7020.0,
@@ -142,7 +143,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-2KOSDBV2KV.80c689",
-    "compound": "Al4Ca"
+    "compound": "Al4Ca",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7020.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7020.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 81,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-CA"
+    }
    },
    {
     "sigma": 7020.0,
@@ -169,7 +183,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-72BYE267EP.c00d79",
-    "compound": "Al4Ca"
+    "compound": "Al4Ca",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7020.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7020.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 81,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-CA"
+    }
    },
    {
     "sigma": 7020.0,
@@ -196,7 +223,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-ARDICSAW5Q.302cb1",
-    "compound": "Al4Ca"
+    "compound": "Al4Ca",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7020.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7020.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 81,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-CA"
+    }
    },
    {
     "sigma": 7020.0,
@@ -223,7 +263,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-J5T6TBKDML.ce13f5",
-    "compound": "Al4Ca"
+    "compound": "Al4Ca",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7020.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7020.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 81,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-CA"
+    }
    }
   ]
  }

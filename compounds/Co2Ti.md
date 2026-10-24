@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Co2Ti reported in the literature (2)
 | -34.1 kJ/mol (basis unstated) | Co2Ti | 298.15 | experimental |  | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html) | [1] Wu 2020; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 7, p. 9, row 4 |  |
 | -32.2062 kJ/mol (basis unstated) | Co2Ti | 298.15 | model |  | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html) | [1] Wu 2020 | Table 7, p. 9, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Co2Ti
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -34.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -32.2062 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020). [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995)

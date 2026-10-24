@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Au4Er reported in the literature (2)
 | -60.3 kJ/mol-atom | Au4Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
 | -59.2 kJ/mol-atom | Au4Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Au4Er
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -60.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -59.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. H.Q. Dong, X.M. Tao, H.S. Liu, T. Laurila, M. Paulastro-Kröckel, Thermodynamic assessment of Au–La and Au–Er binary systems, Journal of Alloys and Compounds 509, 4439-4444 (2011). [doi:10.1016/j.jallcom.2011.01.072](https://doi.org/10.1016/j.jallcom.2011.01.072)

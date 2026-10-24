@@ -35,6 +35,35 @@ Table: Enthalpy of formation of Si3V5 reported in the literature (20)
 | -53.73 kJ/mol-atom | V5Si3 | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 20 |  |
 | -57.6 kJ/mol-atom | V5Si3 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013 | Table 2, p. 6, row 27 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si3V5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -59 | kJ/mol-atom | 2 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -59 | kJ/mol-atom | 2 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -59 | kJ/mol-atom | 2 | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -58.1 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -58.1 | kJ/mol-atom | 3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -54.2 | kJ/mol-atom | 2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -54.2 | kJ/mol-atom | 2 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -50.5 | kJ/mol-atom | 1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -50.48 | kJ/mol-atom | 1 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -55.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45.95 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.584 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.465 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -10.955 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -57.6 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -53.73 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -57.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Al2Ti reported in the literature (6)
 | -41.1038 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Tang 2011_ [doi](https://doi.org/10.1016/j.commatsci.2010.12.001) | Table 2, p. 6, row 10 |  |
 | -27.8233 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 2, p. 6, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al2Ti
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41.1038 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -39.0556 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -27.8233 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.4735 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.1038 | kJ/mol-atom |  | 5.000e-7 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.8233 | kJ/mol-atom |  | 5.000e-9 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

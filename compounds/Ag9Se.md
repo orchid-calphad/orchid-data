@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Ag9Se reported in the literature (4)
 | 150.532 kJ/mol-atom | β-Ag₁₈Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 17 |  |
 | 150.532 kJ/mol-atom | β-Ag18Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ag9Se
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 149.37 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 149.37 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 150.532 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 150.532 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Zhi Li, Shun-Li Shang, Jianyun Shen, Po-Hsien Liao, Zi-Kui Liu, Timothy J. Anderson, Thermodynamic Assessment of the Ag-Se System Aided by First-Principles Calculations, J. Phase Equilib. Diffus. 39, 870-881 (2018). [doi:10.1007/s11669-018-0683-7](https://doi.org/10.1007/s11669-018-0683-7)

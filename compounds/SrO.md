@@ -22,6 +22,22 @@ Table: Enthalpy of formation of SrO reported in the literature (7)
 | -592.04 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
 | -591.01 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SrO
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -643 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
+| -604.3 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -595 | kJ/mol (basis unstated) |  | 0.5 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
+| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -592.04 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -591.01 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Daniel Risold, Bengt Hallstedt, Ludwig J. Gauckler, The strontium-oxygen system, Calphad 20, 353-361 (1996). [doi:10.1016/s0364-5916(96)00037-5](https://doi.org/10.1016/s0364-5916%2896%2900037-5)

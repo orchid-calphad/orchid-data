@@ -19,6 +19,19 @@ Table: Enthalpy of formation of SnTe reported in the literature (4)
 | -29.7 kJ/mol-atom | SnTe | 298.15 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table II, p. 7, row 3 |  |
 | -30.05 kJ/mol-atom | SnTe | 298.15 | model |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010 | Table II, p. 7, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SnTe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -32.1 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.35 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -29.7 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.05 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

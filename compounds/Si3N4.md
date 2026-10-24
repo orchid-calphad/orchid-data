@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Si3N4 reported in the literature (2)
 | -105.097 kJ/mol-atom ± 25.08 | α-Si3N4 | 298.15 | experimental |  | [N–Si](https://data.orchid-project.org/systems/N-SI.html) | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
 | -106.393 kJ/mol-atom ± 29.3 | α-Si3N4 | 298.15 | unspecified |  | [N–Si](https://data.orchid-project.org/systems/N-SI.html) | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si3N4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -105.097 | kJ/mol-atom | 25.08 | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 25.08 |
+| -106.393 | kJ/mol-atom | 29.3 | 7.143e-5 | 4.1 (unknown, calibrated) |  |  |  | 29.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -19,6 +19,19 @@ Table: Enthalpy of formation of ZrB reported in the literature (4)
 | -67.1 unknown | ZrB(FeB-type) | 0 | DFT | First-principles | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008 | Table 2, p. 5, row 2 |  |
 | -39.6 unknown | ZrB(NaCl-type) | 0 | DFT | First-principles | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008 | Table 2, p. 5, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZrB
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -79.3 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -72.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -67.1 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -39.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. Tatsuya Tokunaga, Ken Terashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Phase Equilibria in the Fe-Zr-B System, Mater. Trans. 49, 2534-2540 (2008). [doi:10.2320/matertrans.mb200809](https://doi.org/10.2320/matertrans.mb200809)

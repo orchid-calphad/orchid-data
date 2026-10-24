@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Ba0.5Pb0.5 reported in the literature (5)
 | -76.223 kJ/mol-atom | Ba0.5Pb0.5 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 11 |  |
 | -74.454 kJ/mol-atom | Ba0.5Pb0.5 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ba0.5Pb0.5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -75.3 | kJ/mol-atom | 12 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 12 |
+| -73 | kJ/mol-atom | 2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -101 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -76.223 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -74.454 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

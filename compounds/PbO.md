@@ -20,6 +20,20 @@ Table: Enthalpy of formation of PbO reported in the literature (5)
 | -109.704 kJ/mol-atom | PbO-L | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
 | -109.031 kJ/mol-atom | PbO-M | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PbO
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -109.031 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -109.528 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -108.721 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -109.704 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -109.031 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

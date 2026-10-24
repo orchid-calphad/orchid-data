@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Nb5C2 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -15.8511 kJ/mol-atom | Nb5C2 | 0 | DFT | Ab initio | [C–Nb](https://data.orchid-project.org/systems/C-NB.html) | [1] Khvan 2012 | Table 1, p. 4, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Nb5C2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.8511 | kJ/mol-atom |  | 5.000e-6 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. A.V. Khvan, B. Hallstedt, K. Chang, Thermodynamic assessment of Cr–Nb–C and Mn–Nb–C systems, Calphad 39, 54-61 (2012). [doi:10.1016/j.calphad.2012.09.002](https://doi.org/10.1016/j.calphad.2012.09.002)

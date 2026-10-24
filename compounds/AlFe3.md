@@ -23,6 +23,23 @@ Table: Enthalpy of formation of AlFe3 reported in the literature (8)
 | -14.69 kJ/mol (basis unstated) | Fe3Al A2 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [2] Berche 2018 | Table 1, p. 4, row 2 |  |
 | 4.09 kJ/mol (basis unstated) | Fe3Al D03 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [2] Berche 2018 | Table 1, p. 4, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlFe3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -19.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -19.21 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -19.11 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -18.87 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -18.73 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -14.9 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -14.69 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 4.09 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Marlena Ostrowska, Gabriele Cacciamani, Critical evaluation and thermodynamic modeling of the Al-Co-Fe system, Journal of Alloys and Compounds 794, 553-568 (2019). [doi:10.1016/j.jallcom.2019.04.170](https://doi.org/10.1016/j.jallcom.2019.04.170)

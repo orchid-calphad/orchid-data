@@ -28,6 +28,28 @@ Table: Enthalpy of formation of Zn3P2 reported in the literature (13)
 | -44.66 kJ/mol-atom ± 1500 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 5 |  |
 | -34.64 kJ/mol-atom ± 10400 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Zn3P2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -46.06 | kJ/mol-atom | 6300 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 6300 |
+| -46.06 | kJ/mol-atom | 6.3 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 6.3 |
+| -44.66 | kJ/mol-atom | 1.5 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -34.64 | kJ/mol-atom | 10.4 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 10.4 |
+| -33.06 | kJ/mol-atom | 20.9 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 20.9 |
+| -33.06 | kJ/mol-atom | 20900 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 20900 |
+| -181.78 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -151.839 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.356 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -36.356 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.3678 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -44.66 | kJ/mol-atom | 1500 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 1500 |
+| -34.64 | kJ/mol-atom | 10400 | 1.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 10400 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

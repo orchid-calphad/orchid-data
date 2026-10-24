@@ -21,6 +21,21 @@ Table: Enthalpy of formation of CaSn reported in the literature (6)
 | -63.6393 kJ/mol-atom | CaSn | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 27 |  |
 | -66.3191 kJ/mol-atom | CaSn | 298.15 | DFT | First-principles | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 25 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CaSn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -79.5 | kJ/mol-atom | 10.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 10.5 |
+| -62 | kJ/mol-atom | 1 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -72 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -70.2455 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -63.6393 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -66.3191 | kJ/mol-atom |  | 5.000e-5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

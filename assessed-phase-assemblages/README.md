@@ -57,6 +57,14 @@ lines). Fields too thin for that margin have no point (listed in `exclusions.jso
 stable at (T, x, 1 atm)" then does not depend on where exactly the expert drew the boundaries. Coordinate uncertainty
 comes from the axis calibration (printed tick labels vs the fitted axis) plus half a raster cell.
 
+Each record carries an `uncertainty_budget` with the components kept separate, in the same structure as the ORCHID
+literature release (PI decision 2026-10-24): digitisation (`sigma_reading`, the coordinate uncertainty above), a
+handbook-class prior (`sigma_method`: 10 K and 0.02 mole fraction for an expert-drawn assessed diagram; an ORCHID
+assumption, the same as the release's model / assessment priors, not fitted) and the distance to the nearest drawn
+boundary (`sigma_boundary_margin`, reported but not combined, since boundary positions carry low credence);
+`sigma_effective` = max(digitisation, handbook prior). The ESPEI datasets carry the per-point components in
+`orchid_uncertainty_budget` (ZPF data are not weighted by a sigma in ESPEI).
+
 Two-phase points carry the two phases with **unknown compositions** (`phase_compositions: null`; ESPEI null vertices
 with a `__HYPERPLANE__` vertex at the point's overall composition). A separate `tie_line` block gives the isotherm
 through the point intersected with the drawn boundaries, with the caveat that it is drawing-based and of low credence

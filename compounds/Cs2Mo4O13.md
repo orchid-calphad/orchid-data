@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Cs2Mo4O13 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -201.453 kJ/mol-atom | Cs2Mo4O13 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cs2Mo4O13
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -201.453 | kJ/mol-atom |  | 0.002632 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. A.L. Smith, T.N. Pham Thi, C. Guéneau, J.-C. Dumas, E. Epifano, W. van Burik et al., Thermodynamic modelling assessment of the ternary system Cs-Mo-O, Calphad 75, 102350 (2021). [doi:10.1016/j.calphad.2021.102350](https://doi.org/10.1016/j.calphad.2021.102350)

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of NbZn3 reported in the literature (2)
 | -15.192 kJ/mol (basis unstated) | NbZn3 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 | -13.57 kJ/mol (basis unstated) | NbZn3 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NbZn3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.192 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.57 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Zhaohui Long, Jin Gong, Jing Ding, Chihua Tang, Zhi Li, Fucheng Yin, Thermodynamic Assessment of Zn-Fe-Nb Ternary System, J. Phase Equilib. Diffus. 37, 293-300 (2016). [doi:10.1007/s11669-016-0457-z](https://doi.org/10.1007/s11669-016-0457-z)

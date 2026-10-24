@@ -18,6 +18,18 @@ Table: Enthalpy of formation of AmO2 reported in the literature (3)
 | -310.733 kJ/mol-atom ± 3 | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 | -310.567 kJ/mol-atom | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AmO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -310.767 | kJ/mol-atom | 3 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -310.733 | kJ/mol-atom | 3 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -310.567 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. P. Gotcu-Freis, J.-Y. Colle, C. Guéneau, N. Dupin, B. Sundman, R.J.M. Konings, A thermodynamic study of the Pu–Am–O system, Journal of Nuclear Materials 414, 408-421 (2011). [doi:10.1016/j.jnucmat.2011.05.014](https://doi.org/10.1016/j.jnucmat.2011.05.014)

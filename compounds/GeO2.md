@@ -29,6 +29,29 @@ Table: Enthalpy of formation of GeO2 reported in the literature (14)
 | -554.7 kJ/mol (basis unstated) ± 1 | GeO2 hexagonal | 298.15 | model | Assessed | [Ge–O](https://data.orchid-project.org/systems/GE-O.html) | [1] Dinsdale 2015; _cites Gurvich 1990_ | Table 4, p. 4, row 12 |  |
 | -553.82 kJ/mol (basis unstated) | GeO2 hexagonal | 298.15 | model | Assessed | [Ge–O](https://data.orchid-project.org/systems/GE-O.html) | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 4, p. 4, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of GeO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -574 | kJ/mol (basis unstated) |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -556 | kJ/mol (basis unstated) | 8 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 8 |
+| -556 | kJ/mol (basis unstated) | 5 | 0.5 | 4.1 (equilibration_other, calibrated) |  |  |  | 5 |
+| -555.4 | kJ/mol (basis unstated) | 2 | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -553 | kJ/mol (basis unstated) | 5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
+| -540.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -538 | kJ/mol (basis unstated) |  | 0.5 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -536 | kJ/mol (basis unstated) |  | 0.5 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -556.5 | kJ/mol (basis unstated) | 2 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -556.1 | kJ/mol (basis unstated) | 2 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -553.82 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. A. T. Dinsdale, A. Akhmetova, A. V. Khvan, N. Aristova, A Critical Assessment of Thermodynamic and Phase Diagram Data for the Ge-O System, J. Phase Equilib. Diffus. 36, 254-261 (2015). [doi:10.1007/s11669-015-0379-1](https://doi.org/10.1007/s11669-015-0379-1)

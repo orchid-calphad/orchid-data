@@ -18,6 +18,18 @@ Table: Enthalpy of formation of LaRu2 reported in the literature (3)
 | -10.3 kJ/mol-atom ± 2.8 | LaRu2 | 298.15 | experimental | DSC | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
 | -13.801 kJ/mol-atom | LaRu2 |  | model | Optimization | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of LaRu2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -11 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -10.3 | kJ/mol-atom | 2.8 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2.8 |
+| -13.801 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

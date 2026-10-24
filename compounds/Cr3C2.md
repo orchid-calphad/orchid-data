@@ -32,6 +32,32 @@ Table: Enthalpy of formation of Cr3C2 reported in the literature (17)
 | -71.4 kJ/mol (basis unstated) | Cr3C2 | 298.15 | model | estimation (1987) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Teng 2004; _cites Andersson 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990045-9) | Table II, p. 4, row 16 |  |
 | -68.97 kJ/mol (basis unstated) | Cr3C2 | 298.15 | model | estimation (1961) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Teng 2004; _cites Storms 1967_ | Table II, p. 4, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr3C2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -114.4 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -102.1 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -95.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -77.7 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -76.7 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -72.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -71.7 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -66.9 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -65.5 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -64.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -63.8 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
+| -56.8 | kJ/mol (basis unstated) |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -56.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -87.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -85.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -71.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -68.97 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. L. D. Teng, K. G. Lu, R. E. Aune, S. Seetharaman, Thermodynamic investigations of Cr3C2 and reassessment of the Cr-C system, Metall Mater Trans A 35, 3673-3680 (2004). [doi:10.1007/s11661-004-0273-7](https://doi.org/10.1007/s11661-004-0273-7)

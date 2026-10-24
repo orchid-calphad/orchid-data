@@ -23,6 +23,23 @@ Table: Enthalpy of formation of Cu2O reported in the literature (8)
 | -56.9033 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
 | -56.7533 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu2O
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -59.97 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -57.7267 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -56.9433 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -56.7633 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -54.95 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -57.4933 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.9033 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.7533 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

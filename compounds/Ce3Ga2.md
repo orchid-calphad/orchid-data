@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ce3Ga2 reported in the literature (2)
 | -69.036 kJ/mol-atom | Ce3Ga2 | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 19 |  |
 | -64.6 kJ/mol-atom | Ce3Ga2 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ce3Ga2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -69.036 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

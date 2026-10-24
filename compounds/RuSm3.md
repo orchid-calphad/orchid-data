@@ -22,6 +22,22 @@ Table: Enthalpy of formation of RuSm3 reported in the literature (7)
 | -23.031 kJ/mol-atom | Sm3Ru |  | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 18 |  |
 | -22.261 kJ/mol-atom | Sm3Ru | 0 | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of RuSm3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -37.5761 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.5979 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.2407 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.4787 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.3059 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.031 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -22.261 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

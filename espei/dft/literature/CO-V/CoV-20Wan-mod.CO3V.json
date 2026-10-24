@@ -272,6 +272,7 @@
    "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
   },
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
     "sigma": 3522.0,
@@ -298,7 +299,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-2OVRJO3IAD",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -325,7 +339,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-6SODOQ4MGY",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -352,7 +379,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-6ZZU27SDIK",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -379,7 +419,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-7C2YMW7A77",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -406,7 +459,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BNGDYTKBIZ",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -433,7 +499,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-BO42QNAHFH",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -460,7 +539,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-DD374OL74D",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -487,7 +579,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-DDIXQSLYF6",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -514,7 +619,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-JHN7POPRKN",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -541,7 +659,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-NUGYEFNDZM",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -568,7 +699,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-PHRU4NQ5CT",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -595,7 +739,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-QAIII4KUMU",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -622,7 +779,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-SZ65PHMG2Q",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -649,7 +819,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-UL2KXUEW66",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -676,7 +859,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-VLFCSVZM2Q",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    },
    {
     "sigma": 3522.0,
@@ -703,7 +899,20 @@
      "unit": "kJ/mol-atom"
     },
     "id": "ORC-YZJXUT3IKL",
-    "compound": "Co3V"
+    "compound": "Co3V",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 3522.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3522.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 90,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|CO-V"
+    }
    }
   ]
  }

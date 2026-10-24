@@ -38,7 +38,8 @@ from `values` and the matching `conditions` entries.
 | `orchid_phase_assignment` | literature property datasets: `phases`, `basis` (counts: `printed_labels`, `caption_names_liquid`), `rule`, `outside_calculated_field[]` {id, phase, x, T_K} (flag only), `endmember` {tdb, path, sha256, phase, reference} for compound formation datasets |
 | `orchid_certification` | literature datasets: `basis` (`pycalphad_invariant_agreement`), `all_values_certified`, `n_certified`, `values[]` {id, espei_certified, calphad_check}; tag `calphad_certified` when all values are certified |
 | `orchid_reference_state` | activities (E5): `element`, `phase` written, `basis` (`printed` / `not_printed_implied`), `quote`, `where`, `record_reference_state_agrees`, `written_before_audit` |
-| `orchid_weight_floor` | experimental thermochemical data (E6, optional): `suggested_weight` = min(weight, 1), `weight_written`, `changes_weight`, `sigma_floor` (+ unit), `rule` |
+| `orchid_weight_floor` | thermochemical data (E6, **superseded** 2026-10-24): `superseded` (text), `suggested_weight` (the former opt-in suggestion), `weight_before_2026_10_24`, `weight_written` (from sigma_effective), `sigma_floor` (+ unit), `rule` |
+| `orchid_uncertainty_budget` | phase-constraint datasets (assessed/, derived/): per point, the temperature and composition budget (components as in `orchid_uncertainty.values[].budget`) |
 | `orchid_zpf_encoding` | ZPF (E2): number of line-compound vertices written with composition null, hyperplanes added, rule |
 | `orchid.observations[i].also_reported_as` | E3: the same ZPF region from other datasets (`id`, `paper`, `measured_in`, `dataset`) |
 | `orchid.observations[i].also_read_as` | E4: ids of the same printed row read again (not written as separate values) |
@@ -48,18 +49,19 @@ from `values` and the matching `conditions` entries.
 
 ## Uncertainties (`orchid_uncertainty`)
 
-`{unit, default_sigma {value, name}, weight_rule, values[]}`, one entry per value in value order:
+`{unit, default_sigma {value, name}, weight_rule, sigma_rule, values[]}`, one entry per value in value order:
 
 | field | meaning |
 |---|---|
-| `sigma` | the value's standard uncertainty in the dataset's units (`unit`), or `null` when none is available (never invented) |
-| `sigma_basis` | `printed`; `dft_calibrated`; `espei_default_experimental (assumed, not printed)`; `none (...)` with the reason (model-calculated; no ESPEI default); `zpf (...)` |
+| `sigma` | the printed standard uncertainty in the dataset's units (`unit`) (DFT: the calibrated sigma), or `null` when none was printed (never invented) |
+| `sigma_basis` | `printed`; `not printed`; `dft_calibrated`; `zpf (...)` |
+| `budget` | the uncertainty budget in the dataset's units: `sigma_printed`, `sigma_reading`, `sigma_method`, `sigma_composition`, `sigma_scatter`, `sigma_conversion`, `sigma_effective` (activities: also `*_mu_J_per_mol`), `method_class`, `method_basis` (calibrated / prior / calibrated vs experiment), `method_n_pairs`, `method_entry` (entry of experimental/CALIBRATION_EXPERIMENT.json; DFT: dft/CALIBRATION.json), `sigma_effective_reason` when none; ZPF: `{temperature_K, composition_mole_fraction}` budgets |
+| `sigma_effective_used` | the sigma_effective the weight uses (ESPEI's default, with `sigma_effective_note`, only where the budget has none) |
 | `printed` | `{value, unit, interval, coverage, lower?, upper?, note?}`: printed uncertainty as published (`coverage`: `1sigma_assumed` for a bare ±x, `range_half_width` for a printed range) |
-| `sigma_printed`, `sigma_assumed` | for experimental values without a printed uncertainty: `null` and ESPEI's experimental default (or `null` where ESPEI has none) |
 | `sigma_mu_J_per_mol` | activities: R T sigma_a / a, the chemical-potential sigma ESPEI's activity residual uses |
 | `calibration` | DFT: `{source, stratum, used (stratum or source_level), leave_system_out, system_left_out, n, sigma_robust_kJ, bias_median_kJ_not_applied, ci95_sigma_robust_kJ_full_stratum, n_full_stratum}` |
 | `temperature_sigma_K`, `temperature_sigma_basis` | ZPF: printed temperature uncertainty |
-| `weight_used` | the ESPEI weight that applies to this value; `weight_per_value_equivalent` = default sigma / this value's sigma |
+| `weight_used` | the ESPEI weight that applies to this value; `weight_per_value_equivalent` = default sigma / this value's sigma_effective |
 | `printed_uncertainty_not_used` | model-calculated values: a printed uncertainty kept as printed, not used |
 
 Caveat codes (published flags of the value): `magnitude_suspect`, `system_mismatch`, `source_disputed`,

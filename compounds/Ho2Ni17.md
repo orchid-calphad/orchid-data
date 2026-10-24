@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Ho2Ni17 reported in the literature (5)
 | -16 kJ/mol-atom | Ho2Ni17 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 34 |  |
 | -16 kJ/mol-atom | Ho2Ni17 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 31 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ho2Ni17
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -23.1 | kJ/mol-atom | 0.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -21.33 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.33 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -19,6 +19,19 @@ Table: Enthalpy of formation of MnH3 reported in the literature (4)
 | 34.8312 kJ/mol-atom | MnH3 |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
 | 36.2785 kJ/mol-atom | MnH3 |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MnH3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 3.48 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 3.62 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 34.8312 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 36.2785 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Yongpeng Liang, Shuhong Liu, Yong Du, Thermodynamic Assessment of the Mn-H and Mg-Mn-H Systems, J. Phase Equilib. Diffus. 39, 186-195 (2018). [doi:10.1007/s11669-018-0622-7](https://doi.org/10.1007/s11669-018-0622-7)

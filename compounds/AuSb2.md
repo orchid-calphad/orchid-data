@@ -29,6 +29,29 @@ Table: Enthalpy of formation of AuSb2 reported in the literature (14)
 | -5.41 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 4 |  |
 | -5.148 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [1] Gierlotka 2013 | Table 2, p. 2, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AuSb2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -5.4 | kJ/mol (basis unstated) | 0.6 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.9 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.9 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.35 | kJ/mol (basis unstated) | 0.13 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.35 | kJ/mol (basis unstated) | 0.13 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -3.14 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -3.14 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -6.364 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.364 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.54 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.41 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.41 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.148 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Wojciech Gierlotka, Thermodynamic description of the binary Au–Sb and ternary Au–In–Sb systems, Journal of Alloys and Compounds 579, 533-539 (2013). [doi:10.1016/j.jallcom.2013.04.186](https://doi.org/10.1016/j.jallcom.2013.04.186)

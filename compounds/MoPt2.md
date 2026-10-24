@@ -24,6 +24,24 @@ Table: Enthalpy of formation of MoPt2 reported in the literature (9)
 | -34.707 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 3 |  |
 | -4.049 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MoPt2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -36.9 | kJ/mol (basis unstated) | 1.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -34.639 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.053 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -34.707 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -4.049 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. J.-M. Fiorani, M. Siblani, J.-M. Joubert, C. Barreteau, J.-C. Crivello, N. David et al., Thermodynamic modeling of the Mo–Pt system based on the NACEF approach, Calphad 84, 102665 (2024). [doi:10.1016/j.calphad.2024.102665](https://doi.org/10.1016/j.calphad.2024.102665)

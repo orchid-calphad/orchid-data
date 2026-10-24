@@ -52,6 +52,52 @@ Table: Enthalpy of formation of Mn3O4 reported in the literature (37)
 | 198.397 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 9 |  |
 | 201.206 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Ulich 1940_ | Table 1, p. 5, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Mn3O4
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -206.35 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -206.35 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -201.266 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -201.266 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -201.206 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -201.206 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -196.78 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -196.78 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -196.181 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -196.181 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| 196.181 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 196.78 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 198.156 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 198.216 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 198.364 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 201.266 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 206.35 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -198.397 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.397 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.216 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.216 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.2 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.2 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.156 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.156 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.014 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -198.014 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -197.534 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -197.534 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 197.534 | kJ/mol-atom |  | 7.143e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 197.914 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 198.014 | kJ/mol-atom |  | 0.007143 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 198.2 | kJ/mol-atom |  | 0.007143 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 198.397 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 201.206 | kJ/mol-atom |  | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

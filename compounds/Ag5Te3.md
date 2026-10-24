@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Ag5Te3 reported in the literature (4)
 | -12.8 kJ/mol-atom | αAg5Te3 | 523 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 7 |  |
 | -4.356 kJ/mol-atom | βAg5Te3 | 693 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ag5Te3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -8.45 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -8.07 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -12.8 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.356 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Wojciech Gierlotka, Thermodynamic assessment of the Ag–Te binary system, Journal of Alloys and Compounds 485, 231-235 (2009). [doi:10.1016/j.jallcom.2009.06.028](https://doi.org/10.1016/j.jallcom.2009.06.028)

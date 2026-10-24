@@ -24,6 +24,24 @@ Table: Enthalpy of formation of Cs2O reported in the literature (9)
 | -115.333 kJ/mol-atom | Cs2O | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 16 |  |
 | -115.333 kJ/mol-atom | Cs2O | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cs2O
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -116.133 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -115.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -115.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -122.367 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -117.4 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -116.933 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

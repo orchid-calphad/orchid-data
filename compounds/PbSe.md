@@ -22,6 +22,22 @@ Table: Enthalpy of formation of PbSe reported in the literature (7)
 | -95.1 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 39_ | Table IX, p. 8, row 5 |  |
 | -99.78 kJ/mol (basis unstated) | PbSe |  | model | Calculated | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012 | Table IX, p. 8, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PbSe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -105 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -100.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -99.5 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -99.26 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -96.3 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -95.1 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -99.78 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Yajun Liu, Zhitao Kang, Guang Sheng, Lijun Zhang, Jiang Wang, Zhaohui Long, Phase Equilibria and Thermodynamic Basis for the Cd-Se and Pb-Se Binary Systems, Journal of Elec Materi 41, 1915-1923 (2012). [doi:10.1007/s11664-012-2016-7](https://doi.org/10.1007/s11664-012-2016-7)

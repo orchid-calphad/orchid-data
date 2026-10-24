@@ -17,6 +17,17 @@ Table: Enthalpy of formation of CdTe reported in the literature (2)
 | -100.708 kJ/mol (basis unstated) | CdTe | 298.15 | model |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [1] Jianrong 1995 | Table 4, p. 13, row 2 |  |
 | -100.663 kJ/mol (basis unstated) | CdTe | 298.15 | unspecified |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [1] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CdTe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -100.708 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -100.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Yang Jianrong, N.J. Silk, A. Watson, A.W. Bryant, B.B. Argent, Thermodynamic and phase diagram assessment of the Cd-Te and Hg-Te systems, Calphad 19, 399-414 (1995). [doi:10.1016/0364-5916(95)00038-g](https://doi.org/10.1016/0364-5916%2895%2900038-g)

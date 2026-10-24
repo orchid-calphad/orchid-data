@@ -117,6 +117,48 @@ dataset_info:
     dtype: string
   - name: uncertainty_note
     dtype: string
+  - name: sigma_printed
+    dtype: float64
+  - name: sigma_printed_kind
+    dtype: string
+  - name: sigma_reading
+    dtype: float64
+  - name: sigma_method
+    dtype: float64
+  - name: sigma_method_class
+    dtype: string
+  - name: sigma_method_basis
+    dtype: string
+  - name: sigma_method_n_pairs
+    dtype: int32
+  - name: sigma_method_floor
+    dtype: float64
+  - name: sigma_method_floor_unit
+    dtype: string
+  - name: sigma_composition
+    dtype: float64
+  - name: sigma_scatter
+    dtype: float64
+  - name: sigma_conversion
+    dtype: float64
+  - name: sigma_effective
+    dtype: float64
+  - name: sigma_unit
+    dtype: string
+  - name: sigma_rule
+    dtype: string
+  - name: uncertainty_calibration
+    dtype: string
+  - name: sigma_x_effective
+    dtype: float64
+  - name: sigma_x_method
+    dtype: float64
+  - name: sigma_x_method_class
+    dtype: string
+  - name: sigma_T_condition_effective
+    dtype: float64
+  - name: uncertainty_budget
+    dtype: string
   - name: bound
     dtype: string
   - name: temperature_bound_K
@@ -352,7 +394,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73538
-  download_size: 6211248
+  download_size: 7096260
 - config_name: papers
   features:
   - name: id
@@ -860,7 +902,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 23131
-  download_size: 1658343
+  download_size: 1672893
 - config_name: bibliography_papers
   features:
   - name: id
@@ -960,7 +1002,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537288
+  download_size: 1537303
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1023,7 +1065,7 @@ format.
 
 | config | rows | content |
 |---|---:|---|
-| `literature_values` | 73,538 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
+| `literature_values` | 73,538 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, uncertainty budget (`sigma_*` columns), ML split |
 | `papers` | 4,880 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
 | `dft_parity` | 7,696 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
@@ -1035,6 +1077,39 @@ format.
 | `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
 | `bibliography_edges` | 60,237 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
+
+### Uncertainty budget (`literature_values.sigma_*`, `uncertainty_budget`)
+
+Every value carries an uncertainty budget (PI decision 2026-10-24), with the components kept separate so that
+users can recombine them; printed values and printed uncertainties are never altered. In the literature JSON
+(`literature/SCHEMA.md`, field `uncertainty_budget`) each record has one budget per measured quantity (`value`; the
+printed phase `composition`; the equilibration `temperature_K` of phase-composition / assemblage observations);
+the Parquet table flattens the value quantity into typed columns and keeps the full budget as JSON:
+
+| column | meaning (unit: `sigma_unit`, the value's unit) |
+|---|---|
+| `sigma_printed`, `sigma_printed_kind` | uncertainty as printed by the source (null if none; ORCHID placeholders `stated_default` / `reading_resolution` are not printed sigmas); kind: `plus_minus_coverage_not_stated` (taken as 1 sigma), `range_half_width`, `standard_deviation`, `standard_error` |
+| `sigma_reading` | half of the last printed digit |
+| `sigma_method`, `sigma_method_class`, `sigma_method_basis`, `sigma_method_n_pairs`, `sigma_method_floor`, `sigma_method_floor_unit` | method-class systematic component: the robust between-study scatter of independent measurements of the same state by the same method class in ORCHID (`calibrated`, n pairs), or a documented prior (`prior`); DFT values: the calibrated sigma_DFT; model-calculated values: the model class's robust deviation from experiment (`calibrated`) or a prior. `sigma_method_floor` is in the calibration's canonical unit (`sigma_method_floor_unit`, e.g. kJ/mol-atom, K, mole fraction, or relative) |
+| `sigma_composition` | attribution / composition offset (value measured at a historical formula of the phase: \|dx\| x hull slope) |
+| `sigma_scatter` | between-study scatter of a page-checked mutually inconsistent group |
+| `sigma_conversion` | reference-state / unit conversion contribution (e.g. a lattice-stability conversion) |
+| `sigma_effective` | max( sqrt( max(printed, reading, method)^2 + composition^2 + conversion^2 ), scatter ): the recommended sigma (`sigma_rule`) |
+| `uncertainty_calibration` | calibration version and SHA-256 prefix of `literature/UNCERTAINTY_CALIBRATION.json` |
+| `sigma_x_effective`, `sigma_x_method`, `sigma_x_method_class` | the same for the row's phase compositions (mole fraction) |
+| `sigma_T_condition_effective` | the same for the equilibration temperature of a phase-composition / assemblage row (K) |
+| `uncertainty_budget` | the full budget (JSON string) |
+
+Rule: the method floor is a between-study scatter and already contains each study's statistical error, so it is
+not added to the printed sigma in quadrature (no double counting); the larger is used. Composition offset and
+conversion are independent and added in quadrature; a group scatter replaces the result when larger. Method floors
+(`literature/UNCERTAINTY_CALIBRATION.md`): for each value type and method class, independent measurements of the
+same state from different primary sources (one value per source, re-listings counted once), robust sigma =
+1.4826 x state-weighted median |d| / sqrt(2), 95 % bootstrap CI over states; floor = that sigma rounded up and never
+below ESPEI's experimental default for energies, entropies and activities (0.5 kJ/mol, 0.2 J/K/mol); classes with
+fewer than 20 pairs or 10 states use a documented prior. The ESPEI bundle (`espei/`) weights its datasets by
+`sigma_effective` by default and carries the components per value (`orchid_uncertainty.values[].budget`;
+calibration copy `espei/experimental/CALIBRATION_EXPERIMENT.json`).
 
 ### Phase registry tables (`phases`, `structure_types`)
 
@@ -1235,8 +1310,8 @@ the same measurement can appear under several papers; for strict leakage control
 
 **Fine-tuning.** For extraction tasks, pair `quote` (running text) or `artifact_caption` + `table_row` with the
 structured target (`property`, `value`, `unit`, `temperature_K`, `phases`, `compositions`), and restrict to
-`accepted` rows. For regression, filter on `evidence_class` and `unit`, and drop placeholder uncertainties
-(below).
+`accepted` rows. For regression, filter on `evidence_class` and `unit`, drop placeholder uncertainties
+(below) and weight by `sigma_effective`.
 
 **Uses to avoid.** Do not treat `model` or `unspecified` values as measurements, do not average across evidence
 classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready`
@@ -1271,7 +1346,8 @@ next release. Report errors via the project website or repository issues.
   stored as printed.
 - **Placeholder uncertainties.** Only `uncertainty_basis = printed` (3,306) or `printed_range` (16) is the
   source's own uncertainty. `stated_default` (20,874; e.g. "5% default") and `reading_resolution` (7,480) are ORCHID
-  placeholders, not measured uncertainties. Most values have none.
+  placeholders, not measured uncertainties. Most values have none. Use `sigma_effective` (uncertainty budget, above): it is defined for
+  every value with a convertible unit, never uses a placeholder, and is never below the method-class floor.
 - **Multi-system tables.** Some tables report many systems at once; values are assigned to the system of their
   row, and a record can carry up to 18 elements when the table's system could not be narrowed.
   `flag_system_mismatch` (495) marks rows whose phases or compositions do not fit the assigned system.

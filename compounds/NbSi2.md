@@ -47,6 +47,47 @@ Table: Enthalpy of formation of NbSi2 reported in the literature (32)
 | -51.5 kJ/mol-atom | NbSi2 | 298.15 | unspecified |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006 | Table 7, p. 8, row 11 |  |
 | -46 kJ/mol-atom | NbSi2 | 298.15 | unspecified |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 7, p. 8, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NbSi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -53.7 | kJ/mol-atom |  | 1.667e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -53.7 | kJ/mol-atom | 1.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -53.7 | kJ/mol-atom | 4.8 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.8 |
+| -46 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -90.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -59.37 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -59.37 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.483 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -55.467 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -55.4667 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -53.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.2033 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -46 | kJ/mol-atom | 16 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 16 |
+| -46 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -49.9 | kJ/mol (basis unstated) |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -51.5 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -46 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

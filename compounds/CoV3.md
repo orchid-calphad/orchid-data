@@ -19,6 +19,19 @@ Table: Enthalpy of formation of CoV3 reported in the literature (4)
 | 4.642 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 20 |  |
 | 9.1849 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CoV3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -18.9595 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -2.6519 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 4.642 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 9.1849 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Peisheng Wang, Thomas Hammerschmidt, Ursula R. Kattner, Gregory B. Olson, Structural stability of Co–V intermetallic phases and thermodynamic description of the Co–V system, Calphad 68, 101729 (2020). [doi:10.1016/j.calphad.2019.101729](https://doi.org/10.1016/j.calphad.2019.101729)

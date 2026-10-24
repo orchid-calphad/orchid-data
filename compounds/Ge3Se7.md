@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ge3Se7 reported in the literature (2)
 | -23.92 kJ/mol-atom | Ge3Se7 | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 28 |  |
 | -22.065 kJ/mol-atom | Ge3Se7 | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 29 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ge3Se7
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -23.92 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.065 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022). [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1)

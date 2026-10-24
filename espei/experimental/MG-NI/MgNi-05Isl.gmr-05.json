@@ -38,6 +38,7 @@
    "phase": "FCC_A1"
   }
  },
+ "weight": 0.0005,
  "bibtex": "islam2005_a4d91f",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -64,14 +65,28 @@
    "value": 1.0,
    "name": "ESPEI fallback sigma = 1 (no default for GM)"
   },
-  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
     "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": null,
-    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
-    "weight_used": 1.0
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 5.0,
+     "sigma_method": 2000.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 2000.0,
+     "method_class": "kems_vapour",
+     "method_basis": "prior",
+     "method_n_pairs": 2,
+     "method_entry": "value_types/GM_FORM/classes/kems_vapour"
+    },
+    "sigma_effective_used": 2000.0,
+    "weight_per_value_equivalent": 0.0005,
+    "weight_used": 0.0005
    }
   ]
  },

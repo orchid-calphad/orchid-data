@@ -25,6 +25,25 @@ Table: Enthalpy of formation of ReSi reported in the literature (10)
 | -24.8 kJ/mol-atom | ReSi |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Shao 2001 | Table 1, p. 3, row 9 |  |
 | -24.8 kJ/mol-atom | ReSi |  | model | Assessment | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ReSi
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -25.4 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -25.4 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -32.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.356 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -40,6 +40,40 @@ Table: Enthalpy of formation of AlP reported in the literature (25)
 | -51 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8 |  |
 | -25.5 kJ/mol-atom | AlP | 298.15 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009 | Table 3, p. 4, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlP
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -90.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -90.2 | per mol-atom | 4 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 4 |
+| -82.6 | per mol-atom | 1 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1 |
+| -82.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -81.6 | per mol-atom | 1 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1 |
+| -81.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -69.4 | per mol-atom | 4 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 4 |
+| -69.4 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -41.3 | kJ/mol-atom | 1.1 | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -34.77 | kJ/mol-atom | 4.6 | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.6 |
+| -29.5 | kJ/mol-atom | 6.7 | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 6.7 |
+| -28.8 | kJ/mol-atom | 17.7 | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 17.7 |
+| -91.5 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -82.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -82.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -81.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -81.6 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -81.6 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.4 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -74.3 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -74.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67.7 | per mol-atom | 6.7 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 6.7 |
+| -51 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -25.5 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

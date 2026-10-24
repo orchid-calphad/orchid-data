@@ -29,6 +29,29 @@ Table: Enthalpy of formation of CeRu2 reported in the literature (14)
 | -27.1978 kJ/mol-atom | CeRu2 | 0 | DFT | Ab-initio (Magnetic) | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 62 |  |
 | -27.1978 kJ/mol-atom | CeRu2 | 0 | DFT | Ab-initio (No-magnetic) | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 63 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CeRu2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -27.9 | kJ/mol-atom | 1.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -41.9778 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.2203 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.721 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -29.72 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.5988 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.9068 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.6208 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.848 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.0524 | kJ/mol-atom |  | 5.000e-5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.281 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.2586 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

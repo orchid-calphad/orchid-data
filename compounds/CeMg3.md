@@ -17,6 +17,17 @@ Table: Enthalpy of formation of CeMg3 reported in the literature (2)
 | -17.8 kJ/mol-atom | CeMg3 | 298.15 | experimental | HCl sol. cal. | [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html) | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5 |  |
 | -14.9 kJ/mol-atom | CeMg3 | 298.15 | experimental | Solution cal. Mg | [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html) | [1] Hampl 2013; _cites ref. 1988Nag_ | Table 6, p. 10, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CeMg3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -17.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.9 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -22,6 +22,22 @@ Table: Enthalpy of formation of UC1.9 reported in the literature (7)
 | -30.125 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Behl 1966_ [doi](https://doi.org/10.1149/1.2423966) | Table 21, p. 17, row 19 |  |
 | -30.533 kJ/mol-atom | UC1.90 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 26 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of UC1.9
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.89 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -33.325 | kJ/mol-atom | 1.908 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -31.798 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.962 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.298 | kJ/mol-atom | 0.289 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.125 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -30.533 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. P.Y Chevalier, E Fischer, Thermodynamic modelling of the C–U and B–U binary systems, Journal of Nuclear Materials 288, 100-129 (2001). [doi:10.1016/s0022-3115(00)00713-3](https://doi.org/10.1016/s0022-3115%2800%2900713-3)

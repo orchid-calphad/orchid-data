@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Li13Sn5 reported in the literature (6)
 | -39.9 unknown | Li13Sn5 | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 17 |  |
 | -35.1 unknown | Li13Sn5 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 15 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Li13Sn5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -45.8 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -38.1 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -35.1 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -44 | unknown |  | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -39.9 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -35.1 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. Fucheng Yin, Xuping Su, Zhi Li, Jianhua Wang, Thermodynamic assessment of the Li–Sn (Lithium–Tin) system, Journal of Alloys and Compounds 393, 105-108 (2005). [doi:10.1016/j.jallcom.2004.09.047](https://doi.org/10.1016/j.jallcom.2004.09.047)

@@ -29,6 +29,29 @@ Table: Enthalpy of formation of NbNi3 reported in the literature (14)
 | -28.51 kJ/mol-atom | δ-NbNi3 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
 | -28.38 kJ/mol-atom | δ-NbNi3 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NbNi3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -32 | kJ/mol-atom | 2 | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -32 | kJ/mol-atom |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -31.715 | kJ/mol-atom | 2.218 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -31.714 | kJ/mol (basis unstated) | 2.552 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -31.71 | kJ/mol-atom | 2.5 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -31.71 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -33.925 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -30.645 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.41 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -33.409 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.2 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -28.51 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -28.38 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

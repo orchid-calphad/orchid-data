@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Sn3Y reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -52.3 kJ/mol-atom ± 2.1 | Sn3Y | 298.15 | experimental | Calorimetric method | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html) | [1] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 2, p. 3, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sn3Y
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -52.3 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

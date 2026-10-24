@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Cr2Nb reported in the literature (6)
 | -7.02 kJ/mol (basis unstated) | C15 Cr2Nb | 0 | unspecified |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [2] Schmetterer 2014; _cites Ormeci 1996_ [doi](https://doi.org/10.1103/physrevb.54.12753) | Table 5, p. 6, row 5 |  |
 | -6.3 kJ/mol (basis unstated) | C15 Cr2Nb | 0 | unspecified |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [2] Schmetterer 2014; _cites Kellou 2005_ | Table 5, p. 6, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cr2Nb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -7 | kJ/mol (basis unstated) |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -9.93 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -7.44 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.93 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.02 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -6.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. J. Pavlů, J. Vřešt’ál, M. Šob, Re-modeling of Laves phases in the Cr–Nb and Cr–Ta systems using first-principles results, Calphad 33, 179-186 (2009). [doi:10.1016/j.calphad.2008.04.006](https://doi.org/10.1016/j.calphad.2008.04.006)

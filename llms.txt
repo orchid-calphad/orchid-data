@@ -46,4 +46,5 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).
 - Quotes: one verbatim sentence per value, fair use. Source papers, page images and full text are not redistributed.
 - Use values with extraction_accepted = true unless you handle disputes; uncertainty with basis stated_default is a placeholder, not a measurement.
+- Every value carries uncertainty_budget (components printed / reading / method floor / composition / scatter / conversion kept separate; sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) is the recommended sigma; floors: https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md).
 - Project site: https://orchid-project.org/ (interactive explorer https://orchid-project.org/data-explorer/#<SYS>)

@@ -16,6 +16,16 @@ Table: Enthalpy of formation of MoNi2 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -8.34 kJ/mol (basis unstated) | Ni₂Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MoNi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -8.34 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. S.H. Zhou, Y. Wang, C. Jiang, J.Z. Zhu, L.-Q. Chen, Z.-K. Liu, First-principles calculations and thermodynamic modeling of the Ni–Mo system, Materials Science and Engineering: A 397, 288-296 (2005). [doi:10.1016/j.msea.2005.02.037](https://doi.org/10.1016/j.msea.2005.02.037)

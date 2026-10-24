@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Fe3Mo2 reported in the literature (3)
 | 2.297 kJ/mol-atom | Fe3Mo2 (R) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
 | 3.773 kJ/mol-atom | Fe3Mo2 (R) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe3Mo2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 4.037 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 2.297 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 3.773 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. V.B. Rajkumar, K.C. Hari Kumar, Thermodynamic modeling of the Fe–Mo system coupled with experiments and ab initio calculations, Journal of Alloys and Compounds 611, 303-312 (2014). [doi:10.1016/j.jallcom.2014.05.030](https://doi.org/10.1016/j.jallcom.2014.05.030)

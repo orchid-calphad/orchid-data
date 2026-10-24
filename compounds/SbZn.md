@@ -42,6 +42,42 @@ Table: Enthalpy of formation of SbZn reported in the literature (27)
 | -11.4395 kJ/mol-atom | SbZn | 700.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 8 |  |
 | -9.517 kJ/mol-atom | SbZn | 700 | model | Evaluated | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SbZn
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -20.011 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -20.011 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.853 | kJ/mol-atom |  | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -14.853 | kJ/mol-atom |  | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -12.845 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -12.845 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -11.89 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -11.89 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -11.89 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -10.9 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -10.9 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -9.517 | kJ/mol-atom | 0.627 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -9.517 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -25.086 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.9572 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.149 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.102 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.541 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.4879 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.4875 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.459 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.455 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.455 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.4395 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.517 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

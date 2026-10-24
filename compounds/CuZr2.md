@@ -29,6 +29,29 @@ Table: Enthalpy of formation of CuZr2 reported in the literature (14)
 | -14.52 kJ/mol-atom | CuZr2-C11b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 21 |  |
 | -13.84 kJ/mol-atom | CuZr2-C11b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010 | Table 2, p. 3, row 20 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CuZr2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -17.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -17.3 | kJ/mol-atom | 0.84 | 5.000e-4 | 4.1 (unknown, calibrated) |  | 3.482 |  | 4.1 |
+| -17.3 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -16.992 | kJ/mol-atom | 0.357 | 4.292e-4 | 4.1 (unknown, calibrated) |  | 3.482 | 0.2805 | 4.11 |
+| -16.6 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  | 3.482 |  | 4.1 |
+| -10.95 | kJ/mol-atom | 0.69 | 5.000e-4 | 4.1 (unknown, calibrated) |  | 3.482 |  | 4.1 |
+| -10.95 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -10.95 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -23.635 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.167 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.6347 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.7269 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.52 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -13.84 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

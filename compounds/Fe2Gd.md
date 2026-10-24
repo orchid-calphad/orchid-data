@@ -23,6 +23,23 @@ Table: Enthalpy of formation of Fe2Gd reported in the literature (8)
 | -4.59 kJ/mol-atom | Fe2Gd | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10 |  |
 | -4.38 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe2Gd
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -11.6 | kJ/mol-atom | 2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.6 | kJ/mol-atom | 2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -3.5 | kJ/mol-atom | 1.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -3.5 | kJ/mol-atom | 1.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -6.81 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.59 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.38 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

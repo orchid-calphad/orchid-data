@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Cs2Te reported in the literature (2)
 | -361.4 kJ/mol (basis unstated) ± 3.2 | Cs₂Te | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
 | -120.467 kJ/mol-atom ± 3.2 | Cs2Te | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cs2Te
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -361.4 | kJ/mol (basis unstated) | 3.2 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -120.467 | kJ/mol-atom | 3.2 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -23,6 +23,23 @@ Table: Enthalpy of formation of Al8V5 reported in the literature (8)
 | -18.18 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
 | -12.65 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al8V5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -34 | kJ/mol-atom |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -22.557 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.269 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.03 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.39 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -18.19 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -18.18 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -12.65 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

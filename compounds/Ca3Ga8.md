@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ca3Ga8 reported in the literature (2)
 | -25.4 kJ/mol-atom ± 2.4 | Ca3Ga8 | 298.15 | experimental |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10 |  |
 | -41.02 kJ/mol-atom | Ca3Ga8 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ca3Ga8
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -25.4 | kJ/mol-atom | 2.4 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -41.02 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

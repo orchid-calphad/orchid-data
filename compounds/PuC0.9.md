@@ -17,6 +17,17 @@ Table: Enthalpy of formation of PuC0.9 reported in the literature (2)
 | -43.93 kJ/mol (basis unstated) ± 8 | C0.9Pu | 298.15 | experimental | Knudsen cell effusion method | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Marcon 1970_ [doi](https://doi.org/10.1016/0022-1902%2870%2980305-0) | Table 1, p. 3, row 9 |  |
 | -48.68 kJ/mol (basis unstated) | C₀.₉Pu | 298.15 | model |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008 | Table 1, p. 3, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PuC0.9
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -43.93 | kJ/mol (basis unstated) | 8 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -48.68 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Evelyne Fischer, Thermodynamic modeling of the C–Pu system, Calphad 32, 371-377 (2008). [doi:10.1016/j.calphad.2007.12.004](https://doi.org/10.1016/j.calphad.2007.12.004)

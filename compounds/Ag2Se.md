@@ -39,6 +39,39 @@ Table: Enthalpy of formation of Ag2Se reported in the literature (24)
 | -3.196 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
 | -3.196 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ag2Se
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -14.3633 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.2433 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.2433 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.2333 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.2333 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.1367 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.12 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -13.7067 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -13.54 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -13.3667 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.6867 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.6833 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.68 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.6733 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.67 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.6667 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

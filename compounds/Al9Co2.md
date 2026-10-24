@@ -21,6 +21,21 @@ Table: Enthalpy of formation of Al9Co2 reported in the literature (6)
 | -31.45 kJ/mol-atom | Al9Co2 | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10 |  |
 | -31.18 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Al9Co2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.98 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -32.04 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.64 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.47 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.45 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.18 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Marlena Ostrowska, Gabriele Cacciamani, Critical evaluation and thermodynamic modeling of the Al-Co-Fe system, Journal of Alloys and Compounds 794, 553-568 (2019). [doi:10.1016/j.jallcom.2019.04.170](https://doi.org/10.1016/j.jallcom.2019.04.170)

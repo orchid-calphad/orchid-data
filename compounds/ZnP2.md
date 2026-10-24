@@ -22,6 +22,22 @@ Table: Enthalpy of formation of ZnP2 reported in the literature (7)
 | -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
 | -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZnP2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -42.4667 | kJ/mol-atom | 7.5 | 1.667e-4 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
+| -126.85 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -126.85 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.2833 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -127.4 | kJ/mol (basis unstated) | 7.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

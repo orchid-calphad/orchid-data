@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Cu0.75Ge0.25 reported in the literature (3)
 | -7.66 kJ/mol (basis unstated) | ␩-Cu0.75Ge0.25 | 298.15 | experimental |  | [Cu–Ge](https://data.orchid-project.org/systems/CU-GE.html) | [1] Wang 2010; _cites Predel 1971_ [doi](https://doi.org/10.1515/zna-1971-0415) | p. 6 | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
 | -4.245 kJ/mol (basis unstated) | ␩-Cu0.75Ge0.25 | 298.15 | model |  | [Cu–Ge](https://data.orchid-project.org/systems/CU-GE.html) | [1] Wang 2010 | p. 6 | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Cu0.75Ge0.25
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.245 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. J. Wang, S. Jin, C. Leinenbach, A. Jacot, Thermodynamic assessment of the Cu–Ge binary system, Journal of Alloys and Compounds 504, 159-165 (2010). [doi:10.1016/j.jallcom.2010.05.077](https://doi.org/10.1016/j.jallcom.2010.05.077)

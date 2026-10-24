@@ -17,6 +17,17 @@ Table: Enthalpy of formation of YH reported in the literature (2)
 | -36.5367 kJ/mol-atom | YH (fcc) | 0 | DFT |  | [H–Y](https://data.orchid-project.org/systems/H-Y.html) | [1] Peng 2020 | Table 4, p. 5, row 1 |  |
 | -36.5158 kJ/mol-atom | YH (hcp) | 0 | DFT |  | [H–Y](https://data.orchid-project.org/systems/H-Y.html) | [1] Peng 2020 | Table 4, p. 5, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of YH
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -36.5367 | kJ/mol-atom |  | 2.500e-5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -36.5158 | kJ/mol-atom |  | 2.500e-5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Jiaqing Peng, Ming Wu, Fu Du, Fengli Yang, Jianyun Shen, Lijun Wang et al., Thermodynamic modelling of Y–H and Y–Zr–H system aided by first-principles and its application in bulk hydride moderator fabrication, Journal of Nuclear Materials 531, 152035 (2020). [doi:10.1016/j.jnucmat.2020.152035](https://doi.org/10.1016/j.jnucmat.2020.152035)

@@ -27,6 +27,27 @@ Table: Enthalpy of formation of Pu2C3 reported in the literature (12)
 | -84.73 kJ/mol (basis unstated) | C3Pu2 | 298.15 | unspecified | Compilation | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Barin 1995_ | Table 2, p. 3, row 13 |  |
 | -74.7 kJ/mol (basis unstated) ± 8.35 | C3Pu2 | 298.15 | unspecified | Compilation | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lemire 2001_ | Table 2, p. 3, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Pu2C3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -102.09 | kJ/mol (basis unstated) | 11 | 0.005 | 1 (combustion_calorimetry, prior) |  |  |  | 11 |
+| -93.3 | kJ/mol (basis unstated) | 3.3 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3.3 |
+| -88 | kJ/mol (basis unstated) | 8 | 0.5 | 1 (combustion_calorimetry, prior) |  |  |  | 8 |
+| -82.84 | kJ/mol (basis unstated) | 4 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4 |
+| -73.22 | kJ/mol (basis unstated) |  | 0.005 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -67.53 | kJ/mol (basis unstated) | 4.6 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -66.53 | kJ/mol (basis unstated) | 8 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -55.23 | kJ/mol (basis unstated) | 10.5 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 10.5 |
+| -51.46 | kJ/mol (basis unstated) |  | 0.005 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -77.06 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -84.73 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -74.7 | kJ/mol (basis unstated) | 8.35 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 8.35 |
+
 ## Sources
 
 1. Evelyne Fischer, Thermodynamic modeling of the C–Pu system, Calphad 32, 371-377 (2008). [doi:10.1016/j.calphad.2007.12.004](https://doi.org/10.1016/j.calphad.2007.12.004)

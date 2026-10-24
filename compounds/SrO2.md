@@ -19,6 +19,19 @@ Table: Enthalpy of formation of SrO2 reported in the literature (4)
 | -636 kJ/mol (basis unstated) | SrO2 | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
 | -633 kJ/mol (basis unstated) | SrO2 | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SrO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -635 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -631 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -636 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -633 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Daniel Risold, Bengt Hallstedt, Ludwig J. Gauckler, The strontium-oxygen system, Calphad 20, 353-361 (1996). [doi:10.1016/s0364-5916(96)00037-5](https://doi.org/10.1016/s0364-5916%2896%2900037-5)

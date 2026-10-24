@@ -31,6 +31,31 @@ Table: Enthalpy of formation of Co3V reported in the literature (16)
 | 17.3899 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 15 |  |
 | 23.2844 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 2 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Co3V
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -16.3103 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.2976 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.1374 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.0055 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -1.3604 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.000e-4 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 1.1026 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 1.7914 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 4.4217 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 4.5149 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 7.0017 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 8.4967 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 9.8872 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 13.9387 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 17.3899 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 23.2844 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. Peisheng Wang, Thomas Hammerschmidt, Ursula R. Kattner, Gregory B. Olson, Structural stability of Co–V intermetallic phases and thermodynamic description of the Co–V system, Calphad 68, 101729 (2020). [doi:10.1016/j.calphad.2019.101729](https://doi.org/10.1016/j.calphad.2019.101729)

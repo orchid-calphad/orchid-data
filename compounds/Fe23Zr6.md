@@ -27,6 +27,27 @@ Table: Enthalpy of formation of Fe23Zr6 reported in the literature (12)
 | 34.71 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 51 |  |
 | 45.12 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 53 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Fe23Zr6
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -21.8 | kJ/mol-atom | 0.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.164 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.2862 | kJ/mol-atom |  | 1.724e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.286 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.364 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.705 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.21 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol (basis unstated) |  | 0.5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 19 | kJ/mol (basis unstated) |  | 0.5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 34.71 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 45.12 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of ZrH reported in the literature (2)
 | -41.24 kJ/mol (basis unstated) | γ-ZrH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | -41.4 kJ/mol-atom | γ-ZrH | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Zhong 2012 | Table 3, p. 2, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of ZrH
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41.24 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.4 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Shusuke Ukita, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ti-H and Zr-H Binary Phase Diagrams, J. Japan Inst. Metals 71, 721-729 (2007). [doi:10.2320/jinstmet.71.721](https://doi.org/10.2320/jinstmet.71.721)

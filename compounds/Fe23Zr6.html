@@ -62,6 +62,26 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row">45.12 kJ/mol (basis unstated)</th><td>Fe23Zr6</td><td class="n">0</td><td><span class="b b-dft">DFT</span></td><td>VASP</td><td><a href="../systems/FE-NB-ZR.html">Fe–Nb–Zr</a></td><td><a href="#s3">[3]</a> Lu 2017</td><td>Table 2, p. 3, row 53</td><td></td></tr>
 </tbody>
 </table></div>
+<h3>Uncertainty budget</h3>
+<p>Components kept separate, in the value&#x27;s unit (literature <a href="../literature/SCHEMA.md">SCHEMA.md</a>, <a href="../literature/UNCERTAINTY_CALIBRATION.md">UNCERTAINTY_CALIBRATION.md</a>): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.</p>
+<div class="tw"><table>
+<caption>Uncertainty budget of the literature values of Fe23Zr6</caption>
+<thead><tr><th scope="col">Value</th><th scope="col">Unit</th><th scope="col">Printed</th><th scope="col">Reading</th><th scope="col">Method (class, basis)</th><th scope="col">Composition</th><th scope="col">Scatter</th><th scope="col">Conversion</th><th scope="col">Effective</th></tr></thead>
+<tbody>
+<tr><th scope="row">-21.8</th><td>kJ/mol-atom</td><td class="n">0.7</td><td class="n">0.05</td><td>3.5 (solution_reaction_calorimetry, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.5</td></tr>
+<tr><th scope="row">-30.164</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-23.2862</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">1.724e-5</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-23.286</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-22.364</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-19</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.5</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-16.705</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">5.000e-4</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-16.21</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.005</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
+<tr><th scope="row">-16</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.5</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+<tr><th scope="row">19</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.5</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+<tr><th scope="row">34.71</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.005</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+<tr><th scope="row">45.12</th><td>kJ/mol (basis unstated)</td><td class="n"></td><td class="n">0.005</td><td>3.522 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.522</td></tr>
+</tbody>
+</table></div>
 <h2 id="dft">DFT formation energies</h2>
 <p>Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.</p>
 <div class="tw"><table>

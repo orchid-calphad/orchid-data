@@ -21,6 +21,21 @@ Table: Enthalpy of formation of NaSb reported in the literature (6)
 | -0.679 eV | NaSb | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [2] Dreval 2017 | Table 3, p. 7, row 21 |  |
 | -0.663 eV | NaSb | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [2] Dreval 2017 | Table 3, p. 7, row 22 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of NaSb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -36 | kJ/mol-atom |  | 0.25 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -35 | kJ/mol-atom |  | 0.25 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -33 | kJ/mol-atom |  | 0.25 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -37.5 | kJ/mol-atom |  | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -0.679 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -0.663 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

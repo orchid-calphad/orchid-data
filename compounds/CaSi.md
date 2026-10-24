@@ -30,6 +30,30 @@ Table: Enthalpy of formation of CaSi reported in the literature (15)
 | -120.38 kJ/mol (basis unstated) | CaSi |  | unspecified |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Anglezio 1994; _cites ref. 82Dzh_ | Table III, p. 12, row 6 |  |
 | -120.38 kJ/mol-atom | CaSi | 298.15 | unspecified |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Gröbner 2003; _cites Wagman 1982_ | Table 1, p. 2, row 7 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CaSi
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -180.16 | kJ/mol-atom |  | 0.005 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -180.158 | kJ/mol (basis unstated) |  | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -151 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -91.96 | kJ/mol (basis unstated) |  | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -79.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -49.6 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -46 | kJ/mol-atom |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -210.41 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -210.41 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -120.64 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -120.64 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -151 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -120.38 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -120.38 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

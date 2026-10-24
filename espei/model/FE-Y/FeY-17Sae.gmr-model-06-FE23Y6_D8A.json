@@ -69,7 +69,7 @@
   },
   "model_reproduction": null
  },
- "weight": 1.0,
+ "weight": 0.001429,
  "bibtex": "saenko2017_3a66b4",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -100,12 +100,28 @@
    "value": 1.0,
    "name": "ESPEI fallback sigma = 1 (no default for GM)"
   },
-  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
     "sigma": null,
-    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
-    "weight_used": 1.0
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 5.0,
+     "sigma_method": 700.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 700.0,
+     "method_class": "model_calculated",
+     "method_basis": "calibrated",
+     "method_n_pairs": 192,
+     "method_entry": "model/GM_FORM"
+    },
+    "sigma_effective_used": 700.0,
+    "weight_per_value_equivalent": 0.001429,
+    "weight_used": 0.001429
    }
   ]
  },

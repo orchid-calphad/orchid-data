@@ -27,6 +27,27 @@ Table: Enthalpy of formation of Bi2Mg3 reported in the literature (12)
 | -31.454 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Zhou 2008_ | Table 3, p. 9, row 9 |  |
 | -24.369 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Curtarolo 2005_ | Table 3, p. 9, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi2Mg3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -37.181 | kJ/mol (basis unstated) |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -30.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -25.377 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -34.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.884 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.255 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.355 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Acta Metall. Sin. Engl. Lett., 25, 19-28(2012). [doi:10.11890/1006-7191-121-19](https://doi.org/10.11890/1006-7191-121-19)

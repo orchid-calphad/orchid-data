@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Si5Zr6 reported in the literature (3)
 | -77.748 kJ/mol-atom | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 27 |  |
 | -77.33 kJ/mol-atom | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 25 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si5Zr6
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -96.2273 | kJ/mol-atom | 42.7 | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 42.7 |
+| -77.748 | kJ/mol-atom |  | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -77.33 | kJ/mol-atom |  | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. C. Gueneau, C. Servant, I. Ansara, N. Dupin, Thermodynamic assessment of the SiZr system, Calphad 18, 319-327 (1994). [doi:10.1016/0364-5916(94)90036-1](https://doi.org/10.1016/0364-5916%2894%2990036-1)

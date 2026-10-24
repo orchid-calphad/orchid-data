@@ -5,105 +5,28 @@
   "ZR"
  ],
  "phases": [
-  "CU10ZR7",
   "CU24ZR13",
-  "CU2ZR",
   "CU51ZR14",
   "CU5ZR8",
   "CU8ZR3",
-  "CU9ZR2_C15B",
   "CUZR2_HT",
   "CUZR_B2",
-  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1281.0,
-   1261.0,
-   1399.0,
-   1379.0,
-   1321.0,
-   1295.0,
-   1229.0,
-   1209.0,
-   1186.0,
-   1196.0,
-   1230.0,
-   1210.0,
-   1014.0
+   1409.0,
+   1369.0,
+   1331.0,
+   1239.0,
+   1240.0,
+   1200.0,
+   1024.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.106
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.096
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.116
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU9ZR2_C15B",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.096
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.116
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -211,35 +134,6 @@
     ]
    ],
    [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.262727
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.282727
-    ]
-   ]
-  ],
-  [
-   [
-    "CU8ZR3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "CU24ZR13",
     [
      "ZR"
@@ -264,102 +158,6 @@
     ],
     [
      0.3416665
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2ZR",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.3249995
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.3416665
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2ZR",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.3416665
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.3583335
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.56
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.55
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.57
     ]
    ]
   ],
@@ -468,58 +266,20 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-ZR/CuZr-06Wan.zpf-06.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-DS3HYPILX4 ORC-IYIFHIFX3T ORC-JBPYKDJQSJ ORC-JVFHSHSGKY ORC-KIZL7424KC ORC-MIKJJ2KCCF ORC-QR2PSXBN5V ORC-TV4I4G2GVH ORC-ZFL56PUTZK",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-ZR/CuZr-06Wan.zpf-06.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-IYIFHIFX3T ORC-JBPYKDJQSJ ORC-KIZL7424KC ORC-QR2PSXBN5V ORC-TV4I4G2GVH",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
   "derivation": "invariant_bracket",
-  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
+  "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (u = sigma_effective of the value's uncertainty budget: the printed sigma or the method floor, whichever is larger; else the printed sigma; else 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
-   {
-    "source_observation": "ORC-JVFHSHSGKY",
-    "side": "above",
-    "T_invariant_K": 1271.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.106,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> (Cu) + Cu9Zr2",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "FCC_A1",
-     "CU9ZR2_C15B"
-    ]
-   },
-   {
-    "source_observation": "ORC-JVFHSHSGKY",
-    "side": "below",
-    "T_invariant_K": 1271.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.106,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> (Cu) + Cu9Zr2",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "FCC_A1",
-     "CU9ZR2_C15B"
-    ]
-   },
    {
     "source_observation": "ORC-KIZL7424KC",
     "side": "above",
     "T_invariant_K": 1389.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.215,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Cu51Zr14",
@@ -535,9 +295,9 @@
     "source_observation": "ORC-KIZL7424KC",
     "side": "below",
     "T_invariant_K": 1389.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.215,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Cu51Zr14",
@@ -553,9 +313,9 @@
     "source_observation": "ORC-IYIFHIFX3T",
     "side": "above",
     "T_invariant_K": 1311.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.181818,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L + Cu51Zr14 -> Cu9Zr2",
@@ -569,31 +329,12 @@
     ]
    },
    {
-    "source_observation": "ORC-MIKJJ2KCCF",
-    "side": "below",
-    "T_invariant_K": 1305.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.272727,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + Cu51Zr14 -> Cu8Zr3",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "CU51ZR14"
-    ],
-    "phases_below": [
-     "CU8ZR3"
-    ]
-   },
-   {
     "source_observation": "ORC-TV4I4G2GVH",
     "side": "above",
     "T_invariant_K": 1219.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.333333,
     "hyperplane_delta": 0.008333499999999994,
     "reaction_printed": "Cu8Zr3 + Cu24Zr13 -> Cu2Zr",
@@ -604,72 +345,15 @@
     ],
     "phases_below": [
      "CU2ZR"
-    ]
-   },
-   {
-    "source_observation": "ORC-TV4I4G2GVH",
-    "side": "below",
-    "T_invariant_K": 1219.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.008333499999999994,
-    "reaction_printed": "Cu8Zr3 + Cu24Zr13 -> Cu2Zr",
-    "reaction_type": "eutectoid",
-    "phases_above": [
-     "CU8ZR3",
-     "CU24ZR13"
-    ],
-    "phases_below": [
-     "CU2ZR"
-    ]
-   },
-   {
-    "source_observation": "ORC-DS3HYPILX4",
-    "side": "below",
-    "T_invariant_K": 1196.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.35,
-    "hyperplane_delta": 0.008333499999999994,
-    "reaction_printed": "Cu24Zr13 -> Cu2Zr + Cu10Zr7",
-    "reaction_type": "eutectoid",
-    "phases_above": [
-     "CU24ZR13"
-    ],
-    "phases_below": [
-     "CU2ZR",
-     "CU10ZR7"
-    ]
-   },
-   {
-    "source_observation": "ORC-ZFL56PUTZK",
-    "side": "above",
-    "T_invariant_K": 1186,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.56,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> CuZr + Cu5Zr8",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CUZR_B2",
-     "CU5ZR8"
     ]
    },
    {
     "source_observation": "ORC-JBPYKDJQSJ",
     "side": "above",
     "T_invariant_K": 1220,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.6153846153846154,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L + CuZr2-h -> Cu5Zr8",
@@ -686,9 +370,9 @@
     "source_observation": "ORC-JBPYKDJQSJ",
     "side": "below",
     "T_invariant_K": 1220,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.6153846153846154,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L + CuZr2-h -> Cu5Zr8",
@@ -705,9 +389,9 @@
     "source_observation": "ORC-QR2PSXBN5V",
     "side": "above",
     "T_invariant_K": 1004,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "CuZr -> Cu10Zr7 + Cu5Zr8",
@@ -737,6 +421,123 @@
    "doi:10.1016/j.jallcom.2011.04.141",
    "ref:2a3e66fcaa9ec324",
    "doi:10.1016/j.actamat.2009.12.004"
+  ]
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "derived point: placed offset_K = max(2u, 10 K) beyond the invariant, u = the invariant temperature's sigma_effective; the constraint holds while the invariant's error is below offset_K (no sigma of its own)",
+  "points": [
+   {
+    "source_observation": "ORC-KIZL7424KC",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-KIZL7424KC",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-IYIFHIFX3T",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-TV4I4G2GVH",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-JBPYKDJQSJ",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-JBPYKDJQSJ",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-QR2PSXBN5V",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 20.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   }
   ]
  }
 }

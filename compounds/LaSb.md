@@ -19,6 +19,19 @@ Table: Enthalpy of formation of LaSb reported in the literature (4)
 | -118 kJ/mol (basis unstated) | LaSb | 0 | model | Miedema model | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8 |  |
 | -123.511 kJ/mol (basis unstated) | LaSb | 0 | DFT | first-principles | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of LaSb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -148.197 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -130.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -118 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -123.511 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Xushan Zhao, Jianyun Shen, Thermodynamic assessment of the La–Sb and the Ho–Sb systems using the associate model, Thermochimica Acta 551, 104-109 (2013). [doi:10.1016/j.tca.2012.10.026](https://doi.org/10.1016/j.tca.2012.10.026)

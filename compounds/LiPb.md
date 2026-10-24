@@ -19,6 +19,19 @@ Table: Enthalpy of formation of LiPb reported in the literature (4)
 | -24.25 kJ/mol-atom ± 0.55 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
 | -1.08 kJ/mol-atom | βLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 16 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of LiPb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -30.3 | kJ/mol-atom | 1.82 | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -26.44 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24.25 | kJ/mol-atom | 0.55 | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -1.08 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Chenyang Zhou, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Li–Pb system aided by first-principles calculations, Journal of Nuclear Materials 477, 95-101 (2016). [doi:10.1016/j.jnucmat.2016.04.061](https://doi.org/10.1016/j.jnucmat.2016.04.061)

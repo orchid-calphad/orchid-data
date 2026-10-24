@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Ni3C reported in the literature (5)
 | 33.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022 | Table 4, p. 9, row 5 |  |
 | 40.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Gabriel 1988_ | Table 4, p. 9, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ni3C
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| 38.5 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 39.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 26.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 33.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 40.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Katsunari Oikawa, Nobufumi Ueshima, Experimental Investigation and Thermodynamic Assessment of Ni–B and Ni–B–C Systems, J. Phase Equilib. Diffus. 43, 814-826 (2022). [doi:10.1007/s11669-022-00995-0](https://doi.org/10.1007/s11669-022-00995-0)

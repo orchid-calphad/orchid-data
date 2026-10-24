@@ -39,6 +39,39 @@ Table: Enthalpy of formation of MnO2 reported in the literature (24)
 | -173.333 kJ/mol-atom | Pyrolusite (MnO2) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 40 |  |
 | -173.333 kJ/mol-atom | MnO2 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 85 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of MnO2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -175.007 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -175.007 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -175.007 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -175.007 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -174.73 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -174.73 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -173.947 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -173.947 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -166.913 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -166.913 | kJ/mol-atom |  | 0.001667 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -174 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -174 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.753 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.753 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.633 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.633 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.613 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.613 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.493 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.493 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.46 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.46 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -173.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

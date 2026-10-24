@@ -18,6 +18,18 @@ Table: Enthalpy of formation of SiB6 reported in the literature (3)
 | -121 kJ/mol (basis unstated) ± 48 | SiB6 | 1800 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | -122.2 kJ/mol (basis unstated) | SiB6 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SiB6
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -148 | kJ/mol (basis unstated) | 7.5 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
+| -121 | kJ/mol (basis unstated) | 48 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 48 |
+| -122.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009). [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044)

@@ -23,6 +23,23 @@ Table: Enthalpy of formation of PdYb reported in the literature (8)
 | -54 kJ/mol-atom | PdYb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Ivanov 2011_ [doi](https://doi.org/10.1134/s0036024411120144) | Table 3, p. 5, row 31 |  |
 | -83.45 kJ/mol-atom | PdYb | 298.15 | DFT | Ab-initio | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 34 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PdYb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -66 | kJ/mol-atom | 3 | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -90.954 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.8323 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -80.832 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -75.6454 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -75.6029 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -54 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -83.45 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

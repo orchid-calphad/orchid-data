@@ -19,6 +19,19 @@ Table: Enthalpy of formation of CrLaO3 reported in the literature (4)
 | -14.74 kJ/mol-atom | Rhombohedral LaCrO3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
 | -12.47 kJ/mol-atom | Rhombohedral LaCrO3 | 975 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 3 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CrLaO3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -14.612 | kJ/mol-atom | 2.79 | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -273.64 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.74 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.47 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. E. Povoden, M. Chen, A.N. Grundy, T. Ivas, L.J. Gauckler, Thermodynamic Assessment of the La-Cr-O System, J. Phase Equilib. Diffus. 30, 12-27 (2009). [doi:10.1007/s11669-008-9463-0](https://doi.org/10.1007/s11669-008-9463-0)

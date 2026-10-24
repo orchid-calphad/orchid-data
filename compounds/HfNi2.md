@@ -16,6 +16,16 @@ Table: Enthalpy of formation of HfNi2 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -46.01 kJ/mol (basis unstated) | C15-HfNi2 | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of HfNi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -46.01 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+
 ## Sources
 
 1. A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016). [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042)

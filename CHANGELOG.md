@@ -2,6 +2,37 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Method-based uncertainty floors and per-value uncertainty budgets (2026-10-24, PI decision).** Printed
+uncertainties often reflect statistical precision only (e.g. Knudsen-effusion formation enthalpies printed with
++-0.08 kJ/mol-atom that differ from calorimetry by 6-8 kJ/mol-atom). Every literature record now carries
+`uncertainty_budget` (tools/uncertainty_budget.py) with the components kept separate per measured quantity (value;
+printed phase compositions; equilibration temperature): `sigma_printed` (as printed), `sigma_reading` (half of the
+last printed digit), `sigma_method` (method-class floor), `sigma_composition` (historical-formula offset),
+`sigma_scatter` (page-checked mutually inconsistent group), `sigma_conversion` (reference-state conversion) and
+`sigma_effective` = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). Method
+floors are calibrated from ORCHID's own independent measurements of the same state (one value per primary source,
+re-listings once, per-formula / per-atom basis-error pairs left out; 1.4826 x state-weighted median|d| / sqrt 2,
+bootstrap 95 % CI over states; >= 20 pairs and >= 10 states, else a documented prior; never below ESPEI's default):
+formation enthalpies 3.5 kJ/mol-atom for solution / reaction calorimetry (74 pairs, CI 1.9-5.9), 8.1 for EMF (32,
+3.9-14.4), 3.8 for 'experimental' unspecified (35, 1.6-5.0), 4.1 for method not printed (312, 2.6-4.4); invariant
+temperatures 10 K (4,981 pairs, 8.4-10.5); phase compositions 0.011 (3,139 pairs); lattice parameters 0.23 %
+(0.11 % XRD); model-calculated values vs experiment 3.3 kJ/mol-atom, 4 K, 0.005; DFT values take the calibrated
+sigma_DFT. All floors: `literature/UNCERTAINTY_CALIBRATION.md` (copied to
+`espei/experimental/CALIBRATION_EXPERIMENT.json|md`). Printed values and printed uncertainties are unchanged.
+102,170 quantities of 73,538 records have a budget (100,926 with sigma_effective; the rest carry the reason, e.g.
+a mass-basis unit); of 6,087 with a printed sigma, 3,512 have sigma_effective above it. ESPEI bundle: weights use
+sigma_effective by default (the opt-in `orchid_weight_floor.suggested_weight` is kept, marked superseded); 1,404
+thermochemical datasets, weight lower than before in 1,297 (747 experimental, 550 model), unchanged in 107;
+experimental HM_FORM sigma larger than before for 373 of 437 values; every value carries its budget in
+`orchid_uncertainty.values[].budget`; ZPF regions carry temperature and composition budgets; invariant-temperature
+brackets use u = sigma_effective (1,141 -> 1,114 datasets, 5,612 -> 5,090 points); one model dataset
+(`model/C-TI/TiC-03Fri.sm-model-01.json`) now evaluates finite and is written (527 model datasets). Assessed
+phase assemblages: budget with digitisation (`sigma_reading`), handbook-class prior 10 K / 0.02 (`sigma_method`)
+and the boundary margin reported, not combined. Cu-Zr: the ESPEI-ready measured formation enthalpies now have
+sigma_effective 4.1-8.7 kJ/mol-atom (before 0.08-8.7), above the 3 kJ/mol-atom floor of the Cu-Zr PhaseForge+ fit.
+Budgets also in Parquet (`literature_values` sigma_* columns), compound pages (budget table), the MCP server and
+the dataset card. ESPEI 0.9.1 likelihood of all 8,239 datasets finite.
+
 **Cu-Zr compound formation enthalpies: over-exclusion fixed (2026-10-24, PI).** After the targeted cleanup no
 measured formation enthalpy of Cu5Zr, Cu51Zr14, Cu8Zr3 or Cu10Zr7 was ESPEI-ready. Rechecked on the rendered pages of
 Turchanin 2008 (Table 3 p. 437, text p. 435, Fig. 4 p. 436, references pp. 444-445) and Zeng 1994 (Table 1):

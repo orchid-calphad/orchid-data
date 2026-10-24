@@ -18,6 +18,18 @@ Table: Enthalpy of formation of Ba0.425Pb0.575 reported in the literature (3)
 | -68.449 kJ/mol-atom | Ba0.425Pb0.575 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 16 |  |
 | -65.055 kJ/mol-atom | Ba0.425Pb0.575 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 18 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ba0.425Pb0.575
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -67.7 | kJ/mol-atom | 2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -68.449 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -65.055 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic modelling of the Ba–Pb system, Calphad 31, 479-489 (2007). [doi:10.1016/j.calphad.2007.04.003](https://doi.org/10.1016/j.calphad.2007.04.003)

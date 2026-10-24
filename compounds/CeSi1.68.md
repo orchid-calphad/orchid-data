@@ -19,6 +19,19 @@ Table: Enthalpy of formation of CeSi1.68 reported in the literature (4)
 | -65 kJ/mol-atom | CeSi1.68 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Grobner 2004_ [doi](https://doi.org/10.1007/s11661-004-0172-y) | Table 8, p. 9, row 8 |  |
 | -65 kJ/mol-atom | CeSi1.68 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 31 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CeSi1.68
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -70 | kJ/mol-atom | 6 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6 |
+| -70 | kJ/mol-atom | 6 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 6 |
+| -65 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -65 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## Sources
 
 1. Dandan Huang, Shuhong Liu, Ying Tang, Yong Du, Philip Nash, Bo Sundman, Experimental investigation and thermodynamic modeling of the Ce-Si system, Thermochimica Acta 646, 49-58 (2016). [doi:10.1016/j.tca.2016.11.003](https://doi.org/10.1016/j.tca.2016.11.003)

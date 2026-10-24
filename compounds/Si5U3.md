@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Si5U3 reported in the literature (2)
 | -44.26 kJ/mol-atom | U3Si5 | 298.15 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
 | -42.9 kJ/mol-atom | U3Si5 | 298.15 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si5U3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -44.26 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. A. Berche, C. Rado, O. Rapaud, C. Guéneau, J. Rogez, Thermodynamic study of the U–Si system, Journal of Nuclear Materials 389, 101-107 (2009). [doi:10.1016/j.jnucmat.2009.01.014](https://doi.org/10.1016/j.jnucmat.2009.01.014)

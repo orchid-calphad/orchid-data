@@ -17,6 +17,17 @@ Table: Enthalpy of formation of BeMo reported in the literature (2)
 | -25.2 kJ/mol (basis unstated) | BeMo (CrB) |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
 | 19.3 kJ/mol (basis unstated) | BeMo (CsCl) |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of BeMo
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -25.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 19.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. Kazuyoshi Nakashima, Tatsuya Tokunaga, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Be-Mo Binary Phase Diagram, J. Japan Inst. Metals 71, 187-189 (2007). [doi:10.2320/jinstmet.71.187](https://doi.org/10.2320/jinstmet.71.187)

@@ -20,6 +20,20 @@ Table: Enthalpy of formation of Ca3SiO5 reported in the literature (5)
 | -2932 kJ/mol (basis unstated) | Rhombohedral-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
 | -13.1 kJ/mol-atom | Monoclinic-Ca3SiO5 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ca3SiO5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -2933 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2933 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2932 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2932 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.1 | kJ/mol-atom |  | 0.005556 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Wahab Abdul, Chancel Mawalala, Alexander Pisch, Marcus Nigel Bannerman, CaO-SiO2 assessment using 3rd generation CALPHAD models, Cement and Concrete Research 173, 107309 (2023). [doi:10.1016/j.cemconres.2023.107309](https://doi.org/10.1016/j.cemconres.2023.107309)

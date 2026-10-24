@@ -157,22 +157,22 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
-   "espei-zpf": 3791466,
-   "espei-zpf-with-tie-lines": 3740641,
+   "espei-zpf": 8789739,
+   "espei-zpf-with-tie-lines": 8738914,
    "espei_exclusions.jsonl": 1680688,
    "exclusions.csv": 322521,
    "exclusions.jsonl": 542384,
-   "records.csv": 10707224,
-   "records.jsonl.gz": 3563530,
-   "records.parquet": 1658343,
+   "records.csv": 11578669,
+   "records.jsonl.gz": 4379614,
+   "records.parquet": 1672893,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23131,
-  "csv_sha256": "7f0df3a0bebb611ac1c24ae4b5b6f070a5e74d6d64636e664569199bfb910f12",
-  "content_sha256": "8982539021d01023386e72b67d46fd930d15f6ead5346abdb6ffd1154c56f6de",
+  "csv_sha256": "50fcc7b5f6c6e523dff6db3f9851dd02cb8f3aef56db41d97264333159dbd6cc",
+  "content_sha256": "119ef6fd9a6a5b00dcd2b80179c72f3fcb1cc47417a6d077670c26105e1fa7bc",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

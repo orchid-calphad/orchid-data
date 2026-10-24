@@ -26,6 +26,26 @@ Table: Enthalpy of formation of Si3Ta5 reported in the literature (11)
 | -55.4 kJ/mol-atom | Ta5Si3 (β) | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 56 |  |
 | -48.1 kJ/mol-atom | Ta5Si3 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 59 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Si3Ta5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -41.8 | kJ/mol-atom | 7.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 7.8 |
+| -39.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -38.1 | kJ/mol-atom | 1.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -37.7 | kJ/mol-atom | 4.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.7 |
+| -56.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -59.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -55.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

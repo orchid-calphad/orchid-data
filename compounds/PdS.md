@@ -20,6 +20,20 @@ Table: Enthalpy of formation of PdS reported in the literature (5)
 | -37.55 per mol-atom | PdS | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15 |  |
 | -40.3 per mol-atom | PdS | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 16 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of PdS
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -68.55 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -43.175 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -39.05 | per mol-atom | 5.5 | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 5.5 |
+| -37.55 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -40.3 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+
 ## Sources
 
 1. Rongxiang Hu, Michael C. Gao, Ömer N. Doğan, Paul King, Michael Widom, Thermodynamic modeling of the Pd–S system supported by first-principles calculations, Calphad 34, 324-331 (2010). [doi:10.1016/j.calphad.2010.07.002](https://doi.org/10.1016/j.calphad.2010.07.002)

@@ -22,6 +22,22 @@ Table: Enthalpy of formation of W2B reported in the literature (7)
 | -66.9 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 93Kub_ | Table 6, p. 7, row 6 |  |
 | -66.3 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 76Leo1_ | Table 6, p. 7, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of W2B
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -87 | kJ/mol (basis unstated) | 13.8 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 13.8 |
+| -125.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -65.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -87 | kJ/mol (basis unstated) | 16.7 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 16.7 |
+| -68.2 | kJ/mol (basis unstated) | 9.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 9.2 |
+| -66.9 | kJ/mol (basis unstated) | 9.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 9.2 |
+| -66.3 | kJ/mol (basis unstated) | 9.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 9.2 |
+
 ## Sources
 
 1. H. Duschanek, P. Rogl, Critical assessment and thermodynamic calculation of the binary system boron-tungsten (B-W), JPE 16, 150-161 (1995). [doi:10.1007/bf02664852](https://doi.org/10.1007/bf02664852)

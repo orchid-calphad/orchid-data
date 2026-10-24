@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Gd2Tl reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -54.4 kJ/mol-atom | Gd2Tl | 298.15 | model | revised Miedema model | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html) | [1] Guo 2010 | p. 1 | “In the present work, the enthalpies of formation of compounds Gd2 Tl, Gd5 Tl3 , GdTl, Gd3 Tl5 , and GdTl3 at 298 K were predicted using revised Miedema model \[13\], in kJ/mol of atoms: Gd2 Tl -54.4, Gd5 Tl3 -59.2, GdTl -65.8, Gd3 Tl5 -59.05 and GdTl3 -42.06.” |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Gd2Tl
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -54.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

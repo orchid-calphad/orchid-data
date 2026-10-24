@@ -16,12 +16,12 @@
   "phases/pages/**"
  ],
  "n_files": 1261,
- "total_bytes": 112396127,
+ "total_bytes": 112399385,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 26114,
-   "sha256": "94b5d9fe577c9e038d5827f01e8af1c290e67a0687a01a60e8303199cb877f6d"
+   "bytes": 29372,
+   "sha256": "b84b75559f11e24ef7b2fe5481d6c30f21c405ef015eeab94356098f358562cd"
   },
   {
    "path": "LICENSE",
@@ -81,7 +81,7 @@
   {
    "path": "phases/registry.json",
    "bytes": 7847695,
-   "sha256": "6fd39ca046f29480acb930e75358b87419876aa98374342a24a413ce3ef29363"
+   "sha256": "f75ed4c3304fffeef551bc0dbe73d271b8315db7f4c1f4a848b94fcd99d85a46"
   },
   {
    "path": "phases/registry.jsonld",
@@ -106,7 +106,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 914034,
-   "sha256": "4bfe8ade3dfe621ca3f93dcc09249f586947fe68e42fecd006017cb483a7680c"
+   "sha256": "673f1b80b59fd8f82c8b71ac75f715e508d8dfc550886f272824024176705f75"
   },
   {
    "path": "phases/structure_types.parquet",

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of CoTi2 reported in the literature (2)
 | -33.8676 kJ/mol (basis unstated) | CoTi2 | 298.15 | model |  | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html) | [1] Wu 2020 | Table 7, p. 9, row 9 |  |
 | -33.763 kJ/mol-atom | CoTi2 | 298.15 | model |  | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html) | [2] Davydov 2001 | Table V, p. 10, row 5 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CoTi2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -33.8676 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.763 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

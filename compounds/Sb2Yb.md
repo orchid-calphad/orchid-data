@@ -16,6 +16,16 @@ Table: Enthalpy of formation of Sb2Yb reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -68.29 kJ/mol-atom | YbSb2 | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Sb2Yb
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -68.29 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Jorge Paz Soldan Palma, XiaoYu Chong, Yi Wang, Shun-Li Shang, Zi-Kui Liu, Thermodynamic re-modeling of the Yb-Sb system aided by first-principles calculations, Calphad 81, 102541 (2023). [doi:10.1016/j.calphad.2023.102541](https://doi.org/10.1016/j.calphad.2023.102541)

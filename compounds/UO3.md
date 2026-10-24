@@ -27,6 +27,27 @@ Table: Enthalpy of formation of UO3 reported in the literature (12)
 | -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34 |  |
 | -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of UO3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -317.879 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -309.407 | kJ/mol-atom | 1.883 | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -307.942 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -307.001 | kJ/mol-atom | 4.184 | 1.250e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.184 |
+| -306.478 | kJ/mol-atom | 8.368 | 1.250e-4 | 4.1 (unknown, calibrated) |  |  |  | 8.368 |
+| -306.129 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -306.025 | kJ/mol-atom | 2.6 | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -305.95 | kJ/mol-atom | 2 | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -305.746 | kJ/mol-atom | 5.858 | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 5.858 |
+| -305.95 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -305.95 | kJ/mol-atom |  | 0.0125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -304.375 | kJ/mol-atom | 0.75 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

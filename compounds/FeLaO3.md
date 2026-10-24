@@ -22,6 +22,22 @@ Table: Enthalpy of formation of FeLaO3 reported in the literature (7)
 | -12.47 kJ/mol-atom | LaFeO3 | 975 | model |  | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 5 |  |
 | -12.15 kJ/mol-atom | LaFeO3 | 298.15 | model |  | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 4 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of FeLaO3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -274.696 | kJ/mol-atom | 2.61 | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -266.94 | kJ/mol-atom |  | 0.01 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -12.92 | kJ/mol-atom | 3.9 | 0.01 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.9 |
+| -12.916 | kJ/mol-atom | 3.9 | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.9 |
+| -273.64 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.47 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.15 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+
 ## Sources
 
 1. E. Povoden-Karadeniz, A. N. Grundy, M. Chen, T. Ivas, L. J. Gauckler, Thermodynamic Assessment of the La-Fe-O System, J. Phase Equilib. Diffus. 30, 351-366 (2009). [doi:10.1007/s11669-009-9501-6](https://doi.org/10.1007/s11669-009-9501-6)

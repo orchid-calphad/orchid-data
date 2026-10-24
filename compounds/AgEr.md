@@ -18,6 +18,18 @@ Table: Enthalpy of formation of AgEr reported in the literature (3)
 | -44 kJ/mol-atom | AgEr |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 21 |  |
 | -34.488 kJ/mol-atom | AgEr | 298.15 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 19 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AgEr
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -44.9 | kJ/mol-atom | 3.2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -44 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -34.488 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

@@ -17,6 +17,17 @@ Table: Enthalpy of formation of SiTi3 reported in the literature (2)
 | -42.33 kJ/mol-atom | Ti3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
 | -41.57 kJ/mol-atom | Ti3Si(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of SiTi3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -42.33 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -41.57 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+
 ## Sources
 
 1. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)

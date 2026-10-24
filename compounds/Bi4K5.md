@@ -19,6 +19,19 @@ Table: Enthalpy of formation of Bi4K5 reported in the literature (4)
 | -42.1 kJ/mol-atom | Bi4K5 | 523 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 9 |  |
 | -50.2 kJ/mol-atom ± 12.6 | Bi4K5 | 627 | unspecified |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Bi4K5
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -38.1 | kJ/mol-atom | 2.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -50.2 | kJ/mol-atom | 12.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 12.6 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

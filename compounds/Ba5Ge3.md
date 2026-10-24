@@ -17,6 +17,17 @@ Table: Enthalpy of formation of Ba5Ge3 reported in the literature (2)
 | -56.88 kJ/mol-atom | Ba5Ge3 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 22 |  |
 | -56.88 kJ/mol-atom | Ba5Ge3 | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 21 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of Ba5Ge3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -56.88 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.88 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

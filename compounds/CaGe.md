@@ -20,6 +20,20 @@ Table: Enthalpy of formation of CaGe reported in the literature (5)
 | -63.9 kJ/mol-atom | CaGe | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 16 |  |
 | -64.3 kJ/mol-atom | CaGe | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 14 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of CaGe
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -67.8 | kJ/mol-atom | 2.8 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -57.5 | kJ/mol-atom | 10 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10 |
+| -76.3627 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -63.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## DFT formation energies
 
 Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.

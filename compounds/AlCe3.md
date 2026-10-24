@@ -16,6 +16,16 @@ Table: Enthalpy of formation of AlCe3 reported in the literature (1)
 |---:|---|---:|---|---|---|---|---|---|
 | -15.013 kJ/mol-atom | βAlCe3 | 0 | DFT | first principles | [Al–Ce–Nd](https://data.orchid-project.org/systems/AL-CE-ND.html) | [1] Gao 2005 | Table I, p. 6, row 8 |  |
 
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AlCe3
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -15.013 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+
 ## Sources
 
 1. Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005). [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y)
